@@ -1,0 +1,1451 @@
+{
+  "_id": "1949",
+  "city_name": "Greater Noida",
+  "is_searchable": true,
+  "place_id": 1949,
+  "country_name": "India",
+  "city_name_search": "greater noida",
+  "longitude": 77.50707,
+  "parent_id": 86706,
+  "popularity": 572,
+  "manual_description": null,
+  "subcategory": "city",
+  "state_name": "Uttar Pradesh",
+  "bounds": [
+    77.41255,
+    28.37962,
+    77.61944,
+    28.6171
+  ],
+  "position": {
+    "geohash": "ttp1gwwzv",
+    "geopoint": {
+      "latitude": 28.469692,
+      "longitude": 77.50707
+    }
+  },
+  "latitude": 28.469692,
+  "image_key": "pPGOgx1itGX3UlZ1WsPmJzVSBU9AIerF",
+  "depth": 3,
+  "place_description": "Greater Noida is a planned city located in the Gautam Buddha Nagar district of the Indian state of Uttar Pradesh. The city was created as an extension of the area under the UP Industrial Area Development Act, of 1976. Wikipedia.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "India"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "1002",
+        "subcategory": "city",
+        "parentId": 87065,
+        "countryName": "India",
+        "id": 1002,
+        "longitude": 77.67424,
+        "bounds": [
+          77.63145,
+          27.41627,
+          77.73685,
+          27.53248
+        ],
+        "latitude": 27.49183,
+        "depth": 4,
+        "stateName": "Uttar Pradesh",
+        "popularity": 1786,
+        "name": "Mathura"
+      },
+      {
+        "_id": "1241",
+        "subcategory": "city",
+        "parentId": 87132,
+        "countryName": "India",
+        "id": 1241,
+        "longitude": 76.61239,
+        "bounds": [
+          76.57763,
+          27.48954,
+          76.71513,
+          27.61974
+        ],
+        "latitude": 27.55561,
+        "depth": 4,
+        "stateName": "Rajasthan",
+        "popularity": 2627,
+        "name": "Alwar"
+      },
+      {
+        "_id": "13",
+        "subcategory": "city",
+        "parentId": 86660,
+        "countryName": "India",
+        "id": 13,
+        "longitude": 77.22978,
+        "bounds": [
+          77.07301,
+          28.4041,
+          77.34496,
+          28.70539
+        ],
+        "latitude": 28.612072,
+        "depth": 3,
+        "stateName": "National Capital Territory of Delhi",
+        "popularity": 108050,
+        "name": "New Delhi"
+      },
+      {
+        "_id": "1306",
+        "subcategory": "city",
+        "parentId": 87152,
+        "countryName": "India",
+        "id": 1306,
+        "longitude": 77.31254,
+        "bounds": [
+          77.24838,
+          28.29129,
+          77.38977,
+          28.513
+        ],
+        "latitude": 28.39262,
+        "depth": 4,
+        "stateName": "Haryana",
+        "popularity": 546,
+        "name": "Faridabad"
+      },
+      {
+        "_id": "1792",
+        "subcategory": "city",
+        "parentId": 87303,
+        "countryName": "India",
+        "id": 1792,
+        "longitude": 77.71354,
+        "bounds": [
+          77.62141,
+          28.90187,
+          77.77651,
+          29.07265
+        ],
+        "latitude": 29.05031,
+        "depth": 4,
+        "stateName": "Uttar Pradesh",
+        "popularity": 391,
+        "name": "Meerut"
+      },
+      {
+        "_id": "1874",
+        "subcategory": "city",
+        "parentId": 87065,
+        "countryName": "India",
+        "id": 1874,
+        "longitude": 77.6855,
+        "bounds": [
+          77.60639,
+          27.53506,
+          77.71235,
+          27.59457
+        ],
+        "latitude": 27.56472,
+        "depth": 4,
+        "stateName": "Uttar Pradesh",
+        "popularity": 3094,
+        "name": "Vrindavan"
+      },
+      {
+        "_id": "207",
+        "subcategory": "city",
+        "parentId": 86815,
+        "countryName": "India",
+        "id": 207,
+        "longitude": 77.0262,
+        "bounds": [
+          76.85692,
+          28.3038,
+          77.12258,
+          28.54212
+        ],
+        "latitude": 28.46017,
+        "depth": 4,
+        "stateName": "Haryana",
+        "popularity": 10566,
+        "name": "Gurugram (Gurgaon)"
+      },
+      {
+        "_id": "563",
+        "subcategory": "city",
+        "parentId": 86946,
+        "countryName": "India",
+        "id": 563,
+        "longitude": 77.38625,
+        "bounds": [
+          77.2937,
+          28.39721,
+          77.50256,
+          28.6363
+        ],
+        "latitude": 28.53519,
+        "depth": 4,
+        "stateName": "Uttar Pradesh",
+        "popularity": 3467,
+        "name": "Noida"
+      },
+      {
+        "_id": "7678",
+        "subcategory": "city",
+        "parentId": 87962,
+        "countryName": "India",
+        "id": 7678,
+        "longitude": 77.09673,
+        "bounds": [
+          77.0766,
+          28.90822,
+          77.12226,
+          28.94552
+        ],
+        "latitude": 28.926813,
+        "depth": 4,
+        "stateName": "Haryana",
+        "popularity": 2,
+        "name": "Rai"
+      },
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "India"
+      },
+      {
+        "_id": "87065",
+        "subcategory": "district",
+        "parentId": 86706,
+        "countryName": "India",
+        "id": 87065,
+        "longitude": 77.56404,
+        "bounds": [
+          77.28595,
+          27.2374,
+          77.9889,
+          27.97886
+        ],
+        "latitude": 27.582983,
+        "depth": 3,
+        "stateName": "Uttar Pradesh",
+        "popularity": 4770,
+        "name": "Mathura District"
+      },
+      {
+        "_id": "87273",
+        "subcategory": "district",
+        "parentId": 86706,
+        "countryName": "India",
+        "id": 87273,
+        "longitude": 77.3125,
+        "bounds": [
+          77.12409,
+          28.77663,
+          77.50549,
+          29.30191
+        ],
+        "latitude": 29.022976,
+        "depth": 3,
+        "stateName": "Uttar Pradesh",
+        "popularity": 376,
+        "name": "Baghpat District"
+      },
+      {
+        "_id": "923",
+        "subcategory": "city",
+        "parentId": 87042,
+        "countryName": "India",
+        "id": 923,
+        "longitude": 77.40902,
+        "bounds": [
+          77.23379,
+          28.60234,
+          77.55627,
+          28.79696
+        ],
+        "latitude": 28.67798,
+        "depth": 4,
+        "stateName": "Uttar Pradesh",
+        "popularity": 822,
+        "name": "Ghaziabad"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ3-PXWtnBDDkR81iFSG8hBdI",
+        "prev_detail_description": "Located in Sector 62, the India Expo Centre & Mart is the largest exposition and convention center in Asia. It hosts a wide range of exhibitions, seminars, and events, making it an ideal destination for staying updated on industry trends. The venue offers spacious exhibition halls and well-equipped conference rooms with top-notch facilities. Its convenient location and accessibility add to its appeal. The center's environmentally friendly design includes green gardens, large trees, well-maintained roads, and ample parking spaces.",
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/290963",
+        "longitude": 77.500532,
+        "rating": 4.5,
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Largest exposition center in Asia located in Greater Noida, hosting major events and exhibitions, making it an important local attraction.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-12-10T15:01:47.665000+00:00"
+        },
+        "imageKeys": [
+          "ofbeDS7CRN6oGZsAG1XKTtXCw227JvcS",
+          "bCn0DSuuyfs7cOPysAOZC9TbjtQ0quEf",
+          "XxzjVZFzUVIavRFunB0n6yjESqYMzRbH",
+          "ofbeDS7CRN6oGZsAG1XKTtXCw227JvcS",
+          "bCn0DSuuyfs7cOPysAOZC9TbjtQ0quEf",
+          "XxzjVZFzUVIavRFunB0n6yjESqYMzRbH"
+        ],
+        "ratingCount": 33568,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-12-10T19:13:38.927895+00:00",
+        "name": "INDIA EXPO CENTRE & MART",
+        "placeId": "ChIJ3-PXWtnBDDkR81iFSG8hBdI",
+        "detail_description": "India Expo Centre & Mart in Greater Noida hosts exhibitions, seminars, and events in Asia's largest convention center. It features spacious halls, modern facilities, green gardens, and ample parking for a convenient visit.",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "We have visited this place today. Biggest electrical exhibition I have even seen. There is a free parking near by named NASA parking. There are more than 1000+ exhibitors are presented in exhibition. My uncle also placed 1 stall in this for the campaign of his company. Most of them exhibited are electric based solutions and Motor and Generator related stalls. One is having any requirement for any industrial things, they can visit here for getting good deals.",
+            "author_name": "Srinivas N",
+            "relative_time_description": "",
+            "time": 1740243946,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "India Expo Centre and Mart Auto Expo is a perfect venue for automobile enthusiasts! The place is well-planned, accessible, and vast enough to accommodate numerous shows. The venue is highly well-equipped with clean amenities and spacious parking space. It's the right destination to witness new innovations in the automobile industry. The layout of the Expo is such that it makes navigation through the different sections very easy. The variety of vehicles on display is impressive. It is a must-visit for any car, bike, and automotive technology enthusiast!",
+            "author_name": "VIKAS PAL",
+            "relative_time_description": "",
+            "time": 1737440132,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "I did visit this area during my business trip on Feb 25. - visiting ELECRAMA 2025:\n-nice atmosphere\n-high standard - following European exhibitions\n-very good prepared and experienced supplier for new cooperation with Europe and the world markets\n-all halls equipped with air conditioner\n-good food corners and beer gartens",
+            "author_name": "Libor Záborský ; Ing",
+            "relative_time_description": "",
+            "time": 1740926872,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 120 232 8011",
+        "g_description": "",
+        "image_url": "",
+        "city": "Greater Noida",
+        "types": [
+          "Conference center",
+          "Convention center",
+          "Exhibition and trade center"
+        ],
+        "website": "http://indiaexpomart.com/",
+        "index": 1,
+        "prev_excerpt": "Located in Sector 62, the India Expo Centre & Mart is the largest exposition and convention center in Asia. It hosts a wide range of exhibitions, seminars, and events, making it an ideal destination f",
+        "excerpt": "India Expo Centre & Mart in Greater Noida hosts exhibitions, seminars, and events in Asia's largest convention center.",
+        "g_image_urls": [],
+        "country": "",
+        "address": "Plot No. 23/25, 27/29, Knowledge Park II, Greater Noida, Uttar Pradesh 201306, India",
+        "latitude": 28.461767
+      },
+      {
+        "_id": "ChIJ7bcfWiXADDkRFS8wr_7GbaA",
+        "prev_detail_description": "MSX Mall, located in Pari Chowk, Greater Noida, is one of the oldest malls in the area. It offers a wide collection of clothing stores featuring both national and international brands as well as a movie theatre. The mall also houses popular brands like Haldiram and Domino's along with smaller shops. With free parking available, it's a budget-friendly outing destination.",
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/290963",
+        "longitude": 77.52814,
+        "rating": 3.6,
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 80,
+          "heuristic_triggers": [
+            "ok_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 80,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "MSX Mall is one of the older malls in Greater Noida with a variety of shops and a movie theatre, but it lacks unique features or cultural significance that would elevate it to a major attraction.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-12-10T15:01:47.665000+00:00"
+        },
+        "imageKeys": [
+          "8J9k3lOuaLZHijsQT7LmBFQLVllwXuFX",
+          "jB5b6HZrUWLYCIYt8LqQ3us3FP6sbd1b",
+          "5LrDOwjQUttpfwxY4JZVHyM5dtUY0zRZ",
+          "8J9k3lOuaLZHijsQT7LmBFQLVllwXuFX",
+          "jB5b6HZrUWLYCIYt8LqQ3us3FP6sbd1b",
+          "5LrDOwjQUttpfwxY4JZVHyM5dtUY0zRZ"
+        ],
+        "ratingCount": 9415,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2200",
+              "day": 0
+            },
+            "open": {
+              "time": "1100",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 1
+            },
+            "open": {
+              "time": "1100",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 2
+            },
+            "open": {
+              "time": "1100",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 3
+            },
+            "open": {
+              "time": "1100",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 4
+            },
+            "open": {
+              "time": "1100",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 5
+            },
+            "open": {
+              "time": "1100",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 6
+            },
+            "open": {
+              "time": "1100",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-12-10T19:13:40.735617+00:00",
+        "name": "MSX Mall",
+        "placeId": "ChIJ7bcfWiXADDkRFS8wr_7GbaA",
+        "detail_description": "MSX Mall in Pari Chowk, Greater Noida, features diverse clothing stores, a movie theatre, and popular eateries like Haldiram and Domino's. It offers free parking and budget-friendly shopping and dining options.",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Its a really cool place to hangout and visit with friends and family.  All shops and salons give a warm welcome and kids enjoy their outing  thoroughly, its also a favorite mall of my youngest son as we have circle it out as one.  Haldiram and dominos pizza , cakes and Nazeer restaurant makes it complete for family get-together..",
+            "author_name": "Shirin Rupwate",
+            "relative_time_description": "",
+            "time": 1754170348,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "This mall is not good. Most OF Shop vacant. Main attractions only cinoport movie Hall.\nIn summer AC is not working but this mall covered 😕.\nThis mall looks like a flop mall.\nFree CAR parking available here for movie watchers.",
+            "author_name": "khemchand jatav",
+            "relative_time_description": "",
+            "time": 1744555670,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 2,
+            "text": "Not at all good....almost empty with very less number of shops operating. Most of the brands are not worth barring Dominos and Haldiram eateries.",
+            "author_name": "Shiva B",
+            "relative_time_description": "",
+            "time": 1753020023,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 120 454 4001",
+        "g_description": "",
+        "image_url": "",
+        "city": "Greater Noida",
+        "types": [
+          "Shopping mall",
+          "Shopping"
+        ],
+        "website": null,
+        "index": 6,
+        "prev_excerpt": "MSX Mall, located in Pari Chowk, Greater Noida, is one of the oldest malls in the area. It offers a wide collection of clothing stores featuring both national and international brands as well as a mov",
+        "excerpt": "MSX Mall in Pari Chowk, Greater Noida, features diverse clothing stores, a movie theatre, and popular eateries like…",
+        "g_image_urls": [],
+        "country": "",
+        "address": "601 – 602, 6th Floor, Ocean Heights, Sector – 18 Block F, Industrial Area, Sector Swarn Nagri, Plot No. K-4, 4th Ave, Greater Noida, Uttar Pradesh 201315, India",
+        "latitude": 28.457984
+      },
+      {
+        "_id": "ChIJ9eGTRgflDDkRBlVYX1upJIY",
+        "prev_detail_description": "During my recent visit to the Noida Cricket Stadium, I was pleasantly surprised by the refreshing atmosphere and natural surroundings that set it apart from typical sports venues. The open-air design not only enhances ventilation but also creates a relaxed environment for both athletes and spectators, even during bustling events. This modern stadium has quickly established itself as a key landmark in Noida, boasting impressive infrastructure with ample seating and great visibility from every angle.",
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/290963",
+        "longitude": 77.339472,
+        "rating": 4.5,
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 95,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular sports venue with good reviews but lacks unique cultural or historical significance to be a major attraction in Greater Noida.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-12-10T15:01:47.665000+00:00"
+        },
+        "imageKeys": [
+          "99ETC37F5oIODbn9f2TzC0rclB9PJsky",
+          "DnesVLgoj4zytJ84gyctExcGE0JLg8by",
+          "TMHOLsIptfS5GrQU8sGyDJPEUu713rku",
+          "99ETC37F5oIODbn9f2TzC0rclB9PJsky",
+          "DnesVLgoj4zytJ84gyctExcGE0JLg8by",
+          "TMHOLsIptfS5GrQU8sGyDJPEUu713rku"
+        ],
+        "ratingCount": 7187,
+        "openingPeriods": [],
+        "content_updated_at": "2025-12-10T19:13:43.106414+00:00",
+        "name": "Noida Cricket Stadium",
+        "placeId": "ChIJ9eGTRgflDDkRBlVYX1upJIY",
+        "detail_description": "Noida Cricket Stadium offers a modern, open-air design with excellent ventilation and clear views from every seat. Surrounded by natural greenery, it provides a refreshing atmosphere for players and fans alike.",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Visited the stadium to attend the popular Uttrakhand fair for the first time with my nieces. The fair attracts a huge crowd and runs for perhaps a week or more.\nBeing a Sunday the crowd was overwhelming the like of which you would only see in Maha Kumbh.\nMajor attractions are Food courts, amusement rides and shops selling products from uttrakhand from clothes to farm products.\nAn open DJ playing traditional pahadi songs and an ecstatic crowd of over a hundred strong dancing away to glory was an ultimate sight.\nVery well managed by the organisers.",
+            "author_name": "Kundan Powar",
+            "relative_time_description": "",
+            "time": 1735136713,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Huge stadium and very well maintained place. It has a huge parking space as well.\nAlong with cricket, one can enjoy skatimg rink, jogging track  lawn tennis and other games. Located in prime location it offers a very good place for promoting games and sports.",
+            "author_name": "Samya Das gupta",
+            "relative_time_description": "",
+            "time": 1732299243,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "The Noida Cricket Stadium is one of the city's finest sporting facilities, offering not just a professional-grade cricket ground but also a range of sports options for local athletes and enthusiasts. Beautifully maintained and thoughtfully designed, it stands as a testament to Noida's growing sports culture and infrastructure.\n\nPros:\nThe stadium's lush green outfield, well-kept pitch, and modern stands make it an excellent venue for both local and professional matches. Over the years, it has also hosted events like the Pro Kabaddi League, showcasing its versatility and capacity to accommodate large-scale sporting events.\n\nIts location is another major advantage - easily accessible via metro and main roads, making it convenient for players and spectators alike. The facilities add to the experience - from a decent canteen serving refreshments to a small sports shop for last-minute gear purchases. The parking space is ample, well-managed, and safe, which is a huge plus during events.\n\nCons:\nWhile the infrastructure is solid, more frequent hosting of larger tournaments and leagues would help the stadium gain greater national visibility. A bit more crowd engagement during local events could also make the atmosphere livelier.\n\nConclusion:\nOverall, the Noida Cricket Stadium is a wonderful blend of accessibility, aesthetics, and functionality. It's not just a place for professional matches but a vibrant hub for community sports and fitness activities. With a little more event diversity and promotion, it has the potential to become one of NCR's most celebrated sports landmarks.",
+            "author_name": "Ankur Bagai",
+            "relative_time_description": "",
+            "time": 1760288784,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 120 242 2081",
+        "g_description": "",
+        "image_url": "",
+        "city": "Greater Noida",
+        "types": [
+          "Stadium",
+          "Sights & Landmarks",
+          "Arenas & Stadiums"
+        ],
+        "website": null,
+        "index": 3,
+        "prev_excerpt": "During my recent visit to the Noida Cricket Stadium, I was pleasantly surprised by the refreshing atmosphere and natural surroundings that set it apart from typical sports venues. The open-air design ",
+        "excerpt": "Noida Cricket Stadium offers a modern, open-air design with excellent ventilation and clear views from every seat.",
+        "g_image_urls": [],
+        "country": "",
+        "address": "Sector 21A, Noida, Uttar Pradesh 201307, India",
+        "latitude": 28.589799
+      },
+      {
+        "_id": "ChIJVV4dVTDADDkRwt02xANyB_Q",
+        "prev_detail_description": "The Grand Venice Mall, also known as TGV mall, is an Italian-themed shopping center that aims to recreate the magic of Venice. With its Venetian-style architecture, canals, and gondola rides, it offers a unique experience for visitors. The mall features replicas of famous Venetian structures like the Leaning Tower of Pisa and Roman sculptures. It's not just a shopping destination but also an architectural delight and entertainment spot.\n\nShopping mall featuring Venetian-style architecture, canals & gondola rides & an ample food court.",
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/290963",
+        "longitude": 77.52573,
+        "rating": 4.2,
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Unique Italian-themed mall with Venetian architecture and gondola rides, popular among visitors in Greater Noida.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-12-10T15:01:47.665000+00:00"
+        },
+        "imageKeys": [
+          "Ue7u025hmnmzauMy9pY8OTWhiuZRHiPH",
+          "ykqyFgYvK0gGFjHn35mLogXmG5hYgUVn",
+          "qlcNi7Gu80xgXNOt7GkkJ2DwA1Iuhn0D",
+          "HlypORu2AGI7E1mHELTAjtcQoo9sZg0f",
+          "Ue7u025hmnmzauMy9pY8OTWhiuZRHiPH",
+          "ykqyFgYvK0gGFjHn35mLogXmG5hYgUVn",
+          "qlcNi7Gu80xgXNOt7GkkJ2DwA1Iuhn0D",
+          "HlypORu2AGI7E1mHELTAjtcQoo9sZg0f"
+        ],
+        "ratingCount": 50313,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2200",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-12-10T19:13:45.458199+00:00",
+        "name": "The Grand Venice Mall",
+        "placeId": "ChIJVV4dVTDADDkRwt02xANyB_Q",
+        "detail_description": "The Grand Venice Mall in Greater Noida features Venetian-style architecture, canals, and gondola rides. Enjoy shopping, dining, and replicas of famous Italian landmarks in a unique, immersive setting.",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Great Experience.\nAmazing infrastructure, based on Italy theme. Too many shops and also a large food court to eat. Also, there is a game centre. Also, there is boating facility, which will cost you rs.300 per person on weekdays and rs.400 on weekends. Overall, a new and good experience.",
+            "author_name": "ARJUN",
+            "relative_time_description": "",
+            "time": 1757054682,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "The ambiance is uniquely calming and relaxing, thanks to the Venice theme. However, the mall is not well-maintained, with many areas showing neglect, and a large number of closed and empty stores make the atmosphere feel disappointingly deserted. Great concept, poor execution.",
+            "author_name": "Prashant Pandey",
+            "relative_time_description": "",
+            "time": 1758824292,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "The Grand Venice Mall is praised for its unique Venetian-style architecture, including gondola rides on internal canals, a replica of the Leaning Tower of Pisa, and a vibrant atmosphere. Visitors appreciate the variety of shops, a large food court with diverse options, and entertainment such as movies and a live show. However, some downsides noted in reviews include the cost of the gondola ride, which is sometimes described as expensive for the duration, and the ongoing construction in some areas. Overall, it's considered a unique destination for a few hours of entertainment and shopping, though its appeal as a primary destination for serious shoppers is debated, especially for those in nearby Delhi.\nPositive aspects:\nUnique architecture: The mall is noted for its Venetian theme, including canals and gondola rides.\nVariety of options: Reviewers mention a good range of branded shops, a large food court, a movie hall, and other entertainment options.\nAtmosphere: Many find the ambiance to be aesthetically pleasing and a good place for family outings.\nNegative aspects:\nCost: The gondola ride is frequently mentioned as being expensive for the short duration.\nConstruction: Some parts of the mall are still under construction, which can be a drawback.",
+            "author_name": "Ragib Samdani",
+            "relative_time_description": "",
+            "time": 1762029942,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 88606 66666",
+        "g_description": "",
+        "image_url": "",
+        "city": "Greater Noida",
+        "types": [
+          "Shopping mall",
+          "Shopping",
+          "Clothing store"
+        ],
+        "website": "https://veniceindia.com/",
+        "index": 0,
+        "prev_excerpt": "The Grand Venice Mall, also known as TGV mall, is an Italian-themed shopping center that aims to recreate the magic of Venice. With its Venetian-style architecture, canals, and gondola rides, it offer",
+        "excerpt": "The Grand Venice Mall in Greater Noida features Venetian-style architecture, canals, and gondola rides.",
+        "g_image_urls": [],
+        "country": "",
+        "address": "Plot No SH3, near Pari Chowk, Block B, Site IV, Surajpur Site 4, Greater Noida, Uttar Pradesh 201315, India",
+        "latitude": 28.453294
+      },
+      {
+        "_id": "ChIJWwuh1brbDDkR5mg5u_Kge_c",
+        "prev_detail_description": null,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/290963",
+        "longitude": 77.320118,
+        "rating": 4,
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 90,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular park with good local reviews but lacks unique cultural significance or widespread fame in Greater Noida.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-12-10T15:01:47.665000+00:00"
+        },
+        "imageKeys": [
+          "Bg8JduzEIlQD5ZRtFUSDLPxvdbdKYMGD",
+          "ES66OOJnRWVke2kpwVi4v3P2pDzU7zSA",
+          "W5TmgZLlc9EIr74NKhgxSJN3O9caoxjv",
+          "Bg8JduzEIlQD5ZRtFUSDLPxvdbdKYMGD",
+          "ES66OOJnRWVke2kpwVi4v3P2pDzU7zSA",
+          "W5TmgZLlc9EIr74NKhgxSJN3O9caoxjv"
+        ],
+        "ratingCount": 3372,
+        "openingPeriods": [],
+        "content_updated_at": "2025-12-10T19:13:47.235123+00:00",
+        "name": "City Park",
+        "placeId": "ChIJWwuh1brbDDkR5mg5u_Kge_c",
+        "detail_description": "City Park in Greater Noida offers green spaces and walking paths for relaxation and outdoor activities, perfect for a peaceful break from the city.",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Very Big & Nice Park with a lot of Greenery all around. Great Place to Hangout with Friends & Family. Beware of Monkeys though as they will try to steal your food. 😅",
+            "author_name": "Avinash Kumar Chauhan",
+            "relative_time_description": "",
+            "time": 1728219744,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Biggest Park of Ballabgarh City. Its very nice to enjoy here in vacant time.\nThere is a running track too.\nVery green and beautiful park it.\nBut some rejuvenation needs to be done here as I see less maintainance here.",
+            "author_name": "MD AZAZ (Mohammad Azaz Khan)",
+            "relative_time_description": "",
+            "time": 1685352479,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Best place to walk ,running ,play and enjoy with family at evening or morning ,you can do yoga with existing yoga peoples on daily basis .\n\nBasket ball ground available there .\nExercise equipment available there.\nGreen plants available there.\nAnd 💺 seats for sitting available there .",
+            "author_name": "JEE CREATION",
+            "relative_time_description": "",
+            "time": 1748949167,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "",
+        "city": "Greater Noida",
+        "types": [
+          "Park"
+        ],
+        "website": null,
+        "index": 4,
+        "prev_excerpt": null,
+        "excerpt": "City Park in Greater Noida offers green spaces and walking paths for relaxation and outdoor activities, perfect for a…",
+        "g_image_urls": [],
+        "country": "",
+        "address": "near, Ambedkar Chowk, Mukesh Colony, Ballabhgarh, Faridabad, Haryana 121004, India",
+        "latitude": 28.337292
+      },
+      {
+        "_id": "ChIJbRn09BPHDDkRmCDu2Em6LW8",
+        "prev_detail_description": "Buddh International Circuit is a world-renowned 5.14 km racetrack designed to meet the needs of high-speed racing vehicles and motorbikes. With its combination of fast straights, elevations, and 16 corners, it offers an exhilarating experience for motorsports enthusiasts. The circuit hosts thrilling Formula 1 races and MotoGP events in an electrifying atmosphere that fuels the passion for racing.",
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/290963",
+        "longitude": 77.535092,
+        "rating": 4.6,
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Buddh International Circuit is a world-class motorsport venue known internationally and a key attraction in Greater Noida, appealing strongly to racing fans and tourists interested in automotive sport",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-12-10T15:01:47.665000+00:00"
+        },
+        "imageKeys": [
+          "VKGh0x3DPKKzbM4g7iOpoVbj9vQxkmL6",
+          "qg9AAg6Fj2sf34phF3KWpOD6T9vPMXeL",
+          "YT0fXVnmpAwhWIKg9oQRHGCfiOmcFPyl",
+          "VKGh0x3DPKKzbM4g7iOpoVbj9vQxkmL6",
+          "qg9AAg6Fj2sf34phF3KWpOD6T9vPMXeL",
+          "YT0fXVnmpAwhWIKg9oQRHGCfiOmcFPyl"
+        ],
+        "ratingCount": 7727,
+        "openingPeriods": [],
+        "content_updated_at": "2025-12-10T19:13:48.989933+00:00",
+        "name": "Buddh International Circuit",
+        "placeId": "ChIJbRn09BPHDDkRmCDu2Em6LW8",
+        "detail_description": "Buddh International Circuit in Greater Noida is a 5.14 km racetrack with fast straights and 16 corners. It hosts high-speed Formula 1 and MotoGP races, offering an exciting experience for motorsport fans.",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Its a beautiful memory to have run a 5km on the track itself in dec 2015. And that time the track was new. Have been to at other time of truck racing. The place needs to be maintained.",
+            "author_name": "StorybyAnupama",
+            "relative_time_description": "",
+            "time": 1753225498,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 1,
+            "text": "The place is rotting away. Either the management has to look into it or it needs to organise frequent events so that it could be and sustain in a good shape.\nBut whatever the places downfalls are redeemed by the racetrack. It is exceptionally well made! The Asphalt is perfection. What an amazing piece of asphalt they have is utterly brilliant. Best in the country.\nOften there are track day events and Ducati India events conducted. So you can catch up with a few very fast guys around and some pros of the industry.\nFirst is the registration building where you have to fill up the formalities after which you are given your wrist band which permits your entries to different places. After that you are allowed to enter the paddock sides if you want to go there.",
+            "author_name": "Harshvardhan Singh Chouhan",
+            "relative_time_description": "",
+            "time": 1742881770,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "ddh International Circuit (BIC) in Greater Noida is India's premier world-class motorsport destination, known for its thrilling 5.1 km track designed by Hermann Tilke. Featuring 16 challenging turns, fast straights, and dramatic elevation changes, the circuit offers an exceptional racing experience for both drivers and spectators. BIC has hosted iconic events like Formula 1 and MotoGP, earning global praise for its layout, paddock facilities, and state-of-the-art infrastructure. With professional garages, a grand paddock club, advanced race control, and excellent viewing areas, the circuit stands as a milestone in Indian motorsport culture-perfect for car enthusiasts, racing events, track days, and high-speed experiences",
+            "author_name": "Jatin Sonwal",
+            "relative_time_description": "",
+            "time": 1763546721,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 120 442 9498",
+        "g_description": "",
+        "image_url": "",
+        "city": "Greater Noida",
+        "types": [
+          "Car racing venue",
+          "Sights & Landmarks",
+          "Auto Race Tracks"
+        ],
+        "website": "http://buddhinternationalcircuit.in/",
+        "index": 2,
+        "prev_excerpt": "Buddh International Circuit is a world-renowned 5.14 km racetrack designed to meet the needs of high-speed racing vehicles and motorbikes. With its combination of fast straights, elevations, and 16 co",
+        "excerpt": "Buddh International Circuit in Greater Noida is a 5.14 km racetrack with fast straights and 16 corners.",
+        "g_image_urls": [],
+        "country": "",
+        "address": "Yamuna Expy, Jaypee Sports City, Sector 25, Greater Noida, Uttar Pradesh 203201, India",
+        "latitude": 28.350494
+      },
+      {
+        "_id": "ChIJfUBliLfrDDkRZu5j7FqHCI8",
+        "prev_detail_description": "Absar Ghamla is a delightful bird sanctuary that offers an incredible opportunity to observe a diverse range of local and migratory bird species throughout the year. This serene spot is perfect for family outings, especially with food stalls conveniently located outside the entrance. For a truly enjoyable experience, pack a picnic and relax on the grassy areas while soaking in nature's beauty. The best times to witness the vibrant avian life are during early mornings and late afternoons when birds are most active.\n\nHundreds of local & migratory bird species can be viewed in all seasons at this dedicated sanctuary.",
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/290963",
+        "longitude": 77.483518,
+        "rating": 4.2,
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 90,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular bird sanctuary offering nature experiences, but not widely known beyond local visitors or a defining attraction of Greater Noida.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-12-10T15:01:47.665000+00:00"
+        },
+        "imageKeys": [
+          "gpeTdJNEOg3Q4qhQMPwkLq9KRAkpaUxC",
+          "jFBG9vuzD0CZtLEeVO3rQ8JYBKTbYKUQ",
+          "ZIEm0azeCqNEtq3mdvQPKRHdRkjrkYSb",
+          "gpeTdJNEOg3Q4qhQMPwkLq9KRAkpaUxC",
+          "jFBG9vuzD0CZtLEeVO3rQ8JYBKTbYKUQ",
+          "ZIEm0azeCqNEtq3mdvQPKRHdRkjrkYSb"
+        ],
+        "ratingCount": 1028,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-12-10T19:13:51.000464+00:00",
+        "name": "Absar. Ghamla",
+        "placeId": "ChIJfUBliLfrDDkRZu5j7FqHCI8",
+        "detail_description": "Absar Ghamla is a peaceful bird sanctuary in Greater Noida, home to many local and migratory birds year-round. Enjoy picnics on grassy areas and visit food stalls nearby. Early mornings and late afternoons offer the best birdwatching.",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Fantastic Experience with nature. You get to see winter immigrant birds here. Free entry. It is nice to take break from your monotonous life and spend few time at bird sanctuary. Quite maintained but watch towers are under construction. Once it is completed, you will get awesome view of birds from Siberia and Russia. Must visit between Nov till Jan End. Highly recommended",
+            "author_name": "Satyam Barkataky",
+            "relative_time_description": "",
+            "time": 1706385911,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "This place is just amazing, far from the city but near from the nature. You can see different kind of birds, you can relax your mind here. If you're facing some depression or tension do visit this place once in your life. I love this place so so so much. Too many trees through many green tree just love it. If you near to Surajpur do visit guys. If you want to click photos aur do a photoshoot then also visit this place. They are benches so you can relax there.",
+            "author_name": "Shivam Deoliya",
+            "relative_time_description": "",
+            "time": 1600409875,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Nice place to Visit with family and friends, now shops are open out side of the gate for food. It is better if you have some food with you to get together by sitting on the grass with family and friends.\n\nBest time to see the birds in the morning and evening. Always carry a zoom camera (SLR/DSLR) for better view of birds.\n\nBest place for children to roam around the sanctuary. Also children can learn all abouts birds.\n\nParking place available for four wheeler & two wheeler in side the gate.",
+            "author_name": "Gopabandhu Nayak",
+            "relative_time_description": "",
+            "time": 1662535008,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "",
+        "city": "Greater Noida",
+        "types": [
+          "Park",
+          "Nature & Parks",
+          "Plant nursery",
+          "Forests",
+          "Nature & Wildlife Areas"
+        ],
+        "website": "http://surajpurwetland-up.com/index.php",
+        "index": 7,
+        "prev_excerpt": "Absar Ghamla is a delightful bird sanctuary that offers an incredible opportunity to observe a diverse range of local and migratory bird species throughout the year. This serene spot is perfect for fa",
+        "excerpt": "Absar Ghamla is a peaceful bird sanctuary in Greater Noida, home to many local and migratory birds year-round.",
+        "g_image_urls": [],
+        "country": "",
+        "address": "GF6M+XCC, 4, 4th St, near Grand Venice Mall, Industrial Area, Surajpur, Greater Noida, Uttar Pradesh 201306, India",
+        "latitude": 28.512441
+      },
+      {
+        "_id": "ChIJpZOLCXZ3czkRkObFYHSHjOA",
+        "prev_detail_description": "Krishna temple set in leafy gardens, with a large ritual bathing pool & a free-roaming deer herd.\n\nKrishna temple set in leafy gardens, with a large ritual bathing pool & a free-roaming deer herd.",
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/290963",
+        "longitude": 77.728204,
+        "rating": 4.7,
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular Krishna temple with unique features like a ritual bathing pool and free-roaming deer, attracting many visitors locally.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-12-10T15:01:47.665000+00:00"
+        },
+        "imageKeys": [
+          "KM3n9YxEoRfobEoqjZUd8PeXetc0C1Q4",
+          "oYzX2rIq6t5xZRYfOQKBgvs7WmB9tDHr",
+          "FDGNkgdj8blvH9cSDiPqwxncfn9SAdp2",
+          "p1oSrZB61EEEwseKPv0d9PeWJevPBml2",
+          "uZYuRjy8nUIwcUpiQbtgwvoR95uMbL3t",
+          "KM3n9YxEoRfobEoqjZUd8PeXetc0C1Q4",
+          "oYzX2rIq6t5xZRYfOQKBgvs7WmB9tDHr",
+          "FDGNkgdj8blvH9cSDiPqwxncfn9SAdp2",
+          "p1oSrZB61EEEwseKPv0d9PeWJevPBml2",
+          "uZYuRjy8nUIwcUpiQbtgwvoR95uMbL3t"
+        ],
+        "ratingCount": 14043,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1200",
+              "day": 0
+            },
+            "open": {
+              "time": "0400",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "1600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 1
+            },
+            "open": {
+              "time": "0400",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 1
+            },
+            "open": {
+              "time": "1600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 2
+            },
+            "open": {
+              "time": "0400",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "1600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 3
+            },
+            "open": {
+              "time": "0400",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "1600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 4
+            },
+            "open": {
+              "time": "0400",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "1600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 5
+            },
+            "open": {
+              "time": "0400",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "1600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 6
+            },
+            "open": {
+              "time": "0400",
+              "day": 6
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "1600",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-12-10T19:13:52.757691+00:00",
+        "name": "Shri Raman Bihariji Mandir",
+        "placeId": "ChIJpZOLCXZ3czkRkObFYHSHjOA",
+        "detail_description": "Shri Raman Bihariji Mandir is a Krishna temple surrounded by lush gardens. It features a large ritual bathing pool and a herd of free-roaming deer, offering a peaceful spiritual experience.",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "🌟 A very holy and peaceful place in Gokul, believed to be the divine playground of Shri Krishna and Balram. The sand (reti) here is considered sacred, and devotees love to sit, meditate, and even roll in it as a mark of devotion. The temple complex is clean, calm, and full of spiritual vibes. A must-visit for anyone coming to Gokul. 🙏✨",
+            "author_name": "Jatin",
+            "relative_time_description": "",
+            "time": 1759172051,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Raman Reti in Gokul is a divine and peaceful place that beautifully captures the essence of Lord Krishna's childhood. It is believed that little Krishna played on this sacred sand, making it a spiritually powerful spot for devotees. The soft golden sands, serene environment, and devotional chants create a soothing and blissful atmosphere. The temple area is clean and well maintained, allowing visitors to meditate and feel inner peace. The early morning and evening aarti add to the divine charm, filling the air with devotion. Raman Reti is truly a must-visit destination for anyone seeking spirituality, calmness, and a deep connection with Krishna's divine pastimes.",
+            "author_name": "Raja Sahu",
+            "relative_time_description": "",
+            "time": 1762571001,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Raman Reti is a peaceful & spiritual escape nestled in Vrindavan. The temple grounds are beautifully maintained, and walking through the sand area gives a unique vibe for meditation and relaxation.\n\nThis place offers a refreshing spiritual experience - would definitely recommend for a visit or if you're seeking peace of mind.",
+            "author_name": "Aman Sah",
+            "relative_time_description": "",
+            "time": 1760599213,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 70554 89025",
+        "g_description": "",
+        "image_url": "",
+        "city": "Greater Noida",
+        "types": [
+          "Hindu temple"
+        ],
+        "website": "https://karshniashramramanretimahaban.org/",
+        "index": 5,
+        "prev_excerpt": "Krishna temple set in leafy gardens, with a large ritual bathing pool & a free-roaming deer herd.\n\nKrishna temple set in leafy gardens, with a large ritual bathing pool & a free-roaming deer herd.",
+        "excerpt": "Shri Raman Bihariji Mandir is a Krishna temple surrounded by lush gardens.",
+        "g_image_urls": [],
+        "country": "",
+        "address": "Ramanreti, Mahaban Khadar, Mathura, Uttar Pradesh 281303, India",
+        "latitude": 27.427686
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "These months constitute the pre-monsoon or summer season, with rising temperatures across much of India. Northern plains can become quite hot, with temperatures often exceeding 40°C (104°F), while hill stations like Shimla and Darjeeling offer cooler retreats. The southern and coastal regions experience warm and humid conditions. Tourist crowds tend to thin out due to the heat, providing a quieter experience. This is a good time for visiting the Himalayan regions, exploring desert areas like Rajasthan, and attending spring festivals such as Holi.",
+          "June to August": "This is the monsoon season in India, marked by heavy rainfall, especially in the western coast, northeastern states, and the Himalayan foothills. The rains rejuvenate the landscape, making it lush and green, but travel can be challenging due to flooding and landslides in some areas. Tourist numbers decrease significantly except in regions less affected by monsoons, such as Ladakh and parts of Rajasthan. Travelers can enjoy the monsoon festivals, Ayurvedic treatments in Kerala, and the scenic beauty of the Western Ghats during this time.",
+          "Travel Tip": "When planning a trip to India, consider the regional climate and seasonal variations to choose the best time for your preferred activities. Pack appropriate clothing for the weather, including layers for cooler northern winters and light, breathable fabrics for hot summers. Stay hydrated and be prepared for sudden weather changes during the monsoon. It's advisable to book accommodations and transportation in advance during peak tourist seasons. Embrace local customs and festivals to enrich your travel experience.",
+          "Overview": "India is a vast and diverse country with a rich cultural heritage, varied landscapes, and a wide range of climates. From the Himalayan mountains in the north to the tropical beaches in the south, India offers unique experiences year-round. The country's climate varies significantly by region and season, influencing the best times to visit and the activities available. Travelers can explore bustling cities, serene temples, wildlife sanctuaries, and vibrant festivals throughout the year.",
+          "December to February": "This period marks the winter season in most parts of India, characterized by cool and pleasant weather, especially in northern and central regions. Temperatures range from mild to chilly, making it an ideal time for sightseeing in cities like Delhi, Agra, and Jaipur. The southern states enjoy warm and comfortable weather, perfect for beach vacations in Goa and Kerala. Tourist crowds are moderate to high, especially around major festivals like Christmas and New Year. Travelers can enjoy cultural festivals, wildlife safaris, and trekking in the Himalayas during this season.",
+          "Regional Highlights": "Northern India features the majestic Himalayas, historic cities like Delhi and Agra, and the desert landscapes of Rajasthan. The south offers tropical beaches, backwaters of Kerala, and ancient temples in Tamil Nadu. The east is known for its cultural heritage in Kolkata and the Sundarbans mangrove forest, while the west boasts vibrant cities like Mumbai and the scenic Western Ghats. Each region has distinct climates and attractions, from snow-capped mountains to tropical rainforests, catering to diverse traveler interests.",
+          "September to November": "Post-monsoon or autumn season brings pleasant weather with clear skies and moderate temperatures across most of India. This is considered one of the best times to visit, with comfortable conditions for sightseeing, trekking, and cultural tours. The tourist crowds begin to increase, especially around major festivals like Diwali. The landscapes are vibrant and fresh after the rains, making it ideal for wildlife safaris, exploring historical sites, and attending harvest festivals. Coastal areas also enjoy good weather, perfect for beach activities."
+        },
+        "locationContext": "India",
+        "monthlyRatings": {
+          "Apr": 3,
+          "Jun": 1,
+          "Jul": 1,
+          "Dec": 5,
+          "Mar": 4,
+          "Feb": 5,
+          "Aug": 1,
+          "Jan": 5,
+          "May": 2,
+          "Nov": 5,
+          "Oct": 4,
+          "Sep": 2
+        },
+        "label": "Greater Noida"
+      },
+      {
+        "_id": "top_things_to_do",
+        "🕌 Exploring Old Delhi": "Old Delhi is a bustling maze of narrow lanes, historic mosques, and vibrant markets. Visiting landmarks like Jama Masjid and sampling local delicacies offers a glimpse into the city's rich Mughal heritage and lively street life.",
+        "Conclusion": "India’s rich diversity and warm hospitality promise an enriching adventure for every traveler. Embrace the journey with an open heart and discover memories that will last a lifetime.",
+        "🎭 Jaipur's Cultural Heritage": "Jaipur, the Pink City, is renowned for its majestic forts, palaces, and vibrant bazaars. Exploring the Amber Fort and local crafts provides insight into Rajasthan's royal history and colorful traditions, best experienced during the cooler winter months.",
+        "🏞️ Trekking in the Himalayas": "The Indian Himalayas offer breathtaking trekking routes with panoramic mountain views and tranquil nature. Popular trails like the Valley of Flowers or Ladakh's Markha Valley are ideal from May to September for clear skies and pleasant weather.",
+        "Introduction": "India is a vibrant tapestry of colors, cultures, and traditions that captivate every traveler. From bustling cities to serene landscapes, it offers an unforgettable journey filled with diverse experiences.",
+        "🚂 Ride the Palace on Wheels": "The Palace on Wheels is a luxury train journey through Rajasthan's royal heritage, combining comfort with sightseeing of palaces, forts, and desert landscapes. It’s best booked in advance and offers a unique way to explore India’s regal past.",
+        "🏰 Taj Mahal Visit": "The Taj Mahal in Agra is an iconic symbol of love and one of the New Seven Wonders of the World. Its stunning white marble architecture and intricate craftsmanship make it a must-see, best visited at sunrise for magical views and fewer crowds.",
+        "🛕 Temples of South India": "South India boasts magnificent temples like Meenakshi in Madurai and Brihadeeswarar in Thanjavur, showcasing Dravidian architecture and spiritual depth. Visiting during temple festivals offers a vibrant cultural experience filled with music and dance.",
+        "🌊 Beaches of Goa": "Goa's beaches are famous for their golden sands, lively nightlife, and laid-back atmosphere. Whether you prefer quiet shores like Palolem or party hubs like Baga, the best time to visit is from November to February when the weather is perfect.",
+        "🌅 Sunrise at Varanasi Ghats": "Witnessing the sunrise over the sacred Ganges River in Varanasi is a spiritual experience like no other. The early morning boat rides along the ghats reveal ancient rituals and a serene atmosphere, perfect for reflection and photography.",
+        "🍛 Street Food in Delhi": "Delhi's street food scene is a culinary adventure offering everything from spicy chaat to rich kebabs. Exploring markets like Chandni Chowk provides authentic flavors and a lively vibe, best enjoyed with an adventurous palate and an empty stomach.",
+        "🎉 Experience Holi Festival": "Holi, the festival of colors, is a joyous celebration marking the arrival of spring across India. Participating in Holi in cities like Mathura or Jaipur offers an unforgettable, vibrant experience filled with music, dance, and colorful powders.",
+        "🌳 Wildlife Safari in Ranthambore": "Ranthambore National Park is a premier destination for spotting Bengal tigers in their natural habitat. Safaris conducted early morning or late afternoon provide the best chances to see wildlife amidst scenic forests and ancient ruins."
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 32,
+  "city": "Genting Highlands",
+  "category_used": "free attractions",
+  "url": "https://wanderlog.com/list/geoCategory/129817",
+  "title": "The 22 best free attractions in Genting Highlands",
+  "final_title": "Explore the Hidden Gems of Genting Highlands",
+  "from_cache": false,
+  "counts": {
+    "meta": 22,
+    "blocks": 22,
+    "merged": 22,
+    "accepted_before_trim": 1,
+    "rejected": 21,
+    "accepted_final": 1
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 15,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\malaysia_20251001_1003\\genting-highlands_beaches_129817.json",
+    "report_json": "publish_playlist\\malaysia_20251001_1003\\genting-highlands_beaches_129817.report.json"
+  },
+  "created_ts": 1759298128
+}

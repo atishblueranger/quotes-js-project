@@ -1,0 +1,277 @@
+{
+  "script_version": "1.3.0",
+  "start_ts": 1759489922,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\austria_20251003_1641\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Vienna",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115451",
+      "title": "The 27 best castles in and around Vienna",
+      "final_title": "Majestic Castles of Vienna Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 2,
+        "rejected": 25,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 19,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\austria_20251003_1641\\vienna_castles_115451.json",
+        "report_json": "publish_playlist\\austria_20251003_1641\\vienna_castles_115451.report.json"
+      },
+      "created_ts": 1759489992
+    },
+    {
+      "job_index": 1,
+      "city": "Vienna",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110054",
+      "title": "The 36 best beaches in and around Vienna",
+      "final_title": "Vienna's Hidden Beach Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 36,
+        "blocks": 36,
+        "merged": 36,
+        "accepted_before_trim": 16,
+        "rejected": 20,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 10,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1039",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\austria_20251003_1641\\vienna_beaches_110054.json",
+        "report_json": "publish_playlist\\austria_20251003_1641\\vienna_beaches_110054.report.json"
+      },
+      "created_ts": 1759490218
+    },
+    {
+      "job_index": 2,
+      "city": "Vienna",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160426",
+      "title": "The 45 best photo spots in Vienna",
+      "final_title": "Vienna's Picture-Perfect Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 45,
+        "blocks": 45,
+        "merged": 45,
+        "accepted_before_trim": 37,
+        "rejected": 8,
+        "accepted_final": 23
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 41,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1040",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\austria_20251003_1641\\vienna_photo-spots_160426.json",
+        "report_json": "publish_playlist\\austria_20251003_1641\\vienna_photo-spots_160426.report.json"
+      },
+      "created_ts": 1759490885
+    },
+    {
+      "job_index": 5,
+      "city": "Salzburg",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164128",
+      "title": "The 34 most romantic places in Salzburg",
+      "final_title": "Whispers of Love in Salzburg",
+      "from_cache": false,
+      "counts": {
+        "meta": 34,
+        "blocks": 34,
+        "merged": 34,
+        "accepted_before_trim": 34,
+        "rejected": 0,
+        "accepted_final": 21
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1041",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\austria_20251003_1641\\salzburg_romantic-places_164128.json",
+        "report_json": "publish_playlist\\austria_20251003_1641\\salzburg_romantic-places_164128.report.json"
+      },
+      "created_ts": 1759491360
+    },
+    {
+      "job_index": 7,
+      "city": "Innsbruck",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164214",
+      "title": "The 24 most romantic places in Innsbruck",
+      "final_title": "Whispers of Love in Innsbruck",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 24,
+        "rejected": 0,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1042",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\austria_20251003_1641\\innsbruck_romantic-places_164214.json",
+        "report_json": "publish_playlist\\austria_20251003_1641\\innsbruck_romantic-places_164214.report.json"
+      },
+      "created_ts": 1759491719
+    },
+    {
+      "job_index": 9,
+      "city": "Graz",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160559",
+      "title": "The 35 best photo spots in Graz",
+      "final_title": "Picture-Perfect Graz: Capture the Magic",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 24,
+        "rejected": 11,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 33,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1043",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\austria_20251003_1641\\graz_photo-spots_160559.json",
+        "report_json": "publish_playlist\\austria_20251003_1641\\graz_photo-spots_160559.report.json"
+      },
+      "created_ts": 1759492198
+    },
+    {
+      "job_index": 3,
+      "city": "Vienna",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164024",
+      "title": "The 44 most romantic places in Vienna",
+      "final_title": "Whispers of Love in Vienna",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 41,
+        "rejected": 3,
+        "accepted_final": 25
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 5,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\austria_20251003_1641\\vienna_romantic-places_164024.json",
+        "report_json": "publish_playlist\\austria_20251003_1641\\vienna_romantic-places_164024.report.json"
+      },
+      "created_ts": 1759492815
+    }
+  ],
+  "end_ts": 1759492921,
+  "finish_reason": "finished",
+  "failures_count": 4,
+  "failures_file": "publish_playlist\\austria_20251003_1641\\_failed_jobs.json",
+  "rerun_dataset_file": "publish_playlist\\austria_20251003_1641\\_rerun_dataset.json",
+  "cache_stats": {
+    "llm_validation_calls": 108,
+    "llm_title_calls": 7,
+    "google_places_calls": 95,
+    "cache_hits": 12,
+    "cache_misses": 221
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 108,
+    "llm_title_cache": 7,
+    "google_places_cache": 95,
+    "mobx_data_cache": 7
+  }
+}

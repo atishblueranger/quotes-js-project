@@ -1,0 +1,69 @@
+{
+  "playlistTitle": "Frankfurt Day Trips",
+  "placeName": "Frankfurt",
+  "country": "Germany",
+  "category": "Travel",
+  "subtype": "destination",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/places-to-visit-near-frankfurt/"
+  ],
+  "description": "Sunlit trains, river breeze and cobblestone lanes — a soundtrack for Frankfurt day trips and nearby escapes.",
+  "items": [
+    {
+      "name": "Hanau",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "BurgEltz",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Cochem",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "MichelStadt",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Strasbourg",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Baden-Baden",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Mainz",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

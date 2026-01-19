@@ -1,0 +1,83 @@
+{
+  "playlistTitle": "Scotland's Hidden Gems",
+  "placeName": "Scotland",
+  "country": "Scotland",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hidden-gems-in-scotland/"
+  ],
+  "description": "Wander misty glens and coastal coves - a soundtrack for Scotland's hidden gems and quiet roads.",
+  "items": [
+    {
+      "name": "Loch Glencoul",
+      "description": "",
+      "location_hint": "Assynt, Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Handa Island",
+      "description": "",
+      "location_hint": "Northwest coast of Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Beinn Eighe National Nature Reserve",
+      "description": "",
+      "location_hint": "Scottish Highlands, Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Singing Sands",
+      "description": "",
+      "location_hint": "Islay, Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Finlarig Castle",
+      "description": "",
+      "location_hint": "Killin, Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sandwood Bay",
+      "description": "",
+      "location_hint": "Sutherland, Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "St Kilda",
+      "description": "",
+      "location_hint": "Approximately 40 miles west of the Outer Hebrides in the North Atlantic Ocean, Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Union Canal",
+      "description": "",
+      "location_hint": "Edinburgh, Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Glen Fishie",
+      "description": "",
+      "location_hint": "Cairngorms National Park, Northeast Scotland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

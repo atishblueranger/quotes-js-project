@@ -1,0 +1,62 @@
+{
+  "playlistTitle": "Enchanting Prague Museums",
+  "placeName": "Prague",
+  "country": "Czech Republic",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-prague/"
+  ],
+  "description": "Wander Prague's museums with a soundtrack of Baroque whispers, cobblestone echoes, and wonder.",
+  "items": [
+    {
+      "name": "Museum of Communism",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 900"
+    },
+    {
+      "name": "Apple Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 740"
+    },
+    {
+      "name": "Franz Kafka Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 620"
+    },
+    {
+      "name": "Jewish Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1080"
+    },
+    {
+      "name": "National Technical Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1400"
+    },
+    {
+      "name": "Karel Zeman Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1400"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

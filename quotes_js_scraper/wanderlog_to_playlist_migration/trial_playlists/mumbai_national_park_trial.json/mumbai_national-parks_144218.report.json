@@ -1,0 +1,128 @@
+{
+  "job_index": 0,
+  "city": "Mumbai",
+  "category_used": "national parks",
+  "url": "https://wanderlog.com/list/geoCategory/144218",
+  "title": "The 9 best national parks around Mumbai",
+  "counts": {
+    "meta": 9,
+    "blocks": 9,
+    "merged": 9,
+    "accepted_before_trim": 0,
+    "rejected": 9,
+    "accepted_final": 0
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "calls": 8
+  },
+  "decisions": [
+    {
+      "placeId": "ChIJBZ-bway55zsRUVorAPlxfj8",
+      "name": "Yogi Hills",
+      "decision": "rejected",
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": []
+      }
+    },
+    {
+      "placeId": "ChIJi0xyBqm55zsRyqSXQQ2gxhE",
+      "name": "Shree Ayyappa Mandir",
+      "decision": "rejected",
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": [
+          "temple"
+        ]
+      }
+    },
+    {
+      "placeId": "ChIJS6zko--45zsRxA9uLl-5pKs",
+      "name": "Swatantryaveer V.D.Sawarkar BMC Hospital - Veer Savarkar Hospital",
+      "decision": "rejected",
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": []
+      }
+    },
+    {
+      "placeId": "ChIJe0T4RHq45zsRGDwtaYvJmaY",
+      "name": "Bhandup West",
+      "decision": "rejected",
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": []
+      }
+    },
+    {
+      "placeId": "ChIJ1fXQAPm45zsRk7ZdJeCGMPs",
+      "name": "Mulund",
+      "decision": "rejected",
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": []
+      }
+    },
+    {
+      "placeId": "ChIJ9xgjsF245zsRKgDkCw4BGyA",
+      "name": "Goregaon-Mulund Link Rd",
+      "decision": "rejected",
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": []
+      }
+    },
+    {
+      "placeId": "ChIJH6fSWPm45zsRKRO2BlKeODo",
+      "name": "Mulund Police Station",
+      "decision": "rejected",
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": []
+      }
+    },
+    {
+      "placeId": "ChIJNRdwqEW45zsRhaKEXI4stgg",
+      "name": "Amar Nagar",
+      "decision": "rejected",
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": []
+      }
+    },
+    {
+      "placeId": "ChIJQ6IOSI645zsR2pbT2ij50rQ",
+      "name": "Airoli",
+      "decision": "rejected",
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "evidence": {
+        "pos_hits": [],
+        "neg_hits": []
+      }
+    }
+  ],
+  "out_files": {
+    "playlist_json": "trial_playlists\\mumbai_national_park_trial.json\\mumbai_national-parks_144218.json",
+    "report_json": "trial_playlists\\mumbai_national_park_trial.json\\mumbai_national-parks_144218.report.json"
+  },
+  "created_ts": 1758823008
+}

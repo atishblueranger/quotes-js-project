@@ -1,0 +1,3193 @@
+{
+  "_id": "304",
+  "city_name": "Chandigarh",
+  "is_searchable": true,
+  "place_id": 304,
+  "country_name": "India",
+  "city_name_search": "chandigarh",
+  "longitude": 76.76941,
+  "parent_id": 86661,
+  "popularity": 9747,
+  "manual_description": "Chandigarh is a Himalayan architectural marvel. The city has a lot to offer visitors, with well-developed residential and commercial sectors, as well as stunning museums, art galleries, historical buildings, and gardens. Planned in the shape of the Union Jack, the city's spectacular architecture remains its biggest draw for tourists.",
+  "subcategory": "municipality",
+  "state_name": "India",
+  "bounds": [
+    76.69081,
+    30.67002,
+    76.83624,
+    30.80014
+  ],
+  "image_url": [
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/304.jpg"
+  ],
+  "position": {
+    "geohash": "ttqwfctg0",
+    "geopoint": {
+      "latitude": 30.726543,
+      "longitude": 76.76941
+    }
+  },
+  "latitude": 30.726543,
+  "image_key": "plDlAZVi5bPux6UvPbiaRAAIuxlKcjnz",
+  "depth": 2,
+  "place_description": "Chandigarh, the capital of the northern Indian states of Punjab and Haryana, was designed by the Swiss-French modernist architect, Le Corbusier. His buildings include the Capitol Complex with its High Court, Secretariat and Legislative Assembly, as well as the giant Open Hand Monument. The nearby Rock Garden is a park featuring sculptures made of stones, recycled ceramics and industrial relics.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "India"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "1060",
+        "subcategory": "city",
+        "stateName": "Punjab",
+        "countryName": "India",
+        "id": 1060,
+        "longitude": 75.85145,
+        "bounds": [
+          75.75955,
+          30.83857,
+          75.9538,
+          30.96212
+        ],
+        "latitude": 30.90867,
+        "popularity": 575,
+        "parentId": 87081,
+        "depth": 4,
+        "name": "Ludhiana"
+      },
+      {
+        "_id": "1418",
+        "subcategory": "city",
+        "stateName": "Mandi District",
+        "countryName": "India",
+        "id": 1418,
+        "longitude": 76.93201,
+        "bounds": [
+          76.62062,
+          31.22792,
+          77.3914,
+          32.07615
+        ],
+        "latitude": 31.7092,
+        "popularity": 589,
+        "parentId": 87193,
+        "depth": 4,
+        "name": "Mandi"
+      },
+      {
+        "_id": "1679",
+        "subcategory": "city",
+        "stateName": "Haryana",
+        "countryName": "India",
+        "id": 1679,
+        "longitude": 76.86115,
+        "bounds": [
+          76.81474,
+          30.64249,
+          76.90976,
+          30.76252
+        ],
+        "latitude": 30.70406,
+        "popularity": 823,
+        "parentId": 87260,
+        "depth": 4,
+        "name": "Panchkula"
+      },
+      {
+        "_id": "1812",
+        "subcategory": "city",
+        "stateName": "Punjab",
+        "countryName": "India",
+        "id": 1812,
+        "longitude": 76.40001,
+        "bounds": [
+          76.32734,
+          30.27108,
+          76.49076,
+          30.42223
+        ],
+        "latitude": 30.34485,
+        "popularity": 606,
+        "parentId": 87306,
+        "depth": 4,
+        "name": "Patiala"
+      },
+      {
+        "_id": "2040",
+        "subcategory": "city",
+        "stateName": "Haryana",
+        "countryName": "India",
+        "id": 2040,
+        "longitude": 76.85445,
+        "bounds": [
+          76.83281,
+          29.93976,
+          76.93099,
+          29.9988
+        ],
+        "latitude": 29.97336,
+        "popularity": 600,
+        "parentId": 87375,
+        "depth": 4,
+        "name": "Kurukshetra"
+      },
+      {
+        "_id": "2292",
+        "subcategory": "city",
+        "stateName": "Haryana",
+        "countryName": "India",
+        "id": 2292,
+        "longitude": 76.80813,
+        "bounds": [
+          76.74188,
+          30.33614,
+          76.81297,
+          30.40812
+        ],
+        "latitude": 30.36422,
+        "popularity": 155,
+        "parentId": 87446,
+        "depth": 4,
+        "name": "Ambala"
+      },
+      {
+        "_id": "2365",
+        "subcategory": "city",
+        "stateName": "Punjab",
+        "countryName": "India",
+        "id": 2365,
+        "longitude": 76.72348,
+        "bounds": [
+          76.63685,
+          30.64522,
+          76.75791,
+          30.75143
+        ],
+        "latitude": 30.680689,
+        "popularity": 328,
+        "parentId": 87469,
+        "depth": 4,
+        "name": "Mohali"
+      },
+      {
+        "_id": "2373",
+        "subcategory": "city",
+        "stateName": "Sirmaur District",
+        "countryName": "India",
+        "id": 2373,
+        "longitude": 77.2968,
+        "bounds": [
+          77.27895,
+          30.54862,
+          77.30774,
+          30.57146
+        ],
+        "latitude": 30.56135,
+        "popularity": 188,
+        "parentId": 87472,
+        "depth": 4,
+        "name": "Nahan"
+      },
+      {
+        "_id": "2397",
+        "subcategory": "municipality",
+        "stateName": "Solan District",
+        "countryName": "India",
+        "id": 2397,
+        "longitude": 76.99443,
+        "bounds": [
+          76.95896,
+          30.89842,
+          76.96166,
+          30.90111
+        ],
+        "latitude": 30.905533,
+        "popularity": 1677,
+        "parentId": 87476,
+        "depth": 4,
+        "name": "Kasauli"
+      },
+      {
+        "_id": "2404",
+        "subcategory": "city",
+        "stateName": "Bilaspur District",
+        "countryName": "India",
+        "id": 2404,
+        "longitude": 76.76302,
+        "bounds": [
+          82.14092,
+          22.05611,
+          82.17185,
+          22.07965
+        ],
+        "latitude": 31.343678,
+        "popularity": 133,
+        "parentId": 87479,
+        "depth": 4,
+        "name": "Bilaspur"
+      },
+      {
+        "_id": "2596",
+        "subcategory": "city",
+        "stateName": "Punjab",
+        "countryName": "India",
+        "id": 2596,
+        "longitude": 76.53288,
+        "bounds": [
+          76.49875,
+          30.93715,
+          76.55059,
+          30.98811
+        ],
+        "latitude": 30.9723,
+        "popularity": 228,
+        "parentId": 87534,
+        "depth": 4,
+        "name": "Rupnagar"
+      },
+      {
+        "_id": "428",
+        "subcategory": "municipality",
+        "stateName": "Shimla District",
+        "countryName": "India",
+        "id": 428,
+        "longitude": 77.17972,
+        "bounds": [
+          77.10124,
+          31.0372,
+          77.21681,
+          31.11924
+        ],
+        "latitude": 31.08848,
+        "popularity": 13910,
+        "parentId": 86898,
+        "depth": 4,
+        "name": "Shimla"
+      },
+      {
+        "_id": "86898",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "India",
+        "id": 86898,
+        "longitude": 77.64683,
+        "bounds": [
+          77.01257,
+          30.76378,
+          78.31984,
+          31.71412
+        ],
+        "latitude": 31.234213,
+        "popularity": 15171,
+        "parentId": 86863,
+        "depth": 3,
+        "name": "Shimla District"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ4YJrBBntDzkRbKrpPMxw9U4",
+        "prev_detail_description": "The Le Corbusier Centre, located in Sector 19-B, Chandigarh, was once the workplace of the renowned architect Le Corbusier. It is a historic building that holds a large collection of old documents, sketches, and photos showcasing his work as the city's chief architect. Visitors interested in urban planning, architecture, and design will find this center appealing.",
+        "website": null,
+        "index": 8,
+        "utcOffset": 330,
+        "longitude": 76.799542,
+        "rating": 4.4,
+        "detail_description": "Explore the Le Corbusier Centre in Chandigarh, showcasing the architect's original workspace and a rich collection of documents, sketches, and photos highlighting his urban planning and design legacy.",
+        "imageKeys": [
+          "vZXSUW3nm5JnMlzfsbtDpiZlAOP2JBzq",
+          "rzXVifKcjtu5n7UUdCiAcgtDO0IhjDil",
+          "qMMOP79h9OJjGj30wFG472vEhrZGtpzo"
+        ],
+        "ratingCount": 1423,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:14:57.444827+00:00",
+        "name": "Le Corbusier Centre",
+        "placeId": "ChIJ4YJrBBntDzkRbKrpPMxw9U4",
+        "prev_excerpt": "Once the workplace of the architect Le Corbusier, this historic building traces the city's heritage.",
+        "excerpt": "Explore the Le Corbusier Centre in Chandigarh, showcasing the architect's original workspace and a rich collection of…",
+        "ratingDistribution": {
+          "Google": {
+            "4": 378,
+            "3": 143,
+            "1": 24,
+            "5": 851,
+            "2": 36
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 172 277 7077",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4YJrBBntDzkRbKrpPMxw9U4_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Important local attraction showcasing Chandigarh's architectural heritage and Le Corbusier's influence, popular among visitors interested in history and design.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4YJrBBntDzkRbKrpPMxw9U4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4YJrBBntDzkRbKrpPMxw9U4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4YJrBBntDzkRbKrpPMxw9U4_3.jpg"
+        ],
+        "latitude": 30.729819,
+        "images_updated_at": "2025-10-26T03:22:18.847000+00:00",
+        "types": [
+          "History museum",
+          "Museums",
+          "Specialty Museums"
+        ],
+        "address": "Sector 19B Old Architect Building, Madhya Marg, Chandigarh, 160019, India"
+      },
+      {
+        "_id": "ChIJ7dWWiG_tDzkRQsFMQiC1VDg",
+        "prev_detail_description": "Leisure Valley in Chandigarh is not just a single garden, but a network of interconnected green spaces that act as the city's lungs. It comprises several parks including the Hibiscus Garden, Bougainvillea Garden, and Fitness Trail, each offering different recreational activities. The well-maintained trails and exercise equipment make it popular among joggers, cyclists, and fitness enthusiasts.",
+        "website": null,
+        "index": 7,
+        "utcOffset": 330,
+        "longitude": 76.793641,
+        "rating": null,
+        "detail_description": "Leisure Valley in Chandigarh is a network of green parks including Hibiscus and Bougainvillea Gardens. It features trails and fitness equipment, attracting joggers, cyclists, and fitness lovers for outdoor activities.",
+        "imageKeys": [
+          "yUGIgJtmuVJsblseVPuxx32rmBtcq1kh",
+          "kOyvM0sQwdJ6wYF6TkIg7vpdMw4UPQJq",
+          "mucUrJ0Mlm8ZRWfLKNIZhLwM4BSMNTGK",
+          "gNlnE2Qqn5p2a7NaSUib6jfOEhzlcZ0o"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T18:14:58.960131+00:00",
+        "name": "Leisure Valley",
+        "placeId": "ChIJ7dWWiG_tDzkRQsFMQiC1VDg",
+        "prev_excerpt": null,
+        "excerpt": "Leisure Valley in Chandigarh is a network of green parks including Hibiscus and Bougainvillea Gardens.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7dWWiG_tDzkRQsFMQiC1VDg_1.jpg",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (0 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7dWWiG_tDzkRQsFMQiC1VDg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7dWWiG_tDzkRQsFMQiC1VDg_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7dWWiG_tDzkRQsFMQiC1VDg_3.jpg"
+        ],
+        "latitude": 30.75462,
+        "images_updated_at": "2025-10-26T03:22:21.118000+00:00",
+        "types": [],
+        "address": "10B, Sector 10, Chandigarh, 160011, India"
+      },
+      {
+        "_id": "ChIJF04THyTtDzkRLlUCapcr5ls",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:13:47.580568+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 76.8105262,
+        "rating": 4.1,
+        "detail_description": "Landscaped park & conservatory with trees, shrubs and flowers attracting 35 species of butterfly.",
+        "imageKeys": [],
+        "ratingCount": 1632,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-25T13:13:47.580568+00:00",
+        "name": "Butterfly Park",
+        "placeId": "ChIJF04THyTtDzkRLlUCapcr5ls",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 90,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "A pleasant landscaped park attracting butterflies, but not widely known beyond local visitors or a major tourist draw in Chandigarh.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:44:34.737000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 1800 180 2116",
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJF04THyTtDzkRLlUCapcr5ls_3.jpg",
+        "images_updated_at": "2025-10-26T03:22:24.032000+00:00",
+        "types": [
+          "Park",
+          "Nature & Parks"
+        ],
+        "website": null,
+        "index": 21,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJF04THyTtDzkRLlUCapcr5ls_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJF04THyTtDzkRLlUCapcr5ls_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJF04THyTtDzkRLlUCapcr5ls_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJF04THyTtDzkRLlUCapcr5ls_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF04THyTtDzkRLlUCapcr5ls_5.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 377,
+            "3": 232,
+            "1": 89,
+            "5": 848,
+            "2": 84
+          }
+        },
+        "country": "",
+        "address": "PRH6+R6J, Sector 26, Chandigarh, 160019, India",
+        "latitude": 30.729599
+      },
+      {
+        "_id": "ChIJH2mMF6btDzkR93BPJEqSmss",
+        "prev_detail_description": "The Government Museum and Art Gallery in Chandigarh is a must-visit museum complex that showcases a diverse range of exhibits, including ancient and modern art, architecture, natural history, Gandharan sculptures, terracotta heads from ancient India, medieval metal sculptures, miniature paintings, manuscripts, textiles from across the Indian subcontinent and more. The museum also houses a collection of artwork by renowned artists.",
+        "website": "https://chdmuseum.gov.in/",
+        "index": 1,
+        "utcOffset": 330,
+        "longitude": 76.787467,
+        "rating": 4.4,
+        "detail_description": "Explore Chandigarh's Government Museum and Art Gallery, featuring ancient to modern art, Gandharan sculptures, terracotta heads, medieval metalwork, miniature paintings, manuscripts, textiles, and works by renowned artists.",
+        "imageKeys": [
+          "JoETzYfPRFSPYQ1F5Nr6TZNNorYW8Hnu",
+          "YFiiLuB85PI4gTl2ze0S5rBqWe0eqPrs",
+          "H8aGaiJmAvYgWAGsTxM9MEWAOwC3xTq6"
+        ],
+        "ratingCount": 3273,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1630",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:00.515315+00:00",
+        "name": "Government Museum and Art Gallery",
+        "placeId": "ChIJH2mMF6btDzkR93BPJEqSmss",
+        "prev_excerpt": "Museum complex featuring ancient & modern art, as well as architecture & natural history exhibits.",
+        "excerpt": "Explore Chandigarh's Government Museum and Art Gallery, featuring ancient to modern art, Gandharan sculptures,…",
+        "ratingDistribution": {
+          "Google": {
+            "4": 899,
+            "3": 274,
+            "1": 68,
+            "5": 1987,
+            "2": 54
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 172 274 2010",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJH2mMF6btDzkR93BPJEqSmss_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.9,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "The Government Museum and Art Gallery is a key cultural institution in Chandigarh, showcasing important art and historical artifacts, making it a well-regarded local attraction.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJH2mMF6btDzkR93BPJEqSmss_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJH2mMF6btDzkR93BPJEqSmss_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJH2mMF6btDzkR93BPJEqSmss_3.jpg"
+        ],
+        "latitude": 30.748912,
+        "images_updated_at": "2025-10-26T03:22:30.933000+00:00",
+        "types": [
+          "Art museum",
+          "Museums",
+          "Specialty Museums"
+        ],
+        "address": "Sector, 10C, Sector 10, Chandigarh, 160011, India"
+      },
+      {
+        "_id": "ChIJH2ni72ftDzkRh7-niYNX-gE",
+        "prev_detail_description": "The Capitol Complex Tourist Center is a remarkable destination nestled within the sprawling 100-acre government compound in Chandigarh, India. Designed by the renowned architect Le Corbusier, this UNESCO World Heritage Site showcases his architectural genius through iconic structures like the High Court and Secretariat, alongside the striking Open Hand Monument. Visitors can immerse themselves in guided tours that highlight not only these stunning buildings but also their breathtaking backdrop of the Shivalik hills.",
+        "website": "http://chandigarhtourism.gov.in/",
+        "index": 14,
+        "utcOffset": 330,
+        "longitude": 76.802369,
+        "rating": 4.5,
+        "detail_description": "Explore Chandigarh's Capitol Complex, a UNESCO site designed by Le Corbusier. See iconic buildings like the High Court, Secretariat, and Open Hand Monument, set against the scenic Shivalik hills. Guided tours available.",
+        "imageKeys": [
+          "32DRWULcV2Hs7YdqsbYmP5zkpkoQrE6v",
+          "ruwdGtVJFap7txEMwPPMzJEWbs3jr7am",
+          "mial447a0Dy9TlQM7JxvF9Hj33cBl9TL"
+        ],
+        "ratingCount": 1343,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:01.968253+00:00",
+        "name": "Capitol Complex Tourist Center",
+        "placeId": "ChIJH2ni72ftDzkRh7-niYNX-gE",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJH2ni72ftDzkRh7-niYNX-gE_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJH2ni72ftDzkRh7-niYNX-gE_2.jpg"
+        ],
+        "prev_excerpt": "Government compound on 100 acres by architect Le Corbusier, with sculptures, guided tours & a lake.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 294,
+            "3": 83,
+            "1": 36,
+            "5": 902,
+            "2": 28
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 1800 180 2116",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJH2ni72ftDzkRh7-niYNX-gE_1.jpg",
+        "excerpt": "Explore Chandigarh's Capitol Complex, a UNESCO site designed by Le Corbusier.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "iconic",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.95,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "The Capitol Complex is a UNESCO World Heritage Site designed by Le Corbusier, making it a world-famous architectural landmark and a must-see in Chandigarh.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "address": "HIGH COURT, Capitol Complex, Sector 1, Chandigarh, 160001, India",
+        "latitude": 30.756625,
+        "types": [
+          "Tourist information center",
+          "Sights & Landmarks",
+          "Government Buildings"
+        ]
+      },
+      {
+        "_id": "ChIJHd27EkTtDzkRpTq5mNfGk2M",
+        "prev_detail_description": "The Rock Garden of Chandigarh is a 24-acre whimsical wonderland created by Nek Chand, a humble roads inspector. It is made from the debris of nearly 50 villages and an assortment of found objects like shattered plates, ceramic tiles, and colorful glass bangles. Nek Chand worked secretly for two decades to create this artistic masterpiece. The garden features mosaic courtyards, sculptures, and paths made from old crockery.",
+        "website": null,
+        "index": 2,
+        "utcOffset": 330,
+        "longitude": 76.810104,
+        "rating": null,
+        "detail_description": "The Rock Garden of Chandigarh spans 24 acres, showcasing sculptures and mosaics made from recycled debris and found objects. Created secretly by Nek Chand over 20 years, it offers unique paths and artistic courtyards to explore.",
+        "imageKeys": [
+          "w3512HSFlkJ3cbvAa17vhini1KoXJAo1",
+          "m2sF6G83VYszqwU58yxqZKj4IpOCkfY4",
+          "tgJXB5f9RUcfATdtUFBpht0UzeXWrweh",
+          "XMhXJAYhm8iBBzP8JjdWeoBo6ec6ejIA",
+          "RsZFyJ1hcQSUN0efYfIIByF5VwbdqvSr"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T18:15:04.268868+00:00",
+        "name": "Rock Garden of Chandigarh",
+        "placeId": "ChIJHd27EkTtDzkRpTq5mNfGk2M",
+        "prev_excerpt": "Mosaic courtyards, sculptures & paths made from old crockery in 24-acre garden created by Nek Chand.",
+        "excerpt": "The Rock Garden of Chandigarh spans 24 acres, showcasing sculptures and mosaics made from recycled debris and found…",
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHd27EkTtDzkRpTq5mNfGk2M_1.jpg",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (0 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHd27EkTtDzkRpTq5mNfGk2M_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHd27EkTtDzkRpTq5mNfGk2M_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHd27EkTtDzkRpTq5mNfGk2M_3.jpg"
+        ],
+        "latitude": 30.752535,
+        "images_updated_at": "2025-10-26T03:22:40.375000+00:00",
+        "types": [
+          "Nature & Parks",
+          "Parks"
+        ],
+        "address": "Sector 1, Chandigarh, 160001, India"
+      },
+      {
+        "_id": "ChIJK0UCjOnsDzkR6yaSfFCcyfM",
+        "prev_detail_description": "Elante Mall is a spacious and upscale shopping destination that offers a wide range of international shops, dining options, a cinema multiplex, and a play center. Located in Chandigarh, it is conveniently situated near popular attractions such as ISKCON Chandigarh, Zakir Hussain Rose Garden, Government Museum and Art Gallery, Leisure Valley, The Rock Garden of Chandigarh, and Sukhna Lake.",
+        "website": null,
+        "index": 19,
+        "utcOffset": 330,
+        "longitude": 76.800957,
+        "rating": null,
+        "detail_description": "Elante Mall in Chandigarh features international shops, diverse dining, a cinema, and a play center. It’s near key attractions like Zakir Hussain Rose Garden and The Rock Garden.",
+        "imageKeys": [
+          "5Cra3TeM2wtEKMpYIHGn0e3XyX2SCIRx",
+          "sRDansNT6WGGwDNJVmLPQimSWaWrjocz",
+          "1QsM2O7uxfMgehfhshYz0uMMfTLGHGEZ"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T18:15:05.785963+00:00",
+        "name": "Elante Mall",
+        "placeId": "ChIJK0UCjOnsDzkR6yaSfFCcyfM",
+        "prev_excerpt": "Spacious, upscale mall featuring international shops & eateries, a cinema multiplex & a play centre.",
+        "excerpt": "Elante Mall in Chandigarh features international shops, diverse dining, a cinema, and a play center.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK0UCjOnsDzkR6yaSfFCcyfM_1.jpg",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (0 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK0UCjOnsDzkR6yaSfFCcyfM_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK0UCjOnsDzkR6yaSfFCcyfM_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK0UCjOnsDzkR6yaSfFCcyfM_3.jpg"
+        ],
+        "latitude": 30.706123,
+        "images_updated_at": "2025-10-26T03:22:42.476000+00:00",
+        "types": [
+          "Building",
+          "Shopping",
+          "Shopping Malls"
+        ],
+        "address": "Industrial Area Phase I, Chandigarh, 160002"
+      },
+      {
+        "_id": "ChIJL8pdbQDvDzkR3tHxInUyq1w",
+        "prev_detail_description": "Nestled within the vibrant landscape of the Rose Garden, this enchanting destination is a feast for the senses. The garden boasts an impressive collection of bougainvilleas that create a stunning visual spectacle. Amidst this floral paradise, visitors can also find a poignant memorial dedicated to Indian soldiers who lost their lives in service. This blend of beauty and remembrance makes the Rose Garden not just a place to admire nature but also a space for reflection and appreciation of history.",
+        "website": null,
+        "index": 13,
+        "utcOffset": 330,
+        "longitude": 76.717873,
+        "rating": null,
+        "detail_description": "The Rose Garden in Chandigarh showcases vibrant bougainvilleas and a memorial honoring Indian soldiers. It offers a peaceful blend of natural beauty and historical reflection.",
+        "imageKeys": [
+          "S0vVZxplOzMTgaWNKA9f5uOahpUbuRmM"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T18:15:07.044475+00:00",
+        "name": "Rose Garden",
+        "placeId": "ChIJL8pdbQDvDzkR3tHxInUyq1w",
+        "prev_excerpt": null,
+        "excerpt": "The Rose Garden in Chandigarh showcases vibrant bougainvilleas and a memorial honoring Indian soldiers.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJL8pdbQDvDzkR3tHxInUyq1w_1.jpg",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (0 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJL8pdbQDvDzkR3tHxInUyq1w_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJL8pdbQDvDzkR3tHxInUyq1w_2.jpg"
+        ],
+        "latitude": 30.704649,
+        "images_updated_at": "2025-10-26T03:22:46.826000+00:00",
+        "types": [
+          "Park"
+        ],
+        "address": "PP39+V45, Sector 71, Sahibzada Ajit Singh Nagar, Punjab 160071, India"
+      },
+      {
+        "_id": "ChIJMcJdCV3tDzkRWWHXzaklpHg",
+        "prev_detail_description": "Capitol Complex in Chandigarh, located 4 km from the city center, is a remarkable symbol of architectural excellence and cultural importance. Designed by the famous architect Le Corbusier, this UNESCO World Heritage Site comprises significant government structures including the Vidhan Sabha, High Court, and Secretariat. It stands as a testament to Chandigarh's rich heritage and is a must-visit for those interested in modernist architecture and historical significance.",
+        "website": null,
+        "index": 5,
+        "utcOffset": 330,
+        "longitude": 76.805056,
+        "rating": null,
+        "detail_description": "Capitol Complex in Chandigarh features iconic government buildings designed by Le Corbusier. This UNESCO site showcases modernist architecture and cultural heritage, located 4 km from the city center.",
+        "imageKeys": [
+          "NHIrQ6dDmvy7NdhKmdcOz5JuCLyyI13o",
+          "2we4STdBhhk7T4nyjl6lTPwyFSS8h4VX",
+          "PtIyRotwDUrc6N2XkxAqR8nfdBCt4szW",
+          "4gNEblZ26yOWwykqu7HVOUczLjv1IQG9",
+          "EfBP3A7sN1VLOFz5jglYMLx3Au7P44JM"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T18:15:08.342861+00:00",
+        "name": "Capitol Complex",
+        "placeId": "ChIJMcJdCV3tDzkRWWHXzaklpHg",
+        "prev_excerpt": null,
+        "excerpt": "Capitol Complex in Chandigarh features iconic government buildings designed by Le Corbusier.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJMcJdCV3tDzkRWWHXzaklpHg_1.jpg",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (0 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJMcJdCV3tDzkRWWHXzaklpHg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJMcJdCV3tDzkRWWHXzaklpHg_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJMcJdCV3tDzkRWWHXzaklpHg_3.jpg"
+        ],
+        "latitude": 30.758364,
+        "images_updated_at": "2025-10-26T03:22:52.452000+00:00",
+        "types": [],
+        "address": "Sector 1, Chandigarh, 160001, India"
+      },
+      {
+        "_id": "ChIJN6Z-wFPsDzkRWgw240AJrGA",
+        "prev_detail_description": "Located in Sector 33 of Chandigarh, the Terraced Garden is a popular tourist spot known for its vibrant and diverse floral displays. Since its establishment in 1979, this 10-acre garden has been attracting visitors with its stunning flowers and well-maintained grounds. The garden features walking paths, a musical fountain, and hosts seasonal flower festivals that add to its allure. Families often visit for leisurely strolls and picnics amidst the beautiful surroundings.",
+        "website": "http://mcchandigarh.gov.in/",
+        "index": 4,
+        "utcOffset": 330,
+        "longitude": 76.771636,
+        "rating": 4.5,
+        "detail_description": "The Terraced Garden in Chandigarh's Sector 33 spans 10 acres with vibrant flowers, walking paths, and a musical fountain. It hosts seasonal flower festivals and is ideal for family strolls and picnics.",
+        "imageKeys": [
+          "UcV9gwLHeg5EgzBpjnOeNAJXZGnbQHC6",
+          "rnh9afkxHOmV4tUiycqrQdRdkfaEn56y",
+          "uXVKf2P8rtEcfr8u5vV9XFmaZ1WHR5jE"
+        ],
+        "ratingCount": 6219,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2100",
+              "day": 0
+            },
+            "open": {
+              "time": "0530",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 1
+            },
+            "open": {
+              "time": "0530",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 2
+            },
+            "open": {
+              "time": "0530",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "0530",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 4
+            },
+            "open": {
+              "time": "0530",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 5
+            },
+            "open": {
+              "time": "0530",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 6
+            },
+            "open": {
+              "time": "0530",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:11.444610+00:00",
+        "name": "Terraced Garden",
+        "placeId": "ChIJN6Z-wFPsDzkRWgw240AJrGA",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJN6Z-wFPsDzkRWgw240AJrGA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJN6Z-wFPsDzkRWgw240AJrGA_2.jpg"
+        ],
+        "prev_excerpt": "Tranquil terraced garden with a musical fountain, walking paths & seasonal flower festivals.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 1509,
+            "3": 479,
+            "1": 137,
+            "5": 3991,
+            "2": 111
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJN6Z-wFPsDzkRWgw240AJrGA_1.jpg",
+        "excerpt": "The Terraced Garden in Chandigarh's Sector 33 spans 10 acres with vibrant flowers, walking paths, and a musical…",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular and well-maintained garden with vibrant floral displays, attracting many visitors locally but not globally iconic.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "address": "33 Market Rd, Sector 33B, Sector 33, Chandigarh, 160020, India",
+        "latitude": 30.714419,
+        "types": [
+          "Garden",
+          "Nature & Parks",
+          "City park"
+        ]
+      },
+      {
+        "_id": "ChIJOUvVMLntDzkRgBKx9y3rsX8",
+        "prev_detail_description": "Located in Chandigarh, the ISKCON Temple is a vast Hare Krishna complex with a stunning marble temple, guest house, and library. The property offers easy access to popular attractions like Zakir Hussain Rose Garden, Government Museum and Art Gallery, Leisure Valley, The Rock Garden of Chandigarh, Elante mall, and Sukhna Lake. Additionally, the hotel provides quality accommodation with facilities such as travel desk, medical assistance, and banquet halls for social gatherings.",
+        "website": "http://www.iskconchandigarh.com/",
+        "index": 10,
+        "utcOffset": 330,
+        "longitude": 76.761346,
+        "rating": 4.8,
+        "detail_description": "ISKCON Temple Chandigarh features a beautiful marble temple, guest house, and library. It offers easy access to local attractions and provides accommodation with travel and medical services.",
+        "imageKeys": [
+          "EX6Z92zvkDssHKxCDYOLGYhvTOp7a4zK",
+          "CtmOJGW3r4DKbwimp5CCMzNDTAwbBBP5",
+          "zMeAmF38yTAIpI0A56WrBou6pzSgdBuR"
+        ],
+        "ratingCount": 7472,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1245",
+              "day": 0
+            },
+            "open": {
+              "time": "0430",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2030",
+              "day": 0
+            },
+            "open": {
+              "time": "1615",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1245",
+              "day": 1
+            },
+            "open": {
+              "time": "0430",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2030",
+              "day": 1
+            },
+            "open": {
+              "time": "1615",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1245",
+              "day": 2
+            },
+            "open": {
+              "time": "0430",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2030",
+              "day": 2
+            },
+            "open": {
+              "time": "1615",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1245",
+              "day": 3
+            },
+            "open": {
+              "time": "0430",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2030",
+              "day": 3
+            },
+            "open": {
+              "time": "1615",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1245",
+              "day": 4
+            },
+            "open": {
+              "time": "0430",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2030",
+              "day": 4
+            },
+            "open": {
+              "time": "1615",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1245",
+              "day": 5
+            },
+            "open": {
+              "time": "0430",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2030",
+              "day": 5
+            },
+            "open": {
+              "time": "1615",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1245",
+              "day": 6
+            },
+            "open": {
+              "time": "0430",
+              "day": 6
+            }
+          },
+          {
+            "close": {
+              "time": "2030",
+              "day": 6
+            },
+            "open": {
+              "time": "1615",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:12.932896+00:00",
+        "name": "ISKCON Temple Chandigarh",
+        "placeId": "ChIJOUvVMLntDzkRgBKx9y3rsX8",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOUvVMLntDzkRgBKx9y3rsX8_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOUvVMLntDzkRgBKx9y3rsX8_2.jpg"
+        ],
+        "prev_excerpt": "Sprawling Hare Krishna complex featuring a marble temple, plus a guest house & a library.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 725,
+            "3": 212,
+            "1": 108,
+            "5": 6404,
+            "2": 53
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 172 260 1590",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOUvVMLntDzkRgBKx9y3rsX8_1.jpg",
+        "excerpt": "ISKCON Temple Chandigarh features a beautiful marble temple, guest house, and library.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 95,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular Hindu temple with good reviews but not a defining or unique landmark of Chandigarh compared to major attractions like Rock Garden or Rose Garden.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "address": "Hare Krishna dham, ISKCON Temple, Dakshin Marg, Sector-36B, Sector 36, Chandigarh, 160036, India",
+        "latitude": 30.734366,
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Book store",
+          "Cafeteria",
+          "Gift shop",
+          "Sacred & Religious Sites"
+        ]
+      },
+      {
+        "_id": "ChIJOeoRsM2SDzkROyE5qPSXkgQ",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:13:47.583304+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 76.83011739999999,
+        "rating": 4.5,
+        "detail_description": "Outdoor meditative space with seated buddha, concentric stairways, & evening illuminations.",
+        "imageKeys": [],
+        "ratingCount": 6464,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2200",
+              "day": 0
+            },
+            "open": {
+              "time": "0600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 1
+            },
+            "open": {
+              "time": "0600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 2
+            },
+            "open": {
+              "time": "0600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 3
+            },
+            "open": {
+              "time": "0600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 4
+            },
+            "open": {
+              "time": "0600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 5
+            },
+            "open": {
+              "time": "0600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 6
+            },
+            "open": {
+              "time": "0600",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-25T13:13:47.583304+00:00",
+        "name": "Garden of Silence",
+        "placeId": "ChIJOeoRsM2SDzkROyE5qPSXkgQ",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular meditative garden with unique design and strong local appeal, but not world-famous.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:44:34.737000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 1800 180 2116",
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOeoRsM2SDzkROyE5qPSXkgQ_4.jpg",
+        "images_updated_at": "2025-10-26T03:23:15.372000+00:00",
+        "types": [
+          "Garden",
+          "Theme park"
+        ],
+        "website": null,
+        "index": 22,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOeoRsM2SDzkROyE5qPSXkgQ_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOeoRsM2SDzkROyE5qPSXkgQ_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOeoRsM2SDzkROyE5qPSXkgQ_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOeoRsM2SDzkROyE5qPSXkgQ_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOeoRsM2SDzkROyE5qPSXkgQ_5.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 1497,
+            "3": 448,
+            "1": 100,
+            "5": 4313,
+            "2": 96
+          }
+        },
+        "country": "",
+        "address": "5, Lake Walking Way, Kishangarh, Chandigarh, 160101, India",
+        "latitude": 30.7384342
+      },
+      {
+        "_id": "ChIJQexoUwrtDzkR1EnqQLuQwj4",
+        "prev_detail_description": "Sector 17 Market in Chandigarh is a bustling hub where photographers can capture the vibrant essence of city life. The market offers a plethora of activities, from shopping to relaxing by the fountain, making it an ideal spot for photography enthusiasts. In the evening, the area transforms into a picturesque setting, perfect for capturing stunning shots. Additionally, Sector 17 Market provides convenient co-working spaces at Next57 Co-working, catering to freelancers and business professionals with various seating options and meeting facilities.",
+        "website": null,
+        "index": 11,
+        "utcOffset": 330,
+        "longitude": 76.782533,
+        "rating": 4.4,
+        "detail_description": "Sector 17 Market in Chandigarh buzzes with shops, fountains, and lively crowds. It offers vibrant scenes for photography and features Next57 Co-working spaces for freelancers and professionals.",
+        "imageKeys": [
+          "9iQBOE5KSwAYkaOefrElapshNR6Sffac",
+          "Vm8UZfCrJsDcLkBBoIQcRISqNg7oZwcy",
+          "ypqqDvxQgnIk3JAHwpWCXswZkvEhQhdJ",
+          "hiKK5gGL2HMKcxF34tFf5JX5pHYkIvu0",
+          "kyE4d82N65lWellsWEZmnaUWmjwEu8mq"
+        ],
+        "ratingCount": 11178,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2230",
+              "day": 0
+            },
+            "open": {
+              "time": "1015",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 1
+            },
+            "open": {
+              "time": "1015",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 2
+            },
+            "open": {
+              "time": "1015",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 3
+            },
+            "open": {
+              "time": "1015",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 4
+            },
+            "open": {
+              "time": "1015",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 5
+            },
+            "open": {
+              "time": "1015",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 6
+            },
+            "open": {
+              "time": "1015",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:15.113658+00:00",
+        "name": "Sector 17 Market",
+        "placeId": "ChIJQexoUwrtDzkR1EnqQLuQwj4",
+        "prev_excerpt": null,
+        "excerpt": "Sector 17 Market in Chandigarh buzzes with shops, fountains, and lively crowds.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 3198,
+            "3": 1030,
+            "1": 216,
+            "5": 6511,
+            "2": 223
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQexoUwrtDzkR1EnqQLuQwj4_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 70,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews",
+            "downrank_type"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 82,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Sector 17 Market is a well-known, bustling commercial and social hub in Chandigarh, offering a vibrant local experience and popular among tourists and photographers.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQexoUwrtDzkR1EnqQLuQwj4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQexoUwrtDzkR1EnqQLuQwj4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQexoUwrtDzkR1EnqQLuQwj4_3.jpg"
+        ],
+        "latitude": 30.739471,
+        "images_updated_at": "2025-10-26T03:23:18.354000+00:00",
+        "types": [
+          "Market",
+          "ATM",
+          "Shopping mall",
+          "Supermarket"
+        ],
+        "address": "30, Jan Marg, Sector 17A, Sector 17, Chandigarh, 160017, India"
+      },
+      {
+        "_id": "ChIJR5GNEzTtDzkRotUQxLcNeoo",
+        "prev_detail_description": "Sukhna Lake is a picturesque reservoir in Chandigarh, offering activities like pedal boating and jogging along its shores. It's a popular spot for photographers, with the shimmering lake framed by the majestic Shivalik hills providing stunning scenic views from sunrise to moonlit nights. The area also boasts attractions like the Cactus Garden, Rose Garden, and opportunities for trekking in the lower Shivalik Hills.",
+        "website": null,
+        "index": 3,
+        "utcOffset": 330,
+        "longitude": 76.818756,
+        "rating": 4.6,
+        "detail_description": "Sukhna Lake in Chandigarh offers pedal boating and jogging with views of the Shivalik hills. Nearby attractions include the Cactus Garden, Rose Garden, and trekking trails in the lower Shivalik Hills.",
+        "imageKeys": [
+          "0Fqi9U0NAa3la4cDH3fPog5ReLSZ9CT2",
+          "kN4g0bNAG0ywIfbJ9e6Y1EbleguxBcmG",
+          "TICwnNmCoxyYiowvG4ybNLrCyZKq3sGP",
+          "5tFBU3XvuWodSMsXnrd712Q9fdBMYlTP",
+          "FFWq6TFuqoVBNgtqqK8wMYTiuQYWjpdu"
+        ],
+        "ratingCount": 10192,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T18:15:16.556833+00:00",
+        "name": "Sukhna Lake",
+        "placeId": "ChIJR5GNEzTtDzkRotUQxLcNeoo",
+        "prev_excerpt": "Sizable reservoir featuring pedal boats & areas for jogging, plus migratory birds.",
+        "excerpt": "Sukhna Lake in Chandigarh offers pedal boating and jogging with views of the Shivalik hills.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 2089,
+            "3": 521,
+            "1": 225,
+            "5": 7292,
+            "2": 115
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJR5GNEzTtDzkRotUQxLcNeoo_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.9,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Sukhna Lake is a well-known and beloved local attraction in Chandigarh, offering scenic beauty and recreational activities, making it a must-visit spot for tourists and residents alike.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJR5GNEzTtDzkRotUQxLcNeoo_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJR5GNEzTtDzkRotUQxLcNeoo_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJR5GNEzTtDzkRotUQxLcNeoo_3.jpg"
+        ],
+        "latitude": 30.742138,
+        "images_updated_at": "2025-10-26T03:23:24.169000+00:00",
+        "types": [
+          "Lake",
+          "Nature & Parks",
+          "Bodies of Water"
+        ],
+        "address": "Sector 1, Chandigarh 160001"
+      },
+      {
+        "_id": "ChIJT78SDcftDzkRU4WSZ5USnuo",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:13:47.584825+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 76.7572113,
+        "rating": 4.6,
+        "detail_description": "Fragrant botanic garden with shrubs, flowers & paths, plus a shop with oils, soaps & incense.",
+        "imageKeys": [],
+        "ratingCount": 6115,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-25T13:13:47.584825+00:00",
+        "name": "Garden of Fragrance",
+        "placeId": "ChIJT78SDcftDzkRU4WSZ5USnuo",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 95,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular and pleasant garden with a unique fragrant theme, but not widely known as a major Chandigarh attraction compared to the city's iconic gardens like Rock Garden or Rose Garden.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:44:34.737000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 1800 180 2116",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Park",
+          "Nature & Parks",
+          "Gardens"
+        ],
+        "website": null,
+        "index": 23,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJT78SDcftDzkRU4WSZ5USnuo_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJT78SDcftDzkRU4WSZ5USnuo_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJT78SDcftDzkRU4WSZ5USnuo_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJT78SDcftDzkRU4WSZ5USnuo_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 1260,
+            "3": 273,
+            "1": 88,
+            "5": 4415,
+            "2": 61
+          }
+        },
+        "country": "",
+        "address": "Fragrance Garden Rd, Sector 36B, Sector 36, Chandigarh, 160036, India",
+        "latitude": 30.7326709
+      },
+      {
+        "_id": "ChIJT7U272btDzkRxGm2CN2CUu4",
+        "prev_detail_description": "Located in Sector 17 of Chandigarh, the Musical Fountain is a must-visit attraction offering a unique experience. Visitors can enjoy shopping in the nearby market while being mesmerized by the fountain's evening shows, featuring a captivating blend of water, light, and music. The synchronized water and light display accompanied by music creates a stunning visual spectacle that appeals to couples seeking romantic experiences.",
+        "website": null,
+        "index": 16,
+        "utcOffset": 330,
+        "longitude": 76.781548,
+        "rating": 4.3,
+        "detail_description": "The Musical Fountain in Chandigarh's Sector 17 offers evening shows where water, light, and music synchronize to create a stunning visual display. Nearby shops add to the lively atmosphere, making it a popular spot for visitors.",
+        "imageKeys": [
+          "vcA1losaI5EKqxRTcPANWQSn04CLHUPt",
+          "MEQxnerVzi2j104JrfwiqHyaLm4RkRJU"
+        ],
+        "ratingCount": 202,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:18.345331+00:00",
+        "name": "Musical Fountain",
+        "placeId": "ChIJT7U272btDzkRxGm2CN2CUu4",
+        "prev_excerpt": null,
+        "excerpt": "The Musical Fountain in Chandigarh's Sector 17 offers evening shows where water, light, and music synchronize to create…",
+        "ratingDistribution": {
+          "Google": {
+            "4": 55,
+            "3": 18,
+            "1": 8,
+            "5": 120,
+            "2": 3
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJT7U272btDzkRxGm2CN2CUu4_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 70,
+          "heuristic_triggers": [
+            "good_rating",
+            "ok_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 70,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular spot in Sector 17 offering enjoyable evening shows, but not unique or culturally significant enough to be a top city attraction.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJT7U272btDzkRxGm2CN2CUu4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJT7U272btDzkRxGm2CN2CUu4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJT7U272btDzkRxGm2CN2CUu4_3.jpg"
+        ],
+        "latitude": 30.740319,
+        "images_updated_at": "2025-10-26T03:23:37.555000+00:00",
+        "types": [
+          "Fountain",
+          "Musical club"
+        ],
+        "address": "PQRJ+4JF, Shopping Plaza, 17D, Sector 17, Chandigarh, 160017, India"
+      },
+      {
+        "_id": "ChIJacZgJ7_tDzkRdNeibenK6uA",
+        "prev_detail_description": "Hibiscus Garden, located in Sector 36 of Chandigarh, is a renowned botanical oasis that spans across 8 acres. Established in 1974, it played a pivotal role in earning Chandigarh its reputation as the 'City of Gardens'. The garden is home to an impressive collection of over 40 varieties of hibiscus shrubs, ensuring a vibrant and colorful display throughout the year.",
+        "website": null,
+        "index": 18,
+        "utcOffset": 330,
+        "longitude": 76.759269,
+        "rating": 4.4,
+        "detail_description": "Hibiscus Garden in Chandigarh's Sector 36 spans 8 acres with over 40 hibiscus varieties. Established in 1974, it offers vibrant blooms year-round in a peaceful botanical setting.",
+        "imageKeys": [
+          "cdFr4B5FihtuGwerVlug4NjdldPmGi4V",
+          "0Esw68ChH97N0d2pwqbFQXQnzK3YwowQ",
+          "23ixSmYMuIz4sIntItTRKEeVXQ54Hh7Y"
+        ],
+        "ratingCount": 406,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:19.681103+00:00",
+        "name": "Hibiscus Garden",
+        "placeId": "ChIJacZgJ7_tDzkRdNeibenK6uA",
+        "prev_excerpt": null,
+        "excerpt": "Hibiscus Garden in Chandigarh's Sector 36 spans 8 acres with over 40 hibiscus varieties.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 113,
+            "3": 33,
+            "1": 12,
+            "5": 240,
+            "2": 8
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 1800 180 2116",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJacZgJ7_tDzkRdNeibenK6uA_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 85,
+          "heuristic_triggers": [
+            "good_rating",
+            "high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 97,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Hibiscus Garden is an important local botanical attraction contributing to Chandigarh's identity as the 'City of Gardens' with a notable variety of hibiscus species.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJacZgJ7_tDzkRdNeibenK6uA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJacZgJ7_tDzkRdNeibenK6uA_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJacZgJ7_tDzkRdNeibenK6uA_3.jpg"
+        ],
+        "latitude": 30.735637,
+        "images_updated_at": "2025-10-26T03:23:41.027000+00:00",
+        "types": [
+          "Garden"
+        ],
+        "address": "Hibiscus Garden Rd, 36A, Sector 36, Chandigarh, 160036, India"
+      },
+      {
+        "_id": "ChIJlzKPi0PtDzkRsi3-RfaAnME",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:13:47.587348+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 76.80505409999999,
+        "rating": 4.5,
+        "detail_description": "Mosaic courtyards, sculptures & paths made from old crockery in a lush garden created by Nek Chand.",
+        "imageKeys": [],
+        "ratingCount": 48598,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-25T13:13:47.587348+00:00",
+        "name": "Nek Chand’s Rock Garden of Chandigarh",
+        "placeId": "ChIJlzKPi0PtDzkRsi3-RfaAnME",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "iconic",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.95,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "World-famous, unique sculpture garden and a defining cultural landmark of Chandigarh attracting large numbers of tourists.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:44:34.737000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 172 274 0645",
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJlzKPi0PtDzkRsi3-RfaAnME_2.jpg",
+        "images_updated_at": "2025-10-26T03:23:45.917000+00:00",
+        "types": [
+          "Garden",
+          "Sculpture museum"
+        ],
+        "website": null,
+        "index": 24,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJlzKPi0PtDzkRsi3-RfaAnME_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJlzKPi0PtDzkRsi3-RfaAnME_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJlzKPi0PtDzkRsi3-RfaAnME_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJlzKPi0PtDzkRsi3-RfaAnME_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJlzKPi0PtDzkRsi3-RfaAnME_5.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 11408,
+            "3": 3665,
+            "1": 1241,
+            "5": 31298,
+            "2": 880
+          }
+        },
+        "country": "",
+        "address": "Uttar Marg, Rock Garden of Chandigarh, Sector 1, Chandigarh, 160001, India",
+        "latitude": 30.7529331
+      },
+      {
+        "_id": "ChIJp0dv42mTDzkRkAfzsvMf3wA",
+        "prev_detail_description": "Hops n Grains The Microbrewery has been a staple in Panchkula for 12 years, offering a unique European-inspired experience. The restaurant features three floors with woody plush interiors connected by glass bridges, and shiny steel tanks on display behind a glass facade. Guests can enjoy the open space with leather upholstered seating while savoring freshly crafted beer brew.",
+        "website": null,
+        "index": 17,
+        "utcOffset": 330,
+        "longitude": 76.84936,
+        "rating": 4.5,
+        "detail_description": "Hops n Grains in Panchkula offers a European-style brewpub with three floors of wood and leather interiors. Enjoy fresh craft beers brewed on-site, visible through glass tanks, in a spacious, stylish setting.",
+        "imageKeys": [
+          "38TzC6WTa1g9KSBJppPjoikZVsv7OVuq",
+          "f6We6394uUF6tGud7JPDkeeuLzFQqp4I",
+          "Oz0HwQZp4LpSGfS2XT837GP6IPFSoX1r"
+        ],
+        "ratingCount": 3900,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "0000",
+              "day": 1
+            },
+            "open": {
+              "time": "1200",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "0000",
+              "day": 2
+            },
+            "open": {
+              "time": "1200",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "0000",
+              "day": 3
+            },
+            "open": {
+              "time": "1200",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "0000",
+              "day": 4
+            },
+            "open": {
+              "time": "1200",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "0000",
+              "day": 5
+            },
+            "open": {
+              "time": "1200",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "0000",
+              "day": 6
+            },
+            "open": {
+              "time": "1200",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "0000",
+              "day": 0
+            },
+            "open": {
+              "time": "1200",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:21.137998+00:00",
+        "name": "Hops n Grains The Microbrewery",
+        "placeId": "ChIJp0dv42mTDzkRkAfzsvMf3wA",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJp0dv42mTDzkRkAfzsvMf3wA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJp0dv42mTDzkRkAfzsvMf3wA_2.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 989,
+            "3": 245,
+            "1": 101,
+            "5": 2501,
+            "2": 64
+          }
+        },
+        "priceLevel": 2,
+        "phone": "+91 80549 23857",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJp0dv42mTDzkRkAfzsvMf3wA_1.jpg",
+        "excerpt": "Hops n Grains in Panchkula offers a European-style brewpub with three floors of wood and leather interiors.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "high_rating_restaurant",
+            "high_reviews_restaurant"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 95,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular local microbrewery with good ambiance but not a major tourist attraction or city-defining venue in Chandigarh.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "address": "SCO 358, Sector 9, Panchkula, Haryana 134109, India",
+        "latitude": 30.697593,
+        "types": [
+          "Brewpub",
+          "Bar",
+          "Restaurant"
+        ]
+      },
+      {
+        "_id": "ChIJr1AOpHXtDzkRiHELjgSGk3U",
+        "prev_detail_description": "Zakir Hussain Rose Garden, established in 1967, spans across 30 acres and showcases a wide variety of roses, complemented by walking paths and fountains. The garden is conveniently located near several popular attractions such as ISKCON Chandigarh, Government Museum and Art Gallery, Leisure Valley, The Rock Garden of Chandigarh, Elante mall, and Sukhna Lake.",
+        "website": null,
+        "index": 9,
+        "utcOffset": 330,
+        "longitude": 76.782881,
+        "rating": 4.4,
+        "detail_description": "Zakir Hussain Rose Garden in Chandigarh spans 30 acres with diverse rose varieties, walking paths, and fountains. It lies close to key spots like ISKCON, Rock Garden, and Sukhna Lake.",
+        "imageKeys": [
+          "7XR66cT39ZEdO3yyVx3ZpZWVIHoq5c2i",
+          "Lt87pDGhwccWh061wWsbSUQdxIQ79ffy",
+          "jFFeKJBhvDjDdfmFAPBX4yYEsJI2KnU7"
+        ],
+        "ratingCount": 39142,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2200",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 1
+            },
+            "open": {
+              "time": "0600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 2
+            },
+            "open": {
+              "time": "0600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 3
+            },
+            "open": {
+              "time": "0600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 4
+            },
+            "open": {
+              "time": "0600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 5
+            },
+            "open": {
+              "time": "0600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 6
+            },
+            "open": {
+              "time": "0600",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:22.845357+00:00",
+        "name": "Zakir Hussain Rose Garden",
+        "placeId": "ChIJr1AOpHXtDzkRiHELjgSGk3U",
+        "prev_excerpt": "Opened in 1967, this 30-acre botanical garden offers many rose varieties, walking paths & fountains.",
+        "excerpt": "Zakir Hussain Rose Garden in Chandigarh spans 30 acres with diverse rose varieties, walking paths, and fountains.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 9164,
+            "3": 3511,
+            "1": 1245,
+            "5": 24278,
+            "2": 1010
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 1800 180 2116",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr1AOpHXtDzkRiHELjgSGk3U_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.9,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Zakir Hussain Rose Garden is a large, well-maintained park with a vast variety of roses, popular among visitors and locals, making it an important attraction in Chandigarh.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr1AOpHXtDzkRiHELjgSGk3U_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr1AOpHXtDzkRiHELjgSGk3U_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr1AOpHXtDzkRiHELjgSGk3U_3.jpg"
+        ],
+        "latitude": 30.747035,
+        "images_updated_at": "2025-10-26T03:23:54.032000+00:00",
+        "types": [
+          "Garden",
+          "Nature & Parks",
+          "Park"
+        ],
+        "address": "Jan Marg, 16B, Sector 16, Chandigarh, 160015, India"
+      },
+      {
+        "_id": "ChIJrfIt7vXsDzkR5toD_9fEuho",
+        "prev_detail_description": "Japanese Garden in Chandigarh, India, spans 13 acres and offers a captivating glimpse into Japanese culture. The park features meticulously designed gardens, pagodas, and sculptures that transport visitors to Japan. With serene ponds, picturesque bridges, and cherry blossoms reminiscent of the Far East, it's a haven for photographers seeking creative inspiration. This unique destination boasts a Zen experience unlike any other in the city.",
+        "website": null,
+        "index": 15,
+        "utcOffset": 330,
+        "longitude": 76.784251,
+        "rating": 4.2,
+        "detail_description": "Japanese Garden in Chandigarh spans 13 acres with serene ponds, pagodas, and cherry blossoms. It offers a peaceful, authentic Japanese experience and beautiful spots for photography and relaxation.",
+        "imageKeys": [
+          "5d8bVh7Mka1boAVncskIkZ0iQkcMo245",
+          "wbMFeBpKbIj7M3QsEyxMFFru86ovLxcG",
+          "UA50PvUp8h3PsZub44q7ELlEmxRjXwjY"
+        ],
+        "ratingCount": 11564,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2100",
+              "day": 0
+            },
+            "open": {
+              "time": "0500",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:24.225996+00:00",
+        "name": "Japanese Garden, 31A Chandigarh",
+        "placeId": "ChIJrfIt7vXsDzkR5toD_9fEuho",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrfIt7vXsDzkR5toD_9fEuho_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrfIt7vXsDzkR5toD_9fEuho_2.jpg"
+        ],
+        "prev_excerpt": "Japanese-themed park on 13 acres with gardens, pagodas & sculptures, plus eateries & water features.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 3241,
+            "3": 1431,
+            "1": 413,
+            "5": 6164,
+            "2": 329
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrfIt7vXsDzkR5toD_9fEuho_1.jpg",
+        "excerpt": "Japanese Garden in Chandigarh spans 13 acres with serene ponds, pagodas, and cherry blossoms.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "The Japanese Garden is a well-known, beautifully designed park offering a unique cultural experience in Chandigarh, attracting many visitors.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "address": "PQ3M+RP6, near Japanese Park, Sector 31 A, Sector 31, Chandigarh, 160030, India",
+        "latitude": 30.704526,
+        "types": [
+          "Park",
+          "Nature & Parks",
+          "Education center",
+          "Middle school",
+          "Gardens"
+        ]
+      },
+      {
+        "_id": "ChIJsYbzEB_sDzkRptJ2AvsJ5tk",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:13:47.588346+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 76.73753049999999,
+        "rating": 4.4,
+        "detail_description": "Punjab Cricket Association Cricket Stadium is a stadium in Mohali, Punjab, India that has been used for cricket matches. It was built in 1993 and has been a popular destination for cricket fans. The stadium has hosted several domestic and international games.",
+        "imageKeys": [],
+        "ratingCount": 13190,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-25T13:13:47.588346+00:00",
+        "name": "I.S. Bindra Punjab Cricket Association Stadium",
+        "placeId": "ChIJsYbzEB_sDzkRptJ2AvsJ5tk",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 90,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular cricket stadium primarily known to sports fans, but located in Mohali rather than Chandigarh city proper, limiting its status as a top Chandigarh attraction.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:44:34.737000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 172 223 2300",
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJsYbzEB_sDzkRptJ2AvsJ5tk_2.jpg",
+        "images_updated_at": "2025-10-26T03:24:00.030000+00:00",
+        "types": [
+          "Stadium",
+          "Sights & Landmarks",
+          "Arenas & Stadiums"
+        ],
+        "website": "http://cricketpunjab.in/",
+        "index": 25,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJsYbzEB_sDzkRptJ2AvsJ5tk_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJsYbzEB_sDzkRptJ2AvsJ5tk_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJsYbzEB_sDzkRptJ2AvsJ5tk_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJsYbzEB_sDzkRptJ2AvsJ5tk_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJsYbzEB_sDzkRptJ2AvsJ5tk_5.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 2858,
+            "3": 1003,
+            "1": 560,
+            "5": 8462,
+            "2": 297
+          }
+        },
+        "country": "",
+        "address": "Bindra Stadium I.S, Sukhna Path, Sector 63, Sahibzada Ajit Singh Nagar, Lamba, Punjab 160062, India",
+        "latitude": 30.6908912
+      },
+      {
+        "_id": "ChIJsZybommTDzkRkpu4EE_fs-o",
+        "prev_detail_description": "Cactus Garden, established in 2004, is a 7-acre botanic garden featuring rare and endangered cacti, greenhouses, and fish ponds. Located in Panchkula near Chandigarh, this free attraction offers a diverse collection of succulent plant species from around the world. Visitors can explore thousands of cactus species, including rare and endangered ones showcased in exhibits. The garden also houses a museum for an enjoyable learning experience.",
+        "website": null,
+        "index": 20,
+        "utcOffset": 330,
+        "longitude": 76.850764,
+        "rating": 4.4,
+        "detail_description": "Explore 7 acres of rare and endangered cacti at Cactus Garden in Panchkula. Discover diverse succulent species, greenhouses, fish ponds, and a museum, all free to visit near Chandigarh.",
+        "imageKeys": [
+          "jDLOysBzK2yQxZiwe2jE8EEMrr635r2N",
+          "87am3LFYSa2PhIgDN6DdLpxIiylLSk8j",
+          "ILXvJ20HAq5Wi1MsIwpresNJ4e07dA7J"
+        ],
+        "ratingCount": 3150,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0800",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0800",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:25.741654+00:00",
+        "name": "Cactus Garden",
+        "placeId": "ChIJsZybommTDzkRkpu4EE_fs-o",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJsZybommTDzkRkpu4EE_fs-o_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJsZybommTDzkRkpu4EE_fs-o_2.jpg"
+        ],
+        "prev_excerpt": "Opened in 2004, this 7-acre botanic garden offers rare & endangered cacti, greenhouses & fish ponds.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 811,
+            "3": 266,
+            "1": 87,
+            "5": 1932,
+            "2": 55
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJsZybommTDzkRkpu4EE_fs-o_1.jpg",
+        "excerpt": "Explore 7 acres of rare and endangered cacti at Cactus Garden in Panchkula.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 90,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Cactus Garden is a pleasant and unique botanical garden near Chandigarh but lacks widespread fame or cultural significance within the city itself.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "address": "Panchkula Urban Estate, Sector 5, Panchkula, Haryana 134108, India",
+        "latitude": 30.697708,
+        "types": [
+          "Garden",
+          "Nature & Parks"
+        ]
+      },
+      {
+        "_id": "ChIJwZbQfpjtDzkRxgZCDo7pIi8",
+        "prev_detail_description": "The International Dolls Museum in Chandigarh is a unique and exceptional place to visit, showcasing a diverse collection of dolls from around the world. From traditional Indian Kathputli puppets to delicate porcelain figurines from Europe, the museum offers a fascinating insight into the history and craftsmanship of dolls in various societies. Visitors can marvel at the intricate designs and attention to detail displayed in the vast array of dolls on exhibit.",
+        "website": null,
+        "index": 6,
+        "utcOffset": 330,
+        "longitude": 76.770981,
+        "rating": 4.1,
+        "detail_description": "Explore the International Dolls Museum in Chandigarh, featuring a diverse collection of dolls from India and around the world, showcasing traditional puppets and delicate figurines that highlight global craftsmanship and culture.",
+        "imageKeys": [
+          "38CdrQSa7TIuOqeoWNUTR66tjmdapO06",
+          "PwRZxwSp8LTbnkb6Te8n6wgpxewMLEhT",
+          "RYJi0D0LOFvkPzgVknjV9dzivg6S7rRf"
+        ],
+        "ratingCount": 2041,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1630",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:27.100435+00:00",
+        "name": "International Dolls Museum",
+        "placeId": "ChIJwZbQfpjtDzkRxgZCDo7pIi8",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwZbQfpjtDzkRxgZCDo7pIi8_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwZbQfpjtDzkRxgZCDo7pIi8_2.jpg"
+        ],
+        "prev_excerpt": "Children's musuem showcasing a large collection of dolls from around the world in traditional dress.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 524,
+            "3": 296,
+            "1": 97,
+            "5": 1047,
+            "2": 86
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 1800 180 2116",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwZbQfpjtDzkRxgZCDo7pIi8_1.jpg",
+        "excerpt": "Explore the International Dolls Museum in Chandigarh, featuring a diverse collection of dolls from India and around the…",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Unique cultural museum showcasing diverse dolls globally, well-rated and appealing to families and cultural tourists in Chandigarh.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "address": "Bal Bhawan, Udyog Path, 23B, Sector 23B, Chandigarh, 160023, India",
+        "latitude": 30.741179,
+        "types": [
+          "Children's museum",
+          "Museums",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJx9Ky5WftDzkRDNu7jb-fZgQ",
+        "prev_detail_description": "The Open Hand Monument, situated in the Capitol Complex of Chandigarh, is a significant architectural creation by the renowned architect Le Corbusier. This iconic 85-foot structure features a large hand with an open palm, symbolizing peace, unity, and acceptance of new ideas. Designed to represent the positive aspects of the city, it stands as a prominent landmark and embodies the theme of peace and reconciliation. The monument's symbolic significance extends beyond Chandigarh to captivate visitors from around the world.",
+        "website": null,
+        "index": 12,
+        "utcOffset": 330,
+        "longitude": 76.807401,
+        "rating": 4.5,
+        "detail_description": "The Open Hand Monument in Chandigarh, designed by Le Corbusier, is an 85-foot sculpture symbolizing peace and unity. It stands as a key landmark promoting harmony and openness to new ideas.",
+        "imageKeys": [
+          "GcZDnIj7rfHnn7gHsUpv37FbnPDLr0kN",
+          "kkuhkUfS0ON5VG7KC8KP6d5tafC4fGqQ",
+          "aNLoVBtvypPZImVNGk8wtBiXdlFhkCVo",
+          "xEzLLx6uDm2VsIfGLsIAgNpE9uqO4fJX"
+        ],
+        "ratingCount": 841,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T18:15:28.724535+00:00",
+        "name": "The Open Hand Monument",
+        "placeId": "ChIJx9Ky5WftDzkRDNu7jb-fZgQ",
+        "prev_excerpt": "The symbolic 26-m. Open Hand monument by French architect Le Corbusier rotates in the wind.",
+        "excerpt": "The Open Hand Monument in Chandigarh, designed by Le Corbusier, is an 85-foot sculpture symbolizing peace and unity.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 178,
+            "3": 55,
+            "1": 22,
+            "5": 574,
+            "2": 12
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 172 274 0154",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx9Ky5WftDzkRDNu7jb-fZgQ_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "high_reviews"
+          ],
+          "llm_confidence": 0.9,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "The Open Hand Monument is an important architectural symbol of Chandigarh by Le Corbusier, representing peace and unity, and is a key part of the city's Capitol Complex.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T19:22:26.460000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx9Ky5WftDzkRDNu7jb-fZgQ_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx9Ky5WftDzkRDNu7jb-fZgQ_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx9Ky5WftDzkRDNu7jb-fZgQ_3.jpg"
+        ],
+        "latitude": 30.759011,
+        "images_updated_at": "2025-10-26T03:24:25.442000+00:00",
+        "types": [
+          "Monument",
+          "Sights & Landmarks",
+          "Monuments & Statues",
+          "Points of Interest & Landmarks"
+        ],
+        "address": "31, Uttar Marg, Capitol Complex, Sector 1, Chandigarh, 160001, India"
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "Spring brings warmer temperatures, ranging from 15°C to 35°C. March is particularly pleasant, with blooming flowers in the gardens. This is a great time to visit the Rose Garden, which hosts the annual Rose Festival in April, attracting flower enthusiasts. As temperatures rise in May, early morning and late evening outings are recommended.",
+          "June to August": "The summer months can be hot, with temperatures soaring above 35°C, especially in June and July. However, the monsoon season begins in July, bringing relief from the heat. This is a good time to enjoy the lush greenery of the city. Visitors should stay hydrated and plan indoor activities, such as visiting museums and art galleries.",
+          "Travel Tip": "When visiting Chandigarh, consider using public transport or renting a bicycle to explore the city. The well-planned layout makes it easy to navigate. Additionally, try to visit during the early morning or late evening to avoid the heat, especially in the summer months. Don't miss the local markets for authentic handicrafts and street food.",
+          "Overview": "Chandigarh, the capital of both Punjab and Haryana, is a unique city known for its modern architecture and urban design. It was designed by the famous architect Le Corbusier in the 1950s and is celebrated for its beautiful gardens, wide avenues, and vibrant culture. The city serves as a gateway to the northern regions of India and offers a blend of tradition and modernity.",
+          "December to February": "During these months, Chandigarh experiences cool and pleasant weather, making it an ideal time for sightseeing. The temperature ranges from 5°C to 20°C. Visitors can explore the Rock Garden, Sukhna Lake, and various parks without the discomfort of heat. The annual Chandigarh Carnival in February is a highlight, showcasing local culture and arts.",
+          "Regional Highlights": "Chandigarh is home to several notable attractions, including the Rock Garden, a unique sculpture garden created from industrial and urban waste. Sukhna Lake offers boating and scenic views, while the Capitol Complex, a UNESCO World Heritage site, features impressive government buildings designed by Le Corbusier. The city is also known for its vibrant food scene, with numerous eateries serving local Punjabi cuisine.",
+          "September to November": "The weather becomes more comfortable as the monsoon recedes, with temperatures ranging from 15°C to 30°C. This is an excellent time for outdoor activities and exploring the city's attractions. The Chandigarh International Film Festival in November is a notable event, showcasing regional and international cinema."
+        },
+        "monthlyRatings": {
+          "Apr": 5,
+          "Jun": 3,
+          "Jul": 3,
+          "Dec": 4,
+          "Mar": 5,
+          "Feb": 4,
+          "Aug": 3,
+          "Jan": 4,
+          "May": 4,
+          "Nov": 4,
+          "Oct": 5,
+          "Sep": 4
+        }
+      },
+      {
+        "_id": "things_to_know",
+        "🌞 Weather Considerations": "Chandigarh experiences a humid subtropical climate, with hot summers and cool winters. It's best to visit during the cooler months from October to March for pleasant weather.",
+        "Conclusion": "Chandigarh is a city that beautifully combines modernity with tradition. Embrace the local culture and enjoy your journey in this remarkable destination.",
+        "🎉 Festivals and Events": "Chandigarh hosts various cultural festivals throughout the year, including Baisakhi and Diwali celebrations. Participating in these events can provide deeper insights into the local culture.",
+        "📸 Photography Spots": "The city is filled with picturesque locations perfect for photography, such as Sukhna Lake and the Chandigarh Haat. Be sure to capture the stunning architecture and vibrant gardens.",
+        "Introduction": "Chandigarh, known as the 'City Beautiful', is a unique blend of modern architecture and lush greenery. Before visiting this planned city, it's essential to understand its culture, attractions, and local customs to make the most of your experience.",
+        "🏞️ Parks and Gardens": "Chandigarh is famous for its beautiful parks and gardens, such as the Rock Garden and Rose Garden. These are perfect spots for relaxation and enjoying nature amidst the urban landscape.",
+        "🏛️ Architectural Highlights": "The city is renowned for its modernist architecture, designed by Le Corbusier. Key sites include the Capitol Complex and the Open Hand Monument, which are must-visit attractions.",
+        "🍽️ Local Cuisine": "Don't miss out on trying the local Punjabi cuisine, which is rich and flavorful. Popular dishes include butter chicken, sarson da saag, and makki di roti, best enjoyed at local dhabas.",
+        "🚌 Transportation Tips": "Public transport in Chandigarh is efficient, with buses and auto-rickshaws readily available. However, renting a bicycle or using ride-sharing apps can provide more flexibility for exploring the city.",
+        "🛍️ Shopping Areas": "Chandigarh offers vibrant shopping experiences, especially in sectors 17 and 22. From traditional handicrafts to modern boutiques, there's something for every shopper."
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 19,
+  "city": "Marbella",
+  "category_used": "backpacking trails",
+  "url": "https://wanderlog.com/list/geoCategory/106540",
+  "title": "The 26 best backpacking trails near Marbella",
+  "final_title": "Marbella's Hidden Trails and Coastal Wonders",
+  "from_cache": false,
+  "counts": {
+    "meta": 26,
+    "blocks": 26,
+    "merged": 26,
+    "accepted_before_trim": 13,
+    "rejected": 13,
+    "accepted_final": 8
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 13,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "983",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\spain_20251002_1031\\marbella_beaches_106540.json",
+    "report_json": "publish_playlist\\spain_20251002_1031\\marbella_beaches_106540.report.json"
+  },
+  "created_ts": 1759385489
+}

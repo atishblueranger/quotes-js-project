@@ -1,0 +1,3091 @@
+{
+  "_id": "58153",
+  "city_name": "Honolulu",
+  "is_searchable": true,
+  "place_id": 58153,
+  "country_name": "United States",
+  "city_name_search": "honolulu",
+  "longitude": -157.86186,
+  "parent_id": 58149,
+  "popularity": 161013,
+  "manual_description": "It's no wonder that Hawaii's cosmopolitan capital is one of the most popular travel destinations in the US. Visitors flock here to relax on its pristine shores, thrilling watersports, or the beach while enjoying a taste of Hawaii's unique culture. Learn about Hawaiian royalty at Iolani Palace, revisit history at Pearl Harbor, or take a leisurely stroll on Waikiki Beach. For a festive evening out, try a luau, a traditional Hawaiian party featuring local food, music, and dance.",
+  "subcategory": "city",
+  "state_name": "Hawaii",
+  "bounds": [
+    -157.94944,
+    21.25484,
+    -157.6487,
+    21.40123
+  ],
+  "image_url": [
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/58153/1.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/58153/2.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/58153/3.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/58153.jpg"
+  ],
+  "position": {
+    "geohash": "87z9pz08b",
+    "geopoint": {
+      "latitude": 21.308142,
+      "longitude": -157.86186
+    }
+  },
+  "latitude": 21.308142,
+  "image_key": "0CP6aeMSqeGagHGtvN2rWUua2azE8POt",
+  "depth": 4,
+  "place_description": "Honolulu, on the island of Oahu's south shore, is capital of Hawaii and gateway to the U.S. island chain. The Waikiki neighborhood is its center for dining, nightlife and shopping, famed for its iconic crescent beach backed by palms and high-rise hotels, with volcanic Diamond Head crater looming in the distance. Sites relating to the World War II attack on Pearl Harbor include the USS Arizona Memorial.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "58149",
+        "subcategory": "island",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 58149,
+        "longitude": -157.9462,
+        "bounds": [
+          -158.28175,
+          21.25484,
+          -157.6487,
+          21.71267
+        ],
+        "latitude": 21.422,
+        "popularity": 209256,
+        "parentId": 90410,
+        "depth": 3,
+        "name": "Oahu"
+      },
+      {
+        "_id": "90407",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 90407,
+        "longitude": -95.39237,
+        "bounds": [
+          -124.39,
+          25.82,
+          -66.94,
+          49.38
+        ],
+        "latitude": 37.94097,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "United States"
+      },
+      {
+        "_id": "90410",
+        "subcategory": "state",
+        "stateName": null,
+        "countryName": "United States",
+        "id": 90410,
+        "longitude": -155.48567,
+        "bounds": [
+          -160.53,
+          18.55,
+          -154.48,
+          22.37
+        ],
+        "latitude": 19.585493,
+        "popularity": 0,
+        "parentId": 90407,
+        "depth": 2,
+        "name": "Hawaii"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "58149",
+        "subcategory": "island",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 58149,
+        "longitude": -157.9462,
+        "bounds": [
+          -158.28175,
+          21.25484,
+          -157.6487,
+          21.71267
+        ],
+        "latitude": 21.422,
+        "popularity": 209256,
+        "parentId": 90410,
+        "depth": 3,
+        "name": "Oahu"
+      },
+      {
+        "_id": "58364",
+        "subcategory": "city",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 58364,
+        "longitude": -158.1029,
+        "bounds": [
+          -158.12243,
+          21.57563,
+          -158.08985,
+          21.61162
+        ],
+        "latitude": 21.58948,
+        "popularity": 6666,
+        "parentId": 58149,
+        "depth": 4,
+        "name": "Haleiwa"
+      },
+      {
+        "_id": "58608",
+        "subcategory": "city",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 58608,
+        "longitude": -157.74007,
+        "bounds": [
+          -156.04342,
+          19.61882,
+          -155.86763,
+          19.70984
+        ],
+        "latitude": 21.39657,
+        "popularity": 7112,
+        "parentId": 58149,
+        "depth": 4,
+        "name": "Kailua"
+      },
+      {
+        "_id": "58626",
+        "subcategory": "island",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 58626,
+        "longitude": -157.0437,
+        "bounds": [
+          -157.31062,
+          21.04621,
+          -156.70967,
+          21.22383
+        ],
+        "latitude": 21.144924,
+        "popularity": 1569,
+        "parentId": 90410,
+        "depth": 3,
+        "name": "Molokai"
+      },
+      {
+        "_id": "58649",
+        "subcategory": "municipality",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 58649,
+        "longitude": -158.08276,
+        "bounds": [
+          -158.09116,
+          21.32322,
+          -158.04822,
+          21.3659
+        ],
+        "latitude": 21.36809,
+        "popularity": 2981,
+        "parentId": 58149,
+        "depth": 4,
+        "name": "Kapolei"
+      },
+      {
+        "_id": "58712",
+        "subcategory": "island",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 58712,
+        "longitude": -156.91953,
+        "bounds": [
+          -157.06226,
+          20.73181,
+          -156.80564,
+          20.92933
+        ],
+        "latitude": 20.82794,
+        "popularity": 1627,
+        "parentId": 90410,
+        "depth": 3,
+        "name": "Lanai"
+      },
+      {
+        "_id": "58847",
+        "subcategory": "city",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 58847,
+        "longitude": -157.80383,
+        "bounds": [
+          -157.82275,
+          21.38423,
+          -157.75975,
+          21.43143
+        ],
+        "latitude": 21.4214,
+        "popularity": 2173,
+        "parentId": 58149,
+        "depth": 4,
+        "name": "Kaneohe"
+      },
+      {
+        "_id": "59036",
+        "subcategory": "city",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 59036,
+        "longitude": -156.91844,
+        "bounds": [
+          -156.93823,
+          20.82013,
+          -156.90621,
+          20.84098
+        ],
+        "latitude": 20.825527,
+        "popularity": 1429,
+        "parentId": 58712,
+        "depth": 4,
+        "name": "Lanai City"
+      },
+      {
+        "_id": "59562",
+        "subcategory": "city",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 59562,
+        "longitude": -157.02155,
+        "bounds": [
+          -157.03331,
+          21.07624,
+          -156.99337,
+          21.10393
+        ],
+        "latitude": 21.0906,
+        "popularity": 366,
+        "parentId": 58626,
+        "depth": 4,
+        "name": "Kaunakakai"
+      },
+      {
+        "_id": "75756",
+        "subcategory": "city",
+        "stateName": "Hawaii",
+        "countryName": "United States",
+        "id": 75756,
+        "longitude": -157.78313,
+        "bounds": [
+          -157.81196,
+          21.25488,
+          -157.75436,
+          21.3318
+        ],
+        "latitude": 21.26482,
+        "popularity": 0,
+        "parentId": 58149,
+        "depth": 4,
+        "name": "Kahala"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ1dyRbHVuAHwRg51MUZG87sk",
+        "website": "https://www.capitolmodern.org/",
+        "index": 6,
+        "utcOffset": -600,
+        "longitude": -157.858341,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/capitol-modern/a/poi-sig/376743/361979",
+        "rating": 4.5,
+        "detail_description": "With its vibrant, thought-provoking collections, this public art museum brings together traditional and contemporary art from Hawaii’s multiethnic communities. Formerly called the Hawaiʻi State Art Museum, the museum inhabits a grand 1928 Spanish Mission Revival–style building, formerly a YMCA and today a nationally registered historic site. The museum is also home to a fine gift shop and an excellent cafe, Artizen by MW.\nUpstairs, revolving exhibits of paintings, sculptures, fiber art, photography and mixed media are displayed around themes, such as the island’s Polynesian heritage, modern social issues or the natural beauty of land and sea. Hawaii’s complex confluence of Asian, Pacific Rim and European cultures is evident throughout, shaping an aesthetic that captures the soul of the islands and the hearts of the people.Special events are very worthwhile. On the first Friday evening each month, galleries are open with live entertainment and a family-friendly atmosphere. Drop by at noon on the last Tuesday of the month for free ‘Art Lunch’ lectures or between 11am and 3pm on the second Saturday for hands-on Hawaiian arts and crafts, often designed with kids in mind.",
+        "imageKeys": [
+          "ATKogpdZ6h6aNGtPKv4HpTd-8bTgCOduI_pOkn1etLfGDpittbAtFjbnGUlFVGjRauSIpNV4zXjIKBmsF_Vt8X67nYp3hxGWADO2waMJSPEqxvwPZmEHcxuXKol7vyfqn7i7BYhANrOW9MN-ixKahlfQFlRyNunOE2_MbfWXJQHrYLCVQebfCtI_Iw34As6K_0elXWa6tgRd1Vsz8JYPTz05GNCStbLHo9VsT3_Bmfd0KEHoZf4uLl1rkUbiSEo8a9VJHPUCAxRJbSWYBr1HVmGHngycOOmv-RD6v8I7lTxJbA8s6czIoSkvM3ZYZIF8fRV82AO_RzC-ZBA",
+          "ATKogpc9RIdVX0t5uoAmaxLJk4kk5fKVUQVateG95Uv4bBpsd4L1WBdncm_X0NqkzRtYLxlC2apEFOAwbaZgT5ApnKY8fyPgJil83kPABMmls5n4HRWeLYaW_OKbt0rQB_btf7NjnX_FvDMnrv46holCgqbKh9ceM6hDmpqAFoeMQAVTr2a3oRaIFoklt1KCRUvee1sQVKArjF13GecRR51O7CLi6lElRJYbsnV3cPSWbBoFvEhtFXHejh8eAmZ8A2T_F3RY1dum2Dk9p0Xo7CEWMJmWRqrrC2p1MYMhf9MCgu_gcewrvpY0OPXCBdvbXlLAdttl5OWkPbHeGsYL9okMHXUyVn2ot9F-dv1VUU1lGbjgwcNjm8WB-bsx_1LGUbz6DZvqr4jqOvp9Bm-r7N4hgR3cTzuzQR1J3ol5MSOwLoDZ_duBZwzzCCybCeG1Qa7JYVJoLUoB6oj4UEiavxUgj8Sj0ZxOFQwi4chlVQmR3G5y8jjtZ7gw4xR1rDFYebrPkwVelen3xsTeoY9hZe6dx9RABh6SzGSgO515wyuwu8cLsC00dqxhN5iNxHT9X9g8WnjGbpx2pI064gqHR6jsmNH0YmLxcwtHIOf8vLdxyPTBQNDy8gcCy61Mgo5I-s23kNh73ZDF",
+          "ATKogpejbFdTcpQZ4uUkbGurywJRlRG-nqiDDEUibvcxEtaDdylqcp09aqNub8Wdfj8X1qJLr2s133_IeetTsHwDks0GjUvGVM7C1cqLhrOGDAJFuHTYAeyDVxtqZr0qCghMLGrDYv2HkzvFZQRR580VnUJoUZJebovrdm9JX_Bf-zv7XsgaJTNPd5IFJwXmR0x7y2sTSybHv3bmx0AtkB_D1VRlzycYI6fMXLXxGT9pvT-aac2z6qwKeoQlL3FAGzPzjUmc2AR-CWHJv2kXVI85QaosBm5O_dEdAtMhFxTzwJYuo6KCnf5EuXQZkA6VKEWaS6WpAjGk-o-x83BLmIm_Mx22Wq3I_R2fRb_V4j8fxmcyfpwQi6HQKuMhxb_t0j_kknmA6RhfeuBx1rU7NAj4HQpQOUtOoo1AUU5kZVf5TwjorvAaGvj7WDD-0tT11qFFTcGHc8dlLIS2LGZf3ynyBSXQequtrwX2L4ZKIRQklXS01Tr8MTZ8-Hy-YzldJEMWSpG7_aEN43TAjkGdqI7wWq_vhGvmoJ3sP7Ffgky_LxUiMySrT3_qmrJOk7qAdS40dqn0yslvgK4YkBf1B-f3tYy2HulqaK6VY7rcfWWKCXRvGv6r8oHy6taB7K1xKLrnfrERQQ",
+          "ATKogpcQ-pr_lBfYT2JDO5XnYpEmDfqQoMzXoePBwcpbUFDKw47tQYJW6jKkqbUXO1O-7D1qv0LTpUiqd9LnzdnVf6xn7MxFmAWknwcPws3zDctRe3jH28tCR0vnEz09MFbh-tuOspxc7dv5Kn6XZdrlN76evgV_yNOS7bObzjZN7M-vJgS3SfzOFUP4fXkHvcjbZzkQKJoHTeUYR8Aa9OdOxbyvKQmKydD6NtFd4zlNN3oA4rsVoyYZwdwgm2WYKatY-Y_H40PW4Y9_NraLCl23Djs5S_uvdh7JEbMCDEMr7uXWhsKDnppnAHTGnVZ_hu3WhMlgbOCPy73tjsRQeSxC3qgEkfr8GGbyZS4MRk6hE4H1otAiuPBuSISop3Y9RKAHvfNJTmk5kuDC_4Q-0kHyjP9oGT7mRFPGeJxeKQLbPlsgjTI1o4KZlZDZGtI9A1VThsUTN9qUB2IFIYTRQo12qza-40JHK7mDQAY7lMsLeBiS097uJ4qIS0SM-02C7YTQU8EuGiwKJSCbBQfuz8gtLWDEMJ081EYmZ0EVwXohDHSrmJbbldrXlsJ94bTkiBGCNo_B_wm-f9E0NjztwYAJWiK7IO4y4rQ1xhR4umXhsztVjqDYThBT-RMe1HwMxeA0",
+          "ATKogpcGG93ET8CUdOuZPCvyYZAu9Tbb7SHLgEf5_zlToksMopX7ADOS1crnHicwUy3E5_lDodeY7FY0tKrpmDN3oP-_iZOJAsFhHEB6Tmfqi4DkfZppeFxi_SQkhxU53a_gQNobjOYuRggOqLVMBOl4HqRlOmR2_2WceTCLLG59Wp4bglDVB7WokHvRV-BEHE37cRbIe9M_mfsZGteooJdeirmFFHvqfWJ7JEny6zYfRwMM88gjWrYzGt_x3EJbDZ-YR0_6SXsCiaXq6A8HV-yACxaAu5tLUS4beRf5lcxB8PJa-BLhzh_orgS-nFW3Eb5nLdbnTFH98T6GKOIyeCoN-u2m2TxRsNyzmiz9axmudkrxq5g4KPYwRvJXcQETYL9tBCPZRd33ZnaKtkhMoiv6jAleVY2oa4Tq6gSswDLEMSB4xo9W_DBRfwUwIYM2Grwg1ACbzqnQHOb1AiP3HWo9ne1v87T99od6cF6aKASJ_tXMBxddtgxMX4EzVFAh7ilKfFKGf1L-t-TvJF94rIBwoEWwa9mCtVHyET4ZSmLubDGw_wnwuL9A5u6uqB6nhW_y9npMPHnn8VSlzbb3i6wVni1HBebw9BPtC9eUudPWBtLqIz20Gf_Ugez9hVq17JjZnEyxKw",
+          "ATKogpeaIJkimUz_L6UTsvz5uVlXkJDb42upjkBhWVq1KZfWdSXrqMtquqUz3WzIP000XeEXySKZPABq_DAmWFdbu8-MYCGLNUSAtFtctUJP2mukXZ3_H1Gsca37aMwgzWU3FqYP0WTPsE9Tt7tbUY4-d_-ZxVNqsPozpFSmjU7fghCXWos-UxN2qWRnYGnTQrzHhJ1bpPx1DkPh46Jv3a2eqvC3QKTQD0iTB3EgX6Xwtz4Jt-yDv9QmdeqCvGwapXcaoTLSj4g31n9MhRkB8XWyjSXFtCCNXvQYEpJTLwqsVWXtwQ5GOMAZpheILYzJqKEICCWyIdXbHKGiHgNwsBBAAULPb3cCoAZmn8mK91f08qv0iFkNiexaejrbRrF_TWmoUlJCr8k0BIK_V7l05BrbOyIZbyfrj4iSEfqufXBms8YVYluzO4rnk0nT30rJoIdEP457TbcVCq7MS80QXAh902UVpO64AZTy6b4Sl2ERgTyVj3MCh2oDuB3L-mZQxcySxgZyZ6zYuYFzbWTNGkNRSskCm0zg1jAtjevqOBG3SQhn5nL8Ceq-hkYw-zUOkr5aBQNBrQ6XJvCSsZiSmd8_gTwmcgmUQ4N3KSVUmOabmFYVOflQqfo0qlyB3z_AufV24dd_kg",
+          "ATKogpdfW0gIMD4YNlnCDeDA_voBqe1syyPtvxvOwU6q5kPgNjAxZ4iNBkrFKW46XpQpkrf_IkRaeYEw211gQTPDSlVVZiOByTv5teCFwapyBHl2YvVh_Y1tWeCrupsZBTuiNIvlpEayaOQ0sp_uvSvFLGabDHeve-9pnm-bqCMQhO54dDHb5d8vPyvoKs35fiihW59MAj3SKw43QYmtJrx4uN4dNqU2ttLn1ezmCdvdjZZ2QYv7_CBK4kJL6gcxhVcg2QpW8x0sdoPDa1o-ClwUOXdsR-noQFT3zMAcidHnE57Ztr_c82dXSHPKl4oGn7r-bwRcohPbCctOKdHnKB32C7zkyuwSO7HkisCRt3L5HzBJxLzEXylFPf8VeBeE32tT7ED736pXCC0uEI8LqDktRhqAhObk0l6Adk8SJU_cvG664zM7XT3k2bWYyiukJdaqpE05ybGFHExsxITjm7EoNdGT9zstlCU0G0gR6YYB9HVQXZ2s_tplf96MQaP9FUM3iLXx-sFYK4RbcvKmwzFnQxJ-KiIkdrHlC2LZQAmQGBfvZ0kHgIcYI4GTvdAciZ8wVta3fDRJjQ2CYRCBQuxOyTozubGQnAOXIcYZZHxzrqMpAO0iu-4Rv7o9R1qPSRkqzYyjAg",
+          "ATKogpf6rxJfgbNwwqfBGFsI901lqksmFjz3-Yw94PsvpAQnO1aWFJR3P7r2xyy8qLKbUD2KsOuWXGAyUh9DFMgFckAHBJ2GR3ozS4-LvUcNXrNUKvp9wRKGkzxkmojIFwK8vttaaT8Hht2-dlGrNaxH2H9EVLp0-SA7VTZ1rMZxXzv_LM1pTDSGNIZTkZm02QGlr4ltGdZ7oUOIIUUhxwbD8Wyz8L3XvTFlRcgb_ujZQ-3ZCxlqoqcmhqYO9zbOKQ34zY8dWbX-ga31_jKryu7cQC8R1J0Hg6Cf3GKoZc14IWm6Z2hx53_Z2FvQ7Nnp6BkmMu1DHzdhYfc",
+          "ATKogpc7G1UxUwdX1P-FyfilbuCdR1gluEgOQbQGymz4--DlQL-TiLpIdgRDpsBrGUBS2jesqxcmNdMFTGHG62vBpYRMv0p2riRTrl8UkIvmjVnmXjbXdM4xd86LaZA8eeG5KW7oXIHPWB4aaNw8RfNS-HXpnzg2npKnm6OCtLh7s5Sc8t2xKK0k6llNhsTSiNKrcAL5-QuQBl6t8Cb34VJ9a4dcbbuACepOtdj0rBo59OD6sH3FgKPwurPvCKzrBVxxLYZozeQxkjbGybyNtYrjJaoVafegpsc4XZo4Kw7VhJ7PZZnfFNd09-r_mK0ih59BY2BY17EDOSTdkLcl67l-DQ3txtv42-3GKFlN_tNleSwvDL-qsUVBFhDluGttLpipoDYCwaHf0CAdaCwvkMt2l5jmGYLKqhrULfl_WlbKEyOlOcjaFh7bn8uOTMRZlInVLzQUJ3c7UKuu3fBtZZ40TRfLis0s28WZGFdgRKSySBWtf5h975gANg7JeXBokSFJHWQZBQjRRIorBPGPMWf_SN3-ih713rsP8W3gJ6BXquybPDpTLtv1bDKee9iDfoQ7yTLNcGEZD6QnuIIR7pqLbOUUwOIlu5PJvWwxmvSjqXfjVCbWqZkp8pPtZjsfM1wFrsh_Ww",
+          "ATKogpd-1CXJ_JuzNRo4cgU1yJwLWuik-RFoF2Rt67PnCQ497pz0WZItCN4XU-Hd13FrrZlNlgwcvHhsU7YdWQHHTdM9a4uRx7p3KE3ao4d8gPXLRbEmUo0uQXTnTA5xpeCOysv89UYlfSlJt4S4_DtSsGUyI9JT1BddmTJNncjTGTcaawugeVtlo7Vfet7grPHv69tWKi7ktlmyDYGARaWByjPic9CKdckmKXh1reUvp36fX3aTkepNKPXBsweDrnqlW67_zx71bV13ps2CFOEqlHKBsv1RuoW86Ro2L9XDdiAT2GelpT8w_ZdM9W_zD7z0tChorhGqmBCg0rlVUCdB0cvvChkA3NrHJOPGmS3qMJvex0UqCvvZyjrmG4llhpkqJJj1CctkuVCBoWxviqKPOsdD9NQuzuy3690mUyZnAFCTjOQAgFhO5wICEfO8YbkV2zkZbamEi-6bSm3porgM9DammC8whY1gULT8pTofk3zbVTrvm1aDACFUMjAn_zpp23vGF35_BK_WSv9m3RtlOMGGlXd3ZSw8NeHBxMKqoBmxNyo7hT2cwQTzb0ko7fcAfVKLzB8UIUGzMbHjL7Wr70OHO3QFkVoFnsxEj6-jr6pM2qspog4sqXHtPEJqwMYsSFBmJFuV"
+        ],
+        "ratingCount": 617,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "With its vibrant, thought-provoking collections, this public art museum brings together traditional and contemporary art from Hawaii’s multiethnic…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_10.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_11.jpg"
+        ],
+        "placeId": "ChIJ1dyRbHVuAHwRg51MUZG87sk",
+        "name": "Capitol Modern",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+1 808-586-0900",
+        "g_description": "Historic hotel space with multiple galleries featuring artistic visions of Hawaii by Hawaiians.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1dyRbHVuAHwRg51MUZG87sk_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "250 South Hotel St Second Floor, 250 S Hotel St #5, Honolulu, HI 96813, USA",
+        "latitude": 21.3088373,
+        "types": [
+          "museum",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJ2XtQVPxtAHwRXWl1M0s9rQs",
+        "website": "https://www.honolulu.gov/parks/default/park-locations/182-site-dpr-cat/30221-ala-moana-regional-park.html",
+        "index": 12,
+        "utcOffset": -600,
+        "longitude": -157.847657,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/ala-moana-regional-park/a/poi-sig/1128741/361979",
+        "rating": 4.6,
+        "detail_description": "Opposite the Ala Moana Center mall, this city park boasts a broad, golden-sand beach nearly a mile long, buffered from passing traffic by shade trees. Ala Moana is hugely popular, yet big enough that it never feels too crowded. This is where Honolulu residents come to go running after work, play beach volleyball and enjoy weekend picnics. The park has full facilities, including light tennis courts, ball fields, picnic tables, drinking water, restrooms, outdoor showers and lifeguard towers.\nThe peninsula jutting from the southeast side of the park is Magic Island. You can take an idyllic sunset walk around the peninsula’s perimeter year-round, within an anchor’s toss of sailboats pulling in and out of neighboring Ala Wai Yacht Harbor.",
+        "imageKeys": [
+          "ATKogpeJLfgAithvGtyVYCME8XPetnIN9bBscGajdEuzSv_wN0GulbklCgYLaM8CKauYwTdLJpVVb39C3bRMh2qBG98u47XTM7VySn5WBMwteJEDdnkTNK9bOfeFy6ftR-k_DSuGWouZT0Te7EDHtWwkXXQkDfnrgiBo6BGNUMPxEmQc7x_P8lvh-ZjQgxWRyuT8b7YTei_RVnaOkTsfep8u4qd8Gzl5n2igH5tnWm6o8-kNKklbXAYZz-FHvpnonoo2SSCIUzu9-pxb43PCHyYmeBVDz79eOFAHUdVs2_020z0x7FkcynETlO1nbEVmvP8HAs8EZnM2i6LIMlbo8an9i3PQGHK__cWZFfH9mOhiMWu3DKcQiwKiaEdQPLMPiUgXlBL2yMebbtxQTxTagfXiF6fM0Qe38IX84P9j7-EOWqAhRSUiTQSl-EQbAFcNNeF-M0vX_URh809ydPb2PgcNC-AY-pL_soHXYnsI0BzqQKLOmpR_JqiDYY9zQXrMWojMgYwNORsX7Jd7CcN0CCeX-QgZT6yYXPBFR34_cXN3mVVmQ9LpP-Vwa3s3iJYLegamSykfGbOaST9sLjSXERzImQxnjAtryN7vz2ZxTqUyWslFoyXh3BvFq7bpnq1KCb7PNOA8XYcU",
+          "ATKogpfGWODjp7uY013z6MzXqMgetCWKqJJ8sKwf0hydIVtaIVR1wB2NsshLpC6gVVwM_UC2RQCyz5Wh_E6s80DEarxI7khfYQ2GtOhL6rios4WfZO_J9OwfXCp8FvYZgvn_tMOgNeK3vD3ELLB3fML7EbLCFCW2Qe3s_9gLSXxq8iz67h1WC1_8Y4C9NuXpUUP5FM6vnqSBSBjOHTpqFksOb5CiY9fOA9lFKJPyYEUhkV8AFGsgO3BIEk1siU89AV_0Udjy59KbIrz_DUZm13PtK9AyiWfhyFUHUu0G2HpXuW8ZmyUVV-fl1H35wObWeDTGINj9E7IQGENEsXEK3CK-sj7PL8BCT_BHBlD7WWvLoYFD_QugKdTTeG91uoC6R1XjhdofGNyJ5dRJ_Ov-RE1pKO03g4_ciT8SCgmP9vGhm-wCORXk_FmZwELwKheCeUiA7dR3u2Vwrkx5eYZFN2G6DVnH-jqZmLzcN-2cKbOOMuMzX4sP9bylGgJ8tfZvLZFcBGXOC8rdho96_gFxecYfRoavfRXJSxzj5V0ZAnaupUSg5MGGrdEaYUPBqlg7kqAcjsPcPjlLG0mKaJVa4hu-vGpDx0NaRcZL5JzK47piE-IckbpU2g4jlsa0GfVXxepzhB5CaA",
+          "ATKogpePPNfjYeu9MXj1oOW7WLx8hv7ILw6CJ7zpoVEqrOnRf0eDnZ-uhRgVhzYgWUdnNlx0WHWWz4D6bCqcIxwJh_GbEGlC2grf6DgFYoFc2MSuw38CZnyvxoikQk6l9i-7qoo2ef5mHPcK7Zv9RItIMel-DdqoCR6w58R7H2kbCss0BFQt6pN2WZvsV-dV_fdUnHNQUwd8MAmI-V-h94Oj1ileAJwQ2OZrlaf0p0t9tMPUJ98hbEwPMjDU18aSqTeX7AU-pBwfdzuoxpU15kTymV822zQKRWVWWJQx-N-HUu-kTayiYOoscxs091hSyNozlAdvdDRjNaqXy5Qjn0yl6RuO0oGUBgccvLLSSXdzu4t5vGsgQRCwQHI01zfZ9CdTv8TR7OTgRHo8cB6zdldurWCsJaJzpb7O33C7kG0_NEGRfYtfecHWCYjUaXcMXfANE9GiyaK3truz0w_MxhCR4nCYwQbGXrMmwZb5YzCS2povEhvtPov_8ndfe8JRLGhN8d-GFJXZGb3lElvL-XGHjsRvBVk6JLlIdat9keZvqYT3YaI82lVlJb3jfIKpSUXCwZ4wJEqoA7dEdtSh0vG4QhOudc_OXeIGB-KuWwChYjvCB2nGhKOJmE_BoN73kbcr31fyOW3f6ccy2p0Ya6RDFR708so",
+          "ATKogpfbB28xkYHwoHw5QK-uHDy4zdAf7qnxhaVCI1Okmr16Y901MjJ4Qew5Lfn-WAk1tCPHLX3-ZhYNPfVpFnchsWPQ6Ij-vhAGtg-RydIHbAEXZf-ZvOqct-eSk2rzNu7hRwOv6Em6063UQfX5ofyAObM_Ge7SlEcNDlTwd-EF8Y3Ryvpq32vGuZa-5afGIsicDfX3_E4SfRy5rRaW5eePvUsttQvVS2xkH4HpaUsTZqnADuwZTY9elJXM728Niw_s4P3AI59ZHymPOdLwM8-a2uvQwKZ877Eyn9XPkIAv2k69-WTSKRIFNrSBkHxXS0t915np8_CZnePyGWlLYpHffWpUdgDw_ydy9lhVIjTjfK7BkXGKwDMfU7GHu3g2V-kqGGgHyREm04CDXutmoqOsZREVCVeH-spVZKZmE1AYdzql_H7U48hBXTZc-I_rBiZwn8BIKI42iWun70lqwaZcBItpCNxEPH5UiiLEb9ltBgCQnT9sX7aqIXiSB8xOQ742thtm7Tcbjy7na3aqy72rY2CxQ-17T0FBrEPLz6sEvlIH15DPWWZQveYrV1Wf-3NPdBtT4Ps5c4pWUxt4uXfCRfr2NHGZUDKlLVMz8vEcwaDPffLKd5XIkdqNk-zEKWSeD8jVVg",
+          "ATKogpdNTqKhr4CsqghNzDaH6WNeXE2eWZdGIhFFytZnVfz0L1MW58cvXIShaY1qyYM49HlyMoT_saqIHgn_iyiW5zJw0VavIAcEkdn6klVAGy97_-Z2MJO6-n6dsCDSArbX2p0QJYLDq_n8HKhdVyksVZodicUqO4PfEwySEWjA48dnFdLySb8CfbSYXpQmTdKygAyuxmHuWhoordDUnEScOI8BM7AktzPqSL-BhrqZ4nQ3U3jE_O2zIdbHuY3syLPAbn3S21Hg1GBu26ioJNVRUyH8ZHgWMyCVwVvSKl9zrWIGLNeWCk3-e01T0XX1ptwQtsi4dFFNu5VAKuIYxBrPL-t44LQp1ysu_21ijdTIWQApCtexoKmITW7EuyrMlrqQXOi42L55cfu36Ov7K3yE2BEDHiGyGlppKTmNx6h_wPgkXL-Ro9xFXywrwUB4nXUGatPhOg3lMOZepXj0ueDtrfpaA3YECdFZCQ16G_zFVLDwwuPdF-8XEDyVyRJr9TvKfnJEQjn-0Z37n5uwbuNtDQrl3ux2vc5WROHBygqN21EHWd241oGgnEFCV8w6bVIsuj1VZ3ty5jy-vdSC2NVm7FgTSfMtj4FV5qHd0FiNNGMdKV8y0UcNWt7aOq6TO3WrKo_4UA",
+          "ATKogpc6LZepS6YaUa6X5fqwL-X-sQU3ZGgvUwMCVoSJt7DHgicZFi8dbZOZgRnNvp3SaO5o7soNiP_hxfOP7YTsqrPSFr3KTNem0TI7zB1030A-Ypg_aKL0RktOntPRTyc7v0D_kT-DNC23zBzXCUhmL4S_h6DXbwRiYX9jw5wjpoAAfT6durr3z3SO7dUcxGuTr5-S3eTIZQH-IllY99JrZ5iGSbYNA_nyFD-zcSp25ye90D1ZLuT1PZA76Yr-HCwiC5ML1zjhS_GOxcopYLHUaigNfgsTiz2fl-aDhjZsIJG-OCnNBwXQ66qJ2YP35MtetpnKDbgOZXmMxRY3pticY5LjOywGPuUGaixC5Cl98i1kqVqbgVIo3K_MKxzTIXXzpJZtI3CQ4q6ekIEjv5gL8PXIZwG6HCwTMNILA7sIEziXlggcQNUO4kVrChKcNBpIXH42PltKF1DMLHD6Q22jQhWhsNOF46ekJJW7qOl5EBA6Axu_4WM-RnBEQyOPVJKOhg3jJdkaITDxvq8qEvgx9G3sPEm8tTTwZMaegKR1vdBcTZ38sKDGmid8fsgczJlcgMrDdyzSdJ7XyZhX566qUX3rC3DkKwVeVHNduyoGuVvyMWFJ7lTcRvxMEjKan2HmPaTY9zGE",
+          "ATKogpcs6UFTEoMGMu7dHMlORHONx0TLv5lyJjmpg7zuLlK78LYXqBo1JqIw9Y2k0Ed8_-1jktLyTIwJYna5ttEkIwKcsVAyJwSdHbUSLnPx_FOvFYuOjmh-2bL7WxsZOyFAUXD2fxQsjcV1ReJkQWJ1g3Gs1t_Rxm4KSf81YNzwWPM5hh8Q50uS99zFQJ61BIS0r1prHxvR0dnzMfCEL_s-u5y91f-tBsiC7CC40Ln-QpIpqi7cO9uI4CxIXttg_OTZncpWiML0IXhlBinPo-7r3EdCA2dpgHnBcHL7LBXT0-6zzuwS1tqIG3rLN0pmREpCjbejzzu1C1riOipAn6Yd_LkZvEr0yjxdznGFdxl0fAadW00Ce8eLB2n7w1n7b0bWsURhcADUo4_yTGCA8Nal-vvjfatD8SAOUwf1wj2NIokOZjjB2ejq-4ZFIVKORaztlZIlGt8ze168SQu2hdqiO4mh_3bX0Oj-SP7sAql2U34kSVnJTWgNQ5lIDDu_aqHTnMKcJl5ORXEJ32WtcLHpSZgY-pe6ojXMIbC7e1l3nHYv8pPg_JSgjdf9u6lfmj1xW-laIsPxJTkUOvqoOcu2cXBkjUguL_E8FOQQkEg9rKtfnBglFc22n8QHBUxEzkXD",
+          "ATKogpeacLy2TAUEmkCpIfjQYj_nmv8rgvWpvay9SQBP3DCPD7GKWLnR4MPEyynLf0a6o9tjGKAcPgi2pFjIkObIr1gaisXJ8y29IL4jD-8qUsHuGHaqHIrr9dpxMv22vE2lJgLl50h7wb-GN02wkjDORHX3ktLxWJcyYAz6_zjLuUmAseDlm6yfEF61YcQCInw_2J1udoCZRSyoHP1PSU9jgm50LVbPbmQiCaLIeKA4PgPmE58khY-63em9-YneCuL8JGuXPJvI_oCl3iJxJgvR5UVpsIeii5rmPaLh8QlTc7i3irrnt1fMtsLz0ZBlJSZtDfHpfstO7mm7zv19WU-reHC7SyGsJoYPUfdEwa6Vb5hwFIt5sCpsL37sw-t3eH5fxbWqFE-2zqj57DmYDhUIieuMVkIIZvTIyOCYvTPcd6deyD-VqyEy4-4EdhEErQyn4AK5Vi4P-k8V2FGesZAe4_SISmUN0bO2XCOxvlmmaqQ3Vs0q2AdPum8-knSTp_SnPiSeIQlpdr_GrTxPY_p7BMx9dw3OE_5IAZOWEHF9aKbXeVjkINZtq1MWwo7NqM84Ve00Ej20Xk-1sBJTWSx9OyVjac4sG0KaXUUMbJH6ozAyGsTr9bv4f6aToCunhtyot4zJYC2b",
+          "ATKogpduG5TtULG0c3-4mluXICNe6FDbNYcqclKlslDYu8iY4rPsEHqwFcW-5S7MdPLjmk0Kkq_u9YlGFYsbZ3brNI53l2XqkYXdiBvtElsiQyDnvW2DpIMX7db_NW6UogkSapy4mmT0buFZHVuW7mMypBHSoloV_X_U57Gofz8SkT36f8HcWvxtxUmgy6jJkuZIXu1Uye_wYgz8kJdtv76bcdSB9sytGScbyS5mEQd5d6lcIB44TWQT_4Dn_5zGOtmf733XlF9kJ3X3MEmg2mFO7bsLGNLw3uZJ4u2DA2nBaDi-SC3K0ISP8yP21SHlENdHkA7HbPKy0bktMgFVoNEVstZ5N3GM0cRTaxERHApjsm2K7nFc_Df_4LMwYtH5wRyz6pjdO7676BUlOItAVEzgUgWIgdihMoQTkgo3FnRTXlDhs_TBNauY2teOAU0g4P_u27M4jbnuW8zfe5J1aXCAsWReCSo1FQB4bQZrhNw_k-tJ53GlcqYrdOGzNHxLceWUQ7ZeqCFsfyE0J9UeQXIhshFXdgHOJGESi5MSt3SlSTjpBHr3peLHjvK7vGD7Fh5Od9zFuaxsVYmwm52iZm71Y80_lNNZMyrbjZXDIGG4Z03rPAVLm5uyMRjNHd5LXD-EWnoVeg",
+          "ATKogpcJ9JPr48oMSbFbAdfeuHbzf2lSkbAcqaBvBDke-eNB1fe46a6wj0OElNNJfyVdGvAExfFlvfyDxwbeSISHdupN-2sSijqlczWppAPwZdGQVoCscCLLBzgrg45ci3WtixoK0Pdc8H75w11Njfep3M3rRu5cafJpsHZB8aVVjUSQeZZFyerKf4Aju55HtGMcSDKmmfs_8HkvHyRWA35CMhgOlaRhRGtgB7-fWVvg6VJ3ElfL4PE6gAfTawccCRV5BZ71bKtNz5Nu0aL7kHAhrxpBzNTGd5Ez3W3J29Zyhsk8QlWj_0I21Bv7RlLyIQggYueHAU618o5QHQUNqPhsRbzFiVkdHGV2-cB9qOHS2NXKnI6IQB6a8zuKPwZBxsBcFtH9gue05hbCzNH0Z0Zau1vUQ3YO15m6Q9acCRFxDK6fFJSlHJPIdk6QDwfkF8X1vgo7dVm0OB6o_3-yLdCFIyA9kIBb8WIM5foWpQ7xAcP18jEjuy48OaLwWKWq4AKsC0hz7JSo_mqcMcoPHbG1sZHIFMHzawTjnS5pE7JL6LMebCtxuIiG5ZQz47H0gSt3BXQvWr4d2GtCbyHzJ5-xgArISxSQvOOjTj1qQotGkN4pe-bw6-BnhCnWZmwSv7f-mJb6Zg"
+        ],
+        "ratingCount": 6870,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2200",
+              "day": 0
+            },
+            "open": {
+              "time": "0400",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 1
+            },
+            "open": {
+              "time": "0400",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 2
+            },
+            "open": {
+              "time": "0400",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 3
+            },
+            "open": {
+              "time": "0400",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 4
+            },
+            "open": {
+              "time": "0400",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 5
+            },
+            "open": {
+              "time": "0400",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 6
+            },
+            "open": {
+              "time": "0400",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Opposite the Ala Moana Center mall, this city park boasts a broad, golden-sand beach nearly a mile long, buffered from passing traffic by shade trees. Ala…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_10.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_11.jpg"
+        ],
+        "placeId": "ChIJ2XtQVPxtAHwRXWl1M0s9rQs",
+        "name": "Ala Moana Regional Park",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+1 808-768-4611",
+        "g_description": "This 100-acre park with a man-made beach offers usually calm surf, plus tennis courts & a pavilion.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2XtQVPxtAHwRXWl1M0s9rQs_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "1201 Ala Moana Blvd, Honolulu, HI 96814, USA",
+        "latitude": 21.28996859999999,
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJ5UJLbnNuAHwRgaIFcp7TTVE",
+        "website": null,
+        "index": 17,
+        "utcOffset": -600,
+        "longitude": -157.859959,
+        "rating": null,
+        "detail_description": "Downtown is the vibrant heart of Honolulu, where history and modernity intertwine seamlessly. This dynamic area serves as Hawaii's political and business center, showcasing impressive skyscrapers alongside historic landmarks like the Iolani Palace, a beautifully restored royal residence from the 19th century. Art enthusiasts will appreciate the Hawaii State Art Museum, which features contemporary local works. Strolling through Downtown reveals charming neighborhoods such as Chinatown and the Arts District, each brimming with unique character.",
+        "imageKeys": [
+          "5d7fckAaioOoUIH9PONI648yjV5mkepl",
+          "2ZlkEAYylkdnjz3Ozpe1TlIzfqmx5ny3",
+          "cAMOMZ1YUWv6RaWslBqlokaErSevv6XR",
+          "s6fYJ1DXYrk4HxIBWSKcadrQwx9iSsT5",
+          "gGy6NTsBFmtHscVrl0KDkYaHPFzpF2V7"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": "Downtown is Hawaii’s bustling political and business hub, known for its skyscrapers and the lavish Iolani Palace, a restored 19th-century royal residence with original furnishings. The Hawaii State Art Museum shows local contemporary art. On Honolulu Harbor, Aloha Tower Marketplace has sea views from the 1920s Aloha Tower, as well as a large waterfront stage, a concert pavilion and waterfront restaurants.",
+        "name": "Downtown",
+        "placeId": "ChIJ5UJLbnNuAHwRgaIFcp7TTVE",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5UJLbnNuAHwRgaIFcp7TTVE_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5UJLbnNuAHwRgaIFcp7TTVE_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5UJLbnNuAHwRgaIFcp7TTVE_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5UJLbnNuAHwRgaIFcp7TTVE_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5UJLbnNuAHwRgaIFcp7TTVE_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5UJLbnNuAHwRgaIFcp7TTVE_1.jpg",
+        "address": "Honolulu, HI, USA",
+        "latitude": 21.309619,
+        "types": [
+          "Neighborhoods"
+        ]
+      },
+      {
+        "_id": "ChIJ5d-sKQ1uAHwR8cVATR5R2mk",
+        "website": "https://www.alohatower.com/",
+        "index": 10,
+        "utcOffset": -600,
+        "longitude": -157.866027,
+        "rating": 4.2,
+        "detail_description": "Aloha Tower, a 10-story lighthouse built in 1926, is an iconic landmark in Hawaii. Etched with the Hawaiian greeting, it has been guiding ships to Honolulu Harbor for decades. During World War II, it was camouflaged to protect it from potential threats. Today, visitors can enjoy panoramic views of the harbor and the city from its observation deck for free.",
+        "imageKeys": [
+          "u9TNSppkQNAjOJf1oNRL7uA77pgDsunS",
+          "o8bK2Q5F1JWZbkMzhCWgYNvEsEoYR3sc",
+          "p2x0yTqOWogY3LMR1iOolQ5VDEUsgjKH",
+          "rFnPEy6207vlgMzutJjjGuiOGmnbYiUW",
+          "mSnGQslZ3ABp1L8bVkUB6UCNMTEt7kWn"
+        ],
+        "ratingCount": 1795,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Built in 1926, this landmark 10-story lighthouse is one of Hawaii's most recognizable buildings.",
+        "name": "Aloha Tower",
+        "placeId": "ChIJ5d-sKQ1uAHwR8cVATR5R2mk",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5d-sKQ1uAHwR8cVATR5R2mk_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5d-sKQ1uAHwR8cVATR5R2mk_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5d-sKQ1uAHwR8cVATR5R2mk_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5d-sKQ1uAHwR8cVATR5R2mk_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5d-sKQ1uAHwR8cVATR5R2mk_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 403,
+            "3": 261,
+            "1": 91,
+            "5": 989,
+            "2": 68
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 544-1453",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5d-sKQ1uAHwR8cVATR5R2mk_1.jpg",
+        "address": "155 Ala Moana Blvd, Honolulu, HI 96813, USA",
+        "latitude": 21.307124,
+        "types": [
+          "Historical landmark"
+        ]
+      },
+      {
+        "_id": "ChIJ9XJxiwpuAHwRsrl5Q7ib388",
+        "website": "http://www.kawaiahao.org/",
+        "index": 11,
+        "utcOffset": -600,
+        "longitude": -157.8579026,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/kawaiaha-o-church/a/poi-sig/1077594/361979",
+        "rating": 4.7,
+        "detail_description": "Nicknamed ‘Westminster Abbey of Hawaii,’ Oʻahu’s oldest church was built on the site where the first missionaries constructed a grass thatch church shortly after their arrival in 1820. The original structure seated 300 Hawaiians on lauhala mats, woven from hala (screwpine) leaves. This 1842 New England Gothic–style church is made of 14,000 coral slabs, which divers chiseled out of Oʻahu’s underwater reefs – a weighty task that took four years. The door is often unlocked during business hours.\nThe clock tower was donated by Kamehameha III, and the old clock, installed in 1850, still keeps accurate time. The rear seats of the church, marked by kahili (feathered staffs) and velvet padding, are reserved for royal descendants today.The tomb of King Lunalilo,the short-lived successor to Kamehameha V, is found at the main entrance to the Kawaiahaʻo Church grounds. Lunalilo died from tuberculosis on February 3, 1874, after a short reign of a year. Due to his popularity and status as Hawaii's first elected monarch, he became known as 'The People's King.' He was an 'elected monarch' as King Kamehameha V, the last of the Kamehameha kings, died in 1872 without naming a successor.The cemetery to the rear of the church offers a who’s who of colonial history: early Protestant missionaries are buried alongside other important figures, including the infamous Sanford Dole, who became the first territorial governor of Hawaii after Queen Liliʻuokalani was overthrown.",
+        "imageKeys": [
+          "ATKogpeMrg9m9_Wtyz2ZQNBP37GPZdUWIrmyLyRLbOHmZhMxqOo01cYjqSLgba1NyRKlNMpgSCQwlz_Dmn1eT7Dvd8lLB7iGhaXahkiuExgxr4fwYyztETVfNEEVfd5UA4s0uUY06y8YIV-TOW1DewRcFo7rsG5F5J6iQSJR-QXpme9JC77pJAFHlEyw3770RazNwUrKcO0GCxyuDcYC19pNT1OHqqy3_v7pLh99fjRD0G9hVb8fmQmDWp3Fv2aSfibwe_IlCUIIpkq9fMlBRydb9LYkhcMjnXGXZdpWOv4pZ80dOPHJ9RXl5s7xecqt-nO7v9mpXAITLBU",
+          "ATKogpfHqJ7MqxyRYD6J7s2expcqBJHbfLo1O1tqQZopgC0RCPEQPlR3S3OW2-DwML1gjW2q_rC5QH_xYw_8g46ax6wgVJQi10jUwhOSqCwgtJeNfQD1rRoWzGNtY2sFisJ_Nqx87J7MOzHhlNygUF6cEXWalsgXfHoILNKMHFstjGH1GFrShJik_7blp7qoTcwm4EtjyPVhca1nFGtyShk17W5mVgajHmrbHKsckAOJuK6c5357x3xQAdkgxRtZC_0L0EzrYhso4uKZUXyuVSkuzcu0S9sjYG2a1ZyXsQjPlzOvFIUzJdlHgkZon2HjWeSAtooLW1XLYq9BZVrq6xbRxRmF_E8GMSf3RT6TjKvjJWNTPQ8nZ-CPc8BxdNmq8wiJ8178Q4ps4_RrkJxwZJJ_Rm7QlKimsd4aPiIMNPgVEBqGyOktt5Ukbg6byg9bbz5PO4S8gyrKtJ14jTBkWLolWacrPo_aKPkpAIMs03KT2IFzjFvo6KbTF7NlL8c_uD7FNBXqtaFOXJKyvoj2tS9BDOUSTMU_o1nGYf-f66hOoMZwA6XJbyK7ss4mpbxT1g6M1sfKozxaxYf1JJtWjh7wB6yw_0x5N2XKKBl4hFEyqrQeY6R5asYj35YR1ULV4QH2y3RP-A",
+          "ATKogpeCNYKu9MatP_9rLmQ4FEkPNJyCM6qUlHQI0wlud22y7VZhL8hxTiSsL1NudciGc378r6BFwg5hsnZ0wG5KVgjDnDTxFZyp3uV9hWPSHUodr1JF0DVW-ZxLHX-L95_9RvKA5uRZ8XYGFz1Pnlu3EP3JjK7_v_24O0DI_vsl1f6ln8axUXEWtzWsAJwI5d_PGzF8LDi1c4saADMBQsIz_QYdckVtKJbIcmEJLL9xu6FJAcEVsyLMTe4iTXi5futS3rWR-fo8hoQ80KkQv631JFxsvo45P6jBjB3TPxeW95NjdNl38Q9gO3dY8wHleHnetMvX7LqgrAwQRr9_2se_vL56pP3V0Q7VHHLp-YpbPhjjq_qCyEWNXL83fJMY2q88I0srhCrOVn-4q28tNEXIPno4oSRWsX-LZR5GbKWKazh6pU1cMRCvMGIfuDfSjEJYc8OkPV44mtDACld_ZDATsTpzLOBThS-kJs3qcqgCVkMqaLG2ryx5zku4yEYjOcs-bIArqfnfAtGPQzSB_qrcf4pw3ViAO2OcNzbTC3Zcc8k5Q_KF5vKz2V-EmO_K90XMWdmcWC27vTugNSV5wT2n08UR0TQP3dgXruzlhVzBvh2olLRVarC2XLV4rc5qmXh9DrcFhqi2",
+          "ATKogpd6NnN7fd83lXYWjSGzR5YcCEJsf5V_PfaqnTwUOCLP6qJJjRBQ8NvYViHNYiBFZTFS2o07W9UR9to78K4jAFSQ1elIc-k5uo37d38gN5uAZiFjYRourTR35A_zbkm_qIC-H1hl6bWHKEoOPG7rIvbcb5zcn0EDWG_9yR32lL2wBpVe-uAeY1NcHO-jgvEldrX3HDpymQEi8gEZhejUAfbsL9j_zs4ZPpNE3QsnDlBOJGyUPRjD3ubWT2eYsrUb95qh7PtBHc-qLxlhy1YdGZqSt3mbkyFbwtqr4304YhRTS3YAWsD0YB-9GwupWKTrfNsgm05_TnqsHOJ8CQRUKoEI5wr99pfMZPKpzjVP7Mi6kgpL2VgTlVZ4RWx_Ennb8-cnwscIpbRJlpVSqiYpTh09_mGzBBdh1-M-sa3T-7LALENx2OtUqj_TnC-TeqVAq9RsRSmYyZlhBJ9QlwgfvR_OM3GaPC9ID03CwG012jBRLd5eyHiCgzCeX1V_pbTUVkAGNFXBPheghwTJv6dDIPFDvhJmoODb9joH7gfdZJ94JQiW0ZVlftJzDh4X1b9NyZHktRxZ6367lgQymf98PU16CaxanRZPUaStKMUmPviGN7ByIRfxsT9yGySpSQIoXMIDFSUN",
+          "ATKogpd_v9gUTZjmzbjpqBEdBz1Pe2I5mq8GXqCweNdWbhaOjq1DuVDWZG2EBcFnGu7PQKecVP4MaIw6AK5C1CXvAMLscXeaeOmU-TI1546iCEGJEjPkg9--i-Q0H-DvkOwyqJ6P4AE1zhlYyVylQJTyQJGhVxgtTEr5AKZPUPlsbGnjiWHXPN_4kOVwl2BlppEsJd3s15nu5G5tRhdlt1ou7mivTaljse4hXz_JPfvyuMMExzVBwnPMLcMbg-vplYelzHLgSpVKWdhUgaIua1BGKsrdzF34l6_M2CiaKqe49Se89EnvFIfIx9N1kH7juneV2bjwAFkoonHm11bXf_7eQO_b6-NrEux8LRsmTVNp2WNTQPPT39iVFVWxu78pkGSTBp2msQKZMuMFbb8Xo_EYcjQnKKFEOaFrY4ay-D9sHA97ZI6jnaB2_kRB4pvXFpgQz8F09TqHZGw7hiHilEUwhfG4GOVBCKLW920dzKk73wTdFhGeTgM7KX6hlCe49YyAwbP9q7GNMwJ8TN8Rs0Ept4kca5wbB-eYXaZB4SOzuet278wjMoGNbT7QXNGKktc7PuUENi_NDKJsrjpXBqT8ikHJQ4IW24-66HSKvZbr7VQm--6Zg5xxk3K_VtELbXwk",
+          "ATKogpdJ3CfKFjfn2Yy_N00WtK_gODQnO3GUAD8RD2EpKF_uF-UlNMX-vrM4XoE0Vw7X1QzlNruFDPyq5UL8KYn4TxKD6lqfvF6GD6NzsENCCuoh45aaEuSp8DjidtAyqDBwzDoiApJXCGy4IB5pKtkgG1y74JMvJsKTF7iGcqfj8WAQ1umMB0MMOuVv7H0tI1uwqELglnkI-Nb8SNK3GHt3_6z60y2W6jwGFhQ4IRlM4IU_WzA5Mj67k_VNWQRAZ5K238ak5UpI_WOfDpiJ9HZphjkVMLvD2KZiKHCnA9uH7GcjbUpQ0XCMGFFUlo2S9Xe9GWobzS3hgenyNxZH2OmFMrcKGNkwKbiQEjo5wg2UZlhfLoRHbC6mdhMpAflgcY0nnvYSRmXaJAaH1LCewLNrBUM5lnkzhqe6-cBOND8_FDYCEWa2gAW9xqIoMhevi5QtK_HVuEFC895Bt2sWmBROWTiKOedpQFjKxhv_8AM4J9_mGhTrKWYwmcaRRrlgJH3f8aYdMTGAFsQCGS03UOo6cv2sxEIo2XkDQmTUhfucOAKIaDzF9mBkZcw8UjhXMXgu8CDwn-KhKinQwwQy5Pvr7x-wCfsULA2-ncrz5HEtAMpXq8ZZK9j24a7uj_5N_DsP0Js0P8NH",
+          "ATKogpe3Smv7Um5cPUBbLDeL3bwjG-Kv2DUeciX3tzV8G7gg5FPL2mx4YOXv1cWThzfO2YffWL1Ndq2j9Z-lmXp0G_UMVBHFOVA6CL5e3GxS9wj_tX7lh7xeoZy6FI3K9BiRtAUfqhdYSLzCD7NilWHROVHwibWuK_-zumBVwzdtqlUSzS2dDvXQfbFjuzGSZA8Lws5WtgTn_QEGkjUeh-pLL14kBmfZd6Ehb_XHw0gpvtYUcdMURq7h0b49tmK7DbDVMSyNpt69rtmfHERsKM5K1Gi_zt-zwBmsptQt_sNt9-RjEeGrRB3sjEbtJuhA2PmacPSberQTc_ZSCb4JwP-hED2CFwn2_6DzwBKfYK4u7iIE3ox5L3CJGVLFE4qkDDah6fPqOymrSMbV0nxl93zKtefKm3Gc-y6_aFc2E5EzOUR_C1tGW3cTJ-5MaJh4ngiS3T632u-EeX7rAZze6sBvdrCyu6h-GhQF6MD-k-gpDkMOiZg6mHF9NYPadcHmTx8qpRrhft8Erkz8m7jkMFdwyv0qBqVHfIwVxhhyNlNfzGYZ9OX--E_K6WOua5L9A27rGIThBC6kj7Rnj6mM_rXrp6j97GmWwOupltiu-9vXYpYfGFBtD0CdzA3-bAUE5YVbnKnJhbWL",
+          "ATKogpeQ3ES0tsb6TERnnGGmfI-puskJuDF8OMQ-bhxisHk2bTmzbN9L-rPHc0a91mnVduDUSohwJ9SsKzoeVH1WlZdA7eSQ7QsjM-rAY2opM7ocOahUNQpvSezgjAjQwJlMEsx_I6k-WpvVrkN6i2E2rRrHGP0nxuFGJiqwaP8iNqRtMSwwoQAZ7sdaBATq2uRxXim-g5plfWh3PWxKOweRCgGH0yDOAxBBv9lb-xNBmyBiTNEfoocJkQgjzWB25TsLeYKL5ut1GwyHwI0dGCBHJq9NkOZplLk8XeAjCLJLteh-C94Qme04YHZr5f2IiEA6UqC0IHoxDINGGWML1DD01OsrVZ4cPjf4IIEnX6JTvoQ1sY-Ft9wH-VQWpeyyBdlMl9cV-j8jTr4d-rXxqjOpC_LziAFkmRCwha0xJiOVZEG586IkhMjZHuRg9G5jeK49EMeFTJ2aBAIhNX_9QJav37mVqvyWvT0gQ4wW4C3WSC0QPi59jDVnKDKI6j3jkHcUtpdTdYeun-HPXo1AoHvnSetqUizFbyEE9VGGqQUuGwZcas8wwrV9sK0Usv7duaPRNd3IuxwfxK1QX5oQ4Mqprs3h2aCV-kdBasa1-4KxCIcVnSqMF4WrSdjGBYwHCsnKPfJEFg",
+          "ATKogpeJSrQfFkaBiWkrDMgqrZvacbQcAjGmUL3xL33azsCg6ZAXvdgQZRZzxF1hw3lsymeoPDl1IaEzqPgCBAXoci9n0kgsskGQ2nriKp1n4cuIpArs40jl2o6XXi8v88goNuCrkEqDthB9T-WT4k1xoBVUbMWJo7NfMcNS0gdydE22VAbumun91OeabztXNLc8zeFvhE39ufpqYkRWrp-tnU9T-1IiiFTlHrPLEfs26dyQZZG3TwubGLs8yJB94BA0rL5UWduw9mexOH98hjOa77n1YgiyeQ4XrZo2EL5Y0iJ1PJvZ59_UwI_MfbvuleSI6kNBh9vd1QVCC720gKb34Z6SopBErFUr4U_YspnZwAcC-dccQRcH0B-eu14fdp3tsNW_-NpjoOW5GMM_N05aPvrpFzeOPG3a5VvVPT2vUJV6jLxfeFRdFwRn7Jf7lIqJXbi7tiXDopNO92AF2KGQb4VlXhjq5kRN0wgUz9r2fL-pAid_9_5SAP-l2J93LCX0sbPjAskQBLDslMUGObaPQMfI78_AVrtQIQkrbYydibvV1T_NUkyW0IulUC2pJCkPloIBLEQgxhaCdAO5qZwG4q3taDtaXuT-6khB-chUs-xxwGb91sYCLLpzaVjuGfoU_lN3VSoQ",
+          "ATKogpdLjJvppYX0p0y7tmAG_R7WMEZneOVmMvxELOGN3F_R3ukQKnAhQT_sbrnpuX20lapmf42OHADvgjbw0dt_hrIEemA_b2DoyMxRgx9xd_ae95vIofWTG4rbK4RecA-Pp-MXcia5pD4MqT6vhRSCAKkOv9DEQWtcZ8oKBAbS8gz668t9s239qK_0RRsz3AI__DzkQiZSfU9JyvjI5ajz_N0tEve1jNSSlI5K50QgBF6MAYBHPZzdKN6fD3vRy94vsKXfGBiWPlYOhs3iguxtWleRgepCmQoy-mIH-8lSNZinGMHd4ek4D5Mnt-0qfcr7j9xkyMzn4lzSyFq728I7HUaQXi_SIMFv2y0UtYFS3L8eZYtOHBKP2LBKrrZ8V7uWKSrjBM9YZOj37V4dXshN_Xmw3yPVcWsit_FW0ndanUWyihc6epSs9dMUifcrG9Q9xstcAuTI5u93WkDrATKp1T30Y6OtVUZVfSg3Mw9D3xrFq7RJzUcB0PHLlby2eexdX1wk67bjQdcrSuwul8rAfULKGPLLCY40oQx4R8xnpVHVjaLu5vL_FiigwVBl8fc1DaHmLyzOMqo9uew00h7jdWKxt324SPQg8iky7pA5JD4F8csw5ldlHOVoGzKBp05m01sLOtel"
+        ],
+        "ratingCount": 172,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1500",
+              "day": 0
+            },
+            "open": {
+              "time": "0700",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "0700",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "0700",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "0700",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "0700",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 5
+            },
+            "open": {
+              "time": "0700",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0700",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Nicknamed ‘Westminster Abbey of Hawaii,’ Oʻahu’s oldest church was built on the site where the first missionaries constructed a grass thatch church…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_10.jpg"
+        ],
+        "placeId": "ChIJ9XJxiwpuAHwRsrl5Q7ib388",
+        "name": "Kawaiahaʻo Church",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+1 808-469-3000",
+        "g_description": "Built in 1842, this coral-brick church is hung with royal portraits & open for tours & worship.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ9XJxiwpuAHwRsrl5Q7ib388_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "957 Punchbowl St, Honolulu, HI 96813, USA",
+        "latitude": 21.3044107,
+        "types": [
+          "tourist_attraction",
+          "church",
+          "place_of_worship",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJA9wzZQZuAHwRObyotfJ1on4",
+        "website": "http://www.discoverycenterhawaii.org/",
+        "index": 14,
+        "utcOffset": -600,
+        "longitude": -157.862042,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/hawaii-children-s-discovery-center/a/poi-sig/376751/361979",
+        "rating": 4.6,
+        "detail_description": "On a rainy day when you can't go to the beach, consider dropping by this hands-on museum for families. Opposite Kakaʻako Waterfront Park, the building was once the city's garbage incinerator, as evidenced by the surviving smokestack. Interactive science and cultural exhibits are geared toward elementary-school-aged children, preschoolers and toddlers.\nThe Fantastic You! exhibit explores the human body, allowing kids to walk through a mock human stomach. In the Your Town section, kids can drive a play fire engine or conduct a TV interview. Hawaiian Rainbows and Your Rainbow World introduce Hawaii's multicultural heritage, while Rainforest Adventures highlights Hawaii's natural environment and conservation.",
+        "imageKeys": [
+          "ATKogpcYfYPMwsaPZYrWnFm_U1sxFdsm7wnA6OeoccwZEY4lcWbrpyBn1M73l3SR69hwKTlXI6ZPMkbItD17ghnp8RfR4jAsh9vZY-Rsos4hP_U-rQfrvzNxdaC1_bAVsOceG-ONuDIuJsyaWVZKwYjmnSfwjiocoMjoKLaOElEkv7ykGL6-z3iX8iTi2XgO2DXejK68S6v4w7uHjWfkkJGRwHupltgICqPGqXHIbMuUFkkJXyCvb4UwlpngibdGR4vAgXOEyZfYQa_YZpWZrOBXEaIi2lJYYSY8MN_0bE8Sln30F_ZYLjC7C21Mt2JpS8YoF68Bsb0BqDGfF4DLAkasdK4UHS0iVVsxRDEyBDxCEicSr-uz-ftY_JI8E2nouVu-1X1Xjnhzab6gGFYIY2tnUIrlcZiU2lxdmfpIJd-GkLYRZuuSs4qG85XpK_lpbwQXFpUYtI1c79D8_sf_BlQIHKRMpLLAzJRlUEouMqIL0CS_7TB6MW5c4MllS2SoLwmJw4_fxLBdYmLGW0OkU5yH4Xn_RrC2QF6A5yujtaDzM7r5VabJa71rX7TXrz9nHrozYg8TulBRINxSs7c-1VEqcEtc4bznR0zi6ojVUt709reXE4AbQvwPrcHgDCErZ_VqTLxDKA",
+          "ATKogpcP8ioZ6qMFN67-i5HHtv3_8esHtfHvmKK_q_50hCv70i3TGsZkTp5GxQ6a82D0WpbluEiN3ghOjQAvx42GyAPdQEcZ7h-rRmm_IIF3GcGmcDeFaeu02s7fZxZIqvyI5nSUqkMXkBBO1G_96IRQy8TsdVlODnFcnUNaFHxlkdFbxEdkcg-5uc53_bh7Pgx2eBPD_tvbVqqLjDC3cgUXxCurcd3GvnUfEFpg0S1pnOYsrZ-0y4K4tS-19hMzMMGkH9Cj2dkElaIt5UrVft5vUut8l76qou678cE_Iv2uwomyp2UMiqD4HJkwyyjd0623D8oUO8ecaBHAueIJdW8YfhOKOHBI-J8U6SJs52KfGaAosU05QcGt943kuT52q0JzNgYmTMoIygcazb7XYSQlcz_YZxQKdnCW_wy3IxmH3WfelWlqUo9Lp7IBb6itt-sZ_VOg0t-_uA82EnwBa01PCFPbILFfMVEetkz-GgMMgKP5bl8QOsGtJZ7JMZW9WwDbFeEDVtfKudK4ySxvLdvyuU58sOZVdMek2lzaIsDraWlwTLosQRr6XRT0FmsvGE7rnJSjvNqa5yc576365hb1frkK0cSf0HM3MF5hBYHegChaik9N50R1cbVU32hvewH0YGYNyg",
+          "ATKogpcawabBSUNZO59BWSIm90zMMslaFsdIJyGoRMq0KTk0X7wfVvAApvWao61_nko1ANhYeUEY6RhJ-jaeIlt4Ad4bofbOesAl_dvIyvXhA4rN4SR5sweSi9S7IAdLE-7mDgLEbhCZgio9EjB_XA5vqnkfCmVjxXbshKFcx4VtLMAwHD4OStl0B0-JgZpCtPfGrfn6Aj8BBOviSSYPwH2nwCU_7TvstFFV87zsfu1YJcQXQkzUv27BKhGWjSo_wTm_Xcly1FWT8xgVnFhg-rCzQUmp4bYp-6DCdKlKUQzm3F4gLAQyB3RZ8EDaQ689GtsP1PYhY5svVvePijKogMbviiydMLbEDw9cfPs_gUqlmjLtSpnlXM9FNt_SpP_JKw7pHjYL2qPjPErl6xbBx-8eU9Lj5df8mo4_WkUoIpXnJeUYI0vB5-bSQxqeIpAeAzyGQrvrcLZUQ_nFYOQk0Hbsno-KavFLMjdxh3oFOzCswRNTJ2iTPmbU2zWP790M1mJfx6lwDvzG-VZ3sJsbST_hnzRVQsdGo2dYi0x0J7Q91onmbacAFU5HbLRZ1CvwPi0_7WTxZ29ZMnNyKI_Bs1w_mg56PKE531FrZB36K5JBPszUlPEVM91rvdoGlO7o5AzCPE5CdQ",
+          "ATKogpfM9SSbY05G8qLDC9f9M3VG9bNek75RrfwOq7wxBW9ZSwWeMern7SUmCemgxtohgnr2TLUPaqbNH0SBqcYjeB41s_9c6mjLP7AW_B3Xw2_m-nKc3XzUb8jMFhe8GGHN68qnAIlDbBHxIPRx3nEUewZDeoqlfAftcXa3JPShNhodm-8CJScfjs49YwyiWnFmXQoUZyU1Y3jNCzlVwlfBMt8TEnzYRf2UC52L8Yh_ytDdy6XCBjBubtTWEDeiPffxZpHhVQq_OssvsZ8ysN-_EEuIGfkAxH9TmokNy__jNQHNt7T9LTeXXXrHKRm2iKLWEeBWk31StbOkmohUyNG7_f6x5CEQDApjs4y363Eht1mkyM9xHIEBR36BuvqatD1HpAjFjajUkvbdqx6rQQO-e3M09zj5Z4dTdrdYerayYKyRg8snIVmcRQjB6djGxhk6BeVY5ieATMmOGb-BhgyPj8z1s1DKLBRYVyPsNoy7Oe_iyVCybm6zQcAPyE_JZc355QSSGRwVa_JQq6pNgSasmbhlEbGKGXtyUHnnffs5YYwxGJTHCKstuZ2SMtXO6lFtmaHqakCt_TUfEH_nbhTMNN0uDdpfXxteUDQXc2JaUH3aZwYxSXzXEEUHuM92GKQ4xpBAv1Qo",
+          "ATKogpcCQP0tvVqHOwinJ6EtvWRmUVoFoPLV-6LDSpMeON-8ockkOTyGM7nvi2J4lS9XtkI_mebUmy8pYlD8cJwzrbkfUrs-llOlfJn2KjURvFw7zeFvyoouqFf8J0ARLGGr2GAa1JpLmB-wMmhSNloAwiM8iZ_RKmHuCMS3qbld0-lr1ExNvbJoWoGipYMvQpzQ3OrsFXEFa-BimEhmZbpPRshBVj7rW8iSmUPh6mCS09aPoJrGoh6_OvnPfxDggio1BdUEHABvISwaKdudJ7BquXKimslPTMD450sGCQlkGMr9WXCX6eZ2JxixkMSEshmLG6zQXrpTPfRS7Y4jqoHEt5j_2I41pcXQhxKHk3_gHSiGzveyF3QMvJMbNWg3hdABv13lJ7OhOcUHQK5zGBKziTCjCYwTxTo7XKJfWGkkFcbYxe79FMfuuzYzuwjhLL0Umz4RyaT1dBA6vFBFYnyDMC378P6ZMkEbwWOS4rtFnsIo8SXz3ORbnnURXUzhRCg6NiX2OLoAggORxM3WxhEFWQZC5MGSqiInLZwwKYbMQ8CCUZQhpnv_GHDu6v9FC-UaXhQAH0cpL-HfEBShK-5MndadFfddE50TWFL7jw-n86hZF-9bIL9pEWLig1HqK-bltLX3RQ",
+          "ATKogpe3ovIjkFxXsnCXhRmzXnVCFj0J8sBZ-UcCfUh01weYBi7Hcj895kJmA8u1heS0f-zx4VQyg-RRYnv2WWSjc8fjnGbj0WqrtvdoCswe5s3ea6ZMd4YmtfY73yXDw8_3yt3Y7LGe-dJvjsJmToCdlJY5BAiiS_e4xmMBHxhMZhHFuOoL1banYeOxWls02YwAlYjVUleEh48XaazBQMINHeJ007QTrqi1iwz-rLxlmdFpJr99Zf8rfuskdmfueSoMeH-8SsvLgplOXnYYMkyOLzOHlp2eFhEoGcwTA6DnDs0rki-mdj1A1w2IYMQI3bZCxst1IlxX4uhc-NjRxUXjmIzn5KvJpotnOGA-NB4AV_UPB-kt5BIybccmQZqsKYlJWBTwRMmFm0vcc2JgLy5BR3Sy8x-LgUO6WYdFb3ahIZh5oj7KWrA2vxDjlFj4mV3XsRyGIVBfs_NmpNR6cqzFOLx1zlADBfIetIsDQnIwoq4mQwSDu_GFhhYo7aHf2h6XpBlIP9pmGikkbMyj3ys9s_Td1O_AZd9DyI_E9hqpA__UhLBelFx1tq1t7PnhZA42Nryk3QZb_4xO6pN38H-CbikP_bFcFBrEUbVCuQI_nhFO1kMl15rCd_vjCI85zV49674SVQ",
+          "ATKogpd-MKYU1kYBJje3WOLO6OW1-_yjVvBhbaxuC56kEVzFGxYBT6kP0J3kDJXc6OOfd3OTF4J1FI2PaeaiLFjB0_aIG9M3LW8ucH2bcfHft9ja2yB5Uk58trQhOpyL38_RudN5Qc8rcYQ78boPCkdT-5SOh0MMq7iknPTJhfeuTKijFZcl6OxT1Hi5nAMhsbeZG6gbM-wP1mJkjpXdzGylrSxWA5vCC_fmAZIadNEdi3V6_btNJdbiXUtMLcuP3l_iFjmWLgatBO2PX5INJUPzq8HC957u71DzdY7NPgLMfVch60Ef2j2iscxevQOpVFyZhIUyseW2fPKP3TaLOB_slyOm8dB3sLc1jjCCJZgf7_roULkb1o7CDboft-WI1qgv4z2uh-pfza-kTvGXG48-q9aQPk9LnIx3pRDDTCru_sutkCF8b0SO0ywojPJMkhTRM7O97PbGBw7rK1JJEWEszi6pUwf-bC2Xu6PyeigRGI_ZvsabGF2dm9mv-WF9OXL-iAkP38YQQ0eE9vhHvIYS0-GK9iFv-4NhMJjcCeyp8cO1IphPxN_9pW6UvxccahO-11qib4cRT46zPpREuMqDmgaWNaLUreQ1_zgLHl8Wx7IrVZP9oTDxp0IyljaNnArCLw5MWw",
+          "ATKogpdNxyT-A-l-EQS6hm68ZYlx7aCuCLI5czoQj7v2ow7aKQIrFxnHC_M6aNiiHkeM7Ds_aenpxUYdIS4s-RiysQ-bczsFGPxUNGwu-_c6_r8YYjdVZROqnlfeRroHq7r5fD56Y7KpjrFqgiwhgeMOxj_R98a6Usqqy1MFwOi1qegij0_FtcbN7Y9HOtscAmbK_zKbUOUDFHdKuzk7V3LR114JFjg1fPd3vNkyJiNCsywCbQrmf4Ssx4cGRKpsyCH9ZGW0pPxhiw2XqYQSmVvcN5HJAo8rzsfSkIH7GWWEOzp9JuQ40ptFvSqWsRmM2C-guk6K1WAqbuAvfO4TQrjT823tXeh9smpk7xLKdGulR48j4z_AIG8gOGJGUjmascthbRMgCn5vYSm-s5SA85KgtQCdagKAVpHztTAf0Ezd4RAlaqvIasuobcMWmQ2HHoKfMCutsir8LA5hNB4vkq2xAK1ZiQUhZHVqzKeIZ92GO_Jul8OSAXT_bGCmJT0Y7l5L19ynyEs04UrNvn9ugyBY1VtELZHLsZ7zub4GUk00y7cz84teXnJaDX251ICoHmT4wgKSfsU7vXSx_u-hXfBWkRQsgD060kC8J5wn20U95ylKkR5vlffx1DmiaD72pGI4",
+          "ATKogpdPYUAwFWO1S67XAhWgc6PbhxWmybgzUrnA1uXj7k5gfDrOu2DY2S9NS9bD2M4PjVO4J5w_b4KIglGYS08WG2DG9BKHP8DGShIYpo5lkfVpbPe-uht1bf6F3tPpKewoUaxsGc6SmNQ9H4_zNHeWlkEYqLntdAYmy9McmmTvqbxIBqtQDCttek8PDCT5heJ1hjh5nlcMnL8VGjE2I1ZcfQMC11_ImcQdDUFvyrTIgaszxAGdOrEkAThP9VVvW7G-uBOnWUHFp9Nop9dcKyTikvYheQCSxfxofSk2-wbevVtk6rLVjv0wQG8oRX2zeFEZfnbc1Vg5jHXJc9PHtvXvTDH_nErPI6UyiYIMgcK2cLPR_hcG8nTDkHuwUw167m0BvlxaBEr_x4zgD12lPT_NjIu-lk2y-yjhKDnPTjz5uQetqUtuWbcQbVEf0c9L79qOyneCFh0mE9DSMtkiMGEnbROT30CjQzcVTNPy0QpLdEEgj_WK41cFh4WMB6ar0RFXfErl_n7CVXWL1us5hb3ZypPEXiun4DLFKoErCFiGhdoE3hrHsc-Gp9fHLvgtlveJOy2h9O0Xk512VEH17aKm3GYKs8Ih2mPxyDBR2cdjvOPo-ZwwG9Jg9Hj9LJUlWA9E",
+          "ATKogpeAgrEiDXPrrzximHNlYIrrshJ0rVoHGGhjW2T4auBmM1LBwstGDdwKoD34O75F6yB9PGYU1kSWDA7LbB0QEylVMfb95cUtg1iEkr_2U0gxv_U_SXhk6PS8I6ZRNYAhFJ6opTpqCrdKASwUu-Ho4ET_NjTgw3nlkuvTxjBA-UyXAg5PumB_aAfpUtgYevKBYzyDDdloedkk6DTNfoEmqQ-zfXL8LUL3Qxoe_WINo-oYsgc1gmYM2zasia9XOwDdTqVgL4aDwytmjaGjkAUV2UoieAbDVT0oqNqbJ47k9ENRF-yqakoksfZm_4ew4ugQ7_4YgqtqiPZZ7K6P_Cy74xvxAdCRVuS-dQZis5baUSTj5FKv0D3sQdg5Pcw016LoaAAW3eeRstDF0EakRqQ04Y3Y5m-29ItfgzT_vbqr3VXRHvlR2ldm8KjutGAXvtN76TQ_NjleyLEAOngc4wRyuiYxUgrL39PRFyoLRjthbmYwQIH1rTgfrbwPiKYg67kRAhczirUkCxPSw5JLHhUXDSDsZxsUgfMv5IlaZD8T9Pxa9MsAJnPLblo3Wv2IqhCxxoEq4se7P2DGmF7ykr3MWNTMOYup98SPnBV8ChHn1BaoykM8kxXuvTtI5e-MAruHdT3sGJ_l"
+        ],
+        "ratingCount": 663,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1500",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "On a rainy day when you can't go to the beach, consider dropping by this hands-on museum for families. Opposite Kakaʻako Waterfront Park, the building was…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_10.jpg"
+        ],
+        "placeId": "ChIJA9wzZQZuAHwRObyotfJ1on4",
+        "name": "Hawaii Children's Discovery Center",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+1 808-524-5437",
+        "g_description": "Exploration center where kids play, dress up as different professions & learn about other cultures.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA9wzZQZuAHwRObyotfJ1on4_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "111 Ohe St, Honolulu, HI 96813, USA",
+        "latitude": 21.293642,
+        "types": [
+          "tourist_attraction",
+          "museum",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJB2nvwHduAHwRape2OHZ-iOU",
+        "website": "http://www.honolulu.gov/cms-dpr-menu/site-dpr-sitearticles/568-foster-botanical-garden.html",
+        "index": 18,
+        "utcOffset": -600,
+        "longitude": -157.859031,
+        "rating": 4.6,
+        "detail_description": "Foster Botanical Garden, located in the heart of Honolulu, has been a tranquil oasis for tropical plants since 1853. This 14-acre garden is home to mature tropical trees and exotic plant varieties from the islands. Visitors can explore rare plant collections including a butterfly garden, conservatory, and an extensive orchid zone with flowering orchids. The garden is open every day except for Christmas and New Years, offering a serene escape from the city.",
+        "imageKeys": [
+          "9UDqUbXfeCn0MxGwyGX4XE5jF8cMwKVl",
+          "IFOPtWOmlhSm3UYquHZPuEGWtMrYWOAF",
+          "2chu2IbZsHk6Z3eL7yjlV2jIcwEdn4Pd",
+          "dDNFDJUzO2ZB9mbV1SBcwUKUb0jokaYo",
+          "ey3ahYIupQAvwVKEfe6AwwkQO0c6ybBY"
+        ],
+        "ratingCount": 1816,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "14-acre garden offering a unique & tranquil space for tropical plants, orchids & cycads since 1853.",
+        "name": "Foster Botanical Garden",
+        "placeId": "ChIJB2nvwHduAHwRape2OHZ-iOU",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB2nvwHduAHwRape2OHZ-iOU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB2nvwHduAHwRape2OHZ-iOU_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB2nvwHduAHwRape2OHZ-iOU_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB2nvwHduAHwRape2OHZ-iOU_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB2nvwHduAHwRape2OHZ-iOU_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 375,
+            "3": 101,
+            "1": 30,
+            "5": 1301,
+            "2": 19
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 768-7135",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB2nvwHduAHwRape2OHZ-iOU_1.jpg",
+        "address": "50 N Vineyard Blvd, Honolulu, HI 96817, USA",
+        "latitude": 21.316814,
+        "types": [
+          "Botanical garden",
+          "Nature & Parks",
+          "Park",
+          "Gardens"
+        ]
+      },
+      {
+        "_id": "ChIJCfv5TKNvAHwRf0hwa3kXUhc",
+        "website": "https://www.nps.gov/perl/uss-arizona-memorial-programs.htm",
+        "index": 7,
+        "utcOffset": -600,
+        "longitude": -157.949902,
+        "rating": 4.8,
+        "detail_description": "The Arizona Memorial, part of the Pearl Harbor National Memorial in Hawaii, is a significant tourist destination, attracting thousands of visitors daily. It honors the 1,664 crewmen who lost their lives during the attack on Oahu in 1941. The memorial includes several sites such as the USS Arizona Memorial, which sits above the sunken battleship and serves as the resting place for over a thousand sailors and Marines.",
+        "imageKeys": [
+          "rPwv5nfrxdRwVnSxugvPFwJ2CQi73G2D",
+          "cfoScXdQw2txbAz1666QjIeWQr5zAAU6",
+          "iTWVVaGxM5TsbQXbuJ6WGXYn2RHDwxJQ",
+          "Ts8BmZoriSrUyKeBbbN3RptDNYKXMuB7",
+          "1Yxbcen8SoWvjspKFYohqBniQwgs0n06"
+        ],
+        "ratingCount": 4170,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0700",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0700",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0700",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0700",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0700",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0700",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0700",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": null,
+        "name": "USS Arizona Memorial",
+        "placeId": "ChIJCfv5TKNvAHwRf0hwa3kXUhc",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJCfv5TKNvAHwRf0hwa3kXUhc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJCfv5TKNvAHwRf0hwa3kXUhc_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJCfv5TKNvAHwRf0hwa3kXUhc_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJCfv5TKNvAHwRf0hwa3kXUhc_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJCfv5TKNvAHwRf0hwa3kXUhc_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 397,
+            "3": 83,
+            "1": 24,
+            "5": 3732,
+            "2": 19
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 422-3399",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJCfv5TKNvAHwRf0hwa3kXUhc_1.jpg",
+        "address": "1 Arizona Memorial Pl, Honolulu, HI 96818, USA",
+        "latitude": 21.364716,
+        "types": [
+          "War memorial",
+          "Historical place museum",
+          "Monument"
+        ]
+      },
+      {
+        "_id": "ChIJHRTedrhtAHwRJGSNu434Vew",
+        "website": "http://www.honolulumuseum.org/",
+        "index": 13,
+        "utcOffset": -600,
+        "longitude": -157.8327028,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/spalding-house/a/poi-sig/1451578/361979",
+        "rating": 4.6,
+        "detail_description": "Embraced by tropical sculpture gardens, this art museum occupies an estate house constructed in 1925 for Oʻahu-born Anna Rice Cooke, a missionary descendant and wealthy arts patron. Inside the main galleries are changing exhibits of paintings, sculpture and other contemporary artwork from the 1940s through to today by international, national and island artists. There is a small cafe and gift shop on site. Tickets are also valid for same-day admission to the Honolulu Museum of Art.\nFrom Waikiki, take bus 2, 13 or B CityExpress! toward downtown Honolulu and get off at the corner of Beretania and Alapaʻi Sts; walk one block makai (seaward) along Alapaʻi St and transfer to bus 15 bound for Pacific Heights, which stops outside Spalding House.",
+        "imageKeys": [
+          "ATKogpfvANVexarYsnxQuxAZDpl3DyLWjLVNZ_TL4TE8GWVZePvo0B6IUFWkvF423wNulLMxkaMNF_iXUt9-KPSkJyhdGAHzUTZRC0YOJB3vKFqBqZNoneq9zZh8IL3H8BkAWlkOwtG9k3qdFMtjHcVRigHGKO0vOkWxGTIFBKn5rGPcLoujsKzGhQLWhfW8RpgGZgDJvPvvuTSKSkUrXA0nNEMxSX2V6fHkBp6x5kvRObbLMYMsCCqj1pS-vEtZkdnPBUvGm1ESQ0qVnu9oXeLNLnTmYIDLHOxMUmYsWB_fiRbZEcEID5blzvkFdWD1nFlLYD-YXJvUl2e82tWA4bOQjo0dQGuRnflsIoluv3b1Qos9Z69vZCSnAEju7fJ3WQiB87-PSiqb_iUKnFkvS3YNIsWyCDIJVz7NCcsmMs_F8y1orHM1mpIMaC0odbftmwXGXoCKXUK_iHeUG6sKgNtlzZGAJnqwaZYCcOD8tHBtNqjQuQsWpqzRJ_zGKY026qa0jjihQr8Re_2g7C0JF1adcpvXfrUf20YvwF3QaBtcUYKxi4QbE9TuzrBstRUKUVzPnmPlA63RVfpL903NZlJarGsBpHg-fAqZb9FsO3BPoDJj1Dz1NpQ9G1img7I3uVgUeYNYPw",
+          "ATKogpf6Ln3r7e_AVzVHavrKs2Pm_S2IVmBnXzTMU2nTZ50KxCcqB27c8yFTxFPTwq7zsiKljVzYeMBv8eV8wmFPPzFiDRQPXSe9kbo3BBv04P-BNXnaMoPW7HPPzjZLtaZDadT8b628WoNJ5ooasMDaICOtiukp8CBuzop4iMFg7g7YILUdBn3FJg9UxFuGA35M5XnAw0rf_tb2MgA-74Z6sibf4S2YIBq3z0xy63aQ1O16a2vRNMvs6n1zwhMRxzI79Ahrt-M0VQv2-Oi_KkJamWyud0UleF0CvCtEVEBcgZTLKCR-BS6P_IOsdQK7JnS5Rlk09X5m045d_hOyNpjB-A8rLQqW64uUr_305rlKDb2OUEUqSH2oV1_3ggulhuAGNKOWm8IhnEwF1sgbIw8mYPwN7EWHl_71bEU3CbIsfq7ae0h8sf40KeJAJpYJpCthJyfXtcoyyT7I7H8BJSWRCoPi8AKkyGCfuGSlDBSFFLTQLlrdSEIe72WT5A6f7MbpcJ3ZX79SiyDqh_xDSoXCiclXAq9bu0ay5_w0WWQWNqBDNJbT6xy5zepafzDIJsZLUTJCj606TVIgYFS3XvABypVrTT-X3_vVFHzgt4K7zF0NIvx6sPJKfQy0QEXUFPM6KhhMhSl8",
+          "ATKogpdKBpQTsgILMGiSctKrLUj-KvdtUl74Kva9zM1GkZ5fWZ9holJyGK48RY1PM0ICBkhztg-vuEjZVX_rzalwOLgyVnNg7wX2FxOYVq4hR96n3QxCIefDXdK6FWXFPZzpFqHRuU01yv7SZ_oCtJko0QHz1LvMQts8hZ-fzVU3y-9TnEipO2nXDtexGFik5_0Oj0Ea8EOAFzUDHbv4BEy6E9O3fZ8rFuY9ZSA3URykVpCEqNRP3cPkJ0LWXFtcFcUHXNFFqd7kPxOmwp4oMHW0UNI1EqqJPHUh9xy_gndZ-hDRNoc-o_Ol5OS-uGAHArlXZQHkduAlbtOyz1RhZEAtqt8FglLlvjHGe2EleieEQQTntY_umhVBUg0imOu1cesgEejlCSwyLamcYfQmug-FhyvjWkeMl1IORXwJ911jFzasRBLZ-hahVpEOAXCYYfzFZMtPxYCEWnMlS58U7XKE7tzJjucMuGUir52H62JYi3geumzyS6cxoEZ4TaSKA6JPesZkAcXWedneqaMgDmY_pUFTtTWjHd87KwrY7OYlXNw9yZBkIwPEAdbIctM1VYZ3mNJHDLrHJ0rzd0-HCsgDMiYr979hX-rRwXjDC3BEZ8lvVqf3AaQSkq641WpB0RQbNFu8wQ",
+          "ATKogpdAdrteXEAdajAJvbWGEOweA77TQ-Pps1EZb-1rqKobxQaj3Sqb0eC4izLMRZjoDfZEbbJBMIbH-Kzxo-JhhKmVo0d5fBeA0FX5mG5ue7TrvvhyBnA4KeHwghCnZg9u6TT7cMxw-GAneXtH1JRqBL_rp5_GtccA7bkDvzo0AbXYAsUXi5hiUvKEWeg4otu0hYmAgMpUgVYPbU1eF7rZXoGIeQRBikhe1yVxsrOKCuPXnaiSl12gVPHaBYimfNBHgm659h4lRrBIrR5NA1cnua218_adtHxLGuB1DWYiivjwhRP2R0LptJ1ounFtSDu5TL5L9mEi73PZ3-q-pHSxcMENzNqeyNq2_reshlnc1p2D2ixlhQeQRq28aKuTTYYM3T4PWW0DDZGtzvkRv1gB7vqL4ZivK7DgMgnpRI9qthG5ktUPocyhfJASsmx9kc_x3qnFXrpdhyImpPWxRN7SfxjMZn6wIPLyFMs8U3dVAkb3Z3ZDiwf-E1_8UISTbNnAyS1YLRAkIXri6G8FFFO-o-wawiW-e2zX7Mr5DgrxVUOpZUCp6_aJCJ4kLWF1j5N0GVArDSJaY2uW3PS3IIY3eBx46O0eeGtomCUQF9INtefomcn8hzrvH5FXGsSNHpySW5JLrg",
+          "ATKogpdJU9zGxoUZxgOh1FD9gOgD_L0W-IE0zrDIHsfjlDWoO0Z11euolYLlYuCj3JraevYGTXWIviZ5yn2BlhYRK7NpQoCKiAXcti2zWvLT1VcLNjaPnp8swFLeZ9hOcDhnN2UvN_PS9I8XZUe3AR1zqu-MsNlLz2TlyyZ39tfUf2I1O4jx2yOxG6my2OYH_eHdbqazD7_CkoMcB3qdgSUrI9Xhn4PLmIw1Efnc190Y0Q6HmxIkY-QgILkUkTJg3erhw7mCqAzEsm4ITCa_8Ov13etiQfEYns3zFLqyl8ErKNe54SLyhLdR9reA6dYQyWCjivVqKEh8SjU8nHOviNN0-cuhdK4vRciU0v2qaDby2ndBW4VTi-dD-McECu5ImzJiwObtvdQVbNmvlGXg_iHU1ysDDCbM9wqEA-CPW-m8iwK9ZYyOJtuHVogLn278zrSbVFyUf01CCgOOvgbYorK7pJSF2JP5phN-Q_OfjwQX2xJrLlv4MIwFgbJhUvA39InqHyQWKHyDqBsBpd_xQaO046KP05M0XicK8hVNNBc8VzMpamhUr7In3KHqaUmFjreYxl-VJUlaO3H-jyf3_SYQM2jFQeJVeKkz-ePiUI8wlCYhOzCc-rckBTzm2hE0qwUv_edIeYI0",
+          "ATKogpfRs2tobEzbfOn9Ru4is9OAY_QgrRnL-4SRcq9tAGD5Mv3gdokZQQtrlKLx-ylUIf8zBoYNnyPbzNeb69ZU5wszS20iSe-5gvM8bpDjCTx7skispVuyZ7pZY8Z9AH2oxSfSICN1W3Yf7RayPa156EefZuOEfEQf8NDXXf33i46XaZOH7wTVS3PcfmdXpOZBwpBp6L3sB_b3Zp_7sZMKkhCAnAbK1wjdnO4bCNaxlRvYPN7SuatYntg1nX23jQCRQR6hWb62jVpSluoSmsuL1SVqVSx6F03c9hPhSrMaO7klwWCrN7Q9jHda9fDt13sB9A35-a7n772fDz1CTS8ttja0Y_n1x-CnbN1UnfX-llGV4ITXQonFQe6PdKCpTsksXK0e7eKcOwUz8YH8rJDJ6juRRU3WMfeXz_-LMUcE5KY9jcM7LWFNRgXA5DEaraKqaigJUSDPtEYVczu10641TDsS8vJWrC57wE0CRZ-wJ_YJi_EYQGPEPsioxmtSti530mnIsTz9cwoOUfUmSS3jqUZC8-GSG0WwdKxf1QnLD6TVmEg9S3bvjjsIEiuYyjBPB6W_U6V02zWAfEQ8NOA3C9UFvkClfLLK-nvIBhR1OPTie2b0vP9TouDZlDJDhfAOzaLkow",
+          "ATKogpcc4afdrCRXdMbajkKgrXLEz6LPksdONw-ILDijCQ4wCaNRuWyUxuR7vFbzytGMFyJF4rsdDDNuBOdUWh3GTv_g_pBD3vxYNo6VYsl2LOooUXPbP23dIBCoywMAFIxMuK-aD0m-jfcE7pDlWflajLMyuDssIhx4ccs9bCMNbcb0J0d8g2t6XekYIIbljvxlo5-dJ_msmWmgcQWNho8gj3pAf_KSzdxqr9_4IRD1RX-0Y2iAQJ4YPIhFlEEZIP72jDAcc9gk6cdI4qphuch0UGkWJWnNDR5wcPkQ7uXkj415cGivOg_kVX9Tu_5AeRopkJdZPuAUyBJ_wnWpMzisoXaGrjv2scLW7jHWpO9-nuD87OWC8FwBnXGIZDGh_fA2x81UAtq8IwhkkqNEz3z9W0aRZVLM4IHZq281wZbPF1smHyvUeSPxsQHnvGShxYA3CsLs_9IYx7Iz5DSqswyw1AfyRfGogIiPTsRfLgWb7QpSebokdkQjMQ4-GjrjaPQOF_rAmw-5url02YJ1FA2Me4fd8BVc1dKo7CMFvudhnw16_DbC2sUL12cpYa7r90naN2r-dNg2JkPXFuvCdkTXjmw9MwsDb5P1pWANy5KUERdvkUGzI_V_-MEnIA0zpn6pAIz2SpOj",
+          "ATKogpdIWwdUlCla3FPOBA5IqJ5GBEjzr04pThTrVPpPDTcQUs5DQGIEpIrngDsIMYxOtOYUFGcqNyd2MFpQ2nCFaRYSuaqNTMjtGpNvlj7Q7gSDzMghCSQVlBxSa-eKDmIixZAb6JDWW-7aFUWrtJIkkQ8JUbNvV1soUIWrsWSw65Q6dKreJCGdBJQZFy0SOFkacULACkMvFSuyZhAgqhuRPHzgmrm1ZFUJkJA1SJIa9AXDT1Gxz2b2Qrb-ga6iUkGfW031BT6x5mbMDo6QQU-QRnNnC7qlikhXCl0JGEzH8zhTWqOpwQgyfPhzEIkcZwB3-mk-ql_TbY32BnocdCx7GwdIgh0MFBLdo1GEVi1Ml0PUh49s3fBWenm4_2nkFGLlrZoZf1xFfQecMmYFoWtumkSn9EbPCvRXNf0I39e48ERzFP29tTLLL_QVmp5GjF707x69taBSruXzHJ1EsxRusCOhp6jIrpn7PjxmtnceOuwSA-uLUIqZFWPx1OGkXRi4ajIZi0Bsyr9pgVNTSndCdpCNrA8wlB_UYWpmKdOycQE1Essda7rQE-8X3PG0ev-LoYlkSL_VzOoQ68-FXUvwiPqNU08sm80Ehr1IiDIl5ZcgYgcKz0ucOZe9gwA_KVUX5ucIUsNJ",
+          "ATKogpda6f159GUTei7lNxVEjV52hAmGfyQAQED30gJi2_yZZlbL4z9AxsCzPSqUof4mHh_fPBf63Ga74OXvq3MTWDBJsI-RjwdRg1nx8DL_QlIk-6XH-YD4PdHNPYge0FtLr6mjkBSf3KDgNbG3UwXPC_j1xxW1gr-vOR7NP_a9ICTAs1aWZAAWeFbqFHAWJQY831liS-4LUsOBkhvdBP7sodhB4-f9TmmaGeFXJ_cdiaDaLwnmqbvUNqfhBnLrYy07eT2UR-cp5DBN7JLx7FOZSAN5upzWmisBgdfSAP4ejl3_OkqMovODUYCUBDndXguLMFBGg7810rJ8rZz2Je5FdW9czjcRmoQvf6evM61gHQlTsJOvmMETWJQnV9-wT4YO-yUorE1wsbSUsuPH1TWMP2oye6CovY-HLXgOAjCQ-zWpPZcAT6Ln-hHEX5AXft5H3g7jtn2v21iKPny_am2dCU7ge91QCry3vtsdw_eb2k5Us9T5l48L3P3IRS4Mt8Xye9PVOt0jkylS8Rekps_ENWND2ydf7wK5xrPaY2z5wFbgKEEmaZus8uZVBty8IyuJufyLrWGhKlSTl-83b7AV8Yhc0uQE22rlwZ8l3x39p0DYVMcCZONRL8n-GQvX_MFGrH_Bjw",
+          "ATKogpf3A79LzgCaCKBATLlhqCdRR8TwZqHEJflsLwi7ZeokqajZtGnFCZRGg8koYQMfP9TyYZfLwk1LbMCDw6e5ZdcrD4NhZMBfNpYr_K3xLNPbyu_vhLnoapdTrsjVZicswXyT0UuF1bz688AVoPXagFOlytsqv_C9xIkrYH83Qdohsr9sbKYSsJ5n0xDTmsLKaEXSUcbvx6t51EnoQm8A-4JJwSZ3JGZDcv20MyTjYUHIWBi5cJwZe4IR1kx2TTqYONeaPnZugSu7a-aM6ghtX0IKYlRizjwQiJXq-f9P1kdh6iTxtyRGm9pNn1H6WGhWzjzaLEoGlqprIgVqJPA6Rz_ETAld2S9JArNCu9CyhR41Qs3BtIkVNTVumN4Uwo4lj9VeqDCx1rwGBL2McL2U-27tbAxlDZQOoCTbUfHSGs7Xps4jQm5ql7FkFW-1bsCLmPTtKyf_xUlhm-68b72S_U3s_MxC_WWzdZru69ssLHYbzw3IYPxfoGh63EOe9ec8aHbAH90WDeHHkw7dUxiSpjb-eJkPsf-JvJ0mm7vFm9dszhxgdn4rRYITgFwkVjBPvcYvpIJWx4hxqEPX0KOgKFVFP6_4PIG18LpeV0aTV0mQaWO40oLjhDN-4vZGWaXmebxTHg"
+        ],
+        "ratingCount": 160,
+        "openingPeriods": null,
+        "excerpt": "Embraced by tropical sculpture gardens, this art museum occupies an estate house constructed in 1925 for Oʻahu-born Anna Rice Cooke, a missionary…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_10.jpg"
+        ],
+        "placeId": "ChIJHRTedrhtAHwRJGSNu434Vew",
+        "name": "Spalding House",
+        "city": null,
+        "permanentlyClosed": true,
+        "priceLevel": null,
+        "phone": "+1 808-526-1322",
+        "g_description": "Former private mansion housing 6 galleries, cafe, sculpture garden & facility for family activities.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHRTedrhtAHwRJGSNu434Vew_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "2411 Makiki Heights Dr, Honolulu, HI 96822, USA",
+        "latitude": 21.3119389,
+        "types": [
+          "tourist_attraction",
+          "park",
+          "museum",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJHagMfYhuAHwRycuWMqDnRrE",
+        "website": "https://www.bishopmuseum.org/",
+        "index": 6,
+        "utcOffset": -600,
+        "longitude": -157.870613,
+        "rating": 4.6,
+        "detail_description": "Bishop Museum, also known as the Hawaii State Museum of Natural and Cultural History, is a must-visit destination in Oahu. Established in 1888, it honors the legacy of Princess Bernice with millions of artifacts and exhibits showcasing Hawaiian and other Pacific Island cultures. The museum's impressive building exudes old-world charm with its dark wood and wrought iron accents.",
+        "imageKeys": [
+          "D2ARo4bNFQ5uZouLI7RCoAplFkzqWP0v",
+          "v6ZYZiYIlj5oh4aE0ZLWEwzM0F9RwiG0",
+          "4L6QYKZGoJsQYSh9ISsJOyrQQCrOXtYU",
+          "qfgFInfFQZDBLk9wSkgtN0OsVN6MPBJ7",
+          "0tuS6RE9wWcKrk1jwYn3qisBhMbkK2qt"
+        ],
+        "ratingCount": 4931,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "A planetarium, & a museum showcasing exhibits on Hawaiian & other Pacific Island cultures.",
+        "name": "Bishop Museum",
+        "placeId": "ChIJHagMfYhuAHwRycuWMqDnRrE",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHagMfYhuAHwRycuWMqDnRrE_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHagMfYhuAHwRycuWMqDnRrE_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHagMfYhuAHwRycuWMqDnRrE_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHagMfYhuAHwRycuWMqDnRrE_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHagMfYhuAHwRycuWMqDnRrE_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 896,
+            "3": 252,
+            "1": 60,
+            "5": 3704,
+            "2": 52
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 847-3511",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJHagMfYhuAHwRycuWMqDnRrE_1.jpg",
+        "address": "1525 Bernice St, Honolulu, HI 96817, USA",
+        "latitude": 21.33292,
+        "types": [
+          "Museum",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJM2ZQCUNvAHwRLGCcDaeSxbg",
+        "website": "https://www.nps.gov/perl/index.htm",
+        "index": 13,
+        "utcOffset": -600,
+        "longitude": -157.938858,
+        "rating": 4.8,
+        "detail_description": "Pearl Harbor National Memorial is a significant site that commemorates the 1941 Pearl Harbor attack. It includes the USS Arizona Memorial, a museum, and galleries. Managed by the National Park Service, it consists of five distinct destinations. The memorial not only tells the story of the devastating Japanese attack on Pearl Harbor but also covers other historical events such as wartime internment of Japanese Americans and World War II battles.",
+        "imageKeys": [
+          "F8vIj4lw5q951wUUwdyFR12Ftfhv7mT8",
+          "blW0caTuzlIrXIoZloqtcuicIMFnbJUw",
+          "AI2GxF0URcsC3yq4SfXaWZ9EBvWXwCTu",
+          "IuB8LqU0LofibH75u8Hs5znTckH8IaKN",
+          "CBjdRlxjFyS0xcYfRnBaBiJI2Fmn6L4I"
+        ],
+        "ratingCount": 24624,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0700",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0700",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0700",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0700",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0700",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0700",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0700",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Site commemorating the 1941 Pearl Harbor attack, featuring USS Arizona Memorial, museum & galleries.",
+        "name": "Pearl Harbor National Memorial",
+        "placeId": "ChIJM2ZQCUNvAHwRLGCcDaeSxbg",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM2ZQCUNvAHwRLGCcDaeSxbg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM2ZQCUNvAHwRLGCcDaeSxbg_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM2ZQCUNvAHwRLGCcDaeSxbg_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM2ZQCUNvAHwRLGCcDaeSxbg_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM2ZQCUNvAHwRLGCcDaeSxbg_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 2723,
+            "3": 852,
+            "1": 221,
+            "5": 20768,
+            "2": 177
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 422-3399",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM2ZQCUNvAHwRLGCcDaeSxbg_1.jpg",
+        "address": "1 Arizona Memorial Pl, Honolulu, HI 96818, USA",
+        "latitude": 21.367599,
+        "types": [
+          "War museum",
+          "Museums",
+          "Memorial park",
+          "Cemeteries",
+          "Historic Sites",
+          "Monuments & Statues",
+          "History Museums"
+        ]
+      },
+      {
+        "_id": "ChIJM79rmXByAHwROmF-D8j-HuY",
+        "website": "https://www.honoluluzoo.org/",
+        "index": 12,
+        "utcOffset": -600,
+        "longitude": -157.821478,
+        "rating": 4.2,
+        "detail_description": "The Honolulu Zoo is a 42-acre family-friendly attraction located at the end of Waikiki, towards Diamond Head. It's the only zoo in the US to have originated from a king's grant by King Kalakaua. With over 900 animals, including elephants, orangutans, and komodo dragons, it offers a diverse range of wildlife. The zoo also hosts events and educational programs for visitors to enjoy.",
+        "imageKeys": [
+          "8UResiFXl9TAyGyz0absHEy0fxUhU6IA",
+          "c4cWuFIIs9hTLFdCgtUOZshijwrp74gg",
+          "rfO3firFeMxtuniiVFE49ZjC9dywzhjs",
+          "0Hs0Tz9dlRsXvIaqMyTFtUTuWpxLMPTo",
+          "oURGad1sDnHT1oYdNiJqoJiyHg7n8Etc"
+        ],
+        "ratingCount": 9631,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Popular spot for families spanning 42 acres with lush gardens & over 900 animals.",
+        "name": "Honolulu Zoo",
+        "placeId": "ChIJM79rmXByAHwROmF-D8j-HuY",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM79rmXByAHwROmF-D8j-HuY_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM79rmXByAHwROmF-D8j-HuY_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM79rmXByAHwROmF-D8j-HuY_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM79rmXByAHwROmF-D8j-HuY_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM79rmXByAHwROmF-D8j-HuY_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 2742,
+            "3": 1261,
+            "1": 309,
+            "5": 4982,
+            "2": 378
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 926-3191",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJM79rmXByAHwROmF-D8j-HuY_1.jpg",
+        "address": "151 Kapahulu Ave, Honolulu, HI 96815, USA",
+        "latitude": 21.27109,
+        "types": [
+          "Zoo",
+          "Outdoor Activities"
+        ]
+      },
+      {
+        "_id": "ChIJOToZ6vJsAHwRiSHkYBujo0g",
+        "website": null,
+        "index": 8,
+        "utcOffset": -600,
+        "longitude": -157.799201,
+        "rating": 4.6,
+        "detail_description": "Manoa Falls is a renowned 150-foot waterfall located in the Manoa Valley, just a short drive from downtown Honolulu and Waikiki. The trail to the falls winds through a lush rainforest, offering stunning tropical vegetation and an arboretum. This popular hike is accessible to hikers of all ages and experience levels, making it perfect for families. The well-kept trail spans less than two miles round trip, providing an easy stroll through the picturesque Manoa Valley.",
+        "imageKeys": [
+          "ijRqBct2ZnCrE0Qjg3TOWbzlFo0ZxzFq",
+          "WdM7ca2ckIb0QTJkewjCkiZsk85IgGYf",
+          "7nu9AXSU1yimAOaAQ4fvK0ZT4HqxigAz",
+          "ZIxHwBNNgavpYGjqgGt0yVhImcMp1x82"
+        ],
+        "ratingCount": 1044,
+        "openingPeriods": null,
+        "excerpt": "A celebrated hiking area, this 150-foot waterfall is set amid tropical vegetation & an arboretum.",
+        "name": "Manoa Falls",
+        "placeId": "ChIJOToZ6vJsAHwRiSHkYBujo0g",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOToZ6vJsAHwRiSHkYBujo0g_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOToZ6vJsAHwRiSHkYBujo0g_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOToZ6vJsAHwRiSHkYBujo0g_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOToZ6vJsAHwRiSHkYBujo0g_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOToZ6vJsAHwRiSHkYBujo0g_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 184,
+            "3": 44,
+            "1": 26,
+            "5": 787,
+            "2": 14
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJOToZ6vJsAHwRiSHkYBujo0g_1.jpg",
+        "address": "Honolulu, HI 96822, USA",
+        "latitude": 21.342039,
+        "types": [
+          "Waterfall",
+          "Outdoor Activities",
+          "Hiking Trails"
+        ]
+      },
+      {
+        "_id": "ChIJP6vimmFyAHwRWU-pxClA_vc",
+        "website": null,
+        "index": 9,
+        "utcOffset": -600,
+        "longitude": -157.805999,
+        "rating": 4.7,
+        "detail_description": "Diamond Head is an iconic volcanic peak in Oahu, offering hiking trails and historical military fortifications. Visitors can enjoy dinner cruises near the crater, witnessing breathtaking sunsets over the Pacific Ocean. During winter, passengers may also spot humpback whales on their annual migration. Oahu's lush landscapes and crystal-clear waters make it a cherished destination for travelers seeking unforgettable experiences.",
+        "imageKeys": [
+          "x9QEefdMNZ4XwMGwseTqDR0cGcjxdSta",
+          "HFpjLgkVoC3fzHA2LjH3MBmrwRuLmb3T",
+          "W0xpHeEV60wRSnLFHXgDn6uhzhMVkS9C",
+          "RrpmH1kSjGl4RTiwaJq9rOxm7GHqXVsC",
+          "sKL8DkteYNaigFNj3A8HYLcOY4fX5rER"
+        ],
+        "ratingCount": 2680,
+        "openingPeriods": null,
+        "excerpt": "Iconic volcanic peak, home to hiking trails & remains of historical military fortifications.",
+        "name": "Diamond Head",
+        "placeId": "ChIJP6vimmFyAHwRWU-pxClA_vc",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP6vimmFyAHwRWU-pxClA_vc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP6vimmFyAHwRWU-pxClA_vc_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP6vimmFyAHwRWU-pxClA_vc_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP6vimmFyAHwRWU-pxClA_vc_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP6vimmFyAHwRWU-pxClA_vc_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 374,
+            "3": 62,
+            "1": 61,
+            "5": 2170,
+            "2": 23
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP6vimmFyAHwRWU-pxClA_vc_1.jpg",
+        "address": "Honolulu, HI 96815, USA",
+        "latitude": 21.261983,
+        "types": [
+          "Volcano"
+        ]
+      },
+      {
+        "_id": "ChIJQdGSKeBtAHwR_u8RfJpnTUM",
+        "website": "https://missionhouses.org/",
+        "index": 15,
+        "utcOffset": -600,
+        "longitude": -157.856999,
+        "rating": 4.8,
+        "detail_description": "The Hawaiian Mission Houses Historic Site and Archives is a complex in downtown Honolulu that features restored homes and workplaces of 19th-century Christian missionaries. Designated as a National Historic Landmark, the site includes three structures: Hale Laau, Hale Pai, and Hale Kamalani. These buildings served as missionary homes, printing house, and storage for mission goods respectively. The museum also houses an art gallery and a gift shop.",
+        "imageKeys": [
+          "kXgJvGlbZr7DrlXaDjLCw7ShRbYKL1vt",
+          "2MgD37QV7kpyk4QoqjlnGmQFzN3dbbVx",
+          "v5me6YgTIliNUMvJksQei3GcMjncLiOc",
+          "k5kUDTO3N2oQw8J4M2fLM4bCGQN9qxX8",
+          "Z5efg7HvifSZoMCq2WGEBl7fPPpJker4"
+        ],
+        "ratingCount": 60,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1500",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Complex with restored homes & workplaces of 19th-century Christian missionaries & a visitor center.",
+        "name": "Hawaiian Mission Houses Historic Site and Archives",
+        "placeId": "ChIJQdGSKeBtAHwR_u8RfJpnTUM",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQdGSKeBtAHwR_u8RfJpnTUM_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQdGSKeBtAHwR_u8RfJpnTUM_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQdGSKeBtAHwR_u8RfJpnTUM_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQdGSKeBtAHwR_u8RfJpnTUM_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQdGSKeBtAHwR_u8RfJpnTUM_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 6,
+            "3": 4,
+            "1": 0,
+            "5": 50,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 447-3910",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJQdGSKeBtAHwR_u8RfJpnTUM_1.jpg",
+        "address": "553 S King St, Honolulu, HI 96813, USA",
+        "latitude": 21.304041,
+        "types": [
+          "Museum",
+          "Archive",
+          "Education center",
+          "Gift shop",
+          "Library",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJRQewc-dtAHwRh3LGErzuzSw",
+        "website": "https://honolulumuseum.org/",
+        "index": 5,
+        "utcOffset": -600,
+        "longitude": -157.848701,
+        "rating": 4.6,
+        "detail_description": "The Honolulu Museum of Art (HoMA) is home to an extensive collection of over 50,000 works, housed in a remarkable building featuring a gift shop and cafe. The museum recently hosted the Garden Club of Honolulu Oceans: Beyond the Reef show and the annual Conservation Study Conference, which focused on protecting Island Earth through a bio-cultural approach that combines ancient Hawaiian practices with modern science.",
+        "imageKeys": [
+          "Et604Rf2vlfSgdL1auOXso3OlP2DxWjF",
+          "cAPrrwOOEUwGEf6etbSHM2vpozHXUrWA",
+          "7KtHfEd7IWrn5jd45N7rbv6R9Q6ZcG0L",
+          "JJZhvPYkqhmAIBb1Ny8T6STitGWHK87D",
+          "LQtAeokVSJyvAlPiRHgtJRpf3EaIHDQZ"
+        ],
+        "ratingCount": 1800,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "An expansive collection of over 50,000 works housed in an impressive building with gift shop & cafe.",
+        "name": "Honolulu Museum of Art (HoMA)",
+        "placeId": "ChIJRQewc-dtAHwRh3LGErzuzSw",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJRQewc-dtAHwRh3LGErzuzSw_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJRQewc-dtAHwRh3LGErzuzSw_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJRQewc-dtAHwRh3LGErzuzSw_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJRQewc-dtAHwRh3LGErzuzSw_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJRQewc-dtAHwRh3LGErzuzSw_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 366,
+            "3": 80,
+            "1": 28,
+            "5": 1311,
+            "2": 25
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 532-8700",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJRQewc-dtAHwRh3LGErzuzSw_1.jpg",
+        "address": "900 S Beretania St., Honolulu, HI 96814, USA",
+        "latitude": 21.303799,
+        "types": [
+          "Art museum",
+          "Museums",
+          "Art cafe",
+          "Arts organization",
+          "Cafe",
+          "Educational institution",
+          "Gift shop",
+          "Non-profit organization",
+          "Restaurant"
+        ]
+      },
+      {
+        "_id": "ChIJTUbDjDsYAHwRbJen81_1KEs",
+        "website": "http://www.honolulu.gov/",
+        "index": 11,
+        "utcOffset": -600,
+        "longitude": -157.85814,
+        "rating": null,
+        "detail_description": "Honolulu, the capital of Hawaii and the gateway to the U.S. island chain, is located on the south shore of Oahu. The city's Waikiki neighborhood is famous for its crescent beach, high-rise hotels, and vibrant dining and nightlife scene with Diamond Head crater in the distance. Honolulu encompasses various neighborhoods such as Downtown, Ala Moana, Kaimuki, Kapahulu, and Diamond Head, each offering a unique atmosphere and attractions.",
+        "imageKeys": [
+          "CtOfNT6PV7GKxLmuZ7VoeZ8W6A0vaX3j",
+          "693OMDXXFPsXl6S2ZnhQmW102j4fx0aw",
+          "bXl6SUa1yb2tUccQMURtPz0PRIOXk1CL",
+          "5b6kAyeFXdiMjWzMNVg1WJlXQK9kuCoQ",
+          "QJLdbDC2gMrT8oK8NXYzfJWilvehT886"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": "Honolulu, on the island of Oahu’s south shore, is capital of Hawaii and gateway to the U.S. island chain. The Waikiki neighborhood is its center for dining, nightlife and shopping, famed for its iconic crescent beach backed by palms and high-rise hotels, with volcanic Diamond Head crater looming in the distance. Sites relating to the World War II attack on Pearl Harbor include the USS Arizona Memorial.",
+        "name": "Honolulu",
+        "placeId": "ChIJTUbDjDsYAHwRbJen81_1KEs",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJTUbDjDsYAHwRbJen81_1KEs_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJTUbDjDsYAHwRbJen81_1KEs_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJTUbDjDsYAHwRbJen81_1KEs_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJTUbDjDsYAHwRbJen81_1KEs_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJTUbDjDsYAHwRbJen81_1KEs_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJTUbDjDsYAHwRbJen81_1KEs_1.jpg",
+        "address": "Hawaii, USA",
+        "latitude": 21.309885,
+        "types": []
+      },
+      {
+        "_id": "ChIJY-xGtkFsAHwRgLZwrdWcS5E",
+        "website": "https://www.cem.va.gov/cems/nchp/nmcp.asp",
+        "index": 20,
+        "utcOffset": -600,
+        "longitude": -157.842647,
+        "rating": 4.7,
+        "detail_description": "The National Memorial Cemetery of the Pacific, also known as the Punchbowl, is a significant historic burial site located within the Punchbowl crater in Honolulu. Established in 1949, it serves as a memorial and resting place for over 53,000 individuals who have died while serving in the United States Armed Forces since World War II.",
+        "imageKeys": [
+          "MtUUZ4VT0H3nW75vNLqHMgvRToP0kCMS",
+          "4mfM2k2P0xOG8Lyft2skYwcc9hzMJCbg",
+          "1hyilQFfODa3utp2KrADKJbi4weas5gw",
+          "d0FxFcfEZjiKqGyAgkgvOZnHiiiW54VI",
+          "nVRkw3YOArskS3ZK1rWpHWD0WhkfbnS0"
+        ],
+        "ratingCount": 611,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0800",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0800",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0800",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Historic burial site honoring the veterans of 4 wars & with striking views set in a volcanic crater.",
+        "name": "National Memorial Cemetery of the Pacific",
+        "placeId": "ChIJY-xGtkFsAHwRgLZwrdWcS5E",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJY-xGtkFsAHwRgLZwrdWcS5E_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJY-xGtkFsAHwRgLZwrdWcS5E_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJY-xGtkFsAHwRgLZwrdWcS5E_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJY-xGtkFsAHwRgLZwrdWcS5E_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJY-xGtkFsAHwRgLZwrdWcS5E_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 63,
+            "3": 13,
+            "1": 15,
+            "5": 512,
+            "2": 9
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 532-3720",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJY-xGtkFsAHwRgLZwrdWcS5E_1.jpg",
+        "address": "2177 Puowaina Dr, Honolulu, HI 96813, USA",
+        "latitude": 21.313073,
+        "types": [
+          "Military cemetery",
+          "Sights & Landmarks",
+          "Cemetery",
+          "Historical landmark"
+        ]
+      },
+      {
+        "_id": "ChIJZRn8XK5tAHwRPcUyg3mc-vs",
+        "website": "http://dlnr.hawaii.gov/dsp/parks/oahu/puu-ualakaa-state-wayside/",
+        "index": 9,
+        "utcOffset": -600,
+        "longitude": -157.8189929,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/pu-u-ualaka-a-state-wayside-park/a/poi-sig/376763/361979",
+        "rating": 4.6,
+        "detail_description": "The best free view in Honolulu! At this hillside park, sweeping views extend from Diamond Head on the left, across Waikiki and downtown Honolulu, to the Waiʻanae Range on the right. The airport is visible on the coast and Pearl Harbor beyond that. The blue Pacific is a backdrop to everything. It's less than 2.5 miles up Round Top Dr from Makiki St to the park entrance. Signs detail the area's history as a macadamia nut farm.\n",
+        "imageKeys": [
+          "ATKogpdxaVQVE7-dozwr7Pa7Kwul6SVb2lPdbpEyhjnwZGTLCMNWaEdn8qrwgBJqemsWxELePLPUCVNLpQoK3bvVC7oYiNrjn9m_Y-hDXDKSeHPZyk6d2XKYx8C0zkJgvWdSabZbVUxlGYwR4aauAXpBwriMm6AxDpMKZCK0SgUvDlEYNbB0Gii-213z7Ae6PCSObMSy4NsAgpNU14E5-9-m79KcNOOtFuQYBUqeH7NcnqSbvlEvd6lgNqWSe6UqNx2P0dnEAMXSkaMwoUUJYvWokgeTv28C0kWRH0m8rKunKHHEREtqJHkWtILTTwWfFwYH6F6s1ndmDzds4ORnZ6nuieDFwIfB_yW9AvztmbHQ7mTg0S0VJLoOsR21jenZVXrQ4eNNJR4GZdWAWiuaoj5z783tJrHSNruyEhxD8ga2n1v5TH-wIscKf78uYNTNG8tprLqro96B0yzLZCyQV9ekP5FkznU2v2UQkxUPacIch53-8ExjuClUsss54sTLvYIVgiefaMjb3k-v1M_1di6rBs13WneW4H8hzsKuA-S9qPu6Km2vFRrwOTx-tkqkkOOvcR5KTIDYokMzwAJ669jgrFSYybwa-8RNwsxT3twAewxX4iaGnWdllnm7VLoVkIWAHP5G_Q",
+          "ATKogpd0PhHJO5sQdHKSmD2kLCjOXHo2C52SbvCdqJZF0r9HqiEL16Y0HdbnZVB5KPTELudFIiJPxGqVNmUQAsjs9I-6ycMWXg2Mqa4f4p6iOqWpc5tSnWUg3o-zOBuyoeIYSexj_C5wuy5MT5zJU82-Y4qLTq3bqXHk0p6C1x331Ee11vUfgM69rr1d8JBYGvxQ780VVyc8CBgvYJ_WGrw5QOl9zYl_siAUIZuC68HHob3kVkWEb8aWwGbWCzlWcoXHOVifLha-2EPp2YQNvG3pEokCnvOkONv3fQ67pjWg9s4_DTLc-Bpg9ugP7lYmjsc_vKWjdZg5hhhkwoyhDWR6OWokGwzTpIqkUJSUFhMOoXbA5kcOyNA0UzLfDxpqrxO0Yjv-Vo468UGt8oNf833k2VCHNBE32-LrWvD5JEEQ9s9QHF1xixAzEEEC0b6v32EJifz_iotF6fhOI0xOfSm4zglZip3eXU_DCrnwPDCC1TGOAQvfpRNnRG622xJhpavRfp7gMHb6_WIsLm5LxBrF790CSBtjEA0yVLMtuQG3JSH8-jJamlse4e8UWbbF8FLtoPKFnu81mnDAtCxV3-MUvnnK89fAroA1eqkGGIRAD15JWA9AKTi5uW6qKpBd-bEtBrQBYY_u",
+          "ATKogpedRjpJUsgZbKFYo-bZg_y2W8ilT018Bm-1XHzMnvWcR7BFJbcRmyWO-udKge9uh5jL3EYpEo3ma1IvXg3RF_hbtI7T0C2bBMQuP8DIzsUZ3rLoWNx_6xy0e8kYto05KVFw9NmJG5vsDBOI-qidNxWZ7_BFdOMWY0Ct49gILkoH64bBXatlAcTbcsZlmKbzLFDX3S3kY7yWxijD-7hb5CWXuWhmNrs58HLjPyPxh1Ssgc57lbr2zsjh8OfoKS09mMbl-qK4qbZgOsE3L3qygc7u60Od-y4iYOA7_IZI_pqNav7qpGKejnE-NU2AkcyHq_-IcvyeUXU5RAoXt50Hjd9NL9j91yKcKgGZ2ebu0KnE-Ixcg2i6bwvoIoHVYJjDto1oISbLTH9XsAEW8j-tfEXrDzLkmi9lipXY3kLzZx7fJ0S0ujVPMo2ELn2mrCbKRqb1vmnKvm5wz2QN6Rx_4lMKfgwhWqrpQ7q-XC1pTXNclH6YBsiYe5aUZswRsLXc6U4b57fdiX_DM3fJanuwqWUt6XpHibsIkGwStB5uaDxWoX02-mWKwC8Pw4jjVu7Jw8s_T19tB8vRehbN_LegJdQPCFs6Q4C-HEE7wiihL5oX4mrr2UXhCEED-ToAeHV7_sMwkw",
+          "ATKogpcDGNvo6MsuD7vokYnWdUVhGsaPaqXobRPd-47MKI1TQb_5hSC5fva4VxgKDjM7EAST5xkL_2LgVs8NPDSXvmvSaHx5ZKV3CKcQq_XaHGLQrS5OMVAiqUclkzoeyBUP977I0QYPJJ4HCrqTR3Qg_OPz7Sp6gUMWSjF6cidtptv9C8iXFYN6VKDQlTKYMHuRfw7a_3jcwgcG55jbH8-S-gbi51SN8WNv4dzd3VhstGis4rXJTlgTYkhJn0mWNKKkG_coIwSok3XFR3N3aBatY2XKcDuJIIepiX-ZV7OFgBU7ikBsvHVdDt25jG-j6ltSpn7_KccQboODmfU3-s7EJH1QIZumUhAv8mD5x5kj9LuLeXE3veImre8n-2YBhhYVEbFIJlICx8GpKS5_nXV8xkAJTKFPcaHqBStHBE7czIHchnZDTKQf5W29KTfJQoZZ8IRe4k895ivuRoD7b5ggRXYsxohXoMUyQk0_E3wF1aohAdNqAa9vgldEprogdtUcJm-Vder3A_Km7qSjJ77DLtoMigqS3DRKSZ-LmzN9Ygi1w3t-5NAKuiIjhILRYYr3gzYnezQCu2mv4UzzhYl7EKLheo3dgslZg6koj9G6xbYQn9i7dRYyT6LGdeIbg2X3qYt1Dw",
+          "ATKogpdyAQcZ8Zwh8gNXr2y0RyzypvAB0T8_gw2idzL0rfICE2V5yhcMEfa7-10D15Lxcs0JTel2n3esq6oPGGje0n5yg0lF9v8xEOK7RFNLUdKeX2S7NhR5oT209C8pfBIwRHcbqIlAiDPt1Ff6bnZj555J2zobhIm3vWALfMBZhxnCHQEzWRQLowCnpxymFQbd-FkdoF3mvOUkuvp2YoyzorhBDgE5l74Oyi6JY70-IIRrH34ItnynH-Bln_Zuezc1wOfMsd7Mf5IrGEJ9xhGcaDzTX0GumeLhbbJ6AfwJfZHO-y2o4N0Gcss7na_sXbxQTPlS-g3nuS8bq6gOSC0Z3m2SuCCWyngrTCfabXiMCW1FnezS4LCWpWtiT5wDd7EODb8CxMXy5VFgsBRRLURkNttZVMylxgLVFaUsF05nelJyjM5_Fwl7gphe5MXHfKwXU4vfv4uVQZ60baw0Lz-AppPs7CxqFnbT7MguvsICJWpUwRsQnrMyfjWSqYvfMf65XkcM6VYmRThJBW6rRhgGNBaIvZCZdlldBSDWR3PJH27xZ3vOOO5mWHZej4IC27gdsPN-ir9ScX1Mqb4pK1Aa4EGyf_Vms5eiI9PmVrRjXM2gNY3hw3ycv2VUZxtwFPmCr89Agg",
+          "ATKogpeQi0ZcSnWQVIg5JOEfyEuRMQl7gZ6S9xgTLZcCpJSk_iVsrKSuwFzxTYcsk63PuDpZqKLgp7KGLHnS10Hvx2QTRrCCarK35co05F-tzy3KENG73_4FYA6AU3Ra3guZcD6i3ij5qikg1TbInnq-eUBteRT8XCM6klHW9734HsnLXboOqhj08WLG2X1sFbW1djSmN3LT6MtvqYvMQTL3ytZeNzdqMdbEp75AANyOa6xBKQKlB-fHssCmz3e2ZZ0k9xmN0cKnZjEsfgN4tcxNBEiJ5yAlDatbDPD3BIeIUENkKJDZOSw7Qe6Gxf-PLi1x7WYXDmswMOEhMEF59B-eh7FUcyhdvP6j5MhJ1r6MCRBTxj7Jy6V3uGH9kTwuOsQQxYPCurE7vbaso8pbl-rRND8NDfqtLnQKYmdXBetEtTxFp60RqJixl6SHFDPOB1-DJU7_TByl4SKKoDyR4sp3mB-JOD26ZqYoA09M4hNsBAAC5LNQTOVKWxUAauT71RQdxzdL3rimnwPMjlwYGSL1tKflFd_zdlN1briMIRHUODIAUYwxL1fPmhu4EtuQ0u6N6ICqra1O8xbT8ckLlS715fknRoUOWeE5tT9dXlMJT7FcYYqLPQPqONchVrPCqNqpsd5Enw",
+          "ATKogpe_aBzOx4_GjH1Qm0OzLoJG5CvsJZOoXr7yD7MfAN9aGwFgh-eiU9yFgmOFgWhvpa07fW8gOO8DC343yG9PpWvQDf-8g4xehZ-AqV7KhePECime28RtkXAqIkEVoYrKSVDej8ouqt3eD5H7N1Ay35Om0qSkPxBtSpH4EKFfvJ6yhG8jERXT4YjnrS36porN3HkMI2tpZudAK04aHHqxlzIxskEkhJXv0aSj7IkWGLdv5E3Uerix7qTr2x0xUyS-A63oSPFxwaUGGbr8qdfUhVQNIOYdRNhGaaWjEqMNwToRXZ8qmo-hkhXBkq5tZTJf0qNSXpOcTmcRs_Pm-LSKQOHJEKOp8mQxHhLD5Gh44xgVQZ5SFS89_O0vcRSJqlhyrXnRJlGHwOfDeJXq0Q_R73A1ngiCACIWZMHKgmNrLxQK2IeZIg6cTrxRVWN4QbORsVYsu4-JpKq9QV8VcR0SuBzxIVn1w8F71mDl5C7pZHotiSIv-zd2KQgoqup_yzwkgUcWD318WpaVwRUI9j6KqIA4yFp4Bg4bZlQWalhk5fSFdGPKL1mEQVS0ScMAbLFgB2f7eKsfTJf_wc9U4jkMZ4kEmWMrQE7QQWjzWwILBbfooe8Da2RzNakQAeVmt4ul6F_gcQ",
+          "ATKogpcIExgT9zSbhxj-yE7PhtgWGo4GkYrRaDcu2ABcpNtzebjLLJ6hkU7Q_8eXbf5R7FSCyMzKnvWbyxFXcFqcNkpuQOvBSMopkkWpFYiDdjt25_9_M12LOMYgQe3jdo8Z7QRJE_1KJPpN2xLoBijxezlFCwVRqzry1hOV9FShQzP_wpurgcZLEF-UYh0HoTgkjmp3Kk2Bbpqa3u1CiiQUbbG2NBbvcmcOxcrNXLby8nNSMBLmXfUE-0-sxH-Wu4y4HROj_zxLg_g11s1IxlifFrgFSUgmq_lXmvPnLP7shS3I1aG5OqpsHMWL8g-qLEwIqdaoZZJLpX2Wt6VsBt52-E_jHivKJXcVX73pCJHA4XsXVYvmbPsbPXRgiofu5skp6zZ2s_WWUnvzCblnFcmhgwdEPLOjfIs6RYHSN9ZCBPiaNVUTdUL8KX3ApPMgkQ-JJpIr21AnGqSYIRpUjLwkJwzLScoj8EHlO1z1OHh9x2QJvyeGvKyrxzGwn6Itpw5mbyoo9PM9IlARJlE2QuMMVHIGhtoB7DCtiXgR2LHRwaLmOy5sRZ3eCAUB8LLr1Ifh5S1nGfN-OhU_IymaokSh98_-ezhgSH6iBbPruK2zum3FaOp65yQSg1TZDrNYvskfRiv9S9w6",
+          "ATKogpehTFTp4YVeoUM2WaAP5gDPFIsFA8WjrKWkC-j7shVh4bxW0UNgI7NQ6AX-rpJaxbepsscrh2p0gwvQfxiMd_fenRrK76EKzM3TxQeQrpGIWjf9GiQMg3jhmIhdZUez4ceQFgDygItE5au6w8_rH9ABrvdKn7WJlHOW7zPiQyO9kHNQkbRQCrZlqsoIHN1d9q9khsl_sM0ta4Mg3dof2N9yCGAVt7Rc7GuGjEqyjRPsdd3WK_uA-9AkE38hEr4q2H-GoPdTcuHmDhN6zMUguaS0_CXameRdJlOsYOi2i7mMphgD230l-KENF5egJ9INCI7rfVNrN_9tUBJHJI0HF_YY5D_Us5ehaCFM9LbYgL23Y1s00wqv70NlUOvCZgeZU0f_SyrtT19GgDHLD1gnXSxKUCUtB95mOtSWYPQuUnBPdYsrNOLeEx-HIG8CyBLpHdcr5FYYt6Mu77S3Ol0SxsamX3wynYadkwq5-5zAi3q6vzNSIh12wOkOh75exwPDSla_1chiB60UB58tG3tufJNlvpo8AO_TT6zcCZ4W4Ohh_6kxp3opFxrliKquGh7I_MQjUz4WCmt5-ekvRHTh_EcVWeBlYTkvf2DT14RTlXMGfLMthIeSvvnpnzyxb96UOWbRtQ",
+          "ATKogpe6N1lIdTjOLeJGiMxYyIz1tDawn1boAE0P2SBozi7uunq0fLf-RfY1ZtBfuWqER88_5OKLvPaBtP9EdoIXFRJj8ITvBAOXu6I4MnhOkxaNRyYXe-mmOP3DGbR-WeT8bxYb2ewhyWSXZgFu52nWTXPoQTQ3tHpuxBKBVQUoYVzGYv1zvWx9Q8B6Rh0EbjkFP_-afLM0zYh4im7Zyp0svr-YqrPEAmLZFWhwqEwpRl-AG7tMY4u9pcfzYd7fNwITiHu2jd7cwsp5lKxOhhQakD_uHWnTr0MlQa30FDONTbOEERUVXna1wgQ0vGRAseBcITnfp_GUfRyGcv27QIA9HJGgDpHabZqqz0T6rqHjgAidElZvknA-vZ3Lx60zyprYuYV9FVTCcH2sSabNW8OSdyO5Dn2aZTnYEjf2BPJBPcTSqe_-rg-dlYLHKOLcx5oPa39BOEGrQ8ISwHKbmqBKPqLfyPy5Q_vg1zOlXmJul0iqJYwCPN8ZgRGl5PgBIgP-bDpIRcj9_3x8teEJDjEkGj9YJ3LyPUMTNnrr1pBNFcplCieG10I0KkLXd9oOSAie-SVmISOR1GWEO6I1PyKKNsxT8fOV1mJLrmRsoK54-wVzmSyS8jVAusZdTpUPopwPFAbk8g"
+        ],
+        "ratingCount": 100,
+        "openingPeriods": null,
+        "excerpt": "The best free view in Honolulu! At this hillside park, sweeping views extend from Diamond Head on the left, across Waikiki and downtown Honolulu, to the…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_10.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_11.jpg"
+        ],
+        "placeId": "ChIJZRn8XK5tAHwRPcUyg3mc-vs",
+        "name": "Puʻu ʻUalakaʻa State Wayside Park",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJZRn8XK5tAHwRPcUyg3mc-vs_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "3198 Round Top Dr, Honolulu, HI 96822, USA",
+        "latitude": 21.3164998,
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJfy9okvgUAHwRseIWasniUOw",
+        "website": null,
+        "index": 14,
+        "utcOffset": -600,
+        "longitude": -157.715121,
+        "rating": 4.8,
+        "detail_description": "Lanikai Beach, which translates to \"heavenly sea\" in Hawaiian, is a stunning 1/2 mile stretch of pristine white sand and crystal-clear turquoise waters located on the windward side of Oahu. It is consistently ranked among the best beaches in the world and offers breathtaking views of the Na Mokulua islands. Accessible only by public beach access paths, this residential area beach lacks lifeguards, restrooms, showers, and a public parking lot.",
+        "imageKeys": [
+          "ewcV3aQVlOyoZNIi0JRtA6zIu0Rbogzj",
+          "aGqfReH3HFzv3ogLaojUPCttmUOgQA1K",
+          "SXvrpQRY7O00sBwxXLqtbZpM3AVodmFM",
+          "hEY2P2pihC0wzS5UM9DVnI11IDYsrZm1",
+          "1EjcXNkNbj3bG1LddFIzWYS3bKaXB74U"
+        ],
+        "ratingCount": 1717,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Lanikai Beach",
+        "placeId": "ChIJfy9okvgUAHwRseIWasniUOw",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJfy9okvgUAHwRseIWasniUOw_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJfy9okvgUAHwRseIWasniUOw_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJfy9okvgUAHwRseIWasniUOw_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJfy9okvgUAHwRseIWasniUOw_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJfy9okvgUAHwRseIWasniUOw_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 137,
+            "3": 38,
+            "1": 37,
+            "5": 1535,
+            "2": 7
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJfy9okvgUAHwRseIWasniUOw_1.jpg",
+        "address": "Kailua, HI 96734, USA",
+        "latitude": 21.392538,
+        "types": [
+          "Beach",
+          "Outdoor Activities"
+        ]
+      },
+      {
+        "_id": "ChIJg4hyvj1uAHwRXOIF-5WDVlc",
+        "website": null,
+        "index": 15,
+        "utcOffset": -600,
+        "longitude": -157.8824186,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/sand-island-state-recreation-area/a/poi-sig/1632931/361979",
+        "rating": null,
+        "detail_description": "A barely visited half-mile ribbon of sand hides in plain sight from much of Honolulu. Industrial Sand Island, sitting between the airport and the port, is home to this large urban park. The beach faces the open pacific and has fine-grained sand. It's backed by vast lawns dotted with trees and public facilities such as restrooms.\nFrom the sand there are fine views of planes taking off (wave to the morose faces overhead winging their way home) and of the high-rises of downtown and Waikiki. On the downside, the park suffers from shabby maintenance and there's a few people wandering about who clearly have no place else to go. It's also a bit of a trek to reach the beach. From the intersection where the Sand Island Access Rd heads southwest from the Nimitz Hwy (Hwy 92), it's about a 4-mile drive, as you have to drive all the way to the east end of the island before hooking back to the beach.",
+        "imageKeys": [
+          "ATKogpdvRkC2UFrKcuMaRTDkBE7P2kW1BERpxq0MwiKcN_fvt8tevwpHO__XUhj6WpTtZYjWTU1mIiYcs6yqmr_0C9vyW7YaYr45eXo2X4d6Z16Sb8d_vfXcHw36-XdIt5TwGHDcmmp_l_2jO3SWC4nmZyyxvTfMs1kULbvatP5P_h5PoItebYZ43v-voVEhp-1m5HdSqqKmY2E68a6-L3pZMRudJvvpTr9H73E6NogwvM4yq2gXScbtbUhznx62GsLJu9vzyi0J2ZPhUF6szDDTK3QV8cHS1yEuuhMCFJmxqfyc-5NS2lQXzfaTgqjBKJ5tG4-GTpZG-jzj7xXoCEKXKwpn8beCUnScB11qZRQiJKbmb-UV7GEnsYAlXV0Iwo_pqRrr8yXVhWU3Ex7K4-1wXZ0NYUMOKJko278qTMHiWrtWZ9sgwM5jjPLHy6gcZrdtODV_FlbXQrpniJlle_7-0gb5PvgA8R4eGRnNvzNFbZkVgGHUL9avVSQCg9fKX0JkR6JaOs2uldWg4q7INh3S0sUbfzZFOVH5ggWJNTckuzi6EwRlik3WhwV2wHyCNvAoaXg_dJ5NTi6FHLHhFgSC7abX4uMQhyV1bmhIkNp8JwHufkl_7PQQ5exXR8Mr-tSH",
+          "ATKogpdIcZF2locZ853R2V-3npDuP7WhclLx05MHhoow1BUAxGW9Ho6ii8NC8Tk3ux45JoLBdFygcO62oIewNMEQI8YcaMYIEQMceMgcw-XbgJfaOFHG6wRj8XJScaZRhHTvF7joA8TKyNqMSMZHylt61fUWsaEqAVi3O-EULK1er3E81hZno9DPebFW_2VeFj3IeIM43Lajvs0AhE85h0hQZiSgFcqIKuygtMvBkWnshXamh7gcbfYIm2nTWvndm4JsR6xIR_I0pzAQe8OcF3SFCetVO-clRRsnhJeP7b_2YOY6wrMhTgw2InfxYryjh2Qsjk52ziBNNM8DDVH5VGFVKypiAJtBBRvv3w6YEhezNQxok06kVj5PJgxBxhM4_au91h2G_WU3-6qxp2ZhTKbU9tyt30INF71zbNE9jH2BgHL1cjeuRs3btQHxpAnNCa7oBemcuQ75l2a22Mg7nQJblbRj-93Wex7ZNR2nooDL12tztgndf8WOcaQhjy8-AUxNQXEdfS7HVbrv6XH3VOwwvWZb7wuajisppa8N5oBYFDO5F8ZRvASE-NATj_VCvRMQjbfsl1jlFHHQ7v5ZWd2zSNFTAYU6EFAvCka48v8KwQOKheqa2wdoHXvzd78pNKit0LUY3w",
+          "ATKogpccWGOKbBbXmrzMKt0RffIXXk7voofl2ZpAMkdlQRM-jnjG7A7GR4bxBwxcHWNYJzrQ61YYxZNv5CiTfGgOL1g3HEz4oI-JC9lkq-rhMNDX8_g1awjvRajr9DddrOvm87Ieb1SeETh6HYwVhkeSd6BMN1_eNKtPMfsZijVnct1krEIMqQWpHvCkak6egcH9A4cBCbVzO15kM0Yr8d2HzaYyPvPNMQU4p1rC5fQWXbYA_N69FCykKNTi98bdSplh_79BoFN20nH5nCOyXyH99Nbq5kQCn82atIp8zVYVUSTS6OUjCAj6yxJJ0BBymv3Yjl4SS3ylc1vkrzRjvHGBvhN6AuEl9ZDKv8jVUAJmyo2zaMBfstVd7qWccxZprQrQ9Y-xL3H23BupypK4ZVw_DwLiGGhFf_gBlWS9wGNnDYJODP-r4VRhEoqUjtSilb3euTNz7Q1PchRZCQarrMXFJXSpc6ih_C2_slY2hKEvG9w9leaPSBxC8kebVwnzcOqA8DPrRzfnUWEfYh2WqVM92i_uBVk95sxLg6UQgch6mYdu61fjUa8thJLopTNPK4hIJfK2E7G68glapR9hOOAHxeRm_R4KhlmXkFlQ6C0HhNovA6qJoR27JXaGIHhBd6Db8hgqsQ",
+          "ATKogpe7qGGTPCBPiNXiCNBfw-Dj7iAGa0_jVPsZficNCfXQi3lG1guKipwMSZYAFRO3DMKyD-3eCvpBpyjCD_Y20YeB2yGhIHoR_eSRBrdcXFWxZdr4Zr4DdI2o5Pnv7iqvS6m4PDbrWOomQfYcaNs6_Y4atMBUiQSmBCsuu_2zzniKiMvUZRUTXXhf4a_nlgRiBJSDv1bW8_hzRhNH0S-Klj6_kcRdtsJbb7uZKiJudOAr4c53Fq7_OxRB4JD5RZ7DzaOtLAIrxFPz8G9tqGs4qV0Y9gy_JMUgvmkFmKSyZ0kWFFldvnYV3gLDieQMrfGzjl3ZFJ9hbtdZoB5ZNU3kqVOOxL6siey3b2rAemMt1ytGfOc3uA-Y1LRVyLYSzTP3MEqi9J2JHS6Moc0mU9KnRZEMe5vdG-cm3B8xAJgxaI87Uc-U1YPv0mXeKopHxjeO5AU3AsUWUcTsFHSun2TTfyCo0kq60xTv7OPvsNkrQnRiC89TpuE5posYInF8L69DCAkq3PrKL6omJf76DJ85KNx1fqcVXfhx6QVMgA3XoV7XtW6pWJ_HqdiiTZ9UTmzuCL_RG19nRjeI5nwt-zAlqGxC0nkEhPQcnNo7DbeqT4VcFkt4Od27xT-2qXJ7ZNUhwwiXtg",
+          "ATKogpdyw_Kowyl67EARHcw82c7qea7dYAiF8kkJW-HLfiMsxGraYZ5eXJ1jZ0mC6v_brFwJLUCmCmGTDIT44DefplEHmatGLILyJGudpiuaSbf924OGspFgNHUrnCDDNCEBABlFMHWAyX6Cezdti5JmDZA8SiAUODX8eLnZzxEGVd1x7FhtcrP74hhJobPFPxC86-TlrjBDbcAo0cFde9A2oBlx0FzbddiNpybuqt5jSy82XE4BdVC3_K9N5ZdgN5lC_ZAP28DBjjl9VIGuMADnhYr0kTtD1G-YPg-u5plAyo4sDNaxsLwpKfBtZKdbZv5rozhn4ilGxTMxrXF3XC8rnmSuqttfdx-IuhJ5aJSAOz7T0m4m4eNRPz8T0cvdZZ2cTIYIKhAYQYztPzuHzhzcFCut8peh4RE2SX7Jyzt3oJI2IOeyrpmTYqAktb6o_UGOQ5E0v8WYIXhLwGSL8W4pJF3YyXbaX0m9d0R-00d4ljNxCqej-brmguKRvBOURFkym8h2mhlxOu-K47OhDrWEt5bvjErDcyqRAJmBsaMm-xXZ-dPpG6Rw5zh0aoYymQW1NovhpIHMzLQIr2ygE05_QCs9CSFGrS0QyUMwwS_EDvFLqKfhkUnpFMAxtRLG-Ke7nXEfZg",
+          "ATKogpe_fznPOLpYo0QJ3CQZHCE84SATgK5G4IHbvCpChh9c9asN4_Wdo4jggrvplPfvD6VFPjaPScEDlGpaNUenQSi0XIsvFVssWSMmEu7bXPHGeQ7gMBb5mswMqZn6gBkbf3ttUG5jpc2lUZncPsbhbWIVCoP4Mf4DM9WeD2ELBHR9L0mVWarCrqGQYLLvB_6-90_nN6h_KKmTu-W75ciKYyBIOcq7e5flr5POz1UOym-gd_jZSk1Js6BfQjVDmqjhd0L7WDDIa1mbR1BGHDMQGA5hZHWHthLK_h6Vl9rNOH6d6KQDfTYTApKeFWHczfsnd_GkjvN443LHcACH3P6sg0QZFX2Ekyf9tPbeG8RiXSbAzRXgKJDqYPaeYyvmKKqx4SMnOzlO4Nj9bausR-OtT_NmyqFghthdvMQBIZixGvIl9eCQXtHAdwvgjELegpo3hPGaI9KGn36kZF62Rur3o87RRb53NVhRxFzweaGsXaDuPs7kl9O5-p923HE-vTeXhY4jGnv-nt0z2PHEn3mVL4sEqlu5bQzH65OxnX0eMp8JoGdKSR6BUOpiB9DO-jjyNkLxGT3en3sqFaipPm31WxV0_4R3cHcDzlpxmek9SgZ8lI6JxLQMU-6T57F07-Zlh2Aafw",
+          "ATKogpc3eo-qX9QxU6LlSWSpboLWBcQzcugjOOnV4kEihvjSc706GW3w9N_o0HB0I_qa90PVfgSDIB7bWMLMkcVPPgdlSF9jVcBe10aXw5l05ER_EpfuOT0MDoJ05TZNQfawNlPS5df43fcQRU7LuFW1qGtz34asUXqxFgW04PJLNrcUMOPWQftRj9019xy2ndYSJRjqCoi1VuH-u9gHUQwj3I13aVrlm_TBTKJcM6ZBrM_V0KpU5WHVYXKJ0a2zpCMAvZb-mfl_Clkd1qnZ5F_tWg_DYJOzs6UkB6zOk-vFiMHfhwGCvZCU5DGQJilj9bEv2XR1-UTnfmtuw1DtXyMhrYULcaX0EUwNR0OVIukjpb_K-Tw3Q8I9VG40gueZVgCaBLOAoE_OScIpQjtexzLfOjbCLfMbNxQUpziUgQpheT3M5xJH6DKppKkUr4Wxzl4O_zIwGExu1iNriMCGpTjamQfvIvWz_z86irYPEvNKQgN-8YONWhwKTcBWA2pWkf9cr7paWYK_rflMD4qb5BrnBIANHG1iDo9MIBbspPG4uAcybfwGmNehUWbDJ3vJrUz-TrQfguCRmfb7wSPTmX1LPDFCKccgYWdqo5CmiHg1fIfvFzzXGMOXPXFRjPLg6IM3ps4hxA",
+          "ATKogpdR_AoJcoK1h3POX6Z9pPTcNHmXCjKCqGrvB1CayKOwXzelxmwycTQ5dzF8T8n1ZCjrPLn5F8-qbDM5Q9PQjpoLLTWwFOZLfgRjGJTp4XmQa28QPZsvpVqcSrCxqQCQMtMaV_fHlTdVDG30gCTioa_Mi83dP9iI4vAzNAPezjEqEbijP_82tvoHtdXE9EGX8rtUZqligHUEukOBfLXQTR7MkSoHRdHvQcxzFcuGd2dtFTBv-vAMYWnyUldD0071zFF9qKhcpjPsBpBpw4Azc2ac80m4zRoEeciIbd9_nZy-9w1yEnp3V4bts4gUhtzkqbNBmlBsPdgxSV_1eDbD2G4gz7wIv8h5IpNZL04kP7J20Tj3-MxyOPO8_vxbPnTQaxhYUC2ZHW3OlBWYnWTENQIOoFjefY74GJeimcJ-pDIvZ1BXGC0n8s62Qe7Ukl8T9QesxGQjdzQ-5hZaX4OSoOy_ZP94EJpJSpsqRvSfgQxPRxmFiF87s1idyRKrDZgdSq53Wa6BhFFoNavYj01nhl6mZCjuWXbX2n3wQ19kRTWGZXbmBcPHe4m5XS-Csa5SQRdaB8I_6U1TdTOwDiLIxgr1D8WkTQ25Z04IdKPot9ufqq0vmpa-TYViLeInJQ",
+          "ATKogpfDeO65xotYqF6LiWE32RefIKu6NzD5YkByAJIzhx9ZF8-T4v14CUCREA8PBbOJGIR7UdBQiBtpSzrDRiDrqhYOp4-jHUIDxi8VT680LJG6XZUfm9WNrB30ift3uFRffnh00uE7mbXVaE7DQmpl5tNJO8vANRgd-N-S0AgFMG-YovJYbnNOpK3U-LMLdrhrExLWd6Uu56YfDlGH1empkv-0HSzWrA5D0mMludhTdOF9aIP8PsvqUptdEprOjkDgxV8rSUKKrVso-1wwPenahXIVN7hdBGKdGyugJKT2Ud1TGxseBp5TPEWcNXhjxcTHzvZWi8r00wnr1KTeaoClLYB4mTrrwkCLMvbNZvXa32MZc7vTKtGuPVIUeMEv8hiN45UzxNWp3KjJYuIMK26r_y4UtOIN9IJ7qSottEjWQG0_2bq4bmfbb_HUuVNClIvEwkRz0liVxiRblA2kUBh80vFHgEwG7EoxbIKw_dRqyaD5-IoYt-Nvdkd0QuMU55kXvj2tL2zGfKz1hkRWM26ekQ2QDzeUohA5fe0IusF_5v3Bi6TD-EwJQSKPzL2TLmFLWsXj7DA8r22xnV3vsZ7Sbn5PgNZrlf78T5lqNyOrjVY_PCIN1Y4PrJvc7p1JwBWUo_uQhtrF",
+          "ATKogpfU8kZpDnXWo3VwVi0sQykfpNF2ZlhPBQlllqe8pFJl2K10Yn7RfzHNllfq9pqVN1wQc5qvdycgGrNPOray8GvxWPxTb9nsKAp8GeYhHnSoVAVqOAksUPZ9Qn1pRgyU5H0nxc1rdRw461ufgxkTB6nHeGpvf-jiB6hz6MZ7pgwvNWNPN8FvNohmZv4V33pc1-0z10ZxVSp5KjZvN8_vGbqk4KSGyiiBDiI3prJZHI7ETEuCSEGEqt0Y0L0gxsMSq1iDYK4kdb3zLMwIFjKVO7BFjkejS9jh7D54jLLObeTVy4VPM-plpKSntd4apBNkZN9TH8Yu-aKvxUtAvcFv-BAXqff8BCkMDUAX5RLbpH5kdmJpgEyZHBDmM0HoiuqjuEnQzYthwh3TfXcD8HtvA0iEQnZ3vUk61s30BASRd_CukIxoMOhUF9_wRcwXt8tOK5njU7uYJSJR2q87GRPn3BfGlMi0C7vEOLWjd_fP7ifvV0r4KG2feedq3lv9gqqjt6PI9kAKWQstlQHIffRG00kfKml0T_EnBInt4r32_i25PQzubA56f594UEWWo1lk97HbfBo5Ah8kWhzR5D-WDjs3KWrftGZDSsaun8ET5vZ6mM4SMYkc2KwImseyq241dkK7NlVu"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": "A barely visited half-mile ribbon of sand hides in plain sight from much of Honolulu. Industrial Sand Island, sitting between the airport and the port, is…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_10.jpg"
+        ],
+        "placeId": "ChIJg4hyvj1uAHwRXOIF-5WDVlc",
+        "name": "Sand Island State Recreation Area",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg4hyvj1uAHwRXOIF-5WDVlc_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "Kalihi - Palama, Honolulu, HI 96819, USA",
+        "latitude": 21.3025294,
+        "types": [
+          "campground",
+          "park",
+          "premise",
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJgS0W7YplAHwRgpewKEElecc",
+        "website": "http://www.ussmissouri.org/",
+        "index": 19,
+        "utcOffset": -600,
+        "longitude": -157.953424,
+        "rating": 4.8,
+        "detail_description": "The Battleship Missouri Memorial, also known as the \"Mighty Mo,\" is a historic site that holds significance in World War II history. Launched in 1944, it served in various wars before becoming a memorial at Pearl Harbor. The ship hosted the official Japanese surrender, marking the end of World War II. Visitors can explore war artifacts and exhibits on its fully restored decks and superstructure.",
+        "imageKeys": [
+          "Cwy4WYx5Uw0NG7hckS1SSdiKj7GSbrm7",
+          "PtifEzXhDivcmUdAsjwVqVE9p8RlQOFQ",
+          "QpbldX4Gof5mwe3aAyVCPi03tIuxLDNs",
+          "nnudV2HzANRwxZOPApSFnPAwEAAJhoEP",
+          "E1QfqjYuIAhgt4T8Yw2GSPpz5VL04d9q"
+        ],
+        "ratingCount": 13470,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 0
+            },
+            "open": {
+              "time": "0800",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "0800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "0800",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "0800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "0800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 5
+            },
+            "open": {
+              "time": "0800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "0800",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Storied battleship, site of the official Japanese surrender in WWII, hosting exhibits, tours & more.",
+        "name": "Battleship Missouri Memorial",
+        "placeId": "ChIJgS0W7YplAHwRgpewKEElecc",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJgS0W7YplAHwRgpewKEElecc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJgS0W7YplAHwRgpewKEElecc_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJgS0W7YplAHwRgpewKEElecc_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJgS0W7YplAHwRgpewKEElecc_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJgS0W7YplAHwRgpewKEElecc_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 1451,
+            "3": 214,
+            "1": 65,
+            "5": 11727,
+            "2": 56
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 455-1600",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJgS0W7YplAHwRgpewKEElecc_1.jpg",
+        "address": "63 Cowpens St, Honolulu, HI 96818, USA",
+        "latitude": 21.362117,
+        "types": [
+          "Historical place",
+          "Sights & Landmarks",
+          "Historical landmark",
+          "War memorial",
+          "Historic Sites",
+          "Ships",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJmSAXAYlyAHwRUuIwMlELnkI",
+        "website": "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+        "index": 4,
+        "utcOffset": -600,
+        "longitude": -157.804094,
+        "rating": 4.7,
+        "detail_description": "Diamond Head State Monument is a tuff cone crater formed 300,000 years ago by a volcanic eruption. The ridgeline offers stunning panoramic views and is home to one of O'ahu's most scenic hiking trails. The 0.8-mile hike to the summit is steep but rewards hikers with surreal views of Waikiki Beach and the Pacific Ocean. It's an iconic landmark in Hawaii's military history and a popular spot for visitors, offering an epic adventure for families.",
+        "imageKeys": [
+          "uoKMUMCBp8fxuMpPCv9F6DlDJFlbBvdm",
+          "8mjhg7Ha2ClYEILROg1qmPHMthqfMQDo",
+          "NUvBTqRtBJRvlXWMSUyh1ZVrHWb1hdTQ",
+          "dlMRtXycV15coZrtBYuO0VZQofpezDNn",
+          "RWf5mwLkoKsGEeMXzMoFNqjP9jA3YgCz"
+        ],
+        "ratingCount": 16219,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0600",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "A trail leads visitors to the summit of this volcanic tuff cone & former fort with panoramic views.",
+        "name": "Diamond Head State Monument",
+        "placeId": "ChIJmSAXAYlyAHwRUuIwMlELnkI",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmSAXAYlyAHwRUuIwMlELnkI_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmSAXAYlyAHwRUuIwMlELnkI_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmSAXAYlyAHwRUuIwMlELnkI_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmSAXAYlyAHwRUuIwMlELnkI_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmSAXAYlyAHwRUuIwMlELnkI_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 2966,
+            "3": 613,
+            "1": 147,
+            "5": 12446,
+            "2": 87
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 587-0300",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmSAXAYlyAHwRUuIwMlELnkI_1.jpg",
+        "address": "Honolulu, HI 96815, USA",
+        "latitude": 21.263798,
+        "types": [
+          "Park",
+          "Outdoor Activities",
+          "Scenic Walking Areas",
+          "Hiking Trails"
+        ]
+      },
+      {
+        "_id": "ChIJmZ14AXRuAHwRWqOi8MmtO0U",
+        "website": null,
+        "index": 4,
+        "utcOffset": -600,
+        "longitude": -157.8627123,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/chinatown-markets/a/poi-sig/1327400/361979",
+        "rating": 4.1,
+        "detail_description": "The commercial heart of Chinatown revolves around its markets and food shops. Noodle factories, pastry shops and produce stalls line the narrow sidewalks, always crowded with cart-pushing grandmothers and errand-running families. An institution since 1904, the Oʻahu Market sells everything a Chinese cook needs: ginger root, fresh octopus, quail eggs, jasmine rice, slabs of tuna, long beans and salted jellyfish. You owe yourself a bubble tea if you spot a pig’s head among the stalls.\nAt the start of the nearby pedestrian mall is the newer, but equally vibrant, Kekaulike Market. At the top end of the pedestrian mall is Maunakea Marketplace, with its popular food court.",
+        "imageKeys": [
+          "ATKogpctlTMhl8T1TdX2wkLWKFilY_VQA64w5lJn7Oz01h_kRhkv0pAPv5EWLwYuz2SPuRwq5bNmouaTLuQvbETKkhyv9ucdBHcAsbaEseSA0eHjV8vMaR0mYe_Y4u48SVexYc5znFr_UQSSrk2XQQWHeISB_tKstNIcur5rR7Vucps3vBPFwfR48RNN3AtSjCfnAGx3cNb8BYgSxYyhxQDq7Fk3O8VkrXxFAvURnJGLCGmYLuOX8-jq-UOfVpm5OTprba8lPZuw3FpAIVtLmqrZME2mmw-KB3iX6NHs0zRmBObrrackdgdHmLkO_YU2vKZ-HG935CvwiUXx2a_ebF0ABuZa7Dkr4YTq9q7AsCIkgJtGs0oxV_byJnC3dOuj7_1MfeO8tJo8Viw8AXtTSQNsPtecCuP_XAFj3zBmgLKUxhiNbbYi2xwJj5dp18Yj-rqrQoUsNlTcKdycycW2LM83h41GlZMa0yMthWpwJ_bHCFqHypsg_HDOqWFPbS7ioOY1irKRz3TJNo2qdzFiqchkyFpm8CtSdGhuMzM153w-qsQ37GTiek0QGt71i9n5hCFjN2q8BcN2CGYNyQJxePa40LC48eHwRW5o_stqb3Gt2-JI3WxUZ-E8golzm-PISMPj3mnkQg",
+          "ATKogpcV9ATS2CDcOQ33YOHfMf0mjtqyN6EBA1e_ejZv_S5NWu607nXKfPRpGjL4EsGF-u6zA1Cs7JTjyNaTaZp81k1iUXgaMhb4bflqtCzeTnegxrrLX1pcPh4blgUGxhnMkPXBZKLVAM9HCpASUNQ_nn8JXoiVBwmD6xjVWrt1X3dOg7VTdH7vlZA5FhvBLwAgBn_ZVqMmwgvcgpdvqltdPhWndigT8ho5sZsax65Ofp7VNbZDdWTWBwjBNaWODDyAO6xkuw8iJUxtdh7SmtNGIByY-2Cokxn63Zz0n72z5VCZJ-3OAURhjYjVWY2Htqo6p4JdbxanaDQ_Gpd3Xf0491bgkncu6axS8QqXtrDYvsY8LwyhFb87qINNWEDch1-Ahtg56INvcavwuo-wAeDkDjYiM5HFafzP6l96mafzC37A3eLu7_v0YiGif6DUgadp0KMyI6aGmiTD1KTcXG2hZVpFoRCO6m7MXoO8Le0WmOfhJsbLN7lA__ngqsWYPRms3ER60Gys9T7B8H8mmzcnFOq8yIs9OFzd6wfY1XLpQH3_2_zKZd8MmsR8H3gZsjDXlsWyQaQIM07F-I9ws-fPMOJE3DkxaCVvwQ4CEdBFHVSxpN6Cr-DFgkw1RkLOi-3F7DfgKQ",
+          "ATKogpcx7imMcaun3VuzXwMw6KLA_4cjEoummMlx1la403QKU05z1gGw_Ia_4Zk64tkFqcyEEA_KP_qz3HmiDb3FAJOE1fB67RvK0AuxKW8cUEoNBIE59yNDkImGAlgdHbofI607LdiFbdnwzjwktwQZux8eN4_L-Z6rHMITwlTBiXNKl_kYbhwjwmf7GknWXTfEFRjwXvXcfW5-LN64TCJ1SyAdmlhmsflfbHcFDn6yLYmmE56YJpfZs_Bn3zDG89PM3MoHhYMYi1zKjgeZHpyU1r6YpBvzuRcx6ROndctGIlnrcbD5kBk36brmzMAqlfbTuP2sO2C77cWtIDYGuoQTFnqlBJrCQ-1EQZwFb7Lo1aso4B3xxmtYq8Tb1cyAX2pe4lXFTn0bMPTbdlOtpHK4YHJQsRkY0e4YuTGgYHxfIHWjXA8PvyiC4GpBZYQHLdxfe-tzgidBnB2URnQUraP9RFuwb89j0e6pS-KScJBIgcT8Gz1FeygQa6uQ4kfVCzzDw5Lw39NzkBsXp8jBMChHUgUXByz3jE-m6dwuNMZyujxRtaR-fidBbDewuBuE8bKQ57UMkL-_KMN1NhZI0lZVfsnFJJh5GFm6mEmP7CJrixyIEC0RiosYaTxzy5KqRjlU0U2hOcb6",
+          "ATKogpdqT5fOkrwNU2v0fsBjelINXbB-KJhqRjevzAfVwLkrcWf4QrbMjtB28YzfdgaVsP79E7p6MwldxSaniCbXDgg7gQR_qNnmLLq_b6WAq6ydd9q6OhUeTNgNiWwWtzedZvBHcZRXYoVXi1WIQnVlVjBKE5BGGWqGhmXFf3L6XJZSb1BOBaarkHHOqQQ3zi0CHCIOU97OjrFQgErPQhkA-pfbYndp4tvxM_ENaD7EhnASju0FLsqZjFVRQBWZBaebX_uCOl3tXdOABMSoZQ9EXAgWl5A7MnzM0kD5me6TLXX-XctfqTS9_tpvpzsDNmiS2XaMESh2Km9GneDZJm55-mli5V0ErWIHyfaJtq74mkeuqsJ-1BbmRjoVCDHbyfJ7uL3kfgWE-mp-NY1nn9QRKG8ZufWF6LkcVKtGoIBa5gAy0G2HHzSeU7nr_wweHJETqMlj9KwRR-zN76wIA5GKzyvww2HtfPQVXsEbihDPkFB2PqB1IcCi6C0RdKzyVegaYa7cLFszUG-k4negIqsynaDZyKMi4KfRNKDKQYeXcWfHZSgTYJTKCPPSWlG5f11loqCwVlkdSngBuN_Joab53afv2EkWVastiQCVjhSQd-oFv28WmGCyd1HMn8LsbcGA9C3IYw",
+          "ATKogpfCJxDCprJCNYdK0YNaHRQx5ugHIUsTf-WI0KWFFJiZza_Z3ii0mfLs51d6_KNG6ZNrnV1cUpOlFacPdri4M2dUPbaohQ8Sfm7m--Zu3ojAXLYVgjstqv3-cGJfRjq9raQotYmxOdooK85KryFkzSBKxSr7603UHXhdQx9f2IDwARyXQCrstJk9OL_tr-J0lR0rL_j6AXObm6Ip949r2IuxnPskY9ed8sh4d10JBxRLsV7jqqdAhvB7MRZ3kQiDIG87iZJJCUD4P3zkw8Ye12Ms2wnnUEgmdfT5_Vx3D2vX_EEV9URKlRnYr8KekCzDM-0u6FO3DdwnKsNLz5UeRH9NzrOf6MnxFJoID8OVnP7mJgOIo8GXin21wAtw1TsFNpEaiGHaWPRGN9MJwML900Wfd-MZQgMPkQafFAnnIKUHy9Rz3jGS81YtyANMYPCGf7O4kqxnfQAdfHGE8S9WQle0tDKk95lSNwBcRGklkdF0s390a77NYshVED9H7lhATHNcfXmrvX3Hs8tkY8ah_wYuQ2L-G8m__e85acd_1MZDLvOe0LeKInOImBz45evjO3tFpfbzH0dz2XDqEofx8zxEnQrzR1uoN4MIjXLt1r1LzTEr2A0PwYpsBwe7tYPPs3inIw",
+          "ATKogpeVQ6E-H9txbA5AP-6N9dpNKR-QQg4LwXH8fP8ojw2GoqvlSYvPaJpSBZWog5t2ZqvWo1BexisDJcyyHsZX_7rC09QHY_Oq-icga9FEbiOLacMtT5Bj27OTn7i8o8vF8vMc0H29Zb2Jr2NtQ8FY2xtOkDIzOwxduDGaa2vFKVhUwKWkdwKSLLIjjQYj7EyS4EWmI_aQuUiQTrSmHJB6WzAQ0mir_0Y6fjMlIOAPO5BqGTBUdRZxzSjSJYgrRGvKU5qn81zxGVOZ4mFV8SrO38uIdNRWFVpHDFfTjwOjI_Mb_XYfEtxN5rzxJ-7qhmiw-7qop_WuOJ8yuWoTvOKKKIJcI9zDZFdkqxbFoMwHOHiop3oSo9xSU75bJtIjQeTCvWl8LpKntmaw-c7FWmj1iSVB2aLAld61Y-S9xs6GQXJI83v3-QbmUC0fZthdlZPd20iGuLRerxJFn_FqkUMc1KoSxAN9eohfmzzrbod23jSxcgvV57_lllC7cn-oBUnaueuetYo7ljU2oaKrR1QSpfmmnzLFfMd9eJNHNb95p5ZXa3ySYX3DtYAw2INA3fiC3WDt3NtxHnwZoUgitjeDGkeR7SAX80n2UxvNIa1rmjjQDv7NaLQDSkrI3iNju_11sUzMaiSA",
+          "ATKogpezNSgpXYKhs6PIRsskXZj6gaMTOUcmEsgyMjZcLlZ-K0VX-sljyk9P1NZwfXyFQ_5W0GkCZi0ynXwVFU0it5KQGFtpXYqrFGPt_u_JbkfWgplUeSVC3k-IsPN3MWe10QiZHwAJ7q6v_e6N-Dits47aoc2u0Fturt9yVAxhJsvo-omOeGkD4BR2O4yRpLR-bMwRyaphBmTZcAd3JuPND1PXD6D8hNEvwfxol9QwY347XCAKqHm5pgSD43S2J0l3dfaXa58vP_j77EaUxGOJB5TRMWPTXzoGgqaAu2Os_8ROLSydMAZmRLPJeL7lNfhQmzNfe1bYbTp-50ZI2eKBt-M9QzUFYlZy-PYDEhg77OTFBLSH8btNf-bxYmU5aNWDd19Pcd2p38eqn79Af-hoQc4TJLbQ-wKU7Iufn_3uDfev9uIgHFWoOzvJW3Yij-tLKOTE0qQPJdcZMCrA4cqTBtxW53GfcaYOExF4yHLGLXf5xnJShoL6yKc5bmpttNBRGrLQKmbCLY29ymWZa12R6_VzEoYezBiLaAtDnh2wgMzKcva4TrhDqYZtb2a-Slybk-_9EhUG8XLwC4nx5jcwQ8EuMqhdO_95Dgktq5H9kvHel_2jqxLN5MA03H0A_VR1puD2HuvY",
+          "ATKogpfHLQdGy5LQaZq1h6j9jc48QkJ7wMsPktZoCfu_PGWEqYbE_6sOIHZioAvjzK8h3fuvgI9QrQOGYJrhSC0F8KlvVBXeTHcU5R4HcHaykOQLSLhx8iv3JjHg1bF0F6tC3AH0zNkz67gjrBbb1kyNvDYhzSN-AjOxCP8Q6V8onR7DZ2KFDwq9DKJyTNsqYVUe9p_zVtJgu5bx7xIWqRzzdv_TU25BDOby93ZbkKRuWieAsCvPM5E5dxm_Yy0CcgC6dWH8D535x2o9ETH7zxVo5LpNV11ReVp_LOFfLk6MXLUraagMNFxz9fzxyzb3XRSu_5f1m5A9MQe8xRvSzpVXa-MJh4BcN-ktDFQVe6Iz2VVXpv0nJYkAHM6jnwJDAWpBynNbOyS1SrkRAIPvWn_0O75_IvOYLUo85yuxs8kq7MJV2HerADQiBripi6k-60zWDTU8peZDHV3rVTqjoENlGqLZL_NgTMHXC21PvdTGMHdlvoO17SsOE_NqOky62PbDFYklcbvtJ9lHqq65yZnEbSqfOV75pdZTMBGWYOZQQZ4Yx1ZSXjoQElxlftJGCN7faycTYk2cKVOtJErCZMzkZhaEVBZ5wU-NhRuFddQuqbdqY1h3noCqGADncOcja-FUVHncgwIx",
+          "ATKogpci8C1CS8X46UsvkDh1Y2_pY-BGApjbj1IJP5UOEm1AvOWB9GPMVbwayemNR5jDN5eRAblwgSOmMI-0jhdBWINXhqeDrdHCqlme0QRUAgH8PPjOhnrL5loLYKWexnMbdJ_ZBT7dB-vDJMvRnSTvF52wkw4FqwXgxhO0ZK-Rt4p83G3xHNL0ma7tBV6Dg8vwoZ6RLC8Ynrhi7sC6cfGiVP6ZM738rlLVtngkl-qFCdtTkN1aLUXvwko-jCr0LM67qY7WKniL70qiQ-r48IdExgBPrpAGnDW_IzeF54IlCns8abyRmMkU6qfx_S-BcJ_AlsAm-jHB3FMVl-Iw6pS9GknYyL3TclaU_mk3pRb3WTqdYf_BDSG4bOdLkm7V6yySjpfDhf4MchQAUstJ3zwfXY561EcqG-iG88ZS1c1K93moCYGGDH38TQ64bk-gp4D0WWtVx9vwhFFi0btzRxZrKkbyFeS9ZmTpONGT_6tWZUijW-nB6X4vCZ2LGI3uqZuqSsjzO9QLdX0e9KNA-5KDbkC4YaUc4Lr37Yky67hzftlvztEh3i3xELC7o8-xJYtLYoUqJtoAO7YMyqVnM9TqvDiYz4NYd3ruB4ctRPwttEFnMFzk38tnGpUL0294HlVHGbFXMPCu",
+          "ATKogpdHj3cr7huHsBMxWLmQL3I5ENcesOfdTrnu2tRlCxRxGJ1bQoXWpcm4gQ7sndl5iiDlCpFa6k18BP9okYq9e8zTjuZnVzM1ZfOwew0AJHXmcfoUFKIUnLJe8IbaGwZ0uDs7T9aVTJMBQM7g3ybGN6kT943MCvuou31Ar1XIuTFW0mFzMceLji62yLpTOAXVfdwg4Y066aphcEpL6fidJDmI3xKwkne-H2VxlPTYlRsCo89T86fpl85PcA9nFoZKUmWKwZZGMvV0MPRm1RIqaF0mOexwbApBYmu4jTV3v-IOo81qVQvndvvx008rcrDvsPFjXckzRcN9yZ0V8pIhPSZ0ZOm3jX5E1HSjZSZHT9kdrjDRHWTG88U6VKBPoCkACBR648wiTdIxIwJJLtqw3k5uSJxZKnPDHdwQZ8uwDVIhx59Gv7HPphztSWvYFp_TU7JDc60pFcVOhGyJ3Wk6ukbfHbWty3Ljmo8lgUiDjC6SM8PAb6107UXam8MB263hspGYQqegYD2AKXjsE86mZNVErNFbv47sigDlYDfeC7yy9m02uTUAdl4QUxBLn47vOzSOex9sya4euvj3XLZhbSozHV7UcI-gFMQWjQrdfQcXXkCY9F2fUvnUhFayIPE9jwYHCejj"
+        ],
+        "ratingCount": 1403,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1530",
+              "day": 0
+            },
+            "open": {
+              "time": "0700",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1530",
+              "day": 1
+            },
+            "open": {
+              "time": "0700",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1530",
+              "day": 2
+            },
+            "open": {
+              "time": "0700",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1530",
+              "day": 3
+            },
+            "open": {
+              "time": "0700",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1530",
+              "day": 4
+            },
+            "open": {
+              "time": "0700",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1530",
+              "day": 5
+            },
+            "open": {
+              "time": "0700",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1530",
+              "day": 6
+            },
+            "open": {
+              "time": "0700",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "The commercial heart of Chinatown revolves around its markets and food shops. Noodle factories, pastry shops and produce stalls line the narrow sidewalks,…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_10.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_11.jpg"
+        ],
+        "placeId": "ChIJmZ14AXRuAHwRWqOi8MmtO0U",
+        "name": "Chinatown Markets",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": 1,
+        "phone": "+1 808-441-9757",
+        "g_description": "Open-air market offering goods such as produce, jewelry & souvenirs plus an array of food options.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmZ14AXRuAHwRWqOi8MmtO0U_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "1120 Maunakea St, Honolulu, HI 96817, USA",
+        "latitude": 21.3128071,
+        "types": [
+          "tourist_attraction",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJq0y-NHVuAHwRF-EDUxSGsmg",
+        "website": "https://www.iolanipalace.org/",
+        "index": 3,
+        "utcOffset": -600,
+        "longitude": -157.85877,
+        "rating": 4.6,
+        "detail_description": "Iolani Palace, located in Honolulu, is a historic 19th-century royal residence that once housed Hawaii's last monarchs. It has been restored and transformed into a museum offering tours and exhibits for visitors to explore the rich history of the Hawaiian monarchy. The palace was home to Queen Liliuokalani and King Kalakaua from 1882 to 1893 until the overthrow of the Hawaiian monarchy.",
+        "imageKeys": [
+          "BWiKtfs84KJlSkqP6Wa0Q7IZ7iGuUNcf",
+          "KEdKkSBN1u1PQIlMCYZDlU84yc07uZ2H",
+          "cRSv5Tcw51GshSWqtLyalGePLxNoWnji",
+          "niJPEvCPDmrSHNpUawgU4NCuR602jzvr",
+          "ilHSxUDs0Gqlv1XBXGPivwmsmBUosMHq"
+        ],
+        "ratingCount": 5439,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Opulent 19th-century home of Hawaii’s last monarchs operating as a museum with tours & exhibits.",
+        "name": "Iolani Palace",
+        "placeId": "ChIJq0y-NHVuAHwRF-EDUxSGsmg",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJq0y-NHVuAHwRF-EDUxSGsmg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJq0y-NHVuAHwRF-EDUxSGsmg_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJq0y-NHVuAHwRF-EDUxSGsmg_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJq0y-NHVuAHwRF-EDUxSGsmg_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJq0y-NHVuAHwRF-EDUxSGsmg_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 1035,
+            "3": 303,
+            "1": 59,
+            "5": 4013,
+            "2": 63
+          }
+        },
+        "priceLevel": null,
+        "phone": "(808) 522-0822",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJq0y-NHVuAHwRF-EDUxSGsmg_1.jpg",
+        "address": "364 S King St, Honolulu, HI 96813, USA",
+        "latitude": 21.306757,
+        "types": [
+          "Historical landmark",
+          "Museums",
+          "Historical place museum",
+          "History museum",
+          "Historic Sites",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJqSjXFx1vAHwRwxmP1vqKOVg",
+        "website": null,
+        "index": 4,
+        "utcOffset": -600,
+        "longitude": -157.863441,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/chinatown-markets/a/poi-sig/1327400/361979",
+        "rating": 4,
+        "detail_description": "The commercial heart of Chinatown revolves around its markets and food shops. Noodle factories, pastry shops and produce stalls line the narrow sidewalks, always crowded with cart-pushing grandmothers and errand-running families. An institution since 1904, the Oʻahu Market sells everything a Chinese cook needs: ginger root, fresh octopus, quail eggs, jasmine rice, slabs of tuna, long beans and salted jellyfish. You owe yourself a bubble tea if you spot a pig’s head among the stalls.\nAt the start of the nearby pedestrian mall is the newer, but equally vibrant, Kekaulike Market. At the top end of the pedestrian mall is Maunakea Marketplace, with its popular food court.",
+        "imageKeys": [
+          "ATKogpeAqx3DuU8pyS-7QOTKNHlrV0vQsWwUO6WyTUXYhYWpUxLUdDJ10twvi1Z8k4y6yd0ITQsffSht49kfs2ts3d5qdyDaVdqy6X1tpr7CFJwdyHoX7kVVOVt_m4el_906fB9BSM2N0e0dn3_HlnPazLjOkTWB3xxvgp1XtlIFcze0IMiQfZSFsyEMGmqgvLfSlGSP5FZchoXJhG17fgUF0ut3cHq85DI6wiieGz1vHOWvowDME9ykxa9I5KEkuuWIZY5gYHhJdqS5im9jgpT5W659O9e6k_uwPmzJdsxsxizHvzEDPcuqyr6wMYsUG7SzIPTHLkbGTjOUi3fVtsJ2etsnsKqsDHyseKAsdlU4BTydWX7UvMHFJrwiNSCjxYBepdIJMQJE-YQrtuvPLvMmlH4b-WsjP5hAjPT88IUXDajUpAY3FmDxvn5HSlOgtYL9YW_YC5JtuBYlqOBfXZa5TnQ46NtsRGKa69apTh3WJ2ge8DJOuMz4ZAKG-JPPBCjSDSx_Zwyye8X4Pn2iaNJ_Cm57mamylcUYagKZcxPbROPNm8fTQmvq2UY3NmZ39vlFKqqAddPzzXGT1L257UxB1a8frgePReco6Vl8vfiCEW1UdTa1W4bUSPkUJBQyck_YWKdLPw",
+          "ATKogpfCyPnqOJ3Q67LPgQfYu5SXUXIIoLY7FJB1MVTIitIiDqrjTrZNold4c1qgEgMGziskzBorSvd7Xhy8HZtLasVfmYJdC2NPTZLILVS2jrCptT4Kpwljg49GlXuu_feJXanQuMcbOIedTg2Ky-j9jZxaEMTVmklAEzKyRDb9ZX2LbV7lkKFfhRs6QPqRmGCq81f0sZ5E8U8Jqldi5swYVTqc2fWZaZv_09-IC1LrH4sts0w8sAeFtHNUhGuaZfcSak-QyF87nc5dC-_Ry0cTvSLm7Dp--md31DtAbG_d9T2WRoOGREpQjMWwQYjGmEGIXGtZBpF0ZcEp-WVfKXmkXCJplLCg1E_Y7slDNVz6aWAT2H-zaSi92wXTvX6Oti6dut1xfurXl0r4D3PyrGim4yzJP2_OMPQPw_fX4iIuvWRJZ62JbBNb66qVC7DVCman3Twrjje0R0Voop0AWSbghlEC3hZkKbQed6OPX_TshirgimKbGqheWqwEdhYdbJwFyL0yYMb_j2N-_11-iVP2H4_l8OxJhVPSZf1T7kxo1yLgbeLUB9LBu5JV6c9rs0IeFTr4R0W9IkDvz2eXIqH7lmko-k-Icz3HUPOdbOxBqFAe7hgBIrTWC_eRrTYQgbvY_j3yUQ",
+          "ATKogpfAdN2tZKpJSeaST-M57g6jQJAkUy1dIJbPPd-Jt6ILQTQnkjSOTAZkndafkfCikbPBugF6ZmmeEYnOMiIs9R4o8RIz0m9vb-00k1eCDM2Lxs6QxtmVDOXKEeMaSa8lyB3h2XsOKrYSXG76kHQDZieV4b7wDbvyh0WfmainiunDIFTnzHY7obLTRj9T9JkM3Ot3Jf_1d_WDcDILCL-4yde8ZC-N1lD7UhAY_XAhWtG4J3WJnojVtbccqiPqrmUH_IdOmxXDVdmRaT0RR5rTODv0EeIbQzNyyuai9MYeTezz_sEK8ji_tZB3orqcyXdHs3Vmmhzjmda3DjMT_kY7ocAOEgVCz6-GCvGS3Dh6abE2jUTwnGpKzwqHGY6iyCcDb3_TfT2o88X7jMaqrFha_pMVMl0XHhJhjBAGXF6JV69B0LLHMCIeFXpufnDcWRxrdpw10NxTdlFDG-uubOi2ghEdsKtQXxx1CiyUZr5V2CtgbGW_O3Tboh4AsT5Bac-81U7R_mSvBJ0Z-4Ua9AwpxfecYDQbk5EEN8Rng55bQs0IgXhRCz0Ta-DrqG3ubcRoOuiJ4THrWjqEBOm0comJI4KoAgY8c2y8Auu93LKSLCkSQ5AEJVSMiZdeJeNuf4dFtosO5tNC",
+          "ATKogpdV6n6LAbI0GKx1KSOVkjxlqjLOKPvXc4ov4zA_dbpw8GQm8EZ3BmsabStEPHVGbNvZGjTWpH1Sz-ny-MvoL9xCPXB5GCkl6wjsezqhXWYPk8V6SNyC_RMWGenT_br4-GSR0L9-tf4QPbtwCggIDEjAx-S71ZjQrbIWibSxTdMYJ-6OObd3nvmxkXM3ZBl6kCKpid5wIJaaooThuaaPWIEkKC6TyXoKxNQJ0Vaa18P1EEuBYNpTaONQyReVPT5gEeclFcH8OwE1_PXyrrcSmkvtTFLEi8PgQVjsUuH3LaIk_XeHGKk-tTBZ-86ECJhb9sLFHlJNY7yY4ZsJEZllHFdDiQkeMrHoLSqEh3vMgsA-5UCXkWof-71sWQjOhupAbWeRkvxxGM46j6oK7puqAI-XAJk4-96_msx6jrljFKo-dR_E7ogPlTDS6E6Dj20jkEDi7rAvuCWYndpdLTdP8Mfnciwmswa8eH_qJnM_IxkhiDg_B6w45aI0kalRV8-iGkbE4T-_2vcqaJIQaZ9hgb7NICsUhwhznLHW649v0uJLQ6f3XVwlvx9Kz4Tx2MzU64l00WGtjhZK5cRJYdw4K_gfplTb6_SLfQcK_zLo609LXn6UvS2-tOBXKc9RwNEJCuhQpUNx",
+          "ATKogpehr6c6ezlsgUGuXUkps14gRgldok0MW6k1wFm39oUKq-SirQuRS2UcX55NGxBgGlSWqgek3L1i3YCIHYSTefVbzM9jn1BX2ZT53lQnCcvBT_hKvagCAwnVyReCE5GOSaEH_N45kakCmt1JmDgRZyjLua9R4zfmwHXfWCQPapbsgM5CliwtttRSLumKlGINv0LP4SnLy_UH0dQYJzipi7VpDHVq-vtWe3D2vFCebDwD00nnGXszAOaK87xmWPcm_gf03zqhuyeTah0tY9vAfTw1P_SBBw5dBhQa9kPOlZU4FV-2eO7gRsLCKU3SXEPH40UUj9lpL5QhmtCNoesHiTmaRJukpUaKFLKfSKHasXNLTHzcYFpAxC1ZU1K_bsFkm7kmSD82wA_iwfzyuxHiWYKKjYu_XMX9xt1E6EI8Nk-dd0ertQx1vWgOqMM7zVEVO8H1MPyGd6V3iXaG2hxV1fn6EIqYpqIC4UmkHGwjRHh_9m7QLE_4xLH64_7Ojv9igtrfN8HI01cUylnJlpeoXmOHVd2LMJyg0GpG8D8yZ0xE5XeqF6mDz-zF23fdgZlVMWMonIDt2KCNrwbwwAuBdmGayQH0tAkdKN6iC9sWO0vWq_x-qZCnW3dw3suKlHeF2JZeGw",
+          "ATKogpeNnAGYG6H6QKmflQzuJsnWQSU6IHo4-4Ddn9hhhCNE8ZY3a-1ArBGnOsCQwXUI4mUXcWoTJ5m9mPqKN02IGk3UGOp12Vi1zUzE4Zy7l5SnE17NluLSI9UYEBJsqwKMFJ6YNStY04OBkI_tCpgkymtFtknBmE5kmC8WiQ5wYAFf3kaDDed890McQo7qyW6AzmENx39BhylY_FxXbfu4BVsDfjvPeWPZDr-TeYIMhCon_G-33kHuBTXnPyAp7TstU4yQwmNKu1ErYY5YxyX33azX2ExF5JFhEa-gEJxv41ez1yF3fDuF8bb3c6UkSHgVyPR-HkT8OY6SuBYCBRzQN5mEoSOWzZH9sSFufCU5wxBSbOsK_jXi53LqVP32mBcw46xiuEih4oSrncLhApjWGhyxZFXpArqzQmdcRJUGGiM5fqLAXYOaor5GpPORTI0lWn9US-wasWd0fgHaI8X0YjTu6EqsYd_tlD8xDcI0EFoG1g4X4iYr3zuwoPC4y_G5x4Jw_ATAOMEm8W0ejSkEGYyNUSJiJJZxS_SAetrgjcNCBys0kCLksQFbnfuWkCTScbKVgWZ_i6Pwu-ABi3lOXBd0iRKE-zl8IDrWq5GdYJlYeh9XhfadKNVGXLq5D75iOazIvTB3",
+          "ATKogpeUQ4hGVeiAzGNYzi7-phEdzWRSktj-xPFGW5zzwed7bg48pig3CjACkTpBojddEEEVmOEaCRfVz1DcTiKyj2evqNQwRjGHXo2UvAA7WmMG9bT5xnFruz4DdngQ1qyvjzzsU_ssR8wiHCVxu2yiMo_dUOQXguxXE1T_-lXFlflHzt6-N3BtPUrQiZtjZmN7L0cYvHKSGmH1zRMFhb5UbGM1PM9fOqIV9UZCs7b4QDDcFw93bB4DhzGhRMJa_Pz85xX-lY8rqQ2jszNH3h7inMxP6sc-ZEuYppeSJZ5R8DnbU8nKkZGc0n25JmCuXMHZbE2RSp3CyB4Gt7dXkHzhhuueRmFtTxRZdltERuulgiVXikNaOUoyQQpcP_Gf78YrMbIsXY8IknYSaYEYHo_cyF4XC52uFrb0IpzatB1Panfmq4rQpxQEwczpAQ_PbcV0l4DIiXMbJxZsqzvDeO01sEu_aN3m073pcrmRrLBUBw-M7tHgp_BceFp_H7DQKHqy9frJTF6ITCAorOoO0-9SUIMRzEWoWxI-0iLtFp388p0w7lUIkImkHzX8bdjNJciUcztjtPud6YU9fnOCktwLTd-J_KYk3aGxbX9gC4QopJHkATTY4wcy-RzNa5ea73ILvN8OCQ",
+          "ATKogpf9vPn3zY0nhXgtAh4K8D6j5hMHFbq7DH7OjX3Dp7BIYnfHJp5cLby5jMOE0NCdp8qs2Y6yDzBz2zYz9ZT0u72tUoUxrwXiE6uxaa3r19CCK1ToVtdniNpBXzGWFLkoCFGZm0F2xza8dyXHSL_VEiEWE-HiEVd08_Ex0YaK19XtXyzoLnmlAnIbstL0qh8-cwYTNqQ3y2KtRdtr3a1lEvBpFXBGznq9aAq0ArsH-gcFCzQghtrtGk0QhCrAVIUXtkwVC1Y1eu24VBidSVHiR28OlAQ4c79FzkwyrQJBUx1T1JKIZaOYIDrAU5cNOwveKZesric7NzZbdgXaIpS3DIUdF2FtZ3JyamOmIcoY56qp7Igzsa2PyuWmDoWgzDRh7PeEIKL053BXWYQ4dgmRFHWo_i9k1IyOeMjlNu1930Uzn3_aMCI_sUWPHH18RiCqWrYPuzlTE03u15TFdXyTZ_ISzjBcCtJMPvaQCDqhrJ_SUY6y9gpkrk3cN47xn9Sh77GkJLZ_6TEPYZ7ztfrVUsxderfPq6f9OAIZXlfR1Ss9d8MHKHDdslT9Y6dVnnDMu8VfjjN_6kb-ULRaeChxchW0sYPQ9dj2_S5fGjPS-HRCqTis3TVBMSmrFz9cgdAZza8k8VZY",
+          "ATKogpdLWLFoDir4dKTLXjaXjvM9mw_i1DYX5r9oWqvxuwUxfVR5ToSDxV23Aq9RX29trAVuDivIrCqebNGD6WgZddMP19b74TUA_W1hJ25n1YPct4ePv2Zm6ZpTO-QKEY07txoZmuXISRFmi8-eQ08LOjuoc8vlCPpjcqevodqc4QkGyP0_tKjXsDHOvJAvwZPSKpKI_K6ZD1vnCxYqbZgJydNy9oUBxzkyxOMh7lcAwrQs8dho1x38cWyn64lYm742_2omoDRawBALtfOf7N5rK_bRSzborXb8EpsVnIVriHl1L_CmBm8jYMtYuJv-ItKjAb4lOYp6k4WE3SPmXExsgBCiHmvfzujtboOP8QpoKWy8VDiPc5hzdTmMSptoH3F6Wi38ULbS8gxddkwT1-RcJ4dqcCZ6Va7eseVlyWtMucF6T14koAbyyWe2iDxD9aAAx8osemjjElyDaakJWub_fI4g2lETSw4V0RXaNjIsQtU0XwmB1DJfuZCNJoUE9qVIpx3L0L_FE3FikA5xtXjvk_gWTxM82ktYjn-RI175gxChs2MtmMFOV1RI8ypRo86_ZNPBZqc99E8UcuZZFvbu4ZLC7a9L1dVe9p-sf4_uhwYLFYE5RRFFLzgdSzD-ISj9_Nia65A-",
+          "ATKogpcxXCnXtPmzsQFn9HMC6HYh73ItF0gkvUgFo7sPBZSpRh366FPvi_SZlf0IIo3YzZ3HZGk8VeNJNBO77CS_oWxYqkPhUduUP_c04l8kTLpxFp58XX647jsYDCM8aXH8syN__nDc2MbZdQ68yGTVtJ1hiiIWiWnaeipiz3UfRZ3zdoMZ_ZvjCNFNWEbDFgcU8aneaf-KgsiO1XI6n2H9YlAP0pN4bAHcIif84cHCSQqjDOanzrUIm6896mL-jEqE8FcoIu-XzDCT0Dmf66T5KjExSKAWXUAg-gBiq45A6sGza3_LuCOfvvrbRmgsF9QoVqVp3bW0mmDULdLwQ_YRYxjWQzYRa6stF2jzWmmUxw7YAnbX3eRWAtgA99jPTM22ZoLJ4tprJRl3SGCqkYnfhpF_LMnra5Y_VAtiXQI7aQBp50paj197WI5XH0b5LCWtFdTiQU9w3kuvrB_ReNr3f0EFA_-bVAyOzmh-ahUIGzamz6PfY2YTo7ozqhMDGU4x-kEfPuzcy_xRpQiX7rKg3a0xMexvydW9ela3SlHu3FFJ4MXUccOBZRDkeBvzRJf0nhaFM0efjvMQfD2Dbe-C-vFGRWZTOB5YGzENlgenJSyg6BaHH9O8gmWF2mABRDdh"
+        ],
+        "ratingCount": 20,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 0
+            },
+            "open": {
+              "time": "0800",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "The commercial heart of Chinatown revolves around its markets and food shops. Noodle factories, pastry shops and produce stalls line the narrow sidewalks,…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_10.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_11.jpg"
+        ],
+        "placeId": "ChIJqSjXFx1vAHwRwxmP1vqKOVg",
+        "name": "Chinatown Markets",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJqSjXFx1vAHwRwxmP1vqKOVg_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "1098-1000 Kekaulike St, Honolulu, HI 96817, USA",
+        "latitude": 21.3132966,
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJrynB5fRtAHwReIhoKsXdM0Y",
+        "website": null,
+        "index": 2,
+        "utcOffset": -600,
+        "longitude": -157.829185,
+        "rating": null,
+        "detail_description": "Waikiki is a vibrant neighborhood in Honolulu, known for its popular surf beach and high-rise hotels along the shore. The area offers designer fashion stores, waterside cocktail bars, fine dining, and hula shows at Kuhio Beach. Visitors can also explore the Honolulu Zoo with its Komodo dragons and Waikiki Aquarium's reef exhibit. Oahu, where Waikiki is located, boasts volcanic craters along the coastline and magnificent beaches.",
+        "imageKeys": [
+          "hQtU45OcomcBDLQbjtXItVxE5fEhftQv",
+          "JJYK3JxcugQ9f1c1MkP8uBBoPTKcaF6R",
+          "lEWWheF7im5IOGzNFGnnCt66RfkIAZoD",
+          "sdqoeuaDJL6WmVcOcioWSigBQ3lCFAVa",
+          "X1zqjP9O3tGcrPtFCRGeuJlVIjoUyX5i"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": "High-rise hotels line the shore in Waikiki, a vibrant neighborhood known for its popular surf beach. Designer fashion stores line Kalakaua Avenue and nearby streets, and the area buzzes after dark with waterside cocktail bars, fine dining and Kuhio Beach hula shows. Honolulu Zoo is home to Komodo dragons and wandering peacocks, while parrotfish and urchins inhabit Waikiki Aquarium’s reef exhibit.",
+        "name": "Waikiki",
+        "placeId": "ChIJrynB5fRtAHwReIhoKsXdM0Y",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrynB5fRtAHwReIhoKsXdM0Y_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrynB5fRtAHwReIhoKsXdM0Y_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrynB5fRtAHwReIhoKsXdM0Y_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrynB5fRtAHwReIhoKsXdM0Y_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrynB5fRtAHwReIhoKsXdM0Y_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrynB5fRtAHwReIhoKsXdM0Y_1.jpg",
+        "address": "Honolulu, HI 96815, USA",
+        "latitude": 21.279346,
+        "types": [
+          "Outdoor Activities",
+          "Beaches"
+        ]
+      },
+      {
+        "_id": "ChIJv8OgpXMSAHwR-htdFp00cOI",
+        "website": null,
+        "index": 1,
+        "utcOffset": -600,
+        "longitude": -157.693792,
+        "rating": 4.4,
+        "detail_description": "Hanauma Bay is a popular nature preserve and marine life conservation district on Oahu. It offers a beautiful beach, opportunities to see green sea turtles and parrotfish, and excellent snorkeling. To avoid crowds and enjoy clear waters, consider arriving before 7am when entry may be free. The bay was previously harmed by human development but has been restored under new conservation procedures.",
+        "imageKeys": [
+          "mbs4u3Kkrli0C7S3bufuzXZ4NZH6x1Ov",
+          "0ae2X4QIzmstG391OODKgFBwuWTOlnBv",
+          "zNjqpDQClOl6EsLLWw3jTjQ4AvOvkRmp",
+          "OzVMeDYEEeDxpxv2ZxHu3v6cE5LXX6W9",
+          "YPujvCtQl4OM7Tn2NwzmqqOYMbH2M9I1"
+        ],
+        "ratingCount": 2418,
+        "openingPeriods": null,
+        "excerpt": "This popular nature preserve on a bay features a beach, green sea turtles, parrotfish & more.",
+        "name": "Hanauma Bay",
+        "placeId": "ChIJv8OgpXMSAHwR-htdFp00cOI",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv8OgpXMSAHwR-htdFp00cOI_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv8OgpXMSAHwR-htdFp00cOI_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv8OgpXMSAHwR-htdFp00cOI_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv8OgpXMSAHwR-htdFp00cOI_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv8OgpXMSAHwR-htdFp00cOI_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 370,
+            "3": 138,
+            "1": 153,
+            "5": 1689,
+            "2": 68
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv8OgpXMSAHwR-htdFp00cOI_1.jpg",
+        "address": "Honolulu, HI 96825, USA",
+        "latitude": 21.269036,
+        "types": [
+          "Bay",
+          "Nature & Parks",
+          "Nature & Wildlife Areas",
+          "Bodies of Water"
+        ]
+      },
+      {
+        "_id": "ChIJwTUlIqBvAHwRd5fDP3qEkqs",
+        "website": null,
+        "index": 16,
+        "utcOffset": -600,
+        "longitude": -157.936823,
+        "rating": null,
+        "detail_description": "Explore the Pearl Harbor National Memorial, a significant historic site that commemorates the events of the past. This National Historic Landmark offers free admission and serves as the starting point for visiting other attractions such as the Battleship Missouri Memorial, Pacific Fleet Submarine Museum, and Pearl Harbor Aviation Museum. While on Oahu, consider visiting North Shore for vacation rentals and discovering tips for exploring Pearl Harbor. Don't forget to indulge in delicious pineapple ice cream during your visit!",
+        "imageKeys": [
+          "JS96JoEMDUa0QWo7bEzaMnLNvb4BEzQz",
+          "B8pr0bh2lVSs6txxHF39PAZ9ACE9kFLu",
+          "xY9p4atRGdncUrWRlYXitof1hNxAzqEz",
+          "9rqpjGMTaiLZCoAwoviBiJj1933IS8O7",
+          "fuz0EvbopObgRTHptueCAwlNB9xr8jmd"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Pearl Harbor",
+        "placeId": "ChIJwTUlIqBvAHwRd5fDP3qEkqs",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwTUlIqBvAHwRd5fDP3qEkqs_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwTUlIqBvAHwRd5fDP3qEkqs_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwTUlIqBvAHwRd5fDP3qEkqs_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwTUlIqBvAHwRd5fDP3qEkqs_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwTUlIqBvAHwRd5fDP3qEkqs_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJwTUlIqBvAHwRd5fDP3qEkqs_1.jpg",
+        "address": "Hawaii 96701, USA",
+        "latitude": 21.366469,
+        "types": []
+      },
+      {
+        "_id": "ChIJx8WlnvBsAHwRa65fSL86AWo",
+        "website": "https://manoa.hawaii.edu/lyon",
+        "index": 7,
+        "utcOffset": -600,
+        "longitude": -157.801539,
+        "source_url": "https://www.lonelyplanet.com/usa/honolulu-and-waikiki/attractions/lyon-arboretum/a/poi-sig/376797/361979",
+        "rating": 4.7,
+        "detail_description": "Beautiful walking trails wind through this highly regarded 200-acre arboretum managed by the University of Hawaiʻi. It was originally founded in 1918 by a group of sugar planters growing native and exotic flora species to restore Honolulu’s watershed and test their economic benefit. This is not your typical overly manicured tropical flower garden, but a mature and largely wooded arboretum, where related species cluster in a seminatural state. For a guided tour, call at least 24 hours in advance.\nKey plants in the Hawaiian ethno-botanical garden are ʻulu (breadfruit), kalo (taro) and ko (sugarcane) brought by early Polynesian settlers; kukui (candlenut trees), once harvested to produce lantern oil; and ti, which was used for medicinal purposes during ancient times and for making moonshine after Westerners arrived. It’s a short walk to Inspiration Point, or keep walking uphill for about 1 mile along a jeep road, then a narrow, tree root–ridden path to visit seasonal ʻAihualama Falls, a lacy cliffside cascade.The office has a good selection of books for sale, as well as insect repellent. Parking is a major hassle; get there early to snare one of the scarce spaces. Otherwise, ride bus 5 to the end of the line and then make the 0.6-mile walk up to the arboretum.",
+        "imageKeys": [
+          "ATKogpfahkOJX-XDpf-m4UDjtQcchYWmaDXMuDrF-7Ljaj2M3ECuhW6hvUk7ivXmr6PDpeHK3Rh7F_oSG2ZqVvZXw0JgWGSwWXYjrPjQfU1JoMIzLSnSjCf5kdN3dBE1nVkJvQj1woMhfJ0lARxcBXFDsjXe2mXhDmCvJuu0ubTVRPWlhB19I6AK-DYzjI07Aa0PWF1A1eGtSN8RRvnlH8iSQmIlgslErQMLRTmUd4WyZwBvnNwmOYyLLmarT537_6xsU9L8r_wIk7j2by02hc-MPDoQpHGP-8IwBPUkFKy6U7yvs1WnUzN5qt5_jR8_wEwGus6i5PXrn0o",
+          "ATKogpe2mjsRr8ZH8gmpP9gibseKKNCSFZSm21TTBEL3gxIPuUDt_pUcu5huldKuEHVAH63TRPogMMFnI0UTHJvJ9I8Ymw0-M8GLdo7P1auMPNb_RZR0Oug0L7q9BHe31FI-5dFckGO0B1dKMQ_9MujUSpgEj7K3f2u4_qotDVocjE0_u9OioNR_xHt4-Giutmynv_sDMCGUuzMcPtXvTE3Jz5j7GiXqMP60ebz_4ZzWjuTwTGDuR8agPLZqyBbgz0fvOvVDJHKfYYDOpKL_OLG_DMxal9jhEsz4_RZgEKZljH6xGgjUQ_SnoTILu1GZy_1wjGCtotI_GlZhmYhcHTwGeDwWWU4T12AXvFEzKc98HcDgXZjvltex5126sQXkTYON3n__k_0EuH_jSQCdffd51X8ngY0XNV8f1Seaa_LitiPjsD8gHuRJq8hu-0EV5ebLl9-bg0wKsOnmLH2RPBIwYjYsBvrY14U2lXiGpwxKM7peKdUoPQwhxHIAK8IioMumz3jru3SQZKbA6akYYTFyDuFH3TojxCRkb75tLb7fzabH5cPUP5ZqJS7rDRmgENHxdRQdvPYUxOdd7yeo5xi0VFPC5Tl_9Qd-4A4nCpTN5pwlWwt4SFSGFjxfLN_BZ9kg4chVIB20",
+          "ATKogpc4xr6gvqeC5CbFXx9E8RVm2e4jIGGxyRA7K4rw2_8aX5WcOoBbA83MX6EJXZ04Ypqp-xrrAgrzwrBxeEb6laeLbVIUDDYdgLvOF6kRC8dbAhVBYyGmpJDL5KmjbUk-xTTPh9PW2BpZfEzJu73fbMqLDjHys9i2P3RP3ooICZjOBVBmaX-uU5KvAV922Dn5-xzEVgqdDbfvKPUYR_b4w86W5AJCEqLEu1PJAfwyoexiGYyUVmtYRvS8uo2S0MZ_nIO-yuLOHoaTYwlZcyjWibECdVgHscALObDuKqLDovxjXpgNs5Y3nBB5Hja17VF1YIn-VLAXYPm9tiElLTpL7NALH3IUVOtNVKsRDaQngNWPspOgkYme5exXo_hwdf-CsMHkfhPG6XPF367sfHN4KlgWl-Ca0_xEl2uT9Lgfr04mG_TVoCFeWSeU5lA2cPCAtU6kSDnfR-xeqQvsySzC9dGaxdq_-ks0yIdvK6hBroE7pRxh6vOZvZ1Yr09DUyaM7t6z7QpyCr5tbGIrQyp7dRCY0z6E3mKKgP5rsXwOJ8mtuW-ooPfL75BxLHeR8wgAvfuT6KeLZcM5EkYaFxHf9B4v03ymeMbZaH0Pv2eyKESIfIgor90m7iW-Tp0QOQNAHCtEOA",
+          "ATKogpeFNUTmXDzOv2iwkDKwwtTCh3EKBtO8PL8VjcVCVvhonMLEujO0A9fCxhEvJfmMpDsZRaqDgaX2rpQDRUMK5N2E9fE53x33C89vv9Wq2iry5G_XCuGtKJG43SGxwd3iMdF0mhsoEzFeG42KOzpNJ6FMYTPrL_P8CqgTVzctxpBkWct999pD13lwSHPPFkn-t9MT-kUBsOGJcWEpZ5mq0UK8Fr7LvF9Qtwgl1R5Q1DH4cybobbsawl0gWk_EgkYSlUl0WvoGDjJ-8IBZCdJyrpcPrvLRyIYXg1oAzvGUkF4kL4oiH9V1psKixpBoPAXHyEfCQaUZnFOdvaeG5LRalZ7kJOicGw73ZTi1ZNNh10W52KRKQFHg7JXd2yEvnbo6z02AigE5A8wqDuTthSWZSpiWPGGgQ9TyJS2iG3-E5minXqQgpF6brdv1SWZRD6vyPXyEFyhvHgpwqUrRGdG6Ea3FQSko-N7041cIMpb-aNoraP0RRo2BNya717nceqYdgW9_FfptfyIioGNZC4Tox6ulUiUXE_iMd2FeEcLICxxnPDqEfn4n7uj_JBucOO6r33c1HlFAv1uxFHw4NE5fxE6HdWPYvakqf26NwY4SgwJynXWPjc0WKHaN3Nt4lsUq-2pYhK28",
+          "ATKogpdPudRwBHvPn49k6vQdgm-0ZKQR7lZT7Meq3KXrm5SRyIbIbdwuDwJiJw6yWmMuDff_iyJKgiApz8hI6sG51kV1isLNtf0OTC1wwlOpCWMPU0-_6PmZLQZHyZmuHjHd5mwUfz45W0FU5bGv12oKdAWvvc2N5n4RkzyseBZdASxSLiN46I1Rtp4DOZajcg9o0ejWFIfw3WcHBakk-PbmAqd8OFrHk9e5ToKGdgtjGTPFiEt2vGqU77EQcusb7XNzCiM_MZv2JR7ws-xw-9o9nbOLHXe9F7i9DvUIUZa3LJOpy7Zy7I24GQ2tnu-L_VSeYZlbJmHNDkagV6zNPFqlzo2uo43w4b7rPfXZeO5zxGWZpQq8FA1C_bcEalhiEKIKXNgxoWnT9uDSKujWMhcXFFKd0OSTZxHVg7Bx6M6MMw-4FW_pZf251jokeHYXftCuT8qAHMB_Nqxd_g8sE9wLYas78ckfpR0FsnHK0eSoWHUQxoKo6sOGgw1xOf-zrkBATP3JctZVZiaGLlu9snIJ2VJvJ3Ni5KdF6Vm-JjTIhsM-NEb7PmHf6jCLR0ddBY4kBGabEqolCN7zSxAW3yWSfTsBoVUI7QVs4P7nAqzT1n3-6LiCfrljG8u-1KauZOgx_t6ILA",
+          "ATKogpf1My7Fp2xlkps15zjLSJDl13djG-LbTnTQ3Skt_BtwyPEAVnCK1fihCe0yNYZZnmciZH4W2WzPjqC3wIZ7Cj__KJrob5h8NlawBpO6HhGDn0zvJLYIAQEix_eB62dXlRHFOAqYB6rVjuwK9jJkXSVD8Sovv35bpYPPnIsnZir-LmMUPcbmp-SIKEKXW-p-PStLWpTD5PdmE-VGlfKERU_oCzjVDOzDo7OGgxFwVjwxr-KmcxIQhNKfCZNnqTskjq9ABSe31NYiieBv8EGOiTPFnNgG7Zst_gavW07Anz89cY8dmHyr1ivoD4Ysq066a29xId0Ea7HlLbHC5jjn30M8s0_KrwPwny005nPFEoOZRcehP7pAbfd1neGz2SSQcn1uMbvZswexgemAVv_2ra1Xj3IvpS_gBL_UQH4Ywyngy3QC9Q97UmtOyjknotT0aXCiOXXpucRj91LDUx8ZDsGN02waLqvQx_P-UPVWW7Oy12cDhbc94wndFwxv8R2uqQw1pDcFGxZ06nkRecglx-nNOAhA_vFFwAKIeRKhA_Q8vDOesJzg9R7ywMqYRT3QV0vPNk5v8ywRIU9XVSJrNKF1Qd8HevUAqT2xjStroANnsgW4JhcyppkfNN22zvheN5Ix-wm3",
+          "ATKogpeSfKRA6INW3vgxi8bestkga-RKzW2FN41yEJc-1MDcZzXOjC-93X44gKyRjWnU9l8CL9CGb6wqkFc-yyaWZMJcJ2tuh3GJFxdZ_zn1zuXR9J3ScrYbCuWhDe0ovWECchXCFO_7st3F-glhtLOwBTd-AK7-Na45HlThwnB996qYwbXRgqQaa3a6gN_K_yUONMSs09HwDS0eNjBd20soGRsjO61Q40zKE3Tj7TUEh_sp2Ie_JUY5LX7F0jQHwwrYComSUFrIOKSuMrad4qAuPbL5uD74bju6gNVFEAqUR0nfpy9Y4EHXjawa8OvU4zI40KmBj37H12g2Y6ioGXvGqtFQooC0SwsXWACaOzYy8X_ey2_Zatkzo0U27EsYoEVCGhh_ejKNuKH0gDaO71CHBShPCJ8rSBHRKio3eK6oSKuvY144Ow5Uh8E06XMncbQRK0eBrbNF4qkRT27gKTnB3NqKArKu29TvngOlBDG_X8JWanqikLsB9kUa2tro2Pe1HGUDtpdv_sLwdpamGXwa2_1Rsu_SbqCrcxawN6UoE2QCCMFQUDXIiO0kZjCnI87IVUCbdDwsF_zOPRT6vttSIjJ4_zlxMlYoFlfgwmzewqZlzzb8aogGqXjRqGhBgnKWj8GJBA",
+          "ATKogpcjvS9pnkIxK8GTFyydo3_mv11NamgE0yfMjMClPoaq6t_WPHozE9Yz0HH0F7_tQCAK6JwRJfglqn4-T1ljSj-YmgFg5HAaQSDcl--1sxYDRgaWhR4etHyCufFLTWvTTsbiQQahXhORxfiiQHpjBb_NI79AqkMIkITpF2nSYbYYFW2Uh4O3x8KwneXQhxxN-RW5V2WvDeJx9-ZhBYSVU3JFh9iI83w4p8MiSRJgCQ5Zd9AFs0MH0ffJwMuqBXjZcoGk4td0aF-lkolL9k81NiWkSyO2nMCqloNAR9N_83-QtVngB4hS5y5-F0i_sItgCfhDyCuVVKJzW0IZXejABgBfzCWxdakzrIq6JI0wyCGFE-hWA-Lez5gKEq5k0qILD6cMj6_5ZMHBshuAVNuqNVZzshNWg4Gn6AaVMAGiTNAS9JuX7TY-4VSC6zapNh7eItOibHndx4Hh8udL1QMvR4RhROCi49LM7am98WU_jrLsGz2koKykdNp872EMASK6rVwkqoEm8YGtP7yf-m2yBvnLR_ujzmUosuWHbwm9KEEJBsa0j3aGh3HJxi3kZczcrxalFaw4UWBCrQHK2Ahq6O4hLP4K0vIAgSSu69WZ0rLN26UxR4J_LwnbIpe2t0vJ1DfYdA",
+          "ATKogpdTLW6_wjACKG-KART9upnjP6p_su2Yv9NlO5oK3yNVtQE0NWhLQ3loly0Hdy_RbfBgVLLnrOxRybfpJc1jDYJMYcFrn-yZWcHMTP-nj3TV1L9BCn8RGIB0-jfc8TNdTSAgcKuyKaY2Xg7UvaBKhe466wnGtkZ4RG72plzehbC65vBNKtYjJlfex9kfCMGn3ygHyyum5Soupic_MZvWCUNs2RWSctM8PrUB4RIVI0Zz3-D33iItLcdf-ErfDBNvPzRQFRzz5xI7-xZTNVgc-d8Sk1cPZnD7NIRueEfPTt5i1dMVHxSLwX4MSO2EnW-dM7g7qgb4UKFyXN2O1H8zOJNwF68UVAInZCSMc7_MqbG4g-UQWpLljAWyYZx26y8uLhoZF2gUyJsXZPZaHraap5sqsmaOD9a1WOCqgI1hVdeg8sMtqR84GoqQLVcxcDcwy336B8xkrJ798Cu8bnBVuob-DD6oiViRZpFnkzV-6Xy6-MR1-jQAN6YPfiO_FBzQQGgJR_vR-uLy9Hifs98nECFJKh-ywndufGTmEzP9X5oA-POivPiDjase8A2zd0P1QmRsOElCI479E7gRa9fNiG7Jmb4UxklLrXItTwPLWxWNn2CzHdnwFonGXBcHQIvM",
+          "ATKogpcA5v18V1f0hkDJqXO7NqP5ZEFT96xVipXgV-dyvIKIsv1UJ1UBNcuW4wtspz1uD-BAu6gEnNyNu4X4siPVdaRZaZnQy68nbt3VRwvjh6netEuFq0mENtdqXHUhnMaoy-kZweQ8mLB9vzeoS7q73ojpDxrEBAbb0pm6xJ22N7mEFZMiBos0QeNppxM3cxWPR_8VYdPkPmaaAR2bmQBRE1Qq_ZPpNCAUW1sR5p96AG4QrgfOO_OzNAXcXN-r8UqTQtAjhJN3LIuHE0V25Rssn-R7LAyngesnq-aAXW4thhy_Tq9tdj_iS2PQazE-QawHun5tPG4wl5p_ctVykDQAALoUqnhoCZJMljP8bcYMQ6po_HsZq6drT_jYgS_zg8WELnOxtYdnDfpgC8VLrW4noLTkkLsZEkKXF1rzytLPEeW7wvNHSayMd-xRluepAKgJVZ7vLhUyEylw02xHjFJ7LBXIRhqrhzqp65Y4tYIkZhY557KrzboAyU7W8oAChHKI1FXHZxeU7OkpoK8C81jLsJhZFXMDC1hzXRUcO0BXDxfQelRnFHFKNwiAhMRNt1JZctIT7I7k8Hr8gUn_4LhuusKCX13TZ1w4rAwsxmJvZ4J4Yo1cdD3p_JkVkzcaZpCTEwWivA"
+        ],
+        "ratingCount": 799,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1500",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1500",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          }
+        ],
+        "excerpt": "Beautiful walking trails wind through this highly regarded 200-acre arboretum managed by the University of Hawaiʻi. It was originally founded in 1918 by a…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_10.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_11.jpg"
+        ],
+        "placeId": "ChIJx8WlnvBsAHwRa65fSL86AWo",
+        "name": "Lyon Arboretum",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+1 808-988-0456",
+        "g_description": "194-acre tropical rainforest features 5,000 exotic plants, singing birds & a self-guided hike.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx8WlnvBsAHwRa65fSL86AWo_1.jpg",
+        "country": "honolulu-and-waikiki",
+        "address": "3860 Manoa Rd, Honolulu, HI 96822, USA",
+        "latitude": 21.332971,
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "Spring in Honolulu brings warmer temperatures and less rainfall, making it an ideal time for outdoor activities. The annual Honolulu Festival, celebrating Hawaiian culture, takes place in March, featuring parades, performances, and cultural exhibits. This season is also great for hiking, with trails like Manoa Falls and Koko Head offering breathtaking views.",
+          "June to August": "Summer is peak tourist season in Honolulu, characterized by warm weather and vibrant beach life. Visitors flock to Waikiki Beach for sunbathing, swimming, and surfing. The city hosts various events, including the annual Duke's OceanFest, celebrating water sports and Hawaiian culture. It's advisable to book accommodations in advance during this busy period.",
+          "Travel Tip": "To make the most of your visit to Honolulu, consider renting a car to explore the island at your own pace. Be sure to try local dishes such as poke, loco moco, and shave ice. Additionally, pack sunscreen and stay hydrated, as the sun can be intense, even during cooler months.",
+          "Overview": "Honolulu, the capital of Hawaii, is a vibrant city known for its stunning beaches, rich history, and diverse culture. It serves as a gateway to the Hawaiian Islands, offering a unique blend of urban and natural attractions. Visitors can explore iconic landmarks such as Diamond Head, Pearl Harbor, and Waikiki Beach, while also enjoying local cuisine and cultural experiences.",
+          "December to February": "During the winter months, Honolulu experiences mild temperatures and occasional rain. This is a popular time for tourists, especially around the holidays. Visitors can enjoy festive events, such as the Honolulu City Lights, and take advantage of the excellent surfing conditions on the North Shore. Whale watching tours are also a highlight during this season.",
+          "Regional Highlights": "Honolulu is home to several must-see attractions, including the historic Pearl Harbor, where visitors can learn about the events of World War II. The Bishop Museum offers insights into Hawaiian history and culture, while the Honolulu Zoo and Waikiki Aquarium provide family-friendly experiences. Don't miss the chance to hike up Diamond Head for panoramic views of the city and coastline.",
+          "September to November": "Fall in Honolulu sees a decrease in tourist crowds, making it a more relaxed time to visit. The weather remains warm, and visitors can enjoy activities like snorkeling at Hanauma Bay and exploring the lush landscapes of the island. The Aloha Festivals in September showcase Hawaiian music, dance, and traditions, providing an authentic cultural experience."
+        },
+        "monthlyRatings": {
+          "Apr": 5,
+          "Jun": 4,
+          "Jul": 4,
+          "Dec": 4,
+          "Mar": 5,
+          "Feb": 4,
+          "Aug": 4,
+          "Jan": 4,
+          "May": 5,
+          "Nov": 4,
+          "Oct": 4,
+          "Sep": 3
+        }
+      },
+      {
+        "_id": "things_to_know",
+        "🎉 Cultural Respect": "Hawaii has a rich cultural heritage, so it's important to be respectful of local traditions and practices. Take the time to learn about the customs and history of the islands.",
+        "Conclusion": "With its breathtaking scenery and rich culture, Honolulu is sure to leave a lasting impression. Embrace the spirit of Aloha and enjoy every moment of your visit!",
+        "🛍️ Shopping Insights": "When shopping for souvenirs, consider supporting local artisans and businesses. This not only helps the local economy but also ensures you take home unique, authentic items.",
+        "Introduction": "Honolulu, the vibrant capital of Hawaii, offers a unique blend of rich culture, stunning landscapes, and warm hospitality. Before you embark on your adventure, here are some essential tips to enhance your experience in this tropical paradise.",
+        "🌞 Weather Awareness": "Honolulu enjoys a tropical climate, so be prepared for warm temperatures and occasional rain. It's wise to check the weather forecast before your visit and pack accordingly.",
+        "🍽️ Local Cuisine": "Don't miss out on trying traditional Hawaiian dishes like poke and loco moco. Many local eateries offer fresh, delicious meals that reflect the island's diverse culinary heritage.",
+        "🏖️ Beach Etiquette": "When visiting the beaches, remember to respect local customs and the environment. Always clean up after yourself and be mindful of the ocean's currents and tides.",
+        "🏄‍♂️ Water Safety": "If you plan to engage in water activities, always prioritize safety. Pay attention to lifeguard warnings and never swim alone, especially in unfamiliar waters.",
+        "🌺 Nature Preservation": "Hawaii's natural beauty is unparalleled, so be sure to practice responsible tourism. Stay on marked trails and avoid disturbing wildlife to help preserve the islands for future generations.",
+        "🚕 Transportation Tips": "Public transportation is available, but renting a car can provide more flexibility to explore the island. Be aware of parking regulations and consider using rideshare services for convenience."
+      },
+      {
+        "_id": "ways_to_get_around",
+        "🚕 Taxis & Rideshares": "Taxis and rideshare services like Uber and Lyft are readily available in Honolulu. They provide a convenient option for those who prefer door-to-door service, especially during late hours or when traveling with luggage.",
+        "🚌 Shuttle Services": "Various shuttle services operate between the airport and popular hotels, as well as between major attractions. These shuttles can be a cost-effective way to travel without the hassle of driving.",
+        "🚊 Light Rail (Future Plans)": "Honolulu is in the process of developing a light rail system that will eventually connect various parts of the island. This project aims to reduce traffic congestion and provide a reliable public transport option.",
+        "Conclusion": "With a variety of transportation options available, getting around Honolulu can be both easy and enjoyable. Whether you choose public transit, biking, or renting a car, you'll find a way to explore the beauty of the island.",
+        "🚍 TheBus": "Honolulu's public bus system, known as TheBus, offers an extensive network that covers most areas of the island. It is an affordable and efficient way to explore the city, with routes that connect major attractions, shopping centers, and beaches.",
+        "🚴‍♂️ Biking": "Biking is a popular way to explore Honolulu, with many bike rental shops and dedicated bike lanes. The scenic routes along the coastline and through parks make it a fun and healthy option for getting around.",
+        "Introduction": "Getting around in Honolulu can be an enjoyable experience with various transportation options available. From public transit to rental services, navigating the island is convenient and accessible for both tourists and locals alike.",
+        "🚶‍♀️ Walking": "Many areas in Honolulu are pedestrian-friendly, especially in neighborhoods like Waikiki. Walking allows you to soak in the local culture, discover hidden gems, and enjoy the beautiful scenery at your own pace.",
+        "🛵 Mopeds & Scooters": "Renting a moped or scooter is a fun and flexible way to navigate Honolulu. It allows for easy parking and the ability to explore at your own pace, especially in areas with heavy traffic.",
+        "🛳️ Ferries": "For those interested in visiting nearby islands, ferry services are available from Honolulu to places like Maui and Lanai. This can be a scenic and enjoyable way to experience the beauty of Hawaii's waters.",
+        "🚗 Car Rentals": "Renting a car can be a great option for those looking to explore the more remote areas of Oahu. With several rental agencies available, you can easily find a vehicle that suits your needs for a day trip or longer."
+      }
+    ]
+  }
+}

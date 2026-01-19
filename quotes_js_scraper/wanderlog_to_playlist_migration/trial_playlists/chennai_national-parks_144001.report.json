@@ -1,0 +1,324 @@
+{
+  "job_index": 0,
+  "city": "Chennai",
+  "category_used": "national parks",
+  "url": "https://wanderlog.com/list/geoCategory/144001",
+  "title": "The 25 best national parks around Chennai (Madras)",
+  "final_title": "Wild Wonders of Chennai",
+  "from_cache": false,
+  "counts": {
+    "meta": 25,
+    "blocks": 25,
+    "merged": 25,
+    "accepted_before_trim": 6,
+    "rejected": 19,
+    "accepted_final": 5
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 14,
+    "title_calls": 1
+  },
+  "decisions": [
+    {
+      "placeId": "ChIJvyeEfndnUjoR5HX-frVJHsY",
+      "name": "Guindy National Park",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "national park"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks General: Guindy National Park, situated in the heart of Chennai, is a unique urban oasis and the country's smallest national park. It is home to over 130 bird species, 14 mammal species, a"
+    },
+    {
+      "placeId": "ChIJ3aAOr6NRUjoRy5ybqxPMAhE",
+      "name": "The Madras Crocodile Bank Trust and Centre for Herpetology",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "safari"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks General: The Madras Crocodile Bank Trust and Centre for Herpetology is a remarkable destination in Chennai that combines wildlife conservation with education. Established in 1976 by the de"
+    },
+    {
+      "placeId": "ChIJYTN9T-plUjoRM9RjaAunYW4",
+      "name": "Chennai",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "church",
+        "fort",
+        "museum",
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: national parks General: Chennai, the vibrant capital of Tamil Nadu, is a city steeped in history and culture along the picturesque Bay of Bengal. Once known as Madras, it boasts significant landmarks lik"
+    },
+    {
+      "placeId": "ChIJU3TYU3FnUjoRB-aq_tlGV7Q",
+      "name": "Chennai Snake Park",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "national park"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks General: Chennai Snake Park is a family-friendly destination that houses a diverse collection of snakes in cages and crocodiles in open-air enclosures. Situated adjacent to the expansive G"
+    },
+    {
+      "placeId": "ChIJl2OoXR9eUjoRR27ibiEvCSE",
+      "name": "Chennai International Airport",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks General: Chennai International Airport, located just 7 km from the city center, serves as a major transportation hub with domestic and international flights. It is well-connected to variou"
+    },
+    {
+      "placeId": "ChIJ82Efv3lnUjoRjSaF7VXwq-o",
+      "name": "Guindy National Park",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "national park"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks General: Nestled in the bustling heart of Chennai, Guindy National Park stands as a serene oasis amidst urban life. This lush green space, rich in history and biodiversity, was once part o"
+    },
+    {
+      "placeId": "ChIJZWIhof9lUjoRFgkVYkVw7kc",
+      "name": "Puratchi Thalaivar Dr. M.G. Ramachandran Central Railway Station (Chennai)",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks General: Puratchi Thalaivar Dr. M.G. Ramachandran Central Railway Station, also known as Chennai Central, is an iconic Gothic Revival railway station with 17 platforms and 30 tracks. Origi"
+    },
+    {
+      "placeId": "ChIJNQgEHBBnUjoRtLJYvXmGSpU",
+      "name": "IIT Madras Campus",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "college",
+        "school"
+      ],
+      "context_used_excerpt": "Target category: national parks General: IIT Madras Campus is a sprawling campus with over 300 species of trees and plants, as well as native wild species like the elegant Blackbuck antelopes. It's conveniently located, "
+    },
+    {
+      "placeId": "ChIJjdB5FAlmUjoRoDJ1gY9F3gk",
+      "name": "Chennai Egmore railway station",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks Tags: Transport hub Review: Chennai Egmore is one of the Oldest Railway  Stations of India. It was opened in the year 1905. It is the Second major Railway Station of Tamilnadu, next only t"
+    },
+    {
+      "placeId": "ChIJawzO84FnUjoRULNtTPiNNkE",
+      "name": "Indian Institute Of Technology",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "national park"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks General: Nestled in the vibrant city of Chennai, the Indian Institute of Technology (IIT Madras) stands as a beacon of engineering and research excellence. Established in the 1950s, this p"
+    },
+    {
+      "placeId": "ChIJ0Q0Qq05nUjoRN8AwhsmKNTk",
+      "name": "St. Thomas Mount",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "beach",
+        "church"
+      ],
+      "context_used_excerpt": "Target category: national parks General: St. Thomas Mount is a hill in Chennai with stunning views and a 1523 shrine marking the spot where St. Thomas was believed to have been martyred. It's a popular attraction in the "
+    },
+    {
+      "placeId": "ChIJFzzjU2pnUjoRKVlZCigCfbo",
+      "name": "Guindy",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "beach"
+      ],
+      "context_used_excerpt": "Target category: national parks General: Guindy Railway Station is a bustling transportation hub in Chennai, located about 1 km from the Suburban Track. It's a convenient spot for travelers with its proximity to the Chen"
+    },
+    {
+      "placeId": "ChIJd36FLyhnUjoRywQIYJEidFo",
+      "name": "MGM Cancer Institute",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks Tags: Cancer treatment center, Oncologist, Pediatric oncologist, Radiologist, Surgical oncologist Review: Doctors are excellent\nThe place works very well.\nF&B is great, they have good vari"
+    },
+    {
+      "placeId": "ChIJAeosQpFnUjoRlY9tB812yTI",
+      "name": "KasturbaNagar MRTS Station",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "beach",
+        "office"
+      ],
+      "context_used_excerpt": "Target category: national parks Tags: Train ticket office Review: Kasturba Nagar MRTS Station is an elevated, functional transit hub opened in 2004 that connects Chennai Beach and Velachery over the Buckingham Canal . Th"
+    },
+    {
+      "placeId": "ChIJq3sqnZ5nUjoRoxGOyTmAwQQ",
+      "name": "Perunthalaivar K.Kamaraj Memorial - Chennai, Tamilnadu",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks Tags: Memorial park Review: Very Nice Beautiful Please Review: Memorable  park in the name of Great person. Nice place to visit..\n\nPerunthalaivar Kamaraj K\nKumaraswami Kamaraj, better know"
+    },
+    {
+      "placeId": "ChIJn72LpJ5nUjoRfZ_OZTb4_Rc",
+      "name": "Gandhi Mandapam",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [
+        "national park"
+      ],
+      "neg_hits": [
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: national parks General: Gandhi Mandapam, located near Guindy National Park and IIT Madras campus, is a cultural venue with five impressive memorials dedicated to eminent Indian personalities including Ma"
+    },
+    {
+      "placeId": "ChIJIxE3ahtlUjoREbov4O0NBaI",
+      "name": "GNP AMBULANCE SERVICE",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks Tags: Ambulance service Review: Excellent service by GNP ambulance and I got service as soon as I made a call. Their way of taking care of patients are quite wonderful and easily approacha"
+    },
+    {
+      "placeId": "ChIJZXxSj_tmUjoRy9wAYksj8bM",
+      "name": "Wildlife photography tours -Naturographers",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [
+        "biosphere reserve",
+        "national park",
+        "safari",
+        "tiger reserve"
+      ],
+      "neg_hits": [
+        "school"
+      ],
+      "context_used_excerpt": "Target category: national parks Tags: Wildlife and safari park, Adventure sports center, Photography class, Photography school, Tour agency, Tour operator Review: Very Good Experience. Part of pench trip(16th June, 2023)"
+    },
+    {
+      "placeId": "ChIJo8dloTlnUjoReNIwnQhfTlw",
+      "name": "Police Children's Park",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks Tags: Park Review: (Translated by Google) New Children's Park, Open Air Gym, Children's Park with 8-shaped walking track for children and families was inaugurated by Commissioner of Police"
+    },
+    {
+      "placeId": "ChIJoewdsk9vUjoR0U1CpEVQ9Q0",
+      "name": "Western Agencies",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks Tags: Freight forwarding service"
+    },
+    {
+      "placeId": "ChIJDfRpvtBnUjoRHTpT5_vN-jc",
+      "name": "RRB channai",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [
+        "biosphere reserve",
+        "national park"
+      ],
+      "neg_hits": [
+        "office"
+      ],
+      "context_used_excerpt": "Target category: national parks General: In Rajaji National Park, Jai Dhar Gupta and Vijay Dhasmana have established the first biosphere reserve in India, known as Rajaji Raghati Biosphere (RRB). Tags: Government office"
+    },
+    {
+      "placeId": "ChIJy7t0xgn2UjoRM_bhnwg2rB8",
+      "name": "Vandalur",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "safari"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks General: Vandalur, located in the Chengalpattu district south of Chennai, India, is known for being the southern gateway to the city. The town is home to the Arignar Anna Zoological Park, "
+    },
+    {
+      "placeId": "ChIJ__wUlwxmUjoRZ4clBO2ih1A",
+      "name": "HMI JEWELLERS WORKS",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks Tags: Jewelry store"
+    },
+    {
+      "placeId": "ChIJmXs0tApmUjoRtDyDsRpAlpA",
+      "name": "Raja Annamalai Rd",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks"
+    },
+    {
+      "placeId": "ChIJR3aCu6toUjoRLNZIdgKLVAo",
+      "name": "Indira Gandhi Nagar",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: national parks"
+    }
+  ],
+  "out_files": {
+    "playlist_json": "trial_playlists\\chennai_national-parks_144001.json",
+    "report_json": "trial_playlists\\chennai_national-parks_144001.report.json"
+  },
+  "created_ts": 1758856287
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 12,
+  "city": "Melaka",
+  "category_used": "malls",
+  "url": "https://wanderlog.com/list/geoCategory/140500",
+  "title": "The 28 best malls in Melaka",
+  "final_title": "Melaka Mall Magic: A Shopper's Paradise",
+  "from_cache": false,
+  "counts": {
+    "meta": 28,
+    "blocks": 28,
+    "merged": 28,
+    "accepted_before_trim": 19,
+    "rejected": 9,
+    "accepted_final": 12
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 7,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "752",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\malaysia_20251001_1003\\melaka_malls_140500.json",
+    "report_json": "publish_playlist\\malaysia_20251001_1003\\melaka_malls_140500.report.json"
+  },
+  "created_ts": 1759294725
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Dubai",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/111328",
+  "title": "The 49 best beaches in and around Dubai",
+  "final_title": "Sun-Kissed Shores of Dubai",
+  "from_cache": false,
+  "counts": {
+    "meta": 49,
+    "blocks": 49,
+    "merged": 49,
+    "accepted_before_trim": 41,
+    "rejected": 8,
+    "accepted_final": 29
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 17,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "646",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\uae_20250930_0015\\dubai_beaches_111328.json",
+    "report_json": "publish_playlist\\uae_20250930_0015\\dubai_beaches_111328.report.json"
+  },
+  "created_ts": 1759171879
+}

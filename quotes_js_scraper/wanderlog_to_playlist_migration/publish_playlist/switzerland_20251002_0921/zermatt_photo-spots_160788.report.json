@@ -1,0 +1,35 @@
+{
+  "job_index": 15,
+  "city": "Zermatt",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160788",
+  "title": "The 39 best photo spots in Zermatt",
+  "final_title": "Picture-Perfect Moments in Zermatt",
+  "from_cache": false,
+  "counts": {
+    "meta": 39,
+    "blocks": 39,
+    "merged": 39,
+    "accepted_before_trim": 38,
+    "rejected": 1,
+    "accepted_final": 23
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 29,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "970",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\switzerland_20251002_0921\\zermatt_photo-spots_160788.json",
+    "report_json": "publish_playlist\\switzerland_20251002_0921\\zermatt_photo-spots_160788.report.json"
+  },
+  "created_ts": 1759380983
+}

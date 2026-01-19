@@ -1,0 +1,629 @@
+{
+  "job_index": 0,
+  "city": "Mumbai",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163777",
+  "title": "The 50 most romantic places in Mumbai",
+  "counts": {
+    "meta": 50,
+    "blocks": 50,
+    "merged": 50,
+    "accepted_before_trim": 50,
+    "rejected": 0,
+    "accepted_final": 35
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-5-nano",
+    "calls": 0
+  },
+  "decisions": [
+    {
+      "placeId": "ChIJnUPoXuLR5zsRK60mJ0-SzVo",
+      "name": "Marine Dr",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Marine Drive is a 3.6-km long promenade that runs along the natural bay in Mumbai, adorned with art deco-style buildings and restaurants. It is known for its stunning collection "
+    },
+    {
+      "placeId": "ChIJn3Q-5QnO5zsRmouUzzMGp5Q",
+      "name": "Hanging Gardens",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: The Hanging Gardens of Mumbai, also known as the Pherozeshah Mehta Gardens, are a serene oasis perched atop Malabar Hill. This terraced garden is famous for its meticulously scul"
+    },
+    {
+      "placeId": "ChIJB7rUlb_J5zsRoc62Npx8BDU",
+      "name": "Juhu",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Juhu is a vibrant area in Mumbai known for its lively Juhu Chowpatty Beach, where beach vendors offer popular snacks like bhel puri and ice cream. The area also boasts chic bars "
+    },
+    {
+      "placeId": "ChIJnz0di8iw5zsRz-Ko2mndITY",
+      "name": "Sanjay Gandhi National Park",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Sanjay Gandhi National Park, formerly known as Borivali National Park, is a sprawling forested park located in Mumbai. It is one of the largest and most popular nature reserves i"
+    },
+    {
+      "placeId": "ChIJv2zjHpjO5zsRDf0aPt35_uw",
+      "name": "Worli Sea Face",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Worli Sea Face is a beloved spot for couples, offering a long promenade where they can enjoy romantic walks with the sea as their backdrop. The sound of waves crashing against th"
+    },
+    {
+      "placeId": "ChIJL-M37E_J5zsRvCVUI05gHL0",
+      "name": "Bandra Fort",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Bandra Fort, also known as Castella de Aguada, is a captivating piece of history nestled in the vibrant Bandra area of Mumbai. Built by the Portuguese in 1640, this fort served a"
+    },
+    {
+      "placeId": "ChIJ23V1SgDR5zsRqR-J92Edd1I",
+      "name": "Gateway Of India Mumbai",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "love",
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: The Gateway of India stands as a prominent monument in Mumbai, built to honor the visit of King George V and Queen Mary. This iconic structure symbolizes the British colonial era"
+    },
+    {
+      "placeId": "ChIJL2CjfTDF5zsRP_WuGhsYq_Q",
+      "name": "Elephanta Caves",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Elephanta Caves is a 7th-century cave temple located on an island near Mumbai. The city offers a plethora of tourist attractions, including Haji Ali Dargah, Girgaoum Chowpatty, a"
+    },
+    {
+      "placeId": "ChIJzYIs2mvJ5zsRRqJOwcevZLI",
+      "name": "Carter Rd",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Carter Road is a must-visit destination in Mumbai, India. This vibrant area offers a mix of attractions and activities for visitors to enjoy. From leisurely strolls along the pic"
+    },
+    {
+      "placeId": "ChIJyXmFIZTR5zsRYbXNGkFDrtk",
+      "name": "Colaba Causeway",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Colaba Causeway is a historic city causeway lined with grand buildings, boutiques, and cafés. It's also home to an Art Deco cinema. For a traditional Indian breakfast, visit the "
+    },
+    {
+      "placeId": "ChIJrQN2ktW15zsRY4gVmkR3Npo",
+      "name": "Beach House Madh Island, Mumbai, amã Stays & Trails",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Beach House Madh Island, Mumbai, amã Stays & Trails is a serene beach destination located in the western suburbs of Mumbai. Juhu Beach, known for its stunning sunset views and di"
+    },
+    {
+      "placeId": "ChIJ_5zuW-nR5zsRiEnty5VNfDQ",
+      "name": "Nariman Point",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Nariman Point, located in Mumbai, is a bustling business district known for its high-rise offices and luxury hotels. It's a popular spot for enjoying sunset drinks at bars with s"
+    },
+    {
+      "placeId": "ChIJsWNPGBG05zsRbvTUhyCi2sQ",
+      "name": "EsselWorld",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: EsselWorld is a beloved amusement park in Mumbai, offering an array of thrilling rides and roller coasters for adrenaline junkies, as well as kid-friendly attractions and play ar"
+    },
+    {
+      "placeId": "ChIJFQzEN8-15zsRXeJBEkLSHb0",
+      "name": "Madh Island",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Madh Island, located in Mumbai, is a serene escape from the bustling city life. It is home to charming fisher villages and lush green farms, offering a tranquil environment just "
+    },
+    {
+      "placeId": "ChIJI8GCCL235zsRgew-CnObt0s",
+      "name": "Chhota Kashmir Boat Club",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Chhota Kashmir Boat Club, also known as Little Kashmir, is a serene recreational area located in the heart of suburban Mumbai. It offers a tranquil lake where visitors can enjoy "
+    },
+    {
+      "placeId": "ChIJ6W28r5TJ5zsRd3GnoeRgZ9M",
+      "name": "Juhu Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "love",
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Juhu Beach is a renowned destination in Mumbai, attracting numerous visitors. It's an ideal spot to enjoy a leisurely walk along the shore, witness stunning sunsets, and savor de"
+    },
+    {
+      "placeId": "ChIJo49oV-rJ5zsRsvalI8ESNnw",
+      "name": "Prithvi Theatre",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Prithvi Theatre, established in 1975 as a tribute to the legendary Prithviraj Kapoor, is a revered cultural institution located in the vibrant neighborhood of Juhu. The permanent"
+    },
+    {
+      "placeId": "ChIJo6xQ__vH5zsRbDRmJ3PrN4Q",
+      "name": "Powai Lake",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Powai Lake, a 19th-century artificial lake in Mumbai, offers a serene escape with boating and fishing opportunities. Surrounded by lush greenery, the lake is home to migratory bi"
+    },
+    {
+      "placeId": "ChIJw3rpD-HN5zsRGYkrTonj-Rk",
+      "name": "Priyadarshini Park",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Nestled in the serene neighborhood of Malabar Hill in Mumbai, Priyadarshini Park offers a tranquil escape with stunning views of the Arabian Sea. This popular green space is perf"
+    },
+    {
+      "placeId": "ChIJVUOesI_O5zsR3dYGhd70xzc",
+      "name": "AER",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: AER is a luxurious open-air rooftop bar located at the Four Seasons hotel. It offers a glamorous setting with cocktails, champagne, and tapas, accompanied by DJ music. The bar is"
+    },
+    {
+      "placeId": "ChIJl3BaaS605zsR9-3YNIM8Ukg",
+      "name": "Aksa Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Aksa Beach, located in the western suburbs of Mumbai, is a popular destination for both locals and tourists. It offers a serene retreat from the bustling city life and boasts one"
+    },
+    {
+      "placeId": "ChIJjft6v-LJ5zsRj8jVeqWAl14",
+      "name": "Versova Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Versova Beach, located in the western suburbs of Mumbai, is a quieter alternative to the bustling Juhu Beach. It offers swimmable waters and breathtaking sunset views over the Ar"
+    },
+    {
+      "placeId": "ChIJ2ejgLw7O5zsRkvYF3A5M7tc",
+      "name": "The Royal Opera House, Mumbai",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: The Royal Opera House in Mumbai is an opulent British Colonial–style opera house built in 1911 and restored in 2008, winning the award for Cultural Heritage Conservation. It host"
+    },
+    {
+      "placeId": "ChIJSSdDCQW35zsR7WvCoZdrjWg",
+      "name": "Arey talav chota Kashmir",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Nestled in the heart of Aarey Milk Colony, Arey Talav, affectionately known as Chota Kashmir, is a hidden gem that offers a serene escape from the hustle and bustle of Mumbai. Th"
+    },
+    {
+      "placeId": "ChIJe482BETJ5zsR2wdZcUG3wMQ",
+      "name": "Bandstand Promenade",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Bandstand Promenade, also known as Bandra Bandstand, is a picturesque waterfront walkway that stretches 1.2 km along the coast of Bandra in Mumbai. This historic promenade featur"
+    },
+    {
+      "placeId": "ChIJz5GCDpjJ5zsRYwXMNEa0UGM",
+      "name": "ESTELLA",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: ESTELLA is a chic restaurant located on the beachfront, offering modern Australian cuisine in a stunning setting. The restaurant has a trendy atmosphere and provides breathtaking"
+    },
+    {
+      "placeId": "ChIJL57RTwS25zsRj6Hy2uno8pM",
+      "name": "Jamjar Diner Restaurant",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Jamjar Diner Restaurant is a popular dining spot located in Andheri West and Bandra, offering a diverse menu to tantalize taste buds. The restaurant's relaxed ambiance and captiv"
+    },
+    {
+      "placeId": "ChIJl9H2hwO25zsRE417ZMkkh7s",
+      "name": "Rock Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places Tags: Beach Review: Less crowded than Silver Beach Juhu, has stalls for bhutta/corn, water and chaat\nWalk north for better places to sit Review: Good location but was so dirty when I visi"
+    },
+    {
+      "placeId": "ChIJrd35qIfR5zsRp7llAZUQN5w",
+      "name": "NCPA Entry Gate, Nariman Point",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: The NCPA Entry Gate, located in Nariman Point, Mumbai, is a cultural gem that showcases a rich blend of artistry and architecture. The center's commitment to promoting various fo"
+    },
+    {
+      "placeId": "ChIJ-wbh5sGw5zsR4EQhmf7w8mg",
+      "name": "Maratha Mandir",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: On your third day in Mumbai, immerse yourself in the magic of Bollywood at Maratha Mandir, where you can catch a morning screening of the beloved classic \"Dilwale Dulhania Le Jay"
+    },
+    {
+      "placeId": "ChIJrVwNOsfR5zsRPHOcIKclCsc",
+      "name": "Gateway Of India Mumbai",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: The Gateway of India in Mumbai is a magnificent 26-meter-tall triumphal arch that stands proudly on the waterfront, showcasing its stunning Indo-Saracenic architecture. Construct"
+    },
+    {
+      "placeId": "ChIJaY-ifgDJ5zsRRba63MDrrIQ",
+      "name": "Bandra Worli Sea Link Bridge",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: If you're a fan of scenic drives, the Bandra-Worli Sea Link is a must-visit marvel of modern engineering in Mumbai. This steel bridge connects Bandra to Worli, cutting down trave"
+    },
+    {
+      "placeId": "ChIJ3zuquCfO5zsRG40hAwdLQyE",
+      "name": "Chhatrapati Shivaji Maharaj Terminus",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Chhatrapati Shivaji Maharaj Terminus, formerly known as Victoria Terminus Station, is a historic train station in Mumbai. It was built in 1887 to replace the former Bori Bunder s"
+    },
+    {
+      "placeId": "ChIJLf8zWebR5zsRkVxdjd6rbKI",
+      "name": "Pizza By The Bay",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Pizza By The Bay is a stylish and sophisticated restaurant with an art deco design and stunning views of the Arabian Sea. It has been a constant presence in Mumbai's ever-changin"
+    },
+    {
+      "placeId": "ChIJow6BN8HR5zsR4pHs8jdHOCE",
+      "name": "The Table",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: The Table is a renowned restaurant in Mumbai, offering a sophisticated dining experience with its elegant bi-level space and floor-to-ceiling windows. It has been recognized for "
+    },
+    {
+      "placeId": "ChIJvaysoFTP5zsRrfA8pHD55vo",
+      "name": "Kamala Nehru Park",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Kamala Nehru Park, located within Mumbai's Hanging Gardens complex atop Malabar Hill, offers a delightful experience for families. The park features nursery rhyme-themed play are"
+    },
+    {
+      "placeId": "ChIJFec2rejJ5zsRML8hVU9Xfn0",
+      "name": "Silver Beach Cafe",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Silver Beach Cafe is a charming wood-lined restaurant that offers European-style dishes and specialty pizzas. The cafe's floor-to-ceiling windows provide a picturesque view of th"
+    },
+    {
+      "placeId": "ChIJbdtTUs_H5zsR3ZYkWOoPB08",
+      "name": "Rainforest Resto-bar",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Nestled in the heart of CBD Belapur, Navi Mumbai, *Rainforest Resto-bar* is a captivating dining experience that seamlessly blends a restaurant and bar atmosphere. This unique ve"
+    },
+    {
+      "placeId": "ChIJtxoFTWm35zsRPj7_1yxfRf4",
+      "name": "Chhota Kashmir Park.",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Chhota Kashmir Park is a charming, lesser-known oasis perfect for weekend escapades with your special someone. This picturesque park, once a backdrop for Bollywood songs, feature"
+    },
+    {
+      "placeId": "ChIJx6OZPDDF5zsRK04LBilMxpo",
+      "name": "Elephanta Island",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Elephanta Island, located in Mumbai Harbour, is a wooded island famous for its ancient caves dedicated to Shiva. The island is accessible by ferry from the Gateway of India and o"
+    },
+    {
+      "placeId": "ChIJqz10Mwu05zsRtlQGBA3qhM0",
+      "name": "Manori Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Manori Beach, situated near Marve Beach in Mumbai, is a pristine and serene getaway surrounded by cashew nut groves and charming Portuguese architecture. It's a popular spot for "
+    },
+    {
+      "placeId": "ChIJPVv0YQPP5zsRn7xH3lZ2oSM",
+      "name": "Theobroma",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places Tags: Bakery, Cafe, Patisserie Review: The place is full of tasty treats! Ranging from a variety of truffles to cupcakes and other baked items. Also has  a small seating area. The place i"
+    },
+    {
+      "placeId": "ChIJnykWlSLP5zsRKgOwDqfpZ2M",
+      "name": "Nehru Centre Auditorium",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places Tags: Auditorium Review: This was an amazing visit at Nehru centre auditorium. The first floor art exhibition, pandit Jawaharlal Nehruji's life journey through photos and india history mu"
+    },
+    {
+      "placeId": "ChIJVVWJPd215zsRX-VJopVywEw",
+      "name": "Saffronstays Birdsong",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places"
+    },
+    {
+      "placeId": "ChIJtaRNpsHD5zsRwwEW049qPKg",
+      "name": "Palm Beach Rd",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Palm Beach Rd, located in Navi Mumbai, is a prestigious area known for its upscale ambiance. This six-lane road spans 10 kilometers, connecting Vashi and Belapur. It's renowned f"
+    },
+    {
+      "placeId": "ChIJdZ1gmkDJ5zsR-ntV50Ucp9A",
+      "name": "Basilica of Our Lady of the Mount (St Mary Church)",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Basilica of Our Lady of the Mount, also known as Mount Mary Basilica, is a 16th-century Catholic church located in Mumbai. The church holds the annual feast of the Blessed Virgin"
+    },
+    {
+      "placeId": "ChIJJ7H46sPR5zsRU5I-VRAm50Q",
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Nestled in the heart of Mumbai, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS) is a grand museum that showcases the beauty of Indo-Saracenic architecture. Originally name"
+    },
+    {
+      "placeId": "ChIJSW6EGQ_O5zsRv8mYUqj-ntw",
+      "name": "Girgaon Chowpatty",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Girgaon Chowpatty is a no-frills beach in Mumbai where locals gather to immerse Lord Ganesh idols during the Ganesh Visarjan festival. It's renowned for its delectable street foo"
+    },
+    {
+      "placeId": "ChIJx2cgIlix5zsRupjgduNr6Ew",
+      "name": "Global Vipassana Pagoda",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: The Global Vipassana Pagoda, situated near Gorai in Mumbai, is a stunning golden pagoda with a massive stone dome that serves as a meditation hall. It can accommodate up to 8,000"
+    },
+    {
+      "placeId": "ChIJA2jKWL-z5zsRplEF3q4lpBg",
+      "name": "Gorai Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "romantic"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: romantic places General: Gorai Beach, nestled in the Gorai creek near Essel World, is a popular day-trip destination for locals. Known for its cleanliness and serenity, it offers a unique blend of calmne"
+    }
+  ],
+  "out_files": {
+    "playlist_json": "trial_playlists\\mumbai_romantic-places_163777.json",
+    "report_json": "trial_playlists\\mumbai_romantic-places_163777.report.json"
+  },
+  "created_ts": 1758825135
+}

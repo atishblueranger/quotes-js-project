@@ -1,0 +1,672 @@
+{
+    "86661": {
+        "country_info": {
+            "place_id": 86661,
+            "name": "India",
+            "latitude": 28.584963,
+            "longitude": 77.21989,
+            "country_name": null
+        },
+        "popular_states": [
+            {
+                "place_id": 86675,
+                "name": "Maharashtra",
+                "latitude": 19.66328,
+                "longitude": 76.241455,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86660,
+                "name": "National Capital Territory of Delhi",
+                "latitude": 28.6139,
+                "longitude": 77.21062,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86706,
+                "name": "Uttar Pradesh",
+                "latitude": 27.313213,
+                "longitude": 80.218506,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86933,
+                "name": "Andhra Pradesh",
+                "latitude": 16.425549,
+                "longitude": 79.27368,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86716,
+                "name": "West Bengal",
+                "latitude": 22.857195,
+                "longitude": 87.86499,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86714,
+                "name": "Kerala",
+                "latitude": 10.757763,
+                "longitude": 76.29822,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86781,
+                "name": "Gujarat",
+                "latitude": 22.400871,
+                "longitude": 71.44226,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86724,
+                "name": "Telangana",
+                "latitude": 17.422937,
+                "longitude": 78.57347,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86816,
+                "name": "Haryana",
+                "latitude": 29.094578,
+                "longitude": 76.34216,
+                "country_name": "India"
+            },
+            {
+                "place_id": 86920,
+                "name": "Madhya Pradesh",
+                "latitude": 22.93816,
+                "longitude": 78.57056,
+                "country_name": "India"
+            }
+        ],
+        "states_details": {
+            "86660": {
+                "state_info": {
+                    "place_id": 86660,
+                    "name": "National Capital Territory of Delhi",
+                    "latitude": 28.6139,
+                    "longitude": 77.21062,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 13,
+                        "name": "New Delhi",
+                        "latitude": 28.612072,
+                        "longitude": 77.22978,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86674": {
+                "state_info": {
+                    "place_id": 86674,
+                    "name": "Rajasthan",
+                    "latitude": 26.647459,
+                    "longitude": 74.46167,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "86675": {
+                "state_info": {
+                    "place_id": 86675,
+                    "name": "Maharashtra",
+                    "latitude": 19.66328,
+                    "longitude": 76.241455,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 25,
+                        "name": "Mumbai",
+                        "latitude": 18.936844,
+                        "longitude": 72.8291,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7865,
+                        "name": "Mumbai",
+                        "latitude": 19.17361,
+                        "longitude": 72.94379,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 472,
+                        "name": "Navi Mumbai",
+                        "latitude": 19.07185,
+                        "longitude": 73.01995,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 5460,
+                        "name": "Diveagar",
+                        "latitude": 18.18157,
+                        "longitude": 72.98765,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 3304,
+                        "name": "Igatpuri",
+                        "latitude": 19.69541,
+                        "longitude": 73.56009,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 6331,
+                        "name": "Sawantwadi",
+                        "latitude": 15.902346,
+                        "longitude": 73.82047,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 9303,
+                        "name": "Sherpe",
+                        "latitude": 16.534246,
+                        "longitude": 73.692184,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7868,
+                        "name": "Talyachi Wadi",
+                        "latitude": 20.017464,
+                        "longitude": 75.16412,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7700,
+                        "name": "Ghatkopar",
+                        "latitude": 19.079134,
+                        "longitude": 72.907936,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86686": {
+                "state_info": {
+                    "place_id": 86686,
+                    "name": "Karnataka",
+                    "latitude": 15.188784,
+                    "longitude": 75.78186,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 9403,
+                        "name": "Chikka Madhure",
+                        "latitude": 14.221504,
+                        "longitude": 76.58668,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7675,
+                        "name": "Hoovina Hadagalli Taluk",
+                        "latitude": 15.0205,
+                        "longitude": 75.93195,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 8942,
+                        "name": "Turuvekere",
+                        "latitude": 13.160782,
+                        "longitude": 76.66732,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7685,
+                        "name": "Bhairapur",
+                        "latitude": 15.765451,
+                        "longitude": 75.950096,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7619,
+                        "name": "Kodagurki",
+                        "latitude": 13.303017,
+                        "longitude": 77.69093,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 192192,
+                        "name": "Basrur",
+                        "latitude": 13.62723,
+                        "longitude": 74.7464,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86706": {
+                "state_info": {
+                    "place_id": 86706,
+                    "name": "Uttar Pradesh",
+                    "latitude": 27.313213,
+                    "longitude": 80.218506,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 1949,
+                        "name": "Greater Noida",
+                        "latitude": 28.469692,
+                        "longitude": 77.50707,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 2562,
+                        "name": "Jhansi",
+                        "latitude": 25.4486,
+                        "longitude": 78.56994,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 3831,
+                        "name": "Pilibhit",
+                        "latitude": 28.62648,
+                        "longitude": 79.80509,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 9527,
+                        "name": "Baghpat",
+                        "latitude": 28.94442,
+                        "longitude": 77.21878,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 9520,
+                        "name": "Deoria",
+                        "latitude": 26.498928,
+                        "longitude": 83.78294,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86714": {
+                "state_info": {
+                    "place_id": 86714,
+                    "name": "Kerala",
+                    "latitude": 10.757763,
+                    "longitude": 76.29822,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 6726,
+                        "name": "North Paravur",
+                        "latitude": 10.149921,
+                        "longitude": 76.229836,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7817,
+                        "name": "Manarcaud",
+                        "latitude": 9.596374,
+                        "longitude": 76.58655,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 8016,
+                        "name": "Athani",
+                        "latitude": 10.154211,
+                        "longitude": 76.35509,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 190142,
+                        "name": "Thykattussery",
+                        "latitude": 9.87754,
+                        "longitude": 76.30387,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86716": {
+                "state_info": {
+                    "place_id": 86716,
+                    "name": "West Bengal",
+                    "latitude": 22.857195,
+                    "longitude": 87.86499,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 3157,
+                        "name": "Cooch Behar",
+                        "latitude": 26.32173,
+                        "longitude": 89.45134,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 9406,
+                        "name": "Bhalki",
+                        "latitude": 23.456646,
+                        "longitude": 87.62617,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 9402,
+                        "name": "Chinsurah",
+                        "latitude": 22.891804,
+                        "longitude": 88.39662,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7490,
+                        "name": "Kolaghat",
+                        "latitude": 22.4302,
+                        "longitude": 87.85837,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86724": {
+                "state_info": {
+                    "place_id": 86724,
+                    "name": "Telangana",
+                    "latitude": 17.422937,
+                    "longitude": 78.57347,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 7331,
+                        "name": "Nagarjuna Sagar",
+                        "latitude": 16.58648,
+                        "longitude": 79.32329,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86781": {
+                "state_info": {
+                    "place_id": 86781,
+                    "name": "Gujarat",
+                    "latitude": 22.400871,
+                    "longitude": 71.44226,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 6736,
+                        "name": "Nalsarovar",
+                        "latitude": 22.821775,
+                        "longitude": 72.05652,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86805": {
+                "state_info": {
+                    "place_id": 86805,
+                    "name": "Uttarakhand",
+                    "latitude": 30.197584,
+                    "longitude": 78.1918,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 7197,
+                        "name": "Kumaon",
+                        "latitude": 29.54311,
+                        "longitude": 79.54859,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 8065,
+                        "name": "Airari",
+                        "latitude": 29.63903,
+                        "longitude": 79.42956,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86816": {
+                "state_info": {
+                    "place_id": 86816,
+                    "name": "Haryana",
+                    "latitude": 29.094578,
+                    "longitude": 76.34216,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 3434,
+                        "name": "Narnaul",
+                        "latitude": 28.05311,
+                        "longitude": 76.10545,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86839": {
+                "state_info": {
+                    "place_id": 86839,
+                    "name": "Jammu and Kashmir",
+                    "latitude": 33.97981,
+                    "longitude": 76.35315,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "86887": {
+                "state_info": {
+                    "place_id": 86887,
+                    "name": "Punjab",
+                    "latitude": 31.02989,
+                    "longitude": 75.58356,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 7895,
+                        "name": "Dera Bassi",
+                        "latitude": 30.590933,
+                        "longitude": 76.84553,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86904": {
+                "state_info": {
+                    "place_id": 86904,
+                    "name": "Odisha",
+                    "latitude": 20.29507,
+                    "longitude": 85.82633,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 9339,
+                        "name": "Mahul Pali",
+                        "latitude": 20.851868,
+                        "longitude": 82.85118,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7642,
+                        "name": "Angarbandha",
+                        "latitude": 20.779978,
+                        "longitude": 85.14925,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86920": {
+                "state_info": {
+                    "place_id": 86920,
+                    "name": "Madhya Pradesh",
+                    "latitude": 22.93816,
+                    "longitude": 78.57056,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 5438,
+                        "name": "Dewas",
+                        "latitude": 22.94949,
+                        "longitude": 76.03452,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86928": {
+                "state_info": {
+                    "place_id": 86928,
+                    "name": "Sikkim",
+                    "latitude": 27.33152,
+                    "longitude": 88.61401,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "86933": {
+                "state_info": {
+                    "place_id": 86933,
+                    "name": "Andhra Pradesh",
+                    "latitude": 16.425549,
+                    "longitude": 79.27368,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 3710,
+                        "name": "Srisailam",
+                        "latitude": 16.06925,
+                        "longitude": 78.87088,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 8645,
+                        "name": "Mopidevi",
+                        "latitude": 16.071878,
+                        "longitude": 80.925575,
+                        "country_name": "India"
+                    },
+                    {
+                        "place_id": 7638,
+                        "name": "Nandalur",
+                        "latitude": 14.271077,
+                        "longitude": 79.10712,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "86937": {
+                "state_info": {
+                    "place_id": 86937,
+                    "name": "Assam",
+                    "latitude": 26.189947,
+                    "longitude": 92.9599,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "86972": {
+                "state_info": {
+                    "place_id": 86972,
+                    "name": "Bihar",
+                    "latitude": 25.834505,
+                    "longitude": 85.75836,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "86988": {
+                "state_info": {
+                    "place_id": 86988,
+                    "name": "Meghalaya",
+                    "latitude": 25.5127,
+                    "longitude": 91.48224,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 9391,
+                        "name": "Mukhla",
+                        "latitude": 25.482067,
+                        "longitude": 92.22043,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "87007": {
+                "state_info": {
+                    "place_id": 87007,
+                    "name": "Chhattisgarh",
+                    "latitude": 21.246315,
+                    "longitude": 81.626595,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "87038": {
+                "state_info": {
+                    "place_id": 87038,
+                    "name": "Tripura",
+                    "latitude": 23.84281,
+                    "longitude": 91.29324,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "87070": {
+                "state_info": {
+                    "place_id": 87070,
+                    "name": "Manipur",
+                    "latitude": 24.80757,
+                    "longitude": 93.92993,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "87113": {
+                "state_info": {
+                    "place_id": 87113,
+                    "name": "Jharkhand",
+                    "latitude": 23.679745,
+                    "longitude": 85.31891,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "87236": {
+                "state_info": {
+                    "place_id": 87236,
+                    "name": "Arunachal Pradesh",
+                    "latitude": 27.0871,
+                    "longitude": 93.60941,
+                    "country_name": "India"
+                },
+                "popular_cities": [
+                    {
+                        "place_id": 8726,
+                        "name": "Upper Subansiri District",
+                        "latitude": 28.507578,
+                        "longitude": 93.476006,
+                        "country_name": "India"
+                    }
+                ]
+            },
+            "87378": {
+                "state_info": {
+                    "place_id": 87378,
+                    "name": "Mizoram",
+                    "latitude": 23.72753,
+                    "longitude": 92.71835,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            },
+            "87411": {
+                "state_info": {
+                    "place_id": 87411,
+                    "name": "Nagaland",
+                    "latitude": 25.67678,
+                    "longitude": 94.10938,
+                    "country_name": "India"
+                },
+                "popular_cities": []
+            }
+        }
+    }
+}

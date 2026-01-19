@@ -1,0 +1,134 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759043938,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\lucknow_20250928_1248\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Lucknow",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115364",
+      "title": "The 15 best castles in and around Lucknow",
+      "final_title": "The 15 best castles in and around Lucknow",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 0,
+        "rejected": 15,
+        "accepted_final": 0
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 10,
+        "title_calls": 0
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\lucknow_20250928_1248\\lucknow_castles_115364.json",
+        "report_json": "publish_playlist\\lucknow_20250928_1248\\lucknow_castles_115364.report.json"
+      },
+      "created_ts": 1759043987
+    },
+    {
+      "job_index": 1,
+      "city": "Lucknow",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160339",
+      "title": "The 47 best photo spots in Lucknow",
+      "final_title": "Capturing Lucknow: A Photogenic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 47,
+        "blocks": 47,
+        "merged": 47,
+        "accepted_before_trim": 27,
+        "rejected": 20,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 43,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "615",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\lucknow_20250928_1248\\lucknow_photo-spots_160339.json",
+        "report_json": "publish_playlist\\lucknow_20250928_1248\\lucknow_photo-spots_160339.report.json"
+      },
+      "created_ts": 1759045032
+    },
+    {
+      "job_index": 2,
+      "city": "Lucknow",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97374",
+      "title": "The 49 best architecture in Lucknow",
+      "final_title": "Architectural Wonders of Lucknow",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 49,
+        "rejected": 0,
+        "accepted_final": 35
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "616",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\lucknow_20250928_1248\\lucknow_architecture_97374.json",
+        "report_json": "publish_playlist\\lucknow_20250928_1248\\lucknow_architecture_97374.report.json"
+      },
+      "created_ts": 1759045692
+    }
+  ],
+  "end_ts": 1759045692,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 53,
+    "llm_title_calls": 2,
+    "google_places_calls": 24,
+    "cache_hits": 6,
+    "cache_misses": 82
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 53,
+    "llm_title_cache": 2,
+    "google_places_cache": 24,
+    "mobx_data_cache": 3
+  }
+}

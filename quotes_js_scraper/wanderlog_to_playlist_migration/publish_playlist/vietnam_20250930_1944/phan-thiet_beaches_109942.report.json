@@ -1,0 +1,35 @@
+{
+  "job_index": 12,
+  "city": "Phan Thiet",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/109942",
+  "title": "The 22 best beaches in and around Phan Thiet",
+  "final_title": "Phan Thiet's Coastal Paradise Playlist",
+  "from_cache": false,
+  "counts": {
+    "meta": 22,
+    "blocks": 22,
+    "merged": 22,
+    "accepted_before_trim": 16,
+    "rejected": 6,
+    "accepted_final": 12
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 5,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "680",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\vietnam_20250930_1944\\phan-thiet_beaches_109942.json",
+    "report_json": "publish_playlist\\vietnam_20250930_1944\\phan-thiet_beaches_109942.report.json"
+  },
+  "created_ts": 1759245686
+}

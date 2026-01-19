@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Seasons of Argentina",
+  "placeName": "Argentina",
+  "country": "Argentina",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/honeymoon-in-argentina/"
+  ],
+  "description": "A musical tour through Argentina's seasons, from Patagonian winds to Buenos Aires spring nights.",
+  "items": [
+    {
+      "name": "Iguazu Falls",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Cordoba",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Mendoza",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ushuaia",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Buenos Aires",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "El Calafate",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Puerto Madryn",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Los Glaciares",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

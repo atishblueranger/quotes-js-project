@@ -1,0 +1,35 @@
+{
+  "job_index": 14,
+  "city": "Zermatt",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164386",
+  "title": "The 34 most romantic places in Zermatt",
+  "final_title": "Whispers of Love in Zermatt",
+  "from_cache": false,
+  "counts": {
+    "meta": 34,
+    "blocks": 34,
+    "merged": 34,
+    "accepted_before_trim": 34,
+    "rejected": 0,
+    "accepted_final": 21
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "966",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\switzerland_20251002_0921\\zermatt_romantic-places_164386.json",
+    "report_json": "publish_playlist\\switzerland_20251002_0921\\zermatt_romantic-places_164386.report.json"
+  },
+  "created_ts": 1759380034
+}

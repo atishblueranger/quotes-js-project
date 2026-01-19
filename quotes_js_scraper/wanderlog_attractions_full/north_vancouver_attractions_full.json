@@ -1,0 +1,4323 @@
+[
+    {
+        "placeId": "ChIJ9Vwt10xwhlQRQuBpePVtbTk",
+        "website": "http://www.lonsdalequay.com/",
+        "index": 1,
+        "utcOffset": -420,
+        "longitude": -123.081811,
+        "latitude": 49.310369,
+        "rating": 4.4,
+        "excerpt": "Sizable, waterfront marketplace with unique retailers, food vendors & cafes, plus a boutique hotel.",
+        "detail_description": "Lonsdale Quay Market is a bustling waterfront marketplace located in North Vancouver, British Columbia. Since its opening on April 12, 1986, it has become a popular destination for both locals and tourists. Situated near the SeaBus terminal, the market boasts over 80 unique shops and restaurants. Visitors can enjoy stunning views of ships coming and going from the nearby harbor. For those looking to stay close to the action, Lonsdale Quay Hotel offers convenient accommodations.",
+        "imageKeys": [
+            "fT3Q1i03nRLREI7kbLih1b0KuEuNIjrz",
+            "y7LfounVPXcqHEzLGub8vqnZoGfpEFA3",
+            "3ZBm8gc8OhCmFXlOd3vEsGbgThqGkMls",
+            "pyZ5joUcEdh9VWD2hRO0vWZlMkdcBYW5",
+            "0y3a5EobUUycvUxl7ndrQFNoBAgGW2Yv"
+        ],
+        "ratingCount": 7392,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "name": "Lonsdale Quay Market",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-985-6261",
+        "address": "123 Carrie Cates Ct, North Vancouver, BC V7M 3K7, Canada",
+        "types": [
+            "Market",
+            "Transportation",
+            "Fresh food market",
+            "Ferries"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 67,
+                "2": 102,
+                "3": 702,
+                "4": 2278,
+                "5": 4260
+            }
+        }
+    },
+    {
+        "placeId": "ChIJdcbdobRxhlQRXjiDsy2nMqU",
+        "website": "http://www.cnv.org/parksinthecity/",
+        "index": 2,
+        "utcOffset": -420,
+        "longitude": -123.08588,
+        "latitude": 49.311813,
+        "rating": 4.6,
+        "excerpt": "Snug park on the banks of Vancouver Harbour featuring a playground, picnic tables & walking trails.",
+        "detail_description": "The Waterfront Park is a large park on the banks of Vancouver Harbour with a playground, picnic tables and walking trails. It's a great place to take a walk and enjoy the view.",
+        "imageKeys": [
+            "aUp2Y3YBku1ZPM9Eew1bIjiRRDTc2Qr5",
+            "VC2wTN84S6P9hAFyi7ouaAMJbMBVuUuk",
+            "OXzIMfPJ6pcM8Bd68i0IllsgpU1pWsbe"
+        ],
+        "ratingCount": 1636,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Waterfront Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-985-7761",
+        "address": "Block, 200 Esplanade W, North Vancouver, BC, Canada",
+        "types": [
+            "Park",
+            "Nature & Parks",
+            "Playgrounds"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 10,
+                "2": 12,
+                "3": 115,
+                "4": 408,
+                "5": 1091
+            }
+        }
+    },
+    {
+        "placeId": "ChIJK4VAHLNxhlQRpEnAmoodLxM",
+        "website": null,
+        "index": 3,
+        "utcOffset": -420,
+        "longitude": -123.082633,
+        "latitude": 49.309641,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Lonsdale Quay is a bustling market where visitors can savor local delicacies, explore artisanal products, and engage with amiable vendors. The waterfront area boasts an array of shops, offering ample opportunities for unique finds and souvenirs. Additionally, the quay serves as a hub for the SeaBus, providing scenic 12-minute crossings between downtown Waterfront Station and North Vancouver.",
+        "imageKeys": [
+            "9yE8UHRhyjYiyDruOM4biFiDPosvSU0i",
+            "i4huIcXnZT3B01cZ075c2bg6AhKqTJLt",
+            "ntB8keVInz2sECcsrtFzCgiBjo41XhNz",
+            "Hb4X28CuR1eqKH4nCsNXNjghAq0i3KWu",
+            "gx9J11amAQfxlwnOyzQfZjT18RHUVcPM"
+        ],
+        "ratingCount": 967,
+        "openingPeriods": null,
+        "name": "Lonsdale Quay",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "145 Chadwick Ct #220, North Vancouver, BC V7M 3K1, Canada",
+        "types": [
+            "Scenic spot",
+            "Fishing pier"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 7,
+                "2": 9,
+                "3": 52,
+                "4": 183,
+                "5": 686
+            }
+        }
+    },
+    {
+        "placeId": "ChIJB5VO1kxwhlQRK20LBQy-CCo",
+        "website": "https://thepolygon.ca/",
+        "index": 4,
+        "utcOffset": -420,
+        "longitude": -123.080597,
+        "latitude": 49.31039,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "The Polygon Gallery, formerly known as Presentation House Gallery, has a rich history of showcasing over 300 exhibitions and various publications. It is located on the traditional territories of the Skwxwu7mesh (Squamish), slilwta (Tsleil-Waututh), and xwmkwym (Musqueam) Nations. The gallery's photography-centered approach challenges visitors to see the world in new ways.",
+        "imageKeys": [
+            "ZEJiWWavDs1UxlTYmOfW0FateQLolGai",
+            "FBTMC9sbZeRTXG0B6769RjxfcOZgzATc",
+            "YfRFGh6ZuogzRNJ0omUc7viXpb0uulq3",
+            "GpDXnP2rd32QcvW5rwhMXLityZir3x85",
+            "jSAGkJDSF7Aqctt1ahUBOgBTfEcmYbd2"
+        ],
+        "ratingCount": 477,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "The Polygon Gallery",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-986-1351",
+        "address": "101 Carrie Cates Ct, North Vancouver, BC V7M 2E4, Canada",
+        "types": [
+            "Art gallery",
+            "Shopping",
+            "Art museum",
+            "Arts organization",
+            "Book store",
+            "Gift shop",
+            "Museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 16,
+                "2": 14,
+                "3": 26,
+                "4": 94,
+                "5": 331
+            }
+        }
+    },
+    {
+        "placeId": "ChIJp2zKeo1xhlQRWOMOmCcWJV8",
+        "website": "https://www.vanaqua.org/",
+        "index": 5,
+        "utcOffset": -420,
+        "longitude": -123.130877,
+        "latitude": 49.300488,
+        "rating": 4.5,
+        "excerpt": "Popular kid-friendly attraction showcases local & exotic aquatic life with a focus on conservation.",
+        "detail_description": "Nestled within the stunning surroundings of Stanley Park, the Vancouver Aquarium is a must-visit destination for families and marine enthusiasts alike. This beloved attraction offers an incredible opportunity to explore both local and exotic aquatic life, showcasing over 65,000 animals including playful sea otters, charming penguins, and majestic sea turtles. For more than six decades, it has been dedicated to education and conservation rather than flashy performances.",
+        "imageKeys": [
+            "LvVWXYo49bSxOM1e1yjCsEV0B6ze3UKj",
+            "eaURcvAYedxJRlOmLLqDfHbnPjxPlFHe",
+            "HRnj5rY4EVTgT2Z7BET5hUgSh1D4C5dQ",
+            "1IRd9KCDjc5isf90ADMhADgz3HdJQk5l",
+            "TfcAA8NTFlgzfCCgWzuRmBvGMMXuqij5"
+        ],
+        "ratingCount": 11074,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1730"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1730"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1730"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1730"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1730"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1730"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1730"
+                }
+            }
+        ],
+        "name": "Vancouver Aquarium",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 778-655-9554",
+        "address": "845 Avison Way, Vancouver, BC V6G 3E2, Canada",
+        "types": [
+            "Aquarium",
+            "Nature & Parks",
+            "Education center",
+            "Non-profit organization",
+            "Educational sites"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 319,
+                "2": 188,
+                "3": 668,
+                "4": 2360,
+                "5": 7598
+            }
+        }
+    },
+    {
+        "placeId": "ChIJnZHwi2NxhlQRN3CYHzc3giE",
+        "website": "https://www.scienceworld.ca/",
+        "index": 6,
+        "utcOffset": -420,
+        "longitude": -123.103834,
+        "latitude": 49.273376,
+        "rating": 4.5,
+        "excerpt": "Interactive science displays & films for kids from toddlers to early teens, inside a geodesic dome.",
+        "detail_description": "Nestled in the heart of Vancouver, Science World is a captivating destination for families and young explorers. This iconic geodesic dome is brimming with interactive science exhibits that cater to children from toddlers to early teens. With engaging displays like the ever-changing Medieval Mayhem and the permanent Eureka! physics gallery, kids can immerse themselves in hands-on learning experiences. The unique Kidspace area specifically designed for little ones aged 1-3 ensures even the youngest visitors have a place to play and discover.",
+        "imageKeys": [
+            "J595fjFmahH5HJJXgG1qUmcRwuAwjcaT",
+            "aMaVy5V4IIYCZCKLiZgzz1cNHlhK7mYs",
+            "pg3GDZtgmKcb6deBtZJ9ZVD92wTLdhoH",
+            "cj6zK9yHxAQm1Af84IIIMhvvxXCpHa38",
+            "uv75XjAsf2bE2JLgwrPClJTtiHowur9t"
+        ],
+        "ratingCount": 14367,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Science World",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-443-7440",
+        "address": "1455 Quebec St, Vancouver, BC V6A 3Z7, Canada",
+        "types": [
+            "Science museum",
+            "Concerts & Shows",
+            "Event venue",
+            "Non-profit organization",
+            "Wedding venue",
+            "Children's Museums",
+            "Theaters"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 215,
+                "2": 234,
+                "3": 966,
+                "4": 3309,
+                "5": 9730
+            }
+        }
+    },
+    {
+        "placeId": "ChIJQSsj-UZwhlQRWuz71EvLhW8",
+        "website": "http://www.cnv.org/",
+        "index": 7,
+        "utcOffset": -420,
+        "longitude": -123.072414,
+        "latitude": 49.319982,
+        "rating": null,
+        "excerpt": "North Vancouver is known for hiking and skiing trails in the forested North Shore Mountains, including Grouse Mountain, whose Skyride cable car offers sweeping city views. High suspension bridges straddle popular Capilano Canyon and tranquil Lynn Canyon. Near the Seabus ferry terminal, Lonsdale Quay Market is home to fashion shops and a mix of food vendors serving fish and chips, souvlaki and Asian dishes.",
+        "detail_description": "North Vancouver, located on the North Shore of Vancouver, is a haven for outdoor enthusiasts. The area boasts forested mountains with hiking and skiing trails, including the famous Grouse Mountain. Visitors can take in sweeping city views from the Skyride cable car or traverse high suspension bridges over Capilano Canyon and Lynn Canyon. Lonsdale Quay Market near the Seabus ferry terminal offers a mix of fashion shops and diverse food vendors serving various cuisines.",
+        "imageKeys": [
+            "ZMkWIddxWE2jCHy2tebqm6J0K53wP6At",
+            "evQ92FcRVgBdrFXvAOfhPrYX97N2kQqu",
+            "RpN2sDzrnCEvL8ZkFgFSmFePKgxhqr4d",
+            "BfOw9QlFZvxo5ulG1SpHSVLqzd8gPzk8",
+            "JPeFlbwa93TVKciUEAmmAkNi4tQbWUIs"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "North Vancouver",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "British Columbia, Canada",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJtbuSI01whlQR_OK5YhRz1x8",
+        "website": "http://theshipyards.net/",
+        "index": 8,
+        "utcOffset": -420,
+        "longitude": -123.079041,
+        "latitude": 49.31005,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "The Shipyards in North Vancouver is a vibrant waterfront destination that embodies the region's maritime heritage. Once a bustling hub for shipbuilding, it has been revitalized into a dynamic area with restaurants, shops, and public spaces. The location next to Lonsdale Quay offers stunning views of the waterfront and an array of activities. Visitors can enjoy dining at popular pub-style restaurants like Tap & Barrel, which offers diverse menus for lunch, dinner, and brunch.",
+        "imageKeys": [
+            "u9fTUAJlvZz1ScP1ahgagwgwYDBjdVtT",
+            "CetIWjxdERetoNnU7EKFPLHNyfprpaD4",
+            "2RgAPXYKmNzqU78h0B0qpc4zkJ6MYXNi",
+            "ULURvYPvYqR5WKJYCIMYu7yYuMn0ioUO",
+            "DodDUPBgoiosw5PShqrKEkeh3mebU9TV"
+        ],
+        "ratingCount": 1743,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "The Shipyards",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-985-2191",
+        "address": "125 Victory Ship Way, North Vancouver, BC V7L 0B3, Canada",
+        "types": [
+            "Event venue",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 7,
+                "2": 8,
+                "3": 56,
+                "4": 356,
+                "5": 1337
+            }
+        }
+    },
+    {
+        "placeId": "ChIJq3SrKtVxhlQRhBJFzyY5VwQ",
+        "website": "https://theshipyardsdistrict.ca/",
+        "index": 9,
+        "utcOffset": -420,
+        "longitude": -123.083033,
+        "latitude": 49.309976,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "8dDsT036D099nNCTbiXcsSLAY7fpVkGu",
+            "4Y16gNMaUzcOD0xKfVu8iDImNPi90KGb",
+            "6OACqkHClbpVd61JIW3LOFiIITdyVjuZ"
+        ],
+        "ratingCount": 108,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "The Shipyards District",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-790-9779",
+        "address": "145 Chadwick Ct Suite 220, North Vancouver, BC V7M 3K1, Canada",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 4,
+                "4": 24,
+                "5": 80
+            }
+        }
+    },
+    {
+        "placeId": "ChIJY8PhL01whlQRYv1frnB1lSw",
+        "website": "https://shipyardsnightmarket.com/",
+        "index": 10,
+        "utcOffset": -420,
+        "longitude": -123.079791,
+        "latitude": 49.309971,
+        "rating": 4.5,
+        "excerpt": "Spring-to-fall attraction featuring food trucks, crafts vendors & live bands on Friday nights.",
+        "detail_description": "The Shipyards Night Market is a popular spring-to-fall attraction that takes place every Friday from May 10th to September 13th. Located at The Shipyards in North Vancouver, this market offers a vibrant atmosphere with an outdoor market, a beloved beer garden, and a variety of mouthwatering food trucks. Visitors can enjoy live bands while exploring the numerous craft vendors and indulging in delicious Asian cuisine such as bubble tea, barbeque, dim sum, and noodles.",
+        "imageKeys": [
+            "lQoLNFCATlfkDXaQxO3Urbl8Gw9Iv1or",
+            "rpb3WiBC4Q5dPCOYcW2yyMTM6VvArYlZ",
+            "dbzzaF9ASBJ9jIXdDnhGXe2WC6QDfL2E"
+        ],
+        "ratingCount": 1270,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Shipyards Night Market",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "19 Wallace Mews, North Vancouver, BC V7L 0B2, Canada",
+        "types": [
+            "Night market"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 13,
+                "2": 12,
+                "3": 107,
+                "4": 367,
+                "5": 764
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ28IkUs5zhlQRua6hLV7S3jY",
+        "website": null,
+        "index": 11,
+        "utcOffset": -420,
+        "longitude": -123.133993,
+        "latitude": 49.271157,
+        "rating": 4.7,
+        "excerpt": "Charming cultural & artistic mainstay famous for a daily public market with 50+ food vendors.",
+        "detail_description": "Granville Island is a charming cultural and artistic hub in Vancouver, known for its daily public market featuring over 50 food vendors. The island underwent a major transformation in the 1970s, turning from a polluted industrial site into one of Vancouver's most beloved attractions. Visitors can explore artisan studios, cozy cafes, and a two-level kids market. The bustling public market offers an array of goods including fresh produce, local eats, crafts, and more.",
+        "imageKeys": [
+            "Xha8V9ZOS18iApL9kqSHTHAt2JhbPhfK",
+            "xTs2H2ux3eM8KWyf8Da25HU3qsuNlqXR",
+            "IOrYlHlXtZTUfaGpPeGjfNv8HtRo3OM8",
+            "1Z58stooNxwFNkHIGwgszQCqzSMDWENw",
+            "s0au0VtnrUXVxyjJAh0f2cJk4Gx8effe"
+        ],
+        "ratingCount": 3441,
+        "openingPeriods": null,
+        "name": "Granville Island",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Vancouver, BC, Canada",
+        "types": [
+            "Island",
+            "Nature & Parks",
+            "Neighborhoods",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 38,
+                "2": 24,
+                "3": 122,
+                "4": 666,
+                "5": 2623
+            }
+        }
+    },
+    {
+        "placeId": "ChIJHZSzNzNyhlQRzmus61cqE5Y",
+        "website": "http://www.museumofvancouver.ca/",
+        "index": 12,
+        "utcOffset": -420,
+        "longitude": -123.144372,
+        "latitude": 49.276279,
+        "rating": 4.3,
+        "excerpt": "Museum focused on city issues & history, with a strong collection of First Nations art & artifacts.",
+        "detail_description": "The Museum of Vancouver, located in Vanier Park between Kitsilano Beach and Granville Island, offers a fascinating exploration of the city's history and issues. With a strong collection of First Nations art and artifacts, this independent, non-profit organization aims to deepen understanding through stories and shared experiences. Catering to sub-teens and teens, the museum provides insight into early Vancouver history, from its First Nations past to the neon light phase of the 1950s.",
+        "imageKeys": [
+            "Snv6PIiidBwosQI36C0ug1ur46k5fD8t",
+            "6NdelbABUjtKWRSlpjkuwqwYr5tGToFF",
+            "MW5eZQLHox5cF2JHVPEK5bdzfoUlXrM7",
+            "ShLtll6aZURH7VxbKWgqDMiowDJ1P0xQ",
+            "BenvbDCp1H8yVLj9fhWdBGGltXKCXNIr"
+        ],
+        "ratingCount": 1692,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Museum of Vancouver",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-736-4431",
+        "address": "1100 Chestnut St, Vancouver, BC V6J 3J9, Canada",
+        "types": [
+            "Local history museum",
+            "Museums",
+            "Event venue",
+            "History Museums",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 45,
+                "2": 65,
+                "3": 166,
+                "4": 450,
+                "5": 983
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ0Rk98E5whlQRpgdbScCHfKE",
+        "website": null,
+        "index": 13,
+        "utcOffset": -420,
+        "longitude": -123.072315,
+        "latitude": 49.313738,
+        "rating": null,
+        "excerpt": "Flanked by the North Shore Mountains, Lower Lonsdale, also known as the Shipyards District or LoLo, is home to the landmark 1925 Burrard Dry Dock Pier that has panoramic views of Vancouver’s skyline across Burrard Inlet. Lonsdale Quay Market is a family oriented hub for shopping and restaurants, as is bustling Lonsdale Avenue. There’s also a lively seasonal Shipyards Night Market.",
+        "detail_description": "Lower Lonsdale, also known as the Shipyards District or LoLo, is a vibrant neighborhood nestled between the North Shore Mountains and Burrard Inlet. The area is famous for its landmark 1925 Burrard Dry Dock Pier, offering stunning panoramic views of Vancouver's skyline. Lonsdale Quay Market and bustling Lonsdale Avenue are popular spots for shopping and dining, catering to families and visitors alike.",
+        "imageKeys": [
+            "QfI8cv6LuXkJS0o20tY89xifL0RZWp1E",
+            "8jpXNtZqVsM7gnvRmcXDDpAC98ppSzf0",
+            "xMCHG5TDYAKkTUw6mnZ8MQuQhgGNJrht",
+            "OYdoDVreoxYcKtE9fe8FX6zYqPh7QYrk"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Lower Lonsdale",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "North Vancouver, BC V7L 3H1, Canada",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJBQq4UFdxhlQR4j6AUCgfCos",
+        "website": "http://www.monova.ca/",
+        "index": 14,
+        "utcOffset": -420,
+        "longitude": -123.080476,
+        "latitude": 49.311289,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "MONOVA: Museum of North Vancouver is a captivating destination in the Lower Lonsdale area, offering a deep exploration of the region's rich history and culture. The museum showcases a diverse range of exhibits and artifacts, delving into Indigenous history, maritime industry, and natural landscapes. Visitors can enjoy interactive displays, guided tours, and children's programs that bring the area's past to life. It provides an engaging indoor activity option on rainy days for families with kids interested in history and learning.",
+        "imageKeys": [
+            "njRlNAAlIjroUCP5LMo3H4cNn1zIi1QR",
+            "GfTi6Ms2GUlaCvETC7Lr4vXawL1v1PJS",
+            "ZNYkZ4gkdDOWmMZ8c3nPCUNTmOwJxnrN",
+            "iFOCZ2SCbmIMxqEBXmQT34fxu1u5LOHB"
+        ],
+        "ratingCount": 127,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "MONOVA: Museum of North Vancouver",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-990-3700",
+        "address": "115 Esplanade W, North Vancouver, BC V7M 0G6, Canada",
+        "types": [
+            "Museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 2,
+                "3": 4,
+                "4": 22,
+                "5": 97
+            }
+        }
+    },
+    {
+        "placeId": "ChIJNTOlHABzhlQRHnpr1KjTWq0",
+        "website": null,
+        "index": 15,
+        "utcOffset": -420,
+        "longitude": -123.126909,
+        "latitude": 49.277109,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Stanley Park is a sprawling 400-hectare natural oasis at the heart of Vancouver, boasting dense West Coast forests and marked trails that allow families to explore the jungle of towering trees. The park also features picturesque beaches where visitors can admire various types of boats up close, adding to its allure as a must-visit destination for nature enthusiasts and outdoor adventurers.",
+        "imageKeys": [
+            "zatvGI7G0U28X9wbQbx9gOwZdDVr4fim"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Stanley park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "1221 Granville St, Vancouver, BC V6Z 1M6, Canada",
+        "types": [
+            "General store"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJs0-pQ_FzhlQRi_OBm-qWkbs",
+        "website": "http://vancouver.ca/",
+        "index": 16,
+        "utcOffset": -420,
+        "longitude": -123.120737,
+        "latitude": 49.282729,
+        "rating": null,
+        "excerpt": "Vancouver, a bustling west coast seaport in British Columbia, is among Canada’s densest, most ethnically diverse cities. A popular filming location, it’s surrounded by mountains, and also has thriving art, theatre and music scenes. Vancouver Art Gallery is known for its works by regional artists, while the Museum of Anthropology houses preeminent First Nations collections.",
+        "detail_description": "Vancouver, a vibrant west coast city in British Columbia, is celebrated for its rich cultural diversity and stunning natural surroundings. Nestled between majestic mountains and the Pacific Ocean, this urban gem boasts a thriving arts scene with venues like the Vancouver Art Gallery showcasing local talent and the Museum of Anthropology featuring significant First Nations artifacts. Nature enthusiasts will love exploring Stanley Park's Vancouver Aquarium, home to over 65,000 marine creatures including playful sea otters and charming penguins.",
+        "imageKeys": [
+            "QiixeZO3kEEAUnFgoZfVTL6lY0B4Psig",
+            "2VtwXNye5QcTbI7wH7TQv7Ll3lMCspWV",
+            "lgOsm3iJwWRFUiQDh6VJYBwb4RPa3qnF",
+            "j9Lwf7NYjlEQ1o7PbMjqKrrrju9UcNUW",
+            "uO7CnboLRcWZesNopCrutm533vD7uFIj"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Vancouver",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "British Columbia, Canada",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ86zkaC9yhlQR4GhBA8iTiy4",
+        "website": "http://vancouver.ca/parks-recreation-culture/english-bay-beach.aspx/",
+        "index": 17,
+        "utcOffset": -420,
+        "longitude": -123.143486,
+        "latitude": 49.286311,
+        "rating": 4.7,
+        "excerpt": "Bustling beach with volleyball courts, plus a concession stand & the Cactus Club Cafe for food.",
+        "detail_description": "English Bay Beach is a lively and popular destination located between the bustling West End neighborhood of downtown Vancouver and Stanley Park. It attracts both city dwellers and sun seekers due to its convenient location and vibrant atmosphere. The beach offers amenities such as volleyball courts, a concession stand, and beachfront restaurants. Visitors can enjoy stunning skyline views, palm trees, public art displays including the Inukshuk piece representing Inuit culture, and the A-maze-ing Laughter figures by artist Yue Minjun.",
+        "imageKeys": [
+            "4gOddrVqn7ZIdtbJX6imVsjjZmek2o4w",
+            "W2lAHJV1i29x5LSEuDeuakJlqbLAGZIB",
+            "WfSvz5TzeIE7DNDYvbDq459hiOs2hMaY",
+            "fjpejnfKJZsqFoyMBlXMBgMb9WCLyYa3",
+            "r6HFJSCkfR9gDYdLzyEYnb7h8uuWI5QH"
+        ],
+        "ratingCount": 17879,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "English Bay Beach",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-873-7000",
+        "address": "Beach Ave, Vancouver, BC V6C 3C1, Canada",
+        "types": [
+            "Public beach",
+            "Outdoor Activities",
+            "Park",
+            "Beaches"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 107,
+                "2": 114,
+                "3": 731,
+                "4": 3339,
+                "5": 13673
+            }
+        }
+    },
+    {
+        "placeId": "ChIJwXz9f39xhlQRT3qxXAPDlbU",
+        "website": "https://www.vanartgallery.bc.ca/",
+        "index": 18,
+        "utcOffset": -420,
+        "longitude": -123.120471,
+        "latitude": 49.282961,
+        "rating": 4.3,
+        "excerpt": "Gallery known for its touring exhibits, work by local artists (like Emily Carr) & photo collection.",
+        "detail_description": "Nestled in the heart of Vancouver, the Vancouver Art Gallery stands as a beacon of creativity and culture, making it the largest public art museum in western Canada. With an impressive collection of over 9,000 artworks, this gallery showcases both historical and contemporary pieces that highlight British Columbia's rich artistic heritage. A particular focus is placed on First Nations artists, ensuring their vital contributions are celebrated.",
+        "imageKeys": [
+            "a6AzomhkTrnYBNJRM7mhkzGjF87gExqB",
+            "wnvyr3wzEU1tE00plan3gZUUH9mZwAyf",
+            "sD0znwmAH4003xoZtyYEbMGSHGcy0BrQ",
+            "MdGlKxXs5DkotxSk2BdgT7pKmC6yVntr",
+            "FFf2vJX53dQTOD3E2UJ1QkvDUfnSuRmx"
+        ],
+        "ratingCount": 8422,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Vancouver Art Gallery",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-662-4700",
+        "address": "750 Hornby St, Vancouver, BC V6Z 2H7, Canada",
+        "types": [
+            "Art gallery",
+            "Museums",
+            "Art center",
+            "Art museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 346,
+                "2": 299,
+                "3": 777,
+                "4": 2247,
+                "5": 4790
+            }
+        }
+    },
+    {
+        "placeId": "ChIJIeDiJJ1xhlQRCWHIheB_Bbc",
+        "website": "http://www.canadaplace.ca/",
+        "index": 19,
+        "utcOffset": -420,
+        "longitude": -123.111121,
+        "latitude": 49.288825,
+        "rating": 4.6,
+        "excerpt": "Built to look like a ship, this iconic complex houses a convention centre, hotel & ferry terminal.",
+        "detail_description": "Canada Place is a distinctive complex in Vancouver designed to resemble a ship, featuring a convention center, hotel, and ferry terminal. The iconic white sails of Canada Place offer stunning views of Vancouver's waterfront, Burrard Inlet, and the North Shore mountains. It serves as both a cruise ship terminal and the Vancouver Convention Center, hosting numerous events throughout the year. Visitors can enjoy attractions like FlyOver Canada, offering a virtual experience of flying over notable Canadian landmarks.",
+        "imageKeys": [
+            "xulTsP3iGSLMqo2ezDfbPxxItiE0U7wK",
+            "FYbF3ciD6OGDxfLAcW7RIeMqmSvg2nha",
+            "3OMdzrPtnUHDUgI7fe0Knu7LCzYc0INJ",
+            "OMsIoTKhQnDW6jsEISbNFj5rMhh7aJi0",
+            "YqKKakAzCWUEcnTTWJrFDpALn0i0ePF0"
+        ],
+        "ratingCount": 24391,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Canada Place",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-775-7200",
+        "address": "999 Canada Pl, Vancouver, BC V6C 3T4, Canada",
+        "types": [
+            "Convention center",
+            "Architectural Buildings",
+            "Conference & Convention Centers",
+            "Piers & Boardwalks",
+            "Theaters"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 253,
+                "2": 183,
+                "3": 1151,
+                "4": 5373,
+                "5": 17263
+            }
+        }
+    },
+    {
+        "placeId": "ChIJfe2sYHhxhlQRoXvjMeNv3VA",
+        "website": "https://vancouverlookout.com/",
+        "index": 20,
+        "utcOffset": -420,
+        "longitude": -123.112228,
+        "latitude": 49.284918,
+        "rating": 4.6,
+        "excerpt": "Sightseers ascend this tower in a glass elevator to an observation deck with 360° views of the city.",
+        "detail_description": "The Vancouver Lookout, situated in the heart of the city at the top of Harbour Centre, offers a thrilling glass elevator ride to its 360-degree observation deck standing at 168 meters. From this vantage point, visitors can enjoy breathtaking views of Vancouver's skyline, North Shore Mountains, Pacific Ocean, and English Bay. The attraction also boasts interactive exhibits that provide insights into the city's history, culture, and landmarks. Additionally, guests can visit the Armstrong Gallery featuring local artists' work.",
+        "imageKeys": [
+            "sB872aO5CDwGYzsnjAI1erDGy3fY2h5h",
+            "02sXUYWY8IXwyWqbjnT9ffoVSFCQvUOy",
+            "HjEm7LeH1x3gWGWxpBQyNkzcdKfr4TaD",
+            "GvuXIb3ELb4ra8zcrXRspzbGriLPwBjC",
+            "yPbEM5O1jCQKDI0FADbQfACcUUTzEVtA"
+        ],
+        "ratingCount": 3467,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "name": "Vancouver Lookout",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-689-0421",
+        "address": "555 W Hastings St, Vancouver, BC V6B 4N6, Canada",
+        "types": [
+            "Observation deck",
+            "Sights & Landmarks",
+            "Event venue",
+            "Observation Decks & Towers",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 33,
+                "2": 35,
+                "3": 232,
+                "4": 837,
+                "5": 2343
+            }
+        }
+    },
+    {
+        "placeId": "ChIJiVHFdzNyhlQRjW3eJ2KKZM0",
+        "website": "https://vanmaritime.com/",
+        "index": 21,
+        "utcOffset": -420,
+        "longitude": -123.147183,
+        "latitude": 49.277517,
+        "rating": 4.5,
+        "excerpt": "Museum charting the story of Pacific & Arctic waterways, with exhibits & an Arctic exploration ship.",
+        "detail_description": "The Vancouver Maritime Museum is a family-friendly destination that showcases the rich seafaring history of the Pacific Northwest and Arctic regions. Visitors can explore the RCMP Arctic St. Roch, which holds the distinction of being the first ship to navigate both ways through the perilous Northwest Passage and circumnavigate North America. The museum offers interactive displays where kids can engage in activities like driving a tug, operating an underwater robot, and dressing up as seafarers.",
+        "imageKeys": [
+            "JR9hPQdhtRcXs9cmiHcm5MmwLiSlePOp",
+            "T4FcpWBzHd8Hf1nYZwdlE8qlRt2dq2g8",
+            "V8fkfoQUmXNwiF8eCCywVX8Ff9xZMrU7",
+            "kwpZPNRmLdZuR0x8Ca4OlBjjIVbvgw8N",
+            "ismTNyX6GYRoJZQJWDhM2PkchdL8kZUX"
+        ],
+        "ratingCount": 363,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Vancouver Maritime Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-257-8300",
+        "address": "1905 Ogden Ave, Vancouver, BC V6J 1A1, Canada",
+        "types": [
+            "Maritime museum",
+            "Museums",
+            "Archive",
+            "Heritage building",
+            "Heritage museum",
+            "Historical landmark",
+            "Historical society",
+            "Library",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 3,
+                "2": 6,
+                "3": 30,
+                "4": 96,
+                "5": 229
+            }
+        }
+    },
+    {
+        "placeId": "ChIJX-DfNzNyhlQR76LZl5hs5bc",
+        "website": "http://www.spacecentre.ca/",
+        "index": 22,
+        "utcOffset": -420,
+        "longitude": -123.144443,
+        "latitude": 49.276224,
+        "rating": 3.8,
+        "excerpt": "Museum with space-related games & hands-on exhibits, plus a planetarium & an adjacent observatory.",
+        "detail_description": "H.R. MacMillan Space Centre is a museum in Vancouver that offers space-related games, hands-on exhibits, and a planetarium. The center features interactive exhibits designed especially for kids, allowing them to engage with various activities such as pushing buttons to understand sound in a vacuum and using computer simulations to dock a shuttle at a space station.",
+        "imageKeys": [
+            "Q8gyLOk0fPAXJy2VWpSXgNx49sVZT8Kn",
+            "ro6oKVdMUnuZy7df5pmGKFFIk8EJCIr7",
+            "as19ESsgJvCU2TyZF4E7Qx3RrO9mHFsk",
+            "JnsL5VP3g9lVb4ZnrZZ9GDad1wfo6Nr4"
+        ],
+        "ratingCount": 476,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1630"
+                }
+            }
+        ],
+        "name": "H.R. MacMillan Space Centre",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-738-7827",
+        "address": "1100 Chestnut St, Vancouver, BC V6J 3J9, Canada",
+        "types": [
+            "Planetarium",
+            "Museum",
+            "Museum of space history",
+            "Observatory"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 60,
+                "2": 35,
+                "3": 64,
+                "4": 99,
+                "5": 219
+            }
+        }
+    },
+    {
+        "placeId": "ChIJdxhH6EhwhlQR1M4bTZP2ZUg",
+        "website": "http://www.cnv.org/",
+        "index": 23,
+        "utcOffset": -420,
+        "longitude": -123.073314,
+        "latitude": 49.316805,
+        "rating": 4.5,
+        "excerpt": "Relaxed city green space featuring walking paths, a garden, art & lots of benches.",
+        "detail_description": "Victoria Park is a serene green space located in mid-lower Lonsdale, Canada. It offers walking paths, a garden, art installations, and plenty of benches for relaxation. The park is ideal for picnics and features wide, flat biking paths with grassy areas on either side, perfect for children to learn to ride or engage in other outdoor activities.",
+        "imageKeys": [
+            "dcAnQLQrCEyZnODxZfTtsqsCUD7OH9Ix",
+            "rVqoKHryqZ8xtcPvNC6CmZDUOKTxM3qN",
+            "fyT1TI0Ay2Slzibax38CORgR3M6iIIn0"
+        ],
+        "ratingCount": 741,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Victoria Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-987-7155",
+        "address": "650 Lonsdale Ave, North Vancouver, BC V7M 2G8, Canada",
+        "types": [
+            "Park"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 5,
+                "3": 63,
+                "4": 219,
+                "5": 443
+            }
+        }
+    },
+    {
+        "placeId": "ChIJlwjdWfVwhlQRlByuBCDheJU",
+        "website": "http://parkandtilford.com/",
+        "index": 24,
+        "utcOffset": -420,
+        "longitude": -123.043074,
+        "latitude": 49.308347,
+        "rating": 4.3,
+        "excerpt": "Established in 1969, this botanical garden on 3 acres includes themed sections, benches & fountains.",
+        "detail_description": "Park & Tilford Gardens, established in 1969, is a hidden gem located within a shopping mall in North Vancouver. Despite its small size of 2 acres, it offers a rich and vibrant landscaping experience with eight themed gardens including Japanese, rose, herb, and native gardens. Visitors can enjoy benches, fountains, and a Christmas light display during the holiday season. This European-style garden provides a peaceful oasis for families to explore and learn about different plant species suitable for North Shore gardens.",
+        "imageKeys": [
+            "e5vV8RRQGq58kek77S4HlMnzH1IY4MGm",
+            "bYFoNBysf8ytNXulwawi6ZHwFlNU2Vxm",
+            "wf8fLElzOJZfqsgOaOv9UzUGrQtpPU4U"
+        ],
+        "ratingCount": 1621,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1715"
+                }
+            }
+        ],
+        "name": "Park & Tilford Gardens",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-513-8880",
+        "address": "333 Brooksbank Ave, North Vancouver, BC V7J 3V8, Canada",
+        "types": [
+            "Botanical garden",
+            "Nature & Parks",
+            "Gardens"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 27,
+                "2": 33,
+                "3": 210,
+                "4": 530,
+                "5": 823
+            }
+        }
+    },
+    {
+        "placeId": "ChIJo-QmrYxxhlQRFuIJtJ1jSjY",
+        "website": "https://vancouver.ca/parks-recreation-culture/stanley-park.aspx",
+        "index": 25,
+        "utcOffset": -420,
+        "longitude": -123.144252,
+        "latitude": 49.304258,
+        "rating": 4.8,
+        "excerpt": "Vancouver's largest urban park has beaches, trails & family attractions, plus a picturesque seawall.",
+        "detail_description": "Stanley Park, Vancouver's largest urban oasis, is a stunning blend of natural beauty and recreational activities. Nestled on a peninsula just north and west of downtown, this expansive park offers visitors an escape from the city's hustle and bustle. With its scenic seawall perfect for walking or rollerblading, lush forests to explore, and family-friendly attractions like the Vancouver Aquarium—home to over 65,000 marine animals including playful sea otters and charming penguins—there’s something for everyone.",
+        "imageKeys": [
+            "I8m3LTISvJHIlwOM5OfnR4ZI697cmhlF",
+            "oi6pCWav7OIdQ2VASd27CQwGYE1SkQPk",
+            "F55Pn9M1yhM7SZyBgU07Mkp8bcIQoUh3",
+            "Wb5zxiB1dP7Y5fUxUWplsIlg05bLpLX7",
+            "U1EC2xcMombLjpGhYq6HaLxsKsWJLKzs"
+        ],
+        "ratingCount": 49396,
+        "openingPeriods": null,
+        "name": "Stanley Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-681-6728",
+        "address": "Vancouver, BC V6G 1Z4, Canada",
+        "types": [
+            "Park",
+            "Nature & Parks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 221,
+                "2": 140,
+                "3": 995,
+                "4": 6621,
+                "5": 41399
+            }
+        }
+    },
+    {
+        "placeId": "ChIJo4RRq4NxhlQRIAejSwZjXS0",
+        "website": "https://www.oxfordproperties.com/corp/leasing/en/office/property/marine-building",
+        "index": 26,
+        "utcOffset": -420,
+        "longitude": -123.117045,
+        "latitude": 49.287426,
+        "rating": 4.6,
+        "excerpt": "Skyscraper, opened in 1930, known for its art deco–inspired architecture & its ornate lobby.",
+        "detail_description": "The Marine Building, a 21-storey skyscraper in Vancouver, is an iconic example of art deco architecture. Built in 1930 as the home for the Vancouver Merchants Exchange, it features intricate detailing inspired by historical ships at sea. The building's ornate lobby boasts brass doors and wood inlays from 12 varieties of BC hardwoods, creating a timeless atmosphere. With its underwater theme and references to marine life, the Marine Building pays homage to Vancouver's maritime heritage.",
+        "imageKeys": [
+            "H7e0pLha1RV9e7wYwauP9pijcXabgHqw",
+            "5RWWSYK3RKzJqOC9cgitHlom1RaBh2H3",
+            "15FyLQ1pWfCEeQL9MLJOVXabPwAgdKq6",
+            "edsoiqKBFRUrieZjBIBgV0r2fLjLYbsi",
+            "ZprdTGDkSoavFZjr40wPTAHirXCe0gKL"
+        ],
+        "ratingCount": 251,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Marine Building",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-893-3248",
+        "address": "355 Burrard St, Vancouver, BC V6C 2G8, Canada",
+        "types": [
+            "Business center",
+            "Sights & Landmarks",
+            "Corporate office",
+            "Office space rental agency",
+            "Architectural Buildings"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 3,
+                "2": 3,
+                "3": 16,
+                "4": 48,
+                "5": 181
+            }
+        }
+    },
+    {
+        "placeId": "ChIJQ9pJmH5xhlQRe_nvreYL37k",
+        "website": "http://www.vpl.ca/",
+        "index": 27,
+        "utcOffset": -420,
+        "longitude": -123.115622,
+        "latitude": 49.279728,
+        "rating": 4.7,
+        "excerpt": "The city's grand central library, with a colonnaded surround reminiscent of a Roman amphitheater.",
+        "detail_description": "Vancouver Public Library, Central Library, is a grand architectural marvel with a colonnaded surround reminiscent of a Roman amphitheater. It's the third largest library in Canada and boasts an impressive collection of 9.5 million items borrowed annually, including books, CDs, DVDs, magazines, genealogy records, local history books, and more. The building's design by Safdie Architects is striking and has been featured in Hollywood films.",
+        "imageKeys": [
+            "nQcAMallOxQbyOfXSqlWrbHM1HMYMxmY",
+            "PGkRvdZx45sBnX8z0o6dTpJKoIYFuBXy",
+            "D1fB4Z2RcLiJ0FxCKQ5ycvs3PUKSehfJ",
+            "V6vmQdIqVM3VuahtjyZKRPbMykAPFa53",
+            "6qGIiAJ0uhM7XqiQnLbwlXumAFSZ7xNC"
+        ],
+        "ratingCount": 2264,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Vancouver Public Library - Central Library",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-331-3603",
+        "address": "350 W Georgia St, Vancouver, BC V6B 6B1, Canada",
+        "types": [
+            "Public library",
+            "Libraries"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 48,
+                "2": 25,
+                "3": 74,
+                "4": 312,
+                "5": 1816
+            }
+        }
+    },
+    {
+        "placeId": "ChIJG3q8d85zhlQRIH1pyAsVpEc",
+        "website": "https://granvilleisland.com/public-market",
+        "index": 28,
+        "utcOffset": -420,
+        "longitude": -123.135139,
+        "latitude": 49.272661,
+        "rating": 4.6,
+        "excerpt": "Popular indoor market with restaurants, bars & cafes, plus gourmet food stalls & artisan boutiques.",
+        "detail_description": "Granville Island Public Market is a bustling indoor market offering a wide array of gourmet food stalls, artisan boutiques, restaurants, bars, and cafes. Situated near the Plaza of Nations, visitors can conveniently access the market via Aquabus or False Creek Ferries. The market's proximity to attractions like Science World museum and transportation hubs such as Yaletown-Roundhouse SkyTrain station makes it an ideal stop for both locals and tourists.",
+        "imageKeys": [
+            "nv4BzWAQoTrVoN0jkFrSQLNh1TS3m9Pq",
+            "9ZCCdOFFKb5fJFBDLr5KfbTLWxDezksb",
+            "ogZCV7fi26XinqNdHcLMoJsfp9mu9cQm",
+            "0nLD6djO6dJyKnPM9DLF7sVQYG2VH0hx",
+            "Fyq5YMPistYkryLkWEGSmTRRlR1MIq6b"
+        ],
+        "ratingCount": 23268,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Granville Island Public Market",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-666-6477",
+        "address": "Public Market, 1689 Johnston St, Vancouver, BC V6H 3S2, Canada",
+        "types": [
+            "Market",
+            "Shopping",
+            "Fresh food market",
+            "Flea & Street Markets"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 138,
+                "2": 197,
+                "3": 1168,
+                "4": 5474,
+                "5": 16393
+            }
+        }
+    },
+    {
+        "placeId": "ChIJh2WZ64BxhlQRY3Y-uUsa5Vw",
+        "website": null,
+        "index": 29,
+        "utcOffset": -420,
+        "longitude": -123.114007,
+        "latitude": 49.277581,
+        "rating": 4.6,
+        "excerpt": "Well-known shopping precinct with an array of retail & dining options plus a sports stadium.",
+        "detail_description": "Robson St is a bustling shopping district in Vancouver, known for its wide range of retail and dining options. It's often compared to Rodeo Drive, with big-name luxury boutiques and a vibrant atmosphere. The street is lined with various shops offering apparel, shoes, fashion accessories, souvenirs, and jewelry. Visitors can also admire the cool architecture of the Vancouver Public Library and explore attractions like the Vancouver Art Gallery.",
+        "imageKeys": [
+            "7BpMcAxkETYjpJ9qHUvvYAa7K1pICC8I",
+            "c6aVBYe1WuwOEt11xhrgG01YpRCL5cD3",
+            "Z97AuN6woLe9Ftnab28fUQtZ8eelRJ48",
+            "RK8zQ19MgtStsaU04AVnLnfQgQ1477pO",
+            "6sldgaxGGCZcu9pR5IkXXi7tIXHuo3HZ"
+        ],
+        "ratingCount": 171,
+        "openingPeriods": null,
+        "name": "Robson St",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Vancouver, BC, Canada",
+        "types": [
+            "Notable street",
+            "Sights & Landmarks",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 1,
+                "3": 9,
+                "4": 43,
+                "5": 121
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ8ToMkXpxhlQRYqJG8pg7rQI",
+        "website": "https://vancouverchinesegarden.com/",
+        "index": 30,
+        "utcOffset": -420,
+        "longitude": -123.104092,
+        "latitude": 49.279785,
+        "rating": 4.2,
+        "excerpt": "Water, plants & rocks are arranged according to Taoist principles to create a serene space.",
+        "detail_description": "Dr. Sun Yat-Sen Classical Chinese Garden, located in Vancouver's historic Chinatown neighborhood, is a serene urban park designed according to Taoist principles. Crafted by 53 Chinese master craftsmen, this garden is a replica of a classical Ming Dynasty Chinese scholars' garden and the first of its kind outside of China. The garden features carefully arranged water, plants, and rocks shipped from China to create an authentic experience.",
+        "imageKeys": [
+            "l5v1unQvWC1KlY882RAcofjBrMuICo0i",
+            "IppHSqRxboqJiIlqOY9rDNA0k3AUgZkp",
+            "A2wf2M5c4LoSUM0PUA6w8WFzYRgfQALT",
+            "2XIRXDa3asqOIT1hS9tedzY4VOWk3lCM",
+            "8j6VAyWl8E3MjsrcrDvw2Bm7MkNFW92a"
+        ],
+        "ratingCount": 5350,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "Dr. Sun Yat-Sen Classical Chinese Garden",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-662-3207",
+        "address": "578 Carrall St, Vancouver, BC V6B 5K2, Canada",
+        "types": [
+            "Botanical garden",
+            "Nature & Parks",
+            "Cultural landmark",
+            "Event venue",
+            "Museum",
+            "Architectural Buildings",
+            "Gardens"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 207,
+                "2": 216,
+                "3": 696,
+                "4": 1445,
+                "5": 2804
+            }
+        }
+    },
+    {
+        "placeId": "ChIJY2kX8IxxhlQRo6V5sOh6hBM",
+        "website": "http://www.stanleyparkpavilion.com/",
+        "index": 31,
+        "utcOffset": -420,
+        "longitude": -123.134054,
+        "latitude": 49.299594,
+        "rating": 4.5,
+        "excerpt": "Elegant venue for events/weddings with a ballroom & tearoom, plus a relaxed restaurant with a patio.",
+        "detail_description": "Nestled within the enchanting Stanley Park, the Stanley Park Pavilion is a stunning venue that offers a variety of spaces perfect for events and weddings. This charming heritage building features four distinct areas: the elegant Lord Stanley Ballroom, the cozy Tea Room, Stanleys Bar & Grill with its inviting patio, and beautifully landscaped Formal Gardens. Whether you envision an outdoor ceremony surrounded by nature or a sophisticated indoor reception, this venue caters to all your needs.",
+        "imageKeys": [
+            "mfK0CnVvgNIVO107aRtP3hWiaLfhHI4d",
+            "j3Lvi9HUmMtQriITThUC2Z9fcir7UAsI",
+            "MwNrQqc33GJ5OiJSOj1xrTgaTLpqjQ1B"
+        ],
+        "ratingCount": 358,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Stanley Park Pavilion",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-602-3088",
+        "address": "610 Pipeline Rd, Vancouver, BC V6G 1Z4, Canada",
+        "types": [
+            "Event venue",
+            "Banquet hall",
+            "Wedding venue"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 5,
+                "2": 3,
+                "3": 18,
+                "4": 98,
+                "5": 235
+            }
+        }
+    },
+    {
+        "placeId": "ChIJe_ROYXdxhlQRYYQ3bU2m_tE",
+        "website": "http://www.gastown.org/",
+        "index": 32,
+        "utcOffset": -420,
+        "longitude": -123.106687,
+        "latitude": 49.282808,
+        "rating": null,
+        "excerpt": "Lively Gastown is known for its whistling Steam Clock and mix of souvenir shops, indie art galleries and decor stores in Victorian buildings. A trendy food and drink scene includes chic cocktail lounges and restaurants serving everything from gourmet sandwiches to local seafood. Hip eateries also dot the neighboring Downtown Eastside area, while the up-and-coming Railtown district is home to edgy fashion studios.",
+        "detail_description": "Gastown, located in Vancouver, is a vibrant neighborhood known for its iconic Steam Clock and array of souvenir shops, art galleries, and Victorian-style buildings. The area boasts a trendy food and drink scene with chic cocktail lounges and diverse restaurants offering gourmet sandwiches and local seafood. Nearby districts like Downtown Eastside and Railtown also offer unique dining experiences and edgy fashion studios.",
+        "imageKeys": [
+            "RKS9hUr7djN2AXHcmpfu71K3lptog3Ui",
+            "vKjEvtIP00A01C6Hpe8feJmq9qFYueEH",
+            "UDcxIhgFOuKH4MSpBHYxfFBLJRxXseA0",
+            "2zVT0JjoX8WGLStSm0UZUzRPHIN7OTYb",
+            "gv6gyd8Udx6HFIkulZztPtUGmYhVyN4k"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Gastown",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Vancouver, BC, Canada",
+        "types": [
+            "Neighborhoods"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJPYvlUnZlhlQRAr1xzquQE14",
+        "website": null,
+        "index": 33,
+        "utcOffset": -420,
+        "longitude": -123.081458,
+        "latitude": 49.38014,
+        "rating": 4.5,
+        "excerpt": "Known for its eponymous ski resort, this 4,039-foot peak also features summer hiking & sports.",
+        "detail_description": "Grouse Mountain, a 4,039-foot peak near Vancouver, offers a variety of activities throughout the year. In the summer, visitors can enjoy hiking and sports while taking in the natural beauty of the area. The mountain features attractions such as the iconic Red Skyride, Eye of the Wind, Wildlife Refuge, Theatre in the Sky, dining venues, and zip lining. During Christmas time, visitors can experience festive fun at the Peak of Christmas.",
+        "imageKeys": [
+            "4zZzYb6i3JLl8kpMNTXvDAtQtHuwwJPc",
+            "iSaJOZ8O6nldla8sluOxEnnoppQg5dfM",
+            "z7EOPtu7evRPzJFLNAtQIuD7Gtu8ZQXr",
+            "v7WmeHE0HaxRNHKFfiT8Co8ZA693gtEp",
+            "RicdwmDOxqV4MnzX1sKgU8dBQYswRJGn"
+        ],
+        "ratingCount": 795,
+        "openingPeriods": null,
+        "name": "Grouse Mountain",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "North Vancouver, BC V7R 4P4, Canada",
+        "types": [
+            "Mountain peak"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 44,
+                "2": 11,
+                "3": 28,
+                "4": 122,
+                "5": 594
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ1eC-_HxxhlQRuxiCkf1NQPk",
+        "website": "https://www.bcplace.com/",
+        "index": 34,
+        "utcOffset": -420,
+        "longitude": -123.111999,
+        "latitude": 49.27675,
+        "rating": 4.4,
+        "excerpt": "Stadium with a retractable roof & over 50,000 seats for events plus Major League Soccer & football.",
+        "detail_description": "BC Place is a renowned stadium in Vancouver with a retractable roof and over 50,000 seats, making it an ideal venue for various events including Major League Soccer and football. Beyond sports, the iconic dome serves as a dynamic stage for live music events, offering an immersive acoustic experience for music enthusiasts. Hosting legendary acts like The Rolling Stones and U2, BC Place has become a versatile destination for memorable concerts.",
+        "imageKeys": [
+            "gpuFEzRILFM6fKFPkxRO4n4NH55RaV6H",
+            "tgLBvgqQXfHNBde2AY4KO6HK9PaLJmDg",
+            "ECLI5nuuyXM1zf6Ejci4VaXdDMKjVls5",
+            "ii7oBDlpA9mtYERyZkv9TzF9jGKR4Bdb",
+            "8UPyiP8DUTukbKCbc8NaWaaKB5A2E0c3"
+        ],
+        "ratingCount": 12949,
+        "openingPeriods": null,
+        "name": "BC Place",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-669-2300",
+        "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8, Canada",
+        "types": [
+            "Stadium",
+            "Sights & Landmarks",
+            "Arena",
+            "Event venue",
+            "Live music venue",
+            "Arenas & Stadiums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 289,
+                "2": 225,
+                "3": 986,
+                "4": 3429,
+                "5": 8073
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ33omHyRyhlQRdJcxrjLKxeM",
+        "website": "http://www.prospectpoint.com/",
+        "index": 35,
+        "utcOffset": -420,
+        "longitude": -123.142364,
+        "latitude": 49.313578,
+        "rating": 4.3,
+        "excerpt": "Casual restaurant & deck in Stanley Park with bay views, area-sourced Canadian grub & craft beer.",
+        "detail_description": "Prospect Point Cafe is a laid-back eatery and outdoor deck located in Stanley Park, offering stunning views of the bay. The menu features locally sourced Canadian dishes and a selection of craft beers. Visitors can also explore nearby attractions such as the First Nations totem poles, Hollow Tree, and Brockton Point Lighthouse. The cafe provides a convenient pit stop for park explorers looking to grab a coffee or snack while taking in the scenic surroundings.",
+        "imageKeys": [
+            "JSuKBVpHlr2XFsKbIjEpQvWgQs2B7ZAL",
+            "YMLHXQ1Ym3Si3NZhq4oSUMRr3q7954o0",
+            "7pWsAQQs6zJZGgNAe0epiTAgfiz4DO6G",
+            "TdkZjiXQRIIsJ3lyzY0VxylfH8gPT4XS",
+            "o9sTqdAPbQ5wGRtdSWRNnkDlpVBUv6gq"
+        ],
+        "ratingCount": 1276,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Prospect Point",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 604-669-2737",
+        "address": "5601 Stanley Park Dr, Vancouver, BC V6G 3E2, Canada",
+        "types": [
+            "Cafe",
+            "Coffee shop",
+            "Gift shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 68,
+                "2": 39,
+                "3": 97,
+                "4": 307,
+                "5": 765
+            }
+        }
+    },
+    {
+        "placeId": "ChIJcUir1MxzhlQRBUXcDCRBgoI",
+        "website": "https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=120",
+        "index": 36,
+        "utcOffset": -420,
+        "longitude": -123.14355,
+        "latitude": 49.277288,
+        "rating": 4.6,
+        "excerpt": "Park with water & skyline views, plus the Museum of Vancouver, a maritime museum & an observatory.",
+        "detail_description": "Nestled in the vibrant Kitsilano neighborhood, Vanier Park is a picturesque destination that offers breathtaking views of both the ocean and Vancouver's skyline. This charming park is not just about stunning scenery; it’s also home to several cultural gems including the Museum of Vancouver, the H.R. MacMillan Space Sciences Centre, and the Vancouver Maritime Museum. Visitors can easily stroll between these attractions thanks to the park's flat terrain and accessible pathways.",
+        "imageKeys": [
+            "ucTeaC7rMdGdoIQ5bOsIaBcUC3hmVunN",
+            "6OxfCDANhzZThJNmjeHZfcoB5mWxtIky",
+            "xFGYhzRK8oKawnFcFuj0lnyzuvC6ZF8D",
+            "LxZzReuFx82AhM0mTAeg5tzoizCZsCtC",
+            "12XuYCSLGzYsuYc2l022Nf7ziJ6yfWRl"
+        ],
+        "ratingCount": 2007,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Vanier Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-873-7000",
+        "address": "1000 Chestnut St, Vancouver, BC V6J 3J9, Canada",
+        "types": [
+            "Park",
+            "Nature & Parks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 10,
+                "2": 15,
+                "3": 110,
+                "4": 541,
+                "5": 1328
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ09HC74FxhlQRHyXyCAa8AJQ",
+        "website": "http://www.billreidgallery.ca/",
+        "index": 37,
+        "utcOffset": -420,
+        "longitude": -123.119338,
+        "latitude": 49.28447,
+        "rating": 4.7,
+        "excerpt": "Space that exhibits sculptures, carvings & more by Bill Reid & other Northwest Coast artists.",
+        "detail_description": "Nestled in the vibrant heart of downtown Vancouver, the Bill Reid Gallery of Northwest Coast Art is a must-visit for art enthusiasts and cultural explorers alike. Opened in 2008, this gallery pays homage to the legendary Bill Reid, a master Haida artist whose remarkable sculptures and carvings have left an indelible mark on Canadian art.",
+        "imageKeys": [
+            "2W4vJcbjO0KYtPMjhjB20CvV6bDpaMOv",
+            "yQaydMOdKDwDVS11cjiN3cS42U4OzIvl",
+            "3i1J1OiGxkyK5HihrffmyJBvZ2YBkjsl",
+            "UQJUJHui2LWqKpWbo97X2UKKxn4ho4LY",
+            "GeAYi0GsEE0i5ItkEpP6kXrpFpNHpbh6"
+        ],
+        "ratingCount": 608,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Bill Reid Gallery of Northwest Coast Art",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-682-3455",
+        "address": "639 Hornby St, Vancouver, BC V6C 2G3, Canada",
+        "types": [
+            "Art gallery",
+            "Museums",
+            "Non-profit organization"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 2,
+                "3": 30,
+                "4": 111,
+                "5": 464
+            }
+        }
+    },
+    {
+        "placeId": "ChIJLzVSqyhyhlQRbutd4AnRhPU",
+        "website": "https://www.vancouverbiennale.com/artworks/a-maze-ing-laughter/",
+        "index": 38,
+        "utcOffset": -420,
+        "longitude": -123.14192,
+        "latitude": 49.287599,
+        "rating": 4.6,
+        "excerpt": "This outdoor work by Beijing-based artist Yue Minjun depicts 14 cheerful sculptures of himself.",
+        "detail_description": "A-maze-ing Laughter is a captivating outdoor art installation in Vancouver's English Bay, featuring 14 bronze sculptures of the artist Yue Minjun in fits of laughter. This whimsical display invites visitors to interact with the statues and capture fun-filled moments. Originally part of the Vancouver International Sculpture Biennale, this permanent exhibit offers a great photo opportunity and a chance for visitors to share joyful experiences.",
+        "imageKeys": [
+            "UQOoRQN9WTW9vaJDQvjKOgqO1KRfgHNK",
+            "hdaSW180gewI70h9i9jGsVtr3y1mIzGC",
+            "6oSy1R71ZSuBEnkpdq4IO9ofsxA3SawL",
+            "yIZzbPCdWeesxMNG8z79lW0NtHga3I2W",
+            "FVsLGCkiexr7JAAIZy1Ujl6VsRWcY7pT"
+        ],
+        "ratingCount": 744,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "A-maze-ing Laughter",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-873-7000",
+        "address": "Morton Park, 1800 Morton Ave, Vancouver, BC V6G 1V3, Canada",
+        "types": [
+            "Sculpture",
+            "Sights & Landmarks",
+            "Monuments & Statues",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 16,
+                "2": 6,
+                "3": 40,
+                "4": 112,
+                "5": 580
+            }
+        }
+    },
+    {
+        "placeId": "ChIJkcrKwIFxhlQRYMkdC78WdNY",
+        "website": "http://www.thecathedral.ca/",
+        "index": 39,
+        "utcOffset": -420,
+        "longitude": -123.120377,
+        "latitude": 49.284498,
+        "rating": 4.8,
+        "excerpt": "Built in 1894, this gothic revival church features a 100-ft. stained glass & steel bell spire.",
+        "detail_description": "Christ Church Cathedral, constructed in the late 19th century, is a stunning example of Gothic Revival architecture. The oldest church in Vancouver, it boasts a picturesque exterior resembling an English village parish church and features Douglas fir construction beneath its sandstone cladding. The interior showcases 32 stained-glass windows depicting biblical scenes against the backdrop of Vancouver landmarks.",
+        "imageKeys": [
+            "A9in5rOq5k5BcivXU4SGLfcI2scAc6Rz",
+            "QliyN7e5MqZYhFtoEnaGj64nmf2AoRyZ",
+            "yCUsL5XSmLrqTzAKttOVMuWlDsx7rxB0",
+            "JlGBM4jpuaUpmEDd5qox442UGCoSAFEK",
+            "l7jjjN5p0vDjdIDtGU4wWvO6Ogt8TWXs"
+        ],
+        "ratingCount": 1030,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "Christ Church Cathedral",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-682-3848",
+        "address": "690 Burrard St, Vancouver, BC V6C 2L1, Canada",
+        "types": [
+            "Cathedral",
+            "Sights & Landmarks",
+            "Anglican church",
+            "Church",
+            "Concert hall",
+            "Sacred & Religious Sites"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 3,
+                "3": 23,
+                "4": 151,
+                "5": 864
+            }
+        }
+    },
+    {
+        "placeId": "ChIJj1udwilyhlQR1FRRZudhLlE",
+        "website": "http://www.roeddehouse.org/",
+        "index": 40,
+        "utcOffset": -420,
+        "longitude": -123.132148,
+        "latitude": 49.286872,
+        "rating": 4.6,
+        "excerpt": "This restored, late-Victorian home with tours depicts  life at the turn of the 19th century.",
+        "detail_description": "Located in the historic West End neighborhood of Vancouver, Roedde House Museum is a beautifully restored late-Victorian home that offers guided tours depicting life at the turn of the 19th century. The museum showcases over 2,700 artifacts including furniture and clothing, some of which belonged to the Roedde family. With its eleven rooms faithfully restored to reflect the lifestyle of a middle-class immigrant family, visitors can experience the ambiance of early 20th-century Canada.",
+        "imageKeys": [
+            "HXeb9JfIcGjOJbEJeMjUQifAEggsQIVA",
+            "g5tURCoKQchGzfU1OrLOkbQwyA6OTujV",
+            "w07U7LO4MP76JG6vJvb3KmiqBmnrZHEB",
+            "sGQb9DZa5nbvz3BwhfKB2vMddGsZzxkv",
+            "S0g5YSn0k3IDkKYPtsNfPvZUlb3IJomI"
+        ],
+        "ratingCount": 315,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "Roedde House Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-684-7040",
+        "address": "1415 Barclay St, Vancouver, BC V6E 1H6, Canada",
+        "types": [
+            "Local history museum",
+            "Museums",
+            "History Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 5,
+                "3": 20,
+                "4": 64,
+                "5": 225
+            }
+        }
+    },
+    {
+        "placeId": "ChIJF6P_c81zhlQRus-bZBnQ9nQ",
+        "website": null,
+        "index": 41,
+        "utcOffset": -420,
+        "longitude": -123.13684,
+        "latitude": 49.275569,
+        "rating": 4.7,
+        "excerpt": "1930s art deco, steel truss road bridge on 4 high piers, with views of the docks & Granville Island.",
+        "detail_description": "The Burrard Street Bridge, a stunning example of 1930s art deco architecture, stands proudly over False Creek on four impressive high piers. Named after the nearby Burrard Inlet—honoring Sir Harry Burrard-Neale—the bridge serves as a vital connection to Kitsilano and various attractions like the Vancouver Museum and H.R. MacMillan Space Centre.",
+        "imageKeys": [
+            "znAb7GFrTlCIliIGBMQfWtGvNnI4auzW",
+            "AYjncoaAYR00Z2YYfcRRj1aORmXV8VgB",
+            "AlGWKXt3vE8YYhVCOrgHTQ2Ydr7gk4WO",
+            "a5tse9pyWhC5wdaRbBaXjoOG7OtBIATZ",
+            "g05aAFaya0xh79gj6Yae2jdwx0iB6J0D"
+        ],
+        "ratingCount": 325,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Burrard Street Bridge",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Burrard Bridge, Vancouver, BC, Canada",
+        "types": [
+            "Bridge",
+            "Sights & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 0,
+                "3": 18,
+                "4": 62,
+                "5": 243
+            }
+        }
+    },
+    {
+        "placeId": "ChIJcxJ3jIlxhlQRi5oOMHxmFPY",
+        "website": "http://stanleyparkecology.ca/education/nature-house/",
+        "index": 42,
+        "utcOffset": -420,
+        "longitude": -123.137914,
+        "latitude": 49.294407,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "pZqKYLHnDOJ0OyQEWgZqRIwgLq4nAjbv",
+            "wOGLz3lQrlItSmsEjBAHKguV0NC4g3nn",
+            "vBkJ9RosCU3Afp5bE7Ob06nyvlWVlogs",
+            "sYN5il1kt1BYOO0dUirF4VHuDX9AgtGV",
+            "fS5puF27p4s93KGtidvsVMvX0d6XDeeF"
+        ],
+        "ratingCount": 243,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Stanley Park Ecology Nature House on Lost Lagoon",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-257-8544",
+        "address": "712 Lost Lagoon Path, Vancouver, BC V6G 1Z4, Canada",
+        "types": [
+            "Non-profit organization",
+            "Museums",
+            "Gift shop",
+            "Park",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 0,
+                "3": 6,
+                "4": 54,
+                "5": 182
+            }
+        }
+    },
+    {
+        "placeId": "ChIJSd7cANJvhlQRXg8TheyzUPM",
+        "website": "https://www.capbridge.com/",
+        "index": 43,
+        "utcOffset": -420,
+        "longitude": -123.114924,
+        "latitude": 49.342861,
+        "rating": 4.6,
+        "excerpt": "Built in 1889, this 137m-long treetop bridge offers scenic views of the forest below.",
+        "detail_description": "Nestled in the stunning northern Vancouver, Capilano Suspension Bridge Park has been a captivating attraction since its establishment in 1889. The park boasts a 137m-long treetop bridge that offers breathtaking views of the lush forest below. Visitors can explore the entire park, including the Cliffwalk, Treetops Adventure, Story Centre, and KiaPalano for an array of thrilling experiences. Additionally, guided tours led by knowledgeable staff provide unique insights into the park's wonders.",
+        "imageKeys": [
+            "9NJiQwWztwGDaFA2yBZLbna44FjL0h0g",
+            "DjEyTjSORFgifC5pJJ0lrQv7ggsTikjA",
+            "ksnag6AIPwvxVquT5k8YfsfMjlX0OEtO",
+            "bZqSMg9NmPPAHPGbXC1XeTAOT82kUKMS",
+            "qE66Ezj9lA35aWwCrgkIR2qmO3oIVdZ8"
+        ],
+        "ratingCount": 34080,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Capilano Suspension Bridge Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-985-7474",
+        "address": "3735 Capilano Rd, North Vancouver, BC V7R 4J1, Canada",
+        "types": [
+            "Nature & Parks",
+            "Bridges",
+            "Parks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 797,
+                "2": 640,
+                "3": 1842,
+                "4": 6167,
+                "5": 25015
+            }
+        }
+    },
+    {
+        "placeId": "ChIJNz7rZoVvhlQR9kZL6IxEY00",
+        "website": "https://www.grousemountain.com/",
+        "index": 44,
+        "utcOffset": -420,
+        "longitude": -123.08142,
+        "latitude": 49.37721,
+        "rating": 4.6,
+        "excerpt": "1,200-metre mountain offering activities such as skiing & hiking plus sweeping views of Vancouver.",
+        "detail_description": "Grouse Mountain, a 1,200-metre peak located just 15 minutes north of downtown Vancouver, is a popular year-round destination offering various outdoor activities. In the winter, visitors can enjoy skiing and snowshoeing on the mountain's well-groomed trails. The Munday Alpine Snowshoe Park features four trails suitable for both beginners and intermediates, with stunning views of the surrounding landscape.",
+        "imageKeys": [
+            "KQOgVrIjLIEwgz8zlOzOvoj2DYKjbqS0",
+            "w2xCQmwje2PWwBKONmvf9Z7vg3ZAyoH1",
+            "ytiz0TZ5emWQWd9ec3kJ1xopPgzCBYr1",
+            "0AWq4jgTbWgBbRGiO9Ag50d9FesAD56o",
+            "IJrFS3Y0xlpQ5B6HePLDgYOaEj1qsYOW"
+        ],
+        "ratingCount": 15089,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "Grouse Mountain",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-980-9311",
+        "address": "6400 Nancy Greene Way, North Vancouver, BC V7R 4K9, Canada",
+        "types": [
+            "Ski resort",
+            "Nature & Parks",
+            "Hiking area",
+            "Ice skating rink",
+            "Wedding venue",
+            "Mountains"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 329,
+                "2": 208,
+                "3": 715,
+                "4": 2895,
+                "5": 11040
+            }
+        }
+    },
+    {
+        "placeId": "ChIJs2hUjUVvhlQR56Smx3YJpnM",
+        "website": "https://metrovancouver.org/services/regional-parks/grouse-grind",
+        "index": 45,
+        "utcOffset": -420,
+        "longitude": -123.098423,
+        "latitude": 49.371237,
+        "rating": 4.7,
+        "excerpt": "A 2.9-km trail with some 2,830 steps leading to Grouse Mountain's peak.",
+        "detail_description": null,
+        "imageKeys": [
+            "6eCacbw0fFTbzpAWzC52wjsV0f7ZyC7w",
+            "GtBwqrWyVDhATfXnfGUccbaBPg7T062y",
+            "Hb0iPxiPzb1VgA78oAyFVSxvgx9kg6xA",
+            "QAFtsTpxUvqMCuNDyLiqsDYSnxYs15dr",
+            "jYA0IjzAlZbMaC2IKSAeBbTW7HSEJVz8"
+        ],
+        "ratingCount": 1596,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "name": "Grouse Grind Trail",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-224-5739",
+        "address": "6400 Nancy Greene Way, North Vancouver, BC V7R 4W1, Canada",
+        "types": [
+            "Hiking area",
+            "Outdoor Activities",
+            "Hiking Trails"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 14,
+                "2": 10,
+                "3": 60,
+                "4": 241,
+                "5": 1279
+            }
+        }
+    },
+    {
+        "placeId": "ChIJL9H1UcdvhlQRXVbNJmV0ndg",
+        "website": "https://www.pac.dfo-mpo.gc.ca/sep-pmvs/hatcheries-ecloseries/capilano-eng.html",
+        "index": 46,
+        "utcOffset": -420,
+        "longitude": -123.110102,
+        "latitude": 49.356527,
+        "rating": 4.6,
+        "excerpt": "Set on the Capilano River, this hatchery features jumping salmon, hiking trails & a picnic area.",
+        "detail_description": "Located on the Capilano River, Capilano River Hatchery offers a chance to witness salmon leaping up the fish ladder and explore nearby hiking trails. The facility is free to enter and features informative posters about native salmon species and their life cycle. It's a great place to learn about Canada's salmon and observe them up close. Additionally, visitors can enjoy a picnic area, clean facilities, wheelchair accessibility, and ample parking.",
+        "imageKeys": [
+            "SnE0hG7EUwsICqGunYecxlQGqoNT4e9x",
+            "OkxCsgqkCyk3hxhdQ3nz5QtwbzCH7GBt",
+            "qdFm5spaIrfpqoIy5phnXmcy4ho5YggY",
+            "OXDPYXLhUTzACX0akHGK5lpAeJLIw5b6",
+            "G4PNCe5UL3CHOoLjme8CT5JCKwJ6syHI"
+        ],
+        "ratingCount": 1608,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Capilano River Hatchery",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-666-1790",
+        "address": "4500 Capilano Park Rd, North Vancouver, BC V7R 4L3, Canada",
+        "types": [
+            "Fish farm",
+            "Nature & Parks",
+            "Forests",
+            "Nature & Wildlife Areas",
+            "Farms"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 7,
+                "2": 14,
+                "3": 95,
+                "4": 376,
+                "5": 1126
+            }
+        }
+    },
+    {
+        "placeId": "ChIJI1qbd75vhlQRUKw23p-8iPQ",
+        "website": "http://www.metrovancouver.org/services/water/sources-supply/watersheds-reservoirs/Pages/default.aspx",
+        "index": 47,
+        "utcOffset": -420,
+        "longitude": -123.11082,
+        "latitude": 49.360282,
+        "rating": 4.7,
+        "excerpt": "Long-running dam with a 200-ft. spillway & hatchery in a verdant setting with trails & vistas.",
+        "detail_description": "Cleveland Dam, located in North Vancouver, is a long-standing structure featuring a 200-ft. spillway and an adjacent hatchery. Surrounded by lush greenery, the dam offers picturesque trails and stunning vistas of the Sister Peaks of the Lion Mountain. Visitors can enjoy leisurely walks or more challenging hikes through the forest trails, which provide an immersive experience in nature. The area is perfect for photography and offers opportunities for picnics amidst breathtaking views.",
+        "imageKeys": [
+            "KKrWpXz0jrObiuXvGT2gTLl6WHX0eumn",
+            "i1itmz3JwtNeAe9vywTimKyMQftyaJCL",
+            "xqjwaJPX4LZiBemwxhMNAOx7lLr6Ob7o",
+            "m3zQoXbDWDBgkBBztuQ9ZPB44IUjpbj9",
+            "b6DDZoHsNOTWh3kcZ2hFR8broXSfvlgm"
+        ],
+        "ratingCount": 3328,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Cleveland Dam",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 604-432-6200",
+        "address": "North Vancouver, BC V7S 1A5, Canada",
+        "types": [
+            "Nature & Parks",
+            "Hydroelectric power plant",
+            "Park",
+            "Scenic spot",
+            "Dams"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 18,
+                "2": 14,
+                "3": 115,
+                "4": 610,
+                "5": 2576
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ9-boVK57hlQREBFD4OyKc0s",
+        "website": null,
+        "index": 48,
+        "utcOffset": -420,
+        "longitude": -122.936672,
+        "latitude": 49.333826,
+        "rating": 4.6,
+        "excerpt": "Serene hiking spot with waterfalls & moderate trails, plus panoramic water views.",
+        "detail_description": "Quarry Rock is a popular hiking spot in Deep Cove, offering moderate trails with stunning water views and lush pine forest scenery. The trail features steep steps at the start but mostly consists of rolling hills, making it suitable for hikers of various fitness levels. It's recommended to visit early to avoid crowds and enjoy the panoramic views of the cove. The hike takes about 40-45 minutes at a leisurely pace and is ideal for families, dog walkers, and even senior citizens.",
+        "imageKeys": [
+            "VjOjJeTaMYasCtzyzP6k8oWSZvmS7t2s",
+            "pssIOoVMtYIb8szM6ccmNUMkYxRVjTUM",
+            "DpgqRTh0NPOBzQThkfIlXbQHfkQdeugT",
+            "IKQidlJHVNAlXj415McJtC3RgxTfGFp6",
+            "R4XXmF40Gw41jIvMfcQDdSuC4Nrc3adw"
+        ],
+        "ratingCount": 1122,
+        "openingPeriods": null,
+        "name": "Quarry Rock",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Baden Powell Trail, North Vancouver, BC V7G 2T6, Canada",
+        "types": [
+            "Hiking area",
+            "Outdoor Activities",
+            "Quarry",
+            "Hiking Trails"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 23,
+                "2": 13,
+                "3": 44,
+                "4": 233,
+                "5": 812
+            }
+        }
+    },
+    {
+        "placeId": "ChIJYRQV-FZjhlQRiq8VNQ_oRiM",
+        "website": null,
+        "index": 49,
+        "utcOffset": -420,
+        "longitude": -122.944444,
+        "latitude": 49.393333,
+        "rating": 4.4,
+        "excerpt": "Mountain for wide-ranging activities like skiing & snowboarding as well as biking, hiking & camping.",
+        "detail_description": "Mount Seymour, located just a short drive from downtown Vancouver, is a popular destination for a variety of outdoor activities. In the winter, it's known for skiing and snowboarding, while in the summer, it offers hiking and camping opportunities. The area features scenic trails that pass by lakes and old-growth forests with historical significance. For those new to snowshoeing, Mount Seymour offers beginner-friendly trails. More experienced snowshoers can tackle challenging routes with rewarding views at the first peak.",
+        "imageKeys": [
+            "aIkkFa9iqUXP4r9wYrsN9nEGlZMjHNAw",
+            "BCO1TX63oJiE8c0FFAC0Pn39Y9eJOGoo",
+            "QTf5lrGfrawYdLhZvEjmHARZTHOQpeLY",
+            "63XzBjsuofFqnaUcg5IwOwPdgd3FuE1P"
+        ],
+        "ratingCount": 396,
+        "openingPeriods": null,
+        "name": "Mount Seymour",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "North Vancouver, BC V7G 2S4, Canada",
+        "types": [
+            "Mountain peak",
+            "Outdoor Activities",
+            "Mountains",
+            "Ski & Snowboard Areas"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 33,
+                "2": 7,
+                "3": 22,
+                "4": 56,
+                "5": 279
+            }
+        }
+    },
+    {
+        "placeId": "ChIJUaTa31d7hlQRdoGd5ncr5j8",
+        "website": "https://bcparks.ca/mount-seymour-park/",
+        "index": 50,
+        "utcOffset": -420,
+        "longitude": -122.924826,
+        "latitude": 49.397396,
+        "rating": 4.6,
+        "excerpt": "Large park featuring hiking & biking trails with scenic views, plus several lakes & skiing areas.",
+        "detail_description": "Mount Seymour Park is a large provincial park offering a variety of outdoor activities for nature enthusiasts. The park features numerous hiking and biking trails that provide stunning scenic views, as well as several lakes and skiing areas. Visitors can explore 52 diverse trails suitable for hiking, birding, and snowshoeing. Additionally, the Mt. Seymour Ski Resort within the park offers opportunities for winter sports such as snowshoeing, skiing, snowboarding, and tubing.",
+        "imageKeys": [
+            "8V279kxRFK9OgWzgPRJJ36ZKlbfOq9hb",
+            "iOX5QxtW2VfWhSlKIp78oONViPe1vACQ",
+            "el8Gqt65EK26tCMaUCm0v5z8BHaqeYZp"
+        ],
+        "ratingCount": 1513,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Mount Seymour Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(800) 689-9025",
+        "address": "Mt Seymour Rd, North Vancouver, BC V7G 1L3, Canada",
+        "types": [
+            "Park",
+            "Nature & Parks",
+            "State Parks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 17,
+                "2": 7,
+                "3": 52,
+                "4": 372,
+                "5": 1065
+            }
+        }
+    }
+]

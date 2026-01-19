@@ -1,0 +1,1355 @@
+{
+  "processing_stats": {
+    "total_urls_scraped": 3,
+    "total_places_found": 42,
+    "places_after_quality_filter": 42,
+    "places_after_ai_validation": 30,
+    "places_after_trimming": 28,
+    "total_playlists_created": 2,
+    "total_photos_simulated": 84,
+    "api_calls": {
+      "google_places_details": 39,
+      "openai_validation": 1,
+      "openai_titles": 2
+    }
+  },
+  "estimated_costs": {
+    "google_places_details_calls": 39,
+    "estimated_cost_places_api": 0.663,
+    "estimated_photos_to_download": 84,
+    "estimated_cost_photos_api": 0.588,
+    "openai_calls": 3,
+    "total_estimated_cost_usd": 1.257
+  },
+  "sample_playlist_structure": {
+    "list_id": "5873696487",
+    "title": "Beaches in Mumbai",
+    "description": "Discover amazing beaches in Mumbai with this curated collection of must-visit places.",
+    "city": "Mumbai",
+    "city_id": "Mumbai",
+    "category": "Travel",
+    "source": "wanderlog",
+    "subtype": "natural",
+    "slug": "beaches-in-mumbai",
+    "source_urls": [],
+    "created_ts": 1758736964,
+    "imageUrl": "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsNew_images/5873696487/1.jpg",
+    "items": [
+      {
+        "_id": "ChIJ_____zva5zsRlaXr4rPfx-Y",
+        "index": 1,
+        "id": "ChIJ_____zva5zsRlaXr4rPfx-Y",
+        "name": "Uran Beach",
+        "placeId": "ChIJ_____zva5zsRlaXr4rPfx-Y",
+        "description": null,
+        "generalDescription": "",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Uran Beach, VW8F+H48, Kathe Aali, Nagaon, Uran, Navi Mumbai, Maharashtra 400702, India",
+        "latitude": 18.866417,
+        "longitude": 72.922816,
+        "rating": 4.1,
+        "numRatings": 3514,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "wgeQeRixFfnJsBuPcxFrGFLqTAtxSZSl",
+          "aUXpeuRrfN9TQKIP1NwHUokojHnripFA"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Visited Uran Beach on April 22 during the peak summer season for a relaxing day with friends—and it turned out to be a great experience! Rated 4.5/5 stars.\n\nThe beach was clean, peaceful, and not crowded, which made it perfect for swimming and relaxing. We swam from 1 PM to 6 PM, and the changing tide levels throughout the day added to the experience. Around 1 PM, the water was shallow and far from the rocks, but by 5–6 PM, the waves had risen and started hitting the stones at the edge of the beach. Sitting on those rocks and feeling the waves crash against me was just an amazing feeling.\n\nJust a heads-up—the water is extremely salty. I had a bit of discomfort in my eyes, and even got a slight ear infection, but it’s all fine now after a doctor visit.\n\nWe carried biryani, had a mini picnic in the evening, and responsibly cleaned the area before leaving. There were a few local food stalls nearby too.\n\nIt’s a great spot for photography, family outings, or just peace of mind.\n\nTips for first-time visitors:\n\nAvoid going deep if you don’t know how to swim.\n\nCarry your own food and water—but please clean up afterward.\n\nBest time to visit is early morning or late afternoon to avoid harsh heat.\n\nThe tide level rises in the evening, so plan your swim time accordingly.\n\nDon’t forget sunscreen and sunglasses!",
+            "author_name": "Shravan Mandal",
+            "relative_time_description": "4 months ago",
+            "time": 1747233716,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Relaxing and peaceful destination with clean shores and a serene atmosphere. The best time to visit is in the morning for a calm and refreshing experience or in the evening to witness a breathtaking sunset. The soothing waves and fresh sea breeze make it a perfect spot to unwind and enjoy nature.",
+            "author_name": "Prathamesh Chavan",
+            "relative_time_description": "6 months ago",
+            "time": 1742025773,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "It's a very nice and decent place\n\nCool weather and Food stalls are available\n\nAnd there is Helicopter 🚁 land stand also available\n\nBeach is very Clean and Good 👍😊",
+            "author_name": "Ram vadla",
+            "relative_time_description": "5 months ago",
+            "time": 1743398519,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ_____zva5zsRlaXr4rPfx-Y/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ_____zva5zsRlaXr4rPfx-Y/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ_____zva5zsRlaXr4rPfx-Y/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJA2jKWL-z5zsRplEF3q4lpBg",
+        "index": 2,
+        "id": "ChIJA2jKWL-z5zsRplEF3q4lpBg",
+        "name": "Gorai Beach",
+        "placeId": "ChIJA2jKWL-z5zsRplEF3q4lpBg",
+        "description": "Extensive sand beach & picnic area with services, a popular day-trip destination for Mumbaikars.",
+        "generalDescription": "Gorai Beach, nestled in the Gorai creek near Essel World, is a popular day-trip destination for locals. Known for its cleanliness and serenity, it offers a unique blend of calmness and beauty along the Arabian Sea. The beach boasts numerous food shacks, street food stalls, and resorts with beach houses. Adventure enthusiasts can indulge in camel rides and boat rides while others can enjoy water sports or simply relax amidst tall coconut trees.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Gorai Beach, Mumbai, Maharashtra 400091, India",
+        "latitude": 19.241955,
+        "longitude": 72.780827,
+        "rating": 4.2,
+        "numRatings": 6236,
+        "tripadvisorRating": 3.5,
+        "tripadvisorNumRatings": 178,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "XNOspwn7qfXQ7lvsQDWhOSRh1CE8pTOe",
+          "xkHeDXC5wewVTV2OsHbDz5cW8oOkAwyR",
+          "uNI90Qwnvj2Jtevo4ckp7LKKmtR4Vhfs"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "The Beach is nearby from Borivali West\nThere are 2 ways to go this place\nBy Road from Mira Bhayander and by ferry\n\nIn ferry Only two wheeler bikes are allowed\nTotal costing for bike in ferry is rs 5/-\nTicket at jetty per person is rs 20/- each\n\nOn the beach there are now various activities to be like\nAtv ride\nHorse ride\nBanana boat\nJetsi\n\nWe took the atv ride which costed us around 150/-\n\nFood stalls are available on the beach\nNo parking issues here as the only problem you will face the entrance of Gorai is narrow and most of the cars gets stuck due to traffic\n\nWashroom is not there on beach\nYou can go to restaurant or resorts as they provide washroom facilities\n\nFor sunset this beach is good to enjoy and chill",
+            "author_name": "Reynation7",
+            "relative_time_description": "6 months ago",
+            "time": 1742807323,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Gorai Beach is decent if you're looking for a quick escape from city life. It’s relatively cleaner than some other Mumbai beaches, but weekends can get quite crowded. Best to go on a weekday. The horse rides and ATV bikes add some fun for kids. It could be better maintained, but overall, a good experience.",
+            "author_name": "Yogesh Bhende",
+            "relative_time_description": "4 months ago",
+            "time": 1747295401,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "Crowded and chaotic with beautiful views of the sunset\nThe beach is jam packed in the evenings. Need to move away from the crowda to enjoy some solitude\n\nThe distressing part is that vehicles are allowed all the way into the beach. In low tides the cars go all the way in\n\nThe authorities are just setting up for some incident to happen.\n\nATVs are all over place. Kids cannot be left alone\n\nOn top of all these its a mess to get in and especially get out post susnet\nThe exit road is a mess due to all vehicles trying to get out. Hailing an auto becomes difficult\n\nWould not visit again\n\nWhat a mess.",
+            "author_name": "Sharad Kambale",
+            "relative_time_description": "5 months ago",
+            "time": 1744623577,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJA2jKWL-z5zsRplEF3q4lpBg/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJA2jKWL-z5zsRplEF3q4lpBg/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJA2jKWL-z5zsRplEF3q4lpBg/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJr0qVFc3O5zsR8CyROhozar8",
+        "index": 3,
+        "id": "ChIJr0qVFc3O5zsR8CyROhozar8",
+        "name": "Mahim Beach",
+        "placeId": "ChIJr0qVFc3O5zsR8CyROhozar8",
+        "description": "Mahim Beach is a beautiful beach in Mumbai, India. It is known for its clear water and stunning views of the city. Mahim Beach is a great place to relax and enjoy the scenic beauty of the beaches.",
+        "generalDescription": "Mahim Beach is a beautiful beach in Mumbai, India. It is known for its clear water and stunning views of the city. Mahim Beach is a great place to relax and enjoy the scenic beauty of the beaches.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Mahim Beach, 90, PN Kotnis Rd, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",
+        "latitude": 19.033802,
+        "longitude": 72.837978,
+        "rating": 4.0,
+        "numRatings": 912,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "QMMd863sdP4cBJg5EODW64Vz04yZDi1E",
+          "sOI99nppuR64tpvNsIgUpFnlPFXAFvsN",
+          "lYn1NtDBnXcv2dVNQOAmuRQNS3tKKLpA"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 4,
+            "text": "Ah, Mahim Beach! It’s one of the more understated beaches in Mumbai, compared to its more famous counterparts like Juhu or Marine Drive, but it has its own charm.\n\n### Mahim Beach Overview:\n- **Location**: Situated in the Mahim area, this beach offers a quiet escape from the hustle and bustle of Mumbai city. It's located near the Mahim Causeway, making it fairly accessible.\n\n- **Scenic View**: The beach offers views of the Arabian Sea, but the surrounding environment isn’t as pristine as some of the more popular beaches in Mumbai. There's a view of the Mahim Bay and the Bandra-Worli Sea Link from a distance, though it’s not as iconic as the one from the Bandra Sea Face area.\n\n- **Atmosphere**: It’s generally a quieter spot compared to other beaches. On weekdays, it’s calm, but on weekends, it can attract some locals. You’ll find people strolling, playing cricket, or simply sitting and enjoying the breeze. However, the beach isn’t the cleanest, which can be a turn-off for some visitors.\n\n- **Activities**: While Mahim Beach isn't particularly famous for water sports, you can often find people walking along the shore or kids playing. It’s more of a spot for relaxation and casual visits.\n\n- **Nearby Attractions**: The famous **Mahim Dargah** is located close to the beach, which is a popular religious site. There are also some cafes and small eateries nearby, so grabbing a bite is never a problem.\n\n### Pros:\n- **Less Crowded**: Compared to other beaches like Juhu or Marine Drive, Mahim Beach tends to be less crowded, offering a more laid-back experience.\n- **Local Vibe**: The area feels authentically Mumbai, with local vendors, small shops, and residents going about their daily lives.\n\n### Cons:\n- **Cleanliness**: The beach isn’t as well-maintained as other tourist-heavy beaches in the city. You may find some litter and debris around the shore.\n- **Water Quality**: Like many other Mumbai beaches, the water quality isn’t great for swimming. It's not the most ideal beach for water activities.\n\n### Final Thoughts:\nMahim Beach isn’t the most glamorous beach in Mumbai, but it offers a quieter, local experience. If you’re looking for a more peaceful, off-the-beaten-path location to unwind, it's a good choice. Just keep your expectations in check regarding cleanliness and amenities.",
+            "author_name": "Tasmiya Shiledar",
+            "relative_time_description": "5 months ago",
+            "time": 1744962258,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 1,
+            "text": "People have made this beach dirty. Need cleaning on daily basis.\nNot just the authority, here public is the main culprit as they don’t maintain proper discipline towards maintaining hygiene.\n\nIt’s on the will of people to improve this beach and make it more cleaner.\n\nPlease don’t litter, already it too dirty.",
+            "author_name": "Nandkishor Thorat",
+            "relative_time_description": "1 year ago",
+            "time": 1713808910,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "It's not a Beach one generally expects.\nWater over here is from nearby gutter. So don't even try to step in the water.\nHowever it is one of the best place to view sunset with Sealink in foreground.",
+            "author_name": "Nayan Sawant",
+            "relative_time_description": "1 year ago",
+            "time": 1705606717,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJr0qVFc3O5zsR8CyROhozar8/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJr0qVFc3O5zsR8CyROhozar8/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJr0qVFc3O5zsR8CyROhozar8/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJLz_M3MO15zsR34nZJZ2Uv6E",
+        "index": 4,
+        "id": "ChIJLz_M3MO15zsR34nZJZ2Uv6E",
+        "name": "Silver Beach",
+        "placeId": "ChIJLz_M3MO15zsR34nZJZ2Uv6E",
+        "description": "The Silver Beach is located in Andheri East and is one of the most popular beaches in Mumbai. It's ideal for a picnic with friends or family, and has a beautiful view of the Arabian Sea.",
+        "generalDescription": "The Silver Beach is located in Andheri East and is one of the most popular beaches in Mumbai. It's ideal for a picnic with friends or family, and has a beautiful view of the Arabian Sea.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Silver Beach, India",
+        "latitude": 19.150382,
+        "longitude": 72.788583,
+        "rating": 4.3,
+        "numRatings": 479,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "ZlnTu7r5JjgvFCrUhtVM1zQBDwnVmMuS",
+          "0gCjnDVCvcEc71q3d41QOOAeWOEIAKCT",
+          "gPGIeozFoZiqMCXjGo5zXYprPtyu5bUQ"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "This place is really soothing after 4:30 yhe best time to visit to see the sunset, less crowd",
+            "author_name": "Siddhi Oswal",
+            "relative_time_description": "8 months ago",
+            "time": 1735831169,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Very clean beach.\n\nEnjoy football and cricket in morning.",
+            "author_name": "Prashant Apraj",
+            "relative_time_description": "7 months ago",
+            "time": 1737948025,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "All time favourite entry point to the famous Juhu beach. A little less crowded than the main entrace. Right outside Novotel hotel. Head to sunenyas momos right outside the lane. Early mornings and late evening is a good time to visit. Parking is a bit difficult at times. First come first serve basis.. also chargeable at times.",
+            "author_name": "Prateek Patel",
+            "relative_time_description": "3 years ago",
+            "time": 1649740892,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJLz_M3MO15zsR34nZJZ2Uv6E/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJLz_M3MO15zsR34nZJZ2Uv6E/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJLz_M3MO15zsR34nZJZ2Uv6E/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJ16_PpMjO5zsRB53v6UWRiOY",
+        "index": 5,
+        "id": "ChIJ16_PpMjO5zsRB53v6UWRiOY",
+        "name": "Dadar Chowpatty",
+        "placeId": "ChIJ16_PpMjO5zsRB53v6UWRiOY",
+        "description": "Dadar Chowpatty, also known as Dadar Beach, is a versatile destination just a short drive from the city center of Mumbai. It offers opportunities for swimming, sunbathing, and picnicking against the backdrop of the Arabian Sea. The beach is surrounded by cultural landmarks such as the Dadar Parsi Colony and Shree Siddhivinayak Ganapati Temple.",
+        "generalDescription": "Dadar Chowpatty, also known as Dadar Beach, is a versatile destination just a short drive from the city center of Mumbai. It offers opportunities for swimming, sunbathing, and picnicking against the backdrop of the Arabian Sea. The beach is surrounded by cultural landmarks such as the Dadar Parsi Colony and Shree Siddhivinayak Ganapati Temple.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Dadar Chowpatty, 6, SKS Marg, Chandrakant Dhuru Wadi, Dadar, Mumbai, Maharashtra 400028, India",
+        "latitude": 19.026662,
+        "longitude": 72.834581,
+        "rating": 4.1,
+        "numRatings": 4646,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": 15,
+        "maxMinutesSpent": 15,
+        "imageKeys": [
+          "gyDZJEwmlukGqg0mImbxHEeTH1lyDnAR",
+          "E19XbkGaGunie7rs1RUPxQBn16rixy4l",
+          "a1caFFGcnEIR9qWSSnGm7tIjAUJQ1PG1"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "It's a perfect place for a peaceful evening. They have a whole sitting area above the beach. You can spend a good time there while enjoying the sunset and clicking photos. You can also go to the beach as well using the way besides the sitting area. It has many stalls for pav bhaji, bhelpuri and of course the obvious corn on the cob and gola.",
+            "author_name": "Sushma Mohitlal",
+            "relative_time_description": "7 months ago",
+            "time": 1739993472,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Dadar Chowpatty – Quick Review (in Simple Words):\nHow to Reach:\nJust 10 minutes walk from Dadar railway station (west side).\n\nMain Attractions:\n•\tSea view with a breeze and open sky\n•\tChaitya Bhoomi – Memorial of Dr. B.R. Ambedkar - The chief architect of the Indian Constitution and a champion of social justice and equality.\n•\tNarali Baug – A small garden nearby\n•\tWooden deck – Built in 2019, great for sea views and photos\n•\tView of Worli Sea Link – Looks beautiful, especially at sunrise and sunset\n\nThings to Know:\n•\tBeach has become very small due to construction work\n•\tNot very clean – not suitable for kids to play\n•\tBetter beach options: Girgauv Chowpatty or Juhu Beach for cleaner and bigger areas\n•\tBeware: Horses often run along the beach area — stay alert, especially with kids or elderly.",
+            "author_name": "Bhushan Bhosle",
+            "relative_time_description": "2 months ago",
+            "time": 1751050099,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "Not good beach like Juhu or Versova or Gorai or Bandra Promenade. Few food stalls only ... hardly any activities other than horse rides and carts ... The new sea deck is now available for public use ... the BR Ambekdar memorial CHAITYABHUMI is also adjacent on the beach side. Place is near to Siddhi Vinayak temple , around 2-3km...",
+            "author_name": "Raja Banerjee",
+            "relative_time_description": "5 months ago",
+            "time": 1744653169,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ16_PpMjO5zsRB53v6UWRiOY/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ16_PpMjO5zsRB53v6UWRiOY/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ16_PpMjO5zsRB53v6UWRiOY/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJR5QHNAi25zsRoFB0VsQdMq0",
+        "index": 6,
+        "id": "ChIJR5QHNAi25zsRoFB0VsQdMq0",
+        "name": "Versova Beach",
+        "placeId": "ChIJR5QHNAi25zsRoFB0VsQdMq0",
+        "description": "Versova Beach is a clean beach located in the Andheri suburb of Mumbai. The locals take it on themselves to keep the beach clean, as well as getting help from the BMC. It's an ideal place for tourists who want some peace and solitude while they're on vacation. The beach stretches for around 4 kilometers, making it easy to find a quiet spot.",
+        "generalDescription": "Versova Beach is a clean beach located in the Andheri suburb of Mumbai. The locals take it on themselves to keep the beach clean, as well as getting help from the BMC. It's an ideal place for tourists who want some peace and solitude while they're on vacation. The beach stretches for around 4 kilometers, making it easy to find a quiet spot.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Versova Beach, India",
+        "latitude": 19.140583,
+        "longitude": 72.803449,
+        "rating": 4.0,
+        "numRatings": 476,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "SmroxiNEmc7eW3jqMP7t5hJJuSdZoIFp",
+          "bn47L9G0yDZ0cgp1QGshLmvSye8L5FU8",
+          "XzecR71GHGGv4wSbD6dYYJu9gpNYac0j"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Very nice sea beach with not so much crowd. Sunset is very much beautiful here. It is a virgin beach. Spending of time in the morning and evening time is wonderful. There is a slum at the beach, and some flowing of drain water somehow disturbs the beauty of the beach.",
+            "author_name": "Sumantra Sarathi Biswas",
+            "relative_time_description": "10 months ago",
+            "time": 1730827894,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Beach is not clean , but it's ok for small walk and the view of sunset",
+            "author_name": "Vipul Solanki",
+            "relative_time_description": "4 months ago",
+            "time": 1747635944,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "One of the cleanest and quietest beaches of Mumbai. Must visit the beach, the most suitable time to visit  is in the evening the cool breezes and sound waves are no less than a therapy.",
+            "author_name": "BLUE Flies",
+            "relative_time_description": "8 months ago",
+            "time": 1736738543,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJR5QHNAi25zsRoFB0VsQdMq0/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJR5QHNAi25zsRoFB0VsQdMq0/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJR5QHNAi25zsRoFB0VsQdMq0/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJ-8A1STO05zsR58TPTjzARfI",
+        "index": 7,
+        "id": "ChIJ-8A1STO05zsR58TPTjzARfI",
+        "name": "Dana Pani Beach",
+        "placeId": "ChIJ-8A1STO05zsR58TPTjzARfI",
+        "description": null,
+        "generalDescription": "",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Dana Pani Beach, Maharashtra, India",
+        "latitude": 19.169581,
+        "longitude": 72.788399,
+        "rating": 4.3,
+        "numRatings": 2237,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "U9yV24l1WjQ5vk3EN2RF8u4y5ykOG0PK",
+          "dmrmQg2kIzcZasVAlf0WTBL8B843A4S5",
+          "BWWWiMJ2L7h1beumt3RwqWQn7mCE5TfI"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "It was a hidden beach but now has turn into a popular beach in munbaikars .\nA kilometre ahead of Aksa beach ,clean,calm and neat beach not that overcrowded and no stalls and vendors like Aksa beach .\nWeekend time you will get to see people enjoying their time with hard drinks as you go towards end of beach .\nRoads leading to this beach was beautiful but road repairs and dust storms is making it worse to drive .\nAs you enter the last road and end the curve the scenery is just like Konkan road , superb !",
+            "author_name": "Rohan Kini",
+            "relative_time_description": "4 months ago",
+            "time": 1747465271,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "Place is good and at some point clean but it's too far from the railway to travel. You can take a alternative root from uttan to Morway an then a boot. Other than that it's a good place also for couple.",
+            "author_name": "Nitant पाटोळे",
+            "relative_time_description": "6 months ago",
+            "time": 1742732000,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "One of the nicest beaches. But not that good gentry. We went on a Sunday and there were lot of people sitting on edges, drinking and shouting. Then there were so many people playing cricket and football. These drinking people were getting hurt by football and cricket balls but they were anyways sitting. We then found this place a bit away from beach where one can sit on stones and see beach from far, that was nice. The way to this beach is also nice, worth taking.",
+            "author_name": "shubhi",
+            "relative_time_description": "2 years ago",
+            "time": 1693286229,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ-8A1STO05zsR58TPTjzARfI/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ-8A1STO05zsR58TPTjzARfI/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ-8A1STO05zsR58TPTjzARfI/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJQVj8nxja5zsRLAMlD0ylzhQ",
+        "index": 8,
+        "id": "ChIJQVj8nxja5zsRLAMlD0ylzhQ",
+        "name": "Pirwadi Beach",
+        "placeId": "ChIJQVj8nxja5zsRLAMlD0ylzhQ",
+        "description": "Pirwadi Beach, located in Navi Mumbai, is a popular destination for those seeking a relaxing beach getaway. It offers opportunities for evening walks and exploration. The beach is close to spiritual centers, attracting many visitors annually. Despite being approximately 55 km from South Mumbai and 54 km from Kalyan, it's becoming one of the finest beaches in the area.",
+        "generalDescription": "Pirwadi Beach, located in Navi Mumbai, is a popular destination for those seeking a relaxing beach getaway. It offers opportunities for evening walks and exploration. The beach is close to spiritual centers, attracting many visitors annually. Despite being approximately 55 km from South Mumbai and 54 km from Kalyan, it's becoming one of the finest beaches in the area.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Pirwadi Beach, VW4F+RC9, Pirwad Rd, Pirwadi, Nagaon, Uran, Navi Mumbai, Maharashtra 400702, India",
+        "latitude": 18.857032,
+        "longitude": 72.923614,
+        "rating": 4.3,
+        "numRatings": 2061,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": 90,
+        "maxMinutesSpent": 90,
+        "imageKeys": [
+          "yGTZnRZNYE9oszXmE7jZF3n3LzFOFvRi",
+          "l25eP7sI9fhVFfMknDY9FtFpdTL0a1qE",
+          "Lw2XDlP0l9gFtTcVgWOrijVhTnl1ZRJw"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "It's a really nice place to visit. Natural beach, full of marine life, free from cityscapes. I really liked it.",
+            "author_name": "Saptarshi Neogi",
+            "relative_time_description": "6 months ago",
+            "time": 1742485991,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 2,
+            "text": "Went there on 1 June 2025. Reached by taking an auto from uran station which costs 120 rs.\nThis beach is a big disappointment, it's not actually a beach but a seashore with large rocks by the side. A dirty place with garbage all around. The place stinks from dirty water and garbage.\nIt's mostly overcrowded and you can spot drug addicts.\nI had a really unpleasant experience while taking a narrow path to the coconut tree lane. Thankfully I was with my brother. It's not a safe place where females can roam around freely so avoid going there.\nThere are no water sports activities but food options are available which can fill up your tummy.",
+            "author_name": "arti kamble",
+            "relative_time_description": "3 months ago",
+            "time": 1750476775,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Peaceful, beautiful scene and relaxing moments to be enjoyed here.",
+            "author_name": "Amjad Solkar",
+            "relative_time_description": "5 months ago",
+            "time": 1743525520,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJQVj8nxja5zsRLAMlD0ylzhQ/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJQVj8nxja5zsRLAMlD0ylzhQ/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJQVj8nxja5zsRLAMlD0ylzhQ/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJQTW-1Mu15zsRmhyOHai3Oiw",
+        "index": 9,
+        "id": "ChIJQTW-1Mu15zsRmhyOHai3Oiw",
+        "name": "Erangal Beach",
+        "placeId": "ChIJQTW-1Mu15zsRmhyOHai3Oiw",
+        "description": "Ringed by hills & paddy fields, this quaint beach is known for its sunset views & annual festival.",
+        "generalDescription": "Erangal Beach is a less visited beach in Mumbai that is known for its striking sunset views and annual festival. The beach is clean, and lined with cashew trees.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Erangal Beach, Erangal Gaon, Madh, Maharashtra 400061, India",
+        "latitude": 19.161253,
+        "longitude": 72.783966,
+        "rating": 4.2,
+        "numRatings": 284,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "rptoXKAWmy6lHxeHz2E9eAdE7E8qxMbM",
+          "9MDdA7UWGTy5MHr1DTtLcyRAuII40ZCM",
+          "XfaS86DEjYu0gIutYVFrOTpaJ2ooL2T4"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "A secluded small beach which is surprisingly empty on weekdays. Erangal beach is a hidden gem on madh Island. As soon as you enter you will be welcomed by a hoard of puppies. The beach is very clean and has bushes on the right side and houses on the left. It has two entrances and cops do visit from time to time so avoid drinking booze in the open. There are no food vendors on the beach so you have to get everything yourself. Smoke shop, alcohol shop and restaurants are situated nearby. It is better to come here on a 2 or 4 wheeled vehicle. You can either come here though madh jetty or you can come here by road through Malad. If you are looking to speand some peaceful time with you family and friends this is the place. You will see locals coming out to the beach for a walk after dinner. Do not enter the bush area after dark specially if you are with your lady as locals sit there to drink. Over all this is a good place to watch the sunset or just a couple hours at the beach.",
+            "author_name": "Satin Rana",
+            "relative_time_description": "1 year ago",
+            "time": 1711202915,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "Every second Sunday in Jan there is erangal St Bonaventure feast .\nPeace full evening less crowded\nThere is a old heartiage church name st Bonaventure. This Portuguese church was built in the 16th century and is more than five hundred years .\nThere is also omkareshwar Mahadev temple near church in Erangal beach.\nKoli people do fishing on this beach where they dry there fish.",
+            "author_name": "Karan Koli",
+            "relative_time_description": "1 year ago",
+            "time": 1705667819,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "The beach is dirty need to be clean its a good tourist place who travel in car they can take the car on the beach football is the most played game here on the beach good place just need to be cleaned up",
+            "author_name": "DHEERAJ 10",
+            "relative_time_description": "4 years ago",
+            "time": 1627282102,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJQTW-1Mu15zsRmhyOHai3Oiw/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJQTW-1Mu15zsRmhyOHai3Oiw/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJQTW-1Mu15zsRmhyOHai3Oiw/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJFQzEN8-15zsRXeJBEkLSHb0",
+        "index": 10,
+        "id": "ChIJFQzEN8-15zsRXeJBEkLSHb0",
+        "name": "Madh Island",
+        "placeId": "ChIJFQzEN8-15zsRXeJBEkLSHb0",
+        "description": "Madh Island, located in Mumbai, is a serene escape from the bustling city life. It is home to charming fisher villages and lush green farms, offering a tranquil environment just an hour's drive away from the main city. The neighborhood boasts one of the cleanest beaches in Mumbai, with its picturesque surroundings bordered by the Arabian Sea and Malad Creek. While lacking beach infrastructure and water sports facilities, it still offers shacks and small hotels for visitors to enjoy a day out at the beach.",
+        "generalDescription": "Madh Island, located in Mumbai, is a serene escape from the bustling city life. It is home to charming fisher villages and lush green farms, offering a tranquil environment just an hour's drive away from the main city. The neighborhood boasts one of the cleanest beaches in Mumbai, with its picturesque surroundings bordered by the Arabian Sea and Malad Creek. While lacking beach infrastructure and water sports facilities, it still offers shacks and small hotels for visitors to enjoy a day out at the beach.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Madh Island, 4QXQ+9MV, Christian Wada, Madh, Mumbai, Maharashtra 400061, India",
+        "latitude": 19.148491,
+        "longitude": 72.789161,
+        "rating": 4.4,
+        "numRatings": 993,
+        "tripadvisorRating": 3.6,
+        "tripadvisorNumRatings": 82,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": 120,
+        "maxMinutesSpent": 120,
+        "imageKeys": [
+          "lLdTG04Ejizk9poFdGDf8snBlJAeXVAC",
+          "8qCayyiD3yWCt0GtMqZYAFGCfpNoeDOe",
+          "aD3PgjYCnHNdxUrzP0FEiOw0evryqtoh"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "As a digital entity, I don't have personal experiences or physical interactions. However, I can provide information and insights about Madh Island based on available data and user reviews.\n\nIf you're interested in learning more about Madh Island, I can share general information about its attractions, activities, and tips for visitors. Would you like to know more about:\n\nMadh Island\n1. *Beaches and water sports*\n2. *Forts and historical landmarks*\n3. *Local culture and cuisine*\n4. *Best time to visit and accommodations*\n\nLet me know, and I'll provide you with helpful information!",
+            "author_name": "Sandeep Mane",
+            "relative_time_description": "2 months ago",
+            "time": 1752469502,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Madh is a serene and picturesque destination, surrounded by lush greenery and filled with warm, welcoming people. The food here is delightful, and the air is refreshingly clean—making it a perfect retreat for those seeking a healthy, rejuvenating experience. While traveling to Madh might require a bit of effort, the journey is more than worth it. Once you're here, you'll find yourself captivated by its tranquil environment and natural beauty, ensuring there's never a dull moment. A visit to Madh is truly a refreshing escape from the chaos of everyday life.",
+            "author_name": "Jaya Sinha",
+            "relative_time_description": "7 months ago",
+            "time": 1737921494,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 2,
+            "text": "It's very litter and dirty. Direction also not correct. I was very excited to go there, but after reaching there it was disappointed by look. But when I went further I enjoyed the beach 🏖️",
+            "author_name": "Arihant Infocomm",
+            "relative_time_description": "2 months ago",
+            "time": 1751695150,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJFQzEN8-15zsRXeJBEkLSHb0/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJFQzEN8-15zsRXeJBEkLSHb0/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJFQzEN8-15zsRXeJBEkLSHb0/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJnUPoXuLR5zsRK60mJ0-SzVo",
+        "index": 11,
+        "id": "ChIJnUPoXuLR5zsRK60mJ0-SzVo",
+        "name": "Marine Dr",
+        "placeId": "ChIJnUPoXuLR5zsRK60mJ0-SzVo",
+        "description": "3.6-km promenade along the coast of a natural bay lined with restaurants & art deco-style buildings.",
+        "generalDescription": "Marine Drive is a 3.6-km long promenade that runs along the natural bay in Mumbai, adorned with art deco-style buildings and restaurants. It is known for its stunning collection of Art Deco architecture, showcasing some of the most expensive real estate in India. The ocean-facing apartment buildings offer breathtaking views and are highly sought after, with prices reaching upwards of $1500 per square foot.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Marine Dr, India",
+        "latitude": 18.943211,
+        "longitude": 72.822998,
+        "rating": 4.6,
+        "numRatings": 10990,
+        "tripadvisorRating": 4.5,
+        "tripadvisorNumRatings": 8230,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "Los3Nwu4Whx4nOreRyu7k8LWrkU7812X",
+          "5p242qm8wbe2fHE29PHX8AlX6FDCMAxy",
+          "5mUifZiKniju2tYMCFFkLnEzsnSEpTiO",
+          "Z19Ju17KFIohljGHbeSySV2kIWhDthJ6",
+          "0wn9llvW9rRNKoGRmR6GzBpEJy4cCwTL"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Beautiful place, definitely visit. Try to go evening time and just enjoy the weather. Lovely fresh air from Arabian Sea.",
+            "author_name": "Mohammad Sabir",
+            "relative_time_description": "2 months ago",
+            "time": 1752438228,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Love this place 🤩😀...Mood fresh 🤩\nMarine drive Mumbai 🥰😘\nI like this place.\n\nSuperb view",
+            "author_name": "MONU KUMAR",
+            "relative_time_description": "2 months ago",
+            "time": 1751517921,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "I literally felt the wow thing over there! Loved the wind and hitting sounds of waves 🌊😍\n\nIf I was a local of Mumbai definitely I would visit this place at least 5 times a month. It’s beautiful and very freshy for people to come out of their routine and stress life!",
+            "author_name": "Harsh Snehalsoni",
+            "relative_time_description": "1 month ago",
+            "time": 1755617767,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJnUPoXuLR5zsRK60mJ0-SzVo/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJnUPoXuLR5zsRK60mJ0-SzVo/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJnUPoXuLR5zsRK60mJ0-SzVo/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJVwzZMD6y5zsRPwz6i-U_6Jg",
+        "index": 12,
+        "id": "ChIJVwzZMD6y5zsRPwz6i-U_6Jg",
+        "name": "Uttan Beach",
+        "placeId": "ChIJVwzZMD6y5zsRPwz6i-U_6Jg",
+        "description": "The Uttan beach is a beautiful and peaceful place that is perfect for outings with friends. However, it needs more attention to be cleaned properly, and the area can be quite busy during the weekends.",
+        "generalDescription": "The Uttan beach is a beautiful and peaceful place that is perfect for outings with friends. However, it needs more attention to be cleaned properly, and the area can be quite busy during the weekends.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Uttan Beach, Pali Chowk Rd, Dongri, Uttan, Mira Bhayandar, Maharashtra 401106, India",
+        "latitude": 19.281908,
+        "longitude": 72.783525,
+        "rating": 4.1,
+        "numRatings": 1308,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "wV6mtiYvtFfGo8XZIe5rm3ZEQb5wuiuQ",
+          "Xu1HGodkQEPPPNIt5Tg6oEvVKtKsKM1t",
+          "HwqjamZSoGyePHnUPGNNQdJjFRNzoLwJ"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Beautiful and peaceful beach around Mumbai outskirts. Must see visit place.",
+            "author_name": "Jesu Pillai",
+            "relative_time_description": "7 months ago",
+            "time": 1738326940,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "This coastal destination offers a combination of sandy shores and a bustling fisherman's hub where enthusiasts engage in the art of catching and drying various seafood treasures. The primary catch includes prawns, Bombay duck, and Pink Perch",
+            "author_name": "Wenit Melba",
+            "relative_time_description": "1 year ago",
+            "time": 1701791050,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 2,
+            "text": "The beach is ok to visit for sometime but cannot stay for long, its very dirty. Needs to be cleaned.",
+            "author_name": "Krishnendu Mondal",
+            "relative_time_description": "1 year ago",
+            "time": 1712640859,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJVwzZMD6y5zsRPwz6i-U_6Jg/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJVwzZMD6y5zsRPwz6i-U_6Jg/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJVwzZMD6y5zsRPwz6i-U_6Jg/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJs3I1gLjO5zsRkdxrkpHVZZs",
+        "index": 13,
+        "id": "ChIJs3I1gLjO5zsRkdxrkpHVZZs",
+        "name": "Dadar Beach",
+        "placeId": "ChIJs3I1gLjO5zsRkdxrkpHVZZs",
+        "description": "Dadar Beach is a popular beach in Mumbai that is known for its nightlife and beautiful sea view. It is a great place to go for a walk, relax, and enjoy the views.",
+        "generalDescription": "Dadar Beach is a popular beach in Mumbai that is known for its nightlife and beautiful sea view. It is a great place to go for a walk, relax, and enjoy the views.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Dadar Beach, Maharashtra, India",
+        "latitude": 19.02076,
+        "longitude": 72.8293,
+        "rating": 3.9,
+        "numRatings": 1489,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "A9dqGc8jUTmGPAG6aDMRBq6XSGk7mhYR",
+          "lpqiFKbnCkdPbE2RQ0evnppH0hYi2SeG",
+          "kW06wUEuslgn7Tbw8u2UuT5juGSYfU2a"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "One can get a nice view of the Bandra - Worli Sea Link from here just like the nearby sea beaches. A small beachside near the residential area adjacent to Shree Siddhivinayak Temple.\n\nThere is a Hanumanji temple that makes this beach photogenic.",
+            "author_name": "Abhigyan Sadhukhan (Jonty)",
+            "relative_time_description": "2 months ago",
+            "time": 1751614043,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Shivaji park beach Best place for visit with family and friends. Nearby garden for kids and walking cleanest beach. Food court also available on beach and horse ride. And you can see or click photos with worli bandra sea link bridge.",
+            "author_name": "joseph kappal",
+            "relative_time_description": "3 months ago",
+            "time": 1750609619,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 2,
+            "text": "it is a good beach but its quite dirty, not recommended for kids to play on this beach. even tho the view of the sealink is beautiful but nowadays its barely visible cause of the pollution",
+            "author_name": "Tanmayee Ambetkar",
+            "relative_time_description": "7 months ago",
+            "time": 1738991533,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJs3I1gLjO5zsRkdxrkpHVZZs/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJs3I1gLjO5zsRkdxrkpHVZZs/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJs3I1gLjO5zsRkdxrkpHVZZs/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJ0VkWORm05zsRGLcxnP197Oc",
+        "index": 14,
+        "id": "ChIJ0VkWORm05zsRGLcxnP197Oc",
+        "name": "Marvé Beach",
+        "placeId": "ChIJ0VkWORm05zsRGLcxnP197Oc",
+        "description": "Discover the vibrant city of Mumbai and its array of attractions, including Marvé Beach. Situated in the western suburbs near Ville Parle station, this beach is a popular family destination offering breathtaking sunsets and a variety of delectable street food such as bhelpuri, pav bhaji, vada pav, and local treats. Unlike other crowded beaches in Mumbai, Marvé Beach provides a serene environment for leisurely strolls along the shore while admiring the picturesque Arabian Sea views.",
+        "generalDescription": "Discover the vibrant city of Mumbai and its array of attractions, including Marvé Beach. Situated in the western suburbs near Ville Parle station, this beach is a popular family destination offering breathtaking sunsets and a variety of delectable street food such as bhelpuri, pav bhaji, vada pav, and local treats. Unlike other crowded beaches in Mumbai, Marvé Beach provides a serene environment for leisurely strolls along the shore while admiring the picturesque Arabian Sea views.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Marvé Beach, Malad, Malad West, Mumbai, Maharashtra 400095, India",
+        "latitude": 19.197349,
+        "longitude": 72.796764,
+        "rating": 4.1,
+        "numRatings": 1731,
+        "tripadvisorRating": 3.4,
+        "tripadvisorNumRatings": 54,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "PDlpNNmAhZAwvz1IR9tzBlqOLQor1Dao",
+          "vx0xUjrg1impv69k1cREH0XHLYqEKYIT"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Marve Beach, nestled in the western suburbs of Mumbai, offers a refreshing escape from the bustling city life. This picturesque beach, located in Malad West, is a hidden gem that attracts both locals and tourists seeking tranquility and natural beauty.\nThe beach boasts a serene atmosphere, with soft golden sands stretching along the Arabian Sea. The calm waters and gentle waves make it an ideal spot for relaxation and rejuvenation. The scenic beauty of the surrounding area, with lush greenery and charming coastal villas, adds to the overall charm of Marve Beach.\nOne of the highlights of Marve Beach is the stunning sunset. As the sun dips below the horizon, the sky is painted with vibrant hues of orange, pink, and purple, creating a breathtaking spectacle. Many visitors gather on the beach to witness this awe-inspiring natural phenomenon.\nWhile swimming is not recommended due to strong currents, visitors can enjoy other activities such as beachcombing, sunbathing, and leisurely walks along the shoreline. The beach also offers opportunities for water sports like kayaking and paddleboarding, adding an element of adventure to the experience.\nFor those seeking a more cultural experience, Marve Beach is home to a small Portuguese church, adding a touch of history to the coastal landscape. The beach is also a popular spot for photography enthusiasts, capturing the serene beauty of the surroundings.\nHowever, it's important to note that Marve Beach can get crowded during weekends and holidays. Additionally, the cleanliness of the beach can vary, so it's advisable to visit during weekdays or early mornings to enjoy a more peaceful experience.\nOverall, Marve Beach is a delightful escape from the urban chaos of Mumbai. Its serene ambiance, stunning sunsets, and natural beauty make it a perfect destination for those seeking a tranquil and rejuvenating experience.",
+            "author_name": "harshad patil",
+            "relative_time_description": "9 months ago",
+            "time": 1734019784,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "The sunset view is amazing. You can go for the views but will suggest to not go far in water as it looked deep. Also the beach is fish smelly as the fishermen's work there and also people sell fish here.",
+            "author_name": "Abhayraj Singh",
+            "relative_time_description": "4 months ago",
+            "time": 1747694609,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 2,
+            "text": "Marve Beach, not so beautiful in its surroundings, has some drawbacks in terms of cleanliness and maintenance. The stinky smell and garbage lying around are not ideal for a beach experience. The stacked rocks at one corner might not be safe for swimming. However, it offers a variety of food stalls serving both vegetarian and non-vegetarian options. There is an abundance of fishing activity, and the beach serves as a departure point for boat rides to both Essel World and Water Kingdom. Additionally, the Global Vipassana Pagoda is visible from the beach, adding to its scenic beauty.",
+            "author_name": "Vivek Chalke",
+            "relative_time_description": "2 years ago",
+            "time": 1675006502,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ0VkWORm05zsRGLcxnP197Oc/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ0VkWORm05zsRGLcxnP197Oc/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJ0VkWORm05zsRGLcxnP197Oc/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJoxpny67J5zsRqqDlOmXYZZk",
+        "index": 15,
+        "id": "ChIJoxpny67J5zsRqqDlOmXYZZk",
+        "name": "Silver Beach",
+        "placeId": "ChIJoxpny67J5zsRqqDlOmXYZZk",
+        "description": "Silver Beach, nestled in Juhu, Mumbai, is a stunning coastal retreat that offers a tranquil escape from the bustling city life. This beautiful beach stretches along the Arabian Sea and is perfect for leisurely strolls while soaking in serene views. Known for its cleanliness and peaceful atmosphere, Silver Beach attracts both locals and tourists seeking relaxation or family outings. Visitors can indulge in delicious street food like pani puri and pav bhaji while enjoying breathtaking sunsets over the horizon.",
+        "generalDescription": "Silver Beach, nestled in Juhu, Mumbai, is a stunning coastal retreat that offers a tranquil escape from the bustling city life. This beautiful beach stretches along the Arabian Sea and is perfect for leisurely strolls while soaking in serene views. Known for its cleanliness and peaceful atmosphere, Silver Beach attracts both locals and tourists seeking relaxation or family outings. Visitors can indulge in delicious street food like pani puri and pav bhaji while enjoying breathtaking sunsets over the horizon.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Silver Beach, 2, JVPD Scheme, Juhu, Mumbai, Maharashtra 400049, India",
+        "latitude": 19.115316,
+        "longitude": 72.821421,
+        "rating": 4.4,
+        "numRatings": 3312,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "SHymsgCKHM0dDs8QWF2iPJJGg4mi3Nm9",
+          "h1f3EZJY7pyyyMwCoTcgc6aHF5is6wmn",
+          "5lv8uNP5FLJCgktPaNq3dKICIOxQpSc9"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "It has one of the best beaches in mumbai. Clean friendly environment and much better view. During monsoon it can get a little dirty near the coast lines but it gets cleaned so there should be no problem faced by people. The poles reflect lights which say swach Bharat which is a great initiative to bring more cleanliness to the beach. I love how the people are also very cooperative and friendly not rude at all. Overall a good place to spend time with your date, family, friends etc. I go there daily so cheers if you find me.",
+            "author_name": "Jproskiez",
+            "relative_time_description": "4 months ago",
+            "time": 1748141150,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "A peaceful and refreshing spot!\nSilver Beach is quite a good place to relax with friends or family. The beach is clean and well-maintained, making it perfect for spending a few calm hours. You can bring your own mat, sit back, and enjoy the soothing sea breeze while watching the sunset, it's truly beautiful. Ideal for a peaceful evening away from the city noise. Highly recommended for a chill outing!",
+            "author_name": "ranjan mahanta",
+            "relative_time_description": "2 months ago",
+            "time": 1752338879,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "A perfect place to refresh your pets who love to enjoy the beach playing through dawn to  dusk. The constant roars of the arabian sea,tides, eyecatching beauty of sunrise and sunsets are pristine, the floating\nvessels far and near,beautiful architectural design across the coastline proclaim the glory and glamour of the owners since long but the silver beach never lost the essence of nature, one of the basic reasons why nature always dominates.",
+            "author_name": "Soumitra Bera",
+            "relative_time_description": "5 months ago",
+            "time": 1744860293,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJoxpny67J5zsRqqDlOmXYZZk/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJoxpny67J5zsRqqDlOmXYZZk/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJoxpny67J5zsRqqDlOmXYZZk/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJMcZJSSzP5zsRiLTrkMSOCGE",
+        "index": 16,
+        "id": "ChIJMcZJSSzP5zsRiLTrkMSOCGE",
+        "name": "Girgaon Chowpatty Beach",
+        "placeId": "ChIJMcZJSSzP5zsRiLTrkMSOCGE",
+        "description": "Mumbai Chowpatty Beach, also known as Girgaon Chowpatty, is a popular and vibrant beach located in the Girgaon area of Mumbai. It is famous for its stunning sunset views and a wide variety of delicious street food options such as bhelpuri, pav bhaji, vada pav, ice-candy, masala dosa, idli, and coconut water. The beach is lined with shacks and local vendors offering these delectable treats.",
+        "generalDescription": "Mumbai Chowpatty Beach, also known as Girgaon Chowpatty, is a popular and vibrant beach located in the Girgaon area of Mumbai. It is famous for its stunning sunset views and a wide variety of delicious street food options such as bhelpuri, pav bhaji, vada pav, ice-candy, masala dosa, idli, and coconut water. The beach is lined with shacks and local vendors offering these delectable treats.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Girgaon Chowpatty Beach, XR37+Q49, Chowpatty, Girgaon, Mumbai, Maharashtra 400007, India",
+        "latitude": 18.954408,
+        "longitude": 72.812864,
+        "rating": 4.3,
+        "numRatings": 1895,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "lOldu94gixOegIiVlR96JM1VKP4U6ghH",
+          "OWsVenFh3yG8GyRdyoJ7kVdfbTBVKE2C",
+          "GtmKvumIu8x3Csuyn3Mfj3LvzXVUwNrM"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "This is a roadside, breezy spot—perfect for enjoying the sunset and taking photos by the sea. Street food is also available along the beachside, though it's not very cheap.",
+            "author_name": "Biswanath Das",
+            "relative_time_description": "5 months ago",
+            "time": 1744120904,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Perfect place for a peaceful sea breeze and street food cravings.\nAn iconic Mumbai vibe with a view of Marine Drive lights at night.\n\nIdeal for families, couples, and solo walks",
+            "author_name": "bhautik Patel",
+            "relative_time_description": "2 months ago",
+            "time": 1751971762,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "One of the beaches in mumbai best time to visit is in evening or morning unfortunately i visited in afternoon in hot summer still the beach is clean not like before but water is still not blue which i dont think will ever be let it be near by there is food stalls which is fast food and cold drinks gola and all that stuff which i usually avoid they even offer mattresses to sit on beach and relax but the catch is you have to order something once you sit and prices of food items are costly according to the normal rates still it is fun to sit on beach eat someting and chill sounds like a date aaah but iam single🌝🤌🏻\nAnyway you can visit i recommend this place its nice and remember about the corners of the beach premises the couples doing nasty things so when you go with family avoid going to the corners 😂😂😂",
+            "author_name": "divyesh patil",
+            "relative_time_description": "5 months ago",
+            "time": 1744878315,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJMcZJSSzP5zsRiLTrkMSOCGE/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJMcZJSSzP5zsRiLTrkMSOCGE/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJMcZJSSzP5zsRiLTrkMSOCGE/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJrQN2ktW15zsRY4gVmkR3Npo",
+        "index": 17,
+        "id": "ChIJrQN2ktW15zsRY4gVmkR3Npo",
+        "name": "Beach House Madh Island, Mumbai, amã Stays & Trails",
+        "placeId": "ChIJrQN2ktW15zsRY4gVmkR3Npo",
+        "description": "Beach House Madh Island, Mumbai, amã Stays & Trails is a serene beach destination located in the western suburbs of Mumbai. Juhu Beach, known for its stunning sunset views and diverse street food options, is just a short distance away. The area offers an array of local delicacies such as bhelpuri, pav bhaji, vada pav, and refreshing coconut water.",
+        "generalDescription": "Beach House Madh Island, Mumbai, amã Stays & Trails is a serene beach destination located in the western suburbs of Mumbai. Juhu Beach, known for its stunning sunset views and diverse street food options, is just a short distance away. The area offers an array of local delicacies such as bhelpuri, pav bhaji, vada pav, and refreshing coconut water.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Beach House Madh Island, Mumbai, amã Stays & Trails, Erangal Inspection Bungalow Erangal Madh Island, Madh - Marve Rd, Madh, Navi Mumbai, Maharashtra 400061, India",
+        "latitude": 19.163179,
+        "longitude": 72.783914,
+        "rating": 4.4,
+        "numRatings": 232,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "g2d0wJkMFrfJptFVDh0tqRTeuYTzOIEb",
+          "LNp1CHn0Nyo6OkDyd5sugpDrtyKxpIid",
+          "aKbVr0DWrNtPDNn8jXAh8cnPluoiyZzb",
+          "UwEIW49dqaqBdUmUa5W41J93bAoDCiMW"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Pure bliss to stay at Beach House… excellent location and great atmosphere being created by the team. Rooms are good and the property is attached to Erengl beach - neat and clean beach.. the food is excellent , John is the chef and he prepares great homely food, which is an important part of the experience. The team lead by Amrita is courteous and extremely warm… Prathamesh served us well and Mr. Mahatre who has been attached to the property for over 3 decades is the property’s  greatest asset..\n\nRecommended for 2 days stay with family or friends …",
+            "author_name": "Ajay Bhat",
+            "relative_time_description": "7 months ago",
+            "time": 1739711030,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Excellent service and very courteous staff ready to help for everything. Very good preparation of food also. Location of the property was also very good. Overall a memorable trip and highly recommended.\nOne area of improvement could be water supplies to the bathrooms as the water used to come in spurts of high and low pressure.",
+            "author_name": "Mita Singhal",
+            "relative_time_description": "8 months ago",
+            "time": 1735532781,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Beach House by amã stays is one of the most beautiful and soothing hideaway nestled in the heart of the Mumbai. The hospitality offered by the team led by Amrita and her team is fantastic and they put in extra efforts to ensure your stay is not only fulfilling but a truly memorable experience. As a newly married couple that visited the place, they decorated the rooms as a surprise which was endearing and magnificent at the same time. The team is eveready to ensure your stays are refreshing and relaxing with a touch of homely comfort. The support staff of Mr. Prathamesh and Mhatre ji is always there to take care of your smallest needs and ensure the guests are always wrapped by blanket of comfort and luxury. It gives you a feeling of finding home away from home.\n\nThe food prepared by Chef John and his team is something that is not to be missed. The team is ever courteous and ensures your taste buds are treated royally. Eat like a king and stay like the emperor truly sums up the experience at Beach House by amã stays. The butter chicken is the icing on the cake and truly to die for.\n\nWhen excellent hospitality meets good food and exquisite location, it just doesn't make holidays special but a memory of a lifetime.",
+            "author_name": "vatsal dani",
+            "relative_time_description": "6 months ago",
+            "time": 1740494475,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJrQN2ktW15zsRY4gVmkR3Npo/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJrQN2ktW15zsRY4gVmkR3Npo/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJrQN2ktW15zsRY4gVmkR3Npo/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJL_fa4xG05zsReT-sUkC1-C4",
+        "index": 18,
+        "id": "ChIJL_fa4xG05zsReT-sUkC1-C4",
+        "name": "Manori Beach",
+        "placeId": "ChIJL_fa4xG05zsReT-sUkC1-C4",
+        "description": "Relaxed, sandy bay with fishing boats, plus restaurants & beach huts serving seafood & snacks.",
+        "generalDescription": "A beautiful and relaxing beach with crystal clear waters, Manori Beach is a popular spot for fishing and swimming. The beach is also home to restaurants and beach huts serving seafood and snacks. Sundays are a busy time at the church located nearby, attracting tourists from all over Maharashtra.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Manori Beach, Koliwada, Manori, Mumbai, Maharashtra 400092, India",
+        "latitude": 19.202666,
+        "longitude": 72.787624,
+        "rating": 4.4,
+        "numRatings": 302,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "1NbwNUBOieQivOYKRdBRp2ozT9APhs0H",
+          "2gPx1vBuA9uYHmIfcuhln17in7JvDPXH",
+          "SYgNWkFBvJIIgtPW35fdQUaSP4Nu32G4",
+          "I7ysMkGSrD1TH4CfgVQu6pPDr0vpTVbH",
+          "WvxEopQZmSYEWoLiZyNINSKb4nFDgmo9"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "If you want to see a secluded and clean beach then this is it. Whenever I have come here I have always found no one out here and this place looks beautiful, as there is a hill side view of the sea & looks serene.\n\nYou can sit here and fall in awe of the place and pictures do not do justice to the beauty of this place. You can visit this place by any mode of transport and take your vehicle to a certain and make a small climb to experience this calm and breezy location.\n\nBe sure to come in the daylight and in a group since this place is so secluded.",
+            "author_name": "Boy On The Saddle Alfred",
+            "relative_time_description": "3 years ago",
+            "time": 1640217600,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "It's a best place for the relaxation. Very chilled weather. I loved this place.",
+            "author_name": "Alok Prajapati",
+            "relative_time_description": "4 years ago",
+            "time": 1609545600,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJL_fa4xG05zsReT-sUkC1-C4/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJL_fa4xG05zsReT-sUkC1-C4/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJL_fa4xG05zsReT-sUkC1-C4/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJf2LZqGbP5zsRhjb8ciyYqlA",
+        "index": 19,
+        "id": "ChIJf2LZqGbP5zsRhjb8ciyYqlA",
+        "name": "Marine drive beach",
+        "placeId": "ChIJf2LZqGbP5zsRhjb8ciyYqlA",
+        "description": "Marine Drive Beach, located in the southern part of Mumbai, spans about 3 kilometers and is a beloved destination for tourists. The beach is renowned for its stunning waters, pleasant weather, and expansive sandy shores that are perfect for leisurely barefoot strolls. Known as the Queen's Necklace due to its C-shaped layout that resembles a string of pearls when illuminated at night, this picturesque spot offers an ideal setting for relaxation and introspection.",
+        "generalDescription": "Marine Drive Beach, located in the southern part of Mumbai, spans about 3 kilometers and is a beloved destination for tourists. The beach is renowned for its stunning waters, pleasant weather, and expansive sandy shores that are perfect for leisurely barefoot strolls. Known as the Queen's Necklace due to its C-shaped layout that resembles a string of pearls when illuminated at night, this picturesque spot offers an ideal setting for relaxation and introspection.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Marine drive beach, 29, Dr N A Purandare Marg, Sea Face, Chowpatty, Gamdevi, Mumbai, Maharashtra 400007, India",
+        "latitude": 18.95548,
+        "longitude": 72.812556,
+        "rating": 4.5,
+        "numRatings": 407,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": null,
+        "maxMinutesSpent": null,
+        "imageKeys": [
+          "aisWZ2L82uqNwPXEuICMOoktzwZQTsRs",
+          "XYSstlVSasD7VE3c4Ah5c7ZQ4BqFodyP",
+          "4ybfRAp7V4iHs4UfsY8tDR4bp1iPivU4"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "*A Scenic Gem in the Heart of Mumbai!*\n\n\"Marine Drive Beach, also known as Queen's Necklace, is a stunning stretch of coastline that offers breathtaking views of the Arabian Sea. This iconic destination is a must-visit for anyone in Mumbai.\n\n*Pros:*\n\n- Breathtaking sunsets and sunrises\n- Scenic views of the city skyline\n- Romantic evening strolls\n- Vibrant atmosphere, especially during festivals\n- Access to nearby restaurants, cafes, and shops\n\n*Cons:*\n\n- Crowded and noisy, especially on weekends\n- Limited parking options\n- Not ideal for swimming due to strong currents\n\n*Experience:*\n\nTake a leisurely walk along the promenade, feel the sea breeze, and enjoy the street food. Visit during sunset for an unforgettable experience. The twinkling city lights at night are a sight to behold.\n\n*Tips:*\n\n- Visit early morning or late evening for a peaceful experience\n- Be cautious of strong currents and avoid swimming\n- Try the local street food, like chaat and pav bhaji\n\n*Recommendation:* A must-visit for couples, families, and solo travelers seeking a scenic and vibrant experience.",
+            "author_name": "Sumit",
+            "relative_time_description": "1 year ago",
+            "time": 1726771224,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Heaven in Mumbai beautiful place sit for while feel relaxed. One of the most beautiful place in my life where I feel relaxed. Marine Drive is a 3.6-kilometre-long road in South Mumbai in the city of Mumbai. The road was constructed by late philanthropist Bhagojisheth Keer and Pallonji Mistry. It is a  C shaped also known as the Queen's Necklace because, when viewed at night from an elevated point anywhere along the drive .marine drive link Nariman Point to Babulnath and Malabar Hill.",
+            "author_name": "pankaj borle",
+            "relative_time_description": "6 years ago",
+            "time": 1569080397,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Must visit the beach, it is quite large and a good place to build sand castles!! Though during monsoon it remains closed most of the times due to safety reasons.",
+            "author_name": "Soumik Ghosh",
+            "relative_time_description": "3 years ago",
+            "time": 1658204908,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJf2LZqGbP5zsRhjb8ciyYqlA/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJf2LZqGbP5zsRhjb8ciyYqlA/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJf2LZqGbP5zsRhjb8ciyYqlA/3.jpg"
+        ]
+      },
+      {
+        "_id": "ChIJqz10Mwu05zsRtlQGBA3qhM0",
+        "index": 20,
+        "id": "ChIJqz10Mwu05zsRtlQGBA3qhM0",
+        "name": "Manori Beach",
+        "placeId": "ChIJqz10Mwu05zsRtlQGBA3qhM0",
+        "description": "Manori Beach, situated near Marve Beach in Mumbai, is a pristine and serene getaway surrounded by cashew nut groves and charming Portuguese architecture. It's a popular spot for families and night parties, with easy access to Essel World via ferry. The area boasts splendid Portuguese architecture and a local church where you can experience Sunday mass. Accessible from Malad and Borivali stations, the beach offers a clean environment with lush greenery on one side and the beautiful sea on the other.",
+        "generalDescription": "Manori Beach, situated near Marve Beach in Mumbai, is a pristine and serene getaway surrounded by cashew nut groves and charming Portuguese architecture. It's a popular spot for families and night parties, with easy access to Essel World via ferry. The area boasts splendid Portuguese architecture and a local church where you can experience Sunday mass. Accessible from Malad and Borivali stations, the beach offers a clean environment with lush greenery on one side and the beautiful sea on the other.",
+        "categories": [
+          "tourist_attraction",
+          "point_of_interest"
+        ],
+        "address": "Manori Beach, Mumbai, Maharashtra 400092, India",
+        "latitude": 19.209872,
+        "longitude": 72.78081,
+        "rating": 4.3,
+        "numRatings": 808,
+        "tripadvisorRating": 0,
+        "tripadvisorNumRatings": 0,
+        "website": "https://example.com",
+        "internationalPhoneNumber": "+91 12345 67890",
+        "priceLevel": null,
+        "permanentlyClosed": false,
+        "minMinutesSpent": 15,
+        "maxMinutesSpent": 15,
+        "imageKeys": [
+          "OX2KCq6Ti3K2QINfG5wWwE4BSlGlJHag",
+          "N0Y8PvdeeIjTOImocsFk20yiAnLxLYBu",
+          "0wSOT9yQcRZxFdansaRcI1RvBbASoTBj"
+        ],
+        "utcOffset": 330,
+        "openingPeriods": [],
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "It's a windy place, full of colors and boho vibes. What makes this different from other beaches is that you get to ride ferry and roam in Marve Jetty road peacefully and enjoy sunsets and sunrise here. Beautiful place indeed.",
+            "author_name": "Zian Mulla",
+            "relative_time_description": "9 months ago",
+            "time": 1733674013,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "It is a quiet place. Frankly better than Gorai beach. Peaceful and beautiful. Try to come early and please clean after yourself. It is a secluded place so please come in groups or share your location to people if you are coming alone",
+            "author_name": "Sahil Toraskar",
+            "relative_time_description": "6 months ago",
+            "time": 1741585641,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "It's a must-visit beach. Whether you're looking for peaceful solitude, family fun, or adventure, this place has it.",
+            "author_name": "Nirmal Singh Katuade",
+            "relative_time_description": "6 months ago",
+            "time": 1742110617,
+            "profile_photo_url": ""
+          }
+        ],
+        "sources": [],
+        "ratingDistribution": {},
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJqz10Mwu05zsRtlQGBA3qhM0/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJqz10Mwu05zsRtlQGBA3qhM0/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/5873696487/ChIJqz10Mwu05zsRtlQGBA3qhM0/3.jpg"
+        ]
+      }
+    ]
+  }
+}

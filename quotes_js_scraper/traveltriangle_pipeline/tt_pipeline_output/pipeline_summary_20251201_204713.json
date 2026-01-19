@@ -1,0 +1,37 @@
+{
+  "timestamp": "20251201_204713",
+  "args": {
+    "url": "https://traveltriangle.com/blog/hidden-gems-in-tokyo/",
+    "batch": null,
+    "city": "Japan",
+    "state": "Japan",
+    "country": "Japan",
+    "category": "Travel",
+    "subtype": "destination",
+    "optimize_ai": true,
+    "title_mode": "catchy",
+    "min_confidence": 0.75,
+    "keep_ratio": 0.8,
+    "refresh_photos": false,
+    "require_photo": false,
+    "dry_run": false,
+    "skip_upload": false,
+    "output_dir": "tt_pipeline_output"
+  },
+  "results": [
+    {
+      "url": "https://traveltriangle.com/blog/hidden-gems-in-tokyo/",
+      "basename": "playlist",
+      "success": true,
+      "steps_completed": [
+        "extract",
+        "adapt",
+        "resolve",
+        "upload"
+      ],
+      "extracted_file": "tt_pipeline_output\\20251201_204713_01_extracted.json",
+      "resolved_file": "tt_pipeline_output\\20251201_204713_03_resolved.json",
+      "report_file": "tt_pipeline_output\\20251201_204713_03_report.json"
+    }
+  ]
+}

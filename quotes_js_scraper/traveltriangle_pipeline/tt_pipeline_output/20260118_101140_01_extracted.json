@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Auckland Nature Gems",
+  "placeName": "Auckland",
+  "country": "New Zealand",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/national-parks-in-auckland/"
+  ],
+  "description": "Drift through Auckland’s green havens—coastal breezes, birdsong, and quiet trails for the soul.",
+  "items": [
+    {
+      "name": "Tiritiri Matangi Island",
+      "description": "",
+      "location_hint": "Tiritiri Matangi Island, Army Bay, Whangaparaoa",
+      "opening_hours_text": "",
+      "entry_fee_text": "Starts from $60"
+    },
+    {
+      "name": "Waiheke Island Exploration",
+      "description": "",
+      "location_hint": "Waiheke Island, Auckland",
+      "opening_hours_text": "",
+      "entry_fee_text": "Starts from $85"
+    },
+    {
+      "name": "Waitakere Ranges",
+      "description": "",
+      "location_hint": "Waitakere Ranges, Central Auckland",
+      "opening_hours_text": "",
+      "entry_fee_text": "Starts from $105"
+    },
+    {
+      "name": "Auckland Zoo",
+      "description": "",
+      "location_hint": "Motions Rd, Auckland 1022",
+      "opening_hours_text": "",
+      "entry_fee_text": "Starts from $22"
+    },
+    {
+      "name": "Tawharanui Regional Park",
+      "description": "The stunning Tawharanui regional park is close to Warkworth and Matakana and is just over an hour from Auckland. There are a number of amazing trails to discover and you can also the lovely beaches and snorkelling. The easy 4km walk through this ecology takes around an hour and has so much diversity in a short distance including coastal views, pasture and bust and beach view. Do take basic supplies with you if you plan to stay for an extended period of time.",
+      "location_hint": "Tawharanui Peninsula 0986",
+      "opening_hours_text": "",
+      "entry_fee_text": "Starts at $50"
+    },
+    {
+      "name": "Tongariro National Park",
+      "description": "",
+      "location_hint": "Manawatu Wanganui 4691",
+      "opening_hours_text": "",
+      "entry_fee_text": "Starts at $30"
+    },
+    {
+      "name": "Cornwall Park",
+      "description": "",
+      "location_hint": "Green Ln W, Epsom",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free entry"
+    },
+    {
+      "name": "Shakespear Regional Park",
+      "description": "The Shakespear Regional Park is a good place to enjoy barbecue or a picnic. There is a pet friendly beach in the park that covers most of the park and the beach area has a lot of shade and a nice wide view and crystal clear water. There is a Historical Woolshed and a trail through the forest as well.",
+      "location_hint": "Army Bay, Whangaparaoa 0930",
+      "opening_hours_text": "",
+      "entry_fee_text": "Under $10"
+    },
+    {
+      "name": "Rotoroa Island",
+      "description": "",
+      "location_hint": "Hauraki Gulf",
+      "opening_hours_text": "",
+      "entry_fee_text": "Starts from $35"
+    },
+    {
+      "name": "Butterfly Creek",
+      "description": "",
+      "location_hint": "Auckland Central, Auckland 2150",
+      "opening_hours_text": "",
+      "entry_fee_text": "Starts at $8"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

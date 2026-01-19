@@ -1,0 +1,99 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759044400,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\amritsar_$(Get-Date -Format 'yyyyMMdd_HHmm')\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Amritsar",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160342",
+      "title": "The 23 best photo spots in Amritsar",
+      "final_title": "Capturing Amritsar: A Photogenic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 23,
+        "blocks": 23,
+        "merged": 23,
+        "accepted_before_trim": 16,
+        "rejected": 7,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 22,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "614",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\amritsar_$(Get-Date -Format 'yyyyMMdd_HHmm')\\amritsar_photo-spots_160342.json",
+        "report_json": "publish_playlist\\amritsar_$(Get-Date -Format 'yyyyMMdd_HHmm')\\amritsar_photo-spots_160342.report.json"
+      },
+      "created_ts": 1759044925
+    },
+    {
+      "job_index": 1,
+      "city": "Amritsar",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97377",
+      "title": "The 23 best architecture in Amritsar",
+      "final_title": "Architectural Wonders of Amritsar",
+      "from_cache": false,
+      "counts": {
+        "meta": 23,
+        "blocks": 23,
+        "merged": 23,
+        "accepted_before_trim": 23,
+        "rejected": 0,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "615",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\amritsar_$(Get-Date -Format 'yyyyMMdd_HHmm')\\amritsar_architecture_97377.json",
+        "report_json": "publish_playlist\\amritsar_$(Get-Date -Format 'yyyyMMdd_HHmm')\\amritsar_architecture_97377.report.json"
+      },
+      "created_ts": 1759045623
+    }
+  ],
+  "end_ts": 1759045623,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 22,
+    "llm_title_calls": 2,
+    "google_places_calls": 24,
+    "cache_hits": 5,
+    "cache_misses": 50
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 22,
+    "llm_title_cache": 2,
+    "google_places_cache": 24,
+    "mobx_data_cache": 2
+  }
+}

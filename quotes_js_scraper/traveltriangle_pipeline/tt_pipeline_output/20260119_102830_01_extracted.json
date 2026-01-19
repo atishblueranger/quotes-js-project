@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Safari Soundtrack",
+  "placeName": "Tanzania",
+  "country": "Tanzania",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/national-parks-in-tanzania/"
+  ],
+  "description": "Safari Soundtrack: sunlit savannahs, thundering hooves, and sunset drums — a Tanzanian road trip for the soul.",
+  "items": [
+    {
+      "name": "Serengeti National Park",
+      "description": "",
+      "location_hint": "Mugumu",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 4,956 per adult"
+    },
+    {
+      "name": "Lake Manyara",
+      "description": "",
+      "location_hint": "Lake Manyara",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 3,710 per adult"
+    },
+    {
+      "name": "Ngorongoro National Park",
+      "description": "Ngorongoro is one of the most frequently visited Tanzania national parks. It is the only place where you can spot the Black Rhino. The Ngorongoro crater made the conservation area inaccessible and thus, this place is the most natural habitat of all the species found here.",
+      "location_hint": "Arusha region",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 4,956 per adult"
+    },
+    {
+      "name": "Tarangire National Park",
+      "description": "",
+      "location_hint": "near Lake Manyara",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 3,710 per adult"
+    },
+    {
+      "name": "Selous Game Reserve",
+      "description": "",
+      "location_hint": "Morogoro",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 6,195 per adult"
+    },
+    {
+      "name": "Gombe Stream National Park",
+      "description": "",
+      "location_hint": "Kigoma",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 8,260 per adult"
+    },
+    {
+      "name": "Mikumi National Park",
+      "description": "",
+      "location_hint": "Morogoro, A-7 Highway",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1,400 per adult"
+    },
+    {
+      "name": "Arusha National Park",
+      "description": "",
+      "location_hint": "Mageso Chember, Arusha",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 3,710 per adult"
+    },
+    {
+      "name": "Katavi National Park",
+      "description": "",
+      "location_hint": "east of Lake Tanganyika",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ruaha National Park",
+      "description": "",
+      "location_hint": "Iringa",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 2,100 per adult"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

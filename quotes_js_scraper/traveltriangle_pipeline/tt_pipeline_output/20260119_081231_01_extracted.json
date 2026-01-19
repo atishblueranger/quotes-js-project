@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Triangle Travel Vibes",
+  "placeName": "South-korea",
+  "country": "South-korea",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-in-south-korea/"
+  ],
+  "description": "Triangle Travel Vibes: Seoul, Busan, Jeju - a soundtrack for wandering South Korea's streets and shores.",
+  "items": [
+    {
+      "name": "Haeundae",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Seobin",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Hajodae",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Hamdeok",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Eurwangni",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Muchangpo Beach",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Daecheon Beach",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Naksan Beach",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

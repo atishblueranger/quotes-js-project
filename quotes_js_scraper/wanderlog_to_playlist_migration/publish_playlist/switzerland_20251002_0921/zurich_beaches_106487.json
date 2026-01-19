@@ -1,0 +1,75 @@
+{
+  "list_id": "957",
+  "imageUrl": "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsNew_images/957/1.jpg",
+  "description": "Dive into \"Zurich's Hidden Trails: A Backpacker's Adventure\" — a handpicked list of places with quick notes, links, and essentials for fast trip planning and discovery.",
+  "source_urls": [
+    "https://wanderlog.com/list/geoCategory/106487"
+  ],
+  "source": "wanderlog",
+  "category": "Travel",
+  "title": "Zurich's Hidden Trails: A Backpacker's Adventure",
+  "city_id": "9668",
+  "subtype": "poi",
+  "city": "Zurich",
+  "created_ts": 1759377136,
+  "slug": "zurichs-hidden-trails-a-backpackers-adventure-zurich-poi-06500e",
+  "subcollections": {
+    "places": [
+      {
+        "_id": "ChIJdcbbzjSnmkcRg4ewxGhprgI",
+        "generalDescription": "The Höhenweg is a picturesque hiking trail that offers stunning panoramic views of the surrounding mountains and valleys. This well-maintained path meanders through lush alpine meadows, dense forests, and charming mountain villages, providing hikers with a diverse and immersive experience of the region's natural beauty. Along the way, trekkers can expect to encounter an array of flora and fauna, adding to the trail's allure for nature enthusiasts.",
+        "utcOffset": 120,
+        "maxMinutesSpent": null,
+        "longitude": 8.568241,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [
+          {
+            "id": "1114151",
+            "type": "webPlacesList",
+            "url": "https://www.myswitzerland.com/en-ch/experiences/summer-autumn/hiking/hiking-search/-/zurich-region/",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "Switzerland Tourism",
+            "shortName": "All hikes in Zurich Region",
+            "indexInSource": 0,
+            "iconSiteId": 918,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Höhenweg",
+        "placeId": "ChIJdcbbzjSnmkcRg4ewxGhprgI",
+        "internationalPhoneNumber": null,
+        "reviews": [],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": null,
+        "index": 1,
+        "id": "",
+        "categories": [],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 47.364002,
+        "address": "8032 Zürich, Switzerland",
+        "travel_time": null
+      }
+    ]
+  }
+}

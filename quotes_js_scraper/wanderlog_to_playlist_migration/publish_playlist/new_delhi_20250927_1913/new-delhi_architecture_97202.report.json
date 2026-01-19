@@ -1,0 +1,35 @@
+{
+  "job_index": 1,
+  "city": "New Delhi",
+  "category_used": "architecture",
+  "url": "https://wanderlog.com/list/geoCategory/97202",
+  "title": "The 45 best architecture in New Delhi",
+  "final_title": "Architectural Wonders of New Delhi",
+  "from_cache": false,
+  "counts": {
+    "meta": 45,
+    "blocks": 45,
+    "merged": 45,
+    "accepted_before_trim": 45,
+    "rejected": 0,
+    "accepted_final": 27
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "597",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\new_delhi_20250927_1913\\new-delhi_architecture_97202.json",
+    "report_json": "publish_playlist\\new_delhi_20250927_1913\\new-delhi_architecture_97202.report.json"
+  },
+  "created_ts": 1758981198
+}

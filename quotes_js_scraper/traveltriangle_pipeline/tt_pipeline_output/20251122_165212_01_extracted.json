@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Bhubaneswar Temple Trail",
+  "placeName": "Bhubaneswar",
+  "country": "India",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/temples-in-bhubaneswar/"
+  ],
+  "description": "Sunlit stone and sacred chants: a sonic stroll through Bhubaneswar's ancient temple lanes.",
+  "items": [
+    {
+      "name": "Lingaraj Temple",
+      "description": "",
+      "location_hint": "Lingaraj Nagar, Old Town, Bhubaneswar, Odisha 751002",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Rajarani Temple",
+      "description": "",
+      "location_hint": "Tankapani Rd, Kedar Gouri Vihar, Rajarani Colony,Rajarani Temple, Bhubaneswar, Odisha 751002",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ananta Vasudeva Temple",
+      "description": "",
+      "location_hint": "Gouri Nagar, Old Town, Bhubaneswar, Odisha 751002",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Brahmeshwar Temple",
+      "description": "",
+      "location_hint": "Near, Tankapani Rd, Siba Nagar, Brahmeswarpatna, Bhubaneswar, Odisha 751002",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ram Mandir",
+      "description": "",
+      "location_hint": "Naka Gate Chowk, Khandagiri, Bhubaneswar, Odisha 751030",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Brahma Temple",
+      "description": "",
+      "location_hint": "Bindu Sagar Rd, Old Town, Bhubaneswar",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Parashurameshvara Temple",
+      "description": "",
+      "location_hint": "Near Bindu Sagar Pond, Kedar Gouri Vihar, Old Town, Bhubaneswar, Odisha 751002",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "ISKCON Temple Bhubaneswar",
+      "description": "",
+      "location_hint": "Near Bindu Sagar Pond, Kedar Gouri Vihar, Old Town, Bhubaneswar, Odisha 751002",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

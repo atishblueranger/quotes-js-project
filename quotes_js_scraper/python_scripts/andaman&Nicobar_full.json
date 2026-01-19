@@ -1,0 +1,131 @@
+{
+  "_id": "86944",
+  "city_name": "Andaman and Nicobar Islands",
+  "place_id": 86944,
+  "country_name": "India",
+  "city_name_search": "andaman and nicobar islands",
+  "longitude": 92.7182,
+  "parent_id": 86661,
+  "popularity": 21374,
+  "manual_description": "Andaman and Nicobar Islands are a place where you can go snorkeling among the coral reefs and be mesmerized by the colorful fish, or simply snooze on the pristine beaches and feel the sun kissing your skin. With endless opportunities to explore, there is always something for you to experience in these beautiful islands.",
+  "subcategory": "territory",
+  "state_name": null,
+  "bounds": [
+    92.19918,
+    6.7535,
+    94.30151,
+    13.67747
+  ],
+  "position": {
+    "geohash": "w41utze26",
+    "geopoint": {
+      "latitude": 12.082296,
+      "longitude": 92.7182
+    }
+  },
+  "latitude": 12.082296,
+  "image_key": "nIXlzMW8L2xboQHtxi1vz635FpND4Rpd",
+  "depth": 2,
+  "place_description": null,
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "India"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "1483",
+        "subcategory": "island",
+        "parentId": 86944,
+        "countryName": "India",
+        "id": 1483,
+        "longitude": 92.97924,
+        "bounds": [
+          92.92519,
+          11.88196,
+          93.05374,
+          12.04928
+        ],
+        "latitude": 12.00104,
+        "depth": 3,
+        "stateName": "Andaman and Nicobar Islands",
+        "popularity": 6846,
+        "name": "Havelock Island"
+      },
+      {
+        "_id": "3065",
+        "subcategory": "island",
+        "parentId": 86944,
+        "countryName": "India",
+        "id": 3065,
+        "longitude": 93.05152,
+        "bounds": [
+          93.0126,
+          11.813,
+          93.07158,
+          11.85007
+        ],
+        "latitude": 11.834086,
+        "depth": 3,
+        "stateName": "Andaman and Nicobar Islands",
+        "popularity": 1603,
+        "name": "Neil Island"
+      },
+      {
+        "_id": "560",
+        "subcategory": "island",
+        "parentId": 86944,
+        "countryName": "India",
+        "id": 560,
+        "longitude": 92.6778,
+        "bounds": [
+          92.51376,
+          11.47838,
+          92.78795,
+          12.2397
+        ],
+        "latitude": 11.755781,
+        "depth": 3,
+        "stateName": "Andaman and Nicobar Islands",
+        "popularity": 12539,
+        "name": "South Andaman Island"
+      },
+      {
+        "_id": "589",
+        "subcategory": "city",
+        "parentId": 560,
+        "countryName": "India",
+        "id": 589,
+        "longitude": 92.734375,
+        "bounds": [
+          92.68652,
+          11.54687,
+          92.75757,
+          11.68985
+        ],
+        "latitude": 11.668183,
+        "depth": 4,
+        "stateName": "South Andaman Island",
+        "popularity": 12538,
+        "name": "Port Blair"
+      }
+    ]
+  }
+}

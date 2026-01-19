@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Bari Museum Trail",
+  "placeName": "Bari",
+  "country": "Italy",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-bari/"
+  ],
+  "description": "Wander Bari's museum trail: sunlit Baroque halls, sea-scented alleys, timeless local stories.",
+  "items": [
+    {
+      "name": "Museo Archeologico Statale",
+      "description": "",
+      "location_hint": "Via Santeramo in Colle, 88, 70022 Altamura BA, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Museo Nazionale Archeologico di Gioia del Colle",
+      "description": "",
+      "location_hint": "Piazza Martiri del 1799,1, 70023 Gioia del Colle BA, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "Approx. INR 405"
+    },
+    {
+      "name": "Laboratorio della Cola Cola",
+      "description": "",
+      "location_hint": "Piazza Papa Benedetto XIII 24, 70024 Gravina in Puglia, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Jatta National Museum",
+      "description": "",
+      "location_hint": "Piazza Bovio,35,70037 Ruvo di Puglia BA, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Pinacoteca Corrado Giaquinto",
+      "description": "",
+      "location_hint": "Via Spalato,19 Lungomare N. Sauro,IV piano,27,70121 Bari BA,Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "Approx INR 250"
+    },
+    {
+      "name": "MUDIMA - Museo Diocesano Matronei Altamura",
+      "description": "",
+      "location_hint": "Arco Duomo,1,70022 Altamura BA,Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Trullo Sovrano",
+      "description": "",
+      "location_hint": "Piazza Sacramento,10,70011 Alberobello BA, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "Approx INR 125"
+    },
+    {
+      "name": "Museo Fondazione Ettore Pomarici Santomasi",
+      "description": "",
+      "location_hint": "Via Museo,20,70024 Gravina in Puglia BA, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Cantina Albea winery and museum",
+      "description": "",
+      "location_hint": "Via due Macelli, 8- 70111, Alberobello, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Museo Diocesano",
+      "description": "",
+      "location_hint": "Via dei Dottula, 70122, Bari, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

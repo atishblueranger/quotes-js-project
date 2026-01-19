@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Swiss Waterfall Wonders",
+  "placeName": "Switzerland",
+  "country": "Switzerland",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/switzerland-waterfalls/"
+  ],
+  "description": "Mist-kissed trails and thunderous cascades: a soundtrack for wandering Swiss waterfall valleys.",
+  "items": [
+    {
+      "name": "Staubbach Falls, Lauterbrunnen",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Engstligen Falls, Adelboden",
+      "description": "",
+      "location_hint": "3715 Adelboden, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Reichenbach Falls, Meiringen",
+      "description": "",
+      "location_hint": "Hausenstrasse 34, 3860 Meiringen, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Trümmelbach Falls, Lauterbrunnen",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Rosenlaui Falls, Meiringen",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Foroglio Falls, Val Bavona (near Locarno)",
+      "description": "",
+      "location_hint": "Fiume Calnegia,, Cevio, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Mürrenbach Falls, Stechelberg",
+      "description": "",
+      "location_hint": "3825 Lauterbrunnen, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Giessbach Falls, Lake Brienz",
+      "description": "",
+      "location_hint": "3855 Brienz, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Rhine Falls, Schaffhausen",
+      "description": "",
+      "location_hint": "Rheinfallquai, 8212 Neuhausen am Rheinfall, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Tine Conflens, La Sarraz",
+      "description": "",
+      "location_hint": "1315 La Sarraz, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Jaipur",
+  "category_used": "castles",
+  "url": "https://wanderlog.com/list/geoCategory/115203",
+  "title": "The 21 best castles in and around Jaipur",
+  "final_title": "Majestic Castles of Jaipur: A Royal Journey",
+  "from_cache": false,
+  "counts": {
+    "meta": 21,
+    "blocks": 21,
+    "merged": 21,
+    "accepted_before_trim": 8,
+    "rejected": 13,
+    "accepted_final": 6
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 15,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\jaipur_$(Get-Date -Format 'yyyyMMdd_HHmm')\\jaipur_castles_115203.json",
+    "report_json": "publish_playlist\\jaipur_$(Get-Date -Format 'yyyyMMdd_HHmm')\\jaipur_castles_115203.report.json"
+  },
+  "created_ts": 1758981484
+}

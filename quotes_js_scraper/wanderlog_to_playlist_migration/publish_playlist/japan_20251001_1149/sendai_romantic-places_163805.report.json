@@ -1,0 +1,35 @@
+{
+  "job_index": 33,
+  "city": "Sendai",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163805",
+  "title": "The 21 most romantic places in Sendai",
+  "final_title": "Whispers of Love in Sendai",
+  "from_cache": false,
+  "counts": {
+    "meta": 21,
+    "blocks": 21,
+    "merged": 21,
+    "accepted_before_trim": 21,
+    "rejected": 0,
+    "accepted_final": 13
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "793",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\japan_20251001_1149\\sendai_romantic-places_163805.json",
+    "report_json": "publish_playlist\\japan_20251001_1149\\sendai_romantic-places_163805.report.json"
+  },
+  "created_ts": 1759304873
+}

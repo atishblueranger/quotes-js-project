@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Venice Secret Spots",
+  "placeName": "Venice",
+  "country": "Italy",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hidden-gems-in-venice/"
+  ],
+  "description": "Hidden canals and quiet courtyards: a soundtrack for wandering Venice's lesser-known charms.",
+  "items": [
+    {
+      "name": "Torcello Island",
+      "description": "",
+      "location_hint": "Torcello, 30142 Venice, Metropolitan City of Venice, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "Varies"
+    },
+    {
+      "name": "San Francesco Della Vigna",
+      "description": "",
+      "location_hint": "Calle S. Francesco, 2786, 30122 Venezia VE, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "San Giorgio Maggiore",
+      "description": "",
+      "location_hint": "Isola di San Giorgio Maggiore 2, 30124 Venezia VE, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Santa Margherita Square",
+      "description": "",
+      "location_hint": "Campo Santa Margherita, 30123 Venezia VE, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Libreria Acqua Alta",
+      "description": "",
+      "location_hint": "C. Longa Santa Maria Formosa, 5176b, 30122 Venezia VE, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Isola Della Certosa",
+      "description": "",
+      "location_hint": "Isola della Certosa, 30141 Venice, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Scuola Grande Di San Marco",
+      "description": "",
+      "location_hint": "Campo dei Santi Giovanni e Paolo, 6777, 30122 Venezia VE, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Basilica Della Salute",
+      "description": "",
+      "location_hint": "Dorsoduro, 1, 30123 Venezia VE, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

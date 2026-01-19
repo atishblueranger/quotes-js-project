@@ -1,0 +1,309 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759172572,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\uae_20250930_0032\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Dubai",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/141911",
+      "title": "The 50 best malls in Dubai",
+      "final_title": "Dubai's Ultimate Mall Adventure",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 41,
+        "rejected": 9,
+        "accepted_final": 29
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "648",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\uae_20250930_0032\\dubai_malls_141911.json",
+        "report_json": "publish_playlist\\uae_20250930_0032\\dubai_malls_141911.report.json"
+      },
+      "created_ts": 1759172761
+    },
+    {
+      "job_index": 6,
+      "city": "Sharjah",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/141920",
+      "title": "The 38 best malls in Sharjah",
+      "final_title": "Sharjah's Shopping Oasis: Malls to Explore",
+      "from_cache": false,
+      "counts": {
+        "meta": 38,
+        "blocks": 38,
+        "merged": 38,
+        "accepted_before_trim": 25,
+        "rejected": 13,
+        "accepted_final": 18
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "649",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\uae_20250930_0032\\sharjah_malls_141920.json",
+        "report_json": "publish_playlist\\uae_20250930_0032\\sharjah_malls_141920.report.json"
+      },
+      "created_ts": 1759172885
+    },
+    {
+      "job_index": 1,
+      "city": "Dubai",
+      "category_used": "skyline",
+      "url": "https://wanderlog.com/list/geoCategory/113127",
+      "title": "Dubai, United Arab Emirates skyline: the 50 most iconic buildings and best views in Dubai",
+      "final_title": "Skyline Wonders: Discover Dubai's Iconic Views",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 31,
+        "rejected": 19,
+        "accepted_final": 22
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 22,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "650",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\uae_20250930_0032\\dubai_skyline_113127.json",
+        "report_json": "publish_playlist\\uae_20250930_0032\\dubai_skyline_113127.report.json"
+      },
+      "created_ts": 1759173043
+    },
+    {
+      "job_index": 5,
+      "city": "Sharjah",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/111337",
+      "title": "The 18 best beaches in and around Sharjah",
+      "final_title": "Shimmering Shores of Sharjah",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 13,
+        "rejected": 5,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "651",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\uae_20250930_0032\\sharjah_beaches_111337.json",
+        "report_json": "publish_playlist\\uae_20250930_0032\\sharjah_beaches_111337.report.json"
+      },
+      "created_ts": 1759173111
+    },
+    {
+      "job_index": 7,
+      "city": "Sharjah",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/161709",
+      "title": "The 31 best photo spots in Sharjah",
+      "final_title": "Sharjah's Picture-Perfect Moments Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 31,
+        "blocks": 31,
+        "merged": 31,
+        "accepted_before_trim": 22,
+        "rejected": 9,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 28,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "652",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\uae_20250930_0032\\sharjah_photo-spots_161709.json",
+        "report_json": "publish_playlist\\uae_20250930_0032\\sharjah_photo-spots_161709.report.json"
+      },
+      "created_ts": 1759173250
+    },
+    {
+      "job_index": 3,
+      "city": "Abu Dhabi",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/161703",
+      "title": "The 45 best photo spots in Abu Dhabi",
+      "final_title": "Capturing Abu Dhabi: Iconic Photo Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 45,
+        "blocks": 45,
+        "merged": 45,
+        "accepted_before_trim": 36,
+        "rejected": 9,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 45,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "653",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\uae_20250930_0032\\abu-dhabi_photo-spots_161703.json",
+        "report_json": "publish_playlist\\uae_20250930_0032\\abu-dhabi_photo-spots_161703.report.json"
+      },
+      "created_ts": 1759173464
+    },
+    {
+      "job_index": 4,
+      "city": "Abu Dhabi",
+      "category_used": "skyline",
+      "url": "https://wanderlog.com/list/geoCategory/113130",
+      "title": "Abu Dhabi, United Arab Emirates skyline: the 45 most iconic buildings and best views in Abu Dhabi",
+      "final_title": "Skyline Serenade: Discover Abu Dhabi's Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 45,
+        "blocks": 45,
+        "merged": 45,
+        "accepted_before_trim": 31,
+        "rejected": 14,
+        "accepted_final": 22
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 16,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "654",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\uae_20250930_0032\\abu-dhabi_skyline_113130.json",
+        "report_json": "publish_playlist\\uae_20250930_0032\\abu-dhabi_skyline_113130.report.json"
+      },
+      "created_ts": 1759173612
+    },
+    {
+      "job_index": 2,
+      "city": "Abu Dhabi",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/111331",
+      "title": "The 35 best beaches in and around Abu Dhabi",
+      "final_title": "Sun-Kissed Shores of Abu Dhabi",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 24,
+        "rejected": 11,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 7,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "655",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\uae_20250930_0032\\abu-dhabi_beaches_111331.json",
+        "report_json": "publish_playlist\\uae_20250930_0032\\abu-dhabi_beaches_111331.report.json"
+      },
+      "created_ts": 1759173722
+    }
+  ],
+  "end_ts": 1759173723,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 148,
+    "llm_title_calls": 8,
+    "google_places_calls": 142,
+    "cache_hits": 18,
+    "cache_misses": 309
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 148,
+    "llm_title_cache": 8,
+    "google_places_cache": 142,
+    "mobx_data_cache": 8
+  }
+}

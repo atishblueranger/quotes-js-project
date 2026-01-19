@@ -1,0 +1,35 @@
+{
+  "job_index": 4,
+  "city": "Chiang Mai",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163771",
+  "title": "The 48 most romantic places in Chiang Mai",
+  "final_title": "Romantic Escapes in Enchanting Chiang Mai",
+  "from_cache": false,
+  "counts": {
+    "meta": 48,
+    "blocks": 48,
+    "merged": 48,
+    "accepted_before_trim": 48,
+    "rejected": 0,
+    "accepted_final": 34
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "704",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_romantic-places_163771.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_romantic-places_163771.report.json"
+  },
+  "created_ts": 1759252034
+}

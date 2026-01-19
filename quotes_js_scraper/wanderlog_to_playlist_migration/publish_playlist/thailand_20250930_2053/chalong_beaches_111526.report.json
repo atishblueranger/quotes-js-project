@@ -1,0 +1,35 @@
+{
+  "job_index": 44,
+  "city": "Chalong",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/111526",
+  "title": "The 21 best beaches in and around Chalong",
+  "final_title": "Chalong's Coastal Escapes: Beach Bliss Awaits",
+  "from_cache": false,
+  "counts": {
+    "meta": 21,
+    "blocks": 21,
+    "merged": 21,
+    "accepted_before_trim": 13,
+    "rejected": 8,
+    "accepted_final": 10
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 5,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "694",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\chalong_beaches_111526.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\chalong_beaches_111526.report.json"
+  },
+  "created_ts": 1759249637
+}

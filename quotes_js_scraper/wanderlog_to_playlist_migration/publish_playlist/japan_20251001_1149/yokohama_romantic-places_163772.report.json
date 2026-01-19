@@ -1,0 +1,35 @@
+{
+  "job_index": 9,
+  "city": "Yokohama",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163772",
+  "title": "The 42 most romantic places in Yokohama",
+  "final_title": "Romantic Escapes in Enchanting Yokohama",
+  "from_cache": false,
+  "counts": {
+    "meta": 42,
+    "blocks": 42,
+    "merged": 42,
+    "accepted_before_trim": 38,
+    "rejected": 4,
+    "accepted_final": 23
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 5,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "776",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\japan_20251001_1149\\yokohama_romantic-places_163772.json",
+    "report_json": "publish_playlist\\japan_20251001_1149\\yokohama_romantic-places_163772.report.json"
+  },
+  "created_ts": 1759301255
+}

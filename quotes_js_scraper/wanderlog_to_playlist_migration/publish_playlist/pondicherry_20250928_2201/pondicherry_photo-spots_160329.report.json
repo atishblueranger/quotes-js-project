@@ -1,0 +1,35 @@
+{
+  "job_index": 1,
+  "city": "Pondicherry",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160329",
+  "title": "The 32 best photo spots in Pondicherry",
+  "final_title": "Picture-Perfect Pondicherry: Capture the Charm",
+  "from_cache": false,
+  "counts": {
+    "meta": 32,
+    "blocks": 32,
+    "merged": 32,
+    "accepted_before_trim": 19,
+    "rejected": 13,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 30,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "634",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\pondicherry_20250928_2201\\pondicherry_photo-spots_160329.json",
+    "report_json": "publish_playlist\\pondicherry_20250928_2201\\pondicherry_photo-spots_160329.report.json"
+  },
+  "created_ts": 1759078234
+}

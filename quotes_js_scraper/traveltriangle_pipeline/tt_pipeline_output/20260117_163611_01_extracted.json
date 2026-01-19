@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Echoes of the Wild",
+  "placeName": "Germany",
+  "country": "Germany",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/germany-national-parks/"
+  ],
+  "description": "Echoes of the Wild: a sonic journey through Germany's forests, moors and misty river valleys.",
+  "items": [
+    {
+      "name": "Hamburg Wadden Sea National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Bavarian Forest National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "€ 9.00 for adults"
+    },
+    {
+      "name": "Lower Saxony Wadden Sea National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Jasmund National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "€50 per adult"
+    },
+    {
+      "name": "Müritz National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Black Forest National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Kellerwald-Edersee National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "€ 6.50 per adult"
+    },
+    {
+      "name": "Saxon Switzerland National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "No entry fee"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

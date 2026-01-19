@@ -1,0 +1,381 @@
+{
+  "list_id": "1029",
+  "imageUrl": "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsNew_images/1029/1.jpg",
+  "description": "Dive into \"Backpacking Hamburg: Trails of Discovery\" — a handpicked list of places with quick notes, links, and essentials for fast trip planning and discovery.",
+  "source_urls": [
+    "https://wanderlog.com/list/geoCategory/106469"
+  ],
+  "source": "wanderlog",
+  "category": "Travel",
+  "title": "Backpacking Hamburg: Trails of Discovery",
+  "city_id": "9647",
+  "subtype": "poi",
+  "city": "Hamburg",
+  "created_ts": 1759441078,
+  "slug": "backpacking-hamburg-trails-of-discovery-hamburg-poi-db9616",
+  "subcollections": {
+    "places": [
+      {
+        "_id": "ChIJR4OaClGCsUcRfZG1JSq62aY",
+        "generalDescription": "Nestled a bit further down the Elbe River, Elbstrand Wittenbergen offers a picturesque escape from the hustle and bustle of Hamburg. This charming beach is characterized by its iconic red-and-white lighthouse that rises above the treetops, providing a stunning backdrop for visitors. Unlike the more urban beaches closer to downtown, Wittenbergen boasts a serene atmosphere surrounded by nature.",
+        "utcOffset": 120,
+        "maxMinutesSpent": 90,
+        "longitude": 9.755383,
+        "rating": 4.7,
+        "numRatings": 767,
+        "sources": [
+          {
+            "id": "1114025",
+            "type": "webPlacesList",
+            "url": "https://www.hamburg-travel.com/blog/idyllic-nature-areas-in-and-around-hamburg/",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "hamburg-travel.com",
+            "shortName": "Breath of fresh air – Idyllic nature areas in and around Hamburg",
+            "indexInSource": 9,
+            "iconSiteId": 5601,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "U5No9BDE4ANdk2XSNQTg1rWckslvCfRP",
+          "3Rr3JVheEz68tN9QjzD3FCKKnLJqnPJN",
+          "EY0V8VckIPu8KXXsAYX3Sl2R0QpA3ghj",
+          "U5No9BDE4ANdk2XSNQTg1rWckslvCfRP",
+          "3Rr3JVheEz68tN9QjzD3FCKKnLJqnPJN",
+          "EY0V8VckIPu8KXXsAYX3Sl2R0QpA3ghj"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "Elbstrand Wittenbergen",
+        "placeId": "ChIJR4OaClGCsUcRfZG1JSq62aY",
+        "internationalPhoneNumber": "+49 40 30051701",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "A decent little sandy beach at the Elba with life guards on the spot.  Dogs are allowed (though on the leash only). Apparently barbecuing is allowed, too (there were a few containers for ash as well). If you're lucky, you might even get a parking spot",
+            "author_name": "Márton Kopócs",
+            "relative_time_description": "",
+            "time": 1686494251,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Beautiful beach, nice trails around. Best place to watch evening sunset or nighttime skyline.",
+            "author_name": "Tushar Datta",
+            "relative_time_description": "",
+            "time": 1724752765,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Nice place to take a walk and relax.",
+            "author_name": "Grace",
+            "relative_time_description": "",
+            "time": 1713367578,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "http://www.elbstrand-wittenbergen.de/",
+        "index": 1,
+        "id": "",
+        "categories": [
+          "Public beach"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 10,
+            "2": 6,
+            "3": 19,
+            "4": 133,
+            "5": 599
+          }
+        },
+        "minMinutesSpent": 90,
+        "latitude": 53.563927,
+        "address": "Rissener Ufer 27, 22559 Hamburg, Germany",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJ-xYXp6ubsUcRoNhROJ_HlO4",
+        "generalDescription": "Nestled just a stone's throw from Hamburg, Fischbeker Heide is a stunning natural retreat that beckons outdoor enthusiasts and nature lovers alike. This enchanting area features a unique blend of forest and heath landscapes, adorned with vibrant summer wildflowers. With well-marked walking and biking trails of varying lengths and difficulty levels, it’s an ideal spot for both leisurely strolls and more challenging hikes.",
+        "utcOffset": 120,
+        "maxMinutesSpent": null,
+        "longitude": 9.841661,
+        "rating": 4.8,
+        "numRatings": 635,
+        "sources": [
+          {
+            "id": "1457809",
+            "type": "webPlacesList",
+            "url": "https://auszeit-hh.de/en/hiking",
+            "sourceSite": "Web",
+            "snippet": "Guests who want to stay for several days will enjoy small and larger walks through the Fischbeker Heide and the Rosengarten Regional Park, for example. We particularly recommend the varied half-day tour through the Fischbeker Heide with a break at the \"Schafstall\" nature conservation information centre run by the Loki Schmidt Foundation.",
+            "siteName": "auszeit-hh.de",
+            "shortName": "Hiking: Ihre Auszeit - Wandern rund um Hamburg",
+            "indexInSource": 1,
+            "iconSiteId": 209016,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1001159",
+            "type": "webPlacesList",
+            "url": "https://www.outdooractive.com/mobile/en/hikes/hamburg/hikes-in-hamburg/1425140/",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "outdooractive.com",
+            "shortName": "The Top Hiking Trails in Hamburg",
+            "indexInSource": 3,
+            "iconSiteId": 47499,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1114025",
+            "type": "webPlacesList",
+            "url": "https://www.hamburg-travel.com/blog/idyllic-nature-areas-in-and-around-hamburg/",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "hamburg-travel.com",
+            "shortName": "Breath of fresh air – Idyllic nature areas in and around Hamburg",
+            "indexInSource": 2,
+            "iconSiteId": 5601,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "XPGJeVhaaQmcH3tP9E1bJ9VjpMRAo82e",
+          "dJTe1o8FO6rXxb4Z0zljmh67EgaFQ23X",
+          "SaAGSbwlLoVOkDHIbkGwPwaDaA2QQI5F",
+          "XPGJeVhaaQmcH3tP9E1bJ9VjpMRAo82e",
+          "dJTe1o8FO6rXxb4Z0zljmh67EgaFQ23X",
+          "SaAGSbwlLoVOkDHIbkGwPwaDaA2QQI5F"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "Fischbeker Heide",
+        "placeId": "ChIJ-xYXp6ubsUcRoNhROJ_HlO4",
+        "internationalPhoneNumber": null,
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "A gorgeous place to spend some nice moments. Went on a slightly cloudy day, bringing out better ambience. The fungal microflora was also an attractive part in it",
+            "author_name": "Maruf Abony",
+            "relative_time_description": "",
+            "time": 1726699699,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Many walking and biking trails in the heart of nature. There are directions and signboards along the way. It takes about 40 minutes from the Hamburg city center to reach there with public transportation. Very much recommended for nature lovers.",
+            "author_name": "Pratyush Deshmukh",
+            "relative_time_description": "",
+            "time": 1722767090,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Amazing trekk around Hamburg during spring and autumn. Take trail h (around 7km) to see the sceneries as shown in the pictures provided.\nTotal trek time: 3.5 hours(with breaks)",
+            "author_name": "Namita Nair",
+            "relative_time_description": "",
+            "time": 1730825048,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "https://www.naturschutzgebiet-fischbeker-heide.de/",
+        "index": 2,
+        "id": "",
+        "categories": [
+          "Nature preserve",
+          "Wildlife refuge"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 2,
+            "2": 2,
+            "3": 12,
+            "4": 72,
+            "5": 548
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 53.458099,
+        "address": "Fischbektal, 21149 Hamburg, Germany",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJs1f7bJiDsUcRUOfVe_I9JgU",
+        "generalDescription": "Blankenese is an upscale area located along the Elbe River, offering beautiful parks, green spaces, a beach, and a golf club. Visitors can enjoy the serene surroundings and outdoor activities in this picturesque municipality. Additionally, coffee enthusiasts can indulge in a unique experience at a cozy roasters shop where they can witness the daily roasting and tasting of espresso.",
+        "utcOffset": 120,
+        "maxMinutesSpent": null,
+        "longitude": 9.798389,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [
+          {
+            "id": "1114053",
+            "type": "webPlacesList",
+            "url": "https://www.hamburg-greeter.de/en/green-hamburg/elbuferwanderweg/",
+            "sourceSite": "Web",
+            "snippet": "The name is most likely a combination of the two Low German words blanke and Nese, which means bright, pure nose. It probably meant a spit of land that was washed over at high tide and lay there shining clean at low tide. However, it was swept away during a storm surge in the 17th century.",
+            "siteName": "Hamburg Greeter",
+            "shortName": "Elbe river bank hiking trail from Hamburg fish market to Wedel",
+            "indexInSource": 1,
+            "iconSiteId": 149434,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "X9H3Bo31lqPKq2bkAWOWgRbJCiP9Mif7",
+          "WFcgcbVBNJeWucPtbQGIqOiIn2R4Pjtx",
+          "OrU1GV5s8ufg916rb9bdplyxGtGhCqpC",
+          "UX2bBZb7eVtiRHgYhjfCaB9gvXAVK21Q",
+          "UQvjIb7JPSOiGTYoMJFy2XueDQUcaFdm",
+          "X9H3Bo31lqPKq2bkAWOWgRbJCiP9Mif7",
+          "WFcgcbVBNJeWucPtbQGIqOiIn2R4Pjtx",
+          "OrU1GV5s8ufg916rb9bdplyxGtGhCqpC",
+          "UX2bBZb7eVtiRHgYhjfCaB9gvXAVK21Q",
+          "UQvjIb7JPSOiGTYoMJFy2XueDQUcaFdm"
+        ],
+        "openingPeriods": [],
+        "name": "Blankenese",
+        "placeId": "ChIJs1f7bJiDsUcRUOfVe_I9JgU",
+        "internationalPhoneNumber": null,
+        "reviews": [],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": null,
+        "index": 3,
+        "id": "",
+        "categories": [],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 53.566344,
+        "address": "Altona, Germany",
+        "travel_time": null
+      }
+    ]
+  }
+}

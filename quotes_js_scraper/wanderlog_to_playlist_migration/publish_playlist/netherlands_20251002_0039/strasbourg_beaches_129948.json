@@ -1,0 +1,433 @@
+{
+  "list_id": "948",
+  "imageUrl": "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsNew_images/948/1.jpg",
+  "description": "Dive into \"Discover Strasbourg's Hidden Free Gems\" — a handpicked list of places with quick notes, links, and essentials for fast trip planning and discovery.",
+  "source_urls": [
+    "https://wanderlog.com/list/geoCategory/129948"
+  ],
+  "source": "wanderlog",
+  "category": "Travel",
+  "title": "Discover Strasbourg's Hidden Free Gems",
+  "city_id": "9751",
+  "subtype": "poi",
+  "city": "Strasbourg",
+  "created_ts": 1759353627,
+  "slug": "discover-strasbourgs-hidden-free-gems-strasbourg-poi-51f584",
+  "subcollections": {
+    "places": [
+      {
+        "_id": "ChIJpZuErlnIlkcRCQ9grCjtFLM",
+        "generalDescription": "Parc du Contades is a beautiful and peaceful park in Strasbourg, featuring a traditional bandstand where live music concerts are held on Sundays and shows for young audiences on Wednesdays. The park offers open lawns, benches, tree-shaded paths, swings, and games for children. It's an underrated gem that's less crowded than other parks in the area. Visitors can enjoy group pictures at the gazebo and relax by the Aar river.",
+        "utcOffset": 120,
+        "maxMinutesSpent": 90,
+        "longitude": 7.7584,
+        "rating": 4.4,
+        "numRatings": 1608,
+        "sources": [],
+        "imageKeys": [
+          "jD9NmGenwG63xnOaPhzjzH7mw3Z8EL8S",
+          "or9tY2Um7Q8oPuVZJVCLBG2U6d81RCyX",
+          "jD9NmGenwG63xnOaPhzjzH7mw3Z8EL8S",
+          "or9tY2Um7Q8oPuVZJVCLBG2U6d81RCyX"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "Parc du Contades",
+        "placeId": "ChIJpZuErlnIlkcRCQ9grCjtFLM",
+        "internationalPhoneNumber": "+33 3 68 98 50 00",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Very big park with lots of different grounds for all ages. I like that all playgrounds were gated for safety. Lots of swings and slides, they even have ping pong tables. Awesome park!",
+            "author_name": "Sara Feingold",
+            "relative_time_description": "",
+            "time": 1724919492,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Lovely well maintained park ideal for dog walking in the city centre.  Plenty of bins available to keep the park clean, and also ample benches in the shade to take a rest and enjoy nature.",
+            "author_name": "Michelle",
+            "relative_time_description": "",
+            "time": 1754232855,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Nice park. Idyllic setting by the side of Aar river. Suitable for elderly people as well as for children.",
+            "author_name": "My Magnolia My Magnolia",
+            "relative_time_description": "",
+            "time": 1648322682,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "https://www.strasbourg.eu/lieu/-/entity/id/684054",
+        "index": 1,
+        "id": "",
+        "categories": [
+          "City park",
+          "Park"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 25,
+            "2": 38,
+            "3": 153,
+            "4": 524,
+            "5": 877
+          }
+        },
+        "minMinutesSpent": 90,
+        "latitude": 48.591056,
+        "address": "20 Av. de la Paix, 67000 Strasbourg, France",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJTYqPzT_JlkcRtHODV_eAQ2E",
+        "generalDescription": "La Petite France is a charming area located just south of the Grande Ile in Strasbourg, between two rivers. It's known for its picturesque streets filled with half-timbered houses, making it a favorite spot for visitors to capture beautiful photos. The area is also home to numerous shops, including those within the museums, offering unique souvenirs.",
+        "utcOffset": 120,
+        "maxMinutesSpent": 60,
+        "longitude": 7.741508,
+        "rating": 4.8,
+        "numRatings": 5831,
+        "sources": [
+          {
+            "id": "1426307",
+            "type": "webPlacesList",
+            "url": "https://www.gpsmycity.com/blog/cheap-and-free-things-to-do-in-strasbourg--france-6225.html",
+            "sourceSite": "Web",
+            "snippet": "Walking through the Petite France quarter is like taking a walk through a historic fairy tale. It certainly is the prettiest part in town, and also the most visited with tourists. Shops, cafes, canals and churches, you'll find anything and everything to do.",
+            "siteName": "GPSmyCity",
+            "shortName": "Cheap and Free Things to Do in Strasbourg, France, Strasbourg, France",
+            "indexInSource": 0,
+            "iconSiteId": 26,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1161676",
+            "type": "webPlacesList",
+            "url": "https://www.dabblinginjetlag.com/free-things-to-do-in-strasbourg-france/",
+            "sourceSite": "Web",
+            "snippet": "La Petite France is the most charming district in Strasbourg. It’s also one of my favorite places to go for a stroll. There’s a fairy-tale-like feel here that I find irresistible.",
+            "siteName": "Dabbling in Jet Lag",
+            "shortName": "19 Free Things to Do in Strasbourg, France (from a Local)",
+            "indexInSource": 0,
+            "iconSiteId": 38497,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "2359327",
+            "type": "webPlacesList",
+            "url": "https://happy-strasbourg.eu/",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "Happy Strasbourg",
+            "shortName": "Free tours and guided tours in Strasbourg",
+            "indexInSource": 0,
+            "iconSiteId": 42417,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "10A761h7ssWMJzM2TYA00G4MxoYuCZJT",
+          "HuSRuaxvlWIwK9dhfpGbrP1K8BX752fP",
+          "ejV7QmCoYXN5iFx21ouP8HxB4mSkaJ5f",
+          "OIz4szuiTuQWD56xLY4MNT1MLqFkKbvO",
+          "bQFjRiNHVMRKi0AEzVZFSFP9ZIrpkcZn",
+          "10A761h7ssWMJzM2TYA00G4MxoYuCZJT",
+          "HuSRuaxvlWIwK9dhfpGbrP1K8BX752fP",
+          "ejV7QmCoYXN5iFx21ouP8HxB4mSkaJ5f",
+          "OIz4szuiTuQWD56xLY4MNT1MLqFkKbvO",
+          "bQFjRiNHVMRKi0AEzVZFSFP9ZIrpkcZn"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "La Petite France",
+        "placeId": "ChIJTYqPzT_JlkcRtHODV_eAQ2E",
+        "internationalPhoneNumber": null,
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "It is fair to say that La Petite France is the most beautiful area in Strasbourg. I thought it would be filled with restaurants and souvenir shhops, but it is not, there are some but so much. I went there in winter, but I guess it is better to visit it when it is not so cold since you want to walk more in the outdoor",
+            "author_name": "Ragui Farag",
+            "relative_time_description": "",
+            "time": 1738962988,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Excellent food, service, and location. The restaurant is located right next to the river in the old part of Strasbourg. It is a perfect location to enjoy a snack, drink, or dinner. Their price are reasonable for the area, and they serve a variety of traditional French dishes. We had a very cozy time and can highly recommend it.",
+            "author_name": "Stefan Thiel Nielsen",
+            "relative_time_description": "",
+            "time": 1753189499,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "It's a lovely place with historical buildings and the canals. However, please be aware of pick pockets!!!! We went there today and a group of around 5 or 6 (4 or 5 women and 1 men ) opened my mums back pack and tried to steal things from us. After they didn't find anything valuable from my mum, they turned out trying to pull my auntie's backpack!!!\nI started to shout and asked them to go to the police station, they covered their face and fled away!!! So be very careful when you are there !!!",
+            "author_name": "KENG-HSIN LIN",
+            "relative_time_description": "",
+            "time": 1757706146,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "https://www.visitstrasbourg.fr/decouvrir-strasbourg/les-incontournables/la-petite-france/",
+        "index": 2,
+        "id": "",
+        "categories": [
+          "Historical landmark"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 11,
+            "2": 15,
+            "3": 95,
+            "4": 892,
+            "5": 4826
+          }
+        },
+        "minMinutesSpent": 60,
+        "latitude": 48.581142,
+        "address": "6 Rue des Moulins, 67000 Strasbourg, France",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJ_RsmlQnMlkcR2Wze50g3w2A",
+        "generalDescription": "Forested nature reserve on a small island in the Rhine River, plus free guided educational tours.",
+        "utcOffset": 120,
+        "maxMinutesSpent": null,
+        "longitude": 7.800681,
+        "rating": 4.4,
+        "numRatings": 585,
+        "sources": [
+          {
+            "id": "755792",
+            "type": "webPlacesList",
+            "url": "https://www.my-weekend-in-alsace.com/visiting-strasbourg-do-see-eat/",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "My weekend in Alsace",
+            "shortName": "Visit Strasbourg in 25 ideas 🥨 What to do, see and taste?",
+            "indexInSource": 18,
+            "iconSiteId": 879,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "WfRFF2NGN89GyQKTbvAYNvvr9TZO4Nrg",
+          "tKoht1TYIMBQvX6y4UzWk4km8z5QzGE0",
+          "gVR8XVW3xlKSnKREU7m98zmv8mGTquiD",
+          "WfRFF2NGN89GyQKTbvAYNvvr9TZO4Nrg",
+          "tKoht1TYIMBQvX6y4UzWk4km8z5QzGE0",
+          "gVR8XVW3xlKSnKREU7m98zmv8mGTquiD"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "Réserve Naturelle de l'Île-du-Rohrschollen",
+        "placeId": "ChIJ_RsmlQnMlkcR2Wze50g3w2A",
+        "internationalPhoneNumber": null,
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Amazing place!",
+            "author_name": "one more",
+            "relative_time_description": "",
+            "time": 1520700215,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "Very beautiful, but packed with people, very inconsiderate cyclists and rowers blocking the path with their canoes. Shame because otherwise it's lovely and pushchair friendly area, great for walks with a baby. Also, make sure to pack a bin liner, because there's no rubbish bin in sight and even at the little shop that sells you the snacks won't let you use their trash bin.",
+            "author_name": "Nadia Veleva",
+            "relative_time_description": "",
+            "time": 1566145042,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Covid 19",
+            "author_name": "Adnan FIDAN",
+            "relative_time_description": "",
+            "time": 1586441961,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": null,
+        "index": 3,
+        "id": "",
+        "categories": [
+          "Nature preserve"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 7,
+            "2": 19,
+            "3": 43,
+            "4": 167,
+            "5": 349
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 48.517746,
+        "address": "67100 Strasbourg, France",
+        "travel_time": null
+      }
+    ]
+  }
+}

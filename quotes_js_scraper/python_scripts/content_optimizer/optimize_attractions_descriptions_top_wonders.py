@@ -1,0 +1,2070 @@
+# import firebase_admin
+# from firebase_admin import credentials, firestore
+# from typing import Dict, List, Tuple
+
+# # ───── CONFIGURATION ──────────────────────────────────────────────────────────
+# SERVICE_ACCOUNT_PATH = r"C:\dev\python_runs\scrapy_selenium\quotes-js-project\mycasavsc-firebase-adminsdk-u26li-ff3db6bf13.json"
+# SUBCOLLECTION_NAME = "top_attractions"
+
+# # Map your allplaces/{countryId} → country name (same as your original script)
+# COUNTRY_NAMES = {
+#     # "1": "Tokyo",
+#     # "10": "Shanghai",
+#     # "1000": "Udupi",
+#     # "10008": "Lucerne",
+#     # "10015": "Ronda",
+#     # "1002": "Mathura",
+#     # "10021": "Corfu Town",
+#     # "10024": "Sitges",
+#     # "10025": "Tarragona",
+#     # "10030": "Bursa",
+#     # "10031": "Lloret de Mar",
+#     # "10033": "Valletta",
+#     # "10046": "Ravenna",
+#     # "1006": "Gulmarg",
+#     # "10061": "Versailles",
+#     # "10062": "Bonn",
+#     # "10064": "Weymouth",
+#     # "10074": "Agrigento",
+#     # "10086": "Augsburg",
+#     # "10095": "Koblenz",
+#     # "10106": "Torremolinos",
+#     # "10114": "Mannheim",
+#     # "10123": "Puerto de la Cruz",
+#     # "1013": "Imphal",
+#     # "1014": "Trincomalee",
+#     # "10143": "Torquay",
+#     # "1015": "Kolhapur",
+#     # "10171": "Nerja",
+#     # "10176": "Salou",
+#     # "10184": "Aachen",
+#     # "10186": "Groningen",
+#     # "10193": "Delft",
+#     # "10211": "Vila Nova de Gaia",
+#     # "10219": "Windsor",
+#     # "10230": "Segovia",
+#     # "10235": "Bled",
+#     # "10241": "Playa Blanca",
+#     # "1025": "Ujjain",
+#     # "10260": "Selcuk",
+#     # "10262": "Trogir",
+#     # "10279": "Nijmegen",
+#     # "10291": "Cuenca",
+#     # "10366": "Akureyri",
+#     # "10382": "Cremona",
+#     # "10421": "Bamberg",
+#     # "10453": "Konstanz",
+#     # "105": "Macau",
+#     # "10533": "Ulm",
+#     # "1055": "Mahabalipuram",
+#     # "10590": "Savona",
+#     # "10595": "Peterhof",
+#     # "1060": "Ludhiana",
+#     # "10792": "Monte-Carlo",
+#     # "10804": "Ceuta",
+#     # "10876": "Uppsala",
+#     # "10884": "Tropea",
+#     # "1089": "Bikaner",
+#     # "11": "Siem Reap",
+#     # "110": "Hakodate",
+#     # "11061": "Lund",
+#     # "1131": "Sukhothai",
+#     # "1135": "Kanpur",
+#     # "1138": "Sawai Madhopur",
+#     # "11423": "Grindelwald",
+#     # "11489": "Mont-Saint-Michel",
+#     # "1159": "Bundi",
+#     # "1160": "Sandakan",
+#     # "1163": "Jalandhar",
+#     # "11655": "Berchtesgaden",
+#     # "1168": "Hat Yai",
+#     # "11706": "Trujillo",
+#     # "11769": "Lindos",
+#     # "1177": "Ranchi",
+#     # "118": "Kandy",
+#     # "1192": "Chonburi",
+#     # "12": "Phuket",
+#     # "121": "Kamakura",
+#     # "1212": "Vijayawada",
+#     # "1218": "Kota",
+#     # "122": "Varanasi",
+#     # "1222": "Kalpetta",
+#     # "1241": "Alwar",
+#     # "12491": "Mdina",
+#     # "12525": "Stretford",
+#     # "128": "Hua Hin",
+#     # "129": "Incheon",
+#     # "1291": "Gwalior",
+#     # "13": "New Delhi",
+#     "1302": "Kumbakonam",
+#     "131071": "Buenos Aires",
+#     "131072": "Rio de Janeiro",
+#     "131073": "Sao Paulo",
+#     "131074": "Cusco",
+#     "131075": "Santiago",
+#     "131076": "Lima",
+#     "131077": "Bogota",
+#     "131078": "Quito",
+#     "131079": "Medellin",
+#     "131080": "Cartagena",
+#     "131081": "Porto Alegre",
+#     "131083": "Mendoza",
+#     "131084": "Montevideo",
+#     "131085": "Salvador",
+#     "131086": "Florianopolis",
+#     "131087": "Brasilia",
+#     "131088": "Belo Horizonte",
+#     "131089": "Recife",
+#     "131090": "San Carlos de Bariloche",
+#     "131091": "Fortaleza",
+#     "131092": "Manaus",
+#     "131093": "Angra Dos Reis",
+#     "131094": "Paraty",
+#     "131095": "La Paz",
+#     "131098": "Valparaiso",
+#     "131099": "Arequipa",
+#     "131100": "Natal",
+#     "131102": "Guayaquil",
+#     "131103": "Gramado",
+#     "131104": "San Pedro de Atacama",
+#     "131105": "Salta",
+#     "131106": "Campinas",
+#     "131107": "Santa Marta",
+#     "131108": "Ubatuba",
+#     "131109": "Joao Pessoa",
+#     "131110": "Mar del Plata",
+#     "131113": "Rosario",
+#     "131114": "Belem",
+#     "131115": "Maceio",
+#     "131117": "Ouro Preto",
+#     "131118": "Porto Seguro",
+#     "131119": "Ushuaia",
+#     "131122": "Santos",
+#     "131125": "Niteroi",
+#     "131127": "Vitoria",
+#     "131131": "Sao Luis",
+#     "131132": "Petropolis",
+#     "131134": "Jijoca de Jericoacoara",
+#     "131138": "Puerto Varas",
+#     "131139": "El Calafate",
+#     "131140": "Puno",
+#     "131146": "Cabo Frio",
+#     "131147": "Aracaju",
+#     "131150": "Ipojuca",
+#     "131151": "Campos Do Jordao",
+#     "131157": "Canela",
+#     "131162": "Punta del Este",
+#     "131164": "Puerto Iguazu",
+#     "131168": "San Juan",
+#     "131172": "Fernando de Noronha",
+#     "131174": "San Andres Island",
+#     "131177": "Tiradentes",
+#     "131178": "Pocos de Caldas",
+#     "131180": "Puerto Ayora",
+#     "1312": "Kasaragod",
+#     "131315": "Bonito",
+#     "131318": "Machu Picchu",
+#     "131327": "Bombinhas",
+#     "131337": "Guaruja",
+#     "131360": "Maragogi",
+#     "131362": "Cafayate",
+#     "131389": "San Andres",
+#     "131395": "Praia da Pipa",
+#     "131438": "Morro de Sao Paulo",
+#     "131447": "Caldas Novas",
+#     "131457": "Casablanca",
+#     "131478": "Mata de Sao Joao",
+#     "1316": "Shirdi",
+#     "131626": "Penha",
+#     "161": "Ahmedabad",
+#     "1765": "Almora",
+#     "2601": "Amphawa",
+#     "1868": "Baga",
+#     "228": "Beppu",
+#     "19": "Chiang Mai",
+#     "257": "Chiang Rai",
+#     "1887": "Coonoor",
+#     "174": "Da Lat",
+#     "1784": "Dalhousie",
+#     "1808": "Daman",
+#     "2121": "Deoghar",
+#     "283": "Dhaka City",
+#     "1743": "Diu",
+#     "1983": "Dwarka",
+#     "2177": "Gandhinagar",
+#     "1729": "Gaya",
+#     "2371": "Gokarna",
+#     "207": "Gurugram (Gurgaon)",
+#     "1668": "Hassan",
+#     "16": "Ho Chi Minh City",
+#     "21": "Hoi An",
+#     "2083": "Howrah",
+#     "247": "Ise",
+#     "24": "Jaipur",
+#     "183": "Jaisalmer",
+#     "1763": "Jamshedpur",
+#     "288": "Karachi",
+#     "176": "Karon",
+#     "17": "Kathmandu",
+#     "2141": "Kohima",
+#     "1966": "Kovalam",
+#     "223": "Kuching",
+#     "2540": "Kumarakom",
+#     "2": "Kyoto",
+#     "235": "Lahore",
+#     "297": "Leh",
+#     "248": "Lhasa",
+#     "184": "Luang Prabang",
+#     "1886": "Madikeri",
+#     "175": "Manila",
+#     "1699": "Margao",
+#     "187": "Melaka",
+#     "23": "Minato",
+#     "25": "Mumbai",
+#     "2027": "Orchha",
+#     "2253": "Pahalgam",
+#     "287": "Panjim",
+#     "194": "Rishikesh",
+#     "221": "Sapa",
+#     "29": "Sapporo",
+#     "285": "Seogwipo",
+#     "1942": "Shimoga",
+#     "256": "Srinagar",
+#     "18": "Taipei",
+#     "28": "Taito",
+#     "209": "Thimphu",
+#     "200": "Thiruvananthapuram (Trivandrum)",
+#     "1997": "Tiruvannamalai",
+#     "22": "Ubud",
+#     "1659": "Vasco da Gama",
+#     "1874": "Vrindavan",
+#     "20": "Yangon",
+#     "27": "Yokohama",
+#     "3": "Osaka",
+#     "30": "Busan",
+#     "31": "Hanoi",
+#     "32": "Bandung",
+#     "34": "Bali",
+#     "38": "Cebu City",
+#     "39": "Nha Trang",
+#     "4": "Singapore",
+#     "40": "Kota Kinabalu",
+#     "41": "Hong Kong",
+#     "44": "Johor Bahru",
+#     "45": "Surabaya",
+#     "46": "Medan",
+#     "49": "Ipoh",
+#     "5": "Bangkok",
+#     "50": "Colombo",
+#     "52": "George Town",
+#     "53": "Vientiane",
+#     "54": "Yogyakarta",
+#     "55": "Semarang",
+#     "56": "Pattaya",
+#     "57": "Malacca City",
+#     "58": "Makassar",
+#     "59": "Batam",
+#     "6": "Kuala Lumpur",
+#     "60": "Islamabad",
+#     "61": "Da Nang",
+#     "63": "Phnom Penh",
+#     "64": "Bandar Seri Begawan",
+#     "65": "Agra",
+#     "66": "Udaipur",
+#     "67": "Amritsar",
+#     "68": "Shimla",
+#     "69": "Kolkata",
+#     "7": "Seoul",
+#     "70": "Chennai",
+#     "71": "Mysore",
+#     "72": "Jaipur",
+#     "73": "Goa",
+#     "74": "Kochi",
+#     "75": "Pushkar",
+#     "76": "Jodhpur",
+#     "77": "Manali",
+#     "78": "Darjeeling",
+#     "79": "Munnar",
+#     "8": "Jakarta",
+#     "80": "Agra",
+#     "82": "Hampi",
+#     "83": "Pondicherry",
+#     "84": "Kodaikanal",
+#     "85": "Mcleodganj",
+#     "86": "Ooty",
+#     "87": "Gangtok",
+#     "89": "Coorg",
+#     "9": "Tokyo",
+#     "90": "Alleppey",
+#     "91": "Haridwar",
+#     "92": "Ladakh",
+#     "94": "Nainital",
+#     "95": "Amritsar",
+#     "96": "Mount Abu",
+#     "97": "Ajmer",
+#     "98": "Thekkady",
+#     "99": "Shillong",
+# }
+# # }
+
+# # ───── FIREBASE INIT ──────────────────────────────────────────────────────────
+# try:
+#     firebase_admin.get_app()
+# except ValueError:
+#     cred = credentials.Certificate(SERVICE_ACCOUNT_PATH)
+#     firebase_admin.initialize_app(cred)
+
+# db = firestore.client()
+
+# # ───── VERIFICATION FUNCTION ──────────────────────────────────────────────────
+# def verify_country(country_id: str) -> Tuple[int, int, List[str]]:
+#     """
+#     Verify if all places in a country have the content_updated_at field.
+#     Returns: (total_count, missing_count, list_of_missing_place_names)
+#     """
+#     country_name = COUNTRY_NAMES.get(country_id, f"Country_{country_id}")
+    
+#     coll = db.collection("allplaces").document(country_id).collection(SUBCOLLECTION_NAME)
+#     docs = list(coll.stream())
+    
+#     if not docs:
+#         return (0, 0, [])
+    
+#     total = len(docs)
+#     missing = 0
+#     missing_places = []
+    
+#     for doc in docs:
+#         data = doc.to_dict() or {}
+#         name = data.get("name") or data.get("placeName") or f"Doc_{doc.id}"
+        
+#         # Check if content_updated_at field exists
+#         if "content_updated_at" not in data:
+#             missing += 1
+#             missing_places.append(name)
+    
+#     return (total, missing, missing_places)
+
+# # ───── MAIN ───────────────────────────────────────────────────────────────────
+# def main():
+#     print("🔍 Starting Content Update Verification")
+#     print(f"Checking for 'content_updated_at' field in {SUBCOLLECTION_NAME}\n")
+#     print("="*70)
+    
+#     total_docs = 0
+#     total_missing = 0
+#     countries_with_missing = []
+    
+#     for country_id, country_name in COUNTRY_NAMES.items():
+#         total, missing, missing_places = verify_country(country_id)
+        
+#         if total == 0:
+#             continue
+            
+#         total_docs += total
+#         total_missing += missing
+        
+#         status = "✅" if missing == 0 else "❌"
+#         print(f"{status} {country_name} (ID: {country_id}): {total - missing}/{total} places updated")
+        
+#         if missing > 0:
+#             countries_with_missing.append({
+#                 "id": country_id,
+#                 "name": country_name,
+#                 "missing": missing,
+#                 "places": missing_places
+#             })
+#             print(f"   ⚠️  Missing places: {', '.join(missing_places[:5])}")
+#             if len(missing_places) > 5:
+#                 print(f"   ... and {len(missing_places) - 5} more")
+    
+#     print("\n" + "="*70)
+#     print(f"\n📊 SUMMARY:")
+#     print(f"Total places checked: {total_docs}")
+#     print(f"Places with content_updated_at: {total_docs - total_missing}")
+#     print(f"Places missing content_updated_at: {total_missing}")
+#     print(f"Success rate: {((total_docs - total_missing) / total_docs * 100):.2f}%" if total_docs > 0 else "N/A")
+    
+#     if countries_with_missing:
+#         print(f"\n⚠️  {len(countries_with_missing)} countries have places missing the field:")
+#         for c in countries_with_missing:
+#             print(f"   - {c['name']} (ID: {c['id']}): {c['missing']} missing")
+#     else:
+#         print("\n✅ All places have been updated successfully!")
+
+# if __name__ == "__main__":
+#     main()
+
+
+
+
+# optimize_attraction_copy_openai_countryloop.py
+# Country-by-country pass; OpenAI rewrites detail_description (<=250)
+# and derives excerpt from it (<=120, one line). Includes caching, batching,
+# CSV change log, DRY_RUN, and the same function shapes you shared.
+
+import re, os, csv, time, json, hashlib, html, unicodedata
+from datetime import datetime, timezone
+from typing import Dict, Optional, List, Tuple
+
+import firebase_admin
+from firebase_admin import credentials, firestore
+from openai import OpenAI
+
+# ───── HARD-CODED CONFIG ──────────────────────────────────────────────────────
+SERVICE_ACCOUNT_PATH = r"C:\dev\python_runs\scrapy_selenium\quotes-js-project\mycasavsc-firebase-adminsdk-u26li-ff3db6bf13.json"
+
+# Map your allplaces/{countryId} → country name
+COUNTRY_NAMES = {
+#    "1": "Tokyo",
+#     "10": "Shanghai",
+#     "1000": "Udupi",
+#     "10008": "Lucerne",
+#     "10015": "Ronda",
+#     "1002": "Mathura",
+#     "10021": "Corfu Town",
+#     "10024": "Sitges",
+#     "10025": "Tarragona",
+#     "10030": "Bursa",
+#     "10031": "Lloret de Mar",
+#     "10033": "Valletta",
+#     "10046": "Ravenna",
+#     "1006": "Gulmarg",
+#     "10061": "Versailles",
+#     "10062": "Bonn",
+#     "10064": "Weymouth",
+#     "10074": "Agrigento",
+#     "10086": "Augsburg",
+#     "10095": "Koblenz",
+#     "10106": "Torremolinos",
+#     "10114": "Mannheim",
+#     "10123": "Puerto de la Cruz",
+#     "1013": "Imphal",
+#     "1014": "Trincomalee",
+#     "10143": "Torquay",
+#     "1015": "Kolhapur",
+#     "10171": "Nerja",
+#     "10176": "Salou",
+#     "10184": "Aachen",
+#     "10186": "Groningen",
+#     "10193": "Delft",
+#     "10211": "Vila Nova de Gaia",
+#     "10219": "Windsor",
+#     "10230": "Segovia",
+#     "10235": "Bled",
+#     "10241": "Playa Blanca",
+#     "1025": "Ujjain",
+#     "10260": "Selcuk",
+#     "10262": "Trogir",
+#     "10279": "Nijmegen",
+#     "10291": "Cuenca",
+#     "10366": "Akureyri",
+#     "10382": "Cremona",
+#     "10421": "Bamberg",
+#     "10453": "Konstanz",
+#     "105": "Macau",
+#     "10533": "Ulm",
+#     "1055": "Mahabalipuram",
+#     "10590": "Savona",
+#     "10595": "Peterhof",
+#     "1060": "Ludhiana",
+#     "10792": "Monte-Carlo",
+#     "10804": "Ceuta",
+#     "10876": "Uppsala",
+#     "10884": "Tropea",
+#     "1089": "Bikaner",
+#     "11": "Siem Reap",
+#     "110": "Hakodate",
+#     "11061": "Lund",
+#     "1131": "Sukhothai",
+#     "1135": "Kanpur",
+#     "1138": "Sawai Madhopur",
+#     "11423": "Grindelwald",
+#     "11489": "Mont-Saint-Michel",
+#     "1159": "Bundi",
+#     "1160": "Sandakan",
+#     "1163": "Jalandhar",
+#     "11655": "Berchtesgaden",
+#     "1168": "Hat Yai",
+#     "11706": "Trujillo",
+#     "11769": "Lindos",
+#     "1177": "Ranchi",
+#     "118": "Kandy",
+#     "1192": "Chonburi",
+#     "12": "Phuket",
+#     "121": "Kamakura",
+#     "1212": "Vijayawada",
+#     "1218": "Kota",
+#     "122": "Varanasi",
+#     "1222": "Kalpetta",
+#     "1241": "Alwar",
+#     "12491": "Mdina",
+#     "12525": "Stretford",
+#     "128": "Hua Hin",
+#     "129": "Incheon",
+#     "1291": "Gwalior",
+#     "13": "New Delhi",
+#     "1302": "Kumbakonam",
+#     "131071": "Buenos Aires",
+#     "131072": "Rio de Janeiro",
+#     "131073": "Sao Paulo",
+#     "131074": "Cusco",
+#     "131075": "Santiago",
+#     "131076": "Lima",
+#     "131077": "Bogota",
+#     "131078": "Quito",
+#     "131079": "Medellin",
+#     "131080": "Cartagena",
+#     "131081": "Porto Alegre",
+#     "131083": "Mendoza",
+#     "131084": "Montevideo",
+#     "131085": "Salvador",
+#     "131086": "Florianopolis",
+#     "131087": "Brasilia",
+#     "131088": "Belo Horizonte",
+#     "131089": "Recife",
+#     "131090": "San Carlos de Bariloche",
+#     "131091": "Fortaleza",
+#     "131092": "Manaus",
+#     "131093": "Angra Dos Reis",
+#     "131094": "Paraty",
+#     "131095": "La Paz",
+#     "131098": "Valparaiso",
+#     "131099": "Arequipa",
+#     "131100": "Natal",
+#     "131102": "Guayaquil",
+#     "131103": "Gramado",
+#     "131104": "San Pedro de Atacama",
+#     "131105": "Salta",
+#     "131106": "Campinas",
+#     "131107": "Santa Marta",
+#     "131108": "Ubatuba",
+#     "131109": "Joao Pessoa",
+#     "131110": "Mar del Plata",
+#     "131113": "Rosario",
+#     "131114": "Belem",
+#     "131115": "Maceio",
+#     "131117": "Ouro Preto",
+#     "131118": "Porto Seguro",
+#     "131119": "Ushuaia",
+#     "131122": "Santos",
+#     "131125": "Niteroi",
+#     "131127": "Vitoria",
+#     "131131": "Sao Luis",
+#     "131132": "Petropolis",
+#     "131134": "Jijoca de Jericoacoara",
+#     "131138": "Puerto Varas",
+#     "131139": "El Calafate",
+#     "131140": "Puno",
+#     "131146": "Cabo Frio",
+#     "131147": "Aracaju",
+#     "131150": "Ipojuca",
+#     "131151": "Campos Do Jordao",
+#     "131157": "Canela",
+#     "131162": "Punta del Este",
+#     "131164": "Puerto Iguazu",
+#     "131168": "San Juan",
+#     "131172": "Fernando de Noronha",
+#     "131174": "San Andres Island",
+#     "131177": "Tiradentes",
+#     "131178": "Pocos de Caldas",
+#     "131180": "Puerto Ayora",
+#     "1312": "Kasaragod",
+#     "131315": "Bonito",
+#     "131318": "Machu Picchu",
+#     "131327": "Bombinhas",
+#     "131337": "Guaruja",
+#     "131360": "Maragogi",
+#     "131362": "Cafayate",
+#     "131389": "San Andres",
+#     "131395": "Praia da Pipa",
+#     "131438": "Morro de Sao Paulo",
+#     "131447": "Caldas Novas",
+#     "131457": "Casablanca",
+#     "131478": "Mata de Sao Joao",
+#     "1316": "Shirdi",
+#     "131626": "Penha",
+#     "161": "Ahmedabad",
+#     "1765": "Almora",
+#     "2601": "Amphawa",
+#     "1868": "Baga",
+#     "228": "Beppu",
+#     "19": "Chiang Mai",
+#     "257": "Chiang Rai",
+#     "1887": "Coonoor",
+#     "174": "Da Lat",
+#     "1784": "Dalhousie",
+#     "1808": "Daman",
+#     "2121": "Deoghar",
+#     "283": "Dhaka City",
+#     "1743": "Diu",
+#     "1983": "Dwarka",
+#     "2177": "Gandhinagar",
+#     "1729": "Gaya",
+#     "2371": "Gokarna",
+#     "207": "Gurugram (Gurgaon)",
+#     "1668": "Hassan",
+#     "16": "Ho Chi Minh City",
+#     "21": "Hoi An",
+#     "2083": "Howrah",
+#     "247": "Ise",
+#     "24": "Jaipur",
+#     "183": "Jaisalmer",
+#     "1763": "Jamshedpur",
+#     "288": "Karachi",
+#     "176": "Karon",
+#     "17": "Kathmandu",
+#     "2141": "Kohima",
+#     "1966": "Kovalam",
+#     "223": "Kuching",
+#     "2540": "Kumarakom",
+#     "2": "Kyoto",
+#     "235": "Lahore",
+#     "297": "Leh",
+#     "248": "Lhasa",
+#     "184": "Luang Prabang",
+#     "1886": "Madikeri",
+#     "175": "Manila",
+#     "1699": "Margao",
+#     "187": "Melaka",
+#     "23": "Minato",
+#     "25": "Mumbai",
+#     "2027": "Orchha",
+#     "2253": "Pahalgam",
+#     "287": "Panjim",
+#     "194": "Rishikesh",
+#     "221": "Sapa",
+#     "29": "Sapporo",
+#     "285": "Seogwipo",
+#     "1942": "Shimoga",
+#     "256": "Srinagar",
+#     "18": "Taipei",
+#     "28": "Taito",
+#     "209": "Thimphu",
+#     "200": "Thiruvananthapuram (Trivandrum)",
+#     "1997": "Tiruvannamalai",
+#     "22": "Ubud",
+#     "1659": "Vasco da Gama",
+#     "1874": "Vrindavan",
+#     "20": "Yokohama",
+#     "60": "Agra",
+#     "58191": "Albuquerque",
+#     "58242": "Anaheim",
+#     "58198": "Anchorage",
+#     "58342": "Arlington",
+#     "58185": "Asheville",
+#     "58455": "Athens",
+#     "58169": "Atlanta",
+#     "607": "Aurangabad",
+#     "58163": "Austin",
+#     "58179": "Baltimore",
+#     "58068": "Banff",
+#     "570": "Batu",
+#     "6": "Beijing",
+#     "58162": "Boston",
+#     "58183": "Branson",
+#     "58164": "Brooklyn",
+#     "61": "Busan",
+#     "581": "Calangute",
+#     "58048": "Calgary",
+#     "58170": "Charleston",
+#     "58193": "Charlotte",
+#     "58226": "Chattanooga",
+#     "67": "Chengdu",
+#     "58146": "Chicago",
+#     "58201": "Cincinnati",
+#     "58231": "Clearwater",
+#     "58210": "Cleveland",
+#     "58563": "Columbus",
+#     "58173": "Dallas",
+#     "58248": "Daytona Beach",
+#     "58166": "Denver",
+#     "58218": "Detroit",
+#     "57258": "Dublin",
+#     "58052": "Edmonton",
+#     "660": "Ella",
+#     "58300": "Flagstaff",
+#     "58177": "Fort Lauderdale",
+#     "58211": "Fort Myers",
+#     "58212": "Fort Worth",
+#     "58284": "Fredericksburg",
+#     "58244": "Galveston",
+#     "503": "Gangtok",
+#     "58286": "Gettysburg",
+#     "58182": "Greater Palm Springs",
+#     "524": "Guwahati",
+#     "58059": "Halifax",
+#     "696": "Hampi",
+#     "64": "Hangzhou",
+#     "59": "Hiroshima",
+#     "58153": "Honolulu",
+#     "58161": "Houston",
+#     "58205": "Indianapolis",
+#     "558": "Indore",
+#     "58155": "Island of Hawaii",
+#     "62": "Kanazawa",
+#     "584": "Kanchanaburi",
+#     "58219": "Kansas City",
+#     "53": "Kathu",
+#     "58167": "Kauai",
+#     "58165": "Key West",
+#     "59165": "Keystone",
+#     "58067": "Kingston",
+#     "68": "Kochi (Cochin)",
+#     "69": "Kolkata (Calcutta)",
+#     "527": "Kozhikode",
+#     "58203": "Lahaina",
+#     "58148": "Las Vegas",
+#     "58145": "Los Angeles",
+#     "58196": "Louisville",
+#     "615": "Madurai",
+#     "58151": "Maui",
+#     "58224": "Memphis",
+#     "58157": "Miami",
+#     "58180": "Miami Beach",
+#     "58195": "Milwaukee",
+#     "58184": "Minneapolis",
+#     "58269": "Moab",
+#     "58276": "Monterey",
+#     "58046": "Montreal",
+#     "687": "Mussoorie",
+#     "58202": "Myrtle Beach",
+#     "50": "Naha",
+#     "58189": "Naples",
+#     "58171": "Nashville",
+#     "58156": "New Orleans",
+#     "58144": "New York City",
+#     "58058": "Niagara Falls",
+#     "563": "Noida",
+#     "58079": "North Vancouver",
+#     "58232": "Oklahoma City",
+#     "58213": "Omaha",
+#     "58152": "Orlando",
+#     "58049": "Ottawa",
+#     "58476": "Page",
+#     "673": "Patna",
+#     "58160": "Philadelphia",
+#     "58181": "Phoenix",
+#     "51": "Phuket Town",
+#     "58241": "Pigeon Forge",
+#     "58199": "Pittsburgh",
+#     "589": "Port Blair",
+#     "58158": "Portland",
+#     "57": "Pune",
+#     "58051": "Quebec City",
+#     "58222": "Richmond",
+#     "58175": "Saint Louis",
+#     "58289": "Salem",
+#     "58216": "Salt Lake City",
+#     "58168": "San Antonio",
+#     "58150": "San Diego",
+#     "58147": "San Francisco",
+#     "58206": "Santa Barbara",
+#     "58178": "Santa Fe",
+#     "58228": "Santa Monica",
+#     "58187": "Sarasota",
+#     "58174": "Savannah",
+#     "58192": "Scottsdale",
+#     "58154": "Seattle",
+#     "58188": "Sedona",
+#     "650": "Sentosa Island",
+#     "528": "Singaraja",
+#     "583": "Solo",
+#     "58176": "Tampa",
+#     "541": "Thane",
+#     "536": "Thrissur",
+#     "58748": "Titusville",
+#     "58077": "Tofino",
+#     "58045": "Toronto",
+#     "58172": "Tucson",
+#     "58047": "Vancouver",
+#     "58044": "Vancouver Island",
+#     "662": "Varkala Town",
+#     "58050": "Victoria",
+#     "518": "Visakhapatnam",
+#     "58159": "Washington DC",
+#     "58275": "Williamsburg",
+#     "58345": "Wisconsin Dells",
+#     "52": "Yangon (Rangoon)",
+#     "350": "Alappuzha",
+#     "384": "Amritsar",
+#     "468": "Ayutthaya",
+#     "4": "Bangkok",
+#     "329": "Bardez",
+#     "35": "Bengaluru",
+#     "485": "Bhopal",
+#     "444": "Bhubaneswar",
+#     "304": "Chandigarh",
+#     "42": "Chiyoda",
+#     "371": "Coimbatore",
+#     "43": "Colombo",
+#     "49": "Da Nang",
+#     "349": "Darjeeling",
+#     "405": "Dharamsala",
+#     "3129": "Digha",
+#     "31": "Fukuoka",
+#     "39": "Guangzhou",
+#     "465": "Gyeongju",
+#     "419": "Hikkaduwa",
+#     "376": "Ipoh",
+#     "46": "Jakarta",
+#     "461": "Kannur",
+#     "34": "Kobe",
+#     "33": "Kuala Lumpur",
+#     "37": "Kuta",
+#     "375": "Lucknow",
+#     "313": "Manali Tehsil",
+#     "479": "Mangalore",
+#     "382": "Medan",
+#     "412": "Munnar",
+#     "30": "Nagoya",
+#     "398": "Nagpur",
+#     "449": "Nashik",
+#     "472": "Navi Mumbai",
+#     "41": "New Taipei",
+#     "480": "Ooty (Udhagamandalam)",
+#     "44": "Phnom Penh",
+#     "334": "Pondicherry",
+#     "381": "Semarang",
+#     "38": "Shibuya",
+#     "428": "Shimla",
+#     "32": "Shinjuku",
+#     "478": "Surat",
+#     "330": "Tashkent",
+#     "348": "Vadodara",
+#     "79337": "Alexandria",
+#     "785": "Allahabad",
+#     "79302": "Cairo",
+#     "79300": "Cape Town Central",
+#     "787": "Chikmagalur",
+#     "79333": "Dahab",
+#     "79305": "Fes",
+#     "79321": "Giza",
+#     "783": "Haridwar",
+#     "78": "Hyderabad",
+#     "730": "Jamnagar",
+#     "79306": "Johannesburg",
+#     "714": "Kollam",
+#     "79": "Krabi Town",
+#     "78752": "La Fortuna de San Carlos",
+#     "76078": "Lake Louise",
+#     "701": "Lonavala",
+#     "717": "Male",
+#     "79299": "Marrakech",
+#     "79304": "Mauritius",
+#     "75": "Nagasaki",
+#     "79303": "Nairobi",
+#     "724": "Ninh Binh",
+#     "78744": "Panama City",
+#     "722": "Pushkar",
+#     "798": "Raipur",
+#     "78746": "San Jose",
+#     "79309": "Sharm El Sheikh",
+#     "728": "Shillong",
+#     "738": "Thanjavur",
+#     "753": "Thekkady",
+#     "74": "Xi'an",
+#     "73": "Yerevan",
+#     "85942": "Abu Dhabi",
+#     "82581": "Adelaide",
+#     "81941": "Akumal",
+#     "85962": "Al Ain",
+#     "88609": "Albania",
+#     "87236": "Arunachal Pradesh",
+#     "86937": "Assam",
+#     "82576": "Auckland",
+#     "88384": "Austria",
+#     "86729": "Azerbaijan",
+#     "82": "Baku",
+#     "86851": "Bangladesh",
+#     "88406": "Bavaria",
+#     "88503": "Belarus",
+#     "88408": "Belgium",
+#     "86819": "Bhutan",
+#     "82577": "Brisbane",
+#     "82614": "Broome",
+#     "86779": "Brunei Darussalam",
+#     "88449": "Bulgaria",
+#     "82584": "Cairns",
+#     "86659": "Cambodia",
+#     "814": "Canacona",
+#     "82585": "Canberra",
+#     "81904": "Cancun",
+#     "82579": "Christchurch",
+#     "81908": "Cozumel",
+#     "88438": "Croatia",
+#     "88527": "Cyprus",
+#     "88366": "Czech Republic",
+#     "82588": "Darwin",
+#     "88402": "Denmark",
+#     "85946": "Doha",
+#     "85939": "Dubai",
+#     "82594": "Dunedin",
+#     "88455": "Estonia",
+#     "88434": "Finland",
+#     "88358": "France",
+#     "86743": "Fujian",
+#     "88420": "Georgia",
+#     "88368": "Germany",
+#     "82578": "Gold Coast",
+#     "81187": "Grand Cayman",
+#     "88375": "Greece",
+#     "81912": "Guadalajara",
+#     "81924": "Guanajuato",
+#     "86689": "Guangdong",
+#     "81182": "Havana",
+#     "82586": "Hobart",
+#     "86676": "Hokkaido",
+#     "88380": "Hungary",
+#     "88419": "Iceland",
+#     "86661": "India",
+#     "88386": "Ireland",
+#     "88352": "Italy",
+#     "86647": "Japan",
+#     "85959": "Jeddah",
+#     "85941": "Jerusalem",
+#     "86722": "Jiangsu",
+#     "86686": "Karnataka",
+#     "86731": "Kazakhstan",
+#     "86714": "Kerala",
+#     "850": "Khajuraho",
+#     "842": "Kodaikanal",
+#     "849": "Kottayam",
+#     "86776": "Kyrgyzstan",
+#     "86797": "Laos",
+#     "88423": "Latvia",
+#     "88477": "Lithuania",
+#     "88723": "Luxembourg",
+#     "86675": "Maharashtra",
+#     "88407": "Malta",
+#     "85954": "Manama",
+#     "85998": "Mecca",
+#     "86988": "Meghalaya",
+#     "82575": "Melbourne",
+#     "81913": "Merida",
+#     "81903": "Mexico City",
+#     "88731": "Moldova",
+#     "86772": "Mongolia",
+#     "88654": "Montenegro",
+#     "877": "Mount Abu",
+#     "87411": "Nagaland",
+#     "895": "Nainital",
+#     "81194": "Nassau",
+#     "86667": "Nepal",
+#     "81190": "New Providence Island",
+#     "82608": "Newcastle",
+#     "87077": "North Korea",
+#     "88432": "Norway",
+#     "81911": "Oaxaca",
+#     "81213": "Ocho Rios",
+#     "86904": "Odisha",
+#     "86831": "Pakistan",
+#     "81981": "Palenque",
+#     "80": "Pattaya",
+#     "86652": "Philippines",
+#     "81905": "Playa del Carmen",
+#     "88403": "Poland",
+#     "81918": "Puebla",
+#     "81219": "Puerto Plata",
+#     "81906": "Puerto Vallarta",
+#     "86887": "Punjab",
+#     "81180": "Punta Cana",
+#     "86674": "Rajasthan",
+#     "894": "Rajkot",
+#     "82593": "Rotorua",
+#     "88360": "Russia",
+#     "81189": "San Juan",
+#     "81250": "Santiago de Cuba",
+#     "81197": "Santo Domingo",
+#     "88464": "Serbia",
+#     "86654": "Singapore",
+#     "88478": "Slovakia",
+#     "88486": "Slovenia",
+#     "86656": "South Korea",
+#     "88362": "Spain",
+#     "86693": "Sri Lanka",
+#     "85": "Suzhou",
+#     "88445": "Sweden",
+#     "88437": "Switzerland",
+#     "82574": "Sydney",
+#     "86668": "Taiwan",
+#     "86938": "Tajikistan",
+#     "86691": "Tamil Nadu",
+#     "82615": "Taupo",
+#     "85943": "Tehran",
+#     "85940": "Tel Aviv",
+#     "86651": "Thailand",
+#     "88373": "The Netherlands",
+#     "805": "Tiruchirappalli",
+#     "827": "Tirunelveli",
+#     "81909": "Tulum",
+#     "88367": "Turkiye",
+#     "88359": "United Kingdom",
+#     "86706": "Uttar Pradesh",
+#     "86805": "Uttarakhand",
+#     "81226": "Varadero",
+#     "86655": "Vietnam",
+#     "82582": "Wellington",
+#     "86716": "West Bengal",
+#     "81196": "Willemstad"
+#  "3": "Osaka",
+#  "5": "Luzon",
+#   "9": "Seoul",
+#   "8": "Hanoi",
+#   "7":"Singapore",
+#   "91":"Udaipur",  
+#   "92":"Hue",
+#   "98":"Bophut",
+#   "99":"Nara"
+# "909": "Agartala",
+#     "146275":"Anjuna", 
+#     "2824":"Arpora",
+#     "1365": "Bodh Gaya",
+#     "1306":"Faridabad", 
+#     "923":"Ghaziabad",
+#     "1581":"Hubli-Dharwad",
+#      "1059":"Idukki",
+#     "1635": "Jim Corbett National Park",
+#  "3684":"Kandaghat Tehsil",
+#     "146301":"Khandala",
+#     "1852":"Kurnool",
+#      "1418": "Mandi",
+#     "1667": "Matheran",
+#  "1673":"Palampur",
+#      "1679":"Panchkula",
+#      "1331":"Porbandar",
+#      "1114":"Siliguri",
+#      "2401":"Silvassa",
+#     "1750": "Somnath",
+#     "58204":"St. Petersburg", 
+#     "58391":"Niagara Falls", 
+#     "215":"Hakone-machi",
+#     "9733":"Lille",
+#     "9897":"Snowdonia National Park", # Done
+#     "14":"Denpasar",
+#      "55":"Kaohsiung",
+#     "113":"Sumida",
+#     "14467":"Wieliczka", # Done
+#     "106":"Xiamen",
+#     "9773":"Southampton",
+#      "320":"El Nido", # Done
+#     "9823":"Utrecht",
+#     "82598":"Port Douglas",
+#     "81228":"Soufriere",
+
+
+    # "107":"Dalian",
+    # "10598": "Ohrid",
+    # "244":"Makati",
+    # "13843":"Hallstatt",
+    # "82935":"Strahan",
+    # "11883":"Sagres",
+    # "10065":"Pistoia", #Done
+    #  "11327":"Tomar",
+    # "58549": "Falmouth",
+    #  "10629":"Volterra",
+    #  "10522":"Le Mans",
+    # "9912":"Varese",
+    #  "10289":"Olbia",
+    #  "12552":"Braies",#Done
+    # "58057":"Mississauga",
+    #  "59263":"Capitol Reef National Park",
+    #  "58069":"Windsor",
+
+#      "58393":"Crystal River",#Done
+#     "13760": "Uchisar",
+#      "11482": "San Michele Al Tagliamento",
+#      "79336":"Accra",
+#      "1487":"Vigan",
+#      "10403":"Piraeus",#Done
+#     "82697":"Kaikoura",
+#      "645":"Fujiyoshida",
+#      "58420":"Vancouver",
+#      "456":"Vung Tau",
+#      "12701":"Almagro",#Done
+#     "82687":"Victor Harbor",
+#      "965":"Tomigusuku",
+#      "16423":"Soltau",
+#      "10549":"Reus",
+#      "11584":"Dinard",
+#      "13139":"Hondarribia",#Done
+#     "10880":"Bangor",
+#      "634":"Kumejima-cho",
+#      "12085":"Monreale",
+#      "10018":"Positano",
+#     "11133":"Stresa",
+#      "700":"Toyako-cho",#Done
+#     "10068":"Zakopane",
+#      "10825":"Troyes",
+#     "11204":"Sainte-Maxime",
+#      "58429":"Lihue",
+#      "10464":"Cefalu",
+#     "11654":"Cadaques",#Done
+#     "10104":"Ragusa",
+#      "11363":"Kalambaka",
+#      "14777":"Himare",
+#      "11152":"Plitvice Lakes National Park",
+#      "131165":"Colonia del Sacramento",
+#      "12489":"Vik",
+#      "12352":"Kalmar",
+#        "12387":"Berat",
+#      "10109":"Rovinj",
+#      "10568":"Alesund",
+#      "1047":"Shirakawa-mura",
+#     "10388":"Naxos Town",
+#      "9731":"Cork",
+#      "2791":"Lansdowne",
+#     "1529":"Chittaurgarh",
+#     "2178":"Panchgani",
+#     "2149":"Arambol",
+#     "2711":"Auroville",
+#     "2424":"Kullu",
+#     "1251":"Salem",
+# "2185":"Kargil",
+# "3260":"Bhimtal",
+# "2919":"Badrinath",
+# "1163":"Jalandhar",
+# "1218":"Kota",
+# "2141":"Kohima",  
+# # "Howrah"
+# "3466":"Patnitop",
+# "3369":"Konark",
+# "1573":"Tawang",
+# "1812":"Patiala",
+# "2040":"Kurukshetra",
+# "2599":"Thiruvarur",
+# "2596":"Rupnagar",
+# "2583":"Ratlam",
+# "2578":"Udhampur",
+# "2562":"Jhansi",
+# "2557":"Kathua",
+# "2540": "Kumarakom",
+# "2513":"Pollachi",
+# "2477":"Auli",
+# "2476":"Barmer"
+
+
+# "9612":"Sicily",
+# "58149":"Oahu",
+# "9632":"Tenerife",
+# "9628":"Crete",
+# "9619":"Sardinia",
+# "9627":"Majorca",
+# "12":"Phuket",
+# "9648":"Island of Malta",
+# "58165":"Key West",
+# "9671":"Lanzarote",
+# "81177":"Puerto Rico",
+# "58044":"Vancouver Island",
+# "58151":"Maui",
+# "9661":"Rhodes",
+# "9639":"Gran Canaria",
+# "58155":"Island of Hawaii",
+# "5":"Luzon",
+# "9678":"Madeira",
+# "9697":"Santorini",
+# "58167":"Kauai",
+# "9644":"Corsica",
+# "9749":"Isle of Wight",
+# "9686":"Corfu",
+# "650":"Sentosa Island",
+# "9718":"Menorca",
+# "9699":"Islands of Sicily",
+# "9685":"Fuerteventura",
+# "146":"Langkawi",
+# "81908":"Cozumel",
+# "131172":"Fernando de Noronha",
+# "81190":"New Providence Island",
+# "81187":"Grand Cayman",
+# "9732":"Zakynthos",
+# "131174":"San Andres Island",
+# "9664":"Ibiza",
+
+# "42":"Chiyoda",
+# "59":"Hiroshima",
+# "131093":"Angra Dos Reis",
+# "9840":"Lucca",
+# "9689":"Leeds",
+# "81194":"Nassau",
+# "10046":"Ravenna",
+# "9687":"Belgrade",
+# "131117":"Ouro Preto",
+# "9725":"The Hague",
+# "9691":"Trieste",
+# "9694":"Split",
+# "9891":"Matera",
+# "9935":"Taormina",
+# "9998":"Llandudno",
+# "79306":"Johannesburg",
+# "11769":"Lindos",
+# "58198":"Anchorage",
+# "9709":"Toulouse",
+# "9676":"Sofia",
+# "9838":"Santiago de Compostela",
+# "9945":"Assisi",
+# "9756":"Rimini",
+# "30":"Nagoya",
+# "9799":"Nantes",
+# "41":"New Taipei",
+# "10074":"Agrigento",
+# "176":"Karon",
+# "9903":"Carcassonne",
+# "131478":"Mata de Sao Joao",
+# "78752":"La Fortuna de San Carlos",
+# "9713":"Newcastle upon Tyne",
+# "34":"Kobe",
+# "79303":"Nairobi",
+# "9919":"Avignon",
+# "131360":"Maragogi",
+# "82594":"Dunedin",
+# "31":"Fukuoka",
+# "10064":"Weymouth",
+# "10235":"Bled",
+# "10211":"Vila Nova de Gaia",
+# "118":"Kandy",
+# "9937":"Scarborough",
+# "9861":"Innsbruck",
+# "9917":"Lincoln",
+# "9727":"Thessaloniki",
+# "9734":"Galway",
+# "98":"Bophut"
+
+# "58144":"New York City",
+# "9613":"London",
+# "9614":"Paris",
+# "9616":"Rome",
+# "9617":"Barcelona",
+# "58152":"Orlando",
+# "9625":"Amsterdam",
+# "9621":"Madrid",
+# "131072":"Rio de Janeiro",
+# "58148":"Las Vegas",
+# "7":"Singapore",
+# "9623":"Berlin",
+# "4":"Bangkok",
+# "9620":"Prague",
+# "9626":"Lisbon",
+# "131071":"Buenos Aires",
+# "58147":"San Francisco",
+# "9622":"Istanbul",
+# "131073":"Sao Paulo",
+# "9629":"Budapest",
+# "57258":"Dublin",
+# "9633":"Dublin",
+# "58159":"Washington DC",
+# "9631":"Vienna",
+# "9634":"Venice",
+# "9624":"Milan",
+# "58145":"Los Angeles",
+# "58146":"Chicago",
+# "131075":"Santiago",
+# "131103":"Gramado",
+# "58156":"New Orleans",
+# "9641":"Seville",
+# "9615":"Moscow",
+# "58153":"Honolulu",
+# "79299":"Marrakech",
+# "58045":"Toronto",
+# "6":"Beijing",
+# "58162":"Boston",
+# "81903":"Mexico City",
+# "58154":"Seattle",
+# "16":"Ho Chi Minh City",
+# "9657":"Valencia",
+# "33":"Kuala Lumpur",
+# "9645":"Munich",
+# "131112":"Foz do Iguacu",
+# "131082":"Curitiba",
+# "9673":"Stockholm",
+# "58047":"Vancouver",
+# "82575":"Melbourne",
+# "9":"Seoul",
+# "8":"Hanoi",
+# "9640":"Krakow",
+# "131076":"Lima",
+# "135226":"Lima",
+# "9650":"Turin",
+# "9653":"Porto",
+# "81182":"Havana",
+# "58046":"Montreal",
+# "58171":"Nashville",
+# "9693":"Granada",
+# "131087":"Brasilia",
+# "131085":"Salvador",
+# "58058":"Niagara Falls",
+# "131084":"Montevideo",
+# "10":"Shanghai",
+# "58168":"San Antonio",
+# "79300":"Cape Town Central",
+# "58160":"Philadelphia",
+# "58169":"Atlanta",
+# "131088":"Belo Horizonte",
+# "9704":"Dubrovnik",
+# "131091":"Fortaleza",
+# "85942":"Abu Dhabi",
+# "58180":"Miami Beach",
+# "85941":"Jerusalem",
+# "9647":"Hamburg",
+# "9642":"Warsaw",
+# "58157":"Miami",
+# "131074":"Cusco",
+# "9660":"Liverpool",
+# "9665":"Oslo",
+# "58174":"Savannah",
+# "9651":"Glasgow",
+# "131077":"Bogota",
+# "58241":"Pigeon Forge",
+# "131080":"Cartagena",
+# "9812":"Cordoba",
+# "9674":"Nice",
+# "131151":"Campos Do Jordao",
+# "58224":"Memphis",
+# "131089":"Recife",
+# "9681":"Malaga",
+# "9667":"Helsinki",
+# "58179":"Baltimore",
+# "9688":"Belfast",   
+# "131157":"Canela",
+# "82577":"Brisbane",
+# "131081":"Porto Alegre",
+# "44":"Phnom Penh",
+# "58051":"Quebec City",
+# "9750":"Salzburg",
+# "9675":"Marseille",
+# "58242":"Anaheim",
+# "9672":"Bologna",
+# "58176":"Tampa",
+# "9682":"Cologne",
+# "58173":"Dallas",
+# "58166":"Denver",
+# "58188":"Sedona",
+# "146244":"Patong",
+# "9662":"Manchester",
+# "58161":"Houston",
+# "10033":"Valletta",
+# "9915":"Sintra",
+# "9761":"Benidorm",
+# "10123":"Puerto de la Cruz",
+# "131119":"Ushuaia",
+# "58202":"Myrtle Beach",
+# "9680":"Palma de Mallorca",
+# "81189":"San Juan",
+# "82582":"Wellington",
+# "58210":"Cleveland",
+# "9702":"Brighton",
+# "105":"Macau",
+# "58275":"Williamsburg",
+# "131092":"Manaus",
+# "74":"Xi'an",
+# "58199":"Pittsburgh",
+# "58163":"Austin",
+# "131164":"Puerto Iguazu",
+# "58172":"Tucson",
+# "9659":"Riga",
+# "131104":"San Pedro de Atacama",
+# "58050":"Victoria",
+# "58196":"Louisville",
+# "58158":"Portland",
+# "9655":"Frankfurt",
+# "9692":"Bristol",
+# "17":"Kathmandu",
+# "9757":"Bilbao",
+# "9852":"Toledo",
+# "81906":"Puerto Vallarta",
+# "58181":"Phoenix",
+# "131162":"Punta del Este",
+# "9714":"Antwerp",
+# "58178":"Santa Fe",
+# "131114":"Belem",
+# "46":"Jakarta",
+# "9646":"Bucharest",
+# "131315":"Bonito",
+# "81213":"Ocho Rios",
+# "58228":"Santa Monica",
+# "82579":"Christchurch",
+# "131105":"Salta",
+# "58276":"Monterey",
+# "131147":"Aracaju",
+# "131109":"Joao Pessoa",
+# "10176":"Salou",
+# "81196":"Willemstad",
+# "79302":"Cairo",
+# "9719":"Rotterdam",
+# "58226":"Chattanooga",
+# "137":"George Town",
+# "131139":"El Calafate",
+# "9771":"Zaragoza",
+# "58219":"Kansas City",
+# "9695":"Vilnius",
+# "52":"Yangon (Rangoon)",
+# "58476":"Page",
+# "9717":"Dresden",
+# "58048":"Calgary",
+# "85946":"Doha",
+# "79316":"Luxor",
+# "58164":"Brooklyn",
+# "58203":"Lahaina",
+# "131108":"Ubatuba",
+# "49":"Da Nang",
+# "9950":"Pompeii",
+# "9721":"Antalya",
+# "58177":"Fort Lauderdale",
+# "58068":"Banff",
+# "9722":"Gdansk",
+# "131395":"Praia da Pipa",
+# "58231":"Clearwater",
+# "9638":"Kyiv",
+# "82586":"Hobart",
+# "93":"Nha Trang",
+# "9703":"Ljubljana",
+# "9658":"Tbilisi",
+# "58201":"Cincinnati",
+# "9875":"Salamanca",
+# "9669":"Zagreb",
+# "187":"Melaka",
+# "58286":"Gettysburg",
+# "9772":"Alicante",
+# "82584":"Cairns",
+# "92":"Hue",
+# "147352":"La Jolla",
+# "9753":"Wroclaw",
+# "9737":"Stuttgart",
+# "131110":"Mar del Plata",
+# "131122":"Santos",
+# "58195":"Milwaukee",
+# "9739":"Nuremberg",
+# "58269":"Moab",
+# "82588":"Darwin",
+# "79321":"Giza",
+# "10230":"Segovia",
+# "9744":"Ghent",
+# "128":"Hua Hin",
+# "58059":"Halifax",
+# "61":"Busan",
+# "62":"Kanazawa",
+# "9841":"Bournemouth",
+# "58205":"Indianapolis",
+# "9849":"Bergamo",
+# "58185":"Asheville",
+# "81197":"Santo Domingo",
+# "58216":"Salt Lake City",
+# "58079":"North Vancouver",
+# "9819":"Rhodes Town",
+# "131099":"Arequipa",
+# "131125":"Niteroi",
+# "58189":"Naples",
+# "58342":"Arlington",
+# "10260":"Selcuk",
+# "58218":"Detroit",
+# "58184":"Minneapolis",
+# "131127":"Vitoria",
+# "146468":"Carcassonne Center",
+# "131438":"Morro de Sao Paulo",
+# "58748":"Titusville",
+# "10143":"Torquay",
+# "58192":"Scottsdale",
+# "99":"Nara",
+# "50":"Naha",
+# "39":"Guangzhou",
+# "131146":"Cabo Frio",
+# "81941":"Akumal",
+# "58244":"Galveston",
+# "9942":"Heidelberg",
+# "58232":"Oklahoma City",
+# "10015":"Ronda",
+# "257":"Chiang Rai",
+# "58190":"Kailua-Kona",
+# "175":"Manila",
+# "9857":"Marmaris",
+# "9785":"Evora",
+# "76078":"Lake Louise",
+# "131389":"San Andres",
+# "146242":"Chalong",
+# "58212":"Fort Worth",
+# "67":"Chengdu",
+# "58193":"Charlotte",
+# "75":"Nagasaki",
+# "81911":"Oaxaca",
+# "9899":"Coimbra",
+# "9738":"Dusseldorf",
+# "58206":"Santa Barbara",
+# "131178":"Pocos de Caldas",
+# "131098":"Valparaiso",
+# "82":"Baku",
+# "9708":"Sheffield",
+# "11489":"Mont-Saint-Michel",
+# "64":"Hangzhou",
+# "10171":"Nerja",
+# "10792":"Monte-Carlo",
+# "58289":"Salem",
+# "58222":"Richmond",
+# "79305":"Fes",
+# "10595":"Peterhof",
+# "58052":"Edmonton",
+# "131626":"Penha",
+# "131095":"La Paz",
+# "131113":"Rosario",
+# "81913":"Merida",
+# "12525":"Stretford",
+# "81912":"Guadalajara",
+# "9896":"Goreme",
+# "9830":"Heraklion",
+# "73":"Yerevan",
+# "131175":"Itacare",
+# "131327":"Bombinhas",
+# "58309":"Hilo",
+# "9827":"Cannes",
+# "131140":"Puno",
+# "131107":"Santa Marta",
+# "110":"Hakodate",
+# "58211":"Fort Myers",
+# "131131":"Sao Luis",
+# "43":"Colombo",
+# "81918":"Puebla",
+# "79308":"Casablanca",
+# "9887":"Cadiz",
+# "131447":"Caldas Novas",
+# "58345":"Wisconsin Dells",
+# "10134":"Burgos",
+# "81219":"Puerto Plata",
+# "9769":"Kaliningrad",
+# "131145":"Blumenau",
+# "10241":"Playa Blanca",
+# "12491":"Mdina",
+# "58213":"Omaha",
+# "81924":"Guanajuato",
+# "954":"Pecatu",
+# "10106":"Torremolinos",
+# "9843":"Gothenburg",
+# "145":"Kota Kinabalu",
+# "133":"Bandung",
+# "9705":"Ankara",
+# "131177":"Tiradentes",
+# "9984":"Bern",
+# "468":"Ayutthaya",
+# "10031":"Lloret de Mar",
+# "9817":"Basel",
+# "58284":"Fredericksburg",
+# "174":"Da Lat",
+# "78746":"San Jose",
+# "9715":"Nottingham",
+# "131138":"Puerto Varas",
+# "131337":"Guaruja",
+# "9886":"Santander",
+# "58300":"Flagstaff",
+# "9804":"Sarajevo",
+# "59165":"Keystone",
+# "58248":"Daytona Beach",
+# "9928":"Malmo",
+# "131106":"Campinas",
+# "82950":"Waitomo Caves",
+# "60831":"Hammond",
+# "59140":"Poipu",
+# "147376":"Saint Augustine Beach",
+# "116":"Nikko",
+# "12573":"Pamukkale",
+# "58370":"Rapid City",
+# "58368":"Carlsbad",
+# "85943":"Tehran",
+# "78760":"Manuel Antonio",
+# "188":"Cebu City",
+# "9701":"Nizhny Novgorod",
+# "292":"Vientiane",
+# "10979":"Merida",
+# "10101":"Puerto Del Carmen",
+# "131102":"Guayaquil",
+# "58314":"Hot Springs",
+# "10698":"Oia",
+# "121":"Kamakura",
+# "10058":"Potsdam",
+# "85945":"Beirut",
+# "58949":"Hershey",
+# "10696":"Bonifacio",
+# "584":"Kanchanaburi",
+# "58053":"Winnipeg",
+# "82615":"Taupo",
+# "131332":"Vila Velha",
+# "10229":"Nimes",
+# "12927":"Oswiecim",
+# "13458":"Akrotiri",
+# "9956":"Mykonos Town",
+# "58299":"Fort Myers Beach",
+# "85":"Suzhou",
+# "58214":"Sacramento",
+# "223":"Kuching",
+# "9790":"Lviv",
+# "81981":"Palenque",
+# "131180":"Puerto Ayora",
+# "209":"Thimphu",
+# "131362":"Cafayate",
+# "10030":"Bursa",
+# "95":"Kumamoto",
+# "450":"Paro",
+# "465":"Gyeongju",
+# "330":"Tashkent",
+# "81250":"Santiago de Cuba",
+# "9952":"Plovdiv",
+# "79332":"Tunis",
+# "58563":"Columbus",
+# "131457":"Casablanca",
+# "248":"Lhasa",
+# "131168":"San Juan",
+# "1443":"Bhaktapur",
+# "235":"Lahore",
+# "58455":"Athens",
+# "85939":"Dubai",
+# "9630":"Florence",
+# "9636":"Edinburgh",
+# "82574":"Sydney",
+# "15":"Hong Kong",
+# "9618":"St. Petersburg",
+# "2":"Kyoto",
+# "9637":"Athens",
+# "58150":"San Diego",
+# "9643":"Copenhagen",
+# "11":"Siem Reap",
+# "9635":"Naples",
+# "9649":"Brussels",
+# "81905":"Playa del Carmen",
+# "9707":"York",
+# "131100":"Natal",
+# "3":"Osaka",
+# "131086":"Florianopolis",
+# "18":"Taipei",
+# "131118":"Porto Seguro",
+# "82576":"Auckland",
+# "9745":"Bruges",
+# "9798":"Blackpool",
+# "58183":"Branson",
+# "22":"Ubud",
+# "78744":"Panama City",
+# "9656":"Reykjavik",
+# "82578":"Gold Coast",
+# "58170":"Charleston",
+# "53":"Kathu",
+# "9711":"Verona",
+# "58175":"Saint Louis",
+# "9683":"Genoa",
+# "9666":"Birmingham",
+# "9670":"Lyon",
+# "9735":"Funchal",
+# "80":"Pattaya",
+# "9730":"Bath",
+# "81904":"Cancun",
+# "81180":"Punta Cana",
+# "9654":"Palermo",
+# "9679":"Tallinn",
+# "131150":"Ipojuca",
+# "131090":"San Carlos de Bariloche",
+# "81909":"Tulum",
+# "21":"Hoi An",
+# "19":"Chiang Mai",
+# "131083":"Mendoza",
+# "9767":"Pisa",
+# "131078":"Quito",
+# "131132":"Petropolis",
+# "37":"Kuta",
+# "131115":"Maceio",
+# "79":"Krabi Town",
+# "131134":"Jijoca de Jericoacoara",
+# "28":"Taito",
+# "131094":"Paraty",
+# "9712":"Cardiff",
+# "9792":"Maspalomas",
+# "82593":"Rotorua",
+# "9826":"Adeje",
+# "9800":"Syracuse",
+# "9751":"Strasbourg",
+# "9663":"Bordeaux",
+# "9763":"Paphos",
+# "82585":"Canberra",
+# "9802":"Siena",
+# "9696":"Bratislava",
+# "23":"Minato",
+# "10219":"Windsor",
+# "29":"Sapporo",
+# "9803":"Portsmouth",
+# "9668":"Zurich",
+# "85940":"Tel Aviv",
+# "10061":"Versailles",
+# "38":"Shibuya",
+# "58187":"Sarasota",
+# "9801":"Bergen",
+# "131079":"Medellin",
+# "184":"Luang Prabang",
+# "79309":"Sharm El Sheikh",
+# "9850":"Chester",   
+# "131318":"Machu Picchu",
+# "20":"Yokohama",
+# "58049":"Ottawa",
+# "81226":"Varadero",
+# "9724":"Geneva",
+# "58182":"Greater Palm Springs",
+# "10008":"Lucerne",
+# "9690":"Padua",
+# "9889":"Benalmadena",
+# "82581":"Adelaide",
+# "9723":"Oxford",
+# "9836":"Killarney" , 
+# "9677":"Sochi",
+# "58191":"Albuquerque",
+# "51":"Phuket Town",
+# "32":"Shinjuku",
+# "9765":"Albufeira",
+
+#   "1060": "Ludhiana",
+#     "2264": "Rourkela",
+#     "2346": "Bathinda",
+#     "581":"Calangute",
+# "1312":"Kasaragod",
+# "827":"Tirunelveli",
+# '1479':'Karwar',
+# '1699':'Margao',
+# "1659":"Vasco da Gama",
+# "1531":"Ahmednagar",
+# "1729":"Gaya",
+# "1997":"Tiruvannamalai",
+# "4276":"Kedarnath",
+# "2451": "Ambaji",
+# "2976":"Katra",
+# "4947":"Gangotri",
+# "2562":"Jhansi",
+# "2231":"Guruvayur",
+
+# "1664":"Fatehpur Sikri",
+# "2150":"Agonda",
+# "2084":"Cavelossim",
+# "1854":"Saputara",
+# "1402":"Chamba",
+# "2654":"Valparai",
+# "1250":"Mandya",
+# "1949":"Greater Noida",
+# "1754":"Bharuch",
+# "3446":"Palani",
+# "1776":"Rajgir",
+# "2131":"Solapur",
+# "2018":"Cuttack",
+# "2562":"Jhansi",
+# "1970":"Bishnupur",
+# "1759":"Valsad",
+# "1604":"Sirsi",
+# "1690":"Chittoor",
+# "2038":"Kolar",
+# "2366":"Balasore",
+# "2160":"Amarkantak",
+# "1733":"Belgaum",
+# "1678":"Sambalpur",
+# "1354":"Dindigul",
+# "2263":"Theni",
+# "1936":"Pathanamthitta",
+# "1781":"Hooghly",
+# "1660":"Malappuram",
+# "1523":"Secunderabad",
+# "2123":"Jalpaiguri",
+# "1706":"Tumkur",
+# "1996":"Tezpur",
+#  "1139":"Nagapattinam",
+#  "2042":"Aizawl",
+# "2541":"Anantnag",
+# "4237":"Chhatarpur",
+# "2252":"Uttarkashi",
+# "1862":"Ganjam",
+# "2046":"Bilaspur",
+# "2596":"Rupnagar",
+# "1782":"Bankura",
+# "1591":"Jorhat",
+# "2615":"Gulbarga",
+# "2265":"Erode",
+# "2345":"Jowai",
+
+
+    # add the rest...
+}
+
+SUBCOLLECTION_NAME   = "top_attractions"
+OPENAI_API_KEY       = "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"        # ← put your real key here
+OPENAI_MODEL         = "gpt-4.1-mini"         # or "gpt-4.1"
+
+EXCERPT_MAX_CHARS    = 120                    # one-liner
+DETAIL_MAX_CHARS     = 250                    # mobile 2–3 lines
+BATCH_SIZE           = 450
+API_CALL_DELAY       = 0.3                    # gentle pacing
+DRY_RUN              = False                  # flip to False to write
+
+WRITE_CSV            = True
+CSV_PATH             = "content_optimization_log.csv"
+CACHE_PATH           = "openai_cache.json"
+
+ONLY_COUNTRIES       = None                   # e.g., ["1","10"] to limit scope
+
+# ───── INIT ───────────────────────────────────────────────────────────────────
+cred = credentials.Certificate(SERVICE_ACCOUNT_PATH)
+try:
+    firebase_admin.get_app()
+except ValueError:
+    firebase_admin.initialize_app(cred)
+db = firestore.client()
+
+client = OpenAI(api_key=OPENAI_API_KEY)
+
+# ───── TEXT CLEANING ──────────────────────────────────────────────────────────
+_EMOJI_RE = re.compile(
+    r"[\U0001F1E0-\U0001F1FF]|[\U0001F300-\U0001F5FF]|[\U0001F600-\U0001F64F]|"
+    r"[\U0001F680-\U0001F6FF]|[\U0001F700-\U0001F77F]|[\U0001F780-\U0001F7FF]|"
+    r"[\U0001F800-\U0001F8FF]|[\U0001F900-\U0001F9FF]|[\U0001FA00-\U0001FA6F]|"
+    r"[\U0001FA70-\U0001FAFF]|[\u2600-\u26FF]|[\u2700-\u27BF]"
+)
+_TAG_RE = re.compile(r"<[^>]+>")
+_WS_RE  = re.compile(r"\s+")
+
+def strip_html_emojis(text: str) -> str:
+    text = html.unescape(text or "")
+    text = _TAG_RE.sub("", text)
+    text = _EMOJI_RE.sub("", text)
+    text = text.replace("\u200b", "")
+    text = unicodedata.normalize("NFKC", text)
+    text = _WS_RE.sub(" ", text).strip()
+    return text
+
+def ensure_one_line(text: str) -> str:
+    return _WS_RE.sub(" ", (text or "").strip())
+
+def truncate_at_word(text: str, max_len: int) -> str:
+    if len(text) <= max_len:
+        return text
+    cut = text[:max_len + 1]
+    idx = max(cut.rfind(" "), int(max_len * 0.6))
+    idx = idx if idx > 0 else max_len
+    return cut[:idx].rstrip() + "…"
+
+def derive_excerpt_from_detail(detail: str) -> str:
+    first_sentence = re.split(r"(?<=[.!?])\s+", (detail or "").strip(), maxsplit=1)[0]
+    base = first_sentence or detail or ""
+    base = ensure_one_line(base)
+    return truncate_at_word(base, EXCERPT_MAX_CHARS)
+
+# ───── CACHE ──────────────────────────────────────────────────────────────────
+_cache: Dict[str, Dict[str, str]] = {}
+if os.path.exists(CACHE_PATH):
+    try:
+        with open(CACHE_PATH, "r", encoding="utf-8") as f:
+            _cache = json.load(f)
+        print(f"📦 Loaded {len(_cache)} cached entries from {CACHE_PATH}")
+    except Exception as e:
+        print(f"⚠️  Cache load failed: {e}")
+        _cache = {}
+
+def cache_key(payload: Dict) -> str:
+    return hashlib.sha256(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode("utf-8")).hexdigest()
+
+def cache_get(key: str) -> Optional[Dict[str, str]]:
+    return _cache.get(key)
+
+def cache_put(key: str, value: Dict[str, str]) -> None:
+    _cache[key] = value
+    try:
+        with open(CACHE_PATH, "w", encoding="utf-8") as f:
+            json.dump(_cache, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"⚠️  Cache save failed: {e}")
+
+# # ───── OPENAI CALL (Structured JSON)
+def openai_generate_detail(name: str, country: str, existing_detail: str, g_desc: str, types: List[str]) -> Optional[str]:
+    """
+    Generate a concise mobile-friendly detail_description (<= DETAIL_MAX_CHARS)
+    using Chat Completions JSON output (works on openai==2.4.0).
+    """
+    def _postguard_detail(text: str) -> str:
+        text = strip_html_emojis(text or "")
+        text = ensure_one_line(text)
+        return truncate_at_word(text, DETAIL_MAX_CHARS) if len(text) > DETAIL_MAX_CHARS else text
+
+    def _extract_json_block(s: str) -> dict:
+        m = re.search(r"\{.*\}", s, re.S)
+        if not m:
+            return {}
+        try:
+            return json.loads(m.group(0))
+        except Exception:
+            return {}
+
+    facts = {
+        "name": name or "",
+        "country": country or "",
+        "existing_detail": strip_html_emojis(existing_detail or ""),
+        "g_description": strip_html_emojis(g_desc or ""),
+        "types": (types or [])[:3],
+    }
+    key = cache_key({"model": OPENAI_MODEL, "facts": facts, "detail_max": DETAIL_MAX_CHARS})
+    cached = cache_get(key)
+    if cached:
+        return cached.get("detail_description")
+
+    system_msg = (
+        "You rewrite attraction descriptions for a travel app. "
+        f"Description must be ≤ {DETAIL_MAX_CHARS} characters, present tense, concrete, "
+        "readable on mobile, and free of emojis/HTML/fluff."
+    )
+    user_msg = (
+        f"Attraction name: {facts['name']}\n"
+        f"Country: {facts['country']}\n"
+        f"Existing detail: {facts['existing_detail']}\n"
+        f"Google overview: {facts['g_description']}\n"
+        f"Types: {', '.join(facts['types']) if facts['types'] else '—'}\n"
+        'Return ONLY JSON like: {"detail_description": "<your concise text>"}'
+    )
+
+    try:
+        chat = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            messages=[
+                {"role": "system", "content": system_msg},
+                {"role": "user", "content": user_msg},
+            ],
+            temperature=0.2,
+            # JSON output is supported in this SDK on chat.completions
+            response_format={"type": "json_object"},
+        )
+        content = chat.choices[0].message.content or ""
+        obj = _extract_json_block(content)
+        detail = _postguard_detail(obj.get("detail_description", ""))
+        if detail:
+            cache_put(key, {"detail_description": detail})
+            time.sleep(API_CALL_DELAY)
+            return detail
+        print("   ❌ Chat returned no valid JSON/detail_description.")
+        return None
+    except Exception as e:
+        print(f"   ❌ Chat Completions failed: {e}")
+        return None
+
+
+
+# ───── UPDATE LOGIC ───────────────────────────────────────────────────────────
+def needs_update(old_detail: Optional[str], old_excerpt: Optional[str],
+                 new_detail: str, new_excerpt: str) -> bool:
+    def norm(x: Optional[str]) -> str:
+        return strip_html_emojis(x or "").lower().strip()
+    return norm(old_detail) != norm(new_detail) or norm(old_excerpt) != norm(new_excerpt)
+
+# ───── PROCESSING ─────────────────────────────────────────────────────────────
+def process_country(country_id: str, csv_rows: List[List[str]]) -> Tuple[int, int, int]:
+    country_name = COUNTRY_NAMES.get(country_id, f"Country_{country_id}")
+    print(f"\n{'='*70}\n📍 Processing: {country_name} (ID: {country_id})\n{'='*70}\n")
+
+    coll = db.collection("allplaces").document(country_id).collection(SUBCOLLECTION_NAME)
+    docs = list(coll.stream())
+    if not docs:
+        print("   ⚠️  No attractions found\n")
+        return (0, 0, 0)
+
+    total = len(docs)
+    updated = 0
+    skipped = 0
+    batch = db.batch()
+    ops = 0
+
+    for i, doc in enumerate(docs, 1):
+        data = doc.to_dict() or {}
+        name = data.get("name") or data.get("placeName") or "Unknown"
+
+        old_detail = data.get("detail_description") or ""
+        old_excerpt = data.get("excerpt") or ""
+        g_desc = data.get("g_description") or data.get("description") or ""
+        types = data.get("types") or []
+
+        print(f"[{i}/{total}] {name}")
+
+        # Generate detail with OpenAI
+        new_detail = openai_generate_detail(name, country_name, old_detail, g_desc, types)
+        if not new_detail:
+            print("   ❌ Generation failed")
+            skipped += 1
+            continue
+
+        # Excerpt derived strictly from new detail
+        new_excerpt = derive_excerpt_from_detail(new_detail)
+
+        if not needs_update(old_detail, old_excerpt, new_detail, new_excerpt):
+            print("   ⏭️  No changes (identical after normalization)")
+            skipped += 1
+            continue
+
+        print(f"   📄 Detail ({len(new_detail)}): {new_detail}")
+        print(f"   📝 Excerpt ({len(new_excerpt)}): {new_excerpt}")
+
+        update_data = {
+            "detail_description": new_detail,
+            "excerpt": new_excerpt,
+            "prev_detail_description": old_detail or None,
+            "prev_excerpt": old_excerpt or None,
+            "content_updated_at": datetime.now(timezone.utc).isoformat(),
+        }
+
+        if DRY_RUN:
+            print("   🔍 DRY RUN — not writing")
+        else:
+            batch.update(doc.reference, update_data)
+            ops += 1
+            if ops >= BATCH_SIZE:
+                batch.commit()
+                print(f"   💾 Committed {ops} docs")
+                batch = db.batch()
+                ops = 0
+
+        if WRITE_CSV:
+            csv_rows.append([
+                country_id, country_name, doc.id, doc.reference.path,
+                old_detail.replace("\n", " ").strip(),
+                old_excerpt.replace("\n", " ").strip(),
+                new_detail, new_excerpt
+            ])
+        print()
+
+    if not DRY_RUN and ops:
+        batch.commit()
+        print(f"   💾 Committed final batch of {ops} docs")
+
+    print(f"\n— Summary: {country_name} —")
+    print(f"  Total: {total} | Updated: {updated} | Skipped: {skipped}")
+    return (total, updated, skipped)
+
+# ───── MAIN ───────────────────────────────────────────────────────────────────
+def main():
+    print("🚀 Starting Content Optimization (OpenAI)")
+    print(f"Mode: {'DRY RUN' if DRY_RUN else 'LIVE'} | Model: {OPENAI_MODEL} | Subcollection: {SUBCOLLECTION_NAME}")
+    print(f"Caching: {'present' if os.path.exists(CACHE_PATH) else 'new'} | CSV: {WRITE_CSV}\n")
+
+    if not DRY_RUN:
+        confirm = input("⚠️  This will UPDATE Firestore. Continue? (yes/no): ")
+        if confirm.strip().lower() != "yes":
+            print("Cancelled.")
+            return
+
+    countries = ONLY_COUNTRIES or list(COUNTRY_NAMES.keys())
+    csv_rows: List[List[str]] = []
+    tot_docs = upd_docs = skp_docs = 0
+
+    for cid in countries:
+        if cid not in COUNTRY_NAMES:
+            print(f"⚠️  Unknown country id {cid}, skipping")
+            continue
+        total, updated, skipped = process_country(cid, csv_rows)
+        tot_docs += total; upd_docs += updated; skp_docs += skipped
+
+    if WRITE_CSV and csv_rows:
+        with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
+            w = csv.writer(f)
+            w.writerow(["country_id","country_name","doc_id","path",
+                        "old_detail_description","old_excerpt",
+                        "new_detail_description","new_excerpt"])
+            w.writerows(csv_rows)
+        print(f"\n🧾 Change log saved: {CSV_PATH}")
+
+    print(f"\n✅ All done. Scanned {tot_docs} | Updated {upd_docs} | Skipped {skp_docs} | Cache size {len(_cache)}")
+
+if __name__ == "__main__":
+    main()
+
+
+

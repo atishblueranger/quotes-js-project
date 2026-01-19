@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Madurai",
+  "category_used": "architecture",
+  "url": "https://wanderlog.com/list/geoCategory/97401",
+  "title": "The 15 best architecture in Madurai",
+  "final_title": "Architectural Wonders of Madurai",
+  "from_cache": false,
+  "counts": {
+    "meta": 15,
+    "blocks": 15,
+    "merged": 15,
+    "accepted_before_trim": 15,
+    "rejected": 0,
+    "accepted_final": 11
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "621",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\madurai_20250928_1738\\madurai_architecture_97401.json",
+    "report_json": "publish_playlist\\madurai_20250928_1738\\madurai_architecture_97401.report.json"
+  },
+  "created_ts": 1759061554
+}

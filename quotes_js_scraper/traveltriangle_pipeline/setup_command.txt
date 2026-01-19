@@ -1,0 +1,75 @@
+# 1. Create and enter new folder
+mkdir traveltriangle_pipeline
+cd traveltriangle_pipeline
+
+# 2. Copy the new pipeline files I created
+cp /path/to/tt_pipeline.py .
+cp /path/to/traveltriangle_01_extract.py .
+cp /path/to/traveltriangle_01_5_adapter.py .
+cp /path/to/03_build_upload_wrapper.py .
+cp /path/to/*.md .
+cp /path/to/example_urls.txt .
+
+# 3. Copy your existing scripts (IMPORTANT!)
+cp /path/to/your/existing/02_5_resolve_validate.py .
+cp /path/to/your/existing/03_build_upload.py .
+
+# 4. Copy/create .env file
+cat > .env << 'EOF'
+OPENAI_API_KEY=sk-proj-YOUR_KEY
+GOOGLE_MAPS_API_KEY=AIzaSy_YOUR_KEY
+GOOGLE_CLOUD_PROJECT=mycasavsc
+EOF
+
+# 5. Copy service account JSON
+cp /path/to/mycasavsc-firebase-adminsdk-*.json .
+
+# 6. Create cache and output directories
+mkdir -p cache/html
+mkdir -p tt_pipeline_output
+
+# 7. Verify all files
+ls -la
+```
+
+## Final Folder Structure
+```
+traveltriangle_pipeline/
+│
+├── # NEW PIPELINE SCRIPTS
+├── tt_pipeline.py                      ← Main orchestrator
+├── traveltriangle_01_extract.py        ← Step 1
+├── traveltriangle_01_5_adapter.py      ← Step 1.5
+├── 03_build_upload_wrapper.py          ← Helper
+│
+├── # EXISTING SCRIPTS (COPY HERE)
+├── 02_5_resolve_validate.py            ← YOUR existing Step 2.5
+├── 03_build_upload.py                  ← YOUR existing Step 3
+│
+├── # CONFIGURATION
+├── .env                                ← API keys
+├── mycasavsc-firebase-adminsdk-*.json  ← Service account
+├── example_urls.txt                    ← Sample URLs
+│
+├── # DOCUMENTATION
+├── INDEX.md                            ← Start here
+├── README_SUMMARY.md                   ← Overview
+├── CHECKLIST.md                        ← Setup guide
+├── QUICKSTART.md                       ← Usage examples
+├── PIPELINE_GUIDE.md                   ← Architecture
+├── IMPROVEMENTS.md                     ← Comparison
+├── ARCHITECTURE_DIAGRAM.md             ← Diagrams
+│
+├── # WORKING DIRECTORIES (auto-created)
+├── cache/
+│   ├── html/                          ← Cached HTML pages
+│   ├── ai_cache.json                  ← AI responses
+│   ├── places_cache.json              ← Google Places
+│   ├── details_cache.json             ← Place details
+│   └── photos_meta_cache.json         ← Photo refs
+│
+└── tt_pipeline_output/                ← Pipeline outputs
+    ├── *_01_extracted.json
+    ├── *_02_adapted.json
+    ├── *_03_resolved.json
+    └── *_03_report.json

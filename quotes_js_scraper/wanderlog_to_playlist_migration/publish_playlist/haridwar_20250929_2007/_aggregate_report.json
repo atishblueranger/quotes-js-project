@@ -1,0 +1,64 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759156684,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\haridwar_20250929_2007\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Haridwar",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97414",
+      "title": "The 16 best architecture in Haridwar",
+      "final_title": "Architectural Wonders of Haridwar",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 16,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "641",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\haridwar_20250929_2007\\haridwar_architecture_97414.json",
+        "report_json": "publish_playlist\\haridwar_20250929_2007\\haridwar_architecture_97414.report.json"
+      },
+      "created_ts": 1759156762
+    }
+  ],
+  "end_ts": 1759156762,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 0,
+    "llm_title_calls": 1,
+    "google_places_calls": 12,
+    "cache_hits": 0,
+    "cache_misses": 14
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 0,
+    "llm_title_cache": 1,
+    "google_places_cache": 12,
+    "mobx_data_cache": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 4,
+  "city": "George Town",
+  "category_used": "malls",
+  "url": "https://wanderlog.com/list/geoCategory/140475",
+  "title": "The 28 best malls in George Town",
+  "final_title": "Shop the Heart of George Town",
+  "from_cache": false,
+  "counts": {
+    "meta": 28,
+    "blocks": 28,
+    "merged": 28,
+    "accepted_before_trim": 19,
+    "rejected": 9,
+    "accepted_final": 12
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 12,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "767",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\malaysia_20251001_1003\\george-town_malls_140475.json",
+    "report_json": "publish_playlist\\malaysia_20251001_1003\\george-town_malls_140475.report.json"
+  },
+  "created_ts": 1759298518
+}

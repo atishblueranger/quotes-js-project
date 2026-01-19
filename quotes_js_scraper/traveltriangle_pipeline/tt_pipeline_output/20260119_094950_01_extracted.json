@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Zurich Church Crawl",
+  "placeName": "Zurich",
+  "country": "Switzerland",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/churches-in-zurich/"
+  ],
+  "description": "Echoes through spires and cobblestones: a playlist for wandering Zurich's sacred, storied churches.",
+  "items": [
+    {
+      "name": "Grossmünster Church",
+      "description": "",
+      "location_hint": "Grossmünsterplatz, Zürich, Switzerland",
+      "opening_hours_text": "March to October – (Mon-Sat) 10:00 AM to 06:00 PM; (Sun) After service",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "St. Peter Church",
+      "description": "",
+      "location_hint": "St. Peterhofstatt, Zürich, Switzerland",
+      "opening_hours_text": "08:00 AM to 06:00 PM (Weekdays); 10:00 AM to 04:00 PM (Sat); 11:00 AM to 05:00 PM (Sun)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "St. Josef Church",
+      "description": "",
+      "location_hint": "Röntgenstrasse, Zürich, Switzerland",
+      "opening_hours_text": "09:00 AM to 04:00 PM (Weekdays); Closed on Weekends",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Wasserkirche",
+      "description": "",
+      "location_hint": "Limmatquai, Zürich, Switzerland",
+      "opening_hours_text": "12:00 PM to 03:00 PM (Wed- Fri); 12:00 PM to 05:00 PM (Sat, Sun); Closed (Mon,Tue)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Fraumünster Church",
+      "description": "With an elaborate history of inhabiting the female members of aristocracy and also known by the name of ‘Church of our lady', the Fraumünster Church in Zurich displays a spectacular site from inside. Be prepared to admire the stunning craftwork of 5 part cycle in the chancel and southern transept. The cloister exhibits a chain of frescos done by Paul Bodmer.",
+      "location_hint": "Münsterhof, Zürich, Switzerland",
+      "opening_hours_text": "10:00 AM to 05:00 PM (Nov-Feb); 10:00 AM to 06:00 PM (Mar-Oct)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Liebfrauen Church",
+      "description": "",
+      "location_hint": "Weinbergstrasse, Zürich, Switzerland",
+      "opening_hours_text": "09:00 AM to 12:00 PM and 02:00 PM to 05:00 PM (Mon-Fri)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Hillsong Church",
+      "description": "",
+      "location_hint": "Hohlstrasse, Zürich, Switzerland",
+      "opening_hours_text": "NA",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kirche Enge",
+      "description": "",
+      "location_hint": "Bluntschli Steig, Zürich, Switzerland",
+      "opening_hours_text": "09:00 AM to 09:00 PM (Mon-Fri); 12:00 PM to 09:00 PM",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Predigerkirche",
+      "description": "",
+      "location_hint": "Zähringerpl., Zürich, Switzerland",
+      "opening_hours_text": "10:00 AM to 06:00 PM everyday except Mondays and Sundays; 12:00 PM to 06:00 PM (Mon) and 12:00 PM to 05:00 PM (Sun)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "St Felix and Regula Church",
+      "description": "",
+      "location_hint": "Hardstrasse, Zürich, Switzerland",
+      "opening_hours_text": "NA",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "playlistTitle": "Vancouver Park Escapes",
+    "placeName": "Vancouver",
+    "subtype": "poi",
+    "source_urls": [
+      "https://traveltriangle.com/blog/vancouver-national-parks/"
+    ],
+    "description": "Drift through Vancouver's green havens — trails, cedar canopies, seaside benches for wandering minds.",
+    "items": [
+      {
+        "name": "Pacific Rim National Park",
+        "section_title": "Pacific Rim National Park",
+        "section_excerpt": "",
+        "description": "",
+        "travel_time": "",
+        "price": "",
+        "location_hint": "British Columbia V0R 3A0, Canada",
+        "category_hint": "national_park",
+        "scope": "poi",
+        "query_hints": [
+          "Pacific Rim National Park",
+          "Pacific Rim National Park British Columbia V0R 3A0, Canada",
+          "Pacific Rim National Park Vancouver"
+        ],
+        "anchor_city": "Vancouver",
+        "source_title": "Vancouver Park Escapes",
+        "source_url": "https://traveltriangle.com/blog/vancouver-national-parks/",
+        "votes": 1,
+        "opening_hours_text": "",
+        "entry_fee_text": ""
+      },
+      {
+        "name": "Glacier National Park",
+        "section_title": "Glacier National Park",
+        "section_excerpt": "",
+        "description": "",
+        "travel_time": "",
+        "price": "",
+        "location_hint": "Columbia-Shuswap A, BC, Canada",
+        "category_hint": "national_park",
+        "scope": "poi",
+        "query_hints": [
+          "Glacier National Park",
+          "Glacier National Park Columbia-Shuswap A, BC, Canada",
+          "Glacier National Park Vancouver"
+        ],
+        "anchor_city": "Vancouver",
+        "source_title": "Vancouver Park Escapes",
+        "source_url": "https://traveltriangle.com/blog/vancouver-national-parks/",
+        "votes": 1,
+        "opening_hours_text": "",
+        "entry_fee_text": ""
+      },
+      {
+        "name": "Stanley Park",
+        "section_title": "Stanley Park",
+        "section_excerpt": "",
+        "description": "",
+        "travel_time": "",
+        "price": "",
+        "location_hint": "Vancouver, BC V6G 1Z4, Canada",
+        "category_hint": "park",
+        "scope": "poi",
+        "query_hints": [
+          "Stanley Park",
+          "Stanley Park Vancouver",
+          "Stanley Park Vancouver, BC V6G 1Z4, Canada"
+        ],
+        "anchor_city": "Vancouver",
+        "source_title": "Vancouver Park Escapes",
+        "source_url": "https://traveltriangle.com/blog/vancouver-national-parks/",
+        "votes": 1,
+        "opening_hours_text": "",
+        "entry_fee_text": ""
+      },
+      {
+        "name": "Gulf Islands National Park Reserve",
+        "section_title": "Gulf Islands National Park Reserve",
+        "section_excerpt": "",
+        "description": "",
+        "travel_time": "",
+        "price": "",
+        "location_hint": "195-203 Narvaez Bay Rd, Saturna, BC V0N 2Y0, Canada",
+        "category_hint": "island",
+        "scope": "poi",
+        "query_hints": [
+          "Gulf Islands National Park Reserve",
+          "Gulf Islands National Park Reserve 195-203 Narvaez Bay Rd, Saturna, BC V0N 2Y0, Canada",
+          "Gulf Islands National Park Reserve Vancouver"
+        ],
+        "anchor_city": "Vancouver",
+        "source_title": "Vancouver Park Escapes",
+        "source_url": "https://traveltriangle.com/blog/vancouver-national-parks/",
+        "votes": 1,
+        "opening_hours_text": "",
+        "entry_fee_text": ""
+      }
+    ]
+  }
+]

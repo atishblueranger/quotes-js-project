@@ -1,0 +1,38 @@
+[
+  {
+    "job_index": null,
+    "city": "Innsbruck",
+    "category": "photo spots",
+    "title": "The 36 best photo spots in Innsbruck",
+    "url": "https://wanderlog.com/list/geoCategory/160616",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Graz",
+    "category": "romantic places",
+    "title": "The 35 most romantic places in Graz",
+    "url": "https://wanderlog.com/list/geoCategory/164157",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Salzburg",
+    "category": "photo spots",
+    "title": "The 33 best photo spots in Salzburg",
+    "url": "https://wanderlog.com/list/geoCategory/160530",
+    "stage": "download",
+    "error": "TCPTimedOutError('A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.')"
+  },
+  {
+    "job_index": null,
+    "city": "Graz",
+    "category": "castles",
+    "title": "The 20 best castles in and around Graz",
+    "url": "https://wanderlog.com/list/geoCategory/115584",
+    "stage": "download",
+    "error": "TCPTimedOutError('A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.')"
+  }
+]

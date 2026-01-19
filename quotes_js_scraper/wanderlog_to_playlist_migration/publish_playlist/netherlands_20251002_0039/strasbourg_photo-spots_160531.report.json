@@ -1,0 +1,35 @@
+{
+  "job_index": 16,
+  "city": "Strasbourg",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160531",
+  "title": "The 29 best photo spots in Strasbourg",
+  "final_title": "Strasbourg Snapshots: Capture the Charm",
+  "from_cache": false,
+  "counts": {
+    "meta": 29,
+    "blocks": 29,
+    "merged": 29,
+    "accepted_before_trim": 20,
+    "rejected": 9,
+    "accepted_final": 12
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 25,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "930",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_photo-spots_160531.json",
+    "report_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_photo-spots_160531.report.json"
+  },
+  "created_ts": 1759348277
+}

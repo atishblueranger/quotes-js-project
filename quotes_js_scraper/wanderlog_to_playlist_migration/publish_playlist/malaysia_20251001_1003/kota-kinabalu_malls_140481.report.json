@@ -1,0 +1,35 @@
+{
+  "job_index": 7,
+  "city": "Kota Kinabalu",
+  "category_used": "malls",
+  "url": "https://wanderlog.com/list/geoCategory/140481",
+  "title": "The 38 best malls in Kota Kinabalu",
+  "final_title": "Shop and Stroll: Kota Kinabalu's Mall Magic",
+  "from_cache": false,
+  "counts": {
+    "meta": 38,
+    "blocks": 38,
+    "merged": 38,
+    "accepted_before_trim": 22,
+    "rejected": 16,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 19,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "771",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\malaysia_20251001_1003\\kota-kinabalu_malls_140481.json",
+    "report_json": "publish_playlist\\malaysia_20251001_1003\\kota-kinabalu_malls_140481.report.json"
+  },
+  "created_ts": 1759299511
+}

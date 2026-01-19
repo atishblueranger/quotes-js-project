@@ -1,0 +1,665 @@
+{
+  "job_index": 0,
+  "city": "Chennai",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/109820",
+  "title": "The 50 best beaches in and around Chennai (Madras)",
+  "final_title": "Beautiful Beaches of Chennai",
+  "from_cache": true,
+  "counts": {
+    "meta": 50,
+    "blocks": 50,
+    "merged": 50,
+    "accepted_before_trim": 10,
+    "rejected": 40,
+    "accepted_final": 6
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 0
+  },
+  "decisions": [
+    {
+      "placeId": "ChIJuzIBtptoUjoRCrZi347PSQU",
+      "name": "Marina Beach",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "station"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Marina Beach, a vibrant urban oasis located just 4 kilometers from Chennai Central Railway Station, is renowned for being the second longest beach in the world, stretching an impressive "
+    },
+    {
+      "placeId": "ChIJ47bayTlRUjoRtwV4Laz8GLs",
+      "name": "Covelong Private Beach",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "church",
+        "mosque"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Covelong Private Beach, also known as Kovalam Beach, is a popular destination located 17 km from the city of Mahabalipuram. It offers an array of activities for tourists and features not"
+    },
+    {
+      "placeId": "ChIJ2QauKuNnUjoRkfE8ECuLTYQ",
+      "name": "Edward Elliot's Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach",
+        "sand",
+        "shore"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Edward Elliot's Beach, also known as Besant Nagar Beach or Bessie, is a popular destination in Chennai. Named after British explorer Edward Elliot, this beach is renowned for its clean s"
+    },
+    {
+      "placeId": "ChIJRUBqqN5pUjoRA9mVQ2-bzDQ",
+      "name": "Santhome Beach Playground",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "playground"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Santhome Beach Playground, nestled in the charming Santhome neighborhood of Chennai, is a delightful urban escape that beautifully blends history and spirituality. This serene beach is n"
+    },
+    {
+      "placeId": "ChIJedfS_6xoUjoRDu2QcfKbXQs",
+      "name": "Fort St George",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Fort St. George, constructed in 1640, holds a significant place in Chennai's history as the first British fort in India and the birthplace of the East India Company. This impressive stru"
+    },
+    {
+      "placeId": "ChIJt0zT0epcUjoRt1gEFCRpGKI",
+      "name": "Cholamandal Artists Village",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "theater"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Cholamandal Artists Village, located in Injambakkam village just 10km south of Chennai's Adyar River, is the oldest artists' commune in India. Established in 1966 by the pioneers of mode"
+    },
+    {
+      "placeId": "ChIJ2fWIK65dUjoRcFmqiy_Qk68",
+      "name": "Palavakkam beach",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach",
+        "sands"
+      ],
+      "neg_hits": [
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Palavakkam Beach is a tranquil escape that beautifully marries natural splendor with cultural depth. Nestled at the southern tip of Chennai, this picturesque beach features soft golden s"
+    },
+    {
+      "placeId": "ChIJJwqh7KFvUjoRKUvIJ-9qBWg",
+      "name": "Kasimedu Beach",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "bridge"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Kasimedu Beach is a lesser-known spot in Chennai, located about 10 km from the city center. It's not just a recreational beach but also an important fishing harbor. The sandy stretch off"
+    },
+    {
+      "placeId": "ChIJM-WyVNJnUjoRidu8sHTZJ8s",
+      "name": "Kapaleeshwarar Temple",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Nestled in the vibrant neighborhood of Mylapore, Chennai, the Kapaleeshwarar Temple is a magnificent testament to ancient Dravidian architecture and spiritual heritage. Dedicated to Lord"
+    },
+    {
+      "placeId": "ChIJ3aAOr6NRUjoRy5ybqxPMAhE",
+      "name": "The Madras Crocodile Bank Trust and Centre for Herpetology",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "bank",
+        "crocodile"
+      ],
+      "context_used_excerpt": "Target category: beaches General: The Madras Crocodile Bank Trust and Centre for Herpetology is a remarkable destination in Chennai that combines wildlife conservation with education. Established in 1976 by the dedicated"
+    },
+    {
+      "placeId": "ChIJcUUknJpdUjoRS1Okt6ChlYc",
+      "name": "Express Avenue",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "cinema",
+        "court",
+        "mall"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Express Avenue Mall in Chennai is a vibrant destination that seamlessly blends shopping, dining, and entertainment. This expansive complex boasts an impressive array of retailers ranging"
+    },
+    {
+      "placeId": "ChIJ-4qb8w5mUjoRNhwcE3v6B5U",
+      "name": "Government Museum Chennai",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "museum",
+        "theatre"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Nestled within the sprawling 16-acre Pantheon Complex, the Government Museum Chennai is a treasure trove of art and history that dates back to its establishment in 1851. This museum feat"
+    },
+    {
+      "placeId": "ChIJOUzl29xpUjoRC6lritlWRqM",
+      "name": "Marina Beach",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "museum"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Marina Beach in Chennai is a favorite spot for both locals and tourists. Besides its expansive sandy shores, the beach offers a range of activities and attractions. Visitors can explore "
+    },
+    {
+      "placeId": "ChIJSdphC2BbUjoRLAtVgdEEM_o",
+      "name": "Akkarai Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Akkarai Beach is a laid-back and serene destination, offering a peaceful atmosphere away from the bustling crowds. Located in South Chennai, it provides a sandy coastline stretching from"
+    },
+    {
+      "placeId": "ChIJH7hVUn9oUjoR3pS3Si7dSKE",
+      "name": "Santhome Cathedral Basilica",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "church"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Nestled in the vibrant Mylapore neighborhood of Chennai, Santhome Cathedral Basilica stands as a magnificent testament to history and faith. Originally constructed by Portuguese explorer"
+    },
+    {
+      "placeId": "ChIJcz_Hx_hnUjoRV2udbMHpzno",
+      "name": "Shri Ashtalakshmi Temple",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "bay"
+      ],
+      "neg_hits": [
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: The Shri Ashtalakshmi Temple in Chennai is a vibrant and multi-level seaside temple that pays homage to the Hindu goddess Lakshmi. Situated in Sholinganallur, this temple is dedicated to"
+    },
+    {
+      "placeId": "ChIJoz57ygdnUjoRTw7nvgkxf-0",
+      "name": "Spencer Plaza",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "mall"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Spencer Plaza, located in Chennai, is a renowned shopping destination with a rich history dating back to the British Raj era. It is considered the oldest shopping mall in India and one o"
+    },
+    {
+      "placeId": "ChIJYTN9T-plUjoRM9RjaAunYW4",
+      "name": "Chennai",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "bay"
+      ],
+      "neg_hits": [
+        "church",
+        "fort",
+        "museum",
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Chennai, the vibrant capital of Tamil Nadu, is a city steeped in history and culture along the picturesque Bay of Bengal. Once known as Madras, it boasts significant landmarks like Fort "
+    },
+    {
+      "placeId": "ChIJcVcO_UZmUjoR21emTXt0U4k",
+      "name": "Semmozhi Poonga - Chennai, Tamilnadu",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Nestled in the heart of Chennai, Semmozhi Poonga is a tranquil botanical garden that spans an impressive 20 acres. Opened in 2010, it showcases over 500 plant species, including some exo"
+    },
+    {
+      "placeId": "ChIJlRxQu6FoUjoR3ndsYMUh9s0",
+      "name": "University of Madras",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "university"
+      ],
+      "context_used_excerpt": "Target category: beaches General: The University of Madras, established in 1857, is a prestigious public academic institution located in Chennai. The campus houses 68 departments and notable landmarks such as the Senate "
+    },
+    {
+      "placeId": "ChIJESn9jDZnUjoR8WqBv91TpMw",
+      "name": "Madras War Cemetery",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Madras War Cemetery, established by the Commonwealth War Graves Commission, is a solemn site dedicated to honoring the fallen soldiers of East and South India from World War II. Similar "
+    },
+    {
+      "placeId": "ChIJGxM3PYVnUjoRLBGvN-i7SJ4",
+      "name": "Besant Nagar Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Besant Nagar Beach, also known as Elliot's Beach or Bessie, is a serene and unexplored spot in Chennai. It offers a relaxing view with its swaying coconut trees and the sea. Located alon"
+    },
+    {
+      "placeId": "ChIJMzDXeQBnUjoRcarSwSqWCJM",
+      "name": "Besant Nagar Beach",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "court"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Besant Nagar Beach, also known as Elliot Beach, serves as a serene retreat from the bustling city life. This vibrant beach is brimming with activities that cater to all ages. Families ca"
+    },
+    {
+      "placeId": "ChIJlRKg-_1lUjoR7MxdBFplWEs",
+      "name": "Kovalam Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach",
+        "coast",
+        "sands"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Kovalam Beach, located about 40 km south of Chennai along the picturesque East Coast Road, is a hidden gem that offers a perfect retreat from urban life. With its soft sands and crystal-"
+    },
+    {
+      "placeId": "ChIJv4hOKxVmUjoREFCBtp-UtMs",
+      "name": "Golden Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach",
+        "sands",
+        "shore"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Golden Beach, a gem in Tamil Nadu, is celebrated for its stunning natural beauty and vibrant atmosphere. This picturesque destination features a long stretch of soft golden sands that me"
+    },
+    {
+      "placeId": "ChIJc6_TeqFoUjoRFNLY4i4zTVI",
+      "name": "Chepauk Palace",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "palace"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Chepauk Palace, a grand Indo-Saracenic-style building, served as the residence of the Nawab of Arcot from 1768 to 1855. It is widely regarded as one of the earliest examples of this arch"
+    },
+    {
+      "placeId": "ChIJMX1ux4hdUjoR4c5I98QBBAg",
+      "name": "Pebble Beach",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Nestled on the outskirts of Chennai, Pebble Beach is a hidden gem that offers a tranquil escape from the hustle and bustle of city life. This serene spot is perfect for those seeking sol"
+    },
+    {
+      "placeId": "ChIJadHDOp9oUjoR_ae0RPQJKI0",
+      "name": "Presidency College",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "college",
+        "school"
+      ],
+      "context_used_excerpt": "Target category: beaches Tags: Bus stop Review: Presidency College is an arts, law and science college in the city of Chennai in Tamil Nadu, India. Established as the Madras Preparatory School on October 15, 1840 and lat"
+    },
+    {
+      "placeId": "ChIJcSPapVVmUjoR8ErwQ5f0VEk",
+      "name": "T. Nagar",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: T. Nagar, short for Thyagaraya Nagar, is a vibrant shopping district in Chennai known for its bustling streets filled with shops and street vendors offering a wide range of items such as"
+    },
+    {
+      "placeId": "ChIJqdwM3_pnUjoR_T7r84eFIlQ",
+      "name": "Besant Nagar",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Besant Nagar is an upscale coastal neighborhood known for its lively vibe and proximity to Elliot's Beach. The area is home to landmarks like the Sri Ashtalakshmi Temple, Karl Schmidt Me"
+    },
+    {
+      "placeId": "ChIJFzid9UNdUjoRu4skqaL9HZE",
+      "name": "Valmiki Nagar",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches"
+    },
+    {
+      "placeId": "ChIJoZMe_p1oUjoRIOvbaW67UKo",
+      "name": "Arulmigu Sri Parthasarathyswamy Temple",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Nestled in the vibrant locality of Triplicane, the Arulmigu Sri Parthasarathyswamy Temple is a stunning 8th-century marvel dedicated to Lord Krishna. This sacred site, revered as one of "
+    },
+    {
+      "placeId": "ChIJoeVgAZdcUjoRU8iNNuLYHW4",
+      "name": "Snow Kingdom",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "theatre"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Nestled in the vibrant city of Chennai, VGP Snow Kingdom offers a delightful escape into a winter wonderland, making it an ideal destination for families looking to beat the heat. This i"
+    },
+    {
+      "placeId": "ChIJNYWlz-dcUjoRLx2FG0jgw5Y",
+      "name": "VGP Universal Kingdom",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "theater"
+      ],
+      "context_used_excerpt": "Target category: beaches General: VGP Universal Kingdom is a sprawling amusement park located in Chennai, known for its extensive range of entertainment options suitable for all age groups. Established in 1975, this expa"
+    },
+    {
+      "placeId": "ChIJhXkj8yRdUjoRi529_y783i8",
+      "name": "VGP Marine Kingdom",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Big aquarium with 5 aquatic zones, an underwater tunnel, touch-pool exhibit & live feeding shows. Board note: Big aquarium with 5 aquatic zones, an underwater tunnel, touch-pool exhibit "
+    },
+    {
+      "placeId": "ChIJ3WSdxJxoUjoRMZCq-sm2iAQ",
+      "name": "Vivekananda House",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "museum"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Vivekananda House, formerly an ice store, is now a permanent exhibition showcasing the life of Swami Vivekananda. This marshmallow-pink pavilion served as a meditation space for the reno"
+    },
+    {
+      "placeId": "ChIJa9NSzVVmUjoRE0McuiIxDNU",
+      "name": "Pondy Bazaar",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "market"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Pondy Bazaar, also known as Soundarapandianar Angadi, is a vibrant market and neighborhood situated in T. Nagar, Chennai. It's a major shopping hub offering a wide range of products from"
+    },
+    {
+      "placeId": "ChIJ21y5MW1TUjoRJqymc3lKgf0",
+      "name": "Tiger Cave",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Tiger Cave, located about 5 km from Mahabalipuram in the Saluvankuppam region, is a picturesque retreat for nature enthusiasts. The site features an 8th-century Hindu temple with tiger-h"
+    },
+    {
+      "placeId": "ChIJUekzgFldUjoR6QplyT_9OCI",
+      "name": "Tara Books",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Tara Books is a publishing company located in southern Chennai, known for its beautiful hand-printed books and unique notebooks. The Book Building showroom offers an artful space that en"
+    },
+    {
+      "placeId": "ChIJNwmtvzJmUjoRlKKsEOanxUk",
+      "name": "Church of Our Lady of Light (Luz Church)",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "shore"
+      ],
+      "neg_hits": [
+        "church"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Our Lady of Light Shrine, also known as Luz Church, is a small 16th-century Catholic church built in Portuguese style. The interior is adorned with gilded decorations and houses a shrine"
+    },
+    {
+      "placeId": "ChIJ3Xy7GtBhUjoRV4hZRYpg0L0",
+      "name": "Taj Fisherman's Cove Resort & Spa Chennai",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "bay",
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Taj Fisherman's Cove Resort & Spa Chennai is a chic tropical-themed retreat that offers a luxurious and unique experience for global travelers. Nestled by the Bay of Bengal, this beach r"
+    },
+    {
+      "placeId": "ChIJ8X9W6P9nUjoR1PQDf-g24qg",
+      "name": "CHENNAI CITI CENTRE",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "mall",
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Chennai Citi Centre is a premier destination for leisure, entertainment, and shopping in the heart of Chennai. It offers a wide array of shopping, dining, and entertainment experiences. "
+    },
+    {
+      "placeId": "ChIJIaTrIdxcUjoRF83KBJMQIyE",
+      "name": "Blue Lagoon Beach Resort",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Nestled along the stunning coastline, Blue Lagoon Beach Resort is a vibrant getaway that promises a blend of relaxation and adventure. This serene resort features charming cottage rental"
+    },
+    {
+      "placeId": "ChIJVeKcHJ9RUjoRFNRNWQ737S4",
+      "name": "The Country Club Jade Beach Resort",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: The Country Club Jade Beach Resort is a luxurious 5-star beach resort in Chennai, offering top-notch recreational and clubbing options for those who appreciate luxury. The property boast"
+    },
+    {
+      "placeId": "ChIJN1AlwIxaUjoRvuswDcp1bQM",
+      "name": "Green Coconut Resort",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Nestled in the tranquil embrace of Chennai's lush greenery, Green Coconut Resort offers a delightful escape for those seeking relaxation and connection with nature. This laid-back haven "
+    },
+    {
+      "placeId": "ChIJl0k5Q25mUjoRCP1cqcf3OiQ",
+      "name": "Mystery Rooms Chennai - OFFICIAL Escape Rooms",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_failed",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Mystery Rooms Chennai - OFFICIAL Escape Rooms is a thrilling and immersive experience perfect for families, couples, and friends. It offers an exciting challenge where teams must work to"
+    },
+    {
+      "placeId": "ChIJ4RPWKhBbUjoRy448Eke6dCA",
+      "name": "ECR Speedway",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "school"
+      ],
+      "context_used_excerpt": "Target category: beaches Tags: Car racing venue, Charter school, Go-karting venue Review: I would recommend this place to anyone who loves carting. Coming from bangalore the prices here are cheaper and the carts r in goo"
+    },
+    {
+      "placeId": "ChIJsxdQjPxnUjoRpf7ohH99ef8",
+      "name": "Elliots Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach",
+        "shore"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Elliots Beach, also known as Besant Nagar Beach, is a popular destination in Chennai. This sandy stretch offers a serene escape from the city's hustle and bustle. Visitors can take leisu"
+    },
+    {
+      "placeId": "ChIJb_w7m1tdUjoRqgv5aXb5WWk",
+      "name": "Thiruvanmiyur",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "office"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Thiruvanmiyur, located in the southern part of Chennai, Tamil Nadu, India, is a predominantly residential area that has experienced economic growth due to the establishment of Tidel Info"
+    },
+    {
+      "placeId": "ChIJFTKwhB5dUjoRPdvcFn5legY",
+      "name": "E Coast Rd",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "coast"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: E Coast Rd, a well-known destination located along the picturesque East Coast Road, provides a serene getaway with its unspoiled coastline and modern facilities. This area is famous for "
+    }
+  ],
+  "out_files": {
+    "playlist_json": "trial_playlists\\chennai_beaches_109820.json",
+    "report_json": "trial_playlists\\chennai_beaches_109820.report.json"
+  },
+  "created_ts": 1758855555
+}

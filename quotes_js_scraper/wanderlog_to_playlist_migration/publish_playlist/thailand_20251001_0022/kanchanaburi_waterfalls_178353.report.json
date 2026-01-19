@@ -1,0 +1,35 @@
+{
+  "job_index": 8,
+  "city": "Kanchanaburi",
+  "category_used": "waterfalls",
+  "url": "https://wanderlog.com/list/geoCategory/178353",
+  "title": "The 17 best waterfalls near Kanchanaburi",
+  "final_title": "Chasing Cascades: Kanchanaburi's Waterfall Wonders",
+  "from_cache": false,
+  "counts": {
+    "meta": 17,
+    "blocks": 17,
+    "merged": 17,
+    "accepted_before_trim": 6,
+    "rejected": 11,
+    "accepted_final": 4
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 9,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20251001_0022\\kanchanaburi_waterfalls_178353.json",
+    "report_json": "publish_playlist\\thailand_20251001_0022\\kanchanaburi_waterfalls_178353.report.json"
+  },
+  "created_ts": 1759259473
+}

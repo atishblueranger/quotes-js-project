@@ -1,0 +1,4908 @@
+[
+    {
+        "placeId": "ChIJM9d00OthlRQRcUnqpkJuKT8",
+        "website": "http://www.marcopolomansion.com/restaurant.html",
+        "index": 1,
+        "utcOffset": 180,
+        "longitude": 28.225806,
+        "latitude": 36.442702,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Marco Polo Restaurant is a popular dining spot located within the Marco Polo Mansion hotel, housed in a historic Venetian-era building. Since its opening in 2008, it has been consistently fully booked due to its efficient kitchen and service, as well as the warm hospitality of the owner. The menu features dishes such as seafood salad, oven-baked sea bream with traditional Greek fisherman's soup sauce, and grilled tagliata.",
+        "imageKeys": [
+            "yXkd5cvgRqhrPPAcUxz0hCCW7SeVq1ZZ",
+            "zE2daLKJH6DRzLXJTHi7qu60JGpuiOrT",
+            "RZSU2aSzoF2LO6r6hZdb6uPcETdPsMa4",
+            "JbDAT7vEoU1g5am8mgOC7AyRuoJljBPx",
+            "nOptPkVRk2TSnHR8O6N8Hm9i5MY502uG"
+        ],
+        "ratingCount": 1094,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Marco Polo Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 2241 025562",
+        "address": "Agiou Fanouriou 40-42, Rodos 851 00, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 19,
+                "2": 21,
+                "3": 20,
+                "4": 71,
+                "5": 955
+            }
+        }
+    },
+    {
+        "placeId": "ChIJh680t3UOlRQRvFcrZNXefss",
+        "website": null,
+        "index": 2,
+        "utcOffset": 180,
+        "longitude": 28.084751,
+        "latitude": 36.092469,
+        "rating": 4.2,
+        "excerpt": null,
+        "detail_description": "Mavrikos is a renowned restaurant located in the charming village of Lindos, about 55 km from the center of Rhodes. Established in 1933 and currently managed by brothers Dimitris and Michalis Mavrikos, it has become a culinary institution known for its traditional Greek cuisine. The menu features dishes that highlight the freshest local produce, with an emphasis on sustainability and seasonality.",
+        "imageKeys": [
+            "KQtERk4JgoDKtZFymBHDQBwJJu6AGoAX",
+            "NxkmFl7na7TBcAvQSLXvszqDBW8oSFpP",
+            "ZnCutTMIaZP7SdHGCojPNdTOGRHiP8Z1"
+        ],
+        "ratingCount": 733,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Mavrikos",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 031232",
+        "address": "Lindos 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 38,
+                "2": 41,
+                "3": 71,
+                "4": 162,
+                "5": 417
+            }
+        }
+    },
+    {
+        "placeId": "ChIJec7KlLZmlRQRPAbkseQcyvQ",
+        "website": "https://www.noble.gr/",
+        "index": 3,
+        "utcOffset": 180,
+        "longitude": 28.224882,
+        "latitude": 36.372478,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Noble Gourmet Restaurant is a top-tier fine dining destination situated at the luxurious Elysium Resort & Spa on the northeast coast. The executive chef, George Troumouhis, and head chef Spyros Kougios have meticulously crafted tasting menus that showcase the authentic flavors of Rhodian cuisine. Their dedication to using locally sourced ingredients has resulted in standout dishes like the pitaroudi pie with crab and mushrooms, as well as lamb kapama with marinated eggplants.",
+        "imageKeys": [
+            "bxUqXH6Vu994DKH6hIz0gVY3GyHXTQqn",
+            "Dses1yJYmmG41Bi4dWuVsHAXh7FpJOv3",
+            "b6lwf7RDD5nCiNJuvRXIZTuxBQl0jz1M"
+        ],
+        "ratingCount": 83,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "2030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "2030"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "2030"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "2030"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "2030"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "2030"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "2030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Noble Gourmet Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 2241 045700",
+        "address": "Elysium Resort & Spa | 5 star hotel in Rhodes, Leoforos Rodou - Kallitheas, Ammoudes 851 00, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 5,
+                "2": 1,
+                "3": 2,
+                "4": 9,
+                "5": 67
+            }
+        }
+    },
+    {
+        "placeId": "ChIJqXNVYLttlRQRdOJW8HIClak",
+        "website": "https://www.stegnakozas.gr/",
+        "index": 4,
+        "utcOffset": 180,
+        "longitude": 28.141796,
+        "latitude": 36.211425,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Stegna Kozas is a renowned seafood restaurant located on the picturesque Stegna beach in Rhodes. Established in 1932, it has become an institution beloved by locals and tourists alike. The interior is adorned with ocean-inspired decor, including shells, clay cooking pots, and hanging ornaments. Despite being busy, the friendly staff create a welcoming atmosphere. The restaurant offers stunning sea views and serves fresh fish and local specialties.",
+        "imageKeys": [
+            "0xpGPyb0H2ktrJnSBR0CI18Bc8tLhV6i",
+            "MlSY7SNs3GfbgmwrPpoUTt064ASOuULQ",
+            "U0EpjBG4vGC1TP5g6iyHMdmDeITarfrV",
+            "BdsMKHEXIuyKMYZvuz2Omkhry0vZgieO"
+        ],
+        "ratingCount": 2309,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Stegna Kozas",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+30 2244 022632",
+        "address": "Stegna beach, Stegna 851 02, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 57,
+                "2": 42,
+                "3": 86,
+                "4": 232,
+                "5": 1891
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ9VeNVOhhlRQRjPfE5Eh8osI",
+        "website": "https://www.hatzikelis.com/",
+        "index": 5,
+        "utcOffset": 180,
+        "longitude": 28.23082,
+        "latitude": 36.442546,
+        "rating": 4.2,
+        "excerpt": null,
+        "detail_description": "Hatzikeli is a renowned seafood restaurant located in the capital city of Rhodes, offering an upscale dining experience with a focus on Greek seafood dishes. The menu showcases the finest offerings from the Aegean Sea, featuring expertly prepared dishes that are both visually appealing and delicious. Despite its upscale ambiance, the restaurant offers reasonably priced seafood options.",
+        "imageKeys": [
+            "ZOtVCZgpgnZqocaMRhE1KRw1dIX7udvF",
+            "PtOci8IGxVgNEw3mkmKH6QzZrKsf6P5N",
+            "sFfPBqFjzOpM03XkTdyZvHzcAo5KJD4m",
+            "v08WsArmeDpDyP87j4AZLd6hd65tG6hn",
+            "G6aFxUMkEDpajEtijogsTZItukVpQKIA"
+        ],
+        "ratingCount": 973,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Hatzikeli",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 027215",
+        "address": "Solomou Alchadef 9, Rodos 851 00, Greece",
+        "types": [
+            "Greek restaurant",
+            "Fish restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 91,
+                "2": 48,
+                "3": 73,
+                "4": 160,
+                "5": 605
+            }
+        }
+    },
+    {
+        "placeId": "ChIJPYIYVOlhlRQRu3djatih41A",
+        "website": "http://www.mamasofia.gr/",
+        "index": 6,
+        "utcOffset": 180,
+        "longitude": 28.223517,
+        "latitude": 36.444177,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Mama Sofia is a renowned restaurant in Rhodes, located in the heart of the medieval Old Town. It offers an authentic Greek atmosphere and serves homemade, fresh food along with exquisite wines. The restaurant has received great reviews for its various food options and friendly, local ambiance. As one of the oldest and most historical restaurants in Rhodes, Mama Sofia is a multi-generational family-run business that has been serving traditional Greek and Mediterranean cuisine since 1967. It also caters to vegetarian diners.",
+        "imageKeys": [
+            "ENjKs9NdZdsD1zLxJNOqoMB5h3zD0WdY",
+            "jtQLy4jA61vBbAjCmOaB7T4S0OrmdZFD",
+            "7P48MHZnSy1M1UX6bk89BXNqkJNbnCQE",
+            "gFdIzuBE9xtn5PPeetHKhydmZqcUjx0k",
+            "5CCYZZVORwuUgffTShrhMFEKZGvLfXwT"
+        ],
+        "ratingCount": 4572,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Mama Sofia",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 024469",
+        "address": "Οδός Ορφέως 28, Παλιά Πόλη, 28 Orfeos Street, Old Town, Rhodes/Rodos 851 00, Greece",
+        "types": [
+            "Greek restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 126,
+                "2": 111,
+                "3": 260,
+                "4": 710,
+                "5": 3387
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ6yWdVOVhlRQRkvFZusxEEFY",
+        "website": "http://www.kerasmarestaurant.com/",
+        "index": 7,
+        "utcOffset": 180,
+        "longitude": 28.236265,
+        "latitude": 36.434281,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Kerasma is a modern restaurant in Rhodes that has gained popularity since its opening in 2010. It offers a contemporary twist on traditional Greek cuisine, creating dishes that blend local flavors with modern techniques and presentation. The chic interior design and attentive service provide a welcoming setting for an exceptional dining experience.",
+        "imageKeys": [
+            "LmH9LarRPprAiR5UaH5XOR98ajnET8Js",
+            "ZDkPt3K0jOyPuPX7PEq1L65Wum4Q2oet",
+            "oJmh8sqW5gLBmG2wgpi79eLfVMUGZYPb",
+            "QTLOBDRP1HEEowHlPMZ7Qfj0AXTCESEP",
+            "v1KCqIuIIdpSM0vHpyZI3OJ71C6bb64p"
+        ],
+        "ratingCount": 982,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Kerasma",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 694 266 2020",
+        "address": "Afstralias 100, Rodos 851 00, Greece",
+        "types": [
+            "Mediterranean restaurant",
+            "Fusion restaurant",
+            "Greek restaurant",
+            "Restaurant",
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 9,
+                "2": 5,
+                "3": 23,
+                "4": 98,
+                "5": 841
+            }
+        }
+    },
+    {
+        "placeId": "ChIJKWQ09ulhlRQRAcjhk8h4buM",
+        "website": "https://m.facebook.com/profile.php?id=783504442030633&ref=content_filter",
+        "index": 8,
+        "utcOffset": 180,
+        "longitude": 28.228315,
+        "latitude": 36.442276,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Taverna Kostas is a charming family-run restaurant located in a quiet alley near the market in the old city of Rhodes. This hidden gem offers a delightful dining experience with its superb meze featuring delectable seafood dishes like squid, cuttlefish, and octopus at reasonable prices. The warm and inviting atmosphere, coupled with the friendly proprietors, makes it an ideal spot for a leisurely evening.",
+        "imageKeys": [
+            "XenCpbh4USgP0VSMyaQxEXYQmEmGbkap",
+            "hwlCoHBqSf4lqxCIiEfiywGH8NaVicYh",
+            "UytfGEQzHoRyFhmCLtPIODjII993YJOb",
+            "rmFMVbjxzBVfa7kSgMdiAlYfaez97vn0"
+        ],
+        "ratingCount": 1495,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Taverna Kostas",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 694 474 1226",
+        "address": "Pithagora 62, Rodos 851 00, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 21,
+                "2": 23,
+                "3": 47,
+                "4": 129,
+                "5": 1298
+            }
+        }
+    },
+    {
+        "placeId": "ChIJiXeczKukoRQRpt7rIcZdrQI",
+        "website": "http://www.mythoslindos.com/",
+        "index": 9,
+        "utcOffset": 180,
+        "longitude": 28.08508,
+        "latitude": 36.092052,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Mythos All Day Restaurant is a charming eatery located in Lindos Main Square, offering breathtaking views of the Lindos Acropolis and the glimmering harbor. The restaurant's ambiance perfectly complements its surroundings, and its dishes are made using locally sourced produce, with most ingredients coming from Mythos's own farms. The menu features imaginative salads bursting with flavor, succulent octopus, battered squid, stuffed vine leaves, and grilled halloumi with ouzo and saffron.",
+        "imageKeys": [
+            "97rPIBChjkdMJVLLxZPflls74zqF267l",
+            "eGKOiypX12wsgCtTG4qDbemTyx8FekND",
+            "HT8by6xgkf3SzI6eWLH7aITDY1qIO7y7",
+            "lGb5MlYuKcIsOZaS2Cuin1EV55ZXoDH7",
+            "zkNy8yfuiJ00R6nEkpMzBUd1Rx6zLPOe"
+        ],
+        "ratingCount": 1813,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Mythos All Day Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 031300",
+        "address": "main square (Next ALFA BANK, Lindos, ΡΟΔΟΣ 851 07, Greece",
+        "types": [
+            "Restaurant",
+            "Bar",
+            "Cafe",
+            "Greek restaurant",
+            "Takeout Restaurant",
+            "Mediterranean restaurant",
+            "Pizza restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 28,
+                "2": 26,
+                "3": 107,
+                "4": 302,
+                "5": 1337
+            }
+        }
+    },
+    {
+        "placeId": "ChIJz9K0zqqkoRQR-qbzOTlQC4g",
+        "website": null,
+        "index": 10,
+        "utcOffset": 180,
+        "longitude": 28.085978,
+        "latitude": 36.090992,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Ambrosia is a charming restaurant owned by George and his wife, Litsa, who designed the menu. The cozy atmosphere of the beautifully designed room, which was originally the family home, offers a quiet oasis from the bustling streets of the village. While it lacks a roof terrace, this adds to its charm. The Mediterranean-influenced eatery offers well-balanced tastes and textures in their Greek and Mediterranean dishes.",
+        "imageKeys": [
+            "LkXITZ0WCDhrY01EAoXRn3UNOZ63JVUe",
+            "os3YbntUnkQxwP5gyMS7H8GMywdp3ES5"
+        ],
+        "ratingCount": 203,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Ambrosia",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 2244 031804",
+        "address": "Lindos 851 07, Greece",
+        "types": [
+            "Greek restaurant",
+            "Mediterranean restaurant",
+            "Wine bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 2,
+                "3": 9,
+                "4": 13,
+                "5": 173
+            }
+        }
+    },
+    {
+        "placeId": "ChIJyUcBIHMOlRQR1xav2GXu3wg",
+        "website": "http://tambakio.com/",
+        "index": 11,
+        "utcOffset": 180,
+        "longitude": 28.087549,
+        "latitude": 36.086269,
+        "rating": 4,
+        "excerpt": null,
+        "detail_description": "Nestled along the serene shores of St. Pauls Bay, Tambakio is a delightful restaurant that offers an unforgettable beachside dining experience. Once a tannery where sheep and goats were processed, this charming spot has transformed over the years into a culinary gem, owned by the same individual behind two popular summer clubs in Lindos. With its stunning views of the ancient Acropolis and sand beneath your feet, guests can savor Mediterranean flavors crafted from fresh coastal ingredients.",
+        "imageKeys": [
+            "15xqRGBxeoPdCs70ZvUNuhIwYKMFUFPQ",
+            "rHZLkpiNaI3TYzz6bYQ9XQw4IKDaOHCM",
+            "j4DSGzk3oscowCUBOENL8yloCJ9JYiBK",
+            "0a3D8ECkg61GpWKmdacGgsCtCKLG0Pnl",
+            "aBuI6l6QDPaNKKQpXsJ9kGc8YMQ9Lir6"
+        ],
+        "ratingCount": 1197,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Tambakio",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+30 2244 033000",
+        "address": "St Paul's Bay, Lindos 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 185,
+                "2": 58,
+                "3": 73,
+                "4": 165,
+                "5": 696
+            }
+        }
+    },
+    {
+        "placeId": "ChIJf_aqP2FvlRQRRBiPLZHqqzw",
+        "website": null,
+        "index": 12,
+        "utcOffset": 180,
+        "longitude": 28.178264,
+        "latitude": 36.306794,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Mimakos Taverna, located on the Rhodes-Lindos Highway near Lindos Golf Course, is a charming eatery in Afantou village renowned for its vibrant Greek nights. Positioned atop a hill, this restaurant offers panoramic vistas of the town and the surrounding area. Serving traditional meze and beloved homemade dishes like moussaka and zucchini fritters, Mimakos provides an authentic taste of Greece.",
+        "imageKeys": [
+            "94apK0BHky4fJLVyWn9wrfDUubXUtdql",
+            "MGJHfDIdgVmceMwrpaAN8L6QtVWUP0rj",
+            "oQmyxecUZiZL2NhJTxqy3ZObkkAEAVNp"
+        ],
+        "ratingCount": 1369,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Mimakos Taverna- nunta Vula",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 051333",
+        "address": "Grèce, Kallithea, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 41,
+                "2": 19,
+                "3": 61,
+                "4": 175,
+                "5": 1082
+            }
+        }
+    },
+    {
+        "placeId": "ChIJp3Cgq3UOlRQR4v836hNy-XQ",
+        "website": "http://www.melenoslindos.com/",
+        "index": 13,
+        "utcOffset": 180,
+        "longitude": 28.088042,
+        "latitude": 36.093008,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Melenos is a top accommodation option in Lindos with a high-quality rooftop restaurant offering stunning views of the acropolis and the surrounding gardens. The restaurant features an ethnic Moroccan design with vibrant colors, candlelight, and creative home-style cuisine. The hotel itself is a paradise perched above the Aegean near Lindos' acropolis, boasting sandstone walls, Byzantine, Arabic, and Ottoman-inspired interiors, and fragrant gardens.",
+        "imageKeys": [
+            "54kKk4xThzEtksrCuEVQIvlIsmYHbY6M",
+            "UDNaES0vuvZN1UEnYNYBpcez8k37Ba7I"
+        ],
+        "ratingCount": 21,
+        "openingPeriods": null,
+        "name": "Melenos",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 2244 032222",
+        "address": "Aκροπόλεως, Lindos 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 1,
+                "5": 16
+            }
+        }
+    },
+    {
+        "placeId": "ChIJEcQAzuZhlRQRHQsO7vDqBFA",
+        "website": null,
+        "index": 14,
+        "utcOffset": 180,
+        "longitude": 28.225242,
+        "latitude": 36.452871,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Meltemi is a family-run restaurant located on the beautiful shores of Rhodes, offering a serene waterfront dining experience. The restaurant is known for its fresh seafood and traditional Greek dishes, all enjoyed with breathtaking views of the Aegean Sea. With open-air seating and a calming ocean breeze, Meltemi provides the perfect setting for a leisurely lunch or romantic dinner.",
+        "imageKeys": [
+            "8ghd3n9VLuscLylVBnXB1F5XqsvCgFvg",
+            "sUZcGA63TAX0eg8oSjIk72WryhJEshxV",
+            "rEVdK2unBqFwCq7vJrD1QtiSPDlGJbaZ"
+        ],
+        "ratingCount": 1250,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Meltemi",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 030480",
+        "address": "Pl. Kountourioti 8, Rodos 851 00, Greece",
+        "types": [
+            "Greek restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 44,
+                "2": 35,
+                "3": 75,
+                "4": 247,
+                "5": 858
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ6_0hI-phlRQRQHb6QxmX2Ss",
+        "website": null,
+        "index": 15,
+        "utcOffset": 180,
+        "longitude": 28.227615,
+        "latitude": 36.442278,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Nireas Restaurant is a beloved seafood spot in the city, known for its impeccable service and tranquil setting away from the bustling center. The family-run establishment offers high-quality produce at reasonable prices without pressuring patrons to overspend. The owner, Theo, brings enthusiasm to the dining experience, which can be enjoyed outdoors under a vine-draped canopy or in the charming lemon-walled interior.",
+        "imageKeys": [
+            "sc9RwVm9iGpeZ2wWay57FIZlSgaV2CBi",
+            "Jq8qpjGaEHNObc5syLKXt2RQ9I81mhLx",
+            "5iND8Fp8Y64a59sgk8PtpamBip3mIopN",
+            "0SG3JQE8XekRIV2Ocg8UfBmehB1DQarO"
+        ],
+        "ratingCount": 842,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Nireas Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 021703",
+        "address": "Sofokleous 22, Rodos 851 00, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 33,
+                "2": 35,
+                "3": 60,
+                "4": 126,
+                "5": 580
+            }
+        }
+    },
+    {
+        "placeId": "ChIJiaBbIuphlRQR7uMBR40Hvto",
+        "website": "http://romios-restaurant.gr/",
+        "index": 16,
+        "utcOffset": 180,
+        "longitude": 28.227757,
+        "latitude": 36.442308,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Romios Restaurant, located at 15 Sofokleous Street in the Old Town, offers a warm and friendly atmosphere with outdoor seating under a large leafy tree adorned with cherry lanterns. The restaurant provides various seating options, from romantic cushioned booths to long plank tables for festive gatherings. Guests can savor traditional Greek dishes like Greek salad made with locally sourced plump and ripe tomatoes.",
+        "imageKeys": [
+            "FzbylhmK16LodxPpWS4AxQu8HFr844jt",
+            "UfdoQ472Q2cDz87UyJOKTWLV9baTpy7r",
+            "kc77rxpWCkHVE7pHYne6TtxThTy1QWi2"
+        ],
+        "ratingCount": 1486,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Romios Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 025549",
+        "address": "Sofokleous 15, Rodos 851 01, Greece",
+        "types": [
+            "Greek restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 59,
+                "2": 59,
+                "3": 96,
+                "4": 284,
+                "5": 1005
+            }
+        }
+    },
+    {
+        "placeId": "ChIJt_nCeulhlRQRkSuiMlClmZ4",
+        "website": "http://www.fotisgroup.com/",
+        "index": 17,
+        "utcOffset": 180,
+        "longitude": 28.225749,
+        "latitude": 36.443741,
+        "rating": 4.1,
+        "excerpt": null,
+        "detail_description": "Located in Menekleous street, Ta Petaladika is a popular and trendy restaurant in Rhodes downtown. Despite its unassuming appearance, the restaurant boasts a fresh white-wood interior and is known for its incredible seafood. The menu offers a variety of delicious dishes such as Sea Bass Carpaccio, Scallops, Anchovies, Cuttlefish Orzo, and Rhodian pitta.",
+        "imageKeys": [
+            "7rlXMbjBZTTCm0KsGi9YRgSqcZnpwXtj",
+            "fWFnshMWPmFX5wHelqcJ8U5xN8EjFvf6",
+            "Hknyow6cDNk0PcrWw9AsmLfqywqUnMcX",
+            "8VisUtJNPRV8HvFIv0DQlBiVISQJk6oo",
+            "LanlRZFakJmyW2RhZfihSdyGiqxB43Dl"
+        ],
+        "ratingCount": 1083,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Τα Πεταλάδικα Ta Petaladika",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 027359",
+        "address": "Menekleous 8, Rodos 851 00, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 127,
+                "2": 52,
+                "3": 83,
+                "4": 182,
+                "5": 643
+            }
+        }
+    },
+    {
+        "placeId": "ChIJEX0E--hhlRQRaC2XmReRfro",
+        "website": "https://m.facebook.com/YachtingClubCafe/",
+        "index": 18,
+        "utcOffset": 180,
+        "longitude": 28.227096,
+        "latitude": 36.447193,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "The Yachting Club Cafe is a modern cafe located on the coast road next to Mandraki Harbour. It offers a perfect spot for relaxing and enjoying the bustling location at any time of day. The cafe provides a lovely atmosphere with both indoor and outdoor seating, offering beautiful views of the harbor, boats, old city wall, and the sea. The staff are known for being super efficient, helpful, and friendly.",
+        "imageKeys": [
+            "mcfHD66agMY2szIXMmbE3t0OTASfb3HQ",
+            "LvaQJR8lusXaP28vXliimmd7ReBBMff8",
+            "ocxUGWRe2YuZyxmOuq2Us1WIQ68kYUPX"
+        ],
+        "ratingCount": 1700,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0100"
+                }
+            }
+        ],
+        "name": "Yachting Club Cafe",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 075723",
+        "address": "Mandraki Μανδράκι, Rodos 851 00, Greece",
+        "types": [
+            "Cafe"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 32,
+                "2": 35,
+                "3": 110,
+                "4": 443,
+                "5": 1097
+            }
+        }
+    },
+    {
+        "placeId": "ChIJk7lu4bR1lRQRFGxqMBEWZYo",
+        "website": "http://www.paraga-apollona.gr/",
+        "index": 19,
+        "utcOffset": 180,
+        "longitude": 27.969995,
+        "latitude": 36.261003,
+        "rating": 4.9,
+        "excerpt": null,
+        "detail_description": "Mageirotechneio Taverna Paraga is a charming traditional Greek cookhouse located at the entrance of Apollona village. Housed in a former clubhouse for Italian officers, it has become a popular meeting spot for locals. The restaurant prides itself on using ingredients sourced from the surrounding farmland and bakes fresh Rhodian bread daily in a wood-fired oven.",
+        "imageKeys": [
+            "SIcDkmzyF5ut28krOf9yOUbSxHozRKYr",
+            "ybzqAyv0MQ2pvjBpGxS0amjQmFkKkR6h",
+            "hKvr75P8VPXQvb7QwoHS9QMnZRDGnzK9",
+            "gYxt1MjDDlXSQmKNlQQlRnLwLuG2a43o"
+        ],
+        "ratingCount": 2230,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1330"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1330"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1330"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1330"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1330"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Mageirotechneio Taverna Paraga",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2246 091247",
+        "address": "Epar.Od. Apollona 13, Apollona 851 06, Greece",
+        "types": [
+            "Greek restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 12,
+                "3": 35,
+                "4": 140,
+                "5": 2041
+            }
+        }
+    },
+    {
+        "placeId": "ChIJmUOM5HQOlRQRsX_L1l9FP7Y",
+        "website": "https://www.caesarslindos.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10439310883933894050",
+        "index": 20,
+        "utcOffset": 180,
+        "longitude": 28.08671,
+        "latitude": 36.091054,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "The Cesar Meze Bar is a fusion eatery located in a charming inner courtyard adorned with wooden daybeds and large striped cotton cushions. The ambiance is further enhanced by the presence of lush plants in oversized pots, lanterns hanging from thick sailing ropes, and an inviting rooftop area adjacent to a sparkling swimming pool. From here, diners can enjoy breathtaking views of Lindos and the Acropolis while surrounded by pink oleander bushes and intimate wine-covered gazebos.",
+        "imageKeys": [
+            "xcNXSaxpBGqkTQ287eeBqtLLzVTOxQ4q",
+            "OCP5TiZc41OOpUKVeIgaiTUUaoDcMLAL",
+            "9RDwL0vsiAesaG6PFtsRIwpAJpQ9uGQi",
+            "anxtltgxPZVpmuR2sVcPmgwULInKpaG2"
+        ],
+        "ratingCount": 571,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Cesar Meze Bar",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 2244 031410",
+        "address": "Lindos 851 07, Greece",
+        "types": [
+            "Fine dining restaurant",
+            "Greek restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 24,
+                "2": 22,
+                "3": 33,
+                "4": 67,
+                "5": 417
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ00ApCeANlRQRqqp7X5AsO7M",
+        "website": "http://www.pallasbeachtaverna.com/",
+        "index": 21,
+        "utcOffset": 180,
+        "longitude": 28.089196,
+        "latitude": 36.094098,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Nestled right on the sandy shores of Lindos, Pallas Beach Taverna is a delightful escape from the heat and hustle of summer. With its prime location at the base of the island's hills, this charming taverna allows you to savor delicious Greek cuisine without having to trek far in sweltering temperatures.",
+        "imageKeys": [
+            "yTdLVlRDOandooURJ80ap0QKAnxpkc7g",
+            "6zFox8CQTto7LCwERfv7TrqUTMgwQ7Rj",
+            "hsK1anTVQ2AjJB0w5jQIJM27eUtxfBQJ",
+            "DeyZ24gmrhZJJFhsrUu0RznfyON8UaDJ"
+        ],
+        "ratingCount": 474,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Pallas Beach Taverna",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 032039",
+        "address": "Lindos 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 18,
+                "2": 11,
+                "3": 22,
+                "4": 75,
+                "5": 342
+            }
+        }
+    },
+    {
+        "placeId": "ChIJEy33Te5hlRQRMNk4xdwa7Vs",
+        "website": "http://www.restaurantwonder.gr/",
+        "index": 22,
+        "utcOffset": 180,
+        "longitude": 28.219833,
+        "latitude": 36.446996,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Nestled in the heart of Rhodes town, Restaurant Wonder is a culinary gem that beautifully marries Mediterranean flavors with French influences. Since its establishment in 2001, this charming eatery has been dedicated to serving the local community with dishes crafted from fresh, locally sourced ingredients. The menu is thoughtfully updated based on seasonal availability, ensuring that every visit offers something new and delightful. During my recent summer visit to Restaurant Wonder, I was utterly captivated by both the stunning ambiance and the exquisite cuisine.",
+        "imageKeys": [
+            "fYRNgO8CvgRlhsdzUxrFlVVrqxEG8cDa",
+            "JbeQbQRNAsNm4t7blu5QBBYojyD5KXOK",
+            "ZCZTC5JstlpD1cGZGXZwMj2mn1YKQC5d",
+            "lOowQjthiLvUSD91eTvloiP1Oj8CBW4Y"
+        ],
+        "ratingCount": 313,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Restaurant Wonder",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+30 2241 039805",
+        "address": "El. Venizelou 16-18, Rodos 851 00, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 5,
+                "3": 15,
+                "4": 39,
+                "5": 249
+            }
+        }
+    },
+    {
+        "placeId": "ChIJrcWnfOlhlRQRSZFZaXgSHrU",
+        "website": null,
+        "index": 23,
+        "utcOffset": 180,
+        "longitude": 28.225097,
+        "latitude": 36.44337,
+        "rating": 3.9,
+        "excerpt": null,
+        "detail_description": "Nestled in the charming Tris Village, just a short drive from Rhodes Town, Ta Kioupia is a culinary gem that has garnered international acclaim. Renowned chef Michael Koumbiadis and his son Thanasis have created an enchanting dining experience since 1972, blending traditional Greek recipes with modern flair using the finest local ingredients. The rustic yet stylish ambiance of this old house sets the perfect backdrop for savoring exquisite dishes like their famous moussaka and delectable aubergine dip.",
+        "imageKeys": [
+            "aMaXjjsC0MJPWHCXEfMVVGiZN6JkX2Dk",
+            "HXwj2GE3NsjdrQJtYDzfbQeP1fJqFlpY",
+            "2GlDoTpYNp5lM4e5e7gkLfwi8ACZaGZx",
+            "OLq3EQ4cSRCqoENIs6dcAbKCgArLvUoL"
+        ],
+        "ratingCount": 20,
+        "openingPeriods": [],
+        "name": "Ta Kioupia",
+        "permanentlyClosed": true,
+        "priceLevel": null,
+        "phone": "+30 2241 030192",
+        "address": "Menekleous 22, Rodos 851 00, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 1,
+                "3": 0,
+                "4": 4,
+                "5": 11
+            }
+        }
+    },
+    {
+        "placeId": "ChIJOan24OlhlRQRcbW8LalkFlo",
+        "website": null,
+        "index": 24,
+        "utcOffset": 180,
+        "longitude": 28.229305,
+        "latitude": 36.44319,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Nestled within the enchanting medieval walls of Rhodes Old Town, Alexis 4 Seasons is a charming family-run restaurant that beautifully marries historical charm with modern sophistication. This delightful dining spot offers an impressive menu that showcases traditional Greek and Mediterranean flavors, all presented with a contemporary twist. The romantic atmosphere is enhanced by a stunning rooftop terrace, where diners can soak in breathtaking views of the ancient city while enjoying their meals.",
+        "imageKeys": [
+            "Y51MYz4EFaLzdcSsNIdXiDHoEQ0rVGgj",
+            "njnGhgvSTT9vU43bD1DQ0Wo9ZZynSQNC",
+            "CBbQrUgY1FGf5b7HL3szMbNDe9taXrrW",
+            "MrnWUMBeUp2dyKbSrjvzRK8WtQ8DaJNJ",
+            "7BIVEBaA7AGxMDCg5Wd77OSXPG18HQ3u"
+        ],
+        "ratingCount": 681,
+        "openingPeriods": [],
+        "name": "Alexis 4 Seasons",
+        "permanentlyClosed": true,
+        "priceLevel": 2,
+        "phone": "+30 2241 070523",
+        "address": "Aristotelous 33, Rodos 851 33, Greece",
+        "types": [
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 31,
+                "2": 21,
+                "3": 42,
+                "4": 99,
+                "5": 488
+            }
+        }
+    },
+    {
+        "placeId": "ChIJF6i0guVhlRQR0pxiOTYydDg",
+        "website": "https://linktr.ee/onobymarouli",
+        "index": 25,
+        "utcOffset": 180,
+        "longitude": 28.220594,
+        "latitude": 36.450196,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "If you're in Rhodes and looking for a delightful dining experience, make sure to visit ONO by Marouli. This charming vegetarian restaurant is a haven for plant-based food lovers, offering an array of inventive dishes that cater to both vegans and health-conscious diners. The vibrant atmosphere is complemented by playful interiors, making it an inviting spot to enjoy your meal. The menu at ONO features a creative blend of international flavors with Mediterranean influences, ensuring there's something for everyone.",
+        "imageKeys": [
+            "3SoQPqIIy37lZQtqNqaXOeBlOiftZyS1",
+            "3TXeg12VfrqG6bHK1pl2kngiErJZFwF6",
+            "sjcJ8Ja2nN7LL2y9lD4VSMiPHkOo7AYP"
+        ],
+        "ratingCount": 1785,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "ONO",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 073610",
+        "address": "28 october street & amarndou corner, Rodos 850 00, Greece",
+        "types": [
+            "Vegetarian restaurant",
+            "Beer store",
+            "Breakfast restaurant",
+            "Coffee shop",
+            "Gluten-free restaurant",
+            "Health food restaurant",
+            "Kosher restaurant",
+            "Vegan restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 18,
+                "2": 14,
+                "3": 41,
+                "4": 153,
+                "5": 1548
+            }
+        }
+    },
+    {
+        "placeId": "ChIJT8-Bg3FhlRQRCtUOuNx7oxY",
+        "website": "https://norproject.gr/",
+        "index": 26,
+        "utcOffset": 180,
+        "longitude": 28.225781,
+        "latitude": 36.452916,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "The NOR Beach House Project is a must-visit destination in Rhodes, offering an enchanting blend of dining and nightlife. With its stunning ocean views, this beach bar and restaurant serves a diverse menu that includes Japanese, European, Italian, and Mediterranean dishes—sushi being a standout favorite. Guests rave about the exceptional quality of food like shrimp salad, ceviche, and fresh fish delicacies.",
+        "imageKeys": [
+            "Wz0OSmIqtoZBoDBUxTi3XXGVrct6fsER",
+            "nqV4krK6GB5taxlw9lb9523TsIwMy9ML",
+            "wNjvAGNnymr7h9Y8Up1FORRhmtBoVV5u"
+        ],
+        "ratingCount": 674,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0300"
+                }
+            }
+        ],
+        "name": "NOR Beach House Project",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 698 015 7709",
+        "address": "Pl. Kountourioti 9, Rodos 851 00, Greece",
+        "types": [
+            "Restaurant",
+            "Bar",
+            "Coffee shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 62,
+                "2": 21,
+                "3": 26,
+                "4": 71,
+                "5": 505
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ3WfSR-hvlRQRUyChOfql9qQ",
+        "website": null,
+        "index": 27,
+        "utcOffset": 180,
+        "longitude": 28.166691,
+        "latitude": 36.250057,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Nestled within the scenic gardens of Atlantica Imperial hotel, Mylos restaurant emanates an atmosphere of romance. Its breathtaking setting allows patrons to savor their meals while admiring unobstructed vistas of the Aegean Sea and Tsampika mountain through elegant French windows. The culinary offerings showcase a modern twist on Greek cuisine, with Ilias Kakouris at the helm as executive chef.",
+        "imageKeys": [
+            "pnvcHgPjt8v3c3zBpA0jeCCSCYAGOsXJ",
+            "CtWmkgZtIVVPdCFFgmbG3ORKIrKQOApK",
+            "CO3WZhBXFlZslZmXIhBiL84h5ztC3Pp7"
+        ],
+        "ratingCount": 38,
+        "openingPeriods": null,
+        "name": "Mylos",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 2241 057000",
+        "address": "7528+2M, Kolympia 851 02, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 3,
+                "5": 32
+            }
+        }
+    },
+    {
+        "placeId": "ChIJGbKc_UdnlRQRfXlxRpDw230",
+        "website": "https://www.rodospalladium.gr/restaurants/thalassa-a-la-carte-restaurant/",
+        "index": 28,
+        "utcOffset": 180,
+        "longitude": 28.22211,
+        "latitude": 36.368512,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Thalassa is a delightful dining destination that perfectly caters to those seeking a light snack or a more substantial meal. Nestled in Kallithea, Greece, it offers an inviting atmosphere with exceptional service. Guests can indulge in brunch from 9:00 AM to 11:00 AM, enjoy light lunches until 4:30 PM, and savor dinner from 7:00 PM to 10:00 PM.",
+        "imageKeys": [
+            "YfuEXI9vnEaAUJVmgAVXv52sendkX3iV",
+            "nzeQXwx4x1qngk1w9ejMMyprDPL1dgZP",
+            "k7KhGjZgaUc6ND4ikO87Op9DpRG7F7Q6"
+        ],
+        "ratingCount": 160,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Thalassa",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 2241 057300",
+        "address": "Leof. Kallitheas, Faliraki 851 00, Greece",
+        "types": [
+            "Greek restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 4,
+                "3": 1,
+                "4": 18,
+                "5": 136
+            }
+        }
+    },
+    {
+        "placeId": "ChIJCSCEYO9hlRQRZUP0pWFwpEk",
+        "website": "http://www.grancafferodos.gr/",
+        "index": 29,
+        "utcOffset": 180,
+        "longitude": 28.221918,
+        "latitude": 36.448923,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "GranCaffe is a highly recommended establishment for wine enthusiasts looking to indulge in a wide variety of wines, complemented by tasteful platters of cheeses and hams. They also offer other delectable options worth exploring. It is advised to allocate some time for perusing their extensive collection of wines. The cafe boasts a pleasant atmosphere, courteous service, and reasonable prices. Visitors will feel at ease knowing that the staff diligently checks vaccine certifications.",
+        "imageKeys": [
+            "kuUKonfDbJB1QWFpTBSTI9Sa7JCJx1I1",
+            "Wlm2ybnGxtHrEoxOxwksun0o3XrOZzis"
+        ],
+        "ratingCount": 636,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "GranCaffe",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 022989",
+        "address": "Grigoriou Lampraki 43, Rodos 851 00, Greece",
+        "types": [
+            "Cafe",
+            "Bar",
+            "Cocktail bar",
+            "Greek restaurant",
+            "Restaurant",
+            "Wine club"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 17,
+                "2": 13,
+                "3": 32,
+                "4": 110,
+                "5": 464
+            }
+        }
+    },
+    {
+        "placeId": "ChIJzbyeQMdhlRQRi5ycWtpXu_w",
+        "website": "http://www.nomadgastronomy.gr/",
+        "index": 30,
+        "utcOffset": 180,
+        "longitude": 28.224121,
+        "latitude": 36.443029,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Nestled in the enchanting Old Town of Rhodes, Nomad Mediterranean Gastronomy invites you to experience a culinary journey like no other. Set within a stunning 15th-century mansion courtyard, this restaurant beautifully marries history with modern gastronomy. The menu is an eclectic mix that showcases local flavors alongside East Asian influences, featuring dishes such as traditional garganelli and innovative sushi creations. As you step into Nomad, you're greeted by sleek decor that sets the stage for an unforgettable dining experience.",
+        "imageKeys": [
+            "M0qapD99rG2m9ADq2TAzXCt2uFXYLnyV",
+            "VjnDoPN9OXYZ7EVJlyyYtCOR3FE4REVl",
+            "yjbrfayyLBtVmvEDZ2T93QMcbaHP8krY",
+            "y0PzzaR60NHkqpS71VB5EJPcuOT0Oopp",
+            "5CryNsd7R3E7EnV1ieYKogtL9K0YpO0H"
+        ],
+        "ratingCount": 404,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1830"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Nomad Mediterranean Gastronomy",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 698 501 8230",
+        "address": "Ippodamou 21, Rodos 851 31, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 10,
+                "3": 17,
+                "4": 34,
+                "5": 337
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ7ShgpmxhlRQREaMlM39WA8A",
+        "website": "http://www.kalamibeachbar.gr/",
+        "index": 31,
+        "utcOffset": 180,
+        "longitude": 28.2281,
+        "latitude": 36.402989,
+        "rating": 4,
+        "excerpt": null,
+        "detail_description": "Kalami Beach Bar, located in a sheltered bay with a sandy beach in Kallithea, Rhodes, is renowned for its top-notch service and entertainment. While the prices may be slightly higher than other bars, the menu offers a variety of dishes and snacks beyond just drinks. This popular spot serves as a cafe, diner, bar, and restaurant all under charming wicker roofs. Visitors rave about the stunning location right on the beach and praise the friendly staff.",
+        "imageKeys": [
+            "o14dvj6OtFJaMfyQ0yjB6bo1rTwTBV52",
+            "qWcxKM6OZQgz01TAIKS804sk4J2e0KQW",
+            "8fjDPxns4DMImWWEy5R2hYSPT8ZPdYVS"
+        ],
+        "ratingCount": 1450,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Kalami Beach Bar",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 694 925 2001",
+        "address": "Λεωφορος Ροδου, Rodos 851 00, Greece",
+        "types": [
+            "Bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 162,
+                "2": 79,
+                "3": 137,
+                "4": 287,
+                "5": 784
+            }
+        }
+    },
+    {
+        "placeId": "ChIJO_aLmOthlRQRZbE5iiOpXpg",
+        "website": null,
+        "index": 32,
+        "utcOffset": 180,
+        "longitude": 28.224598,
+        "latitude": 36.440859,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "The Old Town Corner Bakery is a charming spot located in the heart of Rhodes. It's known for its delicious pastries, including spinach pie and sweet treats that are a must-try during your visit. The bakery offers a cozy atmosphere and is celebrated for its fresh seafood as well. Visitors praise the friendly staff and the high quality and freshness of the bakery products, making it an ideal place to start your day with a delightful breakfast.",
+        "imageKeys": [
+            "6i8MvmtYjTUcqCoxiGowRQ3uM7IduYal",
+            "xCni8VUaAen2U2dJpwnZl6Ua2fOyTiks",
+            "PSgTKEZ7uLtfZ0B4Zi603W4Gn2mTVMmD",
+            "jRM6VvpOfRNZE3kkvVkSArLUHV808PZQ",
+            "cQhUyRKP6ciK6MKDgWbtvKCk4rUWlCYe"
+        ],
+        "ratingCount": 655,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "name": "Old Town Corner Bakery",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "+30 2241 038494",
+        "address": "Omirou 88, Rodos 851 00, Greece",
+        "types": [
+            "Cafe"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 12,
+                "2": 6,
+                "3": 17,
+                "4": 112,
+                "5": 509
+            }
+        }
+    },
+    {
+        "placeId": "ChIJC-Y7DdQNlRQRjW4WOq01DCo",
+        "website": "http://www.ktimalindos.com/",
+        "index": 33,
+        "utcOffset": 180,
+        "longitude": 28.069836,
+        "latitude": 36.10265,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Nestled just a short drive from the charming town of Lindos, Ktima Lindos is a hidden gem that promises an unforgettable dining experience. Perched atop a hill, this mountain-top restaurant boasts breathtaking views that are perfect for a romantic evening or special celebration. With outdoor seating alongside an infinity pool, guests can sip cocktails while soaking in panoramic sunset vistas illuminated by twinkling fairy lights as night falls.",
+        "imageKeys": [
+            "6NfINJOcKfbnfQwfdO18NUx8lqpfoMQK",
+            "IrTk8bm0g3etwnKsSofz8hVzEabLq3XA",
+            "YdYtBL1onepd5IlYGK5mbHMnQXM8vdhC",
+            "VnqmMR5F8Sbhhpfofg4MvoEi3q7mAc1F",
+            "5FOswaJgqitdpnKfZdFUBomiu9b0c5iw"
+        ],
+        "ratingCount": 833,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0030"
+                }
+            }
+        ],
+        "name": "Ktima Lindos",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 694 679 5728",
+        "address": "Right next to Lindos Mare hotel, Lindos 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 18,
+                "2": 14,
+                "3": 20,
+                "4": 73,
+                "5": 708
+            }
+        }
+    },
+    {
+        "placeId": "ChIJlTGomulhlRQRmf7hEkjUpRI",
+        "website": "http://www.fotisgroup.com/",
+        "index": 34,
+        "utcOffset": 180,
+        "longitude": 28.226976,
+        "latitude": 36.443556,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Fournariko, located in Rhodes Old Town, is a traditional bakery and coffee station that offers an authentic experience steeped in baking traditions. The bakery prides itself on using pure ingredients and recipes passed down through generations. Visitors can enjoy a variety of treats such as ladopita with herbs, pizza straight from the brick oven, and frappe. The establishment is open 24/7 and also serves Italian dishes.",
+        "imageKeys": [
+            "hSTjRsFKXMjkDXlenySkoq84DlKdoklb",
+            "P5FpCf9A5zG5WYXX8TauRNtp2J9TEcgZ",
+            "0xzb6EC6aPsd3fWgLOxfzLK8kv8N365f",
+            "cLstwmBFrawaIQlhxEhCaXpQBaCdLhMy",
+            "zgdKKF562SvHd0xDnOell3SXcIHTZvKy"
+        ],
+        "ratingCount": 913,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "name": "Fournariko",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 2241 043057",
+        "address": "Sokratous 41, Rodos 851 00, Greece",
+        "types": [
+            "Pastry shop",
+            "Bakery"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 39,
+                "2": 30,
+                "3": 37,
+                "4": 127,
+                "5": 680
+            }
+        }
+    },
+    {
+        "placeId": "ChIJlWTmDxJvlRQRPB9yEHeqaPs",
+        "website": null,
+        "index": 35,
+        "utcOffset": 180,
+        "longitude": 28.171489,
+        "latitude": 36.288218,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "LHAFHNFEw6UZLhEXNsJGGN2z7ZuMNqla",
+            "bl8Jg3Z5yEv267CoyA6iSKiGfmiPBnic",
+            "oDqRtxRSXg6eOvVQmIDg5krLkeaMLfuw",
+            "5W9Tv4hLczqt6qLevPdmndmqLhWgEBkE",
+            "Eaz1TU5Myakx0SVueHoSamL7QLIFU6C2"
+        ],
+        "ratingCount": 1074,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Katholiki Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 052066",
+        "address": "Panagia Katholiki, Afantou 851 03, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 16,
+                "3": 35,
+                "4": 130,
+                "5": 884
+            }
+        }
+    },
+    {
+        "placeId": "ChIJy_lXyfphlRQRXqkFlIWF-8k",
+        "website": null,
+        "index": 36,
+        "utcOffset": 180,
+        "longitude": 28.217206,
+        "latitude": 36.4519,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "If you're looking for a vibrant spot to catch the latest football or rugby match while in Rhodes, Boomerang Sports Pub is an excellent choice. This lively venue boasts a friendly atmosphere where tourists and locals alike gather to enjoy the game with plenty of drinks flowing. While some may find the decor a bit dated, the attentive service from their popular staff makes up for it.",
+        "imageKeys": [
+            "86l5kU1z2bBJbXJ8EHj6qBVdNlxSSeag",
+            "fimhENJv9xnyMSdg48yoh9zS4JuZz3WS",
+            "aodeUs9wBbL8hf3LZp5nVgwK2NG9aRsU"
+        ],
+        "ratingCount": 207,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0500"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0500"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0500"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0500"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0500"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0500"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0500"
+                }
+            }
+        ],
+        "name": "Boomerang Sports pub",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 694 769 4266",
+        "address": "Orfanidou 48, Rodos 851 00, Greece",
+        "types": [
+            "Bar",
+            "Karaoke bar",
+            "Sports bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 0,
+                "3": 10,
+                "4": 21,
+                "5": 175
+            }
+        }
+    },
+    {
+        "placeId": "ChIJDQu3IephlRQREbCJG0hl0jA",
+        "website": "https://www.facebook.com/megiston.mezedopwleio",
+        "index": 37,
+        "utcOffset": 180,
+        "longitude": 28.227726,
+        "latitude": 36.442938,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "To Megiston is a charming bakery-cafe located near the beginning of the donkey path leading to the Acropolis. The restaurant, run by a friendly family, offers delicious traditional food and hospitable service. Despite some minor issues with the air conditioning, guests enjoyed prompt and professional service. The menu features mouthwatering dishes such as Chicken Souvlaki, moussaka, pork gyros, and Greek salad at reasonable prices.",
+        "imageKeys": [
+            "Pr0uzF3Ne70KdyTlPdDPY8Sm9zlgl52h",
+            "i1b0vxaKvVXfKgrSMvDLp9dqqaRYRo9p",
+            "vTxwCOcHXLWZnuydQqadSBuW0w9qqMPd"
+        ],
+        "ratingCount": 501,
+        "openingPeriods": [],
+        "name": "Το Μέγιστον / To megiston",
+        "permanentlyClosed": true,
+        "priceLevel": 1,
+        "phone": "+30 2241 029127",
+        "address": "Sofokleous 9, Rodos 851 00, Greece",
+        "types": [
+            "Greek restaurant",
+            "Angler fish restaurant",
+            "Cafe",
+            "Fast food restaurant",
+            "Oyster bar restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 15,
+                "2": 6,
+                "3": 31,
+                "4": 96,
+                "5": 353
+            }
+        }
+    },
+    {
+        "placeId": "ChIJma0AuOthlRQRkc0DZSbtJAo",
+        "website": "https://www.facebook.com/pizanias/",
+        "index": 38,
+        "utcOffset": 180,
+        "longitude": 28.227391,
+        "latitude": 36.442189,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Pizanias 'The Sea Star' is a charming, family-owned seafood restaurant located in Rhodes Town. It offers a warm and welcoming atmosphere, capturing the essence of authentic Greek cuisine. The restaurant prides itself on serving the freshest fish, caught daily from the sea and prepared to perfection. Dishes include mixed shellfish, grilled octopus, calamari, and salted fish. Guests can expect a delightful dining experience with delicious food carefully prepared and beautifully presented.",
+        "imageKeys": [
+            "h8qqW9Bf00tkaVciPmwDSpATfYKroeWF",
+            "vJ2tG3I4L2z8YZjuw0NKVVrcRopJBPuy",
+            "xFUmeO6hpXYdEzUNPkO0yK0HzZOrtevA",
+            "Sxw6Dfypq6t2cUVpfKzBz9QcwX2v9bMR"
+        ],
+        "ratingCount": 912,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Pizanias The Sea Star",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2241 022117",
+        "address": "Sofokleous 24, Rodos 851 31, Greece",
+        "types": [
+            "Greek restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 40,
+                "2": 29,
+                "3": 60,
+                "4": 142,
+                "5": 637
+            }
+        }
+    },
+    {
+        "placeId": "ChIJb7ftUuVhlRQRmIO8-T26jMo",
+        "website": "https://www.facebook.com/Piatakiarhodes",
+        "index": 39,
+        "utcOffset": 180,
+        "longitude": 28.217639,
+        "latitude": 36.450765,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Piatakia is a remarkable restaurant bar in Rhodes Town that offers a wide range of Mediterranean cuisines served as small plates, allowing patrons to savor and appreciate various flavors while enjoying cocktails. The chef-led culinary journey promises an adventurous dining experience. Visitors praise the high-end yet reasonably priced food, emphasizing the impeccable service and delightful atmosphere. The passionate hosts and chefs contribute to an amazing evening, despite some room for improvement in certain dishes.",
+        "imageKeys": [
+            "1fwoRMq3TLs51qdUGv0sOo8VRpKKqgD8",
+            "GYo4emMJ3r2nmbGuqcRsvhkDjOSmAWFS",
+            "yjyQYBrWcyih1pYZeHt99FVAxsz9SCNU",
+            "Mf74KSPSl8iZy8q9vLACqreMLIw5C8Xq",
+            "xrsYjt7l7rFstiBK7yhk3ukxnMzAll5U"
+        ],
+        "ratingCount": 413,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Piatakia",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 698 836 2268",
+        "address": "Leontos 13, Rodos 851 00, Greece",
+        "types": [
+            "Tapas restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 5,
+                "3": 12,
+                "4": 30,
+                "5": 359
+            }
+        }
+    },
+    {
+        "placeId": "ChIJHy2F-d8NlRQRU_mLQHgJXoQ",
+        "website": "https://de-de.facebook.com/broccolino.lindos/",
+        "index": 40,
+        "utcOffset": 180,
+        "longitude": 28.087045,
+        "latitude": 36.092953,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Nestled in Lindos with stunning views of the bay, Broccolino Restaurant offers a delightful Italian dining experience. The menu features slow-cooked lamb, truffle gnocchi, and juicy fillet steaks paired with great value house wine. The ambiance is enhanced by low lighting and ocean air, creating an intoxicating combination for a memorable meal. Visitors praise the restaurant for its fantastic homemade pasta and impeccable service, making it a must-visit for Italian food enthusiasts.",
+        "imageKeys": [
+            "TcnZSLeqJ7geib5kXfK65vJsph00h2W6",
+            "IATbWybwSSAocPCAn8AB2838lPytymeP",
+            "N0HCVeVKmE6aaTJObxGb0knfF4Re3ILB",
+            "azlej6HXx8q8n6XtKnPCQt9AkpUtC75t",
+            "tmjCUek3SXDNGZ1t5rIvVHPBym0GTfNf"
+        ],
+        "ratingCount": 455,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Broccolino Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 031688",
+        "address": "Lindou, Rodos 851 00, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 18,
+                "2": 15,
+                "3": 21,
+                "4": 49,
+                "5": 356
+            }
+        }
+    },
+    {
+        "placeId": "ChIJa4au-XQOlRQRtS9kMo0EJEk",
+        "website": null,
+        "index": 41,
+        "utcOffset": 180,
+        "longitude": 28.086213,
+        "latitude": 36.091091,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "rQKNuguPv7d5Ta112FcyOJ7VRL9WZIRK",
+            "pRpNxkTm9QIzGZusDhYtn2fSiJZP11qk",
+            "OXbOM8Bj8PKCkFlf6RTJhZaeAUczHu9b",
+            "x9vfptAAn60xFojCuICLYw3dKEiztZa5"
+        ],
+        "ratingCount": 679,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0100"
+                }
+            }
+        ],
+        "name": "Gelo Blu",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 031560",
+        "address": "Unnamed Road, 851 07, Greece",
+        "types": [
+            "Ice cream shop",
+            "Pastry shop",
+            "Sandwich shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 29,
+                "2": 7,
+                "3": 31,
+                "4": 88,
+                "5": 525
+            }
+        }
+    },
+    {
+        "placeId": "ChIJHYg4gt8NlRQRB6p3Ey2LVdM",
+        "website": "http://www.dolphinslindos.com/",
+        "index": 42,
+        "utcOffset": 180,
+        "longitude": 28.086057,
+        "latitude": 36.094485,
+        "rating": 4,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "WlRrCKfCnrUug7qb0IUaFuKO5ca3X9Ed",
+            "S8gPpxfXTQCQgfK50q22TcZtz61gcQd7",
+            "Fjsd2db9wjMPBVsEoo8OXyT4sM3lK4ak"
+        ],
+        "ratingCount": 444,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0904"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0904"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0904"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0904"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0904"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0904"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0904"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Dolphins Restaurant Lindos",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 033101",
+        "address": "Lindos, 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 48,
+                "2": 16,
+                "3": 36,
+                "4": 115,
+                "5": 232
+            }
+        }
+    },
+    {
+        "placeId": "ChIJOzWgoXMOlRQR_raIRAE9-gw",
+        "website": null,
+        "index": 43,
+        "utcOffset": 180,
+        "longitude": 28.085532,
+        "latitude": 36.090859,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "ZuHeeogcF1XZ7LAeorX5pBL1SVMTcLB9",
+            "V37VOJqTbVboHaZkpRPFjkY2g7eJkmzo",
+            "LTeeXDi8AwUVCQUGJv2OZdMWLIaY0kax",
+            "BYw5bG9SU5z0ZkI3BKqFLuvdPbWW4jn1"
+        ],
+        "ratingCount": 165,
+        "openingPeriods": [],
+        "name": "Olive street restaurant",
+        "permanentlyClosed": true,
+        "priceLevel": 2,
+        "phone": "+30 2244 032091",
+        "address": "Hellas, Lindos, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 3,
+                "3": 7,
+                "4": 22,
+                "5": 131
+            }
+        }
+    },
+    {
+        "placeId": "ChIJfZEEBXUOlRQRlA92NFw1QPA",
+        "website": "http://www.villagecafelindos.com/",
+        "index": 44,
+        "utcOffset": 180,
+        "longitude": 28.086518,
+        "latitude": 36.091967,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Located in the heart of Lindos, Village Cafe is a charming snack bar and cafeteria offering a taste of Greek ease. With a variety of snacks and drinks, including options for vegetarians, vegans, and those with gluten-free diets, it's an ideal spot for a delicious breakfast or brunch. The cafe exudes the typical Lindian charm with its elegant yet simple ambiance.",
+        "imageKeys": [
+            "da4E4Gvoq4gTUWuInhOJwFeKhC1fLEgt",
+            "tEPrn2KrHAKgMR5G61YG4xsnqnlUqFX0",
+            "OWtQ8zuLYqEi2zDwe1QMmFtWchH1Ka3n"
+        ],
+        "ratingCount": 376,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1530"
+                }
+            }
+        ],
+        "name": "Village Cafe Lindos",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 031559",
+        "address": "Lindos 851 07, Greece",
+        "types": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 9,
+                "2": 4,
+                "3": 10,
+                "4": 43,
+                "5": 314
+            }
+        }
+    },
+    {
+        "placeId": "ChIJtygaWnQOlRQRUgtXjXTymIk",
+        "website": "http://www.kalypsolindos.gr/",
+        "index": 45,
+        "utcOffset": 180,
+        "longitude": 28.085533,
+        "latitude": 36.09103,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Kalypso Restaurant is a traditional family-run establishment located in an original Captain's House that has been owned by the same family for decades. The kitchen is led by Ewriypidis, a prominent Greek chef, while his charismatic wife Kiki takes care of the customers. The restaurant offers amazing views of the Acropolis from its rooftop and serves up a selection of Greek dishes with an international flair using local produce.",
+        "imageKeys": [
+            "WoXqpPijwCTtAznAk1R4gltxQTcXzk3k",
+            "vda6ZxEnMydGt3rAicfP507fmXgCsruE",
+            "E61Qac4x1Q8GEVgKfbVb5pwran3oM43E",
+            "M2NDkL7BGcvbHF6QLdzDnZm5GTpVhUFD",
+            "j8HrItKm10tKkSyQkbRq9SQlAG3WCO9g"
+        ],
+        "ratingCount": 901,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Kalypso Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 032135",
+        "address": "Λίνδος. 43, Lindos 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 34,
+                "2": 27,
+                "3": 54,
+                "4": 89,
+                "5": 716
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ75KYVXQOlRQRh6NP9406dGw",
+        "website": null,
+        "index": 46,
+        "utcOffset": 180,
+        "longitude": 28.085796,
+        "latitude": 36.091485,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "If you're looking for a delightful dining experience in Lindos, look no further than Eklekton Brunch & Cocktail Bar. This charming spot offers a warm and attentive atmosphere, making it perfect for both lunch and drinks. Guests rave about the delicious Greek Tuna Salad and juicy Beef Burger, which can be customized to your liking. The staff is friendly and dedicated to ensuring you have a great time. Returning visitors appreciate the reasonable prices and generous portions that make every meal satisfying.",
+        "imageKeys": [
+            "pDzyjtDYZUc9qUklIU9r6VfYbfsjrPrf",
+            "jltJSS1V74tDlMrKZhSEphoMGn2ExnCu",
+            "J3eyvhPtEwcuE8RiIf3fjAMh7h6Ovwnh"
+        ],
+        "ratingCount": 267,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Eklekton Brunch & Cocktail Bar Lindos",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 2244 031286",
+        "address": "Lindos 851 07, Greece",
+        "types": [
+            "Restaurant",
+            "Cafe",
+            "Cocktail bar",
+            "Takeout Restaurant",
+            "Wine bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 6,
+                "3": 19,
+                "4": 53,
+                "5": 185
+            }
+        }
+    },
+    {
+        "placeId": "ChIJJbO9WXQOlRQRrVsn1TYmiZg",
+        "website": null,
+        "index": 47,
+        "utcOffset": 180,
+        "longitude": 28.085668,
+        "latitude": 36.090959,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Odyssia is a stylish and contemporary restaurant that offers Greek food with a touch of innovation. The setting is amazing, with beautiful outdoor and indoor seating. The food is delicious, and the service impeccable.",
+        "imageKeys": [
+            "hNCobAKWUlS4PaMPxsgEWlUXso2bPUMS",
+            "Koh06h8M9gA2m3CZSukAcw5pbaJyJiH7",
+            "GWV1cejq2JUfIQZymxSijVNyFI2xaIbu",
+            "MFYNraL9rlmvOgw9ZfcbCLbsmRES9qPj"
+        ],
+        "ratingCount": 335,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Odyssia",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 697 594 6221",
+        "address": "Lindos 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 12,
+                "2": 12,
+                "3": 17,
+                "4": 37,
+                "5": 256
+            }
+        }
+    },
+    {
+        "placeId": "ChIJB0htVnQOlRQRLhMDop8uAeA",
+        "website": null,
+        "index": 48,
+        "utcOffset": 180,
+        "longitude": 28.08584,
+        "latitude": 36.09123,
+        "rating": 4.2,
+        "excerpt": null,
+        "detail_description": "Nestled on a charming central street in Lindos, Byzantino Restaurant stands out as an exceptional venue for wedding celebrations and receptions. This beautifully renovated stone Captain's House, over 300 years old, offers a stunning backdrop for any event with breathtaking views of the sea and the historic castle. Known for its cozy atmosphere and welcoming service, Byzantino is a favorite among returning visitors.",
+        "imageKeys": [
+            "GBSJQlMYjpoDVTUYnFWq1k1AwwcPpVsj",
+            "lALrmswpHAyoA6VyvZ7BXDelLI4G47qs",
+            "4Ko09P9xuA6qUE0LRqg1xPjBQSoUbIDB",
+            "WfNsI9YN3FJPDWcxIuX7q3SLaqn01PZX",
+            "WPnbilEASOHiDvd3a9rW4EKcRe5W2kBV"
+        ],
+        "ratingCount": 248,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Byzantino Restaurant Lindos",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 694 841 7313",
+        "address": "Lindos 851 07, Greece",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 19,
+                "2": 16,
+                "3": 18,
+                "4": 39,
+                "5": 156
+            }
+        }
+    },
+    {
+        "placeId": "ChIJWwKalZFhlRQRuIyAtW1wZ0E",
+        "website": null,
+        "index": 49,
+        "utcOffset": 180,
+        "longitude": 28.22661,
+        "latitude": 36.443819,
+        "rating": 4.9,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "D2nrvPUM5JNS7O6JMEMJLUO5FKybleeE",
+            "H7ipnqBnu6xt986IYTFCQ9ef4bwDRr1w",
+            "UbRlhT7rHJDX4MMIcmQrhTXlZHkRqsAw",
+            "BGK54tuhnCfkFMbc1QcelcN8JokZhDH5",
+            "4q2psQzFxVX9uYAPl6CKdyuc9pcSaqzC"
+        ],
+        "ratingCount": 1697,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Mevlana shisha bar Rhodes",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+30 694 221 0846",
+        "address": "MEVLANA SHISHA BAR, Sokratous 76, Rodos 851 00, Greece",
+        "types": [
+            "Hookah bar",
+            "Bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 14,
+                "2": 4,
+                "3": 16,
+                "4": 57,
+                "5": 1604
+            }
+        }
+    },
+    {
+        "placeId": "ChIJm_IHE3yolRQR0Bzt1ust7Us",
+        "website": "https://app.wificatalogue.gr/platanos/c/3358",
+        "index": 50,
+        "utcOffset": 180,
+        "longitude": 27.882881,
+        "latitude": 36.059093,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Taverna Platanos at Vati is a traditional Greek eatery that serves authentic dishes in a cozy setting. The friendly staff, including owners Manolis, Soula, and their sons, provide warm hospitality to guests. This hidden gem offers delicious Greek specialties under the shade of a Platanos tree in the village square.",
+        "imageKeys": [
+            "sPD4KdUUjteG979hnTQA7SCQm86z1tah",
+            "0PDsQVrZAH05rrCUxXvrolWDuWio0g0w"
+        ],
+        "ratingCount": 633,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "TAVERNA PLATANOS at VATI",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+30 697 227 5471",
+        "address": "VATI, CAUTION! No RELATION with other synonym tavernas, VATI, South Rhodes 851 09, Greece",
+        "types": [
+            "Country food restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 21,
+                "2": 8,
+                "3": 19,
+                "4": 44,
+                "5": 543
+            }
+        }
+    }
+]

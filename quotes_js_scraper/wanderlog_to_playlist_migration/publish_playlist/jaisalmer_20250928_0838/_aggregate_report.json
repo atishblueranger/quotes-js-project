@@ -1,0 +1,99 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759028924,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\jaisalmer_20250928_0838\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 1,
+      "city": "Jaisalmer",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97322",
+      "title": "The 16 best architecture in Jaisalmer",
+      "final_title": "Architectural Wonders of Jaisalmer",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 16,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "604",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\jaisalmer_20250928_0838\\jaisalmer_architecture_97322.json",
+        "report_json": "publish_playlist\\jaisalmer_20250928_0838\\jaisalmer_architecture_97322.report.json"
+      },
+      "created_ts": 1759029432
+    },
+    {
+      "job_index": 0,
+      "city": "Jaisalmer",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160287",
+      "title": "The 21 best photo spots in Jaisalmer",
+      "final_title": "Capturing Jaisalmer: A Photographic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 15,
+        "rejected": 6,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "605",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\jaisalmer_20250928_0838\\jaisalmer_photo-spots_160287.json",
+        "report_json": "publish_playlist\\jaisalmer_20250928_0838\\jaisalmer_photo-spots_160287.report.json"
+      },
+      "created_ts": 1759029937
+    }
+  ],
+  "end_ts": 1759029937,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 20,
+    "llm_title_calls": 2,
+    "google_places_calls": 14,
+    "cache_hits": 6,
+    "cache_misses": 38
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 20,
+    "llm_title_cache": 2,
+    "google_places_cache": 14,
+    "mobx_data_cache": 2
+  }
+}

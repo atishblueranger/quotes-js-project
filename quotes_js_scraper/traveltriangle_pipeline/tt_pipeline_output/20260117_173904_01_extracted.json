@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Iceland Museum Trail",
+  "placeName": "Iceland",
+  "country": "Iceland",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-iceland/"
+  ],
+  "description": "A soundtrack for the Iceland Museum Trail: echoing galleries, sagas, turf-house hush and wind.",
+  "items": [
+    {
+      "name": "The National Gallery of Iceland",
+      "description": "",
+      "location_hint": "Fríkirjiuvegur 7, Fríkirkjuvegur, 101 Reykjavík, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The National Museum of Iceland",
+      "description": "",
+      "location_hint": "Suðurgata 41, 101 Reykjavík, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Viking World Museum",
+      "description": "",
+      "location_hint": "1, Víkingabraut, 260 Keflavík, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Aurora Reykjavik",
+      "description": "",
+      "location_hint": "Grandagarður 2, 101 Reykjavík, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Culture House of Iceland",
+      "description": "",
+      "location_hint": "Hverfisgata 15, 101 Reykjavík, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Settlement Exhibition",
+      "description": "",
+      "location_hint": "Aðalstræti 16, 101 Reykjavík, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Akureyri Arts Museum",
+      "description": "",
+      "location_hint": "Akureyri, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Saga Museum",
+      "description": "",
+      "location_hint": "Grandagarður 2, 101 Reykjavík, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Reykjavik Maritime Museum",
+      "description": "",
+      "location_hint": "Grandagarður 8, 101 Reykjavík, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Settlement Center – Borgarnes",
+      "description": "",
+      "location_hint": "Brákarbraut 13-15, 310 Borgarnes, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

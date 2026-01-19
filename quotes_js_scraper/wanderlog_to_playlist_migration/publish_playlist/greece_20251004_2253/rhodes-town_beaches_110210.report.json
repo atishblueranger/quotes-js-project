@@ -1,0 +1,35 @@
+{
+  "job_index": 12,
+  "city": "Rhodes Town",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/110210",
+  "title": "The 50 best beaches in and around Rhodes Town",
+  "final_title": "Rhodes Town Beach Bliss: Sun, Sand, Serenity",
+  "from_cache": false,
+  "counts": {
+    "meta": 50,
+    "blocks": 50,
+    "merged": 50,
+    "accepted_before_trim": 39,
+    "rejected": 11,
+    "accepted_final": 24
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 12,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "1062",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\greece_20251004_2253\\rhodes-town_beaches_110210.json",
+    "report_json": "publish_playlist\\greece_20251004_2253\\rhodes-town_beaches_110210.report.json"
+  },
+  "created_ts": 1759601154
+}

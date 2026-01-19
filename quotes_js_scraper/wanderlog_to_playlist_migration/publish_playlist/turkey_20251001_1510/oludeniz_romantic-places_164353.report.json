@@ -1,0 +1,35 @@
+{
+  "job_index": 30,
+  "city": "Oludeniz",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164353",
+  "title": "The 15 most romantic places in Oludeniz",
+  "final_title": "Love in the Air: Oludeniz Escapes",
+  "from_cache": false,
+  "counts": {
+    "meta": 15,
+    "blocks": 15,
+    "merged": 15,
+    "accepted_before_trim": 15,
+    "rejected": 0,
+    "accepted_final": 9
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "847",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\turkey_20251001_1510\\oludeniz_romantic-places_164353.json",
+    "report_json": "publish_playlist\\turkey_20251001_1510\\oludeniz_romantic-places_164353.report.json"
+  },
+  "created_ts": 1759315829
+}

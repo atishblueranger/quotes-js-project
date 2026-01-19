@@ -1,0 +1,1514 @@
+[
+    {
+        "placeId": "ChIJA4Z27RTvxUcRkBwGh3qr9l8",
+        "website": "http://www.jopenkerk.nl/haarlem",
+        "index": 1,
+        "utcOffset": 120,
+        "longitude": 4.629732,
+        "latitude": 52.381215,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Jopen, a renowned brewery in Haarlem, is housed in a converted church on the outskirts of the city's medieval town center. The brewery offers a unique experience with its luxurious cafe, taproom, and museum where visitors can sample their delicious brews straight from the barrel. This former church has been transformed into a beer temple that attracts both locals and tourists alike.",
+        "imageKeys": [
+            "MlRHYGaWvY99fJBCxI6NU3dehXKUHNJT",
+            "kZsTD7rA0TF87qvSFVhESbOclJTSkISS",
+            "q1PF63fxmQzx46DoDpgywi0VuJNPKDgY",
+            "NaJXIofxuN9WOfybiGPP3GCsZtLiZFMU",
+            "9eHrwrjGcE2ykgte1DI1Fj4XQXA3yMzS"
+        ],
+        "ratingCount": 7045,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0100"
+                }
+            }
+        ],
+        "name": "Jopen",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+31 23 533 4114",
+        "address": "Gedempte Voldersgracht 2, 2011 WD Haarlem, Netherlands",
+        "types": [
+            "Brewery",
+            "Beer hall",
+            "Brewpub",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 148,
+                "2": 140,
+                "3": 487,
+                "4": 2128,
+                "5": 4155
+            }
+        }
+    },
+    {
+        "placeId": "ChIJO9v2L0DvxUcRdU0VRVnyzUg",
+        "website": "https://franshalsmuseum.nl/nl",
+        "index": 2,
+        "utcOffset": 120,
+        "longitude": 4.633628,
+        "latitude": 52.376589,
+        "rating": 4.5,
+        "excerpt": "Gallery in a 17th-century building dedicated to portrait painter Frans Hals & the Dutch Old Masters.",
+        "detail_description": "The Frans Hals Museum, located in a 17th-century building in Haarlem, is a popular destination for art enthusiasts. It houses an extensive collection of artworks by the renowned portrait painter Frans Hals and other Dutch Old Masters. The museum also features modern art and boasts a charming inner courtyard with hedge mazes, flower arrangements, and seating areas. Visitors can immerse themselves in the life and career of Frans Hals while admiring his magnificent paintings.",
+        "imageKeys": [
+            "93WozWoPjJfcHmpvcWaTm1S5YFH5irrP",
+            "ESr7cWqcnjycXCzFAOxG2a7S2y1uZAmR",
+            "clThTUZhK7ayMldWt0gGl9kyTuiwyPuM",
+            "useKqjzpI1yWJhgKhjpk68jBKW4ad2Xl",
+            "ad0WnWTeHkSOti51dXGTIneOYViHgNGU"
+        ],
+        "ratingCount": 2919,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Frans Hals Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+31 23 511 5775",
+        "address": "Groot Heiligland 62, 2011 ES Haarlem, Netherlands",
+        "types": [
+            "Art museum",
+            "Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 33,
+                "2": 36,
+                "3": 199,
+                "4": 951,
+                "5": 1724
+            }
+        }
+    },
+    {
+        "placeId": "ChIJbeZoEmnvxUcRLdbE56r1Ufo",
+        "website": "https://www.teylersmuseum.nl/nl/",
+        "index": 3,
+        "utcOffset": 120,
+        "longitude": 4.640345,
+        "latitude": 52.380351,
+        "rating": 4.5,
+        "excerpt": "Displays on art & science, from paintings and prints to fossils & scientific instruments.",
+        "detail_description": "Teylers Museum, the oldest museum in the Netherlands, offers a captivating journey through art and science. Its extensive collection features masterful paintings, drawings by renowned artists, ancient fossils, minerals, scientific instruments, and books. The museum also hosts intriguing exhibitions that highlight awe-inspiring science and art.",
+        "imageKeys": [
+            "sjDLD6L9QDVgCnnLqDk1kQ8dF4NfP7iK",
+            "lvKdqzYtA6uFSflzxaO4fmjzILVj6bgA",
+            "ktrmW92yDvbTop4Eo4b4UTTttm7z99cm",
+            "1iRRU6oqqNhlNc48hyqn9ZvC9CLnvK6s",
+            "sUKjhrTVljEpUs9ENmgLAKg0TNhPGPBo"
+        ],
+        "ratingCount": 4972,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Teylers Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+31 23 516 0960",
+        "address": "Spaarne 16, 2011 CH Haarlem, Netherlands",
+        "types": [
+            "Art museum",
+            "Museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 52,
+                "2": 56,
+                "3": 308,
+                "4": 1422,
+                "5": 3146
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ7edMkmvvxUcRBEd7M8Uhlw0",
+        "website": null,
+        "index": 4,
+        "utcOffset": 120,
+        "longitude": 4.636317,
+        "latitude": 52.381331,
+        "rating": null,
+        "excerpt": "Many notable buildings & cafes surround this central plaza with a twice-weekly farmers’ market.",
+        "detail_description": "Grote Markt is a bustling central plaza surrounded by impressive buildings and charming cafes. It is also home to a vibrant farmers' market that takes place twice a week. The square is not only a hub for local commerce but also an inviting space to relax and enjoy the surroundings. Visitors can immerse themselves in the lively atmosphere, grab a drink at one of the nearby cafes, and take in the historic charm of this iconic location.",
+        "imageKeys": [
+            "TzwoGf2MQaHpZysNPT9iDP89uTUEujVC",
+            "v6oMDwRb2mWUkneuFnLO6TzbBR67eW2T",
+            "fvjJDiOxmqoSxFHkcDGf6sgl0L0Q4Ub4",
+            "yxBYODDJwfS9ZWJh02CgZeLBYW6VAYGr",
+            "ESBXpTax0AlyRYbweGHSg7ZtmdxSE6ZY"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Grote Markt",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Haarlem, Netherlands",
+        "types": [
+            "Sights & Landmarks",
+            "Historic Walking Areas"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ--nhYGzvxUcROX6huIBW4Yo",
+        "website": null,
+        "index": 5,
+        "utcOffset": 120,
+        "longitude": 4.646219,
+        "latitude": 52.387388,
+        "rating": null,
+        "excerpt": "Haarlem is a city outside of Amsterdam in the northwest Netherlands. Once a major North Sea trading port surrounded by a defensive wall, it retains its medieval character of cobblestone streets and gabled houses. It's the center of a major flower-bulb-growing district, and famous for its outlying tulip fields, art museums and hofjes (almshouses built around leafy courtyards).",
+        "detail_description": "Haarlem, located just outside of Amsterdam in the northwest Netherlands, is a city with a rich history. Once a prominent North Sea trading port enclosed by defensive walls, it has preserved its medieval charm with cobblestone streets and traditional gabled houses. The area is renowned for its vibrant flower-bulb-growing district and picturesque tulip fields. Haarlem also boasts art museums and hofjes, which are almshouses built around serene courtyards.",
+        "imageKeys": [
+            "K2co0LefSJ0RranML7EooaB1Kcma8LSl",
+            "oE3JUioosN0TxiJt1HFugsDzyhSRolKg",
+            "kV3VDHsGhKH8682ChPZIQl2nhAvs8qMX",
+            "bcmmdfr3aVEEriwK06PYZjGaeboqoTgo",
+            "VqTUEDt1B8MOAJeJlTP3Olh5GjxsngQS"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Haarlem",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Netherlands",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJk3t85G7vxUcRO-bpJk_pSLU",
+        "website": "http://www.molenadriaan.nl/",
+        "index": 6,
+        "utcOffset": 120,
+        "longitude": 4.642684,
+        "latitude": 52.38389,
+        "rating": 4.7,
+        "excerpt": "18th-century riverside windmill with scenic views, an educational museum & guided tours.",
+        "detail_description": "Windmill De Adriaan (1779) is an 18th-century windmill turned museum located along the picturesque Spaarne River in Haarlem, Netherlands. It offers guided tours and a chance to explore its inner workings while enjoying stunning views of the river and surrounding countryside. Originally built on the northern support of the city's defenses, it has since become a symbol of Dutch history and the role windmills played in daily life.",
+        "imageKeys": [
+            "hvXLsCq30Qx8QBEt4msdGRHJxLwnJ3Ov",
+            "9FABLW28CZ8JImGP3To9citzcQ8ZV7VU",
+            "jIT4Ho04qyR89oa0SxxCv26aUInCDlTr",
+            "dafR1mfokTll3le63rAPexJ33JB0yl7h",
+            "oHK96gJteB0eBWpLn2ApNASCbUJinSQr"
+        ],
+        "ratingCount": 894,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1630"
+                }
+            }
+        ],
+        "name": "Windmill De Adriaan (1779)",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+31 23 545 0259",
+        "address": "Papentorenvest 1A, 2011 AV Haarlem, Netherlands",
+        "types": [
+            "Mill",
+            "Sights & Landmarks",
+            "Museum",
+            "Architectural Buildings",
+            "Historic Sites"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 7,
+                "2": 3,
+                "3": 32,
+                "4": 181,
+                "5": 687
+            }
+        }
+    },
+    {
+        "placeId": "ChIJewMWevPvxUcRU7-Z4v2H4pI",
+        "website": "http://kathedraal.rkhaarlem.nl/",
+        "index": 7,
+        "utcOffset": 120,
+        "longitude": 4.622169,
+        "latitude": 52.376642,
+        "rating": 4.6,
+        "excerpt": "Catholic basilica, built 1895–1930 & dedicated in 1948, named for the city's patron saint.",
+        "detail_description": "The Saint Bavo of Ghent Catholic Cathedral, Leidsevaart is a magnificent basilica located just outside the city center of Haarlem in the Netherlands. It was built from 1895 to 1930 and dedicated in 1948, named after the city's patron saint. The cathedral showcases eclectic and neo-renaissance architecture that leaves visitors in awe.",
+        "imageKeys": [
+            "ZlApE2MasRLj06mkspzPm800g95iiTik",
+            "3gDAjncXpVLA9QAxDZbGj64MWj1pMe5f",
+            "nL24MsmY9QZcVCsgLBCfvWmQy9jXJloB",
+            "2S5ro01X9X96XWLAlXCwWHHdQ3r9VVDB"
+        ],
+        "ratingCount": 1687,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0930"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0930"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Saint Bavo of Ghent Catholic Cathedral, Leidsevaart",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+31 23 532 3077",
+        "address": "Leidsevaart 146, 2014 HE Haarlem, Netherlands",
+        "types": [
+            "Catholic cathedral",
+            "Catholic church"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 15,
+                "2": 11,
+                "3": 62,
+                "4": 382,
+                "5": 1219
+            }
+        }
+    },
+    {
+        "placeId": "ChIJw8pdpkLuxUcRvtMy-_ES3aw",
+        "website": "http://www.np-zuidkennemerland.nl/",
+        "index": 8,
+        "utcOffset": 120,
+        "longitude": 4.592128,
+        "latitude": 52.396055,
+        "rating": 4.7,
+        "excerpt": "National park with beaches, sand-dunes, wild deer & ponies, plus biking, hiking & horseback riding.",
+        "detail_description": "Zuid-Kennemerland National Park is a serene natural escape located just 5 kilometers west of Haarlem. Spanning 3800 hectares, the park features beaches, sand dunes, forests, grasslands, and small lakes. It serves as an important defense against the sea and is home to native vegetation and designated nature reserves.",
+        "imageKeys": [
+            "xP5pp4FlTtYTdtilhp5z83Qa7upt5Qvn",
+            "1jFLuR6tBSuJUvuc6kobwblLFHnPfAP8",
+            "VNySlK7o6WG2kwpaphEopC914ocH29bC",
+            "tYStZ7DPn09U4374ZponRK0Fch8uHKpe",
+            "8T4PtxLPCVi6HxVUcaLhQzhRYhw1sAkg"
+        ],
+        "ratingCount": 4700,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Nationaal Park Zuid-Kennemerland",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+31 23 541 1123",
+        "address": "Zeeweg 12, 2051 EC Overveen, Netherlands",
+        "types": [
+            "National park",
+            "Nature & Parks",
+            "National reserve",
+            "Park"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 42,
+                "2": 29,
+                "3": 149,
+                "4": 936,
+                "5": 3584
+            }
+        }
+    },
+    {
+        "placeId": "ChIJBb4feXLvxUcRNL1Lhn9O_7k",
+        "website": "http://www.ns.nl/",
+        "index": 9,
+        "utcOffset": 120,
+        "longitude": 4.638784,
+        "latitude": 52.388047,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Haarlem, a medieval city in the Netherlands, is surrounded by charming canals and characterized by its picturesque streets, monuments, and the stunning Grote Markt square. The city offers unique shops to explore and is rich in art and culture with renowned museums like Teylers Museum and De Hallen. With its ancient buildings, cobblestone streets, and waterways, Haarlem is a photogenic destination easily accessible from Amsterdam.",
+        "imageKeys": [
+            "9zFETPO48IvxkQkYN4jfxFXJ9vRjopDp",
+            "xxh58NBDasIzFdTtG2pcA7WQN1vn1aX7",
+            "et0WujpQvRjCD1pQXCyhJTCHGOlTSWWI",
+            "1So9gZyTVXKKKaMNwJYrfilwoEOEWCBr",
+            "cHL60HzLMBUqVktM8WtZHrBgoqoRA3KS"
+        ],
+        "ratingCount": 914,
+        "openingPeriods": null,
+        "name": "Haarlem",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Stationsplein 11 L, 2011 LR Haarlem, Netherlands",
+        "types": [
+            "Train station",
+            "Sights & Landmarks",
+            "Architectural Buildings"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 17,
+                "2": 9,
+                "3": 44,
+                "4": 218,
+                "5": 627
+            }
+        }
+    },
+    {
+        "placeId": "ChIJxyvjwWvvxUcRiHb-j9H5tAk",
+        "website": null,
+        "index": 10,
+        "utcOffset": 120,
+        "longitude": 4.637335,
+        "latitude": 52.381072,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "St.-Bavokerk, also known as St. Bavo Cathedral, is a Gothic church located in the central market square of Haarlem. Its 262-foot-high tower dominates the city's skyline and has notable choir screens and stalls, Frans Hals' tomb, and a famous pipe organ made by Christian Muller in 1738. The church has undergone exterior renovations over the years while preserving its interior. Visitors can enjoy the picturesque view of St.",
+        "imageKeys": [
+            "hvbjGTgP3o1Jelc8ZyQ0ypF6eTdMnCHl",
+            "uPlmgSjXCtuWLMGEmDvBHLIfj2uwIpXP",
+            "GG4NpHQ7VS5BT1fb1WQeEuURsrVB8IeE",
+            "Nfl2Kard6J5GyFmw3kn2TSz67TvO4S8i",
+            "NantHKsOI4hBDlsTJTzp7uBvXLuPucEW"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "St.-Bavokerk",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Grote Markt 22, 2011 RD Haarlem, Netherlands",
+        "types": [
+            "Building"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJlzJgyG7vxUcRgATXUItEWPM",
+        "website": "https://restauratiefondsbavo.nl/index.html",
+        "index": 11,
+        "utcOffset": 120,
+        "longitude": 4.640641,
+        "latitude": 52.382843,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "When visiting Haarlem, be sure to explore the impressive City Hall and the grand Stg. Restauratiefonds Grote- of Sint Bavo Kerk te Haarlem, also known as St. Bavokerk. It's worth noting that Mozart had the opportunity to showcase his talent on the church's remarkable 5000-pipe Muller organ during his childhood.",
+        "imageKeys": [
+            "qLDgu4KqALxqBsJG6PdhMQLT6nlt8Jg0"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Stg. Restauratiefonds Grote- of Sint Bavo Kerk te Haarlem",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Kokstraat 6, 2011 JN Haarlem, Netherlands",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJSxNHeG_vxUcR8aC72cV6DLA",
+        "website": null,
+        "index": 12,
+        "utcOffset": 120,
+        "longitude": 4.650247,
+        "latitude": 52.388068,
+        "rating": 4.9,
+        "excerpt": null,
+        "detail_description": "Located along the beautiful Spaarne River just outside the historic center, there's a delightful brunch spot with an amazing interior, cozy atmosphere, and a sunny waterside terrace offering perfect views of passing boats. In addition to dine-in options, they also provide delicious takeout and delivery through their partners. Haarlem is often overlooked in favor of Amsterdam, but its tranquility and spaciousness make it equally enjoyable.",
+        "imageKeys": [
+            "SmQVwxpxQfe837nLZY55D4tzEV15MCwT",
+            "CIqyHwc6en8HRwbg5CLM7qLB9KfzGGvs",
+            "buVVPd0UROTMjLHeAlEsJnLj3apti91G"
+        ],
+        "ratingCount": 10,
+        "openingPeriods": null,
+        "name": "Spaarne",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Netherlands",
+        "types": [
+            "Canal"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 9
+            }
+        }
+    },
+    {
+        "placeId": "ChIJx4rbqmrvxUcRusS_zHDmZ6M",
+        "website": "http://www.hofjezonderzorgen.nl/",
+        "index": 13,
+        "utcOffset": 120,
+        "longitude": 4.631389,
+        "latitude": 52.3775,
+        "rating": 4.2,
+        "excerpt": null,
+        "detail_description": "Hofje Zonder Zorgen is a charming courtyard located in the heart of Haarlem, adjacent to the Proveniershofje. The courtyard is a must-visit landmark and offers a tranquil escape with its secret walled garden.",
+        "imageKeys": [
+            "HPpgJX4UuRiLO63ASepaKo7y0Oj693bV",
+            "0j6zPSeiyltDX4ih1AZg2C27FKpzeBrL",
+            "ZLeQFCn6zkh5QmkG2nraQ7vUof42ODpf",
+            "uym2CAbpGKDKR0Jkj4OKcVSZRwJqMHLt",
+            "UyNoVdkZSHF2qi9zOis82xFv2qgX3E34"
+        ],
+        "ratingCount": 769,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Hofje Zonder Zorgen",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+31 23 531 0607",
+        "address": "Grote Houtstraat 142A, 2011 SV Haarlem, Netherlands",
+        "types": [
+            "Coffee shop",
+            "Breakfast restaurant",
+            "Brunch restaurant",
+            "Lunch restaurant",
+            "Tea house"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 27,
+                "2": 24,
+                "3": 82,
+                "4": 271,
+                "5": 365
+            }
+        }
+    },
+    {
+        "placeId": "ChIJA2QqNRXvxUcRiWrKReu-lCo",
+        "website": "http://www.nativehaarlem.nl/",
+        "index": 14,
+        "utcOffset": 120,
+        "longitude": 4.631338,
+        "latitude": 52.378916,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Native Haarlem - Koffie, established in early 2016, is a popular spot in the heart of Haarlem for coffee enthusiasts. The cafe offers top-notch coffee from White Label Coffee, a specialty roaster from Amsterdam. In addition to their renowned coffee, Native also serves delectable organic and often gluten-free sandwiches and pastries. The cozy interior adorned with greenery and vintage decor creates a welcoming ambiance for patrons to linger over their drinks and food.",
+        "imageKeys": [
+            "bkneqgcnx8ibjXXwFnMOezN2TzMQKZ3K",
+            "OphNkGwltuNfI9EuK1El2FYz6ARF9CAr",
+            "ptaSksTSX2H9ZZTYunrZMCuGvj4LR9Qq",
+            "NCBxzP3p0Bb5jvXJyttEkxvq486fEX1a"
+        ],
+        "ratingCount": 612,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Native Haarlem - Koffie",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+31 6 18904413",
+        "address": "Breestraat 23, 2011 ZX Haarlem, Netherlands",
+        "types": [
+            "Espresso bar",
+            "Coffee shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 8,
+                "2": 10,
+                "3": 14,
+                "4": 116,
+                "5": 464
+            }
+        }
+    },
+    {
+        "placeId": "ChIJqUVs4D_vxUcR2p6XDRD3mUU",
+        "website": "http://www.bavo.nl/over-de-bavo-en-de-nieuwe-kerk/nieuwe-kerk/",
+        "index": 15,
+        "utcOffset": 120,
+        "longitude": 4.629746,
+        "latitude": 52.377272,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Nieuwe Kerk, a Protestant church in Haarlem, is a historic building dating back to the early 1600s. It features a striking bell tower with an ornate dome and gilded clock face, standing out with its unique classical design. The church is renowned for its Baroque tomb of William of Orange, crafted by the talented artists Hendrick and Pieter de Keyser. Its Renaissance tower and clock from 1795 add to the charm of this ancient structure.",
+        "imageKeys": [],
+        "ratingCount": 135,
+        "openingPeriods": null,
+        "name": "Nieuwe Kerk",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Nieuwe Kerksplein 36, 2011 ZT Haarlem, Netherlands",
+        "types": [
+            "Church",
+            "Museums",
+            "Art Museums",
+            "History Museums",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 1,
+                "3": 21,
+                "4": 34,
+                "5": 79
+            }
+        }
+    },
+    {
+        "placeId": "ChIJVcHm0jvvxUcR0etPMosRFF0",
+        "website": "https://www.msquare.nl/contact",
+        "index": 16,
+        "utcOffset": 120,
+        "longitude": 4.622771,
+        "latitude": 52.369732,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Market Square Consult is located at the charming Grote Markt, a historic town square where 10 streets meet. This iconic centerpiece has been a hub of activity for over 700 years, offering visitors a quintessential European experience. Here, one can savor the Dutch way of life by enjoying a coffee or beer while soaking in the delightful atmosphere.",
+        "imageKeys": [],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Market Square Consult",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+31 20 379 1215",
+        "address": "Wagenweg 59, 2012 NC Haarlem, Netherlands",
+        "types": [
+            "Aviation consultant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJjdIsl2vvxUcRcoSin-VSmZA",
+        "website": null,
+        "index": 17,
+        "utcOffset": 120,
+        "longitude": 4.63601,
+        "latitude": 52.381369,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Grote Markt is the vibrant center of Haarlem, where the city's bustling streets converge. It's a hub of activity, hosting the lively Saturday market and exciting events like Kings Fair and Haarlem Culinary Festival. This square serves as an ideal starting point for exploring Haarlem on foot, making it a must-visit for any traveler looking to immerse themselves in the local culture.",
+        "imageKeys": [
+            "zBn6x0QvdSBwJSx9ofNa0goDp48rljCu",
+            "3neX2pCc7HFBsL8ER8K0aHMM5OLibag2",
+            "k13FaQ3kIPQuyVhlHZ149ehjrNSUosOs",
+            "64YYR1iogystf6ZE9LGfZzDMtQ9o8JbV"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Grote Markt",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Haarlem, Netherlands",
+        "types": [
+            "Town square"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJwXIDmGvvxUcR-sbrPP5SCEs",
+        "website": "http://www.franshalsmuseum.nl/",
+        "index": 18,
+        "utcOffset": 120,
+        "longitude": 4.63604,
+        "latitude": 52.381152,
+        "rating": 3.9,
+        "excerpt": "Art museum in a historic space with a focus on modern & contemporary works, photography & video art.",
+        "detail_description": "De Hallen Haarlem is a captivating art museum located in a historic space, offering a focus on modern and contemporary works, photography, and video art. The museum boasts an impressive collection that includes the 17th-century Haarlem School with exceptional attention to mood and psychological tone. Additionally, it features works by renowned artists such as Pieter Bruegel the Younger and Jacob van Ruisdael.",
+        "imageKeys": [
+            "p3VMrWTNcYfgGne00BCvcqP8zYwUlmzn",
+            "pLTYYJS7NedUqibC3yJqe5iXtS4z9FkV",
+            "BlTDaUu0aS7VPUPnHJ5A0XmfvXeTsREt"
+        ],
+        "ratingCount": 500,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "De Hallen Haarlem",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+31 23 511 5775",
+        "address": "Grote Markt 16, 2011 RD Haarlem, Netherlands",
+        "types": [
+            "Museum",
+            "Art museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 33,
+                "2": 37,
+                "3": 76,
+                "4": 171,
+                "5": 184
+            }
+        }
+    },
+    {
+        "placeId": "ChIJs4i5KUDvxUcRWnkzZTwpLGM",
+        "website": "http://www.verweymuseumhaarlem.nl/",
+        "index": 19,
+        "utcOffset": 120,
+        "longitude": 4.634073,
+        "latitude": 52.377085,
+        "rating": 4.1,
+        "excerpt": "16th-century hospital building, now housing a museum of local history with a model city.",
+        "detail_description": "Museum Haarlem is housed in a 16th-century hospital building and offers a glimpse into the history of the city. It features exhibits on local crafts, industries, and everyday life throughout the centuries. The museum also includes a model city and showcases the history of Haarlem from 1000 years ago to the present day.",
+        "imageKeys": [
+            "zZku83RTSZRZMK1vxl7cVar7G7v8ulIM",
+            "QSlvDGIP1eMzGcXE378HPP46lwbxvhvO",
+            "gDnNRKfYYAgXqKzhI1tEVJQN1Zset3Xu",
+            "pLl7KvYgQyKMJRr5HP3zVmKl1nYuVqnA",
+            "SQa3RgA37QMdSsaRqm88aEEDTZrT0iOy"
+        ],
+        "ratingCount": 334,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Verwey Museum Haarlem",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Groot Heiligland 47, 2011 EP Haarlem, Netherlands",
+        "types": [
+            "Museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 9,
+                "3": 45,
+                "4": 126,
+                "5": 143
+            }
+        }
+    },
+    {
+        "placeId": "ChIJw0YCpm3vxUcRcPaxlc2g8mM",
+        "website": "http://www.jetties.eu/",
+        "index": 20,
+        "utcOffset": 120,
+        "longitude": 4.6365,
+        "latitude": 52.385727,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Jetties is a health food restaurant located in Haarlem, Netherlands, offering a variety of organic and homemade dishes such as burgers, pastas, soups, and daily specials. The menu features an array of options including 100% organic meat burgers and a veggie burger. In addition to their delicious fare, Jetties also serves fairtrade coffee and tea with vegan desserts. The cozy atmosphere adds to the dining experience where everything is prepared with love using responsibly sourced ingredients.",
+        "imageKeys": [
+            "MplZYXFuReS8fYgnYvs423fJvj0sSX2Q",
+            "jcrHmqtTfNfxvhDso1kpoM1iVHQhBcZS",
+            "cxgUt8OUZBOyL108rYr6zIrTHpVempjj",
+            "0oaxPu2xJSKraCDnXDVn3aALANJvVjbv"
+        ],
+        "ratingCount": 840,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Jetties",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+31 23 524 2876",
+        "address": "Kruisweg 57, 2011 KW Haarlem, Netherlands",
+        "types": [
+            "Restaurant",
+            "Ice cream shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 15,
+                "2": 24,
+                "3": 69,
+                "4": 243,
+                "5": 487
+            }
+        }
+    }
+]

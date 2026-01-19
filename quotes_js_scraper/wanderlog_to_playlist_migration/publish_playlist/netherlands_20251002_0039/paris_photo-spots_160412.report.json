@@ -1,0 +1,35 @@
+{
+  "job_index": 7,
+  "city": "Paris",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160412",
+  "title": "The 50 best photo spots in Paris",
+  "final_title": "Picture-Perfect Paris: Capture the City of Light",
+  "from_cache": false,
+  "counts": {
+    "meta": 50,
+    "blocks": 50,
+    "merged": 50,
+    "accepted_before_trim": 45,
+    "rejected": 5,
+    "accepted_final": 27
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 46,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "926",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\netherlands_20251002_0039\\paris_photo-spots_160412.json",
+    "report_json": "publish_playlist\\netherlands_20251002_0039\\paris_photo-spots_160412.report.json"
+  },
+  "created_ts": 1759347363
+}

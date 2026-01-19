@@ -1,0 +1,35 @@
+{
+  "job_index": 2,
+  "city": "Visakhapatnam",
+  "category_used": "architecture",
+  "url": "https://wanderlog.com/list/geoCategory/97393",
+  "title": "The 48 best architecture in Visakhapatnam",
+  "final_title": "Visakhapatnam's Architectural Wonders Unveiled",
+  "from_cache": false,
+  "counts": {
+    "meta": 48,
+    "blocks": 48,
+    "merged": 48,
+    "accepted_before_trim": 46,
+    "rejected": 2,
+    "accepted_final": 33
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 7,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "589",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\visakhapatnam_20250927_1806\\visakhapatnam_architecture_97393.json",
+    "report_json": "publish_playlist\\visakhapatnam_20250927_1806\\visakhapatnam_architecture_97393.report.json"
+  },
+  "created_ts": 1758977645
+}

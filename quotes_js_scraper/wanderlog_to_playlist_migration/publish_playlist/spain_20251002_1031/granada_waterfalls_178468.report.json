@@ -1,0 +1,35 @@
+{
+  "job_index": 12,
+  "city": "Granada",
+  "category_used": "waterfalls",
+  "url": "https://wanderlog.com/list/geoCategory/178468",
+  "title": "The 15 best waterfalls near Granada",
+  "final_title": "Granada's Hidden Waterfall Wonders",
+  "from_cache": false,
+  "counts": {
+    "meta": 15,
+    "blocks": 15,
+    "merged": 15,
+    "accepted_before_trim": 1,
+    "rejected": 14,
+    "accepted_final": 1
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 13,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\spain_20251002_1031\\granada_waterfalls_178468.json",
+    "report_json": "publish_playlist\\spain_20251002_1031\\granada_waterfalls_178468.report.json"
+  },
+  "created_ts": 1759383871
+}

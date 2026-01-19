@@ -1,0 +1,35 @@
+{
+  "job_index": 15,
+  "city": "Strasbourg",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164129",
+  "title": "The 34 most romantic places in Strasbourg",
+  "final_title": "Whispers of Love in Strasbourg",
+  "from_cache": false,
+  "counts": {
+    "meta": 34,
+    "blocks": 34,
+    "merged": 34,
+    "accepted_before_trim": 33,
+    "rejected": 1,
+    "accepted_final": 20
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 2,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "947",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_romantic-places_164129.json",
+    "report_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_romantic-places_164129.report.json"
+  },
+  "created_ts": 1759353598
+}

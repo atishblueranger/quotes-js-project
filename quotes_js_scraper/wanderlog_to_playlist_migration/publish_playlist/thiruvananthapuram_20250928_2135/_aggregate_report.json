@@ -1,0 +1,99 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759075514,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\thiruvananthapuram_20250928_2135\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Thiruvananthapuram",
+      "category_used": "waterfalls",
+      "url": "https://wanderlog.com/list/geoCategory/178284",
+      "title": "The 35 best waterfalls near Thiruvananthapuram (Trivandrum)",
+      "final_title": "The 35 best waterfalls near Thiruvananthapuram (Trivandrum)",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 0,
+        "rejected": 35,
+        "accepted_final": 0
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 0
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thiruvananthapuram_20250928_2135\\thiruvananthapuram_waterfalls_178284.json",
+        "report_json": "publish_playlist\\thiruvananthapuram_20250928_2135\\thiruvananthapuram_waterfalls_178284.report.json"
+      },
+      "created_ts": 1759075573
+    },
+    {
+      "job_index": 1,
+      "city": "Thiruvananthapuram",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97329",
+      "title": "The 50 best architecture in Thiruvananthapuram (Trivandrum)",
+      "final_title": "Architectural Wonders of Thiruvananthapuram",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 50,
+        "rejected": 0,
+        "accepted_final": 35
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "582",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thiruvananthapuram_20250928_2135\\thiruvananthapuram_architecture_97329.json",
+        "report_json": "publish_playlist\\thiruvananthapuram_20250928_2135\\thiruvananthapuram_architecture_97329.report.json"
+      },
+      "created_ts": 1759076992
+    }
+  ],
+  "end_ts": 1759076992,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 20,
+    "llm_title_calls": 1,
+    "google_places_calls": 35,
+    "cache_hits": 0,
+    "cache_misses": 58
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 20,
+    "llm_title_cache": 1,
+    "google_places_cache": 35,
+    "mobx_data_cache": 2
+  }
+}

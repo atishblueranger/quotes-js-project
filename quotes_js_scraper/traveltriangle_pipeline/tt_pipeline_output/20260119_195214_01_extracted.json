@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "London's Serene Shrines",
+  "placeName": "London",
+  "country": "the-united-kingdom",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hindu-temples-in-london/"
+  ],
+  "description": "A calm soundtrack for wandering London's quiet chapels, hidden gardens and contemplative corners.",
+  "items": [
+    {
+      "name": "BAPS Shri Swaminarayan Mandir",
+      "description": "",
+      "location_hint": "Pramukh Swami Rd, Neasden, London NW10 8HW, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Shree Swaminarayan Temple, Willesden",
+      "description": "",
+      "location_hint": "220-222, Willesden Ln, London NW2 5RG, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Shree Swaminarayan Mandir, Kingsbury",
+      "description": "",
+      "location_hint": "211 Kingsbury Rd, London NW9 8AQ, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "SKS Swaminarayan Temple",
+      "description": "",
+      "location_hint": "Swaminarayan House, 22-24 Shaftesbury Rd, London E7 8PD, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Leytonstone Temple",
+      "description": "",
+      "location_hint": "159-161 Whipps Cross Rd, Leytonstone, London E11 1NP, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sri Karpaga Vinayagar Temple",
+      "description": "",
+      "location_hint": "2-4 Bedford Rd, London E17 4PX, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Shri Kanaga Thurkkai Amman Temple",
+      "description": "",
+      "location_hint": "5 Chapel Rd, London W13 9AE, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sri Mahalakshmi Temple",
+      "description": "",
+      "location_hint": "241 High St N, London E12 6SJ, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Shree Ghanapathy Temple",
+      "description": "",
+      "location_hint": "125-133 Effra Rd, London SW19 8PU, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "ISKCON London Radha-Krishna Temple",
+      "description": "",
+      "location_hint": "10 Soho St, London W1D 3DL, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

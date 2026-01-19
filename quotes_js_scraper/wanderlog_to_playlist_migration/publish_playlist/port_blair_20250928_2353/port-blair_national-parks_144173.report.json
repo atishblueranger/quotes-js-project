@@ -1,0 +1,35 @@
+{
+  "job_index": 1,
+  "city": "Port Blair",
+  "category_used": "national parks",
+  "url": "https://wanderlog.com/list/geoCategory/144173",
+  "title": "The 16 best national parks around Port Blair",
+  "final_title": "Nature's Wonders: Exploring Port Blair's National Parks",
+  "from_cache": false,
+  "counts": {
+    "meta": 16,
+    "blocks": 16,
+    "merged": 16,
+    "accepted_before_trim": 1,
+    "rejected": 15,
+    "accepted_final": 1
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 8,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\port_blair_20250928_2353\\port-blair_national-parks_144173.json",
+    "report_json": "publish_playlist\\port_blair_20250928_2353\\port-blair_national-parks_144173.report.json"
+  },
+  "created_ts": 1759083828
+}

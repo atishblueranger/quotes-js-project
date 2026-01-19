@@ -1,0 +1,35 @@
+{
+  "job_index": 41,
+  "city": "Mae Rim",
+  "category_used": "malls",
+  "url": "https://wanderlog.com/list/geoCategory/140591",
+  "title": "The 31 best malls in Mae Rim",
+  "final_title": "Mae Rim Mall Adventures Await",
+  "from_cache": false,
+  "counts": {
+    "meta": 31,
+    "blocks": 31,
+    "merged": 31,
+    "accepted_before_trim": 14,
+    "rejected": 17,
+    "accepted_final": 10
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 15,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "693",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_malls_140591.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_malls_140591.report.json"
+  },
+  "created_ts": 1759249431
+}

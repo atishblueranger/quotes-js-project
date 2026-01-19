@@ -1,0 +1,35 @@
+{
+  "job_index": 2,
+  "city": "Hyderabad",
+  "category_used": "architecture",
+  "url": "https://wanderlog.com/list/geoCategory/97260",
+  "title": "The 33 best architecture in Hyderabad",
+  "final_title": "Hyderabad's Architectural Wonders Await",
+  "from_cache": false,
+  "counts": {
+    "meta": 33,
+    "blocks": 33,
+    "merged": 33,
+    "accepted_before_trim": 33,
+    "rejected": 0,
+    "accepted_final": 24
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "602",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\hyderabad_20250927_2017\\hyderabad_architecture_97260.json",
+    "report_json": "publish_playlist\\hyderabad_20250927_2017\\hyderabad_architecture_97260.report.json"
+  },
+  "created_ts": 1758985457
+}

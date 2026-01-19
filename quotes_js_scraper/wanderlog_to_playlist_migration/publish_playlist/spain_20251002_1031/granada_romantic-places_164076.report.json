@@ -1,0 +1,35 @@
+{
+  "job_index": 10,
+  "city": "Granada",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164076",
+  "title": "The 48 most romantic places in Granada",
+  "final_title": "Whispers of Love in Granada",
+  "from_cache": false,
+  "counts": {
+    "meta": 48,
+    "blocks": 48,
+    "merged": 48,
+    "accepted_before_trim": 47,
+    "rejected": 1,
+    "accepted_final": 29
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "976",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\spain_20251002_1031\\granada_romantic-places_164076.json",
+    "report_json": "publish_playlist\\spain_20251002_1031\\granada_romantic-places_164076.report.json"
+  },
+  "created_ts": 1759383830
+}

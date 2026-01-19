@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Secret Scottish Beaches",
+  "placeName": "Scotland",
+  "country": "Scotland",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-in-scotland/"
+  ],
+  "description": "Wind-swept coves and hidden tides — a playlist for wandering secret Scottish beaches.",
+  "items": [
+    {
+      "name": "Traigh Rosamol Beach",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "St. Ninian’s Isle",
+      "description": "",
+      "location_hint": "Shetland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Redpoint Beach",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sandwood Bay",
+      "description": "",
+      "location_hint": "Lairg, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Camusdarach Beach",
+      "description": "",
+      "location_hint": "Morar, Lochaber",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sanna Sands",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Langamull",
+      "description": "",
+      "location_hint": "Ardnamurchan, Lochaber",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "West Beach",
+      "description": "",
+      "location_hint": "Berneray",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Machir Bay",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "North Coast of Iona",
+      "description": "",
+      "location_hint": "Mull",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

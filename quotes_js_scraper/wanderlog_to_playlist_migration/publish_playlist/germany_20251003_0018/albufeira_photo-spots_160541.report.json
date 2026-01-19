@@ -1,0 +1,35 @@
+{
+  "job_index": 43,
+  "city": "Albufeira",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160541",
+  "title": "The 18 best photo spots in Albufeira",
+  "final_title": "Capture Albufeira: A Photogenic Journey",
+  "from_cache": false,
+  "counts": {
+    "meta": 18,
+    "blocks": 18,
+    "merged": 18,
+    "accepted_before_trim": 10,
+    "rejected": 8,
+    "accepted_final": 6
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 14,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\germany_20251003_0018\\albufeira_photo-spots_160541.json",
+    "report_json": "publish_playlist\\germany_20251003_0018\\albufeira_photo-spots_160541.report.json"
+  },
+  "created_ts": 1759438986
+}

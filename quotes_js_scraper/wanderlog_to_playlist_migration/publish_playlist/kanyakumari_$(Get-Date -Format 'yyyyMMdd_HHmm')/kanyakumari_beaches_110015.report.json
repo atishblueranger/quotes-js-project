@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Kanyakumari",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/110015",
+  "title": "The 25 best beaches in and around Kanyakumari",
+  "final_title": "Coastal Escapes: Kanyakumari's Beach Bliss",
+  "from_cache": false,
+  "counts": {
+    "meta": 25,
+    "blocks": 25,
+    "merged": 25,
+    "accepted_before_trim": 8,
+    "rejected": 17,
+    "accepted_final": 6
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 12,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\kanyakumari_$(Get-Date -Format 'yyyyMMdd_HHmm')\\kanyakumari_beaches_110015.json",
+    "report_json": "publish_playlist\\kanyakumari_$(Get-Date -Format 'yyyyMMdd_HHmm')\\kanyakumari_beaches_110015.report.json"
+  },
+  "created_ts": 1758979101
+}

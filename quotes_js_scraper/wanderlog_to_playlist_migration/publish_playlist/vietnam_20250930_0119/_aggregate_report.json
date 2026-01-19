@@ -1,0 +1,449 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759175400,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\vietnam_20250930_0119\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 6,
+      "city": "Hoi An",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109803",
+      "title": "The 34 best beaches in and around Hoi An",
+      "final_title": "Serene Shores of Hoi An",
+      "from_cache": false,
+      "counts": {
+        "meta": 34,
+        "blocks": 34,
+        "merged": 34,
+        "accepted_before_trim": 19,
+        "rejected": 15,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "656",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\hoi-an_beaches_109803.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\hoi-an_beaches_109803.report.json"
+      },
+      "created_ts": 1759175705
+    },
+    {
+      "job_index": 7,
+      "city": "Hoi An",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163773",
+      "title": "The 36 most romantic places in Hoi An",
+      "final_title": "Whispers of Love in Hoi An",
+      "from_cache": false,
+      "counts": {
+        "meta": 36,
+        "blocks": 36,
+        "merged": 36,
+        "accepted_before_trim": 36,
+        "rejected": 0,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "657",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\hoi-an_romantic-places_163773.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\hoi-an_romantic-places_163773.report.json"
+      },
+      "created_ts": 1759176137
+    },
+    {
+      "job_index": 0,
+      "city": "Hanoi",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/140374",
+      "title": "The 40 best malls in Hanoi",
+      "final_title": "Shopping Adventures in Hanoi's Malls",
+      "from_cache": false,
+      "counts": {
+        "meta": 40,
+        "blocks": 40,
+        "merged": 40,
+        "accepted_before_trim": 21,
+        "rejected": 19,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 22,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "658",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\hanoi_malls_140374.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\hanoi_malls_140374.report.json"
+      },
+      "created_ts": 1759176419
+    },
+    {
+      "job_index": 4,
+      "city": "Ho Chi Minh City",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163768",
+      "title": "The 42 most romantic places in Ho Chi Minh City",
+      "final_title": "The 42 most romantic places in Ho Chi Minh City",
+      "from_cache": false,
+      "counts": {
+        "meta": 42,
+        "blocks": 42,
+        "merged": 42,
+        "accepted_before_trim": 40,
+        "rejected": 2,
+        "accepted_final": 28
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 3,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "659",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\ho-chi-minh-city_romantic-places_163768.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\ho-chi-minh-city_romantic-places_163768.report.json"
+      },
+      "created_ts": 1759176850
+    },
+    {
+      "job_index": 28,
+      "city": "Mui Ne",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/111534",
+      "title": "The 21 best beaches in and around Mui Ne",
+      "final_title": "Rhythms of Mui Ne's Coastal Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 11,
+        "rejected": 10,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 8,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "660",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\mui-ne_beaches_111534.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\mui-ne_beaches_111534.report.json"
+      },
+      "created_ts": 1759177019
+    },
+    {
+      "job_index": 27,
+      "city": "Ninh Binh",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160375",
+      "title": "The 40 best photo spots in Ninh Binh",
+      "final_title": "Ninh Binh's Picture-Perfect Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 40,
+        "blocks": 40,
+        "merged": 40,
+        "accepted_before_trim": 34,
+        "rejected": 6,
+        "accepted_final": 24
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 32,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "661",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\ninh-binh_photo-spots_160375.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\ninh-binh_photo-spots_160375.report.json"
+      },
+      "created_ts": 1759177491
+    },
+    {
+      "job_index": 20,
+      "city": "Hạ Long Bay",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109914",
+      "title": "The 20 best beaches in and around Hạ Long Bay",
+      "final_title": "Sun-Kissed Shores of Hạ Long Bay",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 20,
+        "rejected": 0,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "662",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\ha-long-bay_beaches_109914.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\ha-long-bay_beaches_109914.report.json"
+      },
+      "created_ts": 1759177717
+    },
+    {
+      "job_index": 21,
+      "city": "Hạ Long Bay",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163884",
+      "title": "The 30 most romantic places in Hạ Long Bay",
+      "final_title": "Whispers of Love in Hạ Long Bay",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 30,
+        "rejected": 0,
+        "accepted_final": 21
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "663",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\ha-long-bay_romantic-places_163884.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\ha-long-bay_romantic-places_163884.report.json"
+      },
+      "created_ts": 1759178030
+    },
+    {
+      "job_index": 18,
+      "city": "Da Lat",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163879",
+      "title": "The 37 most romantic places in Da Lat",
+      "final_title": "Whispers of Love in Da Lat",
+      "from_cache": false,
+      "counts": {
+        "meta": 37,
+        "blocks": 37,
+        "merged": 37,
+        "accepted_before_trim": 36,
+        "rejected": 1,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "664",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\da-lat_romantic-places_163879.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\da-lat_romantic-places_163879.report.json"
+      },
+      "created_ts": 1759178469
+    },
+    {
+      "job_index": 14,
+      "city": "Hue",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160235",
+      "title": "The 23 best photo spots in Hue",
+      "final_title": "Capturing Hue: A Photographic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 23,
+        "blocks": 23,
+        "merged": 23,
+        "accepted_before_trim": 18,
+        "rejected": 5,
+        "accepted_final": 13
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 16,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "665",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\hue_photo-spots_160235.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\hue_photo-spots_160235.report.json"
+      },
+      "created_ts": 1759178733
+    },
+    {
+      "job_index": 13,
+      "city": "Hue",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163833",
+      "title": "The 25 most romantic places in Hue",
+      "final_title": "Whispers of Love in Hue's Enchantment",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 23,
+        "rejected": 2,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "666",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\hue_romantic-places_163833.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\hue_romantic-places_163833.report.json"
+      },
+      "created_ts": 1759179018
+    },
+    {
+      "job_index": 12,
+      "city": "Da Nang",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160200",
+      "title": "The 20 best photo spots in Da Nang",
+      "final_title": "Capturing Da Nang: Snapshots of Beauty",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 10,
+        "rejected": 10,
+        "accepted_final": 7
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 17,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "667",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\vietnam_20250930_0119\\da-nang_photo-spots_160200.json",
+        "report_json": "publish_playlist\\vietnam_20250930_0119\\da-nang_photo-spots_160200.report.json"
+      },
+      "created_ts": 1759179190
+    }
+  ],
+  "end_ts": 1759179190,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 117,
+    "llm_title_calls": 12,
+    "google_places_calls": 196,
+    "cache_hits": 17,
+    "cache_misses": 354
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 117,
+    "llm_title_cache": 12,
+    "google_places_cache": 196,
+    "mobx_data_cache": 12
+  }
+}

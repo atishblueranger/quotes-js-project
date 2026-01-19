@@ -1,0 +1,111 @@
+{
+  "playlistTitle": "Florence Museum Gems",
+  "placeName": "Florence",
+  "country": "Italy",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/florence-museums/"
+  ],
+  "description": "Curated sounds for wandering Florence's museums—Renaissance light, quiet steps, gilded halls.",
+  "items": [
+    {
+      "name": "The Uffizi Gallery",
+      "description": "",
+      "location_hint": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Galleria Dell’ Accademia",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "House Of Dante",
+      "description": "",
+      "location_hint": "Via Santa Margherita, 1, 50122 Firenze FI, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Palazzo Davanzati",
+      "description": "",
+      "location_hint": "Via Porta Rossa, 13, 50123 Firenze FI, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Marino Marini Museum",
+      "description": "",
+      "location_hint": "Piazza di S. Pancrazio, 50123 Firenze FI, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Museum Of Opera Del Duomo",
+      "description": "",
+      "location_hint": "Piazza del Duomo, 9, 50122 Firenze FI, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Bargello National Museum",
+      "description": "",
+      "location_hint": "Via del Proconsolo, 4, 50122 Firenze FI, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Stibbert Museum",
+      "description": "",
+      "location_hint": "Via Federico Stibbert, 26, 50134 Firenze FI, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ospedale Degli Innocenti",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Museo Novecento",
+      "description": "",
+      "location_hint": "Piazza di Santa Maria Novella, 10, 50123 Firenze FI, Italy",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Q.Why does the statue of David have big hands?",
+      "description": "A. The right hand of this statue of David seems to be disproportionate because the artist Michelangelo has tried to go in sync with the nickname of David – ‘manu fortis' that translates to ‘strong of hand'.",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Q. How much does it cost to get into the Uffizi Gallery?",
+      "description": "A. Uffizi Gallery is one of those Florence galleries that require pre-booking. The booking costs around INR 313 while the ticket costs are INR 625. The ticket to the museum can either be booked online or via telephone.",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Q. What is the David statue holding?",
+      "description": "A. The statue of David is depicted to be holding the sling's pouch with his left hand that is above his left shoulder.",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

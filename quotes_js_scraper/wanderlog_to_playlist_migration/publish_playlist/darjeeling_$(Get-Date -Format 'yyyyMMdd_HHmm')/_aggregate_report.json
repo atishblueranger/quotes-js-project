@@ -1,0 +1,99 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759034584,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\darjeeling_$(Get-Date -Format 'yyyyMMdd_HHmm')\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 1,
+      "city": "Darjeeling",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97367",
+      "title": "The 22 best architecture in Darjeeling",
+      "final_title": "Darjeeling's Architectural Wonders Unveiled",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 22,
+        "rejected": 0,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "611",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\darjeeling_$(Get-Date -Format 'yyyyMMdd_HHmm')\\darjeeling_architecture_97367.json",
+        "report_json": "publish_playlist\\darjeeling_$(Get-Date -Format 'yyyyMMdd_HHmm')\\darjeeling_architecture_97367.report.json"
+      },
+      "created_ts": 1759034680
+    },
+    {
+      "job_index": 0,
+      "city": "Darjeeling",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160332",
+      "title": "The 31 best photo spots in Darjeeling",
+      "final_title": "Capturing Darjeeling: Scenic Moments Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 31,
+        "blocks": 31,
+        "merged": 31,
+        "accepted_before_trim": 25,
+        "rejected": 6,
+        "accepted_final": 18
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 26,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "612",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\darjeeling_$(Get-Date -Format 'yyyyMMdd_HHmm')\\darjeeling_photo-spots_160332.json",
+        "report_json": "publish_playlist\\darjeeling_$(Get-Date -Format 'yyyyMMdd_HHmm')\\darjeeling_photo-spots_160332.report.json"
+      },
+      "created_ts": 1759036038
+    }
+  ],
+  "end_ts": 1759036038,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 26,
+    "llm_title_calls": 2,
+    "google_places_calls": 19,
+    "cache_hits": 0,
+    "cache_misses": 49
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 26,
+    "llm_title_cache": 2,
+    "google_places_cache": 19,
+    "mobx_data_cache": 2
+  }
+}

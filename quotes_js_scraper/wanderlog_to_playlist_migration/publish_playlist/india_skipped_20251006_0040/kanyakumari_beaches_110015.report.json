@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Kanyakumari",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/110015",
+  "title": "The 25 best beaches in and around Kanyakumari",
+  "final_title": "Sun-Kissed Shores of Kanyakumari",
+  "from_cache": false,
+  "counts": {
+    "meta": 25,
+    "blocks": 25,
+    "merged": 25,
+    "accepted_before_trim": 9,
+    "rejected": 16,
+    "accepted_final": 7
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 11,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "1066",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\india_skipped_20251006_0040\\kanyakumari_beaches_110015.json",
+    "report_json": "publish_playlist\\india_skipped_20251006_0040\\kanyakumari_beaches_110015.report.json"
+  },
+  "created_ts": 1759691571
+}

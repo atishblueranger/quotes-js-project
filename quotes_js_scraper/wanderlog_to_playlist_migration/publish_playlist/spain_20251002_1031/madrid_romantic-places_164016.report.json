@@ -1,0 +1,35 @@
+{
+  "job_index": 4,
+  "city": "Madrid",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164016",
+  "title": "The 49 most romantic places in Madrid",
+  "final_title": "Romantic Escapes in Enchanting Madrid",
+  "from_cache": false,
+  "counts": {
+    "meta": 49,
+    "blocks": 49,
+    "merged": 49,
+    "accepted_before_trim": 48,
+    "rejected": 1,
+    "accepted_final": 29
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 2,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "973",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\spain_20251002_1031\\madrid_romantic-places_164016.json",
+    "report_json": "publish_playlist\\spain_20251002_1031\\madrid_romantic-places_164016.report.json"
+  },
+  "created_ts": 1759382530
+}

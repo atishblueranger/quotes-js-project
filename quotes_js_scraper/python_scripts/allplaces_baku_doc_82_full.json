@@ -1,0 +1,2891 @@
+{
+  "_id": "82",
+  "city_name": "Baku",
+  "is_searchable": true,
+  "place_id": 82,
+  "country_name": "Azerbaijan",
+  "city_name_search": "baku",
+  "longitude": 49.8822,
+  "parent_id": 86728,
+  "popularity": 19033,
+  "manual_description": "The history of Baku begins thousands of years ago, and there are many monuments in this capital city that reflect the fascinating story of the Azerbaijani people. It is a tourist destination with unique architecture and rich cultural sites from the empire's past. One such example is the Palace of the Shirvanshahs, a 15th-century Islamic palace located within the Caspian city.",
+  "subcategory": "city",
+  "state_name": "Absheron Region",
+  "bounds": [
+    49.6538,
+    40.30258,
+    50.05611,
+    40.4866
+  ],
+  "image_url": [
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/82.jpg"
+  ],
+  "position": {
+    "geohash": "tp5mz1epe",
+    "geopoint": {
+      "latitude": 40.3953,
+      "longitude": 49.8822
+    }
+  },
+  "latitude": 40.3953,
+  "image_key": "iZmSNguwtTVxOitOHkwuYCqgHXwdlYDg",
+  "depth": 3,
+  "place_description": "Baku, the capital and commercial hub of Azerbaijan, is a low-lying city with coastline along the Caspian Sea. It's famed for its medieval walled old city, which contains the Palace of the Shirvanshahs, a vast royal complex, and the iconic stone Maiden Tower. Contemporary landmarks include the Zaha Hadid–designed Heydar Aliyev Center, and the Flame Towers, 3 pointed skyscrapers covered with LED screens.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86728",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "Azerbaijan",
+        "id": 86728,
+        "longitude": 49.87226,
+        "bounds": [
+          49.94157,
+          40.45518,
+          49.97359,
+          40.47216
+        ],
+        "latitude": 40.41061,
+        "popularity": 19102,
+        "parentId": 86729,
+        "depth": 2,
+        "name": "Absheron Region"
+      },
+      {
+        "_id": "86729",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 86729,
+        "longitude": 49.79654,
+        "bounds": [
+          44.76326,
+          38.39222,
+          50.7458,
+          41.9595
+        ],
+        "latitude": 40.374313,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "Azerbaijan"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "86728",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "Azerbaijan",
+        "id": 86728,
+        "longitude": 49.87226,
+        "bounds": [
+          49.94157,
+          40.45518,
+          49.97359,
+          40.47216
+        ],
+        "latitude": 40.41061,
+        "popularity": 19102,
+        "parentId": 86729,
+        "depth": 2,
+        "name": "Absheron Region"
+      },
+      {
+        "_id": "86729",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 86729,
+        "longitude": 49.79654,
+        "bounds": [
+          44.76326,
+          38.39222,
+          50.7458,
+          41.9595
+        ],
+        "latitude": 40.374313,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "Azerbaijan"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ-TMQhVV_MEAR9we8MoaKTrc",
+        "website": null,
+        "index": 11,
+        "utcOffset": 240,
+        "longitude": 49.7724185,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/sixov-beach/a/poi-sig/1513695/358673",
+        "rating": 4.2,
+        "detail_description": "The nearest beach to central Baku, Şixov is most fascinating for photographers who want to snap bathers gambolling on the ‘sand’ with a romantic backdrop of giant offshore oil rigs.\nAlmost the whole stretch is now hidden behind hotels and restaurant/activity-centres, of which Mambo Beach is perhaps the most popular. There's still one free-entry section at the far western end, also the beach with the most-dramatic offshore oil eyesores. You could get close by taking bus 125 to the Dövlət Gömrük Komitəsi stop but good luck crossing the highway from there!",
+        "imageKeys": [
+          "ATKogpekArJT5Qu3jgUsvbJY-KrJf_ySe5mDtGEOKxdtX2ryTqyGg8Zj_HzSGMFu8AfBhWXkB-AeRAtxJEzqRzsmu_gjUFFdqFVl6pEF6PNZv5AELaGqdPeqcjzatiz_AiNrITrXMoHaK8RTgXfPhZhnrtcakfg-TfagOU_p2-F9Hm3N-WQF4w9bLhdRNB9WJL62bHDMp5s9qBU8WTe4Oyv6nJ9WiBJwZq-ERHGFLaZovtmEZPDB03CiUJ7wyW64stQoGQPdoNjnytGY1bndWyuy2uhLYyG_hMGaeF6UZiohYDpeWuCOif7WcJh0O1JCW9jPGYAct9sAtVxlKn3hBPFWakJFYUvXj4zEud6x02S-AHYY47mWrHWh4tebXAJorSSpaIiIYIquIyRAuMuNNCB3UJpyeDk-jcrjBlgQ6R24wPMQCM1pEZE4MoyV1Q_CPdGPcqqSp-Fy92ZlMrEcPj1E26sreuxq-qOHiF1DSefqky6xkyGGtIS7w1_BoZ3bg56wo3vY0s0CAVHVTXsZVkB_eKw-f10E-q2IjYYtKv-KsvXi3fnWjI7J9-E168cy-ochJivepf6PXwVQoTkevI-yMPv1R-vI_4d76z9ci5Gl5wTNHSvoVpO3FHdMO_D_npNdTYissA",
+          "ATKogpdjrn4kKItoKOrlhWuyJwiikJkylCzQQh13QORZs5AZpsO8E55dpPFLNEjSP7JbWoicd8o6sHE9tWmb01DAvvbPoKsYnbPS72pRGfZSUV-s6k1EVK_wG82MoSJ0lJVAqhtb3tXNrjL9VhmvQPjQFhEdVEPeXSUcbslrKMBd28djXpf2E80owJEK36CvVMaagwC2hzrc9e9CKxqarPVpvzNU-Z0mg21x9kt-NYSk9b7WfVE01VtjfFLYkJyGX3ZqeCiO4waqTxC_vuiSzRFeh3nGK_M8MrZIi_kzOaFQ5iHnefBndSOaQmY1GEHIIYD1lz0DfUxgva7JU1lrqQINOxPH_7WhB6axtq10YbejoFZKt-O86hK2CFMtj6mbmgK8H3LncGCaKU-voZzBCf10vSAIQe6C7J-4uCI-DCZeihtGV845sq1chofvC6l4I3Xsxdg17lykArHViJGU73p_oZ-GbSygh8GEdb-8PfMG15WFVLaIXlGApU3CVmj1WfoLSbBu5m82Oh_6Oa3q7RBfMYDVWsdsaTpzxrp1Mm2z19yr6nHsZ9RfOHPXZ3y7XdE3UssbPf1xWcOoW5V_ui3d8K3ua3qrPkOUf-9AID-RGTMOZUKk45rU3mw2iBsEpcvwMQIYYXoC",
+          "ATKogpdQtTLuUD8wVMzv9kn6R9YVp6zCizmUxgKHMngIyylVy9mrHQEikLxC2z7U4wcODdpKb0mIuUK6JlQYvo7k9_LdefxFU8tH-kzUbqCQfIQt-3ydvveRqrHGRf_wHXvNs5IbHh-SRhqrq4lfGZQgjANrKhVtYTaWblomzO0EA62Rj4QbW0MPxqSoGsFtLPvlLvgmMCpRzDMOe8pg3dc8Fm4tWCW-TXbiwLcArIXfsd-dt1A5ENNsJ-bYQF66XnPjm2r8F15NBasP_oFMukf-KPRFa3oYuR-pMHZmtVcP7b6vOO2G9sR9uXzdJuRH3rmL5Y5ECG__vV72vnFUwrQVDVEC55CP8vNtNUDskn3cKEn0c1vtLuGDXi72l2d6eggkwL95mR3cUAPpwuf3jKrtl3qqvsJSOuhLUyefK5tzDzgaNkV39WwjaGR4e4IhCKQ4zpKxn9sJ1IiE0_SeaY2ph5yAMXu0zbxNrR2MHTknJgkS0---Ft9VmVnh5fHPkXRhHxAWI7z_PfCzBBmbiY74IvMoKFFi8B8tIi-IJtng-1FQX4ZBWQjW7ELjDc3yHBr5E7Rt8UocBr3i8whO3zJXsXXXniseG3STQ9CVZ297RJE3kXiHR2TnyvrUYSqxtso6zpkHTxOdnD_fxDjEI3whUa6QMOs",
+          "ATKogpeA7rRQySv0tfKloWSZ44_QBpJUJflDTsErUFBD5i91cW9mRjz6f1HfStODn1Eqt9DX0mYwjW08XM9dx0xIWM1NDnc6LJQckl6tG4duZJHOAk-c9xqqDyOdy6JLA1d0QqKTlLXFdYkTB1khB0YGQJE8E4lTH5y2taSXgSClb3uaOvBLh1QFirGR-wJ7rxeivMZMliWswp34I-3o9eUeg1D2JCfXwQgSzpWlTp8rspc6hzZ2phRLWMWeNjZozBakgvt4x9vJuihV0KwwYtTUS-jpSrL--84f-Uk9qroBRqmqbcJ1eTyXrDMyitpZZBKki30clahIb1HWtt4URSIzI3TgCOZT5ggbF-LBceA3VlPGqgbyMOfGXE0_crb0Rcmo_zxfE-TO5q-yoWkFUpGmRaX2dddRXL9kKS8CXnGE6LCUS_5xrlAUQ1RjxWqmEr2K_KW1ON0USvRaaWoJZ408PPJdZ4JlQ3zTjBhTIrupZQ8TTfUTajCARkHqDTz659h5RV8UD_zLL2KHFHpt4aic6zb_RRRF0aXHwM3YsdcsSJsRlU6M-hPPBNnRb3TyL_vU3h9odFsAgYfyyk0AURI7b5QtYdNnOKamJaT_zchvIOelv1rJf3q0YxKfeE7wY8ZivAm8cA",
+          "ATKogpca6PzcbF78yyUuBveyXpn6h0zf8kHHspEi_vWAC4vGzkzafg0WNmWcarvo-W8isg2XO20IWJPUuGq96uCDtKHyW0xrBv_EWvV4RS_02YmIZgD1yUQ9QkuFCxQrd21N_CmKi3KTQjhaUg8ll-tGAQzURQsXgHy_V7crpUVX3kU5Uwf6bawsULUQkE1CTw2NF10M-FTvndxrTWs5N3tWV05prJTFD_ML6EdpS2yx7VuhEnGVy1bDMdxNIcmxYXG-5RBbuPX2g5hMqkGkMZfu73WvTaim0V7jcxv2gpTdL10Vdplljgd5K40G3jAPjZhvrvZCA4iOGxDnzuPVZ9S_bDf77XdPDLWa03zoSGcHkLPe0rcepryac6SoKXoN_BqictvNOpgHaV4u3-HgBkM1fr9eW2DSpKfcYUBsduYbZYUOSEElRN4UwrM9QgURLiX9S5QqUpurTjaOpXj7fyCfbnBvL9GYVMYfKGZl87UmJcGwjL7mltUW6J8du1JhH8ka4vMQ2KUWkcnlsO3nnYQTrmqgUODQcgsk8t9eQyyS4oh5ZFLvJKTehGOKpgAVcClyCMJJe7eRAGhfYaRfjFXIXSlkmp1aHuoHxCLz_966kjcoTLFu9QCwDoMyWC8qYFVqmu_Xuft7",
+          "ATKogpfG79du6UoRPW1wlcTvl-sGfQTOyEGaTVNEMHy2NST6px7GTxECLiI1bBQkVpNLBNz5dD1HRskjxnjNumqT2YY1QPqGhedRnto_hCwor7-tngketC3Db2HyXLEn-aLC9TAXSwc2QIyArzKYEgW-sL1eWBx_fGnVKeOQ93jKsm9Cwyb3HjhkrDtIHjvhlNVWiABHzjBXacmx23yRf2a-XgL9aR-vfCOd-fivo3jBiK4bRpDxxXcqPzVfbFrX51mZtn8A1ZpsPd4W2NYSAQ_PrTsbAWNa3eCewqZvqM38LZ16kjSIyTKIjBcuCvahNybnDUOdCHhEI_HHbPQIFKKQdf7TcA37yOdwe_5p7TM3YqzziV4y_ANe54TX6B5NgpXnMIMOppBlCjXs4AeXtrxkAIniP58b7vDjGhu0evM4hiv1Dd4dkdQ1qXkNGFqmjtUv5Mn7APETkvljcvgqXTAN-B37eivcTH7OU1XdxYB2d-qhoUUlku3G6leRNN8eWiamfV7Fn9pqpr4rVTJhYgzpJmA6vhO9HNPPL4cN6GndZ7RpsE8E4V_YHMoWHYRouc767DQvQT42HdE0QDiyH0OY9tIff97Pnq7Ef9Am9rZNsyeuWcT1AsB9K-DAtSYMT19q",
+          "ATKogpeHdG4Yu9az99b5IDSlEeZdIBgOvvtjIBP8FcokHURbY1yEhOeVNDSAKjeRjbkvUmBeTAk4MXIlECLivJ5MaSuWsHkhqRpW43xt3XDwUmbXb8TX0ahi9yBE8eMQfVwuzRgX45WGj8yTbdcDlWZ6cuF38SxtdtXTdhCy_r7iA3TryeDc4OIg6EAaQipWeEXjI0nLCq2VP2iPerosMjDJhBRMcnv-cgFvcGXUpjqFK2Kixzo-4Kp2vC6p713e-qodhtOF7a1U_1QHDHS5c4_cVq_XuFjGnubkMeZ-w2zPdNccEMptj4tZArpBn9_L29PmUBss5HHqCA40XwzAbMCSKeHBQgoLep_x9PmED3N1cma83vKhll7J13VB1lpfQkXx0YwlJtntGKEoHD_K6TjMXqTy4sSNtv9DGcD7FpdLQkhDkdB-NPF4ZlrBERpc7Gf9FZcWGm1uQ9vRtw1-dAJ7eiYxJrQxw2m_xLiX1EpN8t2_kn9jgqAl8GDU8hgCEtgJZhrb6oGehpk5yzZBHqmcorX7jt6WOMxvFKyiZjpr8jvV3ohmESPXDWBZGFPveZM_UMdtr6VnPzmtngXP_7FhOEifR_6aIY4bPAM_kig5UdW5LFlK1L-o60k4MQEZjrp6vDK2ug",
+          "ATKogpcSi6auvDJInH9RQf1dQKNvUDalM01Gay6UKrBeXuZztxtXyD1z8sxbpxc4aWmEEAWRK5wMr_wj-iNhlQgADt0qzVeui65uNx91NNwfOay20v_aM_C8uaF63wVsP60IQ4orJGvM3qRJknra9q6bRUD70DSNlVRt-vALhM90LzB5JtA1mYo5LcJhCVg9GU0pkmdMzN1v5c0CUfBT0_U-r6V2UzxCc8TMJGIcH2v3L9psr7F_Y5l4V3HkTbpMFmFvxGsJ74JGtuTm58wMAbs69jf8u94gVQPSIOYWPW_oxkLKJza1toqfwWQB9rbW-_JxC5w3AvnAKbTwNxKZ6lLu01oa1PLC0zKJg2onWtmht2Txue46_mBs_x9UvmqQAyXMXNXNGgak5SblkMf_qV7K62LNFXnAWLvZ4GEPxuolqnfs_WWTfzoY2HAdNKc0v440NJRnONlE1Jf85IfOu5F3sqItRoeUyIR0OhQPWyxvLujGPPsSusz_e-nANz5SW_-ZeZ0XauQOLQIN366zj5IgOeGtftLfWxemMCQ_XYlssWLEF-t02wwA0IrYTbaMyav4ryQwgaFR28Ttm6rZlhtFkqVB3sIbJTHnVgqUB0vE3H2uGT-C8PISERk7YRNaihEBgxLfNWLg5BG_zDwYE-XBEDuWQGU",
+          "ATKogpeasgnlIkvexE5EQZBAOL8ZWlvOLYpKlYwANV9tqYw74HRq_eLIRE5t_g1ZHv80om3dUp9yvUQGxbyPPtaGCTWp2gOc9kYXH2WnVBtJaXsxDL0H8-EvwtWx9aj8anTYWsH5u55AvNUyLqF4FqLLQQEfyaGCfZLkBQTdw6asayQEQOejwY7UkKsx_zx0A9InMI1BD_SKep1VB4DhvWyh3PkZKG2q5CbcBSn8-HLHtZfJ0ErMjUpe8_mw6dRH-e8OGMa5-K3pTdo3_bQi7_s18ubbCgpPOoK3PwsfP5MnDqmorzjQNuedkAldhcSNrHcMcMMnicxv_0yVc6ISOm57nKhzQsAcP53Ul1i_7FjwbRgEAViv7mHPS8mMwM0WK-HEosdyJGIWFbJyZSspz78WzOvNp5kmNxgAaSAuLtjcw07nmCmImNITZ8mf87rS3fWrP019Uc0DX0Xfs9geOMQ6pMsGyBCpBJZTysjKLxJQEA2CUHCuOvnHxihVBFpcMf4Tyt5rKpcZ_HDgdPdDWxziYSx95YvS8hrg3XW1-jJb5YT_JDWo_7Ixd0g5bvH1rzor7H6dyUAVavrbm5yYipK-qwxWsm1OxWIGN-KAWEycgEVCNmvpJhhJuaT6VByPDp0j4hB5aQ",
+          "ATKogpeJil86pH2vp-cLCwlHgOG-Wy6-ab1lnE4_CU2IwNIW9qUenHHYt1K1kUWNlZ-HR1jg-lyKGszujqMxw4Shw8yUqPciG52ECEX0OpGQifECfIv3PdIQ9NgSu3MO-248KOqIxroA7P1NuPTEH5Cyb0g9UuXazjH2ETDbOquriUNcWsfhH1pHr1E48PTWto5nc1AmtE-4N8CW98AtFyNc0J48XOHJW-a6d_uohin981TWVDvH4zVWBAXVfucsszEJSwKmbkRcg4px8ZZHWUHYsqpnrtMpEVd-sej7v6ghWN9uF4yugJvhkHPvix5eu7EI6PZU-tePArsOJGHpmyPAPPvcLvyQyn0TB_9BDe_UeHNYvDRDpBuYsnLHPf1CExNvCSPBexkhdM1F-Gh5p9BVLcVM_yc_2r51b0uVgk0LZwxGQkYhmSiVRTDg91dvsfWk5vpNJ9vdf72SdcfU6_Votm994apUIA_fu1vg8R2EAXi00ZX8UPjptlf8pqo5bJ0fp_Vv5hBAz_wILPc5C7TBtvMG270fqg9VohrWL74RNdxOiBbykT36LNJ8AtjZHhhdszmgkA3cHgyaDpVPjU-kQtU3V9S0D2WaAcqzS7b6VygjRWQLb9po_JKxOhBQovTijwUy_Q"
+        ],
+        "ratingCount": 262,
+        "openingPeriods": null,
+        "excerpt": "The nearest beach to central Baku, Şixov is most fascinating for photographers who want to snap bathers gambolling on the ‘sand’ with a romantic backdrop…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_10.jpg"
+        ],
+        "placeId": "ChIJ-TMQhVV_MEAR9we8MoaKTrc",
+        "name": "Şixov Beach",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ-TMQhVV_MEAR9we8MoaKTrc_1.jpg",
+        "country": "baku-baki",
+        "address": "Shikh Beach, Azerbaijan",
+        "latitude": 40.3002184,
+        "types": [
+          "natural_feature",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJ1f_RW_aLMEARicZVmy1PDzo",
+        "website": null,
+        "index": 8,
+        "utcOffset": 240,
+        "longitude": 49.89125,
+        "rating": 4,
+        "detail_description": "Yanar Dag, also known as the Burning Mountains, is a natural gas fire located on a hillside in Baku on the Absheron Peninsula by the Caspian Sea. The flames, which have been burning for over 4,000 years without stopping or spreading, can reach up to 9 feet in height and continue to burn regardless of weather conditions.",
+        "imageKeys": [
+          "ZeRhIGfSYitntBKgH353qSMghQvr5bty",
+          "FxziOaZ1NxWRQtyRCqAgBRX56cFJt9PT",
+          "2wUQETH6CrWWS709Mff2SQlyLhnyUhrZ",
+          "BX7UI5PIVoZ8NLMG8yXmcSY794pnNmja",
+          "K2xVNqnmCxLvBIlnHHAdZzvkFVwmaWiM"
+        ],
+        "ratingCount": 1661,
+        "openingPeriods": null,
+        "excerpt": "Set on a hillside, this rare, natural gas fire blazes nonstop, with flames going 9+ ft. in the air.",
+        "name": "Yanar Dag",
+        "placeId": "ChIJ1f_RW_aLMEARicZVmy1PDzo",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1f_RW_aLMEARicZVmy1PDzo_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1f_RW_aLMEARicZVmy1PDzo_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1f_RW_aLMEARicZVmy1PDzo_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1f_RW_aLMEARicZVmy1PDzo_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1f_RW_aLMEARicZVmy1PDzo_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 343,
+            "3": 236,
+            "1": 134,
+            "5": 862,
+            "2": 107
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ1f_RW_aLMEARicZVmy1PDzo_1.jpg",
+        "address": "Azerbaijan",
+        "latitude": 40.501861,
+        "types": [
+          "Mountain peak",
+          "Nature & Parks",
+          "Geologic Formations",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJ26Qh1hh8MEARFeo0iUeak-0",
+        "website": null,
+        "index": 18,
+        "utcOffset": 240,
+        "longitude": 49.8448034,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/national-flag-square/a/poi-sig/1513571/358673",
+        "rating": null,
+        "detail_description": "In September 2010, the world's tallest flagpole (then 162m) was installed at the Bulvar's southern tip. The world record was later snatched by Dushanbe, Tajikistan, then Riyadh, Saudi Arabia. In 2018 Baku's pole was removed, but there are rumours that it will return taller than ever in 2020. You can stroll around but not climb the huge base-mound, and the whole area is pleasant for gentle bicycle rides – rental agents available near the Caspian Waterfront Mall.\n",
+        "imageKeys": [
+          "ATKogpdupxHRLoB1jxQbYR2RENnyND8uwio1R-jr-ILvD3MrJhLrQoK-zGaVQB0T3I8hhmlUTrfpqhQo5cGgzmFtxOfSSMQJISzBJ_ZtB4MzhOGBs9vqPQGTiQl80L7_H2ccBngZWyU5zhh1t2hK9-oAQ29WOpZqD2_B0QIo2fCPi8fHcTsCW1kmuKuEe0FBHKA3dh0R_HGIhOs3Vjx-twiJZ3kF-4CrGsSWmhY_-3wndLtNfeQG6KsFrCMNboADEJgSguOhDRRDsUu7gYcEJbrKF-ovW1opjmBdGBI5AAiyB4mJL_T833v45x9i9RWmeYn7G3LZzexC6Taq1mKDV8AgkHgPXtH9esuU1Zhs_EaC9hJJRq1PaeRZ6F75IDFeeABJ0U86xVrwq97uoBIzdqlaYotAHa7EMJ2YcCnIdHTN3VJzdG_YAU4Y_5GhDXOobI_XlngXAV2ZOAPFKUDwbm3RpwM-hensStmn4yJul34s-0sWRf_6EB1hftSfzr78M3mIQp0Pq6FsAwCtNuOCIsxluiKeTn7qzQxhGZmxXKJadsm-XexsNl00cWi-s7L290kk0Ni9H056gg3XvaCPNyGtZx84D3Bg4YyNrARpnVh4beQqiTpUFc_8jsVpMTgR_3blBUCTxUdq",
+          "ATKogpeMaSftHnvCY1lE1lTl3H1-8MejBD2NehemzJ0H3QwuARY-UCr2Oy6oa7QY9qOmy__VXYDDiRrOKdoBPvUkFXuSMwR-3WLXUBR7D3Y4M8w0FmIBLojKO-BkX1r4VaHctdCWB8YL8re6uapwJNWOXXrZMsLujDXo0TDRf2ma6hCyNh-qV5i2yYlU-LhtlIT4ED2E25c5zS8YHtOY6en26FyNxZBeGimPbqgwQuTdn3gnpdgrpGrxRzCiC8kY_GP_gg1Cd5Cwa-X4ML9HEhTqxPRld6tcZ-kYj2gGdQ7wo2lDkr-dpxdCa-k8DBOo2-ck2eLKHp7nDZjbQJqUo6XBAW8iKh73RNcSQ-eAp7bZMQ5wbL8WPzYak7YWld16s6gZbOun4TNLn3fhqdt7tgQgr3W73H1dI6ZKeJfBAfsGBePzu4ZnaGRqsRJmL1Khjn-Ji5GWFmjVwUVlxsCKpyPE_IwOoJLPyjcqGoWDkmH2iCRC3UZ-LDxRJ_ZYUW03fT9inI8LBqcwkYLKWWffRfF-7mHSYP6JRLbaFWme-0v0FH-yBdoQKJbrmafyrVctkJMGMIWm5-KxDWU867_jMJxgoUWFraKGH27GWvrl39Mmq3j2uel-TiwCN_PtNoXC9sX3",
+          "ATKogpf4tLPtFBddMgqgRHT3Fp4io1srnV9ydd90eD3Q43m-gjfTprpHTc-NZ4BVU_zMBk1oTwvzusjKqIRBnxumHi7-ZCt6_jtqQB1AKk3CeTYiZT4Gip8Ijwj5TdwiSWxwV7-vbomKw7GbwMCUnuOlm1azBaAnUnKMTmFLXKeoOKUMdcC-25xdOa6E__8drpEWtXDuJdSPrwhkKkBiJrsql8R9_j0T3Zg-IWRmYqOc9AzcnigusF3RfoWd9RZ0-TDfRYgar_1ytczGkSTPGLuojEyyEpo8uQQCVh4UeJZtzRZWYrDaWcuKpyVJ9x_62Iy7XpJm-8Sl9MU2hxk9tlKpgn_gFsg3xR8N5Z2pfU_gkkILmkUjeDxuHw_culLzgMGQm-pWT8kRDRcmQhAINOj2Z6m6blh5IHwxieHf2nGvhkAlAvvY6tMpZInIoWdN1qkR6TEeELEh6vc1c5BJEoKF0ZHXnWN7nQ_gFUyV070MD86bFvqQxj-Tlp1qfPjUovq_qErUyhK-vJkLUlOY7rdWWzVsOIn_Bjrm6_UeQUDXsGbWUtCo1gNtr3nddx1ogMX9xy4cNknihvdJbBYFG6UdtVjG7fxK4O4alC55auYEt0gceqq4gOWujj_PJ7G1ZAZgA3sDjQ",
+          "ATKogpfMzetEvt-6mEpDVbY2ItA5HGT8SpfeM7wFedeOmgRykHRkkt_0NvUNzRqWLA_8KepbnSCZCBAjYKH-2k8fJ3kfKiI1uberT-oI4pUk31tUMH4Lz4-7pKY0-QxAMquyMA887NnFcYD4r2J-lLDyC5dXsW_WZBCBD1aDUh2-xmF8eaZn3l8mPEqlxLZVrje_fEeZJynGRw2GyiUiG8B-vlWtkbcdoC89dz3r0unsEE5evFNFWoMGjwCQnBs1SlAP0HP8PeIXjDFVnnaIRQCLsl48moxMXssAtxdr68eo_1_atuznSs88WvLg1ut4a8na2zTKbVF4FOkHDRqzU83eS5YLoBhMPzcbyaTwsLBv36UlnKeMMPeW9VNEBYeY9FMLUW2O8z89pv7AosXpOgI7QDpXy5OOHx78mUmijv9tugzfBFIyzB89zGd1bBmIJmzMU2qker4PFn2otFNwswka8EW_0QAQ5Jvine7Wjmna2vOs2BGLBjsbHt0OAkf9UWRFmJs1DN3gF7qUXQHOUkXEpzhF-m1MhIAmLSKIn_PxSuhU45V8H5_RgT8KP_9GVHreD0AGWceaBqW0AwSpUn1zUCAMjnhrDztu8XjB6NugL8L3v27mtfCcBM0QWsHm2kq7PooiMMdN",
+          "ATKogpfSDZSBIs4RQE8G1bNUk7ASbp5OaqjZy6BxJz9ncIfOPDno4SQl2GyF41bRVZgtb2d0SFwvfOz-afg9CcgpKISO7EEq3C8Q8SCNa1RPTIAUAspnuX1jHt2vCF_8BKA_dNqhx-jAYIQN2ivL8DmYXNG4ooU_VeBwqwUEBMbJho8SKir1tqTg3Q9FsnVNRXlyZVtfhk8-OZuvCkD3xK729b6xnKGz-YpV1utEspEu47B7xozTBwLwXo2QGVPJm-HthV-LYtfXQNneVdr6wPYQHhdz9cUbSkrSDirO8-SAiP7-_ZIGs0sxFsdTM8QheEHqXqgcQg-ECJgrE_XnT_3zMvylRv5HpSLpFI6TCcinYXaUKWlWuqPzUHFEdumqkLoOT14t-rJqdD1Re9cVAAG5bBG2ac0KEGy5bPQ7P6z-oZ00sXrS3OPCj92lVGJl4lo-pDpp6iU0WEJhaF22UrASi0yN1ij5IXAdr80KWx8GQ66Ifj6_86w0mcjaslLnMZ9X4VP6Ii_1ZqBtgAx_bk13pQ6mRuK9jaXFijk-nj-D-N-UzVE6d3_vbjJAONitDvi_kcoI6rgeDUWc0sIxNelZbXNQpi4T7V7EOTWI2skwojbFDEUEougKzPtCr1t83JT6mFlyLQ",
+          "ATKogpdeifXKjzJaRGPY7sF14B2WlsIe4MNeI2978pZvjQj6rY9nZCwUp1sHE3284ns2rtBrusw6_ecJgasgE5jSNjLZ6cAbFb4tsjdrN2dRtxzmqU5EkxQf8ylUaNaCWxk6tWpyEbGwTQtfXYxGePnO42OdeSiJ-aa0DQD2d9wXXVC5da7Dqhv5w6KRXO3SuFPrgyQPEO2HcCwE7bTMgD9D3aEKTUUdMadbKMf5aVNdiKpk4Oc2Ajsg6ZPPHB9Hfry9jESz555zCaq5LrRHSP2Iixb2TDEus9H3LgeIHm9JedmhianbyYEewBEmMIHzyVNzjFIesHNgxO9vAvoSoGQ4piE_2FdRzIrtDYKwHotDOXFaq38p1gv2GUheoxmQ516I_rierb5QFftkHWrvDxRd6W_7B-w_y6tGY_A_tIHW9l__LNi4kJLAoHbyhczEFiJjeiXMMG8f2nkDj80Payo39p9QHCJN4WPUF4cS3G5gB7CHr7BRW4-RPt7vrtD6IegkBqlNThW9JY5ZCMORLH8bTOJ4UemF1gTKv29Yi9fqRBoidJrhHVvvKRIAuYFSnqtcZv8MXdOBFxDeAgJ4EhkDHpWG15ZczM6YP55Dyss84KWCg_M6rzuY_lz5PengFqUgrj22Q9CJ",
+          "ATKogpcP_knkgLPnEeVV0vRtqBh5EzE-vACfYrhw2uf5AgnfD19YMQlYgpUzvdpRes6HPfDcBC8IeQghGLWwHEhE2A_lk9B9h--0Af0pLDWJNDMpSZmdgzu6zBv4wrSjvEZ2tP_0924Jd2XWTmG7YO2zYyb82JIuDPpb6SIW2StNcOfRY04dnycsD8rxcs9PF2vq4eH31b5WUD-698oUIMchS6KziQ5naATj7TerrmPmrDNEFbpcb993htmi4JhIB8N_6MBgLmnVWAA6knjjXzDj_GSYPlYowHo6QJvqDzwluUDqY1TdgkwC_GKK95QoWr3OMldcd4ht3f2Fq7wyhdzW3XIy2gOY7diziBXS_fEXBBfawFKoi1Es5q_Ccc0SqDBa6Xpr5pcoCrX_nV8KRXbM3L_mvtS1ieFJhnBNxRldCCfiQj3E_Gho55dU_P8M2GnFexw7iJltudxTZi6aHCTJvJCMJngA-izUAfT-vUyLv8YLXfDGBp8sFk_Za08xHNZ4BRZewXV7M60aF-rKroDP0b7ovzw8KkyU0K9QCNlyhmm5Z__VHuWJ8fZmqxAsRgmcQF8tgPbyYA1GCsYUkBUtm6tj6N3fnLprbR9ihdvrzCjHOFape5-NkM65rq53Z8vnvOgaOQ",
+          "ATKogpfTYGjseUJfcsaD_RI9zKw9daA4f8G8H4DW-CfT51J3zmONKjAG7RKDeuCN3KEOZnl7nbE_BwgrwU3dOX9fQlxeK5wd0-IU1spBxXndQy2Z8LBYEWkEb2yAkIf7P6nkEKOXLrqHziIhLcW5fGF53EVVKs5HgPHJ8VyEXM2M8KqUF2GWWWBOsn036aBVMtCPG0JSqXAuQZ3Tyh37EJFMZ5Pa05lWsPTaRjRqjpMyLfGDWNRRf4FDNvhTwa7F_wRyAdh0a2-Jao9Asb5ZXEwK4_TN-X9DPe4mdHYMXM4s5DnYjBpw9-huwkJX6Y8tBBNpTUkOSTGvT_U1cl_kxQzIsowP42VXD3vNxSccPe00AqD6O00af4NEjon4tHgUP9UACtYyLlsFsewRpVyCHKE2Df6TxbKexreqggqWcj3mbjL07FQKm87-vy5kPNdwlbecBVBrcDZgOnpXKz0_39mnEiTME8w7X4gMFdikpX-xQIAPbJgb_RUHYgqzP46ICA2_lywhXTOc3fDYxYE_RyWjyd0hLwLyHT8ZqhT47emHtCXPKIVy5qjEcmkFAjURzXW5bhjoEKnp5qbxWbLVpokSvvoP-42iLAMcvpjaPW3DPGb4qzvHyQo7-xA6EQGpCmcJ3vilWOGU",
+          "ATKogpdvOzfkvWrujCvKN_wS3DrtHu9aIDlpRPRbWSa0qtux62hRtXPxpwXrYRX54QWW3ORAtNFPzRBIQ5MViLmyRHHpyg9ibV0V6JE1rycmv1v-OC2lGnaQhJwX-V-uZhnMOGzx091BJ6f5xTXBinguX4FxrkDwjDN_bm9PwZPdLHUkgZvKIFZgtn-yP14hBS7H8JWgruIdLtrFotRMakAUbiv_AU9rgObmvFRBFaHrDzuc12TWjU1ZK5-2eZyC8SamhW2n0srDNkIPUPXopnK0OEvFgdJu21Gl5CLMpX2a1eBVAQgn3DXvlnC5NQLV73brTj_aYiljdkCKGdwTX1caj7UL2aDggeuu4ODJ3dkBcxDX3jlAZPMNTSf2LlgHfP_jf5y9tfLaR3urtqt6B9sAg4BunB5DyY7M-4GA6VuEuE5FhjY6YO5d8Kg85Klnd62-N-YWqKxbM1KwntagjNfFiy2nazqCz2-A0Bm4O4y94UEY5oDGEEwkxPRLl7ghU11OtRt6PhGly0UfydHaLy54jqDBrypKJHQUxoCzcipcI76cT_Rob7C83pGss4X2AlIee15v1gO2puk9YYAgwpP2yrC7wjZ99WbknpTuomk98Q4wuOlyFF6zuQhQRdwXLuAsGJW50_6_",
+          "ATKogpem9q_U5QI8OJfIbFPc4Tbywjn1F6_fldgaxQrh45LijbuiGi-VIf3hPyWD5CbK5Ctussb2jehAw7if936eztVy1eF639kLmytFYpnmM2rpocXIhMjULZdaebz74pmdoRcMfrgV5r6px7JTBiYz6ZaWvPqZPi9-Y7xKp4DBLY1zNWTyM_EshAP0lNDtCYAZOL_upDpF0jfpQT0nezvepJGSeyiivkJJP5TG8wlQ1ltX0GOAgoqPPsFlE6XxEEXv2l-ZOaw8GaLr-rBjOBHV7UXJpzdg89qh_QnrtPTWxVC8IpEDhY1zk-Z8I_h6-9QV0b2DapALV1IqbsBtvdJpNTawqRiAaU9zYldXrz6CoXFHqcYA3R9fnz1Zvf4YeTceHETBXxT_-T3fXbshkQts1_oEWeAm4peImGJAW_vQtxFXR_S8ZIrkrlUpnjHUJoSQRn6lgva2gTV1QxpNxgLHEabRTzneiiuYRKBQJ8MCESNSbvzcPBoDvh8Egb5vhKlbJ_LByJYfl9tBcookCsYlvCHxV2UIf3K9488KXD3PuPv1eCFiBJcn8CLydFAGNwyYIJx4tSVzcxaxcOWHjp4eJFrh2MpuZmay4zhVUuQd4Q5pDks616_nebDRRQaCvlfLS6BR-P7e"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": "In September 2010, the world's tallest flagpole (then 162m) was installed at the Bulvar's southern tip. The world record was later snatched by Dushanbe,…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_10.jpg"
+        ],
+        "placeId": "ChIJ26Qh1hh8MEARFeo0iUeak-0",
+        "name": "National Flag Square",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ26Qh1hh8MEARFeo0iUeak-0_1.jpg",
+        "country": "baku-baki",
+        "address": "Bayraq meydanı, Bakı, Azerbaijan",
+        "latitude": 40.3442896,
+        "types": [
+          "town_square"
+        ]
+      },
+      {
+        "_id": "ChIJ2Q8Sk1N9MEARg4xkjF7QTFs",
+        "website": null,
+        "index": 20,
+        "utcOffset": 240,
+        "longitude": 49.86710769999999,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/tahir-salahov-house-museum/a/poi-sig/1516224/358673",
+        "rating": 3.1,
+        "detail_description": "Tahir Salahov is probably Azerbaijan's greatest living painter, best known for bringing deep emotional intensity into Soviet Realism. The Baku house where he lived has a good if mostly later collection of his works, but there's added interest from some wonderfully naive Stalin-era carpets plus a fascinating range of photos of the artist meeting everyone from Leonid Brezhnev to Michael Jackson.\nRing the doorbell for entry.",
+        "imageKeys": [
+          "ATKogpfewzpQP5enyQoS7AWXBaRk66mMIN7MG_mI2kDHIDGCTlsUaD4HWAnDrZtz1pxStlZXQE_NSg09UxVDcs0s0YJnE1s9MIYN6A8d0Mc-FrKeG0HyX1_228t6dz27sbgPEevNoR_JG9yl8FH2bvBiFMTilLD64MAWLG1424sgAzM1Ux89Oj3HfrrLx-I9edx1g2u0VScenK69jjec1BrkgDwXNuBEbtxitJfQUUIvHHVUvsnA0bgs9Zw71Jm_oZzWRGsMNvUlfEqVYRpwlc8oLHYjhP1HVXyqnT0YzMIuBFuVdgLIPkiuQMJh7cWrARtzvmRB1Al94Q_Yaz6DWIEqk4V-Dkcyy6DFQp5JxQfN6RJes5YJbAhjVmYLUQ_RAmKgQNtTlNuNi8NLsre_2Jq2kPHrT4ySwt7o18qKBc1XhT9A45P0YHWIgQvY3hTTuDcdnW-v8jv2GN-nahsUgnuzVIZTvt8ok696y_iXW6mTlxjMBQSRNA7yFsnIIO1F9izRJV0VXKLLRiAJkOtJG2e7dZ4Ld548NYMS-HFwkOUO-s9LAovqW7MtU95Cjhe4Zgxj8GNEisU4EkHS-JXA3f74Hn8f7_wP3FR-rFKJlMNl8bH6JQ75Q8xStLA0KWnFIV8lzhnWKA",
+          "ATKogpei5ELaw3i5xNWveUqjLOoEjpwXpiMT8fWNQVJ4964b1CQaBnRLY6IrgLsGkVAUvw5v9M3U9hRi_swJQT9JreEl60L1bwIodt6oPwJjIpVjfq596tl8UgpYqXXXwmjX-oKSu11MhD2FiR8AqGW2pvJ7ZEIh3Vi255wTlQqYpbFy3D4h69zO5hX2QOhohBYq12U8q3lDCs52usurwHC_RMYaNQ0Rh-l_V3BJpO5kzXtHbAPFLDZP6SZXnwCxFkRv9KA9I3nZf31PeL0FLp_HcZG1t_0dP01cjd1ABqoY1QOEf_Dsb2V17nSoRVgGpNCTZXT4MwYK7pf1IB7-lguIcL1oW44ie3tPkU7pibWffvy9aIBC5n15AgyKcic1_CxusvjWmK8mOiEeRlvjZhvKLEygBB2jyVdSUKI4U7veU9K5Np8u9Q7En03lY-VCKAZn36mHXbQewpLBOOJfwHKNZq19OYZlUXO8Gpj-Q_PKFcxx8IQuZRchK4CPtrQezUEgFMwWlqfJ_9PittUWbCkbDEyUrbfvb3L9638Td-bNobwrYjJdztmvvZLsEV0zVQPRxi4YwJfdiI6ro4by2eln6rHLNxoalEW8-76nEy3INce6zCVYveDsfbGB8EqAErxgE5rqvLLk",
+          "ATKogpfSljpwNZsEVucYX326tJ7xoPIQ77BaNR8EOI5k-1tWGOo2wtl0XuLaXUZg5QFMSKddLOefm2hhXpbNE9QpMqxp6XQEy-O-BHY6QG-ysfBP6bIbIX76fFj9SYKkJS8ttufVcQmQkwrPPL5JwghS1T2t8c00v0p03u8dyEnG_v-8uSxlzUUmkHCQ7gF3kvnmNEx3bcgXd-4c4xfXvsl5-wAJsKtTVR50ELOSDhrcrUcyGBCLms68NMHGqi8qkOWUubQE5YmRoE9LEGv6JfCkvi12V5mWGUTT3brV9IFBgHPTdJffWJ3R_Uu-rA8YkP1Fm-_P8YEOqrn7NOL82-Ex2raxCAyUWoF1hSIONmT-4MIaCUzacO9yZ5L7iNijk59bGOr3HcstRo4nHDeykcgkfAfDA1y7fo-1Xuh9AnQQgnJHNzUl_dJlZk6FDZTcVF2TaaKwRlpa-j_P4j6qsTqlTo6vG1fDmAWSdRHud0YKYXGyhnbF9efV6gXYm496oIc4YvajlD3aSlnSgapPAWxh3f-8xACuDyG9Ircs4oiMKvHKUGALeV2MfaySUGkxFi0OmhpGeI9ZQsZtg3mb86WxeASPcdlRJ7tqx_vsc9a6rIRbM7961o1uZXKO3Xo45PbAeh9n6g",
+          "ATKogpeUwPA-jzivpBJ6ipr510WbqNy5XnF6zfsL2xmJqzm9ZYyZs65L7UG8oZbY3RL6N3HhBHa8L9Zg9igj6O0_27LHCq82fsNfSxwrDqXRmw2HBbTBjcBIbTnuEOPzrvWpoIoakS6S9N-iNQjoiN2XPVhqtZiUCkC0xiMbB7nCq8vBJ_LG_StRSDwAAbPfjyF6AfhnOW5yWXkwB1Np_Kn1gi4RPR1GzD85VmW0mo4HQt6jR5iaMw4-ZKGxbz0xunE0Ovaia_42cDlYX3qPRHQlGL0zwZmKMHGBV8DWfSGwYykIs-mjtf_EZMbIdYnr0F0AB4vce94KW8scPuZsleqEzy2MyiNFjfzCncv_nTeR4D1O2vhM-UdUn9t_LreX15d-66M2m1ganbGV6Y4QZCSnAi-tvDbik8ofgTfLyOxKByCpFwZcLeXWHpPdh6FBnUQyaGsYTzib708hbL4tR_1v1zk5EQwWNdZwKCcswqBwjTExpcUm8Wap1Xe6A0p4KANpe1Wi3e_BVHaJCVz83YHij_P3ur2HiHAvuDzO_X2KV7BvjSjjD8jwTJx5sPIQ7OibB4HoWw6BAd1SOzhmiBx6RXmOtE-ZdbGfMZB-qlRij1_SYLdhjl2HqSMCRYsxhYnBgQLv1KRY",
+          "ATKogpddIolyErijK1lO2rkzNuISQvdS1uSz4vtANc5fjUcIDaEGHiTYIHPorniJScgvdDLzz3K2uqzMfbk9yrQVjLi4YdQpyZApVebt5p_IaNdAfbNDJ-ArPeIY4Ng5b9kZP70NKQGCxkBNowQv4oYuR-st6X-HWqH9MyG4p3-prHf1jEBTE1xKIggryyreF1iw81j96SxjahhOYhD2hyRsgzg1mV93hFdXWY9DgftgP3S8PHqw9VMGMlR5Vuk7n17uWefjcIbTJYSCDCD2e5eB83hu9B7cFu89Z2AYI1UDIHNZHVrdGITGGUVxPIJxsrDu55NVpQxtdsfTKJGz_Gm-kEpUOnTHWpVqGu_jJ7DCK923PHGMUfwPEieINptX3VXaz_L6_P15EXMnflaN5f0EuQPJ6JonP3Xh8s-U1v6RtncJ40Hz9R1lReCUPBMSpCtSVVuchaLvE9oLaZlhm2g59PfpSuQHNgkPuZ2TDFl690Z6RoaLFFYldgM7caW5xxW39jt-OfR9fayudtxDu-bNzYjy8H1TzNTQrmmS8R7abEOrnRQvlwbiS34JPvES2LHxGO-zwIrLK64qykXXVhOc1WtlKaj7pyirHDG7QzpCM9K-Ce1zv_ZcLj4fxFUlhwLMkIDBNw7y",
+          "ATKogpdpAutoWxZdx74DwDBz3I6se7lKQ6RopQfbpPuN1VkbPz4rZVRr3EMkFmNdpVCmgmE9ed07xdZL3O1ho6vF90jBD9fB3VHLsta1MroCILm6V_CZOtdpMPsM-npsNgrXxzqDwC86H42abITGmU1gpa7Oilnjm8WBklzNmDfiNrTSYPxr5nqAtfazEA9-K0ubwZK9-87p0JMWnCji2MBidBEGwNdNKqHd60lRRl57yoYXR4MhF53vjDnmJ_3TG4kmH1MOoaez3aBwE0qmNKabbmVDaVMtG8xe12jgt57KJ-eif4_syjPBZFhc1LP66aCcM1OQbVxRWbIzLNhHUPCrMDwyYP6h9TWjyd_n3RKxAipsgBNm9ojsaxd2IAKYZ1zyBV9hQ42ZmyJ43dJb0Ylsy3QIaNzkzQN0M3l3G8s3hjVEhCY2HNdzBnAVOZXZ-YiDULZbLjKJ8BZnehttFfu-FmVgDNwrdyIgHvV1ArU4giXoqM6p9YBt514aUq--sgjalpQvAHix0_QSRTHmYgb7U9grhsCXQ2WqDgkqbANWIOC5SYA8eCFFNT1LWNU6DYhCm270MQN7oqybcN__XGqO9hswTSdJmvNHmyetImkUq2KyhpKNQfBcNxqAhyLy7P8kkaWdLA",
+          "ATKogpdpU3hLpE3f-2Lf_icfQeZUX63TrAc6X3Pdb7BIr2yx7G4nu-zpF1WjoyjERherXNIM7YEs3ZXSKfUvJ7V6MmUfFY4ryWXHvlStJAwJUKrwQXndjUqBwdW8pzCbZ95T-9eyIoYMWsejBS6AknZSG6tEEHN_qePyQ14FEidXTl6rvHC8QjV1tcA1Ib3mdvOCZNfc2O0SeoGRjepVw_3zc8fFWHvGK1ajvLsIRcqt_mtvb2C-OyoCl0svMZZ7N7IsYVVLwc9l1SHz43pMCWF5WS5eVDRRNn1kiKtKVIo_sqBhDTw7rGwSUJI-G9O8Ul9vInCdS3J7oBPfBUiQieJM1ofWQ5FVbESngbK1zK4ldfnWWd9HmGZL09pYSQ-aM2V00wlhXSpuFqAmv818yN99hbWYG4S0ZhiCVb1Pzxo29JUgp1Zpdth8SZHvE_WuGHDP3dVXrKZWpIhLBWxxT5-rHIo802g40lRywl63Ms3TWURgFv_bRudJ1msQfNTPQ3wFvt6HDllu3GYXEnMaIAx1ZLlp2pE8LoQ_yYfp5N49ExGiLRi7rPY8cMhM9oHRdAnmJ2B5xjckvvTcR25jrTeC5N4z2M2Cc6msNoHcg4-TOAU-_M-A4OggfWuOjccCLIjOZJJbq5k6",
+          "ATKogpdu0VbSylgPKJw_wp9EqY3Ol7y6B3i2GIHkxqH8hcBPhYUxa60s3KbDFVaxqWkr0hT_iEVUhCOvQcUuHyRgPhcA7VVIfdz_P9_cDtVAx1x4KSG2CX6mZixF8-rA16n7lIf5-UW41eBwl5TqzPv4V_CQBUUpjFyaafdbyoGoEOUymOU817VZqSohtu2DOf6dVrzgPVpW5CWt6Dy2ApK5polZ_rtzACrcMLppBoG0W3n3Ct5WAPTQV72aTA2jJppfaQPYabrmGgr_jo5CkhXG2v6Vzi4ExTzJ2hbAFHd4Qiq1cU607SkSFfm5q01aYF8JZde5y2itszI3HWlAco2WqSlkzIFjn55Vmj2LJzeKDfTHYFDYrwByuATfoc9H9PkZMZ86n-TGblD-1h95kPj6zc-aT9tuHFSLsNByUSxRiWcoZZIVn7DE9W3eeAMwnVl9j4b4irBsLSUAzViJI4FwiKEBcA99eP5yFiH3HyluC1zCGgByUzut0kup0a2e71RkJ81Vc48pfD49DRUe5pyH2JufUXo5eCF3wUayyuLjcoDhZ3DCE3nzcqgvEeevy1baiLPn3u0dnQrbGqKoLW1nMD8jZuWuFhoVj9b0tzN3m60va7lhKf7u7cFq1Xg7IPEOuGTYMg",
+          "ATKogpePAdJJIdgK1e0N7tImIDwC5iMPF1zAGVFqdOHJpoOOdJq3xZcb4ZFLzF7Mg3d0IoeuWm5G984nM2Is5xof6VQr6Opq2xyqW7pJjhN4tHnnZZa9QnOgAvj3cmQ3Fyr0IjO0CM3wfTOOoJCPbs5mxbtIIsEa7fkpiflkMkAuLRgOkg8tn3MFlcRU48Qva1AC4VIPvyw9Re75Ao61wV65GAhKLbvca2zaVFkNk3y1CEkQdJ0c64sWhHcLUr7lASTe7zqF0Wy-UTHtLMdENjuO8e9dI5eSmW_NwIcLu4E-Ax8UuxCNOiodFVqP-2UAEZdA_bvQNJS8-K9NNkT3dsbK2gNHDp6u5o9SRj3RFCiINo6VCxDCAqfSAESnKjn4pnho22yRj4yXiYPZ3mnGy7OrcWtlVIDxBYj9iLEc1-RxsJM-KzrNv0LXoRb8FgPc99TA_Ydl067gjYG--f0177LPcWgyyk5Ofa3FZjD4ICAWtk9M1cZFKKIddywG1hSBiKkov_yMWwoRjeKUX2Iy7FdB0ZTS6ia2fOp9JAPWgAjqvu-g73K1hGug2cqzfEKODtYhcGBI7iimE13lWNfP1BiF6JwWG7IE3HmZILq8n3zV1BEHHOQISJ6cdvbro-3ZgcYrBSEgAw",
+          "ATKogpfg-bMt9s6XKrSD6vx496uJ_YZrdAhLWSYhBLWBeihw-OTi97EshLUGw0vFeQh93-nvQR8y9Sqq1H6zBh0EGTaU4mlPgwB0-rMKLBuK4F8fYFoc9fUZE_XetcnxTdqFOkcFAKNKwJUIgw_SCz9Pw1E7nYNNPJqb7AAVY7G13ormc9iCT4SZic_sfGYGqo5BUHKvJuidya4HllJDF4e07TKiaWgdl4kPtJ7hxPEHczaOlwvb8VD33FCqp5PtSBQdqk_eEdHxfbRkDYEz4996dGrXJC24umvXfKeIQ0q69nkkm5qecZLMm_Wvhzrlp--RzVEXfIsttBV0Lq4qHEU7ow3liyZ3mAM-j9enxkNHCqkpBJC5lUYJpO4eLr78F_wVOYCE88cq8UQW5JocEl-3NNvKJ_QNQzrxqp4FwLKejR1zSBLZxfp3t3ypnqxdHRIuOL_RbkVUUq9Xp60lRSmizzBkiRA-Mot1JQXnKLrPrjRdiXrufGbmt6ThPZQk7m0lfVfcMxXzoF--bS-kgRq8abB36UixptOYNycXN2DWynftfBngZPVvR74ih72tHPTk5NfQoSPj5uJ8S8TzWWmyBdydMZzGSndYgor-m8vAOEYMOMecw2CgTEBqYC54xnaayrilsA"
+        ],
+        "ratingCount": 17,
+        "openingPeriods": null,
+        "excerpt": "Tahir Salahov is probably Azerbaijan's greatest living painter, best known for bringing deep emotional intensity into Soviet Realism. The Baku house where…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_10.jpg"
+        ],
+        "placeId": "ChIJ2Q8Sk1N9MEARg4xkjF7QTFs",
+        "name": "Tahir Salahov House Museum",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2Q8Sk1N9MEARg4xkjF7QTFs_1.jpg",
+        "country": "baku-baki",
+        "address": "st. Ilyas Efendiyev , 55 / 3rd lane Ilyas Efendiyev, Bakı, Azerbaijan",
+        "latitude": 40.40926839999999,
+        "types": [
+          "museum",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJ3-TDt2Z9MEARIbiGdX_rVVU",
+        "website": "http://azerilme.az/",
+        "index": 15,
+        "utcOffset": 240,
+        "longitude": 49.8446837,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/azer-ilme/a/poi-sig/1467096/358673",
+        "rating": 5,
+        "detail_description": "Hand-woven carpets using wool coloured with vegetable dyes are created before your eyes in this amazingly grand, suburban gallery-workshop that includes a museum-like selection of traditional handicrafts. Tours are free and in English with no sales pressure. Ideally call ahead.\nTake northbound bus 88 to the second Ceyhun Hacıbəyli stop, continue walking the same way as the bus was travelling then take the third right. Turn left (north) again at the next major junction and Azər-İlmə should be almost immediately on your right.",
+        "imageKeys": [
+          "ATKogpfXOHtbTgRpiw5kAsjJIIfEC4-dEBrv0NHJ6M2tiI8sqb49rwavUN4yeVhvdmRqHCcQUuP8KL1uZNLqaixUVMfVuLZhH56hDWyzVgPqNaoEM_Uu1k3TjS_rzLWnmA7o-3qMTScFuD27JhoZxdOhl-5uCQY4xLyiFCXMwbW0a-hBkXlCCcpJAgcRlN_WCEhF1lnJwc4qmwBXOrvq9VXiSBd6pnLTH9i1mq__dkIe1u-syABIADuo_f3luXxA1U6RJAFHQCIOKRO7vvgZNWPGq6pxO9EBvEFX5qy2n00WlS0Mk4G2VjvbEaaaUrN0ZwyIRyNcz-sDu_Lq9Xe9EGLzcI4FBdh16txOXyGxscC_waNmgWWBplmkWNGaVbWqAiUx6pdZ2BS2u_Mji8E9FFeR7PPuB49jGEt3jX7hzidH8pT8ddTlIYUzKoIjXqSZdIDh6XNIFfLKmFz7TpwYWfXtLsJgCaauxRk8Hg0rlH32AZpTFSW9ah2IILEAIXRFWmV6P9mkoAzMdeyBcLA1BX2v3mYf1arcEnkpG2er9D3SgAWW0qgDMdby5ghm77Evy2MrdekkpNVqDqNuPFJc3yTtDRcXP4LqNpNe6LC9eiYRElaN8tfHcPdZp3_iqIvb6HpjNd6kygxn",
+          "ATKogpeOd4fgo--tcJfzr0JhU6jaJsr7CbQXoOBAxJlhZUmFDe-N2KN0wv8upHz2vbAAUZqUtlkCOcKKQFlRELMCPqq7EnwZdii3iyUCQZbDS0HBY3gUPuLnbE6NEcv6y5Fd45WSfhOL7lUfBdBU7xFA_X51QZRVjwY6eJVAsQj_mOmC5DWVkIFEcfku8HDaWlGfiP1mxQ5kHz8A6uPBC_WS_BcLdL0y17Uqz9fCdHyaWSg4m3nJVKftD1c68-D169Bks9kioIOO29K45-OGyx96UoUnPsAELBRY6DQfZwrUpbRB-2p4qm_zut3bvJyonbX9Kinlkc9qBtL911oBC4s9n_oeD2P-4qk2Hjy_kWgN_3-2Cx13TEjSgOm-lGQjuTMG5-O3ODu-18lSfd4Y_NeB8zu3c_PJKvr7yMQOqG7pV4mkhfqe_b4sswEN3RCHw6HxqzIhhxuz__uqI-BpeXmBQ0j0cOfhl62hZonEpkdfWgKwgxqG6rtEVIuJFk8QTUikYMFaRGaUKIqTBMAaVvKMJEhJ6KZl7Tkr90Tg3jhoTfPJOX0rLP-7liG7jMQ03KjCy6lG7MlE8Mt3JVMl6Yn6Bgo3SXBAaQpxpMK7Yqe1X0NaUxmv8OdQCV1edBAEnRI_",
+          "ATKogpfxJSBMZ_4WWDPzKQhgvpsIVqMO4tjb2udQ-M6eJoFYE05TFijolP3Mdiw0koiW8cnchb31BsxGC7jtGnbxrlvF_rN1WV5yf8JoP8Tv5cR6PxCNrTsm8RRsLcW1YL7ZabwPTe6nCEgyH5L9ofQC9QzP11K0w214TaX5yj7qUps1R4OeLta8TPLbnYxeXQYcn1vly632nWPNBQ9Kt5PotKgi2KMTHF95kok8V_pfd75ppWGDgxYBnCw6Y-Eki1ECVxo5V8R7Rs_AaGgf2aav8lT_LUl1MBsHV43N1yNUiBomV_awSTnvlb9UH5NXtxskcYDgKElaYokIJ6daZCIKNsqWQm31n7TTToS12YYwct7r6Yb21Rt_1WCeruobQtNz_vN3INfbU0aJ3Gc3_nXPPLTmvWK7hkQId04qHZf_zdkxmHp0R0ftSFZPt334fCyoeUv5-lz4Qvq6p01qtqC5Mqyi4Qy_GHXoAjYR6nbYn6-1GCR4_C3wTd9K7k9hQdjdqSVO0Lalx9nU3X6Rdnh70tAbydtLwukh9KVU5usGic7rfwKJquc-GC2y0tEdU1c-z3-FAkrAo9FLC-nlW-EXzT4Jr1l8ZfyW9EPex8wr7KXJpPqpwJqnD5wUpGXY0LsQGAvGFg"
+        ],
+        "ratingCount": 6,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          }
+        ],
+        "excerpt": "Hand-woven carpets using wool coloured with vegetable dyes are created before your eyes in this amazingly grand, suburban gallery-workshop that includes a…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ3-TDt2Z9MEARIbiGdX_rVVU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ3-TDt2Z9MEARIbiGdX_rVVU_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ3-TDt2Z9MEARIbiGdX_rVVU_3.jpg"
+        ],
+        "placeId": "ChIJ3-TDt2Z9MEARIbiGdX_rVVU",
+        "name": "Azər-İlmə",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+994 12 465 90 36",
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ3-TDt2Z9MEARIbiGdX_rVVU_1.jpg",
+        "country": "baku-baki",
+        "address": "Şəmsi Rəhimov küçəsi, 9RXV+XVV, Nəsibbəy Yusifbəyli, Bakı, Azerbaijan",
+        "latitude": 40.3999837,
+        "types": [
+          "shopping_mall",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJ6Qk7rmZ9MEAREsuPl8ofS4o",
+        "website": "http://www.ateshgah.com/",
+        "index": 19,
+        "utcOffset": 240,
+        "longitude": 49.843855,
+        "rating": 3.2,
+        "detail_description": "Ateshgah Insurance Group offers a variety of travel insurances that are ideal for a group of individuals seeking coverage for their trip. Their online platform provides convenience and ease in purchasing the necessary policies. The company's team efficiently and accurately addresses all inquiries received through Whatsapp, ensuring prompt responses to any questions.",
+        "imageKeys": [
+          "VQWj6THvMl647p6OFVeJ9AZ2qZSZaiMA",
+          "kbFMpY18rLZmq2O09HeZD2DW9onao9We",
+          "O6KB5s9VMtGg9zQLb6vHoRSp9zo2w3kw"
+        ],
+        "ratingCount": 131,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          }
+        ],
+        "excerpt": null,
+        "name": "Ateshgah Insurance Group",
+        "placeId": "ChIJ6Qk7rmZ9MEAREsuPl8ofS4o",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6Qk7rmZ9MEAREsuPl8ofS4o_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6Qk7rmZ9MEAREsuPl8ofS4o_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6Qk7rmZ9MEAREsuPl8ofS4o_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6Qk7rmZ9MEAREsuPl8ofS4o_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6Qk7rmZ9MEAREsuPl8ofS4o_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 3,
+            "3": 8,
+            "1": 52,
+            "5": 65,
+            "2": 3
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 497 81 82",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6Qk7rmZ9MEAREsuPl8ofS4o_1.jpg",
+        "address": "1007, 75B Nasibbay Yusifbayli, Baku 1007, Azerbaijan",
+        "latitude": 40.400016,
+        "types": [
+          "Insurance company"
+        ]
+      },
+      {
+        "_id": "ChIJ7bcm39d4MEARVuFGlynSIjs",
+        "website": null,
+        "index": 16,
+        "utcOffset": 240,
+        "longitude": 49.8204346,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/bibi-heybet-mosque/a/poi-sig/1487093/358673",
+        "rating": 4.7,
+        "detail_description": "Worth a quick stop en route to Qobustan, this 1998 neo-Ottoman-style mosque replaced a 13th-century original demolished by the Soviets 'for road widening' in September 1937. The interior is impressive and the rear terrace has curious views across an oil-rig port, 5km south of central Baku.\nThe 1281 original was built to honour the Ukeyma, a daughter of Musa Al Kazim, the seventh Shi'ite Imam, and sister to Rahima (buried at Nardaran on the Abşeron Peninsula) and Fatima (at Qom, Iran).",
+        "imageKeys": [
+          "ATKogpexHsskTl816lIBUJ1SP68o0Zg81eCjKHVNiZochYMIiGmy-hfBJgRdH_4BEkKps7R_zsTvwqk_HbzH7AAjD61yMuPpyz9PxWwa4d9q0wBrLRTHUUSj7mtkTWROsmpKQaC0a2dLeUaBZ6GKD7L2Py7c7_L2Cj7lZEePLRrrbkQLpVQlEJ1GNdZrM3AqMvYruW5ZAQkH547c3sbRBdKEIrdzI-E_pLapY0vTREFr52WU0Eyzd7hmuGb6aj60I9eqi1TsHym0IwB5W9IOcvrlHdwPgQO_HkLd0CimwOMk1vP584quI4uSS8vHKUHefFAuj7BGt-hGqWH5z5Uv3PKujiNGTHafi2EpM30x35fhdkDxMfMZhUppdwjS3-ig5y-yL49kwp7yP6hYL01Mct9ytnbii-wE107FTMLJMlailApWJwnVAZbICOtYwlPE0TOK0XxxLSrfPxrwKLn-1jH1Mz6nT_UxADAlQbMpQTCyvk2-FcHHbRlzokX5lU848R_JxNhcH1B44tdSqbJ8yh8WscyLGAt1yJCjwmOsjnu6KzJbT8W6shSYopwcy8s0NAH3UNYQ0Nwh6RgP5ieXBZ5DS9wEKYeuyrbgf2bZVtlLWVCzujOCwh5-Y8FqR3lwCWT3EWrj_beO",
+          "ATKogpfh-fowltrIQDlgz8F_n4YBbn7zSj-x6N46TIyqkdh6nPhAIJ1y7oQJCY_BLdNJR1nTAIdMWW26OfL6XgWHkIm39dQb8Thh9SiVECnLCXkVny1Wc2phGCU7iRYXuw_PgGO5iojgsokPz4i5U84aLnjes3MSOm4mxrK1igpel_cDXxRSJ55OY5gC-vnp4S4Z4VC29vEpmboH-qFfv9rCzCQYq7e93JHq82EmbiQA1VPnXGRXSoj0MDH6FsYzLRIAKOQvr83yonL4iR03NmrmaPOLn_0bE9Z4v-dRCZcbGEXHieJwvgil4lkkUNwEVfXrkOzh2RQI7aBEmA_bFSP2fxDcT2Ey54l-KvvtyeRYjib5-NN0KFTdQfJi55zyOU5AeKM3pb9H_eIXXr13otL9Wr4JAAKuE2XTf5yYuJfVszlOtti58u_PSNdtoLA-5hjrinmhvwuALooslrmdlWCJIiFk_4Aws-NePSJEzg0CrQ_2HCZOpzVe0YVsEp5XnqQrCG-91uzZxRIKeowNB0lPq9JG6DUzhQjZqiYASUDBfBHJRmeKk5_wQbqvyFm4rM1GgKP7jjor6qPygZRbarfR76qScopiw60VAL59WtZYbK5ZUW_tmFsnPF38t9_IF9NL31PgsQ",
+          "ATKogpcbYN4deGhufHWSTXMm79xlWG6Uimu994ZPFc9xQ9-xtLpVYyQ9HiZdAfbRLbgLAlKJPvczyktvKYbQYoBEspSE9lHNCKFSiUGMP0vo66Q0KpKH4Q2IDqIhwzm2A_fTm8ZlFvA4K2pfe37VJUEU4A64BVWWqh53KYBcZvY8XemZVCGXR20Hz1zQ7ebFunKtz2vOWzI1-yZf69gFcqX6Y3sCBsLp-AZQk0DbkhdFPi_zzG8W1hL80lrdA7a5Dwksxq1f9iWAisfx1B3uhnc9abPbi29TbSMoTHQ10Tv4juptNs8fFI1djpNqM3433rh8VFEXF-VPMWLE9SKXYucL7LBx3dbq7l-s-Pa0NBFsV49CCDjcNZWTubVg4uOZyIkqRQNSvWpxvP5wGHqCEYLnCkDIIHgpyb3Wz_fWBd475JM1ViRZsv68TlfQxuoDDH8e2vkKrVFMKtUcHCgCElxp5GJWY246bX9lo4XPSS4b0tCOz-tPKi1-xG41dnLB_W5HyEM29lCJouVi_Gyera0NK34T84U1eLYjnXJd3yvha6WSKXYvJDhkluKkbnk8OJWvKdntxkb3oezNyWLsP4aAaQdBFRhxVbhEmaR_86tXgL24aFgtqrie4nMngP1GnbM7eAF2vG3X",
+          "ATKogpfR7wr9EQrxJpEZ7_fXPA5eyMaiqHzROJbzBJhId29zU0FBOJcVrPR-Xqlj92fF8F_zePPZBYiKzjspUbK01ZqCYHCOd84GHV59NGYWh-dnXUe8d8YAADcewLn7bZ-I1HKnBjsLldJOS0Q6Mx1W61fJOluzzjn5ExjRqaUfHc2XFYqtDAPueB173vd_yjIQZ6FHgeaGrFAtcsZ-tut2PIXZCVb0A5pvYU5fyNp7zXEtWDZQenUM9567lH48P2UF0w2FKGmi3RjDLTJ0kHUl8cUuGyR2kAL_ZM8TsEJEsTycC2ptdLSoBBp0cfHpULqGw_72HjK88YooB6wI3G_dFS18B2nKDQG2T3RVMXGPp_9c6y6E5iYx40V0Vs-0vjxvcX3kARwu4CmWoaXCCnbDKJrg_j3BnF9GFJ2qUFGAl2BHzIJJHGRtPQxGndp9FqJFsJ3-ZdRJt-ACAZSrzX3n42kgHQfOkyhP6QXzyO1Ln2xFtP7Uvo-DfL9Uuga0I5LSI_1dzbSmxQJsjV73fPKEv3RMFY8jWd-3mIXsP-FDgQ75HjT-lXNhU1XXmlhDMwIwns0tlSCpTDFUJtYaSFxOgbxDk43wy2uFKBnutpnVZ29-f6lI3x4q7KTG1kzp7F4x",
+          "ATKogpcujoailAqy3MU6f4JrX40g8NB6i5DWx0Prd4aNK5GT-9wM5rXzF-HfHB3VAcDLtlyeTgTgdvORVCaWtt1AXDFJMqzD5x7dqLixnDW39v1FuFomY-m3FkIwnPMh3d2MGh8lfBZsg4JSr8tsk7PVdle_msDYx5WCyYxqN4rJgxUdxGlpPuaPLh5CtzjLK66uH-EjADzHcj6Vmvg4AE-7FerIBLFIxKWbuGPxgElToyvatX_kxqVYzxgRzCj33rlPTC68aapiOfW6ZkQ-bYjYmNYm393Vy8Uh2h7kro-Zeik0mZkgUk6gTJPbpq5mBq7Le7kS8vrZfW1C2bCSWAt9--dpWqbfWInXA7VxtI2GsNFZWYqKMu0jWHGss2ZIBrF_Hdv9GMtFEqFflexQFpCfCa4H0ymbJPuqI61uLaXsbFmG94iL255fB3bOx_ZqN-UUdd5va3CvT9fsrziZxIYJaYewmXYGzd-rUKTcyhrFa0Q5LUK5jxF6t1UgcC_FiQHIoXp5YDOP79qR5wkUMlP7DRE5PFLMN4AkiXdsbTXz7PD-jKZPkWvIEdn4GLKPq_-706iNTMuXOlEcTup8fdr_b74iSy5VZmcYJ2mzrwcynm1TvoTqDbBujN1ovSXpfsOx6_xbHA",
+          "ATKogpcoAWrHi_aZ9wWSdlf6UrWRDtzVPxXSyzPDzZww8aWok4NFqvqBbLeTpaqond-1bgYUDeTMp7EW0UzwIurCeL5AA6Q5a4uNItmbCe6jTIO9IaSSTTTRguIAjaHc5JivnIBxWxhD0WkPzkkF3S4_XMDbzrE7dY2GcmFUMvh0jUhEwmqxFCQivxAomaBruhGy1mJpmIbgeO-IOXNJ3Znuj5HN9i-9_qD8kFWztpeu0fh9RtO76RLrZqg1VaYM44efEefbfC_QJ8AyB7T-wsbh0HF9AG6BJZA8slORR1wPcuXBnB4tn_uHUC2v8M1n6JI5xiNtDco3XiPMXnAuTh0vG92kEehdatPmKfhpVy_7Cjw5osYs5NZwQRPeoEUqfzCMYwxLB7UhT14paV7v8aGguVtkbg68ihP0lWsXaR6hcbuJbSyVnHxqa-5GCRjety92-EYDQqQjOrJJpEOqb9p5gMUg888KqRZMLGuRWqgiAkVlQ3YSQhcQcpwKSU9fnyNf-k3_8fpmHjNtkSYEQcE9de61B6Kdn7xZWHO0_o2nlaXCW2LZXWWluh9yyOJYHZJ5FltNbUotSCHkB3MeyKqVwsvMzb5HD5qiewGeqOtsB2rCa_c-qBQ-UE6aQ4l-U27QybyPvZe0",
+          "ATKogpduXCW-z6BVPW--V5f7vsXH6IAFu-Xgoloua1YnF10l_DGQwXD3fO1w0k1k4JJlwRcwQCH7OHashg45eXL5oC-DXoGyWudonvQxNflg8O5QEdXhGa6GbtuGi79xsCtzpNGNE6W7d4gVft7yJVr69KE2PfFmJDL14nEbge4Phgw3Od0YV3oX1VketZ_0k3Ks-a2pQO4WgseWY5SpOdXoR1GrhRi6150UUyWMnaqfukf0N20dfDOuGcMR7FRVz27Ubw0azbnDXLfclQj9iVi0JZ_AaZL5yhH8GexWc5Cj4MWGLcyBIVb43vV4rx9lugBTz6nKl490pi_Mbuh63KC5_hsfnqTLKqW8F92mtaZX_wL7sTtdwoG9wp9Pny01O1vmwl1aBTGasIdXe8mDWcU7AX4SngqVNAZanywUckHiQp0ivQqx7rvG_g2D3QOoCaoZeHlFa8aXH5rWKV1sTyPwDsIyJRtGtdCOKL2-VFiK3NP6W34qO0XREfES-WBTCDf__txsVF2q0lOps-K99pl320t1kOl67SEY58cnHUjbDMudta25mnXzMcs1-inXkJmLwvQUpb6jGBtG4iEJUQY03Ew9nb_BiyLQ7v7L4Ssq245Bh-Z9oM9wU5-LPcanRcec_mMgYVXh",
+          "ATKogpdR2i2nbdf-08VlMzgjto2-dn9N1peNI-F6xOkrMOYbUOdDAZEnKKM1J_RIH9QOlhgE-TSbK00hiqtroub_9tEF3CeSdOVFMEmGSt-9cQjCFIkOeOcDtYrMF6_J0P2tJSYlNDYv8j4A1VTTzTR8vq0G7h3cP5aOSmbGEueT78iCGSJVYRlAz78osgOwMQXt9yCR0Y_2DHjygF8j1QfR0ddU-X39Z87kgK19GIlfbohCRDG_bTVyvmMx6LiIjUOoZ23DpUt5kkjWklbKjDZGtKMlaJ-CO5FBZgEeHpb0D_e2IWJZNuBViD-etqfQ4XjJcHVMACbdV4sAsPj6xGpCApIpCLC7fyiMoOKQudPxGNMUKmqheodt8J2t1ahP3Kls21rX3njkMqEW9lGQT9X1AleCl4hx61oq2xA5DQHDSigd9SU9tGUczJ4M4mfdvAde7H7BqwLcn7InG9tbGE_P5dE8kdx--ewSUG0aVVpNEvzhXFEO35SmcbiOXrMeRgEV0H-c9F2-NaV_JuiQ2CbCImsWf8NdMtb-GPdBXAytxbFaZlkvThKv257HXS-xdN-QKBq8OFYwak5GA8f-0smVGhrHP3VTCkERbCVjfFYHPbsYKZvCnYQ9GJXNcdP5KaKCv2-KkQ",
+          "ATKogpcNfwua_a6dL4Px85-ZBkRQXrBRxQdnS4233BtXwaXMJIxxoouDCFne5maWEqRcu_1hzABEWvbRiGyhEfFuh7Tpdme7fh36ozFkWThTKrZ8h34xZM3ZfA8rndicpPn6Sp16oIkB4KXY31MhwEp79ynCkFfP-i0v6WfuBoD5rDDYTpkc264p2on-0RffeR4HbuNy3RWcQizpiqy507AOAPp7KeBt9ZEfIAn3gJl2Lt-B7zb5Fv12TyC15IRxaF9XYOXF5TLa1ImrcFBm34a4VdK8jk_mgVYdOPWM_Ni-5xATNH6k2hMOwos5Sctq1yil7-_ekIXtEOs8eXaolrggQN7omoHq6VB51g5pPh4AtYmpmRoJdzBDjMuEMuXdv235ARF7TAbkMfIrgnHFaLJxJ4wt_WVsL3AP6KHl-mhikS55ygNiLQI_b3L19rGCAMH1CS5fCKYPysQ6-RtFBE5ujoevE99N9SOXANhCytvHJm3bKP4aKr57DyB34wwv0so92nT9CqPVL6-bqEFQrwGCPs1qYUfA4DPcERWGO8zJeN_BX5cIllk-3plB-XiHQu5I25B1gjl6dpCi9bAxC6RhPhJwNhy8Laf63drDziClviyhnTzEbhEEdauXb5ggABL0tYbz_Kom",
+          "ATKogpeXQjt1hpm9Jl86JrxqcxV4RsgjKPwnBXE650xgapD-J2AxW9p6KeYAeNMQiZ2D5K7IUALREuxVZBfwWqSRAa7Aec6dAxAN-vNIEG2GkasSO1mmnIDLJzDhAE1V9sGlI1jlGnSME5H3UfFtfKKQuMmCkIGCc3naEW6pI1htmciMJtcgsoAvStuytbhc8T9L7yPs5VzKFyBkHGtXQi3kWxtBmNWp4j_3hP4ufRMLTQuv22Wmzur6QrOhK65cv9fJgCNaaElpQR_AIXCtNHYwUJriWlWfZpggM-27X938rL_X7H_Gph6EkqN3JbIB6V2obBF3TRK_k7X9d-ZlFeND8SZtZFpJJaHJv-rPQKvFx0MdpCakcsYdYpNLsT1dKJNGHbWqvlWy9bC5E12Nuq7tvUuirAuPupgUan8NMd_3wjRYkazWo0-9jWp8LItMOIPNDWqsBfse_k0CbkH_qetNX_dY9WzJcKy7Yg75IJV_NkN3ufAxrhnqZqAplJ_sGJ7wxk3CyBPKswLhClm60ASfJwfxRrJ9ONd7A9QWISYM4bM_OpLZA18LMJfpMq8YPzxY_Kq13Zzy9JTqkis8fW33ABWcOsJOo9FAJNWR6xbyPXA5etXxaAVAqAATxeBFjDn3FAGoAKl2"
+        ],
+        "ratingCount": 1862,
+        "openingPeriods": null,
+        "excerpt": "Worth a quick stop en route to Qobustan, this 1998 neo-Ottoman-style mosque replaced a 13th-century original demolished by the Soviets 'for road widening'…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_10.jpg"
+        ],
+        "placeId": "ChIJ7bcm39d4MEARVuFGlynSIjs",
+        "name": "Bibi-Heybət Mosque",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Lavish replica of a 13th-century mosque destroyed by Bolsheviks, with the tomb of Ukeyma Khanum.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7bcm39d4MEARVuFGlynSIjs_1.jpg",
+        "country": "baku-baki",
+        "address": "Baku, Azerbaijan",
+        "latitude": 40.3085327,
+        "types": [
+          "mosque",
+          "tourist_attraction",
+          "place_of_worship",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJ8fWUNlt9MEARa6rviYhHMQQ",
+        "website": null,
+        "index": 7,
+        "utcOffset": 240,
+        "longitude": 49.841231,
+        "rating": 4.8,
+        "detail_description": "Boulevard, also known as Seaside National Park, is a must-visit destination in Baku. Stretching along the Caspian Sea shore, this 5-kilometer-long promenade offers a refreshing sea breeze and stunning views of modern Baku's futuristic architecture. Lined with vibrant flowers and offering various activities such as cycling and enjoying attractions, it's a popular spot for locals and tourists alike.",
+        "imageKeys": [
+          "f1U0AEhXAp5LT8UiefLVHcwx06J45Ara",
+          "wymPUtmFoYtI4K1sZcBmYlA3qYWbNfMR",
+          "IMCHQ1puwomFknX8z2EMkc4PYgHhzEOL",
+          "NypeRvzfM0vuVgAyjENslqK9czs5fBnP",
+          "SGlv0a23M3SSOOiK66Xr7MlV01xwleSF"
+        ],
+        "ratingCount": 144,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": null,
+        "name": "Boulevard",
+        "placeId": "ChIJ8fWUNlt9MEARa6rviYhHMQQ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ8fWUNlt9MEARa6rviYhHMQQ_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ8fWUNlt9MEARa6rviYhHMQQ_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ8fWUNlt9MEARa6rviYhHMQQ_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ8fWUNlt9MEARa6rviYhHMQQ_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ8fWUNlt9MEARa6rviYhHMQQ_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 22,
+            "3": 2,
+            "1": 1,
+            "5": 118,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ8fWUNlt9MEARa6rviYhHMQQ_1.jpg",
+        "address": "9R8R+VFH, Baku, Azerbaijan",
+        "latitude": 40.367182,
+        "types": [
+          "Park"
+        ]
+      },
+      {
+        "_id": "ChIJA12MqC18MEARQnqmObS0qMQ",
+        "website": "https://az.wikipedia.org/wiki/%C5%9E%C9%99hidl%C9%99r_Xiyaban%C4%B1",
+        "index": 15,
+        "utcOffset": 240,
+        "longitude": 49.82824,
+        "rating": 4.7,
+        "detail_description": "Martyrs' Lane, located in Baku, is a poignant cemetery and memorial honoring the memory of around 15,000 Azerbaijani individuals who perished during the Black January massacre and the Nagorno-Karabakh War. This site was constructed on the grounds of a former cemetery that was demolished during the Bolshevik era. The central feature of Martyrs' Lane is an Eternal Flame, and visitors often leave fresh wreaths to pay their respects.",
+        "imageKeys": [
+          "Pz3PoeBU2aaf7uXmWiMoo6pyfWWgreX8",
+          "1yUpps1bYV0oWCFBrt0gpV1XqP3LVde0",
+          "U4UEqJWJJ3J6tK4albudqBQ8uzXGHp07"
+        ],
+        "ratingCount": 381,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Cemetery & memorial for those killed by the Soviet Army in Black January & the Nagorno-Karabakh War.",
+        "name": "Martyrs' Lane",
+        "placeId": "ChIJA12MqC18MEARQnqmObS0qMQ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA12MqC18MEARQnqmObS0qMQ_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA12MqC18MEARQnqmObS0qMQ_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA12MqC18MEARQnqmObS0qMQ_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA12MqC18MEARQnqmObS0qMQ_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA12MqC18MEARQnqmObS0qMQ_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 57,
+            "3": 18,
+            "1": 7,
+            "5": 299,
+            "2": 4
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJA12MqC18MEARQnqmObS0qMQ_1.jpg",
+        "address": "9R4H+M7H, Mehdi Huseyn St, Baku 1006, Azerbaijan",
+        "latitude": 40.356685,
+        "types": [
+          "Cemetery",
+          "Sights & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJB9JX9Ml9MEAR0fE-shLQeHA",
+        "website": "http://www.minibooks.az/",
+        "index": 9,
+        "utcOffset": 240,
+        "longitude": 49.832541,
+        "rating": 4.5,
+        "detail_description": "Located in Baku, the Museum of Miniature Books is a unique and time-tested attraction that showcases an extensive collection of tiny books from over 60 countries. The museum, situated near the Palace of the Shirvanshahs, houses over 6,500 miniature books personally collected by Zarifa Salahova over three decades. Visitors can marvel at rare finds such as a miniature Quran and a Russian book that requires a magnifying glass to read.",
+        "imageKeys": [
+          "bE95M7TP6Qo8ONkiLWxa83mZ5Y8iY4jf",
+          "72rU6DfrnPEa0ElZpckKPvbsgGjDk5un",
+          "7V570mnsqwpl6IykrqL72hTs5UngLklw",
+          "04SRNuG0E8aEfzxLtlClqLMC5TrtHkR5"
+        ],
+        "ratingCount": 642,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "1100",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "1100",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "1100",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "1100",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "1100",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Time-tested museum featuring a vast collection of unique miniature books from over 60 countries.",
+        "name": "Museum of Miniature Books",
+        "placeId": "ChIJB9JX9Ml9MEAR0fE-shLQeHA",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB9JX9Ml9MEAR0fE-shLQeHA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB9JX9Ml9MEAR0fE-shLQeHA_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB9JX9Ml9MEAR0fE-shLQeHA_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB9JX9Ml9MEAR0fE-shLQeHA_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB9JX9Ml9MEAR0fE-shLQeHA_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 102,
+            "3": 61,
+            "1": 24,
+            "5": 458,
+            "2": 7
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 492 94 64",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJB9JX9Ml9MEAR0fE-shLQeHA_1.jpg",
+        "address": "9R8M+G2M, Baku 1000, Azerbaijan",
+        "latitude": 40.366349,
+        "types": [
+          "Museum",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJBWa7h8l9MEARo06uOHc_cuM",
+        "website": null,
+        "index": 11,
+        "utcOffset": 240,
+        "longitude": 49.8316,
+        "rating": 4.8,
+        "detail_description": "Icherisheher, also known as the Old City, is a historic area in Baku that reflects the city's evolution through its diverse architecture. From the 12th-century walls surrounding the UNESCO World Heritage site to Soviet-era buildings and modern skyscrapers like the iconic Flame Towers, it showcases a range of influences. The Azerbaijan National Art Museum and Azerbaijan Carpet Museum display rich art and cultural traditions, including contemporary works.",
+        "imageKeys": [
+          "xhhU7pVPYyLDnkRh7xaDptXmS2WTi9Mt",
+          "1QUgWlhoZXNk7FWmfvlNVKITYo9gNhlV",
+          "Ufiu48YAibZx3fbpCmz35QYp4qS1UCqV",
+          "rWb8fXHqGO7l4z7h8uUbBDtjGAPtIfCG"
+        ],
+        "ratingCount": 155,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Icherisheher",
+        "placeId": "ChIJBWa7h8l9MEARo06uOHc_cuM",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJBWa7h8l9MEARo06uOHc_cuM_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJBWa7h8l9MEARo06uOHc_cuM_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJBWa7h8l9MEARo06uOHc_cuM_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJBWa7h8l9MEARo06uOHc_cuM_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJBWa7h8l9MEARo06uOHc_cuM_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 14,
+            "3": 6,
+            "1": 3,
+            "5": 132,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJBWa7h8l9MEARo06uOHc_cuM_1.jpg",
+        "address": "Baku, Azerbaijan",
+        "latitude": 40.365949,
+        "types": [
+          "Subway station",
+          "Sights & Landmarks",
+          "Historic Sites",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJDSaZorV9MEAR6ribVkOjVDU",
+        "website": "https://icherisheher.gov.az/en/4-monument/",
+        "index": 3,
+        "utcOffset": 240,
+        "longitude": 49.8372472,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/maiden-s-tower/a/poi-sig/1135757/358673",
+        "rating": 4.5,
+        "detail_description": "This tapering 29m stone tower is Baku’s foremost historical icon, with rooftop views surveying Baku Bay and the Old City. Possibly millennia old, its construction date is the subject of much debate, though much of the present structure appears to be 12th century. The Azeri name, Qız Qalası, is usually rendered ‘Maiden’s Tower’ in English, leading to plenty of patently fictitious fairy tales. Various versions are considered in the imaginative little multimedia installations that adorn several floors of the tower's interior.\nA better translation of Qız Qalası would be ‘Virgin Tower’, alluding to military impenetrability rather than any association with tragic females. It was certainly an incredibly massive structure for its era, with walls 5m thick at the base and an unusual projecting spine-buttress.",
+        "imageKeys": [
+          "ATKogpfHUAStorjMN4FRlF0Z5xc3dAnldf8VIFKXAd3Ui4iYk-GnsUsxMnhtq8avyx6QEChQmIYujfFI1Jka75c3NCn1rSYfA7c_CoZF6b4A2FJKrjJqVcs1TESZb75YcJZ_w-ouDTGw5Oqam2tTHVjYXqGIWvktx_1WeTNE1Dr4ykO3UQfLHvnwKrslhVVpdPFnwj3FzvdVKaG5gaFg1O0kUP4Rxbh_gw8sQzxmlU3z3j2THCVze-anZaQkNPspQIn00AhpCw4jw0b5H9pjqr0valVt0DXCtwa5ly5hvgIHNJI1wcZXiuDyeHMDaj1P1Htkur2rkEAwW58tG2G9f1WwGYNMdSH6wXPCbw2jsUO-THDMnXGJnPt90d3AY1iJjDgbkE27aHpKlExowKee1PgFKi5ifMsxedTkHPiIoRm-qrl3j8LF2YyHQUIe0Kyg3w-JsjPtKKd9j7lWiTfgCVOcpXjJ3a5pmmjQFFLLYd0slUg00u4F90_g4rA4beLnDGXhfSFFTq2gSck2i5WWvtKKD5K7ZioL9PfEEjHawUfNestopyqtQBESYnd9CWNSigP-ThpshcdzqRGTULDj6YyWkfRZ-wGp2j86wtqnLeDtQIVuNCg33jp-Len4JWL4-3J9",
+          "ATKogpe0IzBtnTkyUpkti26lGIN4-sH4x7et_lC2Usj0aIoWmmLTjl74Awex4L2oSc4SfwPdsn-1pOpDOoSBs--IXk6mmUZI2v5SKyvUV8TBwvmO2JO426gqQfjWdbiaDOI0NhtUQdVUm9iQh_yWibpkKQfSRzm6xgBT7dkhtTHtV5hBZaHLfESa24aWIx9rXZg2qPFxRGN2zdnWqjhZxiO-OfgnIlLacJuiZUBwtvi9Hh0JCqG6Sp3lqMRKzRjxWCj5ReaV6M4ymjgguKrxLatJtrEItIabIJL_eYSqiCVEwRCjbkmtyGgksrt4W7cbqMgjjN4zcDZYFPdA-qaEgTXGeA_Ci3_QCOm0SS5y5eK2vOeGzINdgroBETsTaUVfM5y85nN0ApgJnXkZz8WGp-IaWB24pS6wpBcjmY0JkT6uqMWEZfC3JuitLH06QekGQ4aLgU6q6iImjSkUJVPmAOkxsou_UCvWfPl2XjcQiLOgpcDfefo9mrml7MDlSBGbEoPw78lCUlViCwMJ-qhGpSe3VkVuCWrCdL6z77-IV0Np5UUItihS44ljuKgJAIpjMVCTjFOERLdu2sT6udd5EU0MqI-kXAgW6kyyYOivK_ZkdSY8bU2yR_P8C-2nN6BWK7EEnsEWLQ",
+          "ATKogpdeeJgEHL1Jn1-VlCLMiuKjoTpSOEl8w5pRO0a6hOL2BDxhMV1SKGMMc1FKy5IBU4Q5NC5LJaKaxzDcQdhw8rekUZf6z7MgiHhUl2QUedNTt1a5eteE1uyQxbFlbbx71UoqjnYI083jfe0HlSXFd-rUtMYYv6GTkDPHdhhfXsU15pjFkCyl_EEbxuDdW50X34VQxJScpmpEtT7PZscEMpnk_kwIgDbsmuLEKdl0rbwP5MKjTLJFN3Z3ER3aQIXd_xZvis-cKCoCkRt6kx1KbEiDYKzs4h69hh9xfz-9YXTGnrBT58sfrutZbRdNmPc4Mhxz_jDyrFrFOKT9y33ppK2PXScbvKY3K9Gf-tDXEFVYkqTb3S6wUa7gifuBhCtqKIaFG__5gj2aE9EUzjExUu7tP8gKFSRsxMgnk2KdAoO8h6Aj1kYy_hiXdsEwpR6udkrEZW9gPMKLPDiXZrariL7cJF9pctxM9svP_2nSkvrCp2jvj7PncMZt54ISt4k2CxnZLDmCzIs0dlJ-TjFkGnT6hqwaKvaFOpS9RYgCbrCZe9puV59lsZhLuno6S7rQXAqz95mTADjoxfzM1DeJ5l-0_ijn7OSNrWJ_jy3W3avRUjww9vsaH41GR5lOPGF5",
+          "ATKogpdsgHXsBYozb_8IWTC5ORE-io3NdfT4cOkFQYBTPC4qDc404FgsXjHdOinviNN0BSHryQxMWuOdxRFAV7El9kzPZzt6Qdpw7-gfE-XxF71s5usCSLNHKgGH4_Nw_z6XU8l8AdnKbG6KgEUCcicltBpUSgu911u7F-1pWAm52Ks5MJwczIyhLxgZrfxYINcHeqJbypkWQW3QmkhgQtDKUK7fhpBg4qv_mOsl_BSOjc4uJyPtJxAW9XQgxYgT9oG7piCV4xk1VqjJTyXxnG8Dsj_dSmrc--nbBirCPIFVC-7GE0BVK2_7cxLh1C-wfDDs-XETYArlDF0Kccka6jyuh2IuV11M4GbE1aTeR79NppuPSVqPDyxWlyzlWgC54ZfjPdgn-o92H9cGxJRcnL9gO7TrHTGUBUH2ZB1_i6Rv9Qh_FpwFGsFN02ttl0A1GMwTu19fAw7kQSSHAPhn3F74Dn86LLigP_I4AUDVLQ4KkMgAykvVsO_iV0NCyw9XU6PABE8E5WOYkkTbeGs8Pq9w_DF_uB5AZFZgJZGyhHnDaaLOrRpkADlNOSioSENww8ORUkARg2R72p5_E6ZFYMPSIbCKLBPlv7BlncaRzVRTfOf0_l5alLIOJsemMg7nXxDZ",
+          "ATKogpd6-pOsy1z12geu0HtIaoiLrIqfKizq3xJDyP5J9OhGrJPPgaDm_5SnlegjAHgxEIUtXzsaB_JKeTma0sizTg40ukyTV-CI_b9UWrvybc3siJZ4veeb_7Eg1ZKF65kPh1Io00GcbCf9IoNSDMdxnYenEkkQUXMUi4Sz4Pp8Uf8ArwPEwe1vCfsvO5gMZDxDrAbtPOO-JecVJzdBGqDcPdv_ykGfLW16mww0eUgAMB_b5MlSlz8teYHU2yURnu6HgczLw9wTmMmgFKczZC2rZHCcD9IdjD3qn-mAj7yfozAEhB2e4cXCGo_fb1In2qp1D7F6mB4o2170zTqtsCNXqQo5iEOaAotDoDLaxHbwRs-kDr4ND3gSKv2L9jJB2znkemwoBRl-n3H4iiSpb7Szv0op94cmy3MpNlQx23_LLobjjzTfLCR2LSbnoShDBOn0vfJLDvaL-OvysCAo8yG47GA2Knbq8XJQJhm8InJJ0vXJHSp89iPH3S6yHq439dP-HM_SKlii7-Dffrelw8Z55_PPGsAIKLrOK4zebDF5pqFqExE-_DRWl4XXjh4NRCwFdyQr0t_g1TUXMD21cQKKVTu6uJbcm2lPVrsocGF4Aes8_-lLjyJa2DL8OLrwn4tSJA2jLQ",
+          "ATKogpcdtYdMZQJW9OurchefQZnow_IaCD5hsuVg5MXebl23Pj40hkuEln4-w9mkP662Fe056_0HZY7gdZJBqevvI253fowziXjetmwgSwolv2BTCvSbk3qX_6fJ34Xixh_6mNztuvbxT7P9ZJtFArngCVUyY4LcoYLkALiCDeyDqZcZzvkfkQPk1jU1g8gGJa0DtiHLVauqco5Gth_s4OApWERZ1FoFJtMsuKM3WL5uqppU0ftZabphSfQq9COzfC_SilpV7HO1LwBpzb2H2Bl4fueUQqlfRE6bSOStGRGUGfko3L4DwEoJ-AboQ843O7lC-7JVMeDlxmy1Y_ZdBc-Yo4yLqhyqrfuITwTEu1Hdfo7mUMU7jr9KDv2Yk_ILRmHsoZiRePDBqsS6ZQXDXRJq5YvqjZ828WL2hdgI5KzUhq5X7h9cMhemJDY29dsiLkERRzHXZ2tnJ0yNdXAy1YhD-BB8phv7I6GgIO_ay6rfpxKrP7UMRf1WXYgCAuZbTQdt6d15O2LDLdVOwisUPpWXEoiRDKZI9axYI_EEk7HUh5rRDaJv_7iRcbCdeBFz1YRRfZYA-ox_zxIAKkknt2IPZyEtAM93ZGX-dyMTtd1FVm5BWBkAC_IXBnSSeVhPy1eWwGoNKg2X",
+          "ATKogpe3C5EMycNQxkzcxwRCN4kZya03CQbYI6-OlEwhKy59MaAEHiyrY9AsOIu2HXnDbEJBKqgOiF7HCpmUvzsToAo3AKjT0xSO92s_iXd1Vr4esSwENKk0coV-PZ_wH1r_bDy72Nzs5arkWF_QGVqaYFlx7buORaEsQB61r5zVEqVYUGouPcF7kCT875nxxGbukQj7N0TYJj_N79sYPodHlestMgRqul0ABuHEqtrQ8Vj0nfOkubxxnTCzEkcvffTDBgZM0JyLSN4EKxNJ53xRFk5cMUfHh4zwF8k0xru2haXVh0xehCl1EtLBeXkDH81QxKMBXltX-mUVXG48XzY0jzQAV1bhN0jFO7-_P6-kNbmacGFLk7USlO9bBHqE0Rd0ukpal2afzdAxTGL3ANLBRWXzhq9RL-cMVYKfEenBn-3LlfQB93vZaodxM30hh0d6dnko7E18ezu-hGkHl1k1_ETajDXQTrvdqk2MlvGnvxdx2mXzrLaJWRwqatx7IgGkP_K71Ml2t0KglXNzPxywqX9xfkvPuQXWDMvHKnnIYPcbJbTFZY1lEa55sEeNVC7Cu3I7mdzMO7PV06eiToFQwECY7CeHWs4foaJrolHWULUnWt8C9zTaJDjLGg6_YCUg6yjn_A",
+          "ATKogpcYpVJg9oMWM2M2Zr0aFytWuPd0-gnNHMxYVX8tFilG2ZRTGfsuJwu9xd7B38BLvH66Rq7ErDOe_sFgBs7rbAo0dLVrHAcInXXb2AUzFwDo_OMcpxB9fmxOJCBFmroHEmoml9zOekmW-AychsKbdxrmcF3hpsFvmMvRxlz5ue0S_q-s5TQu7IK7VuL9iHtl3gsWzfx0j42fdrAFhi2ow6ucvVANq9padSsECH7Fv09nTbeT2bihKsQxDsah_Q2msfi9zPhL0P6MnwpH6elTdrnlTwCnZCnz57wP8yzjx5yyrAqU7gRcQIMu7kesNrIpCmfHB-gIIn70SyKFpAb54E0I2Il0ubuiROEyr7xMcfWNGksYEpDMnh_Rc9imOX-Yucx1J0flkG2GUAU2OgLrwVLerBXkT_ZUFpPUxG-jDZceoJ-PgLyWlLHP2RkwGnbTvBZt98nsAm5dqDeL_GgBzB1Gk0pRqe4ic7Z3JHQl47EeB3NSB7FQfJK2HJ3k_axdgXYRvbNM14anmaiN8o3kS4oqFwphAqaQCIBw3zjNJWQDae0VON5OMMUtArTnDKrCLZz8SjtyBJlie4VPzchRuLVlBtT3ULQfynTTRLLY-8OPVoKBxm1eVAVykK1iBuMEQIs6FsRJAGMNd92G4aQWqA",
+          "ATKogpc06UQAtEnQnZcvJb-pLLt4lO1s6XNV8272eZHi_Ye1vXvQmj-8FqncTjFGKSP8BL8lyJPMBzbLe4a1usoKLzQRieWfYTNNGjN8YzHAi9KTE1GKbxckASysGyhWgd1wjDL6v5n8M7bWiNhKUHu0XgRP8QoaSdQhaedFg3DJlo3Z_4VXX6L2zn5f0usMxGFIZdrRW_dWZsRWBkN6NQwIbHb9PceMsVG4GNncSwmJpOuFdw_MRKvpzWHrd6wyLOHalFvdaD743qz0rslRZd-G2BBqh6I6Z0fCOKrIm1yJ4DdRYfVpSmAe2HYVPtt-9OIxbZjVRvh9KomhRISrt3S83ciwuASBsfFFKY4EKxb--3rFGezciC3KcZBPFJcnjSOyvI-pbz0cChr2YUWqe6wpCJWDh0_wEpZDz8hfW4kSd1d722DWuDQpvpO-NPKeI9pali-JFA7nEzjz2zIROr_iVNaJ0xwnyiphiDrBR0NCVrRyxSlSOxiu4L0DW4Noj2QM-2PCWEGUYECJJU0W9crx_oh_pt45lDgrUivapqrI8RE1dCDFs4k7yMiC0TJzVLnecn6NfaSmxsj8P9Cgwhqwrf2z6nUe-RiJEmeZHExMhoRLeTfGRQaa1QNrDsU6oXbCIf2RCTm1hx2LMOhz44HxQP3OLCo",
+          "ATKogpf4qgUBpMnASmBRtzx2ss-71fyyF6iM4d1OPOHW_k7hS9V627y3y2iqkHUWcu7UU9WUTaOLi0ovxLI6iT7ixjaKsMq46kEGJM2HRhCqtq9kDpyf60ILFKL4Bipdp5oNqxO_gIqpn6NpB1-D1iGPua6WYFh1dRJw5k50QzFU-vzJzvMC38COMpBssKkB3leYkyYGwvokm306iMEBCfEJiPtS7M1pMaCUWUwf1NMXK0GrAxg4RaY0GsWxLNgxyWk0KwczY61BqUL_4IGZ_V6vWKle8cDf_g-cAPvZZ0PSpzRlbIIi0anpKqrxEhq6Wl3Cia7SwXyng_7no3nRqkc1mZMbiy8wVvAozyTM2C-MHQxNqhHso8kr6LXEnYokBfmyuE-uV86XKSR2QVArqniIwatk2cnvuMyvt0Vlh21f2xJEa8g1m98OIZmcYARH4DYhR9asc_MZFTviaNSkTEtGTGaw0MUn2jY_Ovq9wBSfFSadRTdyQUZFVEby_HiBxJSGp99EJ9JLyeATe0Hy18ypW5fP3vqggQ200SsL1qN96qsHbhEHE8d29oJstF-tgdZCRBoNzS0MOL_A3JghAh78zB8yKvvdMbyCY0MmWa255ZGkwjV6v6ArHd8C36Tluy57zClaiwTvCOgwMT4RSRadmqlKaLo"
+        ],
+        "ratingCount": 748,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "This tapering 29m stone tower is Baku’s foremost historical icon, with rooftop views surveying Baku Bay and the Old City. Possibly millennia old, its…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_10.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_11.jpg"
+        ],
+        "placeId": "ChIJDSaZorV9MEAR6ribVkOjVDU",
+        "name": "Maiden’s Tower",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDSaZorV9MEAR6ribVkOjVDU_1.jpg",
+        "country": "baku-baki",
+        "address": "Qız Qalası, Bakı, Azerbaijan",
+        "latitude": 40.3661927,
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJE01wKgx9MEARjkg_dE9WYi0",
+        "website": null,
+        "index": 17,
+        "utcOffset": 240,
+        "longitude": 49.854075,
+        "rating": 3.9,
+        "detail_description": "Yashil Bazaar, also known as the Green Bazaar, is a popular market in Baku where visitors can immerse themselves in an authentic Azerbaijani experience. Located a little away from the city center, this bustling street market offers a wide variety of fresh fruits, organic herbs, colorful spices, and local delicacies like saffron and caviar. Visitors can sample flavorful teas and traditional Azeri snacks and sweets before deciding on purchases.",
+        "imageKeys": [
+          "hnGRofT3uhNcv2CC68jt0kUvvrbWhTwh",
+          "AUHYMxLDSbIahALpDXWOin2uFQBbRew9",
+          "KAxrrBP2iQxmThVyCj9fivkiZ0ArXzUA"
+        ],
+        "ratingCount": 32,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Yashil bazaar",
+        "placeId": "ChIJE01wKgx9MEARjkg_dE9WYi0",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE01wKgx9MEARjkg_dE9WYi0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE01wKgx9MEARjkg_dE9WYi0_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE01wKgx9MEARjkg_dE9WYi0_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE01wKgx9MEARjkg_dE9WYi0_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE01wKgx9MEARjkg_dE9WYi0_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 5,
+            "3": 1,
+            "1": 6,
+            "5": 19,
+            "2": 1
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE01wKgx9MEARjkg_dE9WYi0_1.jpg",
+        "address": "Baku, Azerbaijan",
+        "latitude": 40.385059,
+        "types": [
+          "Bus stop"
+        ]
+      },
+      {
+        "_id": "ChIJF7cbpdJ9MEARPiRadrIYYCA",
+        "website": null,
+        "index": 3,
+        "utcOffset": 240,
+        "longitude": 49.82656,
+        "rating": 4.7,
+        "detail_description": "Perched on a hill overlooking the Caspian Sea, Flame Towers in Baku is a striking trio of skyscrapers that pay homage to Azerbaijan's ancient reverence for fire. These iconic glass high rises, ranging from 36 to 39 stories, are designed to resemble flames and can be spotted from various vantage points across the city. The towers' evening light shows create a mesmerizing spectacle, evoking dancing tongues of flame against the night sky.",
+        "imageKeys": [
+          "PGy9n6sBfMAIADrYRWYDqQhjbQc4CuxA",
+          "yeDSJE3xiqv8ouEVVIpvUd6gmlhzJW5J",
+          "rJJvvdvpEQE5acxV1AYq8B26kfadbC8I",
+          "7tdjqup9SXrtXAwF6sB056lKpV6VPwY5",
+          "Jh85AYVvMIomqHxBKqwYESvh2YjurGFT"
+        ],
+        "ratingCount": 2723,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Landmark group of 3 mixed-use skyscrapers designed to resemble flames, with evening light shows.",
+        "name": "Flame Towers",
+        "placeId": "ChIJF7cbpdJ9MEARPiRadrIYYCA",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF7cbpdJ9MEARPiRadrIYYCA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF7cbpdJ9MEARPiRadrIYYCA_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF7cbpdJ9MEARPiRadrIYYCA_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF7cbpdJ9MEARPiRadrIYYCA_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF7cbpdJ9MEARPiRadrIYYCA_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 396,
+            "3": 101,
+            "1": 56,
+            "5": 2186,
+            "2": 26
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF7cbpdJ9MEARPiRadrIYYCA_1.jpg",
+        "address": "9R5G+QJV, Baku, Azerbaijan",
+        "latitude": 40.359495,
+        "types": [
+          "Business center",
+          "Sights & Landmarks",
+          "Observation Decks & Towers",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJIR35sUx8MEARyzotKNVc7PE",
+        "website": "http://bulvar.gov.az/",
+        "index": 14,
+        "utcOffset": 240,
+        "longitude": 49.843489,
+        "rating": 4.7,
+        "detail_description": "Dənizkənarı Milli Park, also known as The Boulevard, is a historic promenade along the Caspian Sea in Baku. It dates back over 100 years and was once home to the mansions of oil barons. Today, it offers a variety of recreational activities such as open-air and 5D cinemas, a 197-foot Ferris wheel, museums, restaurants, shopping areas, and more.",
+        "imageKeys": [
+          "o68JxbgzKC9v1rjfIkf19sEmbHtg0sLN",
+          "perRl8kpVWnCHyazr2VI4dcPYH5e0v0A",
+          "QV6kNAj1DTscbjPpApygUXwmI1VBI0wU",
+          "6hL0LHuTo977FacIAwohhnPBrLa5Cesa",
+          "GPmbz9PWmlaK0ypH7lpJUyRPUPaFW9mf"
+        ],
+        "ratingCount": 9498,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Park & promenade featuring waterfront recreation areas plus museums, restaurants, shopping & more.",
+        "name": "Baku Boulevard",
+        "placeId": "ChIJIR35sUx8MEARyzotKNVc7PE",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJIR35sUx8MEARyzotKNVc7PE_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJIR35sUx8MEARyzotKNVc7PE_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJIR35sUx8MEARyzotKNVc7PE_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJIR35sUx8MEARyzotKNVc7PE_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJIR35sUx8MEARyzotKNVc7PE_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 1469,
+            "3": 378,
+            "1": 126,
+            "5": 7549,
+            "2": 55
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 404 95 96",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJIR35sUx8MEARyzotKNVc7PE_1.jpg",
+        "address": "92 Neftchilar Ave, Baku, Azerbaijan",
+        "latitude": 40.368525,
+        "types": [
+          "National park",
+          "Sights & Landmarks",
+          "Park",
+          "Scenic Walking Areas",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJK42EzbN9MEARYWLSSEXMrys",
+        "website": "http://www.museumcenter.az/",
+        "index": 17,
+        "utcOffset": 240,
+        "longitude": 49.8425933,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/museum-centre/a/poi-sig/444215/358673",
+        "rating": 4.4,
+        "detail_description": "Once a Lenin Museum, this column-fronted neoclassical building has a sternly photogenic facade that looks best seen from across the Bulvar. Inside, the top floor holds changing exhibitions, often good and usually free. The somewhat sparse 2nd-floor Museum of Musical Culture (AZN1) will teach you what it means to be a Tarzan in Azerbaijan. The 3rd-floor Museum of Independence (AZN5) gives a somewhat dry, if unashamedly partisan, political history of the nation.\n",
+        "imageKeys": [
+          "ATKogpfIGI0Ol-BUx423icNYqTNfoGv64Ph5M7q8prbl5woxg6AML0Y-iMQcJ66vsQnq1Z2KHqZw3-jCe-5N14M6XHuOu9dZT1SH4FHAg5fDrejK8tS-EnNLdQIZsEY5bxEVF7Ti-7K5ctTRmmsP8hnPGBDx_-khme1T686kIy6eWESP9d5Fmd7HvjOxlrDEmVRs4V-utGDO1lP8LFQsso8GkqeSPG2DSZWoqc473EU0_XX9SdB9o91P0eMSjPcEF-i5oO7wxrbtuauaPW20mdjk39hzzPJDdvTbXGZqLfT77KbcHacOS6hafM6yIEfkROCv2ptjjftCkwlNg1qGGCACT8mYQzJoNuLxujDe0z8o5f8tQgz_AYzQwLs2SIwnST9zMKwixQ30ULbApl2GlFiweA7Zm3PgyzhhhIpzBCFkUi1RaERW5s93Vh0WkpSJ4k8C9gxbQ-DWBRewAsLqS8_pNOVcy-OX9cgUyNWhblU7PwmMp5xkKZUdvOzSBkqQe9JZt9kK4zUyjF_PJdQqzREXqYPEeNRxbK4zQEJuN8Rc3hydv6btegEMxqpnDxdi1kOHF_iDO5jgZsSvZoyy0C6E96hMsJsvFLB3Ebv4ym1e70jlPmULTNbwcgFKcDqMf6lnqIEKiQ",
+          "ATKogpd1trvrgbBEjeVqEDF8k1enpuZ6U1VY9R3ysoebRn_zyfTCHnWD-qAdAZm_i4J2b0Si1LPiLUkW1qTYpzofKHJjiPqTTPNzZxXoN98qWaYd52KbFl4zRhAX1uO4vp4wgl6WhSpi2kIUhAn7p0vac8w-HIdwT8Wo1ZSWTyaPTe57nG7QyXShGr1VDiJ4HKguHshjq_abrOwpO80SR-bK7MLl0Z9bXH413-2RSBipL_u1BqI_a5RcPbeUELiXOLpPg3sm0y4Bb9VJb0UUrCzYQwzulwSTOewr0mp6xeHRlbGUjMliUTgdSPetOJQBKZ8H1bil3q-MUofct0F3n-fEt5U3YHk4vMBsBKOb8nibQ6L7IyDpK5O6kun-ZGrlT5-l8hSVsXK38HB9XVbAgAlNDg9wgfXKvVElSocSPPc6XeWBzDYOuSYPmmSDhHp_B0zVIUIKH8Wf2TUPyXC2iD-q7VS5_exFcMmNdI-cx6aKfV4ApJR6oGVvCLIHBcqd7q7t8gfXbfwZM3Me5RLId_yJCRNEuTbJo0Hm3o24UkFgcOItNbq0l-tcwxy7UbWZFZo_5bZUC2kzObpLGQp-duUdhgfZGhUtlDNt6JIl6Dy4SmEh7GllQCQvv1DCDOhfawmz01idhw",
+          "ATKogpflfIso7p5R8XNaqamIh0_aFQfUxhNJZJDy3cbuy-lLBJDjN9wEFOqomNTsI3wBTob_gH-9lhk2VTTmS1jNq_yUM-tWOnbBprRZsaBd3O7gJc0AghTvqIx-m6CDZMibO5MRgwIQpjGFjuhbZjb-qisnzrPQBJNNoW6fxPx-H8vxyL-IvROY_XeVBLJDK8TFcTL5XHZ_EguA_hLRJMLbc5BBaAE9wljIZkzBhcL6msI3Fg1mGZKoPKdSHbJYeXlIXq3wxTBW_AdhG78JGSxVHGFjKrhwKvxTFSsOP5iQ-M4yZ-FVGs8NOB1cgsJQYv8H2nnR7xQIsQ3-a4nS6R4q5OfEXkscYS3JsYDkQxHVniD-GjgD5aKRitRmxIvEL4pwf0evEQ3BcpI1Gi4vQdESPDtHQMq3yly36Ls0kf-AnDsApP-Do3LOiJcra-u0KHUqXpuQa1RZZwqvvNXgtBtCcSwe-KItrc3yQLTZEnYTP3AtpCwK-z52syArKIP04If_QAr7y5NClhK61PHJmxrjiHWoiXQpOtpWvtyQd1Yx9VwwuunuO1Y9nBxezI0tjF0s0L_Pg6diwmQvaY5VJxYFYJ5ZBV462dYSjRi2NJtVkPDHVGPcNiWp269yNZvsQxz02RTZqw",
+          "ATKogpdSUFuQLuNRMa08ZlNk2yvnkadE7PA49RompPMREDbSHqoe1zI-_1UysHDyqyOkio_9TwKfP_SBHHsCOMAB75aLn-Uz96GpTO_mdHHo3pVXR2nZBrEqtvNQgFarg5oQGKsnj2nm4jR_7egUqi5GeRfUWoRiZFkE4dq_C-14DHkSPSQuPerULTKjdLEI4CvwNAfBuNy6gj51vdErTLEnJM5DQOgYMSW5zzJzXTTBMo47WdW74H_ILq0klcI7S-bzqqoiZV7hBahgI0iaxzWD4G_I0SAzG2RjyLBzCpkKMlYp2dnjwK43ddkRBlxU88MLm8aKe_f-Lx9syap0EKD5tiCR-0C8doOds2K7dwT2o3cl6n5msEQoM4Fcmm6H_8z7iNt4vFjHChFSPEInXKpU03C4h3wOflJiuuQT5lBPEF5uLe-bM9BuN_ozopIhipCYXnwS9qYD-7fjKX38KYo3n64aF-udmlm0QZ7F09JOEiwybFTx3H2xAfUdUA3pW3Uw-U_4bLkJ8Iqg3LzFQhGfxauYo50yRagBKo0BStOOoQvow3j7R96RktG58g8ZJJl_UbQBT-si30Pe6JQxKpF4O5mApstE8lq_fzOFsB40PmTEtdEShzYY2XLN0wAAfwDq",
+          "ATKogpd3Ggdl1NECSmWl6J9mPnBQWse3SAOwPYDqF3Y1nFTn2gmdoyevVFFPnTob064N2fY2OaBHUyNZ9pxsQ9e5s68wOel228GF5NJzcyd_Kdow80EUqlS6HJhvpBid5TI4ykHWoAYrsj_pJ_TZrdpFafYjbrHuzl691zLXYnGfqO-NmW2iLZPrSdytCl8lgAEUM99eTl_t9AL46nC0-1jAMeWCnsvVFv1A1TBHNbTU4d0XmphcUM18GAxjJDaSH6baZNHZffnEEgnTDjl2RR8nout7mxx2R_EnlbO7_RPqHw5rrG3qbTfkReqEfLXeym4xPTTNLoYE4uO0tr_sG6UG8hAH0i2sSnbNZCxptxc9GDzSEdEZaoQeSaEtHV4IQzu1zvEynV0BWWhuccIsecHaH-R-EY855Qr8iBq9fnvuWon73choq2jujQYf9YpSI19JN_Aj5L323q35OgyTMq_BQLY_EpI4NTxZFFlXOdeGAQlZ4h-0fnT4dy_dFPjfazUyyDTD_j7IJsFq9RtwtMvTnnxORqw543gBC8_YXrnqMkm-t_OD4DZrKfkuBkSCjAIuAHpeiuwxTIBatRy1hJwQDev_vTB8_px_YaIesI1x_A7bPhMzF7T1dWbgB5QEGHu8",
+          "ATKogpeW09S672rNCNXpPV8E-_acxnJtHNsXnld9ulDAOcIu-arXwKLIPpw6lHZYLL7hiqx19AUyQbTYbPsizSIsEWWHPQt7YTawQXXQC9r8liFduAhBhkoynP065KfIWznlbPPSBylUuc3xUQp8tYF2OmZMt8isCwngjfjl7R_5TQ1aXVtOx2Oi3CTDh2OTgk-8kUErx3miRm2r98hZbbfORs2Gop0o1bKHW0-8dFwme2Xpsb1rNDsyJOi5BdKVNFmeda3UVU_zCh52MzOzGdWRitVcARE-1Z7UjVHnrvy0-oNPNnhADK9J31N8QvdPvvfFWsX-HKsdfCvXgJufBUOLro0wO8_uyJDpwiDTEvzCl48jISdlfvYjW2ktKtWJ9oZx3dG4Xd7htbOb5SaF_BarZUCPPbDKD3tnrQP9FrojLrB104R9hDf2c0TmUxhUspYR6MtV-DWRWI87oXVcdrHlmfQpIAU2Ij6IJIMkleka780wVxzdHe99wokfDOwxcP0QdDK_8Cgxc0gUlAB-FZ8MBU_9GS9deD6nuOVyLOSSwyW6n6Ap8eNdwWSk8yXLkGSH_cs9sV2CW87pb1RV1qPq-BkovaBKB2mUMt_sMPVRv-4sK6clo4q6cHCq0bmMTUm1",
+          "ATKogpcdWl0SxtL2mKiTlCLSYtFmec8NvALB1hh9Q2XUNxoQgKrc3DW_v4HUHFcHBlo77lcs9pY4KMpWG6_v5VhtQGhPyZmbrUAnFcc2UZsoy7JOL1--ABLlaQDe7vBy1Elmk1aOz2vD2PWgFNYYIMPca62BDT5c5BRTExrmCBfhKswEZ7YJ1xHsZjYW_jc-4OSA7Tr92H8swkaaP-ozPaCvRddd-Xe81q8Nqjwj48lAeyXevCe5m2dayQrJafnzuX56w6Izunrizk_jlrGf2oMZHAraOd9gzvayPrkYVsRWj6ugR9B-2Dad6-2vt6JiAKXsTJseqXRXhUd_xA5VsoBNhGX9h07gAYwr9mLeQ-fKu--vJOfoaUnYzZI-4o_KGqai6Dj4ZXn2mHmM0tD-px4_C783vOwpvLK0Ro3fuhCHn7n04MpYZp4D1bVAjsbjj3SunWYlUUATaTn7XmS35UFyIP-tcQGzubyZZ-0cevREf27173jkdhVfNE9stJh37EUPz5C9RvY1zoLpYbE4rp7YW0R5r9ThOkfCzXtfh3sk5XyiNFjGsF9uiNJRyH-TXrJ662dG2q3eLOKxkxcu_ArentfYYNrIfCsAU_BPnRszLZE1GjV4yIHr1jvh63ItBihR",
+          "ATKogpdKbFfB5BoQsOA7_2F9dXKJJCPHkdWEqVl7P4Q1VC6I96zTdtOhEbkQVVyW34FQAhDLs2ebaCCLUHRb3iPGPC2MF9CRfqC8iSVdr17_ELJjxURKucY_N18CJTJvqG00kBJBRe73FfAnc49gjJ5urACgoPpDU7ZlgYILAWBgkxAox4WjtaSYV1ZLiZ_0tqdeZcFUNaE-vgEsaJVyuy3vfYdYD2Xk7TmRRX_bTCxvejpYuNLwyTiuyIH51fEKTnGRvFZ1XMqH_dUhmgrGw3hta-lJCgz9lZO99k9il2bCm4Bt72LmuwzSMmgB__MJFmdBlKk8Ed66tGyPNwFLERPAYM7Ja9UsE3bos0fHwOib4ZyukZLwo2zqTRnocnpmYcBJ_a_3AH9QAlnguzC285uhlGsMWs67PhWj2I6wEO_9jd83EA1TXjAwz9pS2lBwhABJDP9Z-1mYtADtAon0gHl4DyKQns6UMuc6uvscFiB9WvgVrDNVIe1l0e8I8RtnM6C-7B1E_qlJZ-KYpx5W1zk3aeBodIsDK3XYxaAGqxPhhfK5mt5lb36eomH619gz1P0ho4Ie5S-iaKvu3P7RT6-TaX0TNM2Jdra7YyQx002nmmHsUAwcslPS1OvOHiLYi0ksDG20ug",
+          "ATKogpcyl9LI8-IoCYoxSn6VvbS6cAYvGmW56mkXShTEHKKOwElHTwYn2Rc-6oHOahz1SRxjkSAE2bkfyiIK42G1l3sNLBt4wtqh340Rd7fhVYlx34sAXEFWAW-IALibCHLXT_qA7Ni9P2u0U9T1bK0ZOUYOU0jPFtA3cdoz_bU4B9BEg60lfGGiDs-_N9haspx88iNMx7UM731CD1Ktr1f1j9RRR6H96WYYUX9Rbakuh86f7d7Zsrqa5yexdZwZAdPiqJepz-vkrePS0_AOVw1FUaTJQ19WKo6pssZC8zLue4YkFuxdT-9nmsJ4fi1Ww1pBy8LNSAv4057lmozARdQ-UJ6bnnbMD7mEv6ms-6sGSnZms2HBAxjzowsYdjzCa6VuDMq3OaZY32bLIMIKZVIkhdC5RhcpX1D2BLxGZRQIbInGQtrYKqUjtSzDEqPyceZZfX8UgQuT8sRPSSIU4Ywlev7fDVYx-ZM7AK3CsNJA6JkHDdtn-4_jJuemnZEPjX-OkF7_H_SXdy_KF7ItihkQlJPQ7fn062XbUeHyYuh5Y02SMN524gJeZ_YxieSCjnEZqH82TBjERh1o5z2SjOv8RMd6zKj8dEyd9bg-Vfgu__FFrLWvusZirxSRfVDxezHB",
+          "ATKogpeD4q1VNyGjJSoZPfWXX7gT1kgcRe7So9pfA53OfOh2XzMT6S1NH6DUjOG5mpignvrq3h8FJmV43LqdxRMvhmG71TWEnSDq1EIbQnX5FDk66V9w2XNDN-AaMP2-tW8P_nwEA_20qPYcdhHIwFIZmj-TlPH_twYFf7Fl84-n4JVcSXEkYiZTYsf1pOUkbUyM9kKiz6qNBBteN4CDeU-UjvfhHMuZ26KPmzeyInZt7o1mQZTxdSP05pU46jZPPW-tiVKFU-iAFBjDriiEeGIcpU59kefVl-rXP5FNlZ4WCbd3ihvpvc-alu9Jn56I3XNVSEyGnqY38yO5zrp-J-YJXV2VCXWGn0BxnlqyU756IbfJoKtIITv5IZYI2YZ5dKAAcB0mJOcln3QPBg6zks-O9z01uceFHzMe6ffw-CRVUA-fRmZUFBPUPSePDJ5wP9YVGUrj_Kdf_6oTATcx7nNZoFMkyHHFaaw5xqRbJ9AapwgU_77bwoLxuL77oEIOLSWoqQcT9aLiIpnVE9bGq-G-QiIThttAQk7fS1DSPn-uOHxDsNQkCgQnM6alOgjVmS_xiYqH1cHVWOAefhOAYMjjiFq1VbdOkHnUkFOaTysBj9AUCiOxVPNslP7Mz63giqpj48Ru0w"
+        ],
+        "ratingCount": 192,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Once a Lenin Museum, this column-fronted neoclassical building has a sternly photogenic facade that looks best seen from across the Bulvar. Inside, the…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_10.jpg"
+        ],
+        "placeId": "ChIJK42EzbN9MEARYWLSSEXMrys",
+        "name": "Museum Centre",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+994 12 598 37 31",
+        "g_description": "Classical & contemporary artwork of famed & emerging  regional artists, along with public events.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK42EzbN9MEARYWLSSEXMrys_1.jpg",
+        "country": "baku-baki",
+        "address": "Музейный Центр, 123а Neftçilər Prospekti, Bakı, Azerbaijan",
+        "latitude": 40.3697753,
+        "types": [
+          "museum",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJLT9L2rZ9MEARA2VV1rV4Cg8",
+        "website": "http://nizamimuseum.az/museum/en",
+        "index": 16,
+        "utcOffset": 240,
+        "longitude": 49.83624,
+        "rating": 4.6,
+        "detail_description": "Nizami Museum of Azerbaijani Literature, located in the heart of Baku, is a cultural treasure showcasing a vast collection of rare books and manuscripts. The museum's magnificent building features blue majolica on its facade and monuments dedicated to six prominent figures in Azerbaijani literature. It serves as the main center for exploring Azerbaijan's rich literary heritage and history.",
+        "imageKeys": [
+          "VNpU2mcIyvCCH5yThCXH51vxng7Cx6TS",
+          "0Rd5n3OfIEKsO8V1RzT6QvafQexkiCC9",
+          "liDDrxdEisgTYRKw9n4mBg1Ppeh6vHkj",
+          "qXRnHvdSs7fBuCLd7OO3QaGKWd6vickU",
+          "oaxDPM2Dnn5ZYCwgDOTuEQgj2Mb8Dp3H"
+        ],
+        "ratingCount": 372,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "1100",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "1100",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "1100",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "1100",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "1100",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "1100",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Museum of Azeri literature & culture featuring a vast collection of rare books & manuscripts.",
+        "name": "Nizami Museum of Azerbaijani Literature",
+        "placeId": "ChIJLT9L2rZ9MEARA2VV1rV4Cg8",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJLT9L2rZ9MEARA2VV1rV4Cg8_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJLT9L2rZ9MEARA2VV1rV4Cg8_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJLT9L2rZ9MEARA2VV1rV4Cg8_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJLT9L2rZ9MEARA2VV1rV4Cg8_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJLT9L2rZ9MEARA2VV1rV4Cg8_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 57,
+            "3": 23,
+            "1": 13,
+            "5": 281,
+            "2": 3
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 492 18 64",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJLT9L2rZ9MEARA2VV1rV4Cg8_1.jpg",
+        "address": "53 Istiglaliyyat, Baku 1005, Azerbaijan",
+        "latitude": 40.369852,
+        "types": [
+          "Museum",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJO8cZM95jMEARP2kddEfU0H0",
+        "website": "http://ateshgahtemple.az/",
+        "index": 12,
+        "utcOffset": 240,
+        "longitude": 50.009068,
+        "rating": 4.4,
+        "detail_description": "Atashgah Zoroastrian Fire Temple, located 21 km east of Baku, is an ancient complex that served as a place of worship for Hindus and Zoroastrians. Built in the 18th century by Indian merchants, it features a stoned-fenced courtyard and a Fireplace that ignites massive fires in the center and smaller ones on the rooftop corners.",
+        "imageKeys": [
+          "YBYrb83p6F1A68hDHSpektbbI2TZkUWd",
+          "w4MRlnHQH5Qs2iOGYKenoqQwhfZIykms",
+          "Yezp40sqCu2Cktr5ySRhTPDZtWxYVDHP",
+          "vYsL54FmkAItJIdSZygNHihjoK1aliop",
+          "rbtOWZBm0x0YKT6lprn944L3wi2vFY6Y"
+        ],
+        "ratingCount": 2651,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Ancient, castle-like temple complex once used as a Hindu & Zoroastrian place of worship.",
+        "name": "Atashgah Zoroastrian Fire Temple",
+        "placeId": "ChIJO8cZM95jMEARP2kddEfU0H0",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJO8cZM95jMEARP2kddEfU0H0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJO8cZM95jMEARP2kddEfU0H0_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJO8cZM95jMEARP2kddEfU0H0_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJO8cZM95jMEARP2kddEfU0H0_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJO8cZM95jMEARP2kddEfU0H0_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 609,
+            "3": 284,
+            "1": 77,
+            "5": 1622,
+            "2": 78
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 452 44 07",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJO8cZM95jMEARP2kddEfU0H0_1.jpg",
+        "address": "C285+9J4, Baku, Azerbaijan",
+        "latitude": 40.415897,
+        "types": [
+          "Religious destination",
+          "Sights & Landmarks",
+          "Hindu temple",
+          "Parsi temple",
+          "Ancient Ruins"
+        ]
+      },
+      {
+        "_id": "ChIJU_7NL6F-MEARx6u9oZQOKIc",
+        "website": "http://www.yarat.az/",
+        "index": 6,
+        "utcOffset": 240,
+        "longitude": 49.837443,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/yarat-contemporary-art-centre/a/poi-sig/1514417/358673",
+        "rating": 4.7,
+        "detail_description": "Yarat means 'create', a spirit that's in ample evidence in this centre's many thought-provoking installations that don't shy away from sociopolitical commentary. Even the cafe is inspired, set around a repurposed metal-press rescued as part of the revamping of this former naval-factory building.\nWell worth the journey to 3.5km south of Azneft Sq, it's part of an extensively regenerated public space between Flag Sq and the sleek Aquatics Centre. Access is easiest by bicycle along Yeni Bulvar. By public transport hop on bus 5 from the train station, Sahil Metro, or Azneft Sq, alight at Səbail meydanı and cross beneath the Salyan Hwy using the underpass.",
+        "imageKeys": [
+          "ATKogpcXx-ePu3ySMqA5w4fRmx_utz3AjdL8yNx7rh5Rtx9KFwpjIaJp9BM_e9reVP4rsvELoBU4R9Jwc43B_Z4um7gp22Tyc9OayssJXwgSZ8_gqYzEnK4KOc-jWEls4nzEIGIe70VBJvY9WXZLUqNhY1DeOrxyJGAEYkFUYuA81HQ5gr3TXaxbJ3-iy-44reUaiRMkrlYdfFXIrFaFphxZ2OMsyC9qX2F8cuL0pZq-TfiP97XVHBU95k_f1qYdUvDBNr61g9HetEjgG-jEokw9Ez-FbGsxbRNz2pQXDH6mLoOW0xCtTJ_4LtPjRWBF_MGm4CifYefbWMU",
+          "ATKogpfFC01vm2BvijuEU8faJFrDatTWqZUhel2m7yD5MeC-LMGrWwWgd8jdpZrvJVpBrXYoLWdR-pxBtAG-UMqpW-dSfw99lPYvT2OGh-wyAHsyb6xcSLVEP7P79dzMu7bWZ1SgFsy-5TvkV71GiqhTMSHj0pZebhUJVrfE94YIQkG4pUQRUycr2m6-n6mO9p4MmUAkEg2zEWpvFcoTS6pz0lmFBKqHG_EgoUYf7LveDgLiFVBFBvQEsz57mSwNfIqS3YZx5Zy4cDVvcElns8PeihHbTldoEAhVmlBFHPrEp01Bi-XkQd9GSXy1y01_ocOiyAxLBFQ-hs0",
+          "ATKogpcIjps4090_ljDAw9619nKtwHda2HovrcSOkww39PtbJF8io-ofWupc886zDtR3nr2qZCnWlOFgL67wNwXARUylX6kREmi-kPJ__UI_MkIybMU2t84WU_aoOIMdHfAeanOZhLGgxcH4OZPdAdiWmk6jPcnH3DdvZl-xFbY_wuF_jy3zo8YILTOcqjON04DnH5Ild5XfaFSz6DEuAW-1qLBfDhShMsldsKAMaTzvI8VPCf1G5iV2_MVu4MKZjiMW9vFhCRtMeJ0bkI_WW3r94LYnG71xG4UNZfBDiLrXBxeElVOexVfTe62BV8o670ERR9pR4lIKDSo",
+          "ATKogpcF-1OX71_kmHw_N3Z3Kq2_v42DV_V4MOHpSHkx1riupm5ZyTEbgVBrZiMP8dgZBRN8OryRdz4SP-Q1T1Z-YJJ70BpYJAQl_Z7VKS4I91mFal9UrPk4nyezkd2Sy_WftyWp0EBMD4jpNtk2Rk_Z_kkb9FSrqqSTct89KFVMAvvEsRUfP25yUQZnhCF4WlN4pgRRiHVpOQ2vVwA6L-0wmwLLIYwq0ukR424ssLoysSQ1DVMtV2KZcx6I3VDxbqEmx9AdhXznCWjYOxPRl1uMoShhiJ1YQcO_1yRSKyGF35AdlqY7GjaGvH82ERsjTg40MsS6CiprxYQvZ5Dka7PQJ--jiyGOmvG9-AZV3RSh7s2z4OGJhfCtM8QVtCDaV6jNXJ-K8DhOEde5s3khiBlB6_6L8H-0HQAj63aKgJBClgwgQB4xMhapaFv2Uef9sSMAWvWvHvHu0ldeclZyIpLErQoDxNIeK2ukxQ7mD0TyxQu0KTt3bADzpEa5NQiI_f9s3_FBNYoiaekTBGCaE652aK1MASLFWSs5DqFwTPbppIkNqvHUcy5wrhf57y6GI2vur85ABAIEo_ONFAlHmuH7Jn1KvTCWa305Jk_N91BoOyCFMMIXhK2Go4koir8JDIcuCiL9VQ",
+          "ATKogpevMv2Do7EeWKwApVIp-QKLAv1s5D6Bv7Deax2ixbVRuY3gY4sU_QggTbbd4k3VC6qnjOBUB4b93pbBQY09gS3ayi47wCfM5zndU77d1RHva_0HTQFtiGVqhmkPI9V0uRAO0REk3OzjwC6JSN6Sa8BNa7Is00loFghZfrz9OUUM8mQ42ePOiJQcLnr0eYrLADbDf3pwQbp0hCx8_lZHErr9fBJQ4PaJeBYD3Bqn1tE8PHr5ApmGgtKDdLJreCbthnLTlMwrooFvzT8E54F8rfDRaxS_lqgASQB8JPROSSlWyj60aELM_JF2qyiJqQ1CjfvCa6o7N-bjhzsFAXmjV4eK3f1hI5sDvgFdln3IFc_NxB0gADFg7uIbL3-rNJb1jSTTi-uKS9h09DJYCD5B2xw2I3lOgDfxOIPqt24D3IkhvShp5sehay67zALfT5ZdQCionGsWwhQ_2VTtK2QiAvQqWE3U2U9k6cg4hblTv1a2PoF9mteaMaTU-rGDIFBhHDV1mDeuA625YTHLL3FL3ZCx2e94LTxrGa1GkDIKWo7zpf8Wt_v80cwK1THxwoUsZ3272E_hd4VAKB_TFuHr6uCb72d9QLMLO59VOlWqcwbjacR5gj6I9-kyTMxcYVicuFrIkUsF",
+          "ATKogpdOsmWA4NScQqXpJdrgB58UOr21TlGluMiM3TGkCXBJetAzvLQ4yHXD1htURYBiFTG0oMtTkflCkQlON95wFXKyRRLa8z_I1MEDz6n7IOUjVTy3kl8leVgRXp6yJG8hOpy01TnH-ARDGfzEwO0ACljSat-dU8w1mUJzGyMM8bspnD-sHQckkx6GLtByUkpN-z62FbeWgNu6xZnYE2iiwyzSk93Cvby0sQ5UXboVohODAiFO72wXcuoOsuwTpfvr2j72KH0aRbnl5S34uogQhSyijozIHc3YGeZdolFTW0S6cAUYUS7fN_kO1FVZHVLxOyArY8iAH-we1dijKpQCZGUzC9n9uEgKgWmQ6BDGO558dmHmZRy8RidgrXN-ciLyMPUWJShu2XN21-EaC8ATzke8aH9sWSwMIfVOdrM7tC_WMvn-S29VbG9PVq1eDmLhFkjg3C1nbqEvUX0_CrYzWcXR93WrHO5TL7NT7DTCvQcNShmTrwhOlK0YB_EgNIpyaJ95SlcDscxHJR27jyN1CoqxL9yWzbET2xCZs7q7ipH-2wiQCp_6DFnFwr22gr7ASPN8RDRrpGjctTouMchahgKhnMoZ9gel9w3M_v23jXusMXfIVVoFbz0JvvqU63MGAQsyLGA_",
+          "ATKogpeHyqUhNUbqkjhv0d6eTfpNkWswm23Q09LqcUdMXY2oxIGfzaVSMiaUvNCMsywDYLaE3w3Fr3S-N9Hwqwbzfv_pktAnueipy0kBhfcFtA961iadj36D5Rc6EgrdYLsiGVTmHcQvlDRi9Xrd5RmhvF_JUL6Zva7m5rFxHp5w4hRdMe9phTrd8KqVxOdF2l3-kaAPynO98F2cDzRZMSJxJth7JkyeRYUZ5mqb2nE9UTHvh3ZWpqcMVwOIvTvWL4qaDBJE-N-lp819T9KOPKK3ebOvZYH3nmPrMyVpYQazTZ_Mtf5FDBiMKDvunTH_qCFch6n0NZwCLlHhRqAmsBwzErzWqB1JgIdzTZm6yWpW_sqwG5SdAmB8MIjmIcz2OCrrpJkBwinxesgRGVW2S-O0WC4LHmpxTWQwk-mbVXM65KHOhkS121sPADaKU1yek68LbSCIY8xTy7a3UwSzFUyqt0cquCrfMfk0663hcPIzZmhJ-tMmLioE1Tqseaz807amw1nI8taeRNdVq8-Zc0nYJsx3dX3D07zDy47IFiOqIZb0snaai0Ut9PJVYXc7Gj_P3_cvhccxQfQx6LYfEVH1pp5fh4IEuBcV7Hao23mb50m1B_SaimQB95nnoiU85dV128ZVsw",
+          "ATKogpc0AHN5vy9G-pKwHZ7fTKcC-Oc7_I7s7YCBAtzDxYUOfYdQaDS5Pf2D-gv-vH6yPuJ_CYa0OJKVL4ZENnBbETtvVfyrAy-mwD0XhglN_NlNZncWFB0d1H7uJph-nvR-Y94q54D9mFU_OgnAs4N_DZ0QZeoOyxL-mHUVsOetaU6lXGKeMy4yZlAp9TbOofKQamkkNHhihQv0xUYTMQG8b4k-uxBR8kCM0HFhAN2PDNtHKWhLxS8biWZftRNm7w8iwdPGBv8uvmskLRp9XhWyT09icuou93J9tOMJqYOwJ5taAm6Y7S-jOBeyJUdxjaw4XPh0Br7vJBDQhQWFpsXTKWalNMShFYuAy7moXSD5RVT1KcJGT9FmSw_ep6IPM3t8byQASt54JDY3Q5psWgzGaaAtM81xSmVIYHkph6965RGssglCV8oTJXplmvERxCpgGi8Xhmlkg4Ck61T5eb3cyJhA8lL5nKIdoMnp9IMMvoPY8YKzr0PCYoNjREtHY1HCx1lvYqnvQs-q31Ia1jG6E_R99k5IlvY7kG4l0d2T4l5KsEnuhGS5abrIOdqnMVvI1WvAyobk7ROajVmS7eggoZz36no0Sv9FMuFQzWna9bx2PNFaWv4rqAaAEnK1qGihQkK37f4Z",
+          "ATKogpdBaVBlvL2cp1GqP_tH-yYUeod9025J0xZ0xpZnLdhh2rnWzalF2Ovb9fKV2voTb4nZVbSokE8hxvDbtrh0XbP-LYTn2WgCEWeeD25grO_4LmsJKK-hL9u-YuW7umLZIncfgajzpdMsbfckG_OCTUJIR6Z97itU3f3kBVIswLgmjni-XU1ggR_HcrFoENLqFHp5fhpNZaU3jFYlOCnyZY2BZV8duMv0zOROBYwSe4bfBBWS--GnU0HVBdDvx1ki-ocLTkyaylVzR2MH6Cv483BjTe6BA1QOhaZ6EIaqKbbqzwDoeR_KJ19JnUeIA3vT0txrdEMLHiRAjO79F7c38bt1CepaKLeZjN7znUKqLlH22dHtYskfWACuREN3hpqd2zvAGwxzyfftcENk-nrzwPMJdt5O_ZDQGDEW2AMClkSbwLSMdlSd1Yyp62ApR1ckbEuSz9zVC21ShMuuG3K9qsenWh3optQ9-NnP6nudGiZGCm_NxRMpw2XhY5YY9h-f-QoOU_5sI7VOIREJdWzjoMe9655GvOJN9mFMTIcZiqhu8phWPIryXyG6UJAvlLLFwkjB-2yFsqYOHwh60WpdO2M_bBRu280Xpyt1qYqrwGzMgX_PVnHVnHuFdtmAdNa0Lt6Q2A",
+          "ATKogpezMb6rPvWPXFTkxCOZLNRwkvsJS5BsZt1ddiUQSwMRdDDk2OQxgI8J_itrx-ONcPHkBrQnIeQDCWxNIYM-Kaff6B8XOfeASYRxgG6j0Wv0BDzdoU8Yg2cQlTh4w9V4QKCR-KQZKrR1wEEVw8BaCVY4zo-OkZ3IynoJm-BfZR08Ae_i5pjLZApl9avIYn0Lju4GovuZqs2zOlnhAN2C9HV00j2-1XxBPCrPXS55F7TqgZoTHz3AhunFlJRclwsAs05G9E2-MYL1_J7bIUa_e2tSmhplauUVnxNHNfpgV2ApvL7krNI-NffXzZV2e2I4PpH8Z_gEReNZh-6feIX8dB6m3Tn2T_sQLUfgc4koHC26XZtvHhdjA8HRxshskiaAdK9HJsYNN7VW4VztsuOzgPMRE9xX6VJH4tXPYGOAdefjxPWyQnzC5n8HhgiKuHSlxipLaz7nxPbEyrUMABa1uQbm1udh-SvhVZaOt89hDkW_Cboa-77Qq5Z-WWxlRPK1hmPkg2GGxRruverTCLFitCEFX8bR5XQRzAyGjlLzkHrSC7NP3WJ-ronQz24GSJGUdNq2HTCodECGHtQlAPbPaj8vTqDIMk7AubCa7ihpHRpqZE7Cyly_5osZGmQau9MviQtarA"
+        ],
+        "ratingCount": 282,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "1200",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "1200",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "1200",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "1200",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "1200",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "1200",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Yarat means 'create', a spirit that's in ample evidence in this centre's many thought-provoking installations that don't shy away from sociopolitical…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_10.jpg"
+        ],
+        "placeId": "ChIJU_7NL6F-MEARx6u9oZQOKIc",
+        "name": "Yarat Contemporary Art Centre",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+994 12 505 14 14",
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJU_7NL6F-MEARx6u9oZQOKIc_1.jpg",
+        "country": "baku-baki",
+        "address": "National Flag Square, Bakı 1003, Azerbaijan",
+        "latitude": 40.33943259999999,
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJVVxumzN8MEARllg5OzZtcW4",
+        "website": "http://azcarpetmuseum.az/",
+        "index": 2,
+        "utcOffset": 240,
+        "longitude": 49.835824,
+        "rating": 4.4,
+        "detail_description": "The Azerbaijan Carpet Museum is a cultural institution in Baku that showcases the art of carpet weaving, Azeri ceramics, and costumes. Established in 2009, it features an extensive collection of Western modernists like Picasso and Chagall, as well as avant-garde works from Azerbaijan. Situated near the Caspian Sea on a sunny boulevard, the museum's unique rug-shaped architecture makes it a prominent landmark.",
+        "imageKeys": [
+          "dJK2uWq7CZ8DbH4CeHOIMTu2kZBRZrHT",
+          "kB7CdDLbFa7LyJCVfB1K5xL2C9FPYOE8",
+          "uuYF8oMHkxqbiqkpAVJdC0wrkmXZAaYO",
+          "pb5qPlR6CmksTkAiOPlTwQtSSWoccTaE",
+          "oWDjDiGr6ORClBwvMXqga1uTtZta3uK1"
+        ],
+        "ratingCount": 3207,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "1100",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "1100",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Museum with an emphasis on the art of carpet weaving, plus Azeri ceramics & costumes.",
+        "name": "Azerbaijan Carpet Museum",
+        "placeId": "ChIJVVxumzN8MEARllg5OzZtcW4",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVVxumzN8MEARllg5OzZtcW4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVVxumzN8MEARllg5OzZtcW4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVVxumzN8MEARllg5OzZtcW4_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVVxumzN8MEARllg5OzZtcW4_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVVxumzN8MEARllg5OzZtcW4_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 677,
+            "3": 320,
+            "1": 110,
+            "5": 2032,
+            "2": 103
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 497 20 57",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVVxumzN8MEARllg5OzZtcW4_1.jpg",
+        "address": "28 Mikayıl Hüseynov Prospekti, Baku 1000, Azerbaijan",
+        "latitude": 40.35993,
+        "types": [
+          "Museum",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJVdl1vAN9MEARqwAHfxQ7e7s",
+        "website": "http://www.mim.az/",
+        "index": 18,
+        "utcOffset": 240,
+        "longitude": 49.86466,
+        "rating": 4.4,
+        "detail_description": "The Museum of Modern Art, established in 2009, is one of the newest cultural institutions in Azerbaijan. It showcases contemporary Azeri art as well as works by renowned artists such as Dalí, Picasso, and Chagall. The museum's building itself is a work of art with its innovative design that emphasizes open spaces and unique architectural elements.",
+        "imageKeys": [
+          "tD5oJlgCEp7Wgq0q8QugAIBhaYCO5FyY",
+          "qnhRWSrT1ltMfUQHD1AUJrn0UgnOdV8B",
+          "HyaT6OhZySjMhVVFJPrKpqsLtZLG6vh1",
+          "iAHXwU3MnUN4Ln7lzTFJ67o7ypMJn5fz"
+        ],
+        "ratingCount": 725,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "1100",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "1100",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "1100",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "1100",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "1100",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "1100",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Museum devoted to contemporary Azeri art, along with works by Dalí, Picasso & Chagall.",
+        "name": "Museum of Modern Art",
+        "placeId": "ChIJVdl1vAN9MEARqwAHfxQ7e7s",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVdl1vAN9MEARqwAHfxQ7e7s_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVdl1vAN9MEARqwAHfxQ7e7s_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVdl1vAN9MEARqwAHfxQ7e7s_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVdl1vAN9MEARqwAHfxQ7e7s_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVdl1vAN9MEARqwAHfxQ7e7s_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 117,
+            "3": 40,
+            "1": 42,
+            "5": 496,
+            "2": 15
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 490 84 02",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJVdl1vAN9MEARqwAHfxQ7e7s_1.jpg",
+        "address": "5 Yusuph Safarov, Bakı 1025, Azerbaijan",
+        "latitude": 40.378024,
+        "types": [
+          "Modern art museum",
+          "Art museum"
+        ]
+      },
+      {
+        "_id": "ChIJYUv2q4J9MEARE9RgF_IWtPA",
+        "website": null,
+        "index": 4,
+        "utcOffset": 240,
+        "longitude": 49.836442,
+        "rating": 4.6,
+        "detail_description": "Fountains Square, located in the heart of Baku, has a rich history dating back to pre-revolutionary times when it was initially planned as a park. The square is adorned with numerous classic and modern fountains, making it a picturesque spot for visitors. It's also a shopper's paradise, featuring high-end fashion boutiques and stylish restaurants. Bookworms can explore the English language selection at Ali & Nino Bookstore or participate in their free book-swap shelf in the cafe.",
+        "imageKeys": [
+          "mgBGXgmjWhmE13Fl23C4I6JqnF7igksD",
+          "A8WUrQONTguNuL0DP0lsc9ueeT0tVyGp",
+          "ShDQ2GhUoQ0MImGF5G8urFIoHQ1rNBAU",
+          "TbljFQzkNYF7UaYhtTN0PYueRs9PdZ9I",
+          "Llr6M79klCUYTVCy07uAa2qyVi9eQYlp"
+        ],
+        "ratingCount": 723,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": null,
+        "name": "Fountains Square",
+        "placeId": "ChIJYUv2q4J9MEARE9RgF_IWtPA",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYUv2q4J9MEARE9RgF_IWtPA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYUv2q4J9MEARE9RgF_IWtPA_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYUv2q4J9MEARE9RgF_IWtPA_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYUv2q4J9MEARE9RgF_IWtPA_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYUv2q4J9MEARE9RgF_IWtPA_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 133,
+            "3": 36,
+            "1": 12,
+            "5": 548,
+            "2": 10
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYUv2q4J9MEARE9RgF_IWtPA_1.jpg",
+        "address": "20 Nigar Rafibeyli, Baku 1005, Azerbaijan",
+        "latitude": 40.37078,
+        "types": [
+          "Park"
+        ]
+      },
+      {
+        "_id": "ChIJcSvd-f59MEARbtXBI_PbLos",
+        "website": null,
+        "index": 14,
+        "utcOffset": 240,
+        "longitude": 49.8368338,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/medieval-market-square/a/poi-sig/1487401/358673",
+        "rating": 4.7,
+        "detail_description": "Directly in front of the Maiden's Tower are assorted archaeological diggings at what some consider to be the site where Jesus' disciple St Bartholomew was martyred. Set back is a small, former market-square area now used as an open-air exhibition for a selection of historic stones.\nTechnically you're supposed to have a Maiden's Tower ticket to enter but it's entirely effortless to look down onto the site from the surrounding walkways or a little teahouse that rings its northern rim.",
+        "imageKeys": [
+          "ATKogpe3kigQnpr3MahFN3tdCzdM1w-Ov1uOO38cxgeknUJxGbdYt9Q8lcdAHS-kciKDM7IoAFTIN2JmelrQOTHzyPjImO3h-qOQkRWwNyPw3aij6KZppvHRTKrmPw5NP1Zy-yZDziGk6SNcspBF5hX9JW22VLV61GyHlSAzAm-5ISuksRrjcPEfhBOK7S7UllBe6PxVA8zTsGY09fL8ZWcyVqa1zasdTdIgY8WAKpPFdCOxOJV0smURt8JTdqPeAqxAu4s_S2uFJdO_yFOjxF1WI-7_gW6HUIpuUb-cUwXBzpKZMc8aJ1zYX7nYLesv_S3wY5P7OZ-1XbVH8x8hwoXkUzcCBtkYjV0Evyrr6CEIlMrKbiVMn9BHqBs6LjCPpNL5EDSOqnYtUp7RNSsI-TKeXAdZUYbnvyNktTLt3XvDJ-nuIx0dAOkrsTATRe88u8sakcB1VyvUK-c6y6WHc5q5c9N9nUqQxU_ubWGL88F37TWNX2TKa4CEFvqItSRmYZLGo2zFIjd06zVwoOaymwfGltGhyFUiidYzDQq2ISTkj06NnsVRcJIr88Sbf-3wcC7AICAm7SdxegXZ3DD0SF1uz8lwXuBB9lCtO4kWsE-FsQXO9AxAcky0-hLl8xfR_0Ui3BrddsQA",
+          "ATKogpfTn1T0Zl3Fx8IsxNjaNsC_AQzThtqin8_wdJLNHjsryELjcZbt9TEc39iIL1snCzz7nUOwXysRlHbl31jYUv_9XF60yKeanyfDqxsQYcMsQiKFB84MhS1IJlC4D-X7iGhCt9yyJ7VLQxLOzIXMhQqRnpdsfz4_2uoZhFXIDWWinc3r2NDXF3osjd-Pim5sVgYcmPUD7c8BFXPr6z5cXEUDgRRtGHWdyVc97VfDyqwhXVyekyjf00bahe9Lyra5FBH_hPFS2r8wG-H3bE_q3Xs0Lr-0kY_8dB6113zhkoGMD914Fj196Kq9BYrwLremmVwbPH-Me7DZWuoo_8zqu8scjxq7A--z0XSnn5DIC1n6N--QfjF7aiLThPLJn0ZjdVFQYLIkYNGuUAf_MRe9YGFuRl8kD_pM2BLASlqD6LWwBUOi6R0BZVl-Z9SPSL1qU2U2ybHpVIQIgjD0NkvLFykdbBWsYBinLdwhqXLZc4avYOcVtT5k2FM9fzoyG6JDEjWbAcDDbR_qNJEbVxHbhI5lgOp5HrG2GwVA3shQrE_AVyjI19YWbmkYWiqpd8g6bKGXvqEEGEgz1znpA2_YuU1waxQkH9wENDR2ZWRmRMP38DtQtgy3cSve6I-H4F9IeO4b6A",
+          "ATKogpevb7HywPr1xGgziPJ2PX6tjCF0TIgzN7pXfYUfiDvQBl1BOrSHD0AtVKaVXP3m50gB0TeHpXg2Tb2r18hT_vphnRwYchcJ3sXBMQx00R3OOIkJQmCZCTH6soKgqdFvehZDe3pE78oHcIxmjjP7lPfzAk5AIxJk6tq1U7jhBzaTdpzafXV-4iZhFGS4Bu261gZlmaQS40GxYu6_RxIHhOX-0DIcExEdjQNejW_ZOenFURfaKCbl4tJHkYTQteBLft-Vi-1WK2Fr1zUe9g6UaLi0tBzMmhGN4eomxr02fkRWEK_Fr0VREr3EMgjer_r_FuedHwwYFJDnGP1a2cVSkDI0yeEh2VjubBhBfmdsI3CzCK22Du1_Iqu-ECf4ljK_WLtimJw0LakDR3S8vy7E3nGvLuejPB9tzfOed7mdEnbW2yvM3D8CzhG4qI_-U0TECZ7pM-oki_z843nqWoJnxbrCGhbtN7V5S6wFDi4xbkdBlcDorVnn3M007pN3Iz30Qf_YRjZCxQHL5hZJ8Y65tYbHMZfImb_-yzXgPQW_9_3WPpS1dDoI8zVW3Bg3mHIDp8jzzcik2lgIjcOwq9BxkngtAgnlHS3i9x7nffb5KAc4mhx8oxk6qUZ1DdQ_xqOC",
+          "ATKogpeV7UwwJeJS-qeR87b0ei1YfrUv65f5v4-EkR4YT5PYzdOtYvnE0_xnXJ0OlbKpfrhY2NMCZrZqa0Hds01PrHPDUqvxRRbKBdpdoJFC9osciNTWHdNuocpHrKURR-ppxXBCAKzfXlD0dAxIXdTOfBsE859ZCs7eH71vUc9N0kfuD0K7nHmaXYOCM_Vc5BZTb5gWx_EXAIXVkBA-Df1mhc0i100SPtiFKu6t2aMzZTQ88Z4a93QQk1zzWmXA-kzDD1_Ik1sVeTy7CWPbV93bBH2vUuDwQ037WSf8N-M-8VfKMRwRoPMvAItTWFclU7ACWoY0u8BWUMCQH7DEchHZs1rcd1Jh18qodg40WYoXxnd14V6VLouh8xY12mhLqu2R9f1K4OjPDc7Te87TFPKcfDg4Ut_XtullAFgX5YFshvRqY4QfP3QjFJxLCJDPhbylHYEKuxS9fBiIfE_PJ8VPin3YlsEzr9Hzea34fL31wZmU_VeUykE189IgKw9P_IX8fZKhdnAyGcCY8HYsTU_QyT-kIHh7fQeqhyFvBIt0GDEp3Kqusm3NzSZ-Q1EuJOCnPpo640q80GtvWd193PAKBzU4Z0CatMYLQkTdN69DLmMDuTuQxd8hsmTauwXbPD351nVRgLGB",
+          "ATKogpcnjff4dQUletvDHP1Av5QJ-YrUxOmXl9VWKuRVNyCGVg9I6cqtgljtkGqqMpg6R-coNBW8XlY0kdJBo9-B-fdBeK9nW3mVy--zKr8rnZ0n6xP51ifq4q507B9oIIxslueXo1OvSuZTyDCcGoTNbCMz0AgH_Sagm0arul1C06514d-XEM7NmNXDVAAMkJ_ApdebCP_aMLYQTXdBpEE0WxGcOJVSL62-3kPi2-Hn-IbMY51IjgfKbIRX48Xt6RuBmQAwpjHMGBkc_CnTd9mMSvcXcodwWLR2hbpYO6JwPFITfvQwOcLjXwADQDtVjWFyAqlB14-xP3VZHRPvQGRCnN_xhFPKc6QxqkP2fcJnpc39VZRnCGuSUh4ViSQlMVI2xr721qxoNO5hPh7PMMXGD3LKLSauenR7JGeiFS2l47q6isXphDh5RMKlt3dcdiiYD5nJ9ZVX2CBPyc4ptSrLXUDNvO4Ct_Dd0S-vXY5LNDCryECsZZYJNj5YlJmHiNi8lTcb5YM5DofMg6b3BOhGK2-SyeuAK-G1f8l9d6hqD64W0RRx4VPkIJDi3L2coBBVFtRQUtB2eU907uyWDNSxs14PmJgiBoVJ75-fTQfNGXsOTOq5YD1s4dc_mc_ySA2Tq69CoRDZ",
+          "ATKogpeejoCpLqHVsnKRKtg7wSSlM_i9EqPKHnJxS8zr9FEAbU8AvNSaLV1GMl6U-8u6Vgvnmq_CMnWXMuzesG--eJL1O4mri6Mt6grv-O_klXk97_H9bfSaZAD2R2WtclZNgdok_Gg4mSuQDIhLlrIF7BOSJOVno8jGVtR1Mi0lHOTJnB8WJopbEp1ZoT7CHyoOeV0YML8q5jrhAWA19djRCxjSr2UjZl53BZIbcUKRNbyEILlWaoglNL26JRvmJbeGJ05UPu-kHFr2DX1wPubZF7OvuSqWZKJTu7Wo_T-sGsvWveglUzlh7945rj0MgFZeFavR5pPS7CPL8JF78DZvR2c0FrS3YA6feUS0mx51eI4SiH_gXrjxnzVG2h5qh1PhntTeIgXGj-OA5F1J_uO7sProg4g8JQUQEGVES74gwP3_rRRj-g8bapaWtRmqcgR7cPfy8Dz3aNFRUx8yUegkSZBgimkAB961DWZ1a58Qnz65PXDYjhwLwB3SGoib-lUdOZXSpQzuswtSXTUFl6Hm_0Oec6zaznmgCPkVDeBWRW_IY0t2AJ7j7PTQ3C-wASUnZX7to0Pzbq0GchenFXIme6xtafeKEP6POL3JTAZ0GKjJckfWw1njl_XGEfYHuZQH9_kmGA",
+          "ATKogpezMma5NKTK0rjEOwyPVc5AqeE3xgGu1bWAo-XeDBdeMu_Igl7_25c6btI36rMberzFapun6_LTMCYY-rsCgE4hNm11H2DsecYPrHdxAckNzqWrF71MxoLkJMOilrDt2m0Mycwkx6NOBHr3whoIFf1eWYDxJyEbGvN6m6TuNy1rKc3kfKWntxWtM6tkl3vJa32XCji4t2DCGevLbbJ7FrJH3eZnRYFFtL7Nq9RYikOtaQ3RqXmvNDsok9nawLCcg9zusjSNnPQLhb9dKCwbftEe4tXfGc5wIdngh8HjI0MoGg9ju7uH-sgCoPtvA5EqwDOCFJSqguq00RB_01OC8lFZrpszbm6PwPQhnBk7I6tiPYWb4XpJJ4c29yjUJ74O4tc5T7XujukuChkriM_0AEnXO430WxRcnpnGBs5eURKqV1mcQ9vsbwJUrDsQAhZEqtwch1uuWl9QyNusXJoHJbo0QjxnUoA04XJwjxXAKPkjBZNpr1j0SwDkjESVtJUxjdWF0hdDmae9U4ixm1mGGdqaa64LPPrJrxa9WWIA9uooh1dvhVZK-nzQPmaE1oruYZ-dFhsgl2q8WuO9snxEo9chJ4ijUS1HBzG-Bir-bGzFBArG0okYacEK88qvdhrNXb3Tv6Da",
+          "ATKogpcIpFXmpU4s-uzst6sHqyDNl4KoUuNj3Vod8X7nvdEjsFfR7oQekXpUT3iMiMt6tY0G3G7nx7uCD3dObNsq8gVqooR9jXfzm-saC9TH4m7ZPMO4hxBlTsK9G9_35MsgXNuQtbfYYFDZHQ7REvLgOaIlDBODt3g-mh2WDflKt_CD3AibAKYesufEeRGmT-XZXEqSPHeACELgh0E8LXvxMmKBqMxCtfuJcddjieZZRp8FPadAzfEbJpExlumf-oFFE0xkyHGk3WcIH-w1aLlVm-m9ZzR15yFK1NsSBAKx4D5RRFmNcb3_Dsul0mdEs6B5FNg_D_eEYQzO6lND6xBt0HTWpOrwGwOg4ZUJ8fpbOpSA76WUV1bllqzCaX6taN8KPeWfV1VoV3y9tWZ3Z2jqJO7jro1xX9EpUNHFyT7PQDD9kM_9IbbitJ_uoywVkiLfyMpt2pXA_RCYezOHVtatfDyh2doQurgk_Let2aMCVD81QxWbPuXKOSo3SNhwTJaDnPJI6FiqKh0XjIgwxLvf4nMi1H9VOrOdwrUUrSb3wglru3ChjeoLqDaR2e1aiyrNTj2rqmbOnWZLgy-dt_74sFpVkD0rOUrkaMomn9n5WlO6PeQ61VmgVZCbL3VRc2G3fg3EZQ",
+          "ATKogpdc94zj4alrdGKkGw9euEZ0s97UoSBAqmlJ8K5ET3rVndPSgunf1iB4YNUmBATlBl5dMYSGKEQh4l0e1tmNjjpArF1h2KSfzM1JExXHLaCieKSbsKvsQWodHmygZlf7M7MjUAnyx5OlUGk3lf0iwGhgObH-ZphYr78diKvYcKHOVmb13QZqWIlF4cFQ2iHRAmy0MGLwb9QnTD8sSt07tQZNGdofWmLaTyz5M8005_kJB9OhJF0i1V2BvINZtK73wwaGYZ9DAmtQ7lRFkmLSqffiCTeRVM4WOqLI5XnxnuFd33JJymX8kbK8SIafyO3V_XG2TAbJ-SaJWeauAJSYEo42SWWon5EBHq9ud1hHyrH8nasEJn2MTh6izO0thz7Vi3kFBxNdDMt-TxlruFVnFokRG4O4BuG5QuqF9a-aply-2se2NiK9lrzBvrkcpZD8FAv_lG3t0-OmlPeUD6LKpcO3uCxMnIkbMBV0OLHFZReBKJMTrXg3G-5_jagmhEDow6gwYNIhS_CU-9GzYLpRdT1lysf9-yKJ2qZtkUnX-BjRkhbIq9Z8EwXaf0Jn7_hQGJUn-zvTXL3yw15rqHFxasVgxK55Op9G_0w16PHHwUFnOVFDiIJCSn---aOsoXRXE_oUUHln",
+          "ATKogpfp9q7XPeOhQQxiG0JsJAnf25YmdFWGagp63kwatipFDX3mk99jAn4FAscTx_ySY37ZmblwMtVLDIj0U18kZGh2yTe9pYLVhLvRmN1bOPG8WAHBGkVZRCvs3Q5GWJNEeRODIWBRyw6-1PnyJJGThGJQSKz-5Wt60HBhcZDbwtpAC9zuQACP5aIDtlCJ0YmPx6f8zZuigMY21gavVOtS3Aq_FAZM3d7Ig1szxwfar8sGguN0-cJR9QBqiTv_TJ1VMoSDBnHAI21MQDGlIY-Rs2OeJHv_xUgxBduOD1NaNIkq6Zv_9bMZUswTR0AS0Sh8B-chJskBrJtSd0-qlOBdX9tqtJiqWdDBggbltzHRbkHGgkfa3dP-sVN0h-hhzO_3k_E28wXpv8Tvob4cpjUGgetE26KDTfS9Q3vydrmwDtBj6wITKEQ8EGrqPqvQl6wMoz9fH8gsf-2B6ApnnTiQEsZ4nc-3fp05jHVzul0TesrWJU2xbnvm-5pVfU-NEKEg3MBjUVJq7YoDqEOZ6N0LGHIaWEBVc0guwBcxa-FBP0ze6rlnLQZ7TxxV2V4xK7FlX5Uhlw6yjOyeOwBz0QdXuZDdHd5m0kCuaQgZIWs3SzQSFecoxN21HvNRoepGn1TO5dqEUQ"
+        ],
+        "ratingCount": 30,
+        "openingPeriods": null,
+        "excerpt": "Directly in front of the Maiden's Tower are assorted archaeological diggings at what some consider to be the site where Jesus' disciple St Bartholomew was…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_10.jpg"
+        ],
+        "placeId": "ChIJcSvd-f59MEARbtXBI_PbLos",
+        "name": "Medieval Market Square",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcSvd-f59MEARbtXBI_PbLos_1.jpg",
+        "country": "baku-baki",
+        "address": "9R8P+HP8, Baku, Azerbaijan",
+        "latitude": 40.3664248,
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJe_AWHMp9MEARXrQ9JNlKX9c",
+        "website": "https://icherisheher.gov.az/az/93-sirvansahlar-saray-kompleksi/",
+        "index": 6,
+        "utcOffset": 240,
+        "longitude": 49.833042,
+        "rating": 4.4,
+        "detail_description": "The Palace of the Shirvanshahs is a 15th-century palace complex located in the Inner City of Baku, Azerbaijan. It is part of the UNESCO World Heritage List and considered one of Azerbaijan's architectural gems. The complex includes a main building, burial vaults, a mosque with a minaret, and other structures like a mausoleum and bathhouse remnants.",
+        "imageKeys": [
+          "5kjBaQkHpKv9eWuUCut6rNz4pCVsm4Do",
+          "PIwzPtO74nXmbsIQxA3H3oZNCosUbuGX",
+          "MTdiUR76CQk3FW3RnrpseC8Fu7xfPcea",
+          "xDp4LA30i5QgLsvgKBq3GRqBAcKzS2Iu",
+          "ckYKlfznlOIHNeGNZRmzTDH1OT4WuD3K"
+        ],
+        "ratingCount": 2683,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Restored 15th-century palace complex with a mosque, burial vaults & artifact & relic displays.",
+        "name": "Palace of the Shirvanshahs",
+        "placeId": "ChIJe_AWHMp9MEARXrQ9JNlKX9c",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJe_AWHMp9MEARXrQ9JNlKX9c_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJe_AWHMp9MEARXrQ9JNlKX9c_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJe_AWHMp9MEARXrQ9JNlKX9c_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJe_AWHMp9MEARXrQ9JNlKX9c_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJe_AWHMp9MEARXrQ9JNlKX9c_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 601,
+            "3": 251,
+            "1": 59,
+            "5": 1740,
+            "2": 63
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 492 10 73",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJe_AWHMp9MEARXrQ9JNlKX9c_1.jpg",
+        "address": "9R8M+J6F, Baku, Azerbaijan",
+        "latitude": 40.36656,
+        "types": [
+          "Art museum",
+          "Sights & Landmarks",
+          "Castles"
+        ]
+      },
+      {
+        "_id": "ChIJezPwTNCHMEAR5Dv2J5UEkRU",
+        "website": null,
+        "index": 10,
+        "utcOffset": 240,
+        "longitude": 49.824205,
+        "rating": 4.7,
+        "detail_description": "The Heydar Mosque, situated in the Binagadi district of Baku, is a significant religious symbol named after the esteemed former president of Azerbaijan, Heydar Aliyev. This grand architectural masterpiece was unveiled in 2014 and boasts traditional Azerbaijani and Islamic design elements alongside modern features.",
+        "imageKeys": [
+          "ZJXzHsvU8EPWOVPT8bDC5sHwQGNO39Fo",
+          "ekvT0fZCHMJCMRs9YrDC4rj4iErHdj2t",
+          "VKU5Sxazcw8lSXlrI3l2pm6szqYDJF5W",
+          "ooorCmDQq6AgHtO9sT7tHfFCy8TO5vG5",
+          "32zLJLxCKZUqcaT1W2wFyQrqSBlH85aG"
+        ],
+        "ratingCount": 1225,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Huge mosque opened in 2014, featuring domes with Koranic inscriptions, local stonework & 4 minarets.",
+        "name": "Heydar Mosque",
+        "placeId": "ChIJezPwTNCHMEAR5Dv2J5UEkRU",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJezPwTNCHMEAR5Dv2J5UEkRU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJezPwTNCHMEAR5Dv2J5UEkRU_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJezPwTNCHMEAR5Dv2J5UEkRU_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJezPwTNCHMEAR5Dv2J5UEkRU_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJezPwTNCHMEAR5Dv2J5UEkRU_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 112,
+            "3": 39,
+            "1": 36,
+            "5": 1037,
+            "2": 13
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 513 90 49",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJezPwTNCHMEAR5Dv2J5UEkRU_1.jpg",
+        "address": "Hamza Babashov, Baku, Azerbaijan",
+        "latitude": 40.428784,
+        "types": [
+          "Mosque",
+          "Sights & Landmarks",
+          "Sacred & Religious Sites"
+        ]
+      },
+      {
+        "_id": "ChIJjW8sAq99MEARVkCsr9k1ZU4",
+        "website": null,
+        "index": 5,
+        "utcOffset": 240,
+        "longitude": 49.837734,
+        "rating": 4.7,
+        "detail_description": "Nizami St, located in the heart of Baku, is a bustling pedestrian street known for its elegant buildings, upscale fashion boutiques, and diplomatic missions. This central shopping district stretches along the Caspian Sea and showcases a mix of architectural styles, from 19th-century neo-renaissance to Socialist blocks. The area is also home to the vibrant Icherisheher (Old City) with its charming antique and souvenir shops.",
+        "imageKeys": [
+          "m1h7iIJ7kS0DBfwZlz9T7iCYf3BNZLFq",
+          "bJZRRDWtlFj3VXVZzNnV5MJQLXf8gZEH",
+          "Oet43kxGw76ae24dqa9KlFlDbBvj0WLA",
+          "4iK9xnCFJ7rug7WbzIyh6GHX2NGpjTkJ",
+          "7IoFchhrMADYEwjJC09SSMhswMdsQt4U"
+        ],
+        "ratingCount": 1342,
+        "openingPeriods": null,
+        "excerpt": "Landmark pedestrian street lined with stately buildings, high-end fashion boutiques & embassies.",
+        "name": "Nizami St",
+        "placeId": "ChIJjW8sAq99MEARVkCsr9k1ZU4",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJjW8sAq99MEARVkCsr9k1ZU4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJjW8sAq99MEARVkCsr9k1ZU4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJjW8sAq99MEARVkCsr9k1ZU4_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJjW8sAq99MEARVkCsr9k1ZU4_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJjW8sAq99MEARVkCsr9k1ZU4_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 217,
+            "3": 54,
+            "1": 12,
+            "5": 1067,
+            "2": 7
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJjW8sAq99MEARVkCsr9k1ZU4_1.jpg",
+        "address": "Baku, Azerbaijan",
+        "latitude": 40.372207,
+        "types": [
+          "Notable street"
+        ]
+      },
+      {
+        "_id": "ChIJl8Peect9MEAR6VDjomuy2n4",
+        "website": "https://nationalartmuseum.az/",
+        "index": 20,
+        "utcOffset": 240,
+        "longitude": 49.831736,
+        "rating": 4.4,
+        "detail_description": "The Azerbaijan State Museum of Art, established in 1936, showcases an extensive collection of Azeri and international art. With over 60 rooms filled with about 20% of its vast collection on display at any given time, the museum offers a diverse range of artworks. Visitors can explore European art alongside masterpieces from artists across the Caucasus, Central Asia, China, and Japan. It's a must-visit destination for art enthusiasts looking to immerse themselves in a rich cultural experience.",
+        "imageKeys": [
+          "2BqrY4KFHjbKQWI40yynps4sGd9Yttdr",
+          "CXLCnUCrGkzlb6INtqSAmqMhiRMRep5q",
+          "9Ibsqr12rE7dLxxtib85ttlYBoC6U8YR"
+        ],
+        "ratingCount": 459,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "1100",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "1200",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "1100",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Established in 1936, this art museum features works by Azeri & international artists.",
+        "name": "Azerbaijan State Museum of Art",
+        "placeId": "ChIJl8Peect9MEAR6VDjomuy2n4",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJl8Peect9MEAR6VDjomuy2n4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJl8Peect9MEAR6VDjomuy2n4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJl8Peect9MEAR6VDjomuy2n4_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJl8Peect9MEAR6VDjomuy2n4_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJl8Peect9MEAR6VDjomuy2n4_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 74,
+            "3": 34,
+            "1": 32,
+            "5": 313,
+            "2": 12
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 492 07 07",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJl8Peect9MEAR6VDjomuy2n4_1.jpg",
+        "address": "9/11 Niyazi, Baku, Azerbaijan",
+        "latitude": 40.363168,
+        "types": [
+          "Museum",
+          "Art museum"
+        ]
+      },
+      {
+        "_id": "ChIJnZLDhC18MEARRi2mrQG3saY",
+        "website": null,
+        "index": 13,
+        "utcOffset": 240,
+        "longitude": 49.828804,
+        "rating": 4.7,
+        "detail_description": "Highland Park, also known as Viewing Park, is a stunning destination in Baku, Azerbaijan. It features an elevated terrace that provides breathtaking views of the city and the sea. The park boasts a diverse collection of trees from around the world, making it an ideal spot for family outings or educational experiences. Visitors can explore the vast green spaces and leafy trees while taking in panoramic views of Baku's iconic landmarks such as Maiden Tower, Flame Towers, Flag Square, and more.",
+        "imageKeys": [
+          "bDngd8eKjVlXP0EDGEAkCwdffiHSGDrl",
+          "ExQPjPvmtvcO8tJOKjcLMcK7VigLiQQK",
+          "vXpEoD9JCrvxGDTdrkefyYZdklRBsRtw",
+          "ZL9XPjolu8DkzXF8lCGYyTSdYB2jSXZd",
+          "xuNRavLcxXoRgXKcZ83ir1PX7Zd6J84s"
+        ],
+        "ratingCount": 5678,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Elevated terrace reached by stairs or funicular ride, offering dramatic views of the city & sea.",
+        "name": "Highland Park",
+        "placeId": "ChIJnZLDhC18MEARRi2mrQG3saY",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJnZLDhC18MEARRi2mrQG3saY_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJnZLDhC18MEARRi2mrQG3saY_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJnZLDhC18MEARRi2mrQG3saY_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJnZLDhC18MEARRi2mrQG3saY_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJnZLDhC18MEARRi2mrQG3saY_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 878,
+            "3": 233,
+            "1": 55,
+            "5": 4545,
+            "2": 33
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJnZLDhC18MEARRi2mrQG3saY_1.jpg",
+        "address": "9R5H+4G3, Baku, Azerbaijan",
+        "latitude": 40.357767,
+        "types": [
+          "Park"
+        ]
+      },
+      {
+        "_id": "ChIJr3_GaTN8MEAR9-u9ILHmY4s",
+        "website": null,
+        "index": 19,
+        "utcOffset": 240,
+        "longitude": 49.8337319,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/bahram-gur-statue/a/poi-sig/1487584/358673",
+        "rating": 4.9,
+        "detail_description": "This powerful 1958 fountain-statue depicts a mythical Azerbaijani hero using a giant scimitar to slay a snake-like water-spewing 'dragon'. In a pool fronting the lower Funicular station, it makes a particularly good foreground for photos of the Flame Towers, especially at dusk when the lights have started to play.\nThe character of Bahram Gur is drawn from the poet Nizami's 1197 classic Seven Beauties.",
+        "imageKeys": [
+          "ATKogpec3QtE1D6zFpy8AiJtajc27ODPuygWGMRSk66fmgAB7-ow2O6_Q8lP97gG-HhEk4AEBCi97urskW--Byk6-Rl2iYbbjIWXqvcoHYD0a8GrVfJuut0vGgmi4UR_UdHsBLptvhSfz60phIfaNUukkblHz6epdydA57Fl3qfKux_K9NLeo8kh5V3g3GzXxSD0QDg6tC86p1JrXxCPKcY16sXwFm-hJubRaiHlsN7ZnsqjSD88rQ1HJIAB4-iCeZ9tpq0tPYDxkGdEbVYBlShqzaCBg-LP9VaUWvzOAfWRqjlIAIMsXKYR2HWZwdTrZDYggEIAGR8-HKavYXSG-F_al64rBrneOnNtg27YrwTSMfQ-0BFkEE-7qOoPsP_WTkEacA5sG0Ba5s0vLpELW42G-9un6Z8F55kJ93UDs4DTsdzMEYej4Qt-3oEU7TArvKR7pRRkSwsHT7QcQiZdSXVODjmYIBMCLAoy5m6gEr0vFAIrXZ--3voSaFxzR0ovPsXQ-vkvrpVqwbrhDztp-9X44jEmjMBtNEMREYVvR7uaxMrwMLbed-rA-XgSE_60cQqYnWISYqvxbeaEi_mGkCOywDHjqgmbZnwrEDMC9w7Y4ZL_GA6w9Zd7nfQyvmJRXQ7NdZfc9Q",
+          "ATKogpdnFPQnYHvhGkHH-bx2xIFdYi8YHFpUq2vzHYvVK546lvuh1NmJP_TlRYPU77J4pp3QFeLafZ370VkYbdirBwdji2NPGyTIkyIDtoFeLAPRxM98YAVErCtU4_1d8v_dBIcqWNAUliFaYRoyfzECxsN8-g3Z7IxfDDHppCX4URoZnFMKwAM4v6qF5xax9wgROTNKN1kn4L6gNSRNtQxs7wig8GGKvuKGIH6buKX2UYSljQeJfcMZ6rZoYn-K_gCaenpuvxyBG4x1lVUe3vwgIlIFhBuhyrdPCayJ8uQyiEYv23gru0nmypGLK-iEpCXveBL1Rthot8qKv9VDt2zY3ILq2zaAcCeBtroG34FKUHN1P9F3aGWdFgYt4N83e-OCuYOQbdzlsVQqF3p4xHS96o8NeD6vMWme8ckNKU3CDlcl2ESnIAT8C-XmCzZi8Aj0-yD90u0G5Gou1HoCac5ci0QzFn0dYrWl4z84gmOiCwFA4IoiXGr_d_tT1jdfn4qUnN9uZz2qmdS6ImARX9gep22TuiWb8fh9voaijrs3x56Um0Q1_aCVsHjA1EQ9Im7JbDvkbnSvxsx0D4WMf6NAj21VNcqprP23ZwRSJYyfkeed8IZY-uneg4akA9PMqazlCeoy9Q",
+          "ATKogpc8Vhb9Yv-J-uj3AmKytbWEWFaPNaoUhxSxh7hCG38f5Wdj3CZrHLfeHbaphx6viJUrqW364BVhit1UMo39coWwDqNxxksKMBoeXJvrdeSIIm1BCe_sPpVCnCGRgHjMN8MT5uRLMelcJL-6N2-Wauu9yqB9SnE1jOOC9azumHquEwltBP9yJkz0-26zfj_km2GO8pVsenWTg7cb4vC9HfVJSRXTGWE4YPE-kniaQfHIdbc5hCMh_iJ4PqpwqsgvagxPQQY43KRvVRKHn-qtYaY7jgpe4cnrhkRiLQnts3Wspu40ZJHAwrgcTQtt8nfOMWDk4GNkPyaG0YD627mkuncbJzMQuN5-LvjffDRqGb5NAyYS8KS0KwE9gXJD-0B0jhP76mwoQX2632VSKWKdf8HAsWtlg8v2qYkgvXL4_KtvpMqMoG2l0mUnJYbe1LrusSzh8NLDlGrbmr0kTIKKNdiX3LNgaktfqsc1tHzvm60AUzJ4dSC7eDqFcuD4QzkBhJy-z980bdbzk4NsVBHnZceWEOxjKcXxnTAZtyWQHSkM56iGoccR3Sg5CwYmCWPMWikio9MxP1XWB51x3hG_kMK4YMh8xKqtnaouVFoeoQ1cywHwYgHwEVbu47zMeIW4nkyjwM7p",
+          "ATKogpcbUe1Kes2-3sBYYwxqNPy9I7W_ODvFPAQ0U3R9oqgGnGGKLYddLWpGCrbix2MCtA5IQaaJxZIeVguZOkrczwzb5Hvqrr2pMzdJ1yevsXuyg8CWBYuMTzGwzAFuQkhvjRT6aB0mdnQ_QPHo_dTKChPRJUzGxV01YICoa8EEDTIJLiw5Y7t8l2sMX730xVaR93MBj-IwcOp4Jj6N9m2PujpypvvcYkYOeYiAzls0es--hcXg0qiA8NEXQU5fHF5UUruNL_TTOEr0F5AtXWLilT_mdAIdgu0wfdJviZDhbZH5f0GYfDR68EVjF7PGXmmA9QXQuNh8W50s4nRS24awPCvq46B3Brq-6MwYgEbVMILIz2YJPll7lXOd-kWPMqCjH1Y_FvUnMYo6QIQcehDwx3n1Zlhucpy9aO1O6cnIVN0KE14P4tOKXMdRw09G2_9KajBSBCs2ajeSJXzmX_MQK177baKKRJqGZwzqk1zmD1J4uj55EHrK6z8QiQTmTSlidXKl0ooWKfmqBGwTJwIeE__qv98jhwXjG6GUcu86uwsIiSVl4oqOa8JkCHMwxKFLIJ37eT2gRNf79h9UmVJUOUSbHdF0X778sVh7RJ6jACY9PjY-k7aPCSLXdLSRGA3YqwTHjg",
+          "ATKogpdiwIrZVEypS95GDd-XdwRDf7is76T15koSTPD-cmndaZdcnMfwkzBV5mpmCw3KoSZAOJvzv_vQw08G5UGqAmNUAhs5umAy1iXJ_ZTIz4jCB6OamIFMNJl6eokrlEgsgZvEbZdK7Umts0LcATZR7aK2EIqiljKM1oYLALtdgjuYyOwi0W3Lr8dIkJGUNwOS19CCHsCfoUxRLIGGi1WUkxQ0OGbbyP-OnWOoX_hHaFnJX3zGnJhK-dfbvTUrOr9IF7bVz_Wg2bDOsuNbjSE0MtYtCDxC8hWK9R08TH33PGCuNcfmjbmYCTqcTyDOX5_m-u703Qt3Cn9uOwUeH5p0XLfF-7qoX-Ku_mlBM304CtwLOiMSzpBHx_R_xMqdoOQ95Qre4AhHVUO4bpzfXds_RstCW2_MpLaduR4M42XWcYPb1tf7bBY-L64UdmcmRYh0lk7b2RCi1gog0hptQO5O2f_OxvjxVG7PJkeEcgOzNOMkE0GFRmakSqaKJsQDwPxInR5EPBcEwpMbcAFcPxNLH43Z4v0-PVVoqab5GP9pLxWxxUpbYcvE5SWVTahYZm0VQZ8mwnvG-QP1yF2s93viifn_aabGognGpXNk6A8ktg27uNrxkMmVUitEb14KLA",
+          "ATKogpcNhKm-pQclqlBQXCynhyuH--j1geu2EG3xCWiN0h6D7xsgfJby6mfFgzc7QLeqeRUk-HCDlsHqfNgBu-ss7tzp5q8hLW5x86O7qHkOv5tkY07Ju8g4EH35XBdjQ7xvOQCWt12wIw9s2IFlba8PBpxH2TEMrdEID_55n-Dtq_V-45hkWGjtLoVsffacz2H1vmg5G7pEUq0Q0vdOIK2V5iCM86F3Z7JItNLBVI7onxfGuonpQGuHg-Ea6IeVcm5Hdat3UuLw-w_Dl-mxraQQ2hWup31Zo1T_SWUjTE6qkDCTPpXOGd-sQd31nfg06HpqXzP85BQSlW2POP6klT2QFYDNY6NzuoJx0PdH4WxlopR1YCzDpfj5wtz4abTMg86bYF9tkIuVucCiMV0q_qPdbQTEriGWwBPmID8fT8xKU5qmP1pZjk2dti28M-_qAYyIN-zqmkkSFrpr22rxMiPq2yulp6JjExENNMUJnjwNYy-nG_gaQuD_MCYc795-oGWIoxLAU92J0LkG2jFhsHpK0TG8-laL3XeEpoIYTw_i-SYQZ9xHtB8UdxCVFc4KJb4GfLS6Rz6bbo_hl4_NA54t7NAoHbbv8iyuI-_bwglKtFNCQFRuqRe_eBA3h9DlK_IOxchB6Q",
+          "ATKogpehWrAS9FMdFpk5PrfeKPRiU-LUAIuWqQ_AQYzN-Dw6_WsCMcf8DJixQBWOCS-vAUDZ3wWTkGJox4G2NX3zgHXNmbQR6saOLE3QCKNajysuU-Hj4M1PpHvE6VSAaj2bCq8fSe-lRZD_RUMdddUJwEaeiCFafGcpV7F9WNjOTHiLP6H2qA-oUQAtbxGY4oPdPm7VUBsOdTjzU5tcV2uxM7Y95oe64wyGMCi3SBd4LHpU2_LMftvxCLsq0du4PGZSalj3yVHDXlTrTCdhfLlfUSQjBNJAwwEWsqsalYL5es5_v-wHvi56RN16tK3yglq8y0WkFitN0QN1CXmKV9BbAKfIHwunz-hAQNZyMuRhqjL49rAQBbss5tNlNJsHseEopJvtnhWYRMew-urnzmsfUDSsNbLZutkUfzfRGgj0wQVjBfj6wA891ayNl0hE1zzyFrzK54i4-D4PFXJe1BCTiCMX20J7QMr9S7NuTr1zjW_1XSNspBqBeVKME0vOOmMFALQa-Al2dozf3W6ETV3w3cD4P5rqmP40X8nt3Avl_xUISfL3ugw5fOLRVfmJ9uCIoo3gxNgzEwXSC2WZuyXi5Zhl-WrTh-2iXO6xyQFIQnSk_4ZSkF6RR1lyZLCcaN6l82W7XA",
+          "ATKogpdto1luweAU0FccRmwdWMR44HpWwt2NkBfU3z14rl_90phiIbfyn2GAEpaOeaGIdxYU_FE2HMLXIcX117yU9U3DEjnmtw4oopnrJfeKx9CFoNZvAUJsAqdwJPL-knLSZuzTkBbAmCaZ97ENAbvGbmX7OjMIVuTE2WGv4JbliHdUPVDb5eYi9ILZCxet4-A5iZRKpslTUFZSoUgzaqGCVEr5rSfVMl2rFz6ncwzqj1kT3FopmekzwORzE15jhpeRvj4KbbhgVsPXjzOIv_cVvH0f_-Mii2bIpe5Vy5fs-J3JfM4L9OVTv1133JQN6jge-up4A_RrlWZAzb6TgMhQ0U6I21MmHxkXXzBTfEOdNOZprLnMGrEAV4yQjDB96ed1a3cxxqE8L_JTR8KNuphsAPqevcid7eEJxS6cJlTcnNYMvrUfCvGdxoq78TCLVNf2RQej9J0yOOlRC-nCAXKHuI7fzyZIdA-h9dinVBrgfwdGHhyWGdEw2uCKU8ZezuNvPlx6z44hPf05QrqU5NCBSim2B3I5izHAx5GrHMdjoBZy-NUNmrNvJD0zHu47ZVyyFFaah2N0W6BNVs36sH92pEqoq7unvy760rRpQRRgG_vJO-loCZkHcCVvWJYMk9ubNf63oA",
+          "ATKogpdPaXLjuZ_8AChB9hY3AV-DrvREm0GIj2L9pQTtr5wdOkKCdHJ6xW_lg_FkajoUgPyC6alN6AArHLUdRSDUKI8b8EaQpNSBgSk78sZ_vMjih9IY372-MhOQ5B_XI7wjeMWLKNJPT58DBP0rTujJOJSvyJo9SCi33xiffsJ4E80HSb4IANVSmUdmKHtnPg6E6GwGzgqboXeJhL7lBJuJe6byQawabiSB0hoSRvmWl7WLhMOAlcBLlbb2rE20bog9wIMMtBoWxl95rx2X-_CIbWzqkmW696nG7pg1BLapGkKeypWvV43Di6vzekoSDuHdBU2pokpkfrvoJMKVY7MY6UUtcOpFwMFU9bo_Yp0xhnGc5xYuAqU3Ewj34oucaHee0EN7okcfPO5c0pMN103Qd_t2l06DenKi7F4SHGbM7_Nb4cuURVVuqo0S1ik2RJJl83Y3KhgIcMjVQpz3zjFO_MSCTV3Ip_7n8Ek_4zLmjMlXRh0vBVqtmLyMT-6PKAugEJ3qdo7kP7L1auwCY1iFDF3DtywfPi17RfIm7hJcN5Gv6WdkTEgMIt51Y5vt2jqLGEbIS1ZJ6P4UcdeA-psHtt71vsnmkM8XsEmXwvFtXtl5NJYmYTRSf9OxOoXS_zoBPTgazw",
+          "ATKogpfZcahOG-I-ETDcen7MCko0PZFUKU2zmkga4PLqUZCIZJMkTqeC98nUmFnD8Wn_c2pL7Rov3FNiuFktM-tGKy0qL4DR-gTeYuA4UMghd3nVci4PU363TCGqoaHE2aBXM_Caavuc2JBlvgr3WrzylmoaZE-ui3ZgpyBOuIYKG6vapkHbQSI3n0d5PQ1PMmWcZ_z2m9c1UfyrGt5-h80aVLJKC0Tvx--8PXYC56hX-8bmvWK6qlrwYkQD6LQKEwZ-dYL9NAlxzBiJUJPXBPn-3I8oaEEXYG-Rdn_lQ-wNtPK5UkSBxrfYYsI36kl6LFFk-9fuBckTDTpb40Ge22d6_deBYvZNw30TwIIEm-U0LnonM_dZHj-mO17QrSo0z8G9ZRngX_ktk0paIzXIvoDUl0izy4w95VvpyKhF1tDXEREgLyGdjFnhklLrJE2aXLia9kvVKkJe4p9--L1uM3xnk8RnIijnvoAspcxPb0QcSgePWVJcQVdgi4qQ4s_B0zwVWsSByHqXIu6BuTWYULAYmUQ2s5kqhQ7VCgZl9HP066qB1QZMhHFKv9bOIc2ovEqmb-xn27swJfQZI729Jl-G9aXy-6KeuJQhemDAzYbvh83UblKql1PpO6FATPvoLXBT5FjKIALZd9lyDQQnVQzuxw"
+        ],
+        "ratingCount": 29,
+        "openingPeriods": null,
+        "excerpt": "This powerful 1958 fountain-statue depicts a mythical Azerbaijani hero using a giant scimitar to slay a snake-like water-spewing 'dragon'. In a pool…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_10.jpg"
+        ],
+        "placeId": "ChIJr3_GaTN8MEAR9-u9ILHmY4s",
+        "name": "Bahram Gur Statue",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr3_GaTN8MEAR9-u9ILHmY4s_1.jpg",
+        "country": "baku-baki",
+        "address": "9R6M+5FQ, Baku, Azerbaijan",
+        "latitude": 40.3604524,
+        "types": [
+          "point_of_interest",
+          "establishment"
+        ]
+      },
+      {
+        "_id": "ChIJvaY1oEB9MEARvT-oZ_LLwqg",
+        "website": "https://heydaraliyevcenter.az/#main",
+        "index": 1,
+        "utcOffset": 240,
+        "longitude": 49.867815,
+        "rating": 4.7,
+        "detail_description": "The Heydar Aliyev Centre in Baku is a modern and spacious cultural complex that includes an auditorium, art gallery, and museum dedicated to the country's former president. Designed by the late Dame Zaha Hadid, this architectural marvel features soaring white curves and a timber-lined concert hall. Despite its controversial political associations, it has garnered international acclaim for its design and won the Design of the Year award in 2014.",
+        "imageKeys": [
+          "9PcQheNNVhFvu6Cj39RhGyZRPDYp4cYa",
+          "3kXTgw1fjg8nDyrMoTCtvTliDAMepu69",
+          "5RIVcZ9o8p8DlBMz5zs10jjqLggw1u9E",
+          "UPH32zw7MwJOjT1Y0IqCX4DIAxbNOv0h",
+          "WnQTaldcKKEJIRREtKxzXYZJrdNh7TdU"
+        ],
+        "ratingCount": 11888,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "1030",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "1030",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "1030",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "1030",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "1030",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "1030",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Spacious, modern building housing an auditorium, an art gallery & a Heydar Aliyev museum.",
+        "name": "Heydar Aliyev Center",
+        "placeId": "ChIJvaY1oEB9MEARvT-oZ_LLwqg",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJvaY1oEB9MEARvT-oZ_LLwqg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJvaY1oEB9MEARvT-oZ_LLwqg_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJvaY1oEB9MEARvT-oZ_LLwqg_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJvaY1oEB9MEARvT-oZ_LLwqg_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJvaY1oEB9MEARvT-oZ_LLwqg_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 1720,
+            "3": 505,
+            "1": 223,
+            "5": 9424,
+            "2": 125
+          }
+        },
+        "priceLevel": null,
+        "phone": "+994 12 505 60 01",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJvaY1oEB9MEARvT-oZ_LLwqg_1.jpg",
+        "address": "1 Heydar Aliyev Ave, Baku 1033, Azerbaijan",
+        "latitude": 40.395898,
+        "types": [
+          "Cultural center",
+          "Museums",
+          "Auditorium",
+          "Event venue",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJx48EWbF9MEARXpdxHX73K0I",
+        "website": "http://azhistorymuseum.gov.az/",
+        "index": 13,
+        "utcOffset": 240,
+        "longitude": 49.8401199,
+        "source_url": "https://www.lonelyplanet.com/azerbaijan/baku-baki/attractions/historical-museum/a/poi-sig/444225/358673",
+        "rating": 4.4,
+        "detail_description": "Well-presented exhibits on Azerbaijan’s history and culture might miss the odd century here and there, but there’s more than enough to fill several hours if you’re really interested. If not, it’s still worth a brief trot through to admire the opulent 1895–1901 mansion of HZ Tağiyev, one of Baku’s greatest late-19th-century oil barons.\nDon't miss the dazzling neo-Moorish ‘Oriental Hall’ and Tağiyev's rebuilt art-nouveau bedroom. Entry is free for university students on the first Wednesday of the month.",
+        "imageKeys": [
+          "ATKogpfdvnY_vsL1ktWI8kp7v6INQzLEiw8_C7Xky-5JXY9gBCuBZcQLTPd-CAxL0La4aEXkXH_LVu3NlOTcselVzjwzYa-hunaySAtlrG9bknQckp0fUQ4q_434o1-9qMWAf9moQMxlcOo1trUZHqdXJ7RYPMT0rgc_D-aB9gsEWFrQuFAmNCffPhOVEIYyKzOyCFjOBjHCXhCd-EaFsLiaqCc1I2-OCDcUUXhWpRsA5fRrsnPQYYQZ-LCK4MW6OBsnsgBOuhozC0whG4Ofi-h62Ql9Jji7fYkaoGXjcWeM8SQW-OkxCq3tP9DIq40SQqFx-dsMQp_FBB5rHFMDy9DRzBdbCyw1EHSAi2r6YNcHiRLuBdyuJZK-l_Cdgc2qvxTEd4xacg9eINztc3MxIzlk0tpQgn-5k50fYoA6EeWzl2mucmH5QCVZGYS9wmaMSZKlKZ4VNK8n47uT3xsBPxpEyapPwZT2ScZLfEhNa-lV3-uVgXwB5TlOhJ-7C6vX32T8rXxmWOc9Y0LO8mNSyV8a2Cad67lva1jCrsxAUMPROIJDuCVqTriKtQ4QnMrsY4JG7tiGB754Ps5jydFPu3QBeCBq98k8XWYfPRc5_uYpf_71Wgh_xqEi9jVRiX2FCGLlcMmJKQ",
+          "ATKogpeMGZ6yRM0gZ8pNxtb09Gy0gXn5fGkueUlshcSSfAyZRiBNIhOBkYqlDFm2qaDrB4vyaz4yinJTAaRxso72E2QhRzrkMKBSj2aDKqZ9SdnaYULURzaEr-d6vR5AK8k5g4nTUsY1qm8f3cAP6bU5fJQI9JVrFJyB2B7jUhRy7GEucoliM_ZFARu58XNu8ewzLHZrtovwrrLU5lt__Ei7CmiMM9IrlSVicfpsNjjVowGcuKNl-EikpKfxDxdCv3yV6Y3QQGEdZDB391scR8rdaveL7Z2Akti_x1aFyjwfYsjn4GVzJyajo1pcKS_pGUaWcMPkF-glt3vUNllrmfZbba6rF5oK3Fx91oa-0e83kVnI7yPv6hXQ6jEjlUifjiEi983EHPhw3oRzJttnXeMd0KD7rFW4gkfoC6EQWF1oLvToQUcP3D2tCu2ikPR6JalRn6lOueUS7w4oL0F19bM2hoOlhI2GwCjFCvT0tVf7U5Q2XSH3KO5yGtnd-7gZygbYXFXGmWcM9PYOJ-QxIKOTSxVd21BFMUNwdjfJZRo7Bt6YXlRLvMU4zjQLnxjlufzEYM8XeaioFeuEL9l8HDyRR0VrbZku7EJXx7-8ua-Kufv5wu6tEy18F8ji9UoqT2i_ew0zfw",
+          "ATKogpdk3CPISJGiXsFy2Ld75RcAWUcW0_VlUYfQtN9rdGCVQ3NAom6dKo2tZH5uE2xRm-1ukxCw5Pw6QbBxUdBWdE_hifRFbZoiOICWEqtxj48jTdDuz7Jqjno4e1wyyvQpdPKOZfYRt680PVFgc4_VUU9BWatJChHPZwjqpHv-1mI4evHaeUJpnPzfz0X33hQeoSILdO5L9RHLKk5_1-Rka1ZzAg0YPn0IgVZlPTLfn5JCV7h6yE2RXd624GWYr0UKLVxgA1E1_Kf24WDUdgrgVVEQdXyeTZ2S3apl5Kk52YrOG3lH5FnhcQZgR0UnrO_ud5DUAg4Mt6Casne35u-HtU0dFSt6Jnv9yCoIQbLxGXEA1sLnt7-_Ca2jFzqNXQEyIXAoCd8N1GQEqbMAX1xqVWIwOcAJMUICq_lNOf3d39eEQpEok7TZngzBwZDv4vd3qToOSOBwjCqXfcaVmdoJCFt21OVem_6OwQTf0cltQZ1dOEa8wvv_zEHIbJkakBmDY_M5LVJdNz-FCd0TOWkeaL05fRAX6FrG-qKTKjXem6Ee3oeH2HR8PfrNj7h8HzJsDDMAKjBmYQSHI_VDvJ_OiIzPjxTfFzjuBoUdOEspPPd4Fma2xEPCoi2sdPuNBlP-GAi2cw",
+          "ATKogpe98FCGBrfnD-JsRUiHbk7k7XRk4tGwvNUQFutkSiTUxEok4zomh9pbL52mhj61SwZc6iY2GBZ4ly3yqswFPgwdqY87-CepPTvqX84M48FWrgzHqdbnxL00STDt9XNQi5VotfTmlRavJoQ-osxh2TxkFQQAa9bXng1HGgeB05RigsRwbgNyEoa3ZWUkLmZ14Af9ryyrQqMjtFjb6G0XdlMixxzUmqyqPU4V3dNt--G1TmgbpJC9YACg-rxqiD2BeF4aDqKGrJmnEHoohagcyIHll_T5EgGC28Dl8nyuduj6QlXw1d3EOfcQ3LbWc9HkGiLTmP3HTcVk7w3yV91HnF3qxIur_iAzqo4UWeragr27GjPSIJahNugvNtY12ThalYgV9OKJ9P8ktzi1qTiZB0JLUXbKRUugYcjFykHelTZ0fNnw0E0DKxApCjSDhBzuSsM3s2YKQsL_wnSzWkl1aK1NxmJx4TS-BJEatFZGflwJ5Q_5SrlXjZkCaUhVZukHSmgDolqDAu6-ToB6B1HZ7AbgT9cUEFQlqGqaYTpG3_Am-nbPVzDUHbUHSff2JO8WKYHWvH3xdEHcaxFTjbCUWmDHX-5f5aCYrgFqeiUH5aFcCq8wWc5yB5IHeMcxab0vK3KePy3l",
+          "ATKogpeLv1G2SDMrng8NFzm0asZ_IFQc6TyJA63CcWsGiXDmOZ2dWWBuq8WNqfmr8UMB5-nD9_byPp2vvLsh8dNBntrviZwdvT9GJf5-o9QbnLuKdzD7zchOlXyKOwAKD08fARzgoOua9Tn_ATVaNPdYkjYe21KkeSgNrTcpoq8H_fnGuxMUYnpi9mDIqUy6nCoTdWtQHjsw6yBa7ClQcJb-xuWn3AAI0pVzmGqKOnlbwwT0H9NCqtzGwQNdDkllsBsDt0Bz_QE9TF0lH7wGCpq5gNqjU09naJNC2cSIeOqc2itjGWsUum2ObORTSikwKfeKh3ot7mFXoXOBgdutU-cnL9CdGTAKK4MLpAqYNNScKNqY8hptls2A1VYhKYDlnQKoGAAMFrYasV6l3l-zizaQGiUm_a1xVsXmRdF_GzEBDg4izHg98Z84Bb0DF_daDvMvXo9lLqJXLsegIQMv2aHfX_3NWfAhzx81_X3_ro7M4EPGEk5ePWzRP4Bw2mtyoCmruXX2sxKOYKx5vUuHnom_cGe4dTxLCvc5Dd1p6Mw8d-L8gX2icJFIdlxt-tJ-deVqlIuvkXL4pxHclphcIr5qeeHe0sjEHFmPppU_0UZnlmnQNulNVaz_vkOn0pcoC4_7fdywBw",
+          "ATKogpd1mHyHYSZ8oO9BUsMSviknwpkVCOVIfGYOj_u0LJ8pDTrJUJTWOaiea2qUbtplU4f_hH-WQN8bchuYQAa722fQ7fuE2hd4_5wKS_N4e2wzm3cYLpEg89cSnVLxD8tZZLfDkxAYZcsYtXxqbJOzVPs7ngtE9R0T7rVBU60cBhQuYf7Y7ZTIbJtB67Un-ZPzm2clLUe6giiagdNqcrVC4X8YZWcNXMeqHG99SZby_TAeUPirXY43EJL07_h4P9C8DOl4EVDApj3oIR3JUlraD5aZ_OvoMbzx157xXK31WAtf8190ywlL4dmXFSDg6AmcXk8Qy-MrfUdj5R7rB8ubXs3Oe0xAsSrrIrXhd_SljZkmE7IJTzX4UbkPa5Z8AnE9ClKBqVBq3mXyr_qUzTsD5zut19S6L1dtFz1k8d6R1eoeTKttIyVjrpSVZ_27E8lmrv0TcZXlmfZNo-G_V_umBj-QzztxyjIHV9f_vrBATS5FIsskXkRv7iKudbk829f2vmebE2mrF8TXB8Trz6Y9Kk2IKEC_otL4MpUOFrRSnfDeSgLM4l2tS8UhuJ-YQxFRuSActJXC0j-qYXgo3h_2tO-WZaY8AoweynJuxlJQ08OqK7Z-ACgGI-PI_dPKUTjHkOmNVytt",
+          "ATKogpcfjkvQLOIboMRBDYUPUdONDQuCRpWjBXLI3CofYdoapsxilr2m6z33tlRu4-UxRQCCCDeS8dSdLeCihU8Hyfa-ThB-dKhDyW2eU5XxTSpFkSsq2FdYY6zmm9UkHnRK1uNcUcSM62WqqiV83_GtE0cJ80s425CUyrwzAns0gePYyskWC3FVkEzNMBnUHTNhdwg8ckRUw8lbVpzEEt_VWhOe8_EfcIvBs1yy4HTmj-OL6vJtddUsbXF-yx-s6QNkjwUgwB-50LS8c0nKEnUqG5AdOw72RXck6pKGue90mJpM8eTdzsj75CGbBerkuxjDqmP8b5WfYnH7wjaj6g3C5aUBh4Xl9StL4Zz-r1iyCWwNaWh9tott7FXSd7loqw3ieVgW2Khg-gAHV-tAUimkxQuWAWtOPb7LEplhaSxKDnRhqbi5DzxIQZND2-JVVf1RmjVUnOFSkie7AiJ5SUUp3ykQrBPIcsucmOqhE40vD0pwsu5V42hlaCCE_zDbalCBcCW3Yzj8G1WPdjbx9IVomvf_kS9QtdFp9W3aJFzUSLdqMd3lIykBUBYKRCL_7BT6UBjrh0ULz3fYDm_VnGZ4IyBBofPo87qNkRa9jCZVx6v_kJRClAZlWkDKNRb-R2yDE7GdsA",
+          "ATKogpdS5x2uMpU9WQ-s4HHXxD3dpVbOa2O7yWGiDOhfa75622O-C8SucEUlnzI7k8fIYHXSVkNVp-GekD9pH0UyPT8FnkT1IY2Sck9-AGl4Y4G8q5pjT463wMriWu6YNjFLIxhmHRXSAcdHqM35H2OjWW5NfQY2Gsa36a-aYOfEINn6puVCATn1WdCS7r-hjzWxS9XEiGMBEI9pTi74dwILQkwepxI60wIQayP_fv0dyVoolhIX597YYNXHmHKkkTFnznmb5Kby2e933z5Otjz5BIGbCPswtiCjVGX-twUvP4AVvimMk0iklMpW1P4zLqgO-WA_i0bunK1zBEmF0lrpUlyPzhqO13sWuNW6QbdFbTQSz_74BWWHPu_9ZCarUewFJ-GtPrZDOzGd-EAowmGSYMfA5dC0VLdlGjFt3-MP0fEsHIrnWfujBOIErtZnSgsgvMvVj9NfyoSdIG86E7zWyOXZWgQkPzru_D1vPMqVtDva7oilmaG9mX4vdCVxDkda9tmg05obOs8Ad4WaLSn-yuayagfAvmnP4QLl_2fmkgSXP-wkw-niQbz-T_Nwob7xbW9MT6YjDteauWa73rF3zvMWoiZgii8G4KTPgyHGsQDDeF_LeCMe8YABrcxKvQ",
+          "ATKogpdsx2ojyo6VcHPfu_s9qByS07LAN-lAiZuc5qGsboWlOcuMZnkSHjCWJiCTFtR21Ns3lrWcvFmvUAGFCRKwD8m1srbjX__-_vUTDBjqRDwT1w1Uuk_kZPKwgjmNZohu18kZY-zKr_J-ghgTV7eMiFMF0U2kc4ttkYCYqFy0B1GcSPHhHohwjd7wxlWIFmwkZitkzkjq6GNSQ6GJxzp8HPS27BKXjj1vuEl-ZU3kiPPgiKQSxIysHdfgicUtcsH_aos8Ta7HtnW7FyARC5pmQEuasyKXcQEOnIzhMl1DuVCnotoZ7iBVj96dAybapF7XiOlZ7I6YKemdTali3gav8Lujrz14VOKaM62E_48icvCSgQmgdbhLvwLY1IfYBHTiJ8ncSrgJfDQFhn9octxZnRgkJvUPZXuoBxoTPSVbiCWrD8_9rCvEWX4ixBEYEyRN3LrVAdPkJAOKHOOWD9aDUrpJsHnX1HA-CnHlpmDmWySTwdHJvYhVRwThvJdJ7UGsFLVv3pddyyvBxDEFxk8kXOp2umZpz8h7lfUyfy-BA2x_jhpoXSyOs-fo6oujeymdONocBtAXeMTdOG-DnJ6B7xq36RX4Ei2H7HUm2D5DB_R6OYQwenYMBg7oV1SxyfGtZZdMWg",
+          "ATKogpcu57i7jl4J97OReW0WrwYkMsM2ez1j1vmPFx0nPgBx1iVbtIc9UcFiORrc5kt7Bnid4tBAPGJESgR0K_YItlMEZV3rGsp8Z5BstakmGausjM5DJtVssmqBGIW9zv6XhT4X68tjvHJGdyTouMghU7zP46RpgA2UV3g4RQ9nndgH4GRfbDw4WeW4lt1lDNEyB2jlFYrV096xyNEYqzrbaD-_5TJs4wOzeBk-67ZVGX9n8FZj9EIfOHZgtdDt1idkwc0nlLlwliP68P2-zBkccI8Wrwds5RnlGgDtkdFJshiAOq1ZxogQiOVGX85Hgilli-mDxanK8fGZoIcgcnqFVbi7OcKmr42LtU8Sw1Xz3MvdmXz3aDGE_Pxaj2sILSQEyZS2zOYxYSXi5ZoNlM81oCvH5Q0JVj0X_7iA8eS4AQ2UK1M9kYkvbLYDTGHe5Nej0WSTEXW5rqeQDuXyoGDGB587OgZur8exQAUFoJa8mZ10vdKLjgmPnfjYOlLo9LGaxhyTbGKAawkYGY9kHC4zBj6FKutxL0YQm1ArAabTCCCz-aA8n4igXLxxEKVTakdYCfbXopkDvTI3r0WG30nz2CcjxDf-YYwOgzBIFwO_kWWsxsr-OHj2gYeHRiMWbnx6PwWcQY6p"
+        ],
+        "ratingCount": 747,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Well-presented exhibits on Azerbaijan’s history and culture might miss the odd century here and there, but there’s more than enough to fill several hours…",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_5.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_6.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_7.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_8.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_9.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_10.jpg"
+        ],
+        "placeId": "ChIJx48EWbF9MEARXpdxHX73K0I",
+        "name": "Historical Museum",
+        "city": null,
+        "permanentlyClosed": null,
+        "priceLevel": null,
+        "phone": "+994 12 493 23 87",
+        "g_description": "Large state museum in a 19th-century mansion showcasing diverse historical objects & artifacts.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx48EWbF9MEARXpdxHX73K0I_1.jpg",
+        "country": "baku-baki",
+        "address": "4 Haji Zeynalabdin Taghiyev St, Baku 1005, Azerbaijan",
+        "latitude": 40.3694979,
+        "types": [
+          "museum",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ]
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "Spring is one of the best times to visit Baku, with temperatures ranging from 10°C to 20°C. The city comes alive with blooming flowers and outdoor events. This is an ideal time for sightseeing, as the weather is pleasant for exploring the Old City, Flame Towers, and the modern Heydar Aliyev Center. The Novruz holiday in March is a highlight, celebrating the Persian New Year with vibrant festivities.",
+          "June to August": "Summer in Baku can be hot, with temperatures often exceeding 30°C. However, the Caspian Sea offers a refreshing escape. Visitors can enjoy beach activities and water sports along the coast. The city also hosts various cultural events and festivals during this time. Be sure to stay hydrated and seek shade during the hottest parts of the day.",
+          "Travel Tip": "When visiting Baku, consider using the metro system for convenient transportation around the city. It's affordable and efficient. Additionally, learning a few basic phrases in Azerbaijani can enhance your experience and interactions with locals. Always check the local weather forecast before your trip to pack accordingly.",
+          "Overview": "Baku, the capital of Azerbaijan, is a vibrant city that blends modern architecture with rich history. Located on the Caspian Sea, it is known for its stunning skyline, ancient sites, and a lively cultural scene. Visitors can explore the UNESCO-listed Old City, enjoy the waterfront promenade, and experience the unique fusion of Eastern and Western influences.",
+          "December to February": "Winter in Baku is relatively mild compared to other regions, with temperatures ranging from 3°C to 10°C. This is a great time to explore indoor attractions such as museums and galleries. The city is less crowded, allowing for a more intimate experience. Don't miss the chance to enjoy local cuisine in cozy restaurants and cafes.",
+          "Regional Highlights": "Baku is surrounded by diverse landscapes, including the Gobustan National Park, known for its ancient rock carvings and mud volcanoes. The nearby Absheron Peninsula offers stunning coastal views and historical sites like the Ateshgah Fire Temple. The picturesque town of Sheki, with its charming architecture and silk production, is also worth a visit.",
+          "September to November": "Autumn is another excellent time to visit Baku, with temperatures ranging from 15°C to 25°C. The weather is comfortable for outdoor exploration, and the fall foliage adds a beautiful backdrop to the city. This season is perfect for visiting local markets and enjoying traditional Azerbaijani dishes. The Ganja Festival in October showcases the region's rich culture and heritage."
+        },
+        "monthlyRatings": {
+          "Apr": 4,
+          "Jun": 4,
+          "Jul": 3,
+          "Dec": 2,
+          "Mar": 3,
+          "Feb": 2,
+          "Aug": 3,
+          "Jan": 2,
+          "May": 5,
+          "Nov": 3,
+          "Oct": 4,
+          "Sep": 4
+        }
+      },
+      {
+        "_id": "things_to_know",
+        "🌞 Weather Considerations": "Baku experiences a semi-arid climate, so pack accordingly. Summers can be hot, while winters are mild, making spring and autumn ideal for visiting.",
+        "💵 Currency and Payments": "The local currency is the Azerbaijani manat (AZN). Credit cards are widely accepted, but it's a good idea to carry some cash for smaller vendors and markets.",
+        "Conclusion": "Baku is a city full of surprises and rich experiences waiting to be discovered. Embrace the culture, enjoy the cuisine, and make unforgettable memories during your visit.",
+        "🍽️ Local Cuisine": "Don't miss out on trying traditional Azerbaijani dishes like plov and dolma. The local cuisine is a delightful mix of flavors, and visiting a local restaurant can provide an authentic dining experience.",
+        "🏛️ Historical Sites": "Baku is home to numerous historical landmarks, including the Old City (Icherisheher) and the Flame Towers. Allocate time to explore these sites to appreciate the city's rich cultural heritage.",
+        "Introduction": "Baku, the capital of Azerbaijan, is a vibrant city that beautifully blends modernity with rich history. Before you embark on your journey, here are some essential tips to enhance your experience in this fascinating destination.",
+        "🛍️ Shopping Tips": "Baku offers a variety of shopping experiences, from modern malls to traditional bazaars. Bargaining is common in local markets, so don't hesitate to negotiate for the best price.",
+        "📱 Language Basics": "While Azerbaijani is the official language, many people in Baku speak English, especially in tourist areas. Learning a few basic phrases in Azerbaijani can enhance your interactions with locals.",
+        "🌆 City Transportation": "Baku has an efficient public transportation system, including buses and a metro network. Taxis are also readily available, but it's advisable to use ride-hailing apps for convenience and safety.",
+        "🎉 Local Festivals": "If possible, plan your visit around local festivals like Novruz Bayram, which celebrates the Persian New Year. These events offer a unique glimpse into Azerbaijani culture and traditions."
+      },
+      {
+        "_id": "ways_to_get_around",
+        "🚕 Taxis": "Taxis are readily available in Baku and can be hailed on the street or booked via apps. They offer a convenient way to reach your destination, especially if you're traveling with luggage.",
+        "Conclusion": "With a variety of transportation options available, getting around Baku is both easy and enjoyable. Embrace the local transport methods to fully experience the charm of this beautiful city.",
+        "🚌 Shuttle Services": "Airport shuttle services are available for convenient transfers to and from the city center. These services are reliable and can save you time after a long flight.",
+        "Introduction": "Baku, the vibrant capital of Azerbaijan, offers a unique blend of modernity and tradition, making it an exciting destination for travelers. Navigating the city is made easy with a variety of transportation options that cater to different needs and preferences.",
+        "🚇 Metro System": "Baku's metro system is efficient and affordable, providing a quick way to traverse the city. With several lines connecting key areas, it's a popular choice for both locals and tourists.",
+        "🚶 Walking": "Many of Baku's attractions are within walking distance of each other, making it a pedestrian-friendly city. Strolling through the streets allows you to soak in the local culture and architecture.",
+        "🚌 Public Buses": "The public bus network in Baku is extensive and covers most parts of the city. Buses are a cost-effective way to explore, though they can be crowded during peak hours.",
+        "🚤 Water Taxis": "For a unique experience, consider taking a water taxi along the Caspian Sea. This scenic mode of transport offers stunning views of the city skyline and is a fun way to travel.",
+        "🚲 Bicycle Rentals": "Baku has introduced bicycle rental services, allowing visitors to explore the city at their own pace. Cycling is a great way to enjoy the scenic waterfront and parks.",
+        "🚄 Intercity Trains": "If you're planning to explore beyond Baku, intercity trains provide a comfortable and scenic way to travel to other cities in Azerbaijan. They are a great option for day trips.",
+        "🛴 Electric Scooters": "Electric scooters have become a popular mode of transport in Baku, offering a fun and eco-friendly way to navigate the city. They can be rented easily through various apps."
+      }
+    ]
+  }
+}

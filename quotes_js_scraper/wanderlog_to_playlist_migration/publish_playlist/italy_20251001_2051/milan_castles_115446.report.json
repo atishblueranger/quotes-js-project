@@ -1,0 +1,35 @@
+{
+  "job_index": 10,
+  "city": "Milan",
+  "category_used": "castles",
+  "url": "https://wanderlog.com/list/geoCategory/115446",
+  "title": "The 39 best castles in and around Milan",
+  "final_title": "Majestic Castles of Milan: A Journey Through Time",
+  "from_cache": false,
+  "counts": {
+    "meta": 39,
+    "blocks": 39,
+    "merged": 39,
+    "accepted_before_trim": 3,
+    "rejected": 36,
+    "accepted_final": 2
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 25,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\italy_20251001_2051\\milan_castles_115446.json",
+    "report_json": "publish_playlist\\italy_20251001_2051\\milan_castles_115446.report.json"
+  },
+  "created_ts": 1759334311
+}

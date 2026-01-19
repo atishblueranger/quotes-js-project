@@ -1,0 +1,69 @@
+{
+  "playlistTitle": "Seville Castle Trail",
+  "placeName": "Seville",
+  "country": "Spain",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/castles-in-seville/"
+  ],
+  "description": "Sun-drenched steps and orange-scented courtyards: a playlist for wandering Seville's castle trail.",
+  "items": [
+    {
+      "name": "The Real Alcazar",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Palacio de San Telmo",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Alhambra Granada",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Castillo De Niebla",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Castillo De Zahara De La Sierra",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "El Castillo De Olvera",
+      "description": "",
+      "location_hint": "Plaza la Iglesia, s/n, 11690 Olvera, Cádiz, Spain",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Castillo De Sancti Petri",
+      "description": "",
+      "location_hint": "Isla de Sancti Petri,s/n, 11100 San Fernando, Cádiz, Spain",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "_id": "467",
+  "list_id": "467",
+  "imageUrl": "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsNew_images/467/1.jpg",
+  "description": "Dive into \"Unique Destinations Around New Delhi\" — a handpicked list of places with quick notes, links, and essentials for fast trip planning and discovery.",
+  "source_urls": [
+    "https://www.holidify.com/collections/places-to-visit-in-summers-near-delhi",
+    "https://www.holidify.com/collections/places-to-visit-near-delhi-in-december"
+  ],
+  "source": "original",
+  "category": "Travel",
+  "title": "Unique Destinations Around New Delhi",
+  "city_id": "13",
+  "subtype": "destination",
+  "city": "New Delhi",
+  "created_ts": 1756630860,
+  "slug": "unique-destinations-around-new-delhi-new-delhi-destination-ea186a",
+  "subcollections": {
+    "places": [
+      {
+        "_id": "ChIJ3bE_J9SroDkR3MzCk8Oc1Rc",
+        "generalDescription": "Ranikhet, with its cool climate and verdant pine forests, offers a refreshing contrast to Delhi's scorching summer heat. Perched in the Kumaon hills of Uttarakhand, this hill station provides breathtaking views of the snow-clad Himalayan peaks.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 79.4321825,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Ranikhet",
+        "placeId": "ChIJ3bE_J9SroDkR3MzCk8Oc1Rc",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Ranikhet, with its cool climate and verdant pine forests, offers a refreshing contrast to Delhi's scorching summer heat. Perched in the Kumaon hills of Uttarakhand, this hill station provides breathtaking views of the snow-clad Himalayan peaks.",
+        "website": null,
+        "index": 5,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJ3bE_J9SroDkR3MzCk8Oc1Rc/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJ3bE_J9SroDkR3MzCk8Oc1Rc/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJ3bE_J9SroDkR3MzCk8Oc1Rc/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJ3bE_J9SroDkR3MzCk8Oc1Rc/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 29.6433615,
+        "address": "Ranikhet, Uttarakhand 263645, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJDf-QRiGYoDkR3EGXQkQy3Do",
+        "generalDescription": "Bhimtal, nestled in the Kumaon region, is a delightful hill station renowned for its picturesque lake and cool, invigorating climate during the summer months. It offers activities like boating, nature walks, and bird watching.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 79.5519144,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Bhimtal",
+        "placeId": "ChIJDf-QRiGYoDkR3EGXQkQy3Do",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Bhimtal, nestled in the Kumaon region, is a delightful hill station renowned for its picturesque lake and cool, invigorating climate during the summer months. It offers activities like boating, nature walks, and bird watching.",
+        "website": null,
+        "index": 10,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJDf-QRiGYoDkR3EGXQkQy3Do/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJDf-QRiGYoDkR3EGXQkQy3Do/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJDf-QRiGYoDkR3EGXQkQy3Do/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJDf-QRiGYoDkR3EGXQkQy3Do/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 29.346082,
+        "address": "Bhimtal, Uttarakhand 263136, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJDza5FUQFDTkRUzMZgVz8pAA",
+        "generalDescription": "Auli, set amidst the Garhwal Himalayas, offers a perfect respite from Delhi's blazing summer temperatures. Renowned for its panoramic meadows, ski slopes, and breathtaking views of the snow-clad peaks, Auli is a paradise for nature lovers.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 77.0332292,
+        "rating": 4.6,
+        "numRatings": 298,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2330",
+              "day": 0
+            },
+            "open": {
+              "time": "0800",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2330",
+              "day": 1
+            },
+            "open": {
+              "time": "0800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2330",
+              "day": 2
+            },
+            "open": {
+              "time": "0800",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2330",
+              "day": 3
+            },
+            "open": {
+              "time": "0800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2330",
+              "day": 4
+            },
+            "open": {
+              "time": "0800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2330",
+              "day": 5
+            },
+            "open": {
+              "time": "0800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2330",
+              "day": 6
+            },
+            "open": {
+              "time": "0800",
+              "day": 6
+            }
+          }
+        ],
+        "name": "Auli",
+        "placeId": "ChIJDza5FUQFDTkRUzMZgVz8pAA",
+        "internationalPhoneNumber": "+91 87006 89153",
+        "reviews": [
+          {
+            "language": "en",
+            "text": "Fryd momos is very bad 👎 please do not try this it very bad",
+            "author_name": "Rahul Redhu",
+            "relative_time_description": "5 months ago",
+            "time": 1743268628,
+            "author_url": "https://www.google.com/maps/contrib/110508199205291972242/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsNEWiznGukvUkNbQ657osacxL3ErpeDgdP2vWwY2wP5S8jpwz=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "original_language": "en",
+            "translated": false
+          },
+          {
+            "language": "en",
+            "text": "# Staff behaviour very bed.\n# Packaging  very bed.\n# Service also not good.\n# Staff talking rude.\n# In packing material found hair ask them to manager he said esa ho he nahi sakta but mujko pura khana fekna pada.\n# They not provide sauces with food.\n# When anyone take the food to Cary (packing) please check the stuff at the time because they not provide tissu, sauces, spons, etc. and you have ask them tomorrow or day after tomorrow yeah bol denge dala to tha but ho sakta hai bhul gye honge sorry.",
+            "author_name": "JAI KUMAR",
+            "relative_time_description": "a year ago",
+            "time": 1717892448,
+            "author_url": "https://www.google.com/maps/contrib/100411858367603456934/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT_52M60Ctjs35AFI_yQrZLUC6WKvwOPJ0gC76FVH7hf62Y_E=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "original_language": "en",
+            "translated": false
+          },
+          {
+            "language": "en",
+            "text": "Open area seems to be unhealthy 😔\nPrices on the menu are expensive and excluding gst\nNor they are much good to justify their value",
+            "author_name": "Dipanshu Kharadiya",
+            "relative_time_description": "5 months ago",
+            "time": 1741203634,
+            "author_url": "https://www.google.com/maps/contrib/101641651734959218624/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLr_haTcY5GqpTgv8Ldb7kKMxg67IW_DF4OepZ7VtXeoQrixA=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "original_language": "en",
+            "translated": false
+          },
+          {
+            "language": "en",
+            "text": "The best food here! Quality and quantity wise both!!",
+            "author_name": "Arya Verma",
+            "relative_time_description": "6 months ago",
+            "time": 1740750928,
+            "author_url": "https://www.google.com/maps/contrib/105704950034070208923/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpeGPhufAiRxoGqdY8_AFZJyZ9_RDtPGhFW71NY3ZE2-LIa3OT=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "original_language": "en",
+            "translated": false
+          },
+          {
+            "language": "en",
+            "text": "The food is decent and hygienic, but the taste could be better. Service was a bit slow, and the ambiance was good. Overall, a great experience.",
+            "author_name": "Amit Kumar",
+            "relative_time_description": "11 months ago",
+            "time": 1725837524,
+            "author_url": "https://www.google.com/maps/contrib/100342876245824059782/reviews",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvQ27WqeiucRJup4qQateuQm7woat6h5u2bQbn5bxJySDQ_CpY=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 4,
+            "original_language": "en",
+            "translated": false
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Auli, set amidst the Garhwal Himalayas, offers a perfect respite from Delhi's blazing summer temperatures. Renowned for its panoramic meadows, ski slopes, and breathtaking views of the snow-clad peaks, Auli is a paradise for nature lovers.",
+        "website": null,
+        "index": 7,
+        "id": "",
+        "categories": [
+          "establishment",
+          "food",
+          "point_of_interest",
+          "restaurant"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJDza5FUQFDTkRUzMZgVz8pAA/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJDza5FUQFDTkRUzMZgVz8pAA/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJDza5FUQFDTkRUzMZgVz8pAA/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJDza5FUQFDTkRUzMZgVz8pAA/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 28.6179692,
+        "address": "SHOP NO. 58, GROUND FLOOR,BLOCK-B,MAIN SEWAK PARK ROAD, PO, Block C, Sewak Park, Uttam Nagar, New Delhi, Delhi, 110059, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJEXO9Zd9QGzkRENzGALG9CD4",
+        "generalDescription": "Dharamshala, with its sublime backdrop of the Dhauladhar Range, offers a refreshing mountainous escape from the scorching summer heat of the plains. Renowned as the residence of the Dalai Lama, the town intertwines Tibetan culture with colonial charm.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 76.3234037,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Dharamshala",
+        "placeId": "ChIJEXO9Zd9QGzkRENzGALG9CD4",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Dharamshala, with its sublime backdrop of the Dhauladhar Range, offers a refreshing mountainous escape from the scorching summer heat of the plains. Renowned as the residence of the Dalai Lama, the town intertwines Tibetan culture with colonial charm.",
+        "website": null,
+        "index": 2,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJEXO9Zd9QGzkRENzGALG9CD4/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJEXO9Zd9QGzkRENzGALG9CD4/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJEXO9Zd9QGzkRENzGALG9CD4/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJEXO9Zd9QGzkRENzGALG9CD4/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 32.219042,
+        "address": "Dharamshala, Himachal Pradesh, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJEfGTz2c-CTkR_huUb0qAeMw",
+        "generalDescription": "Rishikesh, nestled at the foothills of the Himalayas, offers a serene respite from the sweltering heat of Delhi with its cool river breezes and dense green surroundings. Revered as the 'Yoga Capital of the World', visitors are drawn to its tranquil ashrams.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 78.28530169999999,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Rishikesh",
+        "placeId": "ChIJEfGTz2c-CTkR_huUb0qAeMw",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Rishikesh, nestled at the foothills of the Himalayas, offers a serene respite from the sweltering heat of Delhi with its cool river breezes and dense green surroundings. Revered as the 'Yoga Capital of the World', visitors are drawn to its tranquil ashrams.",
+        "website": null,
+        "index": 1,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJEfGTz2c-CTkR_huUb0qAeMw/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJEfGTz2c-CTkR_huUb0qAeMw/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJEfGTz2c-CTkR_huUb0qAeMw/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJEfGTz2c-CTkR_huUb0qAeMw/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 30.1157619,
+        "address": "Rishikesh, Uttarakhand, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJH9gQiTK3oDkR1Y592F3SEZg",
+        "generalDescription": "Almora, nestled in the lap of the Kumaon hills, offers a refreshing retreat from Delhi's sweltering summer with its cool and pleasant climate. Renowned for its panoramic views of the Himalayas and rich cultural heritage.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 79.646666,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Almora",
+        "placeId": "ChIJH9gQiTK3oDkR1Y592F3SEZg",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Almora, nestled in the lap of the Kumaon hills, offers a refreshing retreat from Delhi's sweltering summer with its cool and pleasant climate. Renowned for its panoramic views of the Himalayas and rich cultural heritage.",
+        "website": null,
+        "index": 13,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJH9gQiTK3oDkR1Y592F3SEZg/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJH9gQiTK3oDkR1Y592F3SEZg/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJH9gQiTK3oDkR1Y592F3SEZg/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJH9gQiTK3oDkR1Y592F3SEZg/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 29.5892407,
+        "address": "Almora, Uttarakhand 263601, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJHQyT-umDBTkR1dCNaHPfflU",
+        "generalDescription": "Kufri, situated amidst the picturesque Himalayas, offers a cool respite from Delhi's summer heat with its invigorating mountain air and lush greenery. The hill station is renowned for its panoramic views and thrilling trekking paths.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 77.26781369999999,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Kufri",
+        "placeId": "ChIJHQyT-umDBTkR1dCNaHPfflU",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Kufri, situated amidst the picturesque Himalayas, offers a cool respite from Delhi's summer heat with its invigorating mountain air and lush greenery. The hill station is renowned for its panoramic views and thrilling trekking paths.",
+        "website": null,
+        "index": 8,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJHQyT-umDBTkR1dCNaHPfflU/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJHQyT-umDBTkR1dCNaHPfflU/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJHQyT-umDBTkR1dCNaHPfflU/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJHQyT-umDBTkR1dCNaHPfflU/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 31.0978583,
+        "address": "Kufri, Himachal Pradesh 171012, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJJwv-3eCIDzkRgdHvm-y28Sw",
+        "generalDescription": "Kasauli, with its colonial-era charm and misty mountain backdrop, provides an idyllic escape from the scorching heat of Delhi's summer. The serene hill station offers peaceful walks and captivating views.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 76.9648753,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Kasauli",
+        "placeId": "ChIJJwv-3eCIDzkRgdHvm-y28Sw",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Kasauli, with its colonial-era charm and misty mountain backdrop, provides an idyllic escape from the scorching heat of Delhi's summer. The serene hill station offers peaceful walks and captivating views.",
+        "website": null,
+        "index": 14,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJJwv-3eCIDzkRgdHvm-y28Sw/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJJwv-3eCIDzkRgdHvm-y28Sw/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJJwv-3eCIDzkRgdHvm-y28Sw/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJJwv-3eCIDzkRgdHvm-y28Sw/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 30.90129,
+        "address": "Kasauli, Himachal Pradesh, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJP9A_FgiHBDkRzXZQvg6oKYE",
+        "generalDescription": "Manali, with its cool alpine climate, offers a refreshing escape from Delhi's scorching summer heat. Nestled amidst the snow-capped peaks of the Himalayas, it provides a plethora of adventure activities and serene landscapes.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 77.1891761,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Manali",
+        "placeId": "ChIJP9A_FgiHBDkRzXZQvg6oKYE",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Manali, with its cool alpine climate, offers a refreshing escape from Delhi's scorching summer heat. Nestled amidst the snow-capped peaks of the Himalayas, it provides a plethora of adventure activities and serene landscapes.",
+        "website": null,
+        "index": 11,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJP9A_FgiHBDkRzXZQvg6oKYE/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJP9A_FgiHBDkRzXZQvg6oKYE/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJP9A_FgiHBDkRzXZQvg6oKYE/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJP9A_FgiHBDkRzXZQvg6oKYE/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 32.2431872,
+        "address": "Manali, Himachal Pradesh, India",
+        "travel_time": "2 hours 50 minutes"
+      },
+      {
+        "_id": "ChIJW9ocps_QCDkRsYUOmH3Ufxk",
+        "generalDescription": "Mussoorie, often referred to as the 'Queen of the Hills,' presents a refreshing escape from Delhi's scorching summer with its cool and temperate climate. The hill station boasts picturesque landscapes with cascading waterfalls and lush green valleys.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 78.081985,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Mussoorie",
+        "placeId": "ChIJW9ocps_QCDkRsYUOmH3Ufxk",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Mussoorie, often referred to as the 'Queen of the Hills,' presents a refreshing escape from Delhi's scorching summer with its cool and temperate climate. The hill station boasts picturesque landscapes with cascading waterfalls and lush green valleys.",
+        "website": null,
+        "index": 3,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJW9ocps_QCDkRsYUOmH3Ufxk/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJW9ocps_QCDkRsYUOmH3Ufxk/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJW9ocps_QCDkRsYUOmH3Ufxk/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJW9ocps_QCDkRsYUOmH3Ufxk/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 30.4547465,
+        "address": "Mussoorie, Uttarakhand, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJYZ39KLyhoDkRs32YFql7rnw",
+        "generalDescription": "Nainital, nestled in the Kumaon foothills of the outer Himalayas, offers a cool and refreshing escape from the scorching summer temperatures of Delhi. The town's emerald-colored Naini Lake provides a picturesque setting and opportunities for boating.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 79.4533773,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Nainital",
+        "placeId": "ChIJYZ39KLyhoDkRs32YFql7rnw",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Nainital, nestled in the Kumaon foothills of the outer Himalayas, offers a cool and refreshing escape from the scorching summer temperatures of Delhi. The town's emerald-colored Naini Lake provides a picturesque setting and opportunities for boating.",
+        "website": "http://www.facebook.com/Nainital",
+        "index": 4,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJYZ39KLyhoDkRs32YFql7rnw/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJYZ39KLyhoDkRs32YFql7rnw/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJYZ39KLyhoDkRs32YFql7rnw/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJYZ39KLyhoDkRs32YFql7rnw/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 29.3924139,
+        "address": "Nainital, Uttarakhand, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJZ25d4-N4BTkRt1Sf__Z_fh8",
+        "generalDescription": "Shimla, the erstwhile summer capital of British India, provides a cool and pleasant escape from Delhi's scorching summer heat. Its colonial-era architecture, winding streets, and the bustling Mall Road offer a blend of nostalgia and modernity.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 77.1639874,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Shimla",
+        "placeId": "ChIJZ25d4-N4BTkRt1Sf__Z_fh8",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Shimla, the erstwhile summer capital of British India, provides a cool and pleasant escape from Delhi's scorching summer heat. Its colonial-era architecture, winding streets, and the bustling Mall Road offer a blend of nostalgia and modernity.",
+        "website": "http://www.hpshimla.gov.in/",
+        "index": 6,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJZ25d4-N4BTkRt1Sf__Z_fh8/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJZ25d4-N4BTkRt1Sf__Z_fh8/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJZ25d4-N4BTkRt1Sf__Z_fh8/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJZ25d4-N4BTkRt1Sf__Z_fh8/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 31.104963,
+        "address": "Shimla, Himachal Pradesh, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJiSkS5bmCCTkRARXWqyxTmCc",
+        "generalDescription": "Lansdowne, with its pristine beauty and colonial charm, provides a perfect respite from Delhi's scorching summer heat. Set amidst the Garhwal hills, this tranquil hill station boasts untouched forests and panoramic views.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 78.6871069,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Lansdowne",
+        "placeId": "ChIJiSkS5bmCCTkRARXWqyxTmCc",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Lansdowne, with its pristine beauty and colonial charm, provides a perfect respite from Delhi's scorching summer heat. Set amidst the Garhwal hills, this tranquil hill station boasts untouched forests and panoramic views.",
+        "website": null,
+        "index": 12,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJiSkS5bmCCTkRARXWqyxTmCc/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJiSkS5bmCCTkRARXWqyxTmCc/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJiSkS5bmCCTkRARXWqyxTmCc/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJiSkS5bmCCTkRARXWqyxTmCc/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 29.8377457,
+        "address": "Lansdowne, Uttarakhand, India",
+        "travel_time": ""
+      },
+      {
+        "_id": "ChIJr4jIVsMpCTkRmYdRMsBiNUw",
+        "generalDescription": "Dehradun, nestled in the Doon Valley, presents a serene escape from Delhi's summer heat with its pleasant temperatures and lush green landscapes. As the gateway to popular hill stations like Mussoorie, it boasts various attractions.",
+        "utcOffset": 330,
+        "maxMinutesSpent": null,
+        "longitude": 78.03219179999999,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Dehradun",
+        "placeId": "ChIJr4jIVsMpCTkRmYdRMsBiNUw",
+        "internationalPhoneNumber": null,
+        "reviews": 0,
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": "Dehradun, nestled in the Doon Valley, presents a serene escape from Delhi's summer heat with its pleasant temperatures and lush green landscapes. As the gateway to popular hill stations like Mussoorie, it boasts various attractions.",
+        "website": "http://www.dehradun.nic.in/",
+        "index": 9,
+        "id": "",
+        "categories": [
+          "locality",
+          "political"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJr4jIVsMpCTkRmYdRMsBiNUw/1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJr4jIVsMpCTkRmYdRMsBiNUw/2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJr4jIVsMpCTkRmYdRMsBiNUw/3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsPlaces/467/ChIJr4jIVsMpCTkRmYdRMsBiNUw/4.jpg"
+        ],
+        "ratingDistribution": {},
+        "minMinutesSpent": null,
+        "latitude": 30.3164945,
+        "address": "Dehradun, Uttarakhand, India",
+        "travel_time": ""
+      }
+    ]
+  }
+}

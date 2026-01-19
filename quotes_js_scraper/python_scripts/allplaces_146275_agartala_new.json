@@ -1,0 +1,1504 @@
+{
+  "_id": "146275",
+  "city_name": "Anjuna",
+  "is_searchable": true,
+  "place_id": 146275,
+  "country_name": "India",
+  "city_name_search": "anjuna",
+  "longitude": 73.74646,
+  "parent_id": 329,
+  "popularity": 1475,
+  "manual_description": null,
+  "subcategory": "city",
+  "state_name": null,
+  "bounds": [
+    73.73201,
+    15.56304,
+    73.76036,
+    15.59355
+  ],
+  "position": {
+    "geohash": "tdu2whkd9",
+    "geopoint": {
+      "latitude": 15.58043,
+      "longitude": 73.74646
+    }
+  },
+  "latitude": 15.58043,
+  "image_key": "BXdFvr2PWrc5JKrkZ46pM5EniCBe9cRF",
+  "depth": 5,
+  "place_description": "Anjuna is a laid-back coastal village on the Arabian Sea in Goa, southwest India. Anjuna Beach, a sandy cove dotted with palms and black rocks, was a well-known destination among hippies in the 1960s. Today it's known for its electronic music trance parties. Each Wednesday, a sprawling flea market sells handicrafts, jewelry and food. North of the beach is St. Anthony's Chapel, an old church with a whitewashed facade.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "329",
+        "subcategory": "municipality",
+        "parentId": 86852,
+        "countryName": "India",
+        "id": 329,
+        "longitude": 73.83094,
+        "bounds": [
+          73.82789,
+          15.63218,
+          73.85037,
+          15.65185
+        ],
+        "latitude": 15.642296,
+        "depth": 4,
+        "stateName": "North Goa District",
+        "popularity": 6806,
+        "name": "Bardez"
+      },
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "India"
+      },
+      {
+        "_id": "86852",
+        "subcategory": "district",
+        "parentId": 86853,
+        "countryName": "India",
+        "id": 86852,
+        "longitude": 73.96357,
+        "bounds": [
+          73.676,
+          15.26838,
+          74.28316,
+          15.80079
+        ],
+        "latitude": 15.492899,
+        "depth": 3,
+        "stateName": null,
+        "popularity": 31204,
+        "name": "North Goa District"
+      },
+      {
+        "_id": "86853",
+        "subcategory": "region",
+        "parentId": 86661,
+        "countryName": "India",
+        "id": 86853,
+        "longitude": 73.89193,
+        "bounds": [
+          73.68408,
+          14.89451,
+          74.34053,
+          15.79992
+        ],
+        "latitude": 15.379227,
+        "depth": 2,
+        "stateName": null,
+        "popularity": 51197,
+        "name": "Goa"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "1444",
+        "subcategory": "city",
+        "parentId": 87199,
+        "countryName": "India",
+        "id": 1444,
+        "longitude": 73.469185,
+        "bounds": [
+          73.4551,
+          16.03831,
+          73.4939,
+          16.08549
+        ],
+        "latitude": 16.062988,
+        "depth": 4,
+        "stateName": "Maharashtra",
+        "popularity": 1375,
+        "name": "Malvan"
+      },
+      {
+        "_id": "1540",
+        "subcategory": "city",
+        "parentId": 86852,
+        "countryName": "India",
+        "id": 1540,
+        "longitude": 74.00903,
+        "bounds": [
+          73.98099,
+          15.37524,
+          74.04056,
+          15.42356
+        ],
+        "latitude": 15.4025,
+        "depth": 4,
+        "stateName": "North Goa District",
+        "popularity": 1399,
+        "name": "Ponda"
+      },
+      {
+        "_id": "1659",
+        "subcategory": "city",
+        "parentId": 87013,
+        "countryName": "India",
+        "id": 1659,
+        "longitude": 73.8169,
+        "bounds": [
+          73.78327,
+          15.36933,
+          73.85092,
+          15.41663
+        ],
+        "latitude": 15.39194,
+        "depth": 4,
+        "stateName": "South Goa District",
+        "popularity": 577,
+        "name": "Vasco da Gama"
+      },
+      {
+        "_id": "1699",
+        "subcategory": "city",
+        "parentId": 87013,
+        "countryName": "India",
+        "id": 1699,
+        "longitude": 73.959076,
+        "bounds": [
+          73.9499,
+          15.2574,
+          74.02347,
+          15.31367
+        ],
+        "latitude": 15.275077,
+        "depth": 4,
+        "stateName": "South Goa District",
+        "popularity": 667,
+        "name": "Margao"
+      },
+      {
+        "_id": "1868",
+        "subcategory": "municipality",
+        "parentId": 86852,
+        "countryName": "India",
+        "id": 1868,
+        "longitude": 73.75379,
+        "bounds": [
+          73.74445,
+          15.55169,
+          73.76388,
+          15.57771
+        ],
+        "latitude": 15.557401,
+        "depth": 4,
+        "stateName": "North Goa District",
+        "popularity": 4055,
+        "name": "Baga"
+      },
+      {
+        "_id": "2084",
+        "subcategory": "city",
+        "parentId": 87013,
+        "countryName": "India",
+        "id": 2084,
+        "longitude": 73.94615,
+        "bounds": [
+          73.93507,
+          15.14185,
+          73.9647,
+          15.19462
+        ],
+        "latitude": 15.174151,
+        "depth": 4,
+        "stateName": "South Goa District",
+        "popularity": 2084,
+        "name": "Cavelossim"
+      },
+      {
+        "_id": "2149",
+        "subcategory": "city",
+        "parentId": 86852,
+        "countryName": "India",
+        "id": 2149,
+        "longitude": 73.7117,
+        "bounds": [
+          73.69625,
+          15.67318,
+          73.74783,
+          15.70448
+        ],
+        "latitude": 15.68656,
+        "depth": 4,
+        "stateName": "North Goa District",
+        "popularity": 1909,
+        "name": "Arambol"
+      },
+      {
+        "_id": "2374",
+        "subcategory": "city",
+        "parentId": 86852,
+        "countryName": "India",
+        "id": 2374,
+        "longitude": 73.80984,
+        "bounds": [
+          73.79178,
+          15.57951,
+          73.83319,
+          15.62364
+        ],
+        "latitude": 15.59745,
+        "depth": 4,
+        "stateName": "North Goa District",
+        "popularity": 353,
+        "name": "Mapusa"
+      },
+      {
+        "_id": "287",
+        "subcategory": "city",
+        "parentId": 86852,
+        "countryName": "India",
+        "id": 287,
+        "longitude": 73.80784,
+        "bounds": [
+          73.78744,
+          15.45145,
+          73.83833,
+          15.50193
+        ],
+        "latitude": 15.45877,
+        "depth": 4,
+        "stateName": "North Goa District",
+        "popularity": 10823,
+        "name": "Panjim"
+      },
+      {
+        "_id": "329",
+        "subcategory": "municipality",
+        "parentId": 86852,
+        "countryName": "India",
+        "id": 329,
+        "longitude": 73.83094,
+        "bounds": [
+          73.82789,
+          15.63218,
+          73.85037,
+          15.65185
+        ],
+        "latitude": 15.642296,
+        "depth": 4,
+        "stateName": "North Goa District",
+        "popularity": 6806,
+        "name": "Bardez"
+      },
+      {
+        "_id": "581",
+        "subcategory": "city",
+        "parentId": 86852,
+        "countryName": "India",
+        "id": 581,
+        "longitude": 73.7649,
+        "bounds": [
+          73.75263,
+          15.5151,
+          73.78752,
+          15.55924
+        ],
+        "latitude": 15.541932,
+        "depth": 4,
+        "stateName": "North Goa District",
+        "popularity": 3285,
+        "name": "Calangute"
+      },
+      {
+        "_id": "86852",
+        "subcategory": "district",
+        "parentId": 86853,
+        "countryName": "India",
+        "id": 86852,
+        "longitude": 73.96357,
+        "bounds": [
+          73.676,
+          15.26838,
+          74.28316,
+          15.80079
+        ],
+        "latitude": 15.492899,
+        "depth": 3,
+        "stateName": null,
+        "popularity": 31204,
+        "name": "North Goa District"
+      },
+      {
+        "_id": "86853",
+        "subcategory": "region",
+        "parentId": 86661,
+        "countryName": "India",
+        "id": 86853,
+        "longitude": 73.89193,
+        "bounds": [
+          73.68408,
+          14.89451,
+          74.34053,
+          15.79992
+        ],
+        "latitude": 15.379227,
+        "depth": 2,
+        "stateName": null,
+        "popularity": 51197,
+        "name": "Goa"
+      },
+      {
+        "_id": "87013",
+        "subcategory": "district",
+        "parentId": 86853,
+        "countryName": "India",
+        "id": 87013,
+        "longitude": 74.09316,
+        "bounds": [
+          73.76791,
+          14.89904,
+          74.33732,
+          15.49128
+        ],
+        "latitude": 15.23303,
+        "depth": 3,
+        "stateName": null,
+        "popularity": 18813,
+        "name": "South Goa District"
+      },
+      {
+        "_id": "87629",
+        "subcategory": "region",
+        "parentId": 87013,
+        "countryName": "India",
+        "id": 87629,
+        "longitude": 73.95785,
+        "bounds": [
+          73.89679,
+          15.13891,
+          74.07403,
+          15.40073
+        ],
+        "latitude": 15.278555,
+        "depth": 4,
+        "stateName": null,
+        "popularity": 2350,
+        "name": "Salcette"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ4c8kAQDpvzsRkdRSwvidlB8",
+        "website": null,
+        "index": 4,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.1,
+        "detail_description": "Curlies Beach Shack is a well-known spot on Anjuna beach that draws in a large number of visitors. It's celebrated for its vibrant atmosphere and offers ample space with a lounge bar, garden restaurant, club zone, and an open sea view platform. The venue hosts popular party nights on Mondays featuring techno music and Thursdays with trance music.\n\nRustic-chic venue on the beach with rooftop seating, offering Goan dishes, cocktails & club nights.",
+        "imageKeys": [
+          "Fh3fCcKL96qvnUL9pkvEACAAzUCeLfCW",
+          "7AJXwUExRr7hB0m5gJ7jkmR9PfMOqTil",
+          "l0TUgRThlm05azkaYqlxt9h8elNWHlCg",
+          "Fh3fCcKL96qvnUL9pkvEACAAzUCeLfCW",
+          "7AJXwUExRr7hB0m5gJ7jkmR9PfMOqTil",
+          "l0TUgRThlm05azkaYqlxt9h8elNWHlCg"
+        ],
+        "ratingCount": 34899,
+        "openingPeriods": [],
+        "excerpt": "Curlies Beach Shack is a well-known spot on Anjuna beach that draws in a large number of visitors. It's celebrated for its vibrant atmosphere and offers ample space with a lounge bar, garden restauran",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4c8kAQDpvzsRkdRSwvidlB8_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4c8kAQDpvzsRkdRSwvidlB8_2.jpg"
+        ],
+        "placeId": "ChIJ4c8kAQDpvzsRkdRSwvidlB8",
+        "name": "Curlies beach shack",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Curlies was a great place to hangout and watch the sunset before and it's even better now that's it's been rebuilt. Seems like the management has changed and the staff are extremely attentive now. Ambience is even better than before with beautiful decks overlooking the beach. Service was great while we were there. The ambience is beautiful and the choice of music makes it even better compared to the competition. Please don't go here expecting gourmet food. Food is decent but the location and the ambience is what makes this place.",
+            "author_name": "Harsh Shah",
+            "relative_time_description": "",
+            "time": 1760536708,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "The best place I have visited in Goa. Next to shiva valley. The ambience is so great and beautiful. The food is tasty and yummy as well. Service is excellent. Good staff behaviour. Sure not to miss this place when u are in Goa. Nice place to spend time . Cafe Antonia in a walkable distance . Best climate in rainy season. The weather is so pleasant.",
+            "author_name": "Lucifer",
+            "relative_time_description": "",
+            "time": 1762675884,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "The food is ok but this place still has the same vibe that it used to have years ago. If ypu are looking for some amazing non bollywood music, then this is the place. I think their in house Dj Sanjay was playing when we visited. He is too good",
+            "author_name": "Ishita Gala",
+            "relative_time_description": "",
+            "time": 1759919847,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Rustic-chic venue on the beach with rooftop seating, offering Goan dishes, cocktails & club nights.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4c8kAQDpvzsRkdRSwvidlB8_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "H.No 779/2 st Michael Vaddo Before Curlies Zululand Cottage, Monteiro Vaddo, Anjuna, Goa 403509, India",
+        "latitude": null,
+        "types": [
+          "Night club"
+        ]
+      },
+      {
+        "_id": "ChIJ56FVYsbpvzsRB6GFWwDiCzc",
+        "website": null,
+        "index": 9,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.2,
+        "detail_description": "Chapora Fort, a centuries-old fortress perched on a headland, offers stunning sunset views over the sea. Visitors can unwind with ayurvedic massages and yoga classes in Goa, known for attracting people from around the world for yoga retreats. For those seeking adventure, water sports and cookery classes are available. The fort, also known as the town of Shah Chapora Fort, was constructed during Portuguese rule in the 17th century and features underground tunnels.\n\nRuined centuries-old fortress on a headland, a popular vantage point for sunsets over the sea.",
+        "imageKeys": [
+          "cQ8HBzsGsKAv3AixR2sXAI520PjpWRZl",
+          "tGPZYSgrZZufuJO7VwAs7aYpU6YH76zX",
+          "jUADDdPKTcXoF23u7srYSIgvoSP5uWM1",
+          "97zJV9N0agMSIh4vSB0rV11ZQUtBcCfK",
+          "7iyocYEdB1MTt6IaN5NAwe2VNSktcZoP",
+          "cQ8HBzsGsKAv3AixR2sXAI520PjpWRZl",
+          "tGPZYSgrZZufuJO7VwAs7aYpU6YH76zX",
+          "jUADDdPKTcXoF23u7srYSIgvoSP5uWM1",
+          "97zJV9N0agMSIh4vSB0rV11ZQUtBcCfK",
+          "7iyocYEdB1MTt6IaN5NAwe2VNSktcZoP"
+        ],
+        "ratingCount": 24980,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Chapora Fort, a centuries-old fortress perched on a headland, offers stunning sunset views over the sea. Visitors can unwind with ayurvedic massages and yoga classes in Goa, known for attracting peopl",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ56FVYsbpvzsRB6GFWwDiCzc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ56FVYsbpvzsRB6GFWwDiCzc_2.jpg"
+        ],
+        "placeId": "ChIJ56FVYsbpvzsRB6GFWwDiCzc",
+        "name": "Chapora Fort",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Beautiful place with a picturesque view of a Arabian Sea. This beach is hardly 2 kms from Chapora Fort. You have to walk uphill to this fort but in the way various small juice shops having chairs are there where you can rest and go. Paid parking available. Prices at the shops here are more or less same as other street shops in Goa. After parking your vehicle, drink one coconut water and then proceed for the fort climb as it really gives you energy.",
+            "author_name": "Shalini Pandey",
+            "relative_time_description": "",
+            "time": 1763515427,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "The coastal defence planning, particularly at an estuary (a place where a river enters the sea)  from the 14th to 15th century onwards, called for the construction of a fort.\nSuch a fort not only offered protection to the coastal areas, but more importantly, it also insulated inland areas from enemy attacks by denying the enemy inland entry through the river. Based on the same doctrine, Chapora Fort is strategically located on a high hill feature on the southern bank of the Chapora estuary.\nFort has an all-around clear view from its commanding height.\nThe complete hillside and the fort are surrounded by lush greenery and look beautiful. The view from the fort is simply amazing.\nFor the fort, full marks for its scenic beauty and the amazing 360-degree view it offers of the surroundings.\nWhat is wrong is the neglect by the civic authorities.\n​Signage giving direction to the fort and to the parking areas is woefully inadequate.​ Parking areas need better management. At the fort itself, the Signage, the information boards are totally faded and can not be read. Fort also needs to be provided with strategically located small gazebo-like shelters where visitors can relax in the shade or be protected from the rain.",
+            "author_name": "PM Velankar",
+            "relative_time_description": "",
+            "time": 1761358870,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Ruins of the fort, calm and beautiful with a great view of the ocean. It can be maintained and cledned a bit more properly. Rest it is all famous for that dil chahta hai pose where that picture can be clicked. Overall a good place to hang out and chill in calmness and silence. Have a very small hike of 5 mins and you're there.",
+            "author_name": "Ayush Attri",
+            "relative_time_description": "",
+            "time": 1763541406,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Ruined centuries-old fortress on a headland, a popular vantage point for sunsets over the sea.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ56FVYsbpvzsRB6GFWwDiCzc_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "Chapora Fort Trail, Vagator, Anjuna, Goa 403509, India",
+        "latitude": null,
+        "types": [
+          "Fortress",
+          "Historical landmark"
+        ]
+      },
+      {
+        "_id": "ChIJ5YSCX4PpvzsRYh1VPt__4rA",
+        "website": "https://www.mypurplemartini.co.in/",
+        "index": 5,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "Purple Martini is a bar and restaurant located near Anjuna beach, offering a diverse menu featuring Continental, Italian, Mediterranean, and North Indian cuisine. Situated on a cliff overlooking the Arabian Sea, this Instagrammable cafe boasts debonair Mediterranean interiors and a wide range of unique cocktails. Visitors can enjoy breathtaking views of the crashing waves at night while indulging in sumptuous dishes from various cuisines.\n\nBar & restaurant by the Arabian Sea, with Continental, Italian, Mediterranean & North Indian fare.",
+        "imageKeys": [
+          "y1yd62DxQzYw1ozdlkfgZ4syO81UhxHF",
+          "pvZPsBkgh6kuRsk5VA1TSwCGdFfNzOZg",
+          "hOKcy6Gg7pROmqplzRpPygjTm5PBjCrU",
+          "aQLMQGrMI7gTabnMi4NevcfFxVrslfNz",
+          "ZtWMOomt0UlLMVmhjNvUaxTLUBGYN4h3",
+          "y1yd62DxQzYw1ozdlkfgZ4syO81UhxHF",
+          "pvZPsBkgh6kuRsk5VA1TSwCGdFfNzOZg",
+          "hOKcy6Gg7pROmqplzRpPygjTm5PBjCrU",
+          "aQLMQGrMI7gTabnMi4NevcfFxVrslfNz",
+          "ZtWMOomt0UlLMVmhjNvUaxTLUBGYN4h3"
+        ],
+        "ratingCount": 26226,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "0100",
+              "day": 1
+            },
+            "open": {
+              "time": "1100",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 2
+            },
+            "open": {
+              "time": "1100",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 3
+            },
+            "open": {
+              "time": "1100",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 4
+            },
+            "open": {
+              "time": "1100",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 5
+            },
+            "open": {
+              "time": "1100",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 6
+            },
+            "open": {
+              "time": "1100",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 0
+            },
+            "open": {
+              "time": "1100",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Purple Martini is a bar and restaurant located near Anjuna beach, offering a diverse menu featuring Continental, Italian, Mediterranean, and North Indian cuisine. Situated on a cliff overlooking the A",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5YSCX4PpvzsRYh1VPt__4rA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5YSCX4PpvzsRYh1VPt__4rA_2.jpg"
+        ],
+        "placeId": "ChIJ5YSCX4PpvzsRYh1VPt__4rA",
+        "name": "Purple Martini",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "I recently had the chance to try their food, and it was absolutely delightful! Saheb assisted us and helped us with the good food recommendations. The pasta was rich, creamy, and perfectly cooked - every bite was bursting with flavor. The onion rings were golden, crispy, and addictive, with just the right amount of crunch without being oily. To top it all off, the sushi was incredibly fresh, beautifully presented, and packed with authentic taste. A perfect combination of dishes that left me fully satisfied. Definitely a place I'd love to come back to!",
+            "author_name": "Prachi Ghag",
+            "relative_time_description": "",
+            "time": 1755524514,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Absolutely loved the place, the vibes, the food, beautiful location and very warm hospitality. 👌🏻👌🏻😀 Aura of the place is v good.\n\nI actually felt the intent of owner is to provide good hospitality to customers.\n\nFrom Milan, to Kevin, to Ajay ..to the chef (sorry forgot his name)., everyone was happily catering to us with a smile. Cannot forget to mention 'Mausam' who took some wonderful pics of us at the Purple Martini. Great team indeed.",
+            "author_name": "Pankaj Jain",
+            "relative_time_description": "",
+            "time": 1758734816,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Purple Martini is truly a hidden gem – the perfect destination for those seeking a scenic view along with a soothing ambiance.\n\nthe iconic seaside view alone is worth the visit, especially when shared with a loved one. Visit to purple martini made our day truly special.\n\nThe food was tasty and well-prepared. We ordered Street-Style Chowmein, Stuffed Tandoori Mushrooms, and Fries with Cheese Sauce – all of which were delicious and tasty.\n\nA standout element of our experience was their Mocktails – beautifully crafted and bursting with flavor. For mocktail lovers, I highly recommend trying the Purple Cooler, Yellow Mellow, and Yellow Jive. Each had its own unique taste and was so much refreshing.\n\nYes, the food and drinks are on the pricier side, but given the seaside location, quality foods, Drinks  and exceptional service by the staff, it feels justified.\n\nA small suggestion for the management – improving the pathway leading to Purple Martini would greatly enhance the overall experience, as the nearby roads are quite rough and another some correction needed on Google maps as last 200 meter distance path is not showing properly to reach destination.\n\nAll in all, Purple Martini offers an unforgettable experience, and I would absolutely recommend it for Goa visitors.",
+            "author_name": "Harish Daswani",
+            "relative_time_description": "",
+            "time": 1759672578,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 87932 42210",
+        "g_description": "Bar & restaurant by the Arabian Sea, with Continental, Italian, Mediterranean & North Indian fare.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ5YSCX4PpvzsRYh1VPt__4rA_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "St. Anthony praise waddo, near club, nyex, Dmello Vaddo, Anjuna, Goa 403509, India",
+        "latitude": null,
+        "types": [
+          "Continental restaurant",
+          "Bar"
+        ]
+      },
+      {
+        "_id": "ChIJDz2o1n7pvzsRlVYVpfwcGg0",
+        "website": null,
+        "index": 7,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "Hill Top Goa is a budget hotel with simple rooms and balconies, set in a tranquil garden. While Goa is renowned for its beaches and nightlife, there's more to explore in this Indian state. The lively psytrance scene at Hilltop in Vagator offers an authentic taste of Goa trance during Sunday night parties. For shopping enthusiasts, the hilltop flea market on Fridays is a must-visit, featuring over 500 stalls, live bands, and DJ music.\n\nDown-to-earth rooms with balconies in a low-key budget hotel featuring a garden.",
+        "imageKeys": [
+          "y6OuLXrfY0ril98I0yErXZr7DVbGhwAJ",
+          "HNmjGlZiS5rdSFev6tugj7cADvbExBRm",
+          "JXkgI9uANVAVUb8008Ipq9RO2f3TlBcy",
+          "ty2CqufNTIxmkaXK5e6DGHANM44x5Gam",
+          "07850KmH5KSDKlJ3oRcydyzlgumM0r3J",
+          "y6OuLXrfY0ril98I0yErXZr7DVbGhwAJ",
+          "HNmjGlZiS5rdSFev6tugj7cADvbExBRm",
+          "JXkgI9uANVAVUb8008Ipq9RO2f3TlBcy",
+          "ty2CqufNTIxmkaXK5e6DGHANM44x5Gam",
+          "07850KmH5KSDKlJ3oRcydyzlgumM0r3J"
+        ],
+        "ratingCount": 6633,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "0300",
+              "day": 1
+            },
+            "open": {
+              "time": "1600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "0300",
+              "day": 6
+            },
+            "open": {
+              "time": "1600",
+              "day": 5
+            }
+          }
+        ],
+        "excerpt": "Hill Top Goa is a budget hotel with simple rooms and balconies, set in a tranquil garden. While Goa is renowned for its beaches and nightlife, there's more to explore in this Indian state. The lively ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDz2o1n7pvzsRlVYVpfwcGg0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDz2o1n7pvzsRlVYVpfwcGg0_2.jpg"
+        ],
+        "placeId": "ChIJDz2o1n7pvzsRlVYVpfwcGg0",
+        "name": "Hill Top Goa",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "I visited Hill Top, Goa during the Royal Enfield\n\nMotoverse 2024 event. The experience was absolutely fantastic! The event itself was well-organized, and the venue played a big part in making it memorable. Hill Top is an excellent location for hosting such large-scale events - spacious, vibrant, and full of energy. The atmosphere was electric, with great lighting, music, and an overall vibe that perfectly matched the Motoverse spirit.\n\nOverall, Hill Top Goa is a perfect venue for connecting and celebrating events like this. Highly recommended for anyone looking for a lively and scenic place in Goa to attend or host events",
+            "author_name": "Ahammad Musafir",
+            "relative_time_description": "",
+            "time": 1762775343,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "There are a lot of vendors with some neat wares. Plenty of food choices too. Good music and a nice vibe. But honestly it's mostly just tourists selling crafts to other tourists. So that was odd. Overall it was a relaxing evening and a good place to visit once.",
+            "author_name": "Noelle McGarvey",
+            "relative_time_description": "",
+            "time": 1741350114,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Attending a party at Hilltop in Goa is an absolute must for anyone who loves electronic music and an electrifying atmosphere. From the moment you step onto the grounds, you're transported to a world of vibrant energy and incredible vibes. The massive, open-air dance floor is surrounded by stunning, colorful neon decor that creates a truly psychedelic ambiance. The music is top-notch, with world-class DJs spinning everything from techno to psytrance, keeping the energy at a high from start to finish. It's a place where you can lose yourself in the music and connect with a diverse crowd of party enthusiasts from all over the globe. The entire experience is a feast for the senses, making it more than just a party-it's a phenomenon. If you're looking for an unforgettable night and a taste of the legendary Goan party scene, Hilltop delivers in spades.",
+            "author_name": "Namaste Netrani",
+            "relative_time_description": "",
+            "time": 1756100224,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 70380 66665",
+        "g_description": "Down-to-earth rooms with balconies in a low-key budget hotel featuring a garden.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDz2o1n7pvzsRlVYVpfwcGg0_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "Hilltop, Ozran Beach Rd, near St. Michael's School, Vagator, Goa 403509, India",
+        "latitude": null,
+        "types": [
+          "Event venue"
+        ]
+      },
+      {
+        "_id": "ChIJK-30SAHqvzsRF30lXa0vWcs",
+        "website": null,
+        "index": 2,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.4,
+        "detail_description": "Calangute Beach is a bustling and popular destination offering a wide range of water sports activities such as boating, water skiing, and parasailing. The area is also dotted with food stalls serving up delicious local cuisine. Visitors can enjoy a comfortable stay at the Radisson Baga Beach Resort, where they can indulge in delectable seafood pizza and chicken malai tikka. The resort's attentive staff ensure a pleasant experience, swiftly addressing any concerns to provide top-notch service.\n\nBig, popular beach with water sports, such as boating, water skiing & parasailing, plus food stalls.",
+        "imageKeys": [
+          "AOK3zwFDHdbMmDW6UzFxHwA1kulNOBRc",
+          "B1ifkZhrwfqRNd9EXf2kiTjFMO6VEoP7",
+          "sf8f3G06o0hg397mNB6lpeBiNO784PLu",
+          "gcvXKFfrUbyh6HUttTv3HWmYP6nHJs9G",
+          "IHeXR9HLCJ604FVQoDCbki1he7XCisWu",
+          "AOK3zwFDHdbMmDW6UzFxHwA1kulNOBRc",
+          "B1ifkZhrwfqRNd9EXf2kiTjFMO6VEoP7",
+          "sf8f3G06o0hg397mNB6lpeBiNO784PLu",
+          "gcvXKFfrUbyh6HUttTv3HWmYP6nHJs9G",
+          "IHeXR9HLCJ604FVQoDCbki1he7XCisWu"
+        ],
+        "ratingCount": 29562,
+        "openingPeriods": [],
+        "excerpt": "Calangute Beach is a bustling and popular destination offering a wide range of water sports activities such as boating, water skiing, and parasailing. The area is also dotted with food stalls serving ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK-30SAHqvzsRF30lXa0vWcs_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK-30SAHqvzsRF30lXa0vWcs_2.jpg"
+        ],
+        "placeId": "ChIJK-30SAHqvzsRF30lXa0vWcs",
+        "name": "Calangute Beach",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Great beach on the North Goa coastline, just after the Baga beach & before Candolim beach. Calangute beach is a clean beach with amazing vast sea view.🤩\n\nSea is here active with continuous waves🌊 pounding on beach shore. Same goes with visitors, its always buzzing. Beach is guaranteed to give you the Goa feel & magic that one would have imagine.\n\nYou will find people of all age groups enjoying sea splash, the view, playing with sand & their food & drink on Shacks 🏖️. Yes the beauty of the North Goa beaches is that the sea & your boozy / soft drink 🍾🥤& yums 🌯are at your reach right on the beach.\nShacks are lined up against the sea to give both views of serenity & party.\n\nCoast guards are placed at intervals to ensure safety & avoid deep intrusion in the sea. Evening time is the best time to visit this beach & it has got everything for all for your peaceful & pleasant time.\n\nAs it gets dark, coast guards start to vacate the visitors away from sea. Found this to be well managed, maintained, safe beach.\n\nCar parking area is available on the approach road on right side 🚗.",
+            "author_name": "Ravi Karavadia",
+            "relative_time_description": "",
+            "time": 1762529016,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "In September this beach is quite empty but that's the plus point as it becomes so peaceful and beautiful. Nice breeze and very much clean. Yuy can spend more time with you sitting at the shore. Very less people come to visit this beach ⛱️ as water sports activities are closed. So if you need some peace, you can definately come to visit.",
+            "author_name": "Gurpreet Singh Travelhead",
+            "relative_time_description": "",
+            "time": 1759220608,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Very nice beach in Goa. Safety seems to be their main focus which is very nice to see. Shopping outside beach is Plenty and you will get similar feels in every shop so no point in haggling\n\nShack seems fine but also overpriced. Parking for bikes are adequate and easy to access",
+            "author_name": "Bharanidaran ramani",
+            "relative_time_description": "",
+            "time": 1760329599,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Big, popular beach with water sports, such as boating, water skiing & parasailing, plus food stalls.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK-30SAHqvzsRF30lXa0vWcs_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "Goa, India, USA",
+        "latitude": null,
+        "types": [
+          "Beach",
+          "Outdoor Activities"
+        ]
+      },
+      {
+        "_id": "ChIJX9OLrXDpvzsRvKW99hRWQmA",
+        "website": "http://thalassaindia.com/",
+        "index": 3,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.2,
+        "detail_description": "Thalassa is an upscale Greek taverna located in Vaddy, Siolim, offering scenic water and sunset views from its outdoor tables shaded by palm trees. The restaurant was established in 2006 by Mariketty Grana and her son Spiro, known for their warm Greek hospitality. Guests can enjoy top-notch services and amenities including complimentary internet access and airport transportation services. The resort also provides complimentary parking for guests with their own mode of transport.\n\nOutdoor tables shaded by palm trees offer scenic water & sunset views at this upscale Greek taverna.",
+        "imageKeys": [
+          "DJAYLF20PfW6hUb1ZpNkhhSG4RHgJNwu",
+          "BA9N4CAxAbjTCFL7tCQ8BNPG5DHJDJiv",
+          "BOHJF3qyZ3GAwt2BjwznqyBXedERSa7L",
+          "NbIGhaETJbBlIp4gDHGKxAHT5DRX4v6R",
+          "7PFlYwHgK9RWHF5kNnoPxSMq68M7knvk",
+          "DJAYLF20PfW6hUb1ZpNkhhSG4RHgJNwu",
+          "BA9N4CAxAbjTCFL7tCQ8BNPG5DHJDJiv",
+          "BOHJF3qyZ3GAwt2BjwznqyBXedERSa7L",
+          "NbIGhaETJbBlIp4gDHGKxAHT5DRX4v6R",
+          "7PFlYwHgK9RWHF5kNnoPxSMq68M7knvk"
+        ],
+        "ratingCount": 38147,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "0100",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "0100",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Thalassa is an upscale Greek taverna located in Vaddy, Siolim, offering scenic water and sunset views from its outdoor tables shaded by palm trees. The restaurant was established in 2006 by Mariketty ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJX9OLrXDpvzsRvKW99hRWQmA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJX9OLrXDpvzsRvKW99hRWQmA_2.jpg"
+        ],
+        "placeId": "ChIJX9OLrXDpvzsRvKW99hRWQmA",
+        "name": "Thalassa",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "📍 Thalassa Goa – Where Every Sunset Turns Into a Celebration | ⭐⭐⭐⭐⭐\n\nThalassa in North Goa isn't just a restaurant-it's an emotion that captures the true essence of Goan celebration. Nestled near Vagator Beach, you don't need an address to find it-just follow the rhythm of laughter, music, and joy that fills the air. The ambiance is spectacular, with stunning sea views, open-air seating, and fairy lights that create a dreamy festive vibe.\n\nEvery evening here feels like a carnival. Asia's finest belly dancers take center stage, while aerial acts and fiery flame shows light up the night sky. Live music flows through the crowd, making it impossible not to sway along. The energy is infectious-vibrant people from around the world come together to celebrate life the Goan way.\n\nBooking in advance is essential; we made our reservation a month ahead for the office season. During peak time, last-minute tables are nearly impossible to get. The price is around ₹2500 per head, fully redeemable on food and drinks-and every penny feels worth it.\n\nThe food is fantastic-Greek and Goan flavors blend perfectly-and the cocktails are pure art.\n\nThalassa doesn't just serve meals; it serves memories you'll cherish forever. 🌅🍹💃",
+            "author_name": "Abhinav Shukla",
+            "relative_time_description": "",
+            "time": 1760260535,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "So they have cover charges and you can feel it to be new caste system - but then who's not doing it. Food was ok..nothing special. Service was good, waiters were receptive and fulfilled the order in decent time.\nComing to atmosphere - yup performances were great, a lot of Instagram worthy stuff",
+            "author_name": "rohit jain",
+            "relative_time_description": "",
+            "time": 1758873374,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Our evening at Thalassa turned out really good, but the start was quite frustrating. The person who seated us wasn't in uniform and looked more like a random guest than staff. He made us wait almost 20–30 minutes, and then took us to a table squeezed in between two others. It felt very uncomfortable, especially when you're paying 8–9k for a night out. When we asked for a better spot, his reply was “be open minded” – honestly not the kind of response you'd expect. After a lot of back and forth, he finally gave us a proper table, which was much better.\n\nFrom there, things picked up. The food was tasty (a little overpriced, but that's expected here), and the live show was absolutely fantastic. Great music, amazing performances, and the male belly dancer really stole the show, he was the star of the night!\n\nSo yeah, a rocky start but in the end we had a memorable evening.",
+            "author_name": "Razik Abdul",
+            "relative_time_description": "",
+            "time": 1757185123,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+91 98500 33537",
+        "g_description": "Outdoor tables shaded by palm trees offer scenic water & sunset views at this upscale Greek taverna.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJX9OLrXDpvzsRvKW99hRWQmA_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "Angel Apartments, 301/1, Vaddy, Siolim, Goa 403517, India",
+        "latitude": null,
+        "types": [
+          "Greek restaurant",
+          "Restaurant"
+        ]
+      },
+      {
+        "_id": "ChIJ_96h2BzqvzsR4ME17sBmcLo",
+        "website": null,
+        "index": 0,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.4,
+        "detail_description": "Baga Beach is a bustling and vibrant area in Goa, known for its lively nightlife and exciting holiday atmosphere. Located about 10 kilometers west of Mapusa, it offers a festive experience with water sports, eateries, bars, and nightspots. The Saturday Night Market at Baga Beach is a popular shopping destination with colorful displays and lights. The beach is lined with beach shacks and restaurants serving delicious Goan delicacies.\n\nBusy beach & recreation area with water sports, eateries, bars, nightspots & a festive atmosphere.",
+        "imageKeys": [
+          "wDc6XUmkmprZTfjcItEL1KCFQWodXqQd",
+          "63KE2betJtxhUscN9zFX5htCSyquBGsF",
+          "4tQMoEFmVGrDZXLUvOpLCyMtjicBLDEU",
+          "xy3HeVXWLCFsWqIkNDWbiuoXzpByJolk",
+          "OZ9cHwj2FV6nRATROYQGPs0GcwEgzPvP",
+          "wDc6XUmkmprZTfjcItEL1KCFQWodXqQd",
+          "63KE2betJtxhUscN9zFX5htCSyquBGsF",
+          "4tQMoEFmVGrDZXLUvOpLCyMtjicBLDEU",
+          "xy3HeVXWLCFsWqIkNDWbiuoXzpByJolk",
+          "OZ9cHwj2FV6nRATROYQGPs0GcwEgzPvP"
+        ],
+        "ratingCount": 40922,
+        "openingPeriods": [],
+        "excerpt": "Baga Beach is a bustling and vibrant area in Goa, known for its lively nightlife and exciting holiday atmosphere. Located about 10 kilometers west of Mapusa, it offers a festive experience with water ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ_96h2BzqvzsR4ME17sBmcLo_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ_96h2BzqvzsR4ME17sBmcLo_2.jpg"
+        ],
+        "placeId": "ChIJ_96h2BzqvzsR4ME17sBmcLo",
+        "name": "Baga Beach",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Nice well maintained beach connected with Calangute beach. Good for family to have fun in beach and play in water. Many beach front restaurant and rest chairs available for drink lovers.",
+            "author_name": "Ravi Naik",
+            "relative_time_description": "",
+            "time": 1759311551,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Visited the beach at night and it was spectacular. They have multiple beachfront restaurants and clean and well maintained surroundings.\nThey have placed beautiful night lights decorations to make beach look good for night life. Only downside was 500rs for parking at night which was ripoff.",
+            "author_name": "Akashsingh Sisodiya",
+            "relative_time_description": "",
+            "time": 1751030061,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 2,
+            "text": "Beautiful and white sand beach.. and surprisingly clean ❤️ good for families ❤️ crowded in evenings ❤️ lots of shacks ❤️ Difficult to see the complete sunset which is so beautiful and clearly visible in some other beaches of Goa.",
+            "author_name": "Nikhil Shingi",
+            "relative_time_description": "",
+            "time": 1756817787,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Busy beach & recreation area with water sports, eateries, bars, nightspots & a festive atmosphere.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ_96h2BzqvzsR4ME17sBmcLo_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "Goa, India, USA",
+        "latitude": null,
+        "types": [
+          "Beach",
+          "Outdoor Activities"
+        ]
+      },
+      {
+        "_id": "ChIJmQGrEY_pvzsRof_MwgLMd9c",
+        "website": "http://joebanana.net/",
+        "index": 8,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.4,
+        "detail_description": "Anjuna Beach, located in North Goa, is a popular destination known for its stunning natural beauty and white sandy shores. It offers a range of activities such as parasailing, jet skiing, banana boat rentals, bungee jumping from an 80-foot tower, paragliding, and windsurfing. The beach is famous for its full moon beach parties during New Year and Christmas and attracts both domestic and foreign tourists.\n\nPopular tourist beach providing activities such as parasailing, jet ski & banana boat rentals.",
+        "imageKeys": [
+          "meBkx6lUW0yTNS0vVLYHO0SgFfRIUgeX",
+          "cJRhtCVKaLjBCgpOV7qb59qQevaWzQk5",
+          "OPQqnTqnyFuSHgsJkdJJskydZ3LaD9P7",
+          "SDLJ43Cix3xG2JAsr5cQjv9DZ3t2mZaI",
+          "IAO1lc1dYBQAFCbuzSOecALsiWPaMtLF",
+          "meBkx6lUW0yTNS0vVLYHO0SgFfRIUgeX",
+          "cJRhtCVKaLjBCgpOV7qb59qQevaWzQk5",
+          "OPQqnTqnyFuSHgsJkdJJskydZ3LaD9P7",
+          "SDLJ43Cix3xG2JAsr5cQjv9DZ3t2mZaI",
+          "IAO1lc1dYBQAFCbuzSOecALsiWPaMtLF"
+        ],
+        "ratingCount": 20791,
+        "openingPeriods": [],
+        "excerpt": "Anjuna Beach, located in North Goa, is a popular destination known for its stunning natural beauty and white sandy shores. It offers a range of activities such as parasailing, jet skiing, banana boat ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmQGrEY_pvzsRof_MwgLMd9c_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmQGrEY_pvzsRof_MwgLMd9c_2.jpg"
+        ],
+        "placeId": "ChIJmQGrEY_pvzsRof_MwgLMd9c",
+        "name": "Anjuna Beach",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Anjuna Beach!!!\n\nLovely beach, good vibes\nU will find good beach shacks\nU can enjoy sunset here\nClean water,\nU will find shells, colorful stones, pebbles here, u can take it home for memories\nGood place to enjoy sunset and party !!!",
+            "author_name": "Amit Gupta",
+            "relative_time_description": "",
+            "time": 1760510176,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Great beach to enjoy a peaceful evening and stunning sunset views. The waves come very close to the shore, which makes it scenic but not very safe for swimming. Best time to visit is during pleasant weather, as it's not recommended in the monsoon due to strong tides. Perfect for sunset photography, relaxing walks, and soaking in the coastal vibes.",
+            "author_name": "Hardik Virda",
+            "relative_time_description": "",
+            "time": 1758033142,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "I recently visited this beach with the hope of enjoying a relaxing day by the sea, but unfortunately, the experience turned out to be quite disappointing for several reasons.\n\nThe beach feels extremely congested. The number of shacks, restaurants, and bars set up right along the shoreline leaves very little open space to actually enjoy the beach or its views. There's hardly any breathing room, and it's difficult to find a peaceful spot to sit and relax. It seems like every inch of the beach is commercialized, which seriously takes away from the natural charm and openness you'd typically expect at a beach.\nAnother downside was the constant pestering from locals trying to sell water sports activities. While it's understandable that water sports are a part of the beach economy, it becomes frustrating when you're approached every few minutes, even after politely declining. It really disrupts the peace and makes it hard to enjoy your time.\nMost of the restaurants and beach shacks are quite overpriced, especially for the quality and portion size offered. Even basic refreshments or snacks are charged at premium rates, which seems to be targeting tourists rather than offering fair value. If you're planning to spend a day here, be prepared for high prices without necessarily getting a premium experience.",
+            "author_name": "Ganesh Bhogale",
+            "relative_time_description": "",
+            "time": 1759321160,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Popular tourist beach providing activities such as parasailing, jet ski & banana boat rentals.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJmQGrEY_pvzsRof_MwgLMd9c_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "Anjuna, Goa 403509, India, USA",
+        "latitude": null,
+        "types": [
+          "Beach",
+          "Outdoor Activities"
+        ]
+      },
+      {
+        "_id": "ChIJre0TBeXBvzsRCFIKrqYq3oY",
+        "website": null,
+        "index": 6,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.4,
+        "detail_description": "Baba Au Rhum in Anjuna, Goa is a charming cafe nestled amidst nature, offering a perfect setting for a cozy date or casual hangout. The thatched roof and lush trees create a lively ambiance, making it an ideal spot to enjoy thin-crust pizzas, craft beer, crispy chicken, puttanesca pasta, caprese salad, hamburger and Mexican pizza. This popular joint also serves wholesome smoothies and custom English breakfast options.\n\nThin-crust pizzas & craft beer served up in this casual cafe with outdoor seating under trees.",
+        "imageKeys": [
+          "E6sHmBcMcCrEOBJ4PvtYWWmd1HMJexii",
+          "qvKvawwzYwD45xCJWyhXeYKmMSrI2O5j",
+          "uen41R9r0NxNHEHxooWo4gTyzx4Hvmta",
+          "cBdCFjEByw3EGHhK6chEHi8F3cHhcznt",
+          "esqPTdDticJF9bVYrib9PqTXnmqKwfrh",
+          "E6sHmBcMcCrEOBJ4PvtYWWmd1HMJexii",
+          "qvKvawwzYwD45xCJWyhXeYKmMSrI2O5j",
+          "uen41R9r0NxNHEHxooWo4gTyzx4Hvmta",
+          "cBdCFjEByw3EGHhK6chEHi8F3cHhcznt",
+          "esqPTdDticJF9bVYrib9PqTXnmqKwfrh"
+        ],
+        "ratingCount": 13946,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 0
+            },
+            "open": {
+              "time": "1800",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 1
+            },
+            "open": {
+              "time": "1800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 3
+            },
+            "open": {
+              "time": "1800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 4
+            },
+            "open": {
+              "time": "1800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 5
+            },
+            "open": {
+              "time": "1800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 6
+            },
+            "open": {
+              "time": "1800",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Baba Au Rhum in Anjuna, Goa is a charming cafe nestled amidst nature, offering a perfect setting for a cozy date or casual hangout. The thatched roof and lush trees create a lively ambiance, making it",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJre0TBeXBvzsRCFIKrqYq3oY_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJre0TBeXBvzsRCFIKrqYq3oY_2.jpg"
+        ],
+        "placeId": "ChIJre0TBeXBvzsRCFIKrqYq3oY",
+        "name": "Baba Au Rhum, Anjuna",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Baba Au Rhum in Goa 🥐🍳 is one of the best places for a perfect breakfast! Their Eggs Benedict is absolutely delicious - rich, flavorful, and cooked to perfection 😋. The sandwiches 🥪 are fresh, hearty, and made with high-quality ingredients. The vibe here is so relaxed and inviting 🌿✨, with a charming outdoor setting that makes it a joy to sit back and enjoy your meal. An amazing spot to start your day with great food, coffee ☕, and peaceful surroundings. Highly recommended for breakfast lovers visiting Goa!",
+            "author_name": "Anee Vatsal Kapadia",
+            "relative_time_description": "",
+            "time": 1759770546,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Well, this was the second time we went for a brunch. The croissants chicken sandwich never ever disappoints! Tried another sandwich with bagel but that was too chewy and hard. Had one of the best chicken Caesar salad! Always have a great start of the day whenever in Goa",
+            "author_name": "digangana pathak",
+            "relative_time_description": "",
+            "time": 1759574688,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "We recently visited Baba Ru Rhum, and it was an amazing experience. The place has cool, vibrant vibes with great music that perfectly complements the atmosphere. The food was delicious - definitely the highlight of our visit. Though we had to wait around 30 minutes for a table, it was absolutely worth it. The restaurant is usually crowded, which clearly shows how popular it is. A must-visit spot for anyone looking for good food and good vibes in one place!",
+            "author_name": "Divya Thakur",
+            "relative_time_description": "",
+            "time": 1761185656,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+91 98228 66366",
+        "g_description": "Thin-crust pizzas & craft beer served up in this casual cafe with outdoor seating under trees.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJre0TBeXBvzsRCFIKrqYq3oY_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "Sim Vaddo, House No. 1054, Anjuna, Goa 403509, India",
+        "latitude": null,
+        "types": [
+          "European restaurant",
+          "Bakery",
+          "Bar",
+          "Breakfast restaurant",
+          "Coffee store",
+          "Pizza restaurant",
+          "Restaurant"
+        ]
+      },
+      {
+        "_id": "ChIJv9F7IjzBvzsR70r6HmyML_o",
+        "website": null,
+        "index": 1,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1595413/top-things-to-do-and-attractions-in-anjuna",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "Candolim Beach is a popular destination in Goa known for its sandy shore, stunning sunset views, and exciting activities. Visitors can enjoy parasailing and indulge in delicious seafood and North Indian or Chinese dishes at Ryans Shack, which offers both indoor and outdoor seating. The beach is famous for its vibrant nightlife with beachside parties and dynamic clubs like SinQ Beach Club, Bar Eclipse, and Love Passion Karma (LPK).\n\nSunset views & parasailing on a sandy shore with shacks for beer & seafood, plus a nearby market.",
+        "imageKeys": [
+          "i1B1A0N9eYTvjHPAcrqywrIk88m3ic4x",
+          "Ly5VWek1FF8TnJVPT6oQ6FalObNxe7t8",
+          "lctqS211Cp85E6Na8PaXmm9v3BWZFZR3",
+          "QMbCcaqQvVBxnUOCMlqxnLD7nGt4BLFc",
+          "DvAZCcjdWkZdJjJpngHKzV3ZV0YPx996",
+          "i1B1A0N9eYTvjHPAcrqywrIk88m3ic4x",
+          "Ly5VWek1FF8TnJVPT6oQ6FalObNxe7t8",
+          "lctqS211Cp85E6Na8PaXmm9v3BWZFZR3",
+          "QMbCcaqQvVBxnUOCMlqxnLD7nGt4BLFc",
+          "DvAZCcjdWkZdJjJpngHKzV3ZV0YPx996"
+        ],
+        "ratingCount": 43080,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Candolim Beach is a popular destination in Goa known for its sandy shore, stunning sunset views, and exciting activities. Visitors can enjoy parasailing and indulge in delicious seafood and North Indi",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv9F7IjzBvzsR70r6HmyML_o_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv9F7IjzBvzsR70r6HmyML_o_2.jpg"
+        ],
+        "placeId": "ChIJv9F7IjzBvzsR70r6HmyML_o",
+        "name": "Candolim Beach",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Candolim Beach is one of the best beaches in Goa and I had a really good experience visiting here. The beach is clean, peaceful, and less crowded compared to some other popular beaches. The golden sand and calming waves make it a perfect place to relax and enjoy.",
+            "author_name": "Pradip Kadam",
+            "relative_time_description": "",
+            "time": 1759032227,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "• Candolim Beach is truly beautiful & serene compared to the more crowded beaches of Goa.\n• With its golden-white sands & blue-green waters, it's a perfect spot to relax, unwind & enjoy some fun beach activities.\n• The beach is clean, peaceful & offers a calm vibe away from the hustle & bustle.",
+            "author_name": "Ketaki Goraksha",
+            "relative_time_description": "",
+            "time": 1760085340,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Very very very pretty beach. Loved it. Went at the sunrise time so it was not crowded. Great place to take beachy pictures. But I'll recommend to visit during sunset time to view the sunset. Overall it was a very good morning.",
+            "author_name": "Christina Amolik",
+            "relative_time_description": "",
+            "time": 1761046740,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Sunset views & parasailing on a sandy shore with shacks for beer & seafood, plus a nearby market.",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJv9F7IjzBvzsR70r6HmyML_o_1.jpg",
+        "country": "",
+        "city": "Anjuna",
+        "address": "Candolim Beach Rd, Candolim, Goa 403515, India",
+        "latitude": null,
+        "types": []
+      }
+    ]
+  }
+}

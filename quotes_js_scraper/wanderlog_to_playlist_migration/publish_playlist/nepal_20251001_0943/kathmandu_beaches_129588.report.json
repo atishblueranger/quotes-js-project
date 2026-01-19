@@ -1,0 +1,35 @@
+{
+  "job_index": 1,
+  "city": "Kathmandu",
+  "category_used": "free attractions",
+  "url": "https://wanderlog.com/list/geoCategory/129588",
+  "title": "The 18 best free attractions in Kathmandu",
+  "final_title": "Discover Kathmandu's Hidden Gems for Free",
+  "from_cache": false,
+  "counts": {
+    "meta": 18,
+    "blocks": 18,
+    "merged": 18,
+    "accepted_before_trim": 4,
+    "rejected": 14,
+    "accepted_final": 3
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 7,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\nepal_20251001_0943\\kathmandu_beaches_129588.json",
+    "report_json": "publish_playlist\\nepal_20251001_0943\\kathmandu_beaches_129588.report.json"
+  },
+  "created_ts": 1759292374
+}

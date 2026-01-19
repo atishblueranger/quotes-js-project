@@ -1,3 +1,10 @@
+
+"""
+Below script extracts popular searched categories for each city on Wanderlog.
+It uses Scrapy-Selenium to load the searchedCategories page and scroll to load more cities.
+Each city is then scraped for its name and link.
+"""
+
 import scrapy
 from scrapy_selenium import SeleniumRequest
 

@@ -1,0 +1,5742 @@
+[
+    {
+        "placeId": "ChIJu6CRTo0k1xIR5AfY7kUibMI",
+        "website": "http://www.lecafedelaplage.com/",
+        "index": 1,
+        "utcOffset": 120,
+        "longitude": 8.580623,
+        "latitude": 42.207857,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Nestled on the western coast of Piana, along the stunning plage d'Arone, known for its pristine white sands and turquoise waters, is Le Café de la Plage. This beachfront restaurant exudes a relaxed atmosphere and offers upscale Mediterranean cuisine with local Corsican flavors. The rustic driftwood-style decking and furniture perfectly complement the beachside setting. Guests can unwind in warm couches or canopy beds facing the sea, making it an ideal spot for relaxation.",
+        "imageKeys": [
+            "cvhxMWWuzsauIZ2L9THrwx60hKiyFFt1",
+            "flMTjcrBLiSqfTWwD3Yl7atKSnLGFZV1",
+            "LvWwy02oOVwxO0Vg8rJ1r5p6MYSzmsKd",
+            "AEJ9EyLklsS51t8FsJMoFDYlMB1ab82T"
+        ],
+        "ratingCount": 952,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Le café de la plage",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 20 17 27",
+        "address": "de la Plage d'arone, 20115 Piana, France",
+        "types": [
+            "Restaurant",
+            "French restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 55,
+                "2": 27,
+                "3": 45,
+                "4": 145,
+                "5": 685
+            }
+        }
+    },
+    {
+        "placeId": "ChIJUyZ-gj5_2RIRYopVTIMmUGY",
+        "website": "http://www.usantamarina.com/",
+        "index": 2,
+        "utcOffset": 120,
+        "longitude": 9.280595,
+        "latitude": 41.53094,
+        "rating": 4.4,
+        "excerpt": "Formal dining room for artful contemporary dishes, plus beach tables for casual waterside meals.",
+        "detail_description": "U Santa Marina is a versatile dining spot offering both formal indoor dining with artful contemporary dishes and casual beachside tables for a more relaxed experience. The restaurant provides a diverse culinary experience, featuring fresh local seafood and seasonal produce. With its beautiful terrace, U Santa Marina offers guests the opportunity to enjoy delicious meals in a picturesque seaside setting. Whether you prefer an elegant gastronomic meal or a laid-back beachside bar experience, this establishment caters to various dining preferences.",
+        "imageKeys": [
+            "6pZC5UGGP5YY8FIK6pBo0c7HtM3CoAUO",
+            "3BlhCt4fmNs0wnmV8KFhmJlqq42kKSfg",
+            "YHFU1gnPO1cuRZSn9yQ3H3gpc1rvw5NG"
+        ],
+        "ratingCount": 1192,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "U Santa Marina",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+33 4 95 70 45 00",
+        "address": "Marina Di, 20137 Porto-Vecchio, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 61,
+                "2": 47,
+                "3": 57,
+                "4": 193,
+                "5": 857
+            }
+        }
+    },
+    {
+        "placeId": "ChIJWy46eY1p2hIRZGNbvLBntFk",
+        "website": "https://www.anepita.fr/",
+        "index": 3,
+        "utcOffset": 120,
+        "longitude": 8.737337,
+        "latitude": 41.925402,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "A Nepita is a cozy restaurant in Ajaccio, offering traditional Corsican cuisine with a contemporary twist. Run by British chef Simon Andrews and his wife Roberta, the restaurant surprises diners with a different menu each day based on seasonal ingredients. The establishment is conveniently located in the city center near the peaceful Place Abbatucci. Despite being situated in a touristy area, A Nepita stands out for its authentic and high-quality Corsican dishes.",
+        "imageKeys": [
+            "I46SadnWRRABTvveorztonR0vC8roNvw",
+            "lyrDYZ2aQ3LHtHAjRU3DHtPbi8DSaYsu",
+            "yQqCdl9Fc2zrRTPLxPMUPXHDmgz3VPCx",
+            "3NJpgTKoVcV8PXcIdkXLijsw2dFzkEPV"
+        ],
+        "ratingCount": 641,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "A NEPITA",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 26 75 68",
+        "address": "4 Rue San Lazaro, 20000 Ajaccio, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 4,
+                "3": 20,
+                "4": 67,
+                "5": 540
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ2wsk0IjE0BIRKktuS_IrR2A",
+        "website": "https://m.facebook.com/p/Bodega-Ile-Rousse-Restaurant-Cocktails-100062988263656/",
+        "index": 4,
+        "utcOffset": 120,
+        "longitude": 8.937661,
+        "latitude": 42.636135,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Nestled in the heart of Bonifacio, La Bodega stands out as a gem that captures the essence of Corsican cuisine without falling into the tourist trap category. This charming eatery offers a delightful array of traditional dishes, including their popular \"assiette degustation,\" which features an enticing selection of meats, lasagna, and local specialties like Bonifacio-style aubergine. The ambiance is inviting and cozy, making it one of the top spots for both dining and cocktails in town.",
+        "imageKeys": [
+            "X2nngALVEzDmKj0W75362PU6Rug5ya0G",
+            "pNcoq9dzPd9nxeTSL2RZ9XYhakMXTLTx",
+            "V9TESU8kO7DxTpqeFY7Zt5W6M12Zs8Sj",
+            "pCr3ZZNxp6SszQrjZxnqkyfhpuZJ1qCL"
+        ],
+        "ratingCount": 447,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0130"
+                }
+            }
+        ],
+        "name": "La Bodega",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 33 20 97",
+        "address": "7 Rue Napoléon, 20220 L'Île-Rousse, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 17,
+                "2": 12,
+                "3": 22,
+                "4": 76,
+                "5": 317
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ90A7VJ5q2hIRg7_rn6Hc_QI",
+        "website": null,
+        "index": 5,
+        "utcOffset": 120,
+        "longitude": 8.810926,
+        "latitude": 41.899805,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Le Piano chez Toinou is a delightful Mediterranean restaurant nestled in the vibrant town of Porticcio, just a short stroll from the beach. Known for its pristine white sandy shores and breathtaking ocean vistas, this charming spot offers an inviting atmosphere with tiled floors and rustic stone walls. Guests can enjoy their meals on a cozy covered terrace, perfect for unwinding after a day in the sun.",
+        "imageKeys": [
+            "20RJl0xbPiWvBicwoXA93K0RmkADb2Jh",
+            "5wZDG2N8hkYTBrjAwUHwAxg5nEE2DxBf",
+            "M0UZX8pakBqA3rKr4lwfhKI8evd30qRZ"
+        ],
+        "ratingCount": 483,
+        "openingPeriods": [],
+        "name": "restaurant le piano chez toinou",
+        "permanentlyClosed": true,
+        "priceLevel": 2,
+        "phone": null,
+        "address": "Les Candilelli, 20166 Grosseto-Prugna, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 2,
+                "3": 13,
+                "4": 51,
+                "5": 411
+            }
+        }
+    },
+    {
+        "placeId": "ChIJq3W-Rqpx2hIRF4c9tHXvJWU",
+        "website": "http://www.lesantana.fr/",
+        "index": 6,
+        "utcOffset": 120,
+        "longitude": 8.707924,
+        "latitude": 42.100925,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Nestled along the stunning coastline of Sagone, Restaurant Le Santana is a culinary gem that promises an unforgettable dining experience. With its elegantly lit interior and charming beachside kiosk, guests can savor exquisite dishes while soaking in breathtaking views of the Gulf. The menu features delightful options such as Finger foie gras paired with Muscat Corse, succulent Blanquette of cuttlefish, and rich Scallop risotto.",
+        "imageKeys": [
+            "ELgDvcCvywEafXbEPyLxG7DuFgNHMTZ0",
+            "7Iij4FRgQoTUxFSRr98MKWir4KUuFVAP",
+            "x2Bk5D8Ui3nd4NHsFKWqzcZWVinkpObr"
+        ],
+        "ratingCount": 1481,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Le Santana",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 74 02 03",
+        "address": "Plage du Santana, 20118, France",
+        "types": [
+            "French restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 34,
+                "2": 18,
+                "3": 42,
+                "4": 209,
+                "5": 1182
+            }
+        }
+    },
+    {
+        "placeId": "ChIJL1rxI_Jp2hIRdfEZJGRtkqw",
+        "website": null,
+        "index": 7,
+        "utcOffset": 120,
+        "longitude": 8.738782,
+        "latitude": 41.918603,
+        "rating": 4.3,
+        "excerpt": null,
+        "detail_description": "Le Bilboq \"Chez Jean-Jean\" is a restaurant located at 1 Rue des Glacis, 20000 Ajaccio, France. It's known for its one-dish wonder featuring fresh-caught langouste (spiny lobster), served in the simplest and most delicious way. The restaurant is only open when the lobsters are in season and offers this delightful dish at a price of around 80 euros per person.",
+        "imageKeys": [
+            "sblB7ngYsSqyP2MaBbbppGkf7QtaXIfe",
+            "J6LrFtp4ybjjfb0M49oAwDiNe6QuZdh7"
+        ],
+        "ratingCount": 285,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Le Bilboq \"Chez jean-Jean\"",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 51 35 40",
+        "address": "1 Rue des Glacis, 20000 Ajaccio, France",
+        "types": [
+            "Restaurant",
+            "French restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 24,
+                "2": 8,
+                "3": 12,
+                "4": 44,
+                "5": 198
+            }
+        }
+    },
+    {
+        "placeId": "ChIJc2xzr4mB2RIRnQxpnCwIiAU",
+        "website": "http://www.playabaggia.com/",
+        "index": 8,
+        "utcOffset": 120,
+        "longitude": 9.318621,
+        "latitude": 41.553984,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Playa Baggia is a popular beach restaurant located at Palombaggia beach in the south-eastern coast of Corsica. Known for its stunning views and fresh fish dishes, it's advisable to make reservations well in advance. The restaurant offers fantastic salads, including the highly recommended chicken caesar, perfect for a sunny day by the sea.",
+        "imageKeys": [
+            "ZO8QEOB0imEkco3yCb6Ku1GpqNz0CFo9",
+            "kerfRawJhM70eZVDSbC8iMsqx7wyj2JC",
+            "T9V3eBgbNEFKmeCNQlcvpp65foUR3gc4",
+            "WynDal7I3f60BC89kXAH7pIHVgsn0tVq",
+            "jFGNyC6rXwe7dipH4uiXJYk4ACdkVzBI"
+        ],
+        "ratingCount": 2097,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Playa Baggia",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 6 23 43 27 63",
+        "address": "Place de Palombaggia, Lieut dit Tamaricciu, 20137 Porto-Vecchio, France",
+        "types": [
+            "Restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 69,
+                "2": 47,
+                "3": 75,
+                "4": 345,
+                "5": 1582
+            }
+        }
+    },
+    {
+        "placeId": "ChIJE8u5DGOC2RIRbTQKodYrtZo",
+        "website": "https://www.tamaricciu.com/",
+        "index": 9,
+        "utcOffset": 120,
+        "longitude": 9.318165,
+        "latitude": 41.553447,
+        "rating": 4.3,
+        "excerpt": "Pizza, lobster & fish, plus cocktails & tapas, at a beachfront spot with deckchair rentals.",
+        "detail_description": "Tamaricciu is a picturesque beach known for its pristine sands and clear waters, located in the southern part of Corsica. It can be reached by walking from Palombaggia beach or by following a path from the coast road. The beach offers deckchair rentals and features beachfront restaurants serving delectable dishes such as pizza, lobster, fish, and tapas along with refreshing cocktails.",
+        "imageKeys": [
+            "Hc6BqZzWwZfDSoamRuOeFMnS3Ku633ms",
+            "F4DFGoDL2LrEPYACRBtVFpLSUcIoSGEq",
+            "xXZdLMzifVusz3pj3d8vCZKqSRI5EZgS",
+            "NmV9Awkybwo9oDyCKaj80mX9EyN6sd3y"
+        ],
+        "ratingCount": 810,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Tamaricciu",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 70 49 89",
+        "address": "Rte de Palombaggia, 20137 Porto-Vecchio, France",
+        "types": [
+            "Restaurant",
+            "Outdoor Activities",
+            "Beaches"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 47,
+                "2": 35,
+                "3": 65,
+                "4": 180,
+                "5": 487
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ2XJjOQ8k1xIRB2B5WWnCS9g",
+        "website": "http://www.chezhuguette.fr/",
+        "index": 10,
+        "utcOffset": 120,
+        "longitude": 9.449657,
+        "latitude": 42.695612,
+        "rating": 4.1,
+        "excerpt": "Generous platters of raw seafood, grilled fish & pasta in a lively atmosphere with water views.",
+        "detail_description": "Nestled in the old port of Bastia, Restaurant Chez Huguette is a charming spot offering a lively atmosphere and stunning water views. Specializing in delectable fish and seafood dishes like bouillabaisse, oysters, clams, and prawns, this restaurant also caters to meat lovers with options like veal and beef.",
+        "imageKeys": [
+            "4KmXeRHAftwURXUenzrMXPId3T5rA8k6",
+            "PTOIckYju75zKSBAyY5TR9ekfc0o0eKm",
+            "pHVWW23jDXhdPw7D04r7kCUez0TrJZoN",
+            "8hfrxpMnWC9BBvaZnEiUf5AkCaur60Qg"
+        ],
+        "ratingCount": 458,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "RESTAURANT CHEZ HUGUETTE",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 31 37 60",
+        "address": "Rue de la Marine, 20200 Bastia, France",
+        "types": [
+            "Restaurant",
+            "Angler fish restaurant",
+            "Bar",
+            "French restaurant",
+            "Mediterranean restaurant",
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 49,
+                "2": 18,
+                "3": 35,
+                "4": 83,
+                "5": 273
+            }
+        }
+    },
+    {
+        "placeId": "ChIJDUuE_vFp2hIR6mEXA4h_hFc",
+        "website": "http://www.20123.fr/",
+        "index": 11,
+        "utcOffset": 120,
+        "longitude": 8.737344,
+        "latitude": 41.917961,
+        "rating": 4.5,
+        "excerpt": "Classic Corsican cuisine, sharing plates & local wines at a chalet-style space with street tables.",
+        "detail_description": "Le 20123 is a charming restaurant in Ajaccio, France, offering classic Corsican cuisine served as sharing plates alongside local wines. The chalet-style space provides a cozy and inviting atmosphere for diners to enjoy their meals. With street tables available, guests can savor their dishes while taking in the surroundings. The restaurant is known for its convivial and warm ambiance, making it suitable for families with members of all ages.",
+        "imageKeys": [
+            "c4U9nKsCSTWpy9JYvmN403Drs4CkAwOG",
+            "AuIgx9NvnNuBkUGRs2cy7F9l8WTdZFf0",
+            "fs3mkJkSk9Fp6uLd7n3FQAqNeErvJwyz"
+        ],
+        "ratingCount": 2185,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Le 20123",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 21 50 05",
+        "address": "2 Rue Roi de Rome, 20000 Ajaccio, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 93,
+                "2": 55,
+                "3": 96,
+                "4": 319,
+                "5": 1622
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ41rmn_aC2RIR7ghDtguc0mI",
+        "website": "https://hotel-palombaggia.com/fr/restaurant.html",
+        "index": 12,
+        "utcOffset": 120,
+        "longitude": 9.327013,
+        "latitude": 41.565659,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "La Table de Mina in Porto-Vecchio offers an exceptional gastronomic experience by the pool, under a tiled roof, with stunning sea views. The modern Mediterranean cuisine with subtle Iberian and Italian touches delights the taste buds. The short and seasonal menu highlights exceptionally high-quality products. Situated within the luxurious Les Bergeries de Palombaggia hotel, this fine dining restaurant provides a charming outdoor dining space near the pool, offering breathtaking coastal views.",
+        "imageKeys": [
+            "4Wjd7oHfEoor3ITJw7YwscPV3yXRb2Vn",
+            "sHR26upkocPmmuu3YTKM7v0A6zK0jzsb",
+            "4bAJa3TLzyORrzvFuLSsQDj4pO2bFVW8",
+            "ubOOsIvaQvA6VmbyZ1bZ8CzfP4daKDcd"
+        ],
+        "ratingCount": 137,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "La Table de Mina",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 70 03 23",
+        "address": "7 Qur Palombaja, 20137 Porto-Vecchio, France",
+        "types": [
+            "French restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 5,
+                "3": 5,
+                "4": 16,
+                "5": 106
+            }
+        }
+    },
+    {
+        "placeId": "ChIJgfxZgCPY2xIRFzBfEqskNpo",
+        "website": "http://www.levoilier-bonifacio.com/",
+        "index": 13,
+        "utcOffset": 120,
+        "longitude": 9.162365,
+        "latitude": 41.388071,
+        "rating": 4.1,
+        "excerpt": null,
+        "detail_description": "Le Voilier Bonifacio is a Michelin starred seafood restaurant in the heart of Bonifacio. The creative, fresh cuisine features seafood specialties enriched with vegetables and herbs, such as prawns, Bonifacian spiny lobsters or candied lemon peels. The terrace overlooking the port is a pleasant place to relax after a meal.",
+        "imageKeys": [
+            "4GjdQAfuaG6rP27TlZ1fHqFytLiBnfHZ",
+            "fwyMffiUY9F1J0oHxtTVrb6pFjLu73fP",
+            "jovHrKFVVwDd99nDHQMPfLrJQnkPTUB7",
+            "iwkvPKIjZ30T7IxLnLY2z2gONjmYkwcl"
+        ],
+        "ratingCount": 423,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "Restaurant Le Voilier Bonifacio",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+33 4 95 73 07 06",
+        "address": "81 Quai Jérôme Comparetti, 20169 Bonifacio, France",
+        "types": [
+            "Haute French restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 30,
+                "2": 29,
+                "3": 37,
+                "4": 80,
+                "5": 242
+            }
+        }
+    },
+    {
+        "placeId": "ChIJOwm1iCTY2xIR5BuzzMTpuag",
+        "website": null,
+        "index": 14,
+        "utcOffset": 120,
+        "longitude": 9.161581,
+        "latitude": 41.387786,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Located near the Citadel of Bonifacio, Restaurant L'An Faim offers a warm and delightful dining experience. The staff is friendly and provides efficient service. The restaurant takes pride in using locally-sourced, quality ingredients for its modern cuisine menu that includes veal, fresh fish, lobster, and prime vegetables. While slightly pricey, the open wines complement the delicious food perfectly. Despite not having vegetarian options on the menu, the kitchen is flexible and can accommodate special requests.",
+        "imageKeys": [
+            "svmguuGxhj4MYOxwAlo2Ycv9HRlNRQMz",
+            "E6V6fc3905Mwf0R9GMg2KwGrWss6J0Bz",
+            "xsh22EPpvpnnBAkvAcyAE0Qbkt2xmYLG",
+            "tlpDN0w7HyFpm3inYPjZ1KVNCbMymhor",
+            "B1aR8KuNaSm86uSGBnn1Hk9ROu313qAr"
+        ],
+        "ratingCount": 443,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Restaurant L'an faim",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 73 09 10",
+        "address": "7 Mnt Rastello, 20169 Bonifacio, France",
+        "types": [
+            "Restaurant",
+            "French restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 17,
+                "2": 11,
+                "3": 23,
+                "4": 51,
+                "5": 339
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ4WAttomB2RIRy-oKq6GDr_Y",
+        "website": "https://restaurantachabraca.jimdofree.com/",
+        "index": 15,
+        "utcOffset": 120,
+        "longitude": 9.299293,
+        "latitude": 41.549524,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "This restaurant is a great place to enjoy good food and friendly staff. It's also home to a lot of cute cats!",
+        "imageKeys": [
+            "SeBpoRNbFbwNzIwEE6IZI0OfpeTrizJo",
+            "C12Sm4LTKN5ypfPU1n8pQAkU9L0hRBBD",
+            "pR40XgmwTJYm1etdhd3fh4L1yleZy3Yj"
+        ],
+        "ratingCount": 1621,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "A Chabraka",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 7 75 22 93 41",
+        "address": "Rte de Palombaggia, 20137 Porto-Vecchio, France",
+        "types": [
+            "Restaurant",
+            "Bar",
+            "Mediterranean restaurant",
+            "Pizza restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 13,
+                "2": 16,
+                "3": 54,
+                "4": 238,
+                "5": 1300
+            }
+        }
+    },
+    {
+        "placeId": "ChIJs9oXbnjr0BIR50huqb1mmAk",
+        "website": null,
+        "index": 16,
+        "utcOffset": 120,
+        "longitude": 8.757511,
+        "latitude": 42.567222,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "A Piazzetta is a rustic restaurant located in Calvi, France. Situated on a quiet square with a shady terrace, it offers a peaceful escape from the bustling tourist areas near the harbor. The restaurant is known for serving hearty and delicious French, local, and Italian cuisine at reasonable prices. Visitors praise its beautiful location, attentive staff, and incredible Corsican specialties that are simply amazing.",
+        "imageKeys": [
+            "2hWB1bhZeE48TJr3ujSWiUaPYRFJplcr",
+            "2ITn2hSJQRLzua9NU4v6XGpwMI9YJENW"
+        ],
+        "ratingCount": 1754,
+        "openingPeriods": null,
+        "name": "A Piazzetta",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 37 87 74",
+        "address": "PLACE MARCHAL, 20260 Calvi, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 54,
+                "2": 34,
+                "3": 67,
+                "4": 345,
+                "5": 1247
+            }
+        }
+    },
+    {
+        "placeId": "ChIJLTEimMiE2RIRd7Duui3vez4",
+        "website": "http://www.lecabanonbleu.com/",
+        "index": 17,
+        "utcOffset": 120,
+        "longitude": 9.356643,
+        "latitude": 41.641123,
+        "rating": 3.9,
+        "excerpt": "Seafood dishes, meaty Mediterranean mains & cocktails, served on a chic wooden deck by the beach.",
+        "detail_description": "Nestled just a mile from Ajaccio, Le Cabanon Bleu is a delightful beachside restaurant that offers an unforgettable dining experience. With its chic wooden deck overlooking the stunning Ajaccio Bay, guests can savor a variety of delectable seafood dishes like grilled langoustine and fresh tuna, alongside hearty Mediterranean options such as duck and beef. The ambiance is cozy and inviting, making it the perfect spot to unwind with a cocktail while enjoying the soothing sounds of the waves.",
+        "imageKeys": [
+            "p36B7WNULCIrps2Zm6Nt1wPMjlRGiz09",
+            "zRbaj1i5VRAxc73iGToazOCvCmJ9TPrJ",
+            "phWivSBvLIkNvkIE8yY3tQatQWiIA1Ue",
+            "uRto0OqfQaPBKdtYUP5JPGaGrwiwBL4p",
+            "du4DVOZoAf1nXgWw5awfFG9VeYKbWveH"
+        ],
+        "ratingCount": 778,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Restaurant Le Cabanon bleu",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+33 6 11 69 00 56",
+        "address": "Sainte Lucie de, Baie de Saint Cyprien, 20144 Porto-Vecchio, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 101,
+                "2": 51,
+                "3": 71,
+                "4": 152,
+                "5": 405
+            }
+        }
+    },
+    {
+        "placeId": "ChIJxYTglU1A2hIRcPgmCm1Rigw",
+        "website": "http://lemaquis.com/fr/restaurant-l-arbousier.php",
+        "index": 18,
+        "utcOffset": 120,
+        "longitude": 8.786,
+        "latitude": 41.878023,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Nestled in the stunning bay of Ajaccio, L'Arbousier is a culinary gem within Hotel Le Maquis, where Chef Gerard Lorenzoni crafts an exquisite menu that celebrates traditional Mediterranean flavors with a special focus on Corsican cuisine. Diners are treated to breathtaking views of the pristine blue waters and the distant Sanguinaires Islands while savoring dishes that highlight seasonal ingredients and modern interpretations of classic recipes.",
+        "imageKeys": [
+            "ZmiTstmXgO8iiHc1bbgUphxQJyq0Krfl",
+            "2GbqVwiG3nbLkFXGB37SAGB2cdftxplV",
+            "BMDf8QzG0kdBdubdm06G2xBLgRliZeXn"
+        ],
+        "ratingCount": 276,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "L'Arbousier",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 25 20 15",
+        "address": "585 Bd Marie-Jeanne Bozzi, 20166 Grosseto-Prugna, France",
+        "types": [
+            "Restaurant",
+            "Fine dining restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 10,
+                "3": 17,
+                "4": 33,
+                "5": 208
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ2w4twf2s0BIR583VQZ8dJRc",
+        "website": "http://www.aubergerestonica.com/",
+        "index": 19,
+        "utcOffset": 120,
+        "longitude": 9.14162,
+        "latitude": 42.292931,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Auberge de la Restonica is a delightful restaurant designed like a cozy cottage, located near the charming and secluded hilltop village of Corte in central Corsica. Nestled along the banks of the Restonica river, this restaurant offers a perfect retreat for hikers and visitors seeking authentic and hearty Corsican cuisine amidst the stunning gorges and rocky landscapes. The warm and peaceful setting welcomes group lunches, while its riverside terrace provides a rare pleasure of dining in harmony with nature.",
+        "imageKeys": [
+            "BvNFLlWpoaVuE3oGUVKZCtVgOY6brW8H",
+            "Q5gdSPY9eeOm3FsY56SrkzPOV8K2G9Bj",
+            "h92OmrwDpNKzsqjENoBm8NEHtSDtaWMR"
+        ],
+        "ratingCount": 486,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1915"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2045"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1915"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2045"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1915"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2045"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1915"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2045"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1915"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2045"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1315"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1915"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2045"
+                }
+            }
+        ],
+        "name": "Auberge de la Restonica",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 46 09 58",
+        "address": "Lieu-dit Restonica Auberge, 20250 Corte, France",
+        "types": [
+            "French restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 14,
+                "2": 9,
+                "3": 21,
+                "4": 102,
+                "5": 336
+            }
+        }
+    },
+    {
+        "placeId": "ChIJUVcdTQGt0BIRCInUTta9XOw",
+        "website": "https://www.le-24-restaurant-corte.fr/",
+        "index": 20,
+        "utcOffset": 120,
+        "longitude": 9.150509,
+        "latitude": 42.307512,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "The dining experience at Le 24 was exceptional, as the restaurant surpassed all expectations in terms of food quality and service. It came highly recommended by both the Gaut et Milleu guide and Michelin, which signaled its reputation for excellence. Despite the differences between French and Italian cuisine, this establishment delivered exquisite dishes that were expertly cooked, reminiscent of a Michelin-starred restaurant.",
+        "imageKeys": [
+            "hRdamlN1G9youN4NDfA0PfuWrYbwQIF6",
+            "HIL7ur0i7A3B3iRhAXmib6CrIG2T1u2p",
+            "xjQv5RDTOgFwizrF3gIdcnn9hxUR2CRz"
+        ],
+        "ratingCount": 409,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                }
+            }
+        ],
+        "name": "Le 24",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 46 02 90",
+        "address": "24 Cr Paoli, 20250 Corte, France",
+        "types": [
+            "Restaurant",
+            "French restaurant",
+            "Mediterranean restaurant",
+            "Wine bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 11,
+                "3": 24,
+                "4": 82,
+                "5": 280
+            }
+        }
+    },
+    {
+        "placeId": "ChIJIcmLo_Uu1xIRmZJCOpXeSEI",
+        "website": "https://www.aubergedupecheur.net/",
+        "index": 21,
+        "utcOffset": 120,
+        "longitude": 9.30409,
+        "latitude": 42.681723,
+        "rating": 4.6,
+        "excerpt": "Upscale dishes of lobster, swordfish & tuna served in an elegant dining room or on a leafy patio.",
+        "detail_description": "Auberge du pêcheur is a French restaurant located in Saint-Florent, France. The owner, Damien Muller, specializes in fresh fish and uses the Ikejime method for fish preparation. The dishes offered at this upscale establishment include lobster, swordfish, and tuna, which can be enjoyed either raw as tartare or cooked as steak. The dining experience takes place in an elegant setting with options to dine indoors or on a charming patio surrounded by lush greenery.",
+        "imageKeys": [
+            "WZBeU5suNKjgYDc5qfV5ViQ0k1lTeS64",
+            "k6odnWKSHpfx6cuCkwWcsEeSDt19hIMy",
+            "JpOijmqSYVZEW39pJATXmOB9CAysOtZ9",
+            "ohPpLCEEYGdGB32sNPX4sSyN8UyT1sLp"
+        ],
+        "ratingCount": 596,
+        "openingPeriods": null,
+        "name": "Auberge du pêcheur",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+33 6 13 58 24 08",
+        "address": "Route de Bastia, 20217 Saint-Florent, France",
+        "types": [
+            "French restaurant",
+            "Fish restaurant",
+            "Mediterranean restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 14,
+                "2": 9,
+                "3": 27,
+                "4": 75,
+                "5": 471
+            }
+        }
+    },
+    {
+        "placeId": "ChIJA2h-conE0BIRF0zQyD5rMJ0",
+        "website": "https://www.a-siesta-restaurant-l-ile-rousse.fr/",
+        "index": 22,
+        "utcOffset": 120,
+        "longitude": 8.942315,
+        "latitude": 42.634003,
+        "rating": 4.5,
+        "excerpt": "Lobster, daily fish specials & Corsican wines in an airy cabin with a deck & tables on the sand.",
+        "detail_description": "A Siesta is a charming seafood restaurant located in the north-west of Corsica, in the heart of the beautiful Balagne region. The restaurant offers an airy cabin with a deck and tables on the sand, providing a stunning location to enjoy freshly caught fish and delicious local wines. La Pa'Paillote in Felicetu offers an atypical setting combining tradition and originality, serving home-cooked meals made from local produce.",
+        "imageKeys": [
+            "Jm5iq2syPxayqAThRlX47IDqQlS0Az27",
+            "mdndtcg4GYL7PCgza2JbG5sWv1Giz8Pu",
+            "MALBV3HGsz4zQhPYDHoeX2I6pZ5F1MBl"
+        ],
+        "ratingCount": 1248,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "A Siesta",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+33 4 95 60 28 74",
+        "address": "Bd Charles-Marie Savelli, 20220 L'Île-Rousse, France",
+        "types": [
+            "French restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 51,
+                "2": 29,
+                "3": 69,
+                "4": 252,
+                "5": 847
+            }
+        }
+    },
+    {
+        "placeId": "ChIJT8YYSy7t2RIRlyM_Q4adKpk",
+        "website": null,
+        "index": 23,
+        "utcOffset": 120,
+        "longitude": 9.402112,
+        "latitude": 41.858112,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "JpxAoFqZZZAtRPs4pCCtIcrKx0rZTsDc",
+            "jyjyjQ1zC8tkFYIbc0RfdL7oiArnfXcN",
+            "ERLnCRw1QOO1qKS562p6BEF9nU3VHW0p",
+            "RKMUfdZDhz4gQlMjB6WvvwGfAvEuhIlG"
+        ],
+        "ratingCount": 686,
+        "openingPeriods": null,
+        "name": "L'Annexe",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 59 85 11",
+        "address": "47 51 Solenzara, 20240 Sari-Solenzara, France",
+        "types": [
+            "Restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 17,
+                "2": 11,
+                "3": 30,
+                "4": 118,
+                "5": 517
+            }
+        }
+    },
+    {
+        "placeId": "ChIJs1ArgGYY2hIRwPHTkog-2TI",
+        "website": null,
+        "index": 24,
+        "utcOffset": 120,
+        "longitude": 9.048978,
+        "latitude": 41.894227,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "The Auberge U Taravu is a great place to stay if you want to explore the beautiful island of Taveuni. The food is fantastic and the owners are very helpful. They have a lot of lovely wines for sale, too.",
+        "imageKeys": [
+            "9SzF2gS7gEfApM6VG2q5KuuqvxsvokbN",
+            "rlIp8gOYywpvvl0PbA4tF9SZDuT4x5nt",
+            "YnEzEqhzUpbrmY16WeeSH88ckM9V8Nb7",
+            "LcuueWGtz5qMl8rMm86DMP04fNVZmiZ3"
+        ],
+        "ratingCount": 251,
+        "openingPeriods": null,
+        "name": "Auberge U Taravu",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 6 30 93 82 80",
+        "address": "20173 Zévaco, France",
+        "types": [
+            "Inn",
+            "French restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 1,
+                "3": 4,
+                "4": 25,
+                "5": 219
+            }
+        }
+    },
+    {
+        "placeId": "ChIJJ-qfxRp92RIRlKAfzK5ANQI",
+        "website": "https://www.ucapubiancu.com/fr/savourer/le-restaurant-panoramique",
+        "index": 25,
+        "utcOffset": 120,
+        "longitude": 9.224395,
+        "latitude": 41.418739,
+        "rating": 4.3,
+        "excerpt": null,
+        "detail_description": "Restaurant U Capu Biancu in Bonifacio, Corsica is a charming place where couples can celebrate their love amidst the wild beauty of Southern Corsica. The restaurant offers an inventive cuisine that combines local produce with exotic flavors, all enjoyed against a breathtaking backdrop. Guests can savor delicious salads and well-cooked octopus while enjoying polite and efficient service in a comfortable atmosphere with stunning views of the sea and beach.",
+        "imageKeys": [
+            "wSJU9xNZf58F8CVBYlwzlYsOkAYUfs35",
+            "N7tiNjd2jsudqFzt6WlDt0tHhEjFI3D6",
+            "VKEUNhZL42TdJuGBYXMCD0bShXgZyI5X",
+            "WFWhXC9RipKemlJCHBrMFHf46PVH0WLe"
+        ],
+        "ratingCount": 97,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "Restaurant U Capu Biancu-Bonifacio Corse",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 73 05 58",
+        "address": "Lieu dit ricetti Domaine de Pozzoniello, 20169 Bonifacio, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 3,
+                "3": 10,
+                "4": 12,
+                "5": 66
+            }
+        }
+    },
+    {
+        "placeId": "ChIJJeJ1oAYk1xIRHFqq7Dxi_zY",
+        "website": "https://www.brasserielimperial-bastia.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "index": 26,
+        "utcOffset": 120,
+        "longitude": 9.450595,
+        "latitude": 42.70073,
+        "rating": 4.2,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "7BuUGSiAhbgzVwRLIZgXx0ptHZHvnO3s",
+            "OmY5n27jdpZ7ZKGXLRGarzzDVW3vzKOL",
+            "lzTOG9SXAe7Eq0dMPIF7X6b9Kl6xVxk1"
+        ],
+        "ratingCount": 287,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Brasserie L'Impérial",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 31 06 12",
+        "address": "11 Bd du Général de Gaulle, 20200 Bastia, France",
+        "types": [
+            "Restaurant",
+            "Bar",
+            "Delivery Restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 30,
+                "2": 13,
+                "3": 15,
+                "4": 40,
+                "5": 189
+            }
+        }
+    },
+    {
+        "placeId": "ChIJRc_R6ycx2hIRIqFlGI7JFY4",
+        "website": null,
+        "index": 27,
+        "utcOffset": 120,
+        "longitude": 8.936746,
+        "latitude": 41.689744,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Nestled in the picturesque hills overlooking Propriano, Auberge San Ghjuvani offers a genuine Corsican dining experience. This family-run restaurant takes pride in serving a wide array of traditional Corsican dishes made from locally-sourced ingredients. The passionate owners warmly welcome guests and ensure that they have an authentic culinary experience. With generous portions and a focus on local produce, this restaurant provides excellent value for money.",
+        "imageKeys": [
+            "iTIQHGKhsYRccAAfG6nETW6bWcZYFOOW",
+            "XU87ajMWMlAKGta4WSxIKrp2jzpx3uTo",
+            "frb28keFW1WFUxt9Uw3tmv6bR92x7c3n"
+        ],
+        "ratingCount": 861,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "Auberge San Ghjuvani",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 76 03 31",
+        "address": "Route de baracci, 20110 Propriano, France",
+        "types": [
+            "French restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 7,
+                "2": 6,
+                "3": 17,
+                "4": 90,
+                "5": 740
+            }
+        }
+    },
+    {
+        "placeId": "ChIJNTvnL8ZB2hIRlCg9-cjgC9I",
+        "website": "https://restaurantsandbars.accor.com/fr/restaurant/0587_R001?utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps",
+        "index": 28,
+        "utcOffset": 120,
+        "longitude": 8.779992,
+        "latitude": 41.883576,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "La Carte Postale, located inside the Sofitel Golfe d'Ajaccio, offers a serene atmosphere with elegant pillars, candlelit tables, and live piano music. The restaurant serves contemporary cuisine infused with Corsican flavors and features a selection of local sheep and goat cheeses. Guests can enjoy breathtaking views of the Bay of Ajaccio from the terrace. The romantic setting, delicious food, and excellent service make it a perfect choice for special occasions.",
+        "imageKeys": [
+            "MINaCAWof3t8ZnCNI8nVCfMBW4yqRtfB",
+            "Xmw6Ucmu7ZDVS4oEj6r3FKB6zf7NXL0X",
+            "AUyLCdYg5HUpla9ssta8q8HyUlWpTf5G"
+        ],
+        "ratingCount": 39,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "La Carte Postale",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 29 40 07",
+        "address": "Domaine de la Pointe Golfe d'Ajaccio, All. de l'Ustaria, 20166 Grosseto-Prugna, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 3,
+                "2": 0,
+                "3": 5,
+                "4": 3,
+                "5": 28
+            }
+        }
+    },
+    {
+        "placeId": "ChIJm4wjXvEk1xIRyn7jyy3vjSw",
+        "website": "https://www.corseweb.corsica/20527/costa-serena/aleria/restaurant-aux-coquillages-de-diana-a-aleria/",
+        "index": 29,
+        "utcOffset": 120,
+        "longitude": 9.51681,
+        "latitude": 42.128234,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "zq9dR2SDAsY9GHhXYIbeE9jD2SwseSF3",
+            "11ENd5BoUq3VdfVe1YRO14p0W3QVmo7G",
+            "l8JLosSiOA4pDLlM9guCNYHuRfjIdIYy",
+            "TBsQhM0VT6oMGQxjEJ6xUM5hPolLCS8H"
+        ],
+        "ratingCount": 1984,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Restaurant Aux Coquillages de Diana",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 57 04 55",
+        "address": "Etang De Diana, 20270 Aléria, France",
+        "types": [
+            "Seafood restaurant",
+            "Bar",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 43,
+                "2": 45,
+                "3": 157,
+                "4": 431,
+                "5": 1309
+            }
+        }
+    },
+    {
+        "placeId": "ChIJw9uEzSCD2RIRzVB2A-xvWbw",
+        "website": "https://www.instagram.com/ledune.portovecchio/?utm_medium=copy_link",
+        "index": 30,
+        "utcOffset": 120,
+        "longitude": 9.303683,
+        "latitude": 41.545949,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "jKxbhnq02TUudctgj5kr8mkEmG5UZrf5",
+            "L58ov5XwPYdQvAH6040Rv0ky5pOcODQS",
+            "jVtnuobxIau446TOVP0fnrfAak1lChJ2"
+        ],
+        "ratingCount": 247,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Le Dune",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 6 58 14 09 92",
+        "address": "Plage de l'Asciaghju, Rte de Palombaggia, 20137 Porto-Vecchio, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 15,
+                "2": 6,
+                "3": 10,
+                "4": 19,
+                "5": 201
+            }
+        }
+    },
+    {
+        "placeId": "ChIJSdEchmfM2xIR8UFufD3nrgQ",
+        "website": "https://www.murtoli.com/la-table-de-la-ferme-domaine-de-murtoli-hotel-sartene-54-fr.html",
+        "index": 31,
+        "utcOffset": 120,
+        "longitude": 8.946668,
+        "latitude": 41.523119,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Table de la Ferme - Domaine de Murtoli offers a magical dining experience on a beautiful terrace with flawless surprise menus and perfect pairings. The exceptional service and splendid location make for an unforgettable evening. It's a place where you can discover new flavors in a chic yet relaxed atmosphere, accompanied by professional service. The young Chef of La Ferme presents great potential for the future with his mastery of flavors and textures, as well as magnificent dish presentations.",
+        "imageKeys": [
+            "UJX1UdZ7Cwu20pIVDYapwXQlMd4poS36",
+            "xML0l9kusKOZhnWtLvv7vMdWUSqM4IPL",
+            "PqJFFH02DLd4YDW7n7PK1m2TeQnZrLih",
+            "qx7e9nHAVEGw6ZY7DQNzRCpUaMFq1SY9"
+        ],
+        "ratingCount": 172,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Table de la Ferme - Domaine de Murtoli",
+        "permanentlyClosed": false,
+        "priceLevel": 4,
+        "phone": "+33 4 95 71 69 24",
+        "address": "Domaine de Murtoli Vallée de l'Ortolo, 20100 Sartène, France",
+        "types": [
+            "Restaurant",
+            "Bar",
+            "Brunch restaurant",
+            "Golf course",
+            "Haute French restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 7,
+                "2": 3,
+                "3": 3,
+                "4": 20,
+                "5": 139
+            }
+        }
+    },
+    {
+        "placeId": "ChIJi2xXTTjL2xIRgzYQNksR9cA",
+        "website": "https://www.murtoli.com/la-table-de-la-plage-domaine-de-murtoli-hotel-sartene-45-fr.html",
+        "index": 32,
+        "utcOffset": 120,
+        "longitude": 8.911656,
+        "latitude": 41.509127,
+        "rating": 4.2,
+        "excerpt": null,
+        "detail_description": "Table de la Plage is a charming outdoor Mediterranean-style restaurant located in a stunning beachfront setting. It serves lunch from May to September and dinner during the peak summer months, offering traditional island recipes up to 4 nights a week. The ambiance is inspired by an ancient fisherman's hut, nestled among olive and mastik trees, providing both shade and sunlight.",
+        "imageKeys": [
+            "8XNcfzEDwtguKPzxD93WGTIeQxZGoaEq",
+            "WR3UtPu9h1mMQvbnskursrEPPAxAOSYe",
+            "og9MupRSUODekpxHa9Q6FqMiTzzuJFMX"
+        ],
+        "ratingCount": 108,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Table de la Plage",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 71 69 24",
+        "address": "Domaine de Murtoli Vallée de l'Ortolo, 20100 Sartène, France",
+        "types": [
+            "Restaurant",
+            "Beach pavillion",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 17,
+                "2": 4,
+                "3": 2,
+                "4": 5,
+                "5": 80
+            }
+        }
+    },
+    {
+        "placeId": "ChIJjaT3h-1p2hIRj3eqHY-psS0",
+        "website": null,
+        "index": 33,
+        "utcOffset": 120,
+        "longitude": 8.737468,
+        "latitude": 41.920358,
+        "rating": 4.3,
+        "excerpt": null,
+        "detail_description": "Located at 6, rue de lAssomption, Le Bistro d'Emile is a wine bar and bistro in Ajaccio that offers a relaxed and inviting atmosphere. The establishment boasts a small yet thoughtfully curated menu and an impressive variety of Corsican wines to satisfy any palate. Whether you're looking for a refreshing aperitif or some lonzu to nibble on, this place has got you covered.",
+        "imageKeys": [
+            "knu2g1ZgxedNepVpy392YmJNqQvCah1S",
+            "7Xutf35KQh76RBikBC9WVL8trOvFe6M5",
+            "kmxl2W3u9KCgvLWAvwo3WgC0x9y0XpnH",
+            "k4QSdScaCb1no7tElq75ayaThTRfEbAN"
+        ],
+        "ratingCount": 94,
+        "openingPeriods": null,
+        "name": "Le Bistro d'Emile",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 51 00 81",
+        "address": "6 Rue de l'Assomption, 20000 Ajaccio, France",
+        "types": [
+            "French restaurant",
+            "Bistro"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 4,
+                "3": 8,
+                "4": 25,
+                "5": 53
+            }
+        }
+    },
+    {
+        "placeId": "ChIJb7dVmiZA2hIRJK_9BmXVP8g",
+        "website": "https://www.alta-rocca-porticcio.com/",
+        "index": 34,
+        "utcOffset": 120,
+        "longitude": 8.801942,
+        "latitude": 41.900658,
+        "rating": 4.1,
+        "excerpt": null,
+        "detail_description": "Nestled in the heart of Corsica, L’Alta Rocca is a charming farmhouse that offers an exquisite blend of luxury and authenticity. With its heated swimming pool and beautifully designed rooms, it serves as a serene retreat for nature lovers seeking tranquility. Guests can indulge in traditional Corsican cuisine, featuring recipes lovingly passed down through generations.",
+        "imageKeys": [
+            "ZjiRfrmMwjcBH0ALM7dTTeKjvlEKnR7B",
+            "bpxnmRqufhtvfIFx1btFdASUMIgpP7kn",
+            "xfN67ElN457z72ZmtU1Po4vImSsi9lH0",
+            "wU4OZyG16O4HtqP22BiPrVwDnfR4H5GT"
+        ],
+        "ratingCount": 1089,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                }
+            }
+        ],
+        "name": "L’Alta Rocca",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 6 30 71 71 73",
+        "address": "plage de, Rés Capitello, 20166 Grosseto-Prugna, France",
+        "types": [
+            "Mediterranean restaurant",
+            "Bar",
+            "Cocktail bar",
+            "French restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 122,
+                "2": 46,
+                "3": 70,
+                "4": 201,
+                "5": 649
+            }
+        }
+    },
+    {
+        "placeId": "ChIJX8dpAsdp2hIRagPpaR0R-r8",
+        "website": null,
+        "index": 35,
+        "utcOffset": 120,
+        "longitude": 8.695068,
+        "latitude": 42.003211,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Nestled behind a fishmonger in the charming fishing port of Saint-Florent, AUBERGE DU PECHEUR GOLFE DE LAVA is a delightful culinary gem. Owned by Damien Muller, an artisan fisherman and fishmonger, this seafood restaurant offers a menu that celebrates the best of Corsican cuisine. Diners can savor seasonal local fish and exquisite oysters sourced from nearby lagoons, complemented by fine wines from the Patrimonio region.",
+        "imageKeys": [
+            "38iknJPMjxtQfJx06buCjdhHMONx6Gy9",
+            "bC5PUZsjVd1IZFQCXBESfUsWK9A99Ni8",
+            "DDOZWl2h9zOfDaPMKoYxs6CyQRwOjYg6",
+            "NGBUyBnEOvGeeHfHwJ0UYBhBlX3vtAaE"
+        ],
+        "ratingCount": 35,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 4,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "2000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "AUBERGE DU PECHEUR GOLFE DE LAVA",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 6 99 21 25 23",
+        "address": "LIEU DIT LA BOCOGNANAISE - GOLFE DE LAVA, 20167 Appietto, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 28
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ0fRwpmOB2RIRdSzhpuazf6U",
+        "website": null,
+        "index": 36,
+        "utcOffset": 120,
+        "longitude": 9.274927,
+        "latitude": 41.59738,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "L'Altru Versu, located on the picturesque Ajaccio waterfront, is a renowned fine dining restaurant managed by the skilled Mezzacqui brothers. With a focus on utilizing top-notch local ingredients and fresh seafood, this establishment prides itself on maintaining professionalism in both its kitchen and front of house services.",
+        "imageKeys": [],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "L'Altru Versu",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "20137 Porto-Vecchio, France",
+        "types": [
+            "Grocery store"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJi_Iat8pd2hIRnrAhcHgtP5w",
+        "website": "https://www.hotel-le-weekend.com/paillote",
+        "index": 37,
+        "utcOffset": 120,
+        "longitude": 8.647268,
+        "latitude": 41.909975,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "2YwzwBTGnIwUO98dfdPjYa7GqU2WGQsF",
+            "wncLTqZhiPnsfz2v8uxkS64T8c7P9lmC",
+            "z2710QLZRt6KgfdoHVPnc1gFzInKBX71"
+        ],
+        "ratingCount": 125,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "La Paillote Le Week-end",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 52 04 76",
+        "address": "Rte des Sanguinaires, 20000 Ajaccio, France",
+        "types": [
+            "Restaurant",
+            "Bar",
+            "Event planner"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 3,
+                "3": 6,
+                "4": 12,
+                "5": 102
+            }
+        }
+    },
+    {
+        "placeId": "ChIJzYmAJHHM2xIRVKRvNsf9Yxw",
+        "website": "https://www.murtoli.com/la-table-de-la-grotte-domaine-de-murtoli-hotel-sartene-44-fr.html",
+        "index": 38,
+        "utcOffset": 120,
+        "longitude": 8.931181,
+        "latitude": 41.5201,
+        "rating": 4.3,
+        "excerpt": null,
+        "detail_description": "Table de la Grotte - Domaine de Murtoli is situated approximately 10 minutes away by car from the main beach exclusively for guests and about 15 minutes from Table de la Ferme. It offers excellent food in a very pleasant setting, making it a highly recommended dining destination within the area.",
+        "imageKeys": [
+            "ktGVaJpbAvUGVVqDvQpF8ynnJWxTpWD8",
+            "7RIopmQKcaOvdzpiGzjQuMmm7hHuSY7I",
+            "Qqv270pON64W9kUe7E07DDMhTgSEuRDp"
+        ],
+        "ratingCount": 88,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Table de la Grotte - Domaine de Murtoli",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 71 69 24",
+        "address": "Domaine de Murtoli Vallée de l'Ortolo, 20100 Sartène, France",
+        "types": [
+            "Restaurant",
+            "Bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 10,
+                "2": 2,
+                "3": 4,
+                "4": 7,
+                "5": 66
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ77X2Vrjt0BIRqXE3bNHeppM",
+        "website": "https://lavilla.fr/restaurant",
+        "index": 39,
+        "utcOffset": 120,
+        "longitude": 8.745672,
+        "latitude": 42.555627,
+        "rating": 3.5,
+        "excerpt": null,
+        "detail_description": "La Table is a one-Michelin-star restaurant located within Hotel La Villa. The restaurant offers a smooth fine dining experience and is known for its refined and tasty cuisine. Guests can trust the sommelier's knowledge of Corsican wines, particularly those from Clos Columbu. The warm welcome adds to the overall dining experience at La Table.",
+        "imageKeys": [
+            "M2U19yoXFpk2xexW1T5jU4KA0HJ6tJ5z",
+            "9RBPU3bk2awoRKwGaczGi5T2mitkeds3",
+            "bbBcjvlelHfTb8BS0ymfEusabF1NBvG4",
+            "4hsiVAaeW5jht8L2zgd9d24BKfB5uHuq"
+        ],
+        "ratingCount": 6,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "La Table",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 65 83 60",
+        "address": "Chemin notre dame de la serra, 20260 Calvi, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 0,
+                "5": 3
+            }
+        }
+    },
+    {
+        "placeId": "ChIJZQPEevwv1xIR7lhhKG6Hwrk",
+        "website": null,
+        "index": 40,
+        "utcOffset": 120,
+        "longitude": 9.359377,
+        "latitude": 42.64103,
+        "rating": 3,
+        "excerpt": null,
+        "detail_description": "A Casa di Anghjulu is a traditional restaurant situated in the scenic village of Poggio d'Oletta, offering breathtaking views of the Gulf of Saint-Florent. Housed in the historic Clementi maison, a family farmhouse dating back to 1836, this charming eatery features original frescoes adorning its rooms.",
+        "imageKeys": [
+            "lK6PKHmtM7yKpqNTvixTSSFSjQC2ScHw"
+        ],
+        "ratingCount": 2,
+        "openingPeriods": [],
+        "name": "A Casa di Anghjulu",
+        "permanentlyClosed": true,
+        "priceLevel": null,
+        "phone": "+33 4 95 39 16 63",
+        "address": "Maison Clementi, 20232 Poggio-d'Oletta, France",
+        "types": [
+            "Restaurant",
+            "Fine dining restaurant",
+            "French restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            }
+        }
+    },
+    {
+        "placeId": "ChIJhQGtbQA32hIRvuD1lS82qY4",
+        "website": null,
+        "index": 41,
+        "utcOffset": 120,
+        "longitude": 8.900598,
+        "latitude": 41.67557,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Terra Cotta is an upscale restaurant offering a fine dining experience with spectacular set menus featuring multiple courses. The family-owned establishment prides itself on serving fresh seafood caught and delivered daily. Guests are welcomed into a warm ambiance with attentive service, where they can indulge in elaborate dishes predominantly showcasing marine flavors. Diners rave about the langoustine ravioli and delightful desserts. This renowned restaurant in Propriano, Corsica, is celebrated for its exquisite presentation and flavors that leave patrons speechless.",
+        "imageKeys": [
+            "g93LkvENku2hXS53FdMpeevair5gwRIn",
+            "yvDJt67yYgf4DhNsxs5SPzpIJ963RMp1",
+            "P8meFH0QVD60Og5a1zYyUTLCruMyFgaM",
+            "3sqNckw5LgapNIDjfTB5wdHXtqxpAQF2"
+        ],
+        "ratingCount": 51,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "Terra Cotta",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 95 74 23 80",
+        "address": "31 Av. Napoléon III, 20110 Propriano, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 0,
+                "5": 42
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ1REKMtaD2RIRGNdkXan8_iQ",
+        "website": "http://www.casacorsa-portovecchio.com/",
+        "index": 42,
+        "utcOffset": 120,
+        "longitude": 9.284496,
+        "latitude": 41.588606,
+        "rating": 4.7,
+        "excerpt": "Informal restaurant with a terrace & harbor views offering ample dishes, including homemade burgers.",
+        "detail_description": "Casa Corsa is an informal eatery located in Porto-Vecchio, Corsica. It boasts a charming terrace with stunning harbor views. The restaurant offers a wide selection of dishes, including their specialty homemade burgers. Guests can enjoy lunch, dinner, and drinks at Casa Corsa. The establishment provides various amenities such as outdoor seating and highchairs for families with children. They also serve alcohol and have a full bar that accepts credit card payments.",
+        "imageKeys": [
+            "L6xdfCOuysnIBVYHDMWXQKQuoRusEOLp",
+            "32ZVCJ7SVG577gavPn0fhXZmHWV2pBsT",
+            "qn61FHFBWcP0gqEr4m9qckTP7cRwqrqU"
+        ],
+        "ratingCount": 3536,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Casa Corsa",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 20 38 87",
+        "address": "Résidence U Palmu, Quai Pascal Paoli, 20137 Porto-Vecchio, France",
+        "types": [
+            "Restaurant",
+            "French restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 47,
+                "2": 59,
+                "3": 125,
+                "4": 498,
+                "5": 2867
+            }
+        }
+    },
+    {
+        "placeId": "ChIJl1C6QSXY2xIRhkt7905k5H4",
+        "website": "https://m.facebook.com/LaBodegaBonifacio",
+        "index": 43,
+        "utcOffset": 120,
+        "longitude": 9.157845,
+        "latitude": 41.386964,
+        "rating": 4.8,
+        "excerpt": "Corsican dishes, like grilled meats flavored with island herbs, in a snug room or a small terrace.",
+        "detail_description": "Bodega Bonifacio is a charming restaurant in Corsica known for its authentic Corsican cuisine and cozy ambiance. The menu features grilled meats with local herbs and delicious seafood dishes like sea bream with a delightful sauce. Visitors praise the generous portions and warm hospitality from the owner and his daughter. The rustic setting adds to the overall experience, making it a popular choice for both locals and tourists seeking genuine Bonifacien flavors.",
+        "imageKeys": [
+            "aKYuIWgzYf0aT3Tvonv3Dkl3r6EI6KUp",
+            "gDPwIJmOGiaZbkExJUrDA1pNMmswCEUN",
+            "ovkoDqj8yuYwir3ySjMNP2O2Honm5ReY"
+        ],
+        "ratingCount": 1217,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2145"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2145"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2145"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2145"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2145"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2145"
+                }
+            }
+        ],
+        "name": "Bodega Bonifacio",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 6 73 75 94 70",
+        "address": "1 Av. de la Carotola, 20169 Bonifacio, France",
+        "types": [
+            "Restaurant",
+            "French restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 9,
+                "2": 8,
+                "3": 17,
+                "4": 109,
+                "5": 1085
+            }
+        }
+    },
+    {
+        "placeId": "ChIJafecG8B72hIRBLvQ3VNwLxA",
+        "website": "http://www.restaurant-urasaghiu.fr/",
+        "index": 44,
+        "utcOffset": 120,
+        "longitude": 8.595981,
+        "latitude": 42.131547,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "U Rasaghiu is a well-located restaurant with a huge selection of dishes including pizza, fish, and vegetarian options. They offer full menus at reasonable prices and have a cool chill-out area for drinks. The atmosphere is pleasant with good background music and a view of the waterfront and church spires up the hill. The food is delicious, especially the sanglier, and you can even pick your own fish from the daily selection.",
+        "imageKeys": [
+            "9myRawrDeWF4TtxHTX5pSwicXDlDKUBL",
+            "j4JHx8W7dgFAfAGn1qnbt7xKcQav756M"
+        ],
+        "ratingCount": 966,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "U Rasaghiu",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 26 48 60",
+        "address": "Chem. du Port, 20130 Cargèse, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 22,
+                "2": 30,
+                "3": 55,
+                "4": 177,
+                "5": 679
+            }
+        }
+    },
+    {
+        "placeId": "ChIJnfS1USTY2xIRUjt9GWK_G6A",
+        "website": null,
+        "index": 45,
+        "utcOffset": 120,
+        "longitude": 9.160005,
+        "latitude": 41.388673,
+        "rating": 4.5,
+        "excerpt": "Inventive plates of seafood, meat & pasta offered in a classy venue overlooking the marina.",
+        "detail_description": "Restaurant Les Quatre Vents is a classy venue overlooking the marina, offering inventive plates of seafood, meat, and pasta. It provides excellent value with high-quality food and shifts its focus from fresh sea products and vegetable-based recipes in summer to traditional Corsican cuisine in winter. The friendly owners and staff create a special atmosphere, making it a cheerful place for a meal.",
+        "imageKeys": [
+            "Vk0JTsPAxf7Jf6EoRAJNNTEyZ7zrzMlC",
+            "RpV8lusJKRdG1oDpNAGEI2hnE0PCuJ7a",
+            "hpd3XytqrnU3TADqNsjhH3N8Z1MO7U9o"
+        ],
+        "ratingCount": 860,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Restaurant Les Quatre Vents",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+33 4 95 73 07 50",
+        "address": "29 Quai Banda del Ferro, 20169 Bonifacio, France",
+        "types": [
+            "Restaurant",
+            "Fish restaurant",
+            "French restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 33,
+                "2": 20,
+                "3": 32,
+                "4": 135,
+                "5": 652
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ77O4awGt0BIR_Ef17_nsy2Q",
+        "website": "https://fr-fr.facebook.com/pages/LA-RIVIERE-DES-VINS-CORTI/54222180090",
+        "index": 46,
+        "utcOffset": 120,
+        "longitude": 9.150328,
+        "latitude": 42.306633,
+        "rating": 4.7,
+        "excerpt": "Robust Corsican dishes with inventive touches, plus daily specials, in rustic-chic surrounds.",
+        "detail_description": "La Rivière des Vins, located in Corte, Corsica, is a rustic-chic restaurant known for its inventive take on traditional Corsican dishes and daily specials. The menu features robust Corsican cuisine with a mix of French, Mediterranean, and barbecue influences. This establishment is also popular for its grilled dishes cooked over a wood fire.",
+        "imageKeys": [
+            "ZEc5duetIJt9wwZyW47ZcNNCfu8rMKxp",
+            "EVnYpZduviaQ3m49yUAgV5RmnqgvkHRu"
+        ],
+        "ratingCount": 1366,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "La Rivière des Vins",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 46 37 04",
+        "address": "5 Rpe Sainte-Croix, 20250 Corte, France",
+        "types": [
+            "French restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 21,
+                "2": 15,
+                "3": 27,
+                "4": 192,
+                "5": 1111
+            }
+        }
+    },
+    {
+        "placeId": "ChIJgSXh2Egz2hIRy_rdwP1SxZk",
+        "website": "https://sites.google.com/view/la-bergerie-dacciola/accueil",
+        "index": 47,
+        "utcOffset": 120,
+        "longitude": 8.94212,
+        "latitude": 41.579296,
+        "rating": 4.9,
+        "excerpt": null,
+        "detail_description": "The french restaurant La Bergerie d'Acciola is a local favourite for its delicious food and stunning views of the Corsican coast. The menu features local products, including cheese and meet from the island, as well as chestnut flour crepes. The restaurant also offers an open wood fire pit for cooking the meals.",
+        "imageKeys": [
+            "gZGG6L8yXjacavgM33UDM9ni12VnIoHd",
+            "WaWXlu8rhH8SzlOo3dTet8L1oFIhd83A",
+            "fngjfNwp78zCQ5j6HM5ayGmVIajDY5ma"
+        ],
+        "ratingCount": 2254,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "The Sheepfold of Acciola",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 6 88 97 16 10",
+        "address": "Acciola, 20100 Sartène, France",
+        "types": [
+            "French restaurant",
+            "Deli",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 17,
+                "2": 8,
+                "3": 30,
+                "4": 171,
+                "5": 2038
+            }
+        }
+    },
+    {
+        "placeId": "ChIJjTlnAZTF0BIRaD-jW7oUcIU",
+        "website": "https://lacavebaraviandes.com/",
+        "index": 48,
+        "utcOffset": 120,
+        "longitude": 8.937559,
+        "latitude": 42.63459,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Nestled in the charming town of L'Ile-Rousse, near the iconic Place Paoli, Restaurant La Cave bar à viandes offers a unique dining experience that beautifully marries local flavors with a warm atmosphere. This establishment features an impressive wine bar showcasing the rich viticulture of Corsica alongside a meat bar renowned for its delectable grilled dishes cooked over an open flame using fresh, locally sourced ingredients.",
+        "imageKeys": [
+            "wEQ84BdPMOKeJUFF25oDpdkrAl4TGK0s",
+            "SCOS0flip6bJhcHcelBc2yfxS9Xf8U7A",
+            "QpfwSHnAeKFoOwLzzjMi1pdfynTroSDA"
+        ],
+        "ratingCount": 804,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Restaurant La Cave bar à viandes",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 58 27 26",
+        "address": "1 Rue Louis Philippe, Pl. Pascal Paoli, 20220 L'Île-Rousse, France",
+        "types": [
+            "Restaurant",
+            "Bar",
+            "Pizza restaurant",
+            "Pizza Takeout"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 14,
+                "2": 17,
+                "3": 20,
+                "4": 72,
+                "5": 681
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ_-vRtezP1hIRU3GyWza153Y",
+        "website": "https://www.amacciotta.com/",
+        "index": 49,
+        "utcOffset": 120,
+        "longitude": 9.351109,
+        "latitude": 42.966013,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Located directly on the small port of Centuri, this dining establishment is a well-established place that specializes in lobster cuisine. The lobsters are exceptionally fresh and prepared in various delectable styles, whether served whole on your plate or accompanied by their famous lobster pasta. Portion sizes of lobster dishes are notably generous. This restaurant also offers a delightful selection of seafood caught on the same day, ensuring optimal freshness.",
+        "imageKeys": [
+            "Y1oJHM7jgx7zS6iPQyO3E9rVuC9Umtjd",
+            "wUa77t41O9jlxK1kCiSi0hNNAzV766if",
+            "xIU5PsHaIgxJiGar3VnLWuoHQMgei2U9"
+        ],
+        "ratingCount": 571,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "A MACCIOTTA \" la maison de la langouste \"",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 35 64 12",
+        "address": "Port de, 20238 Centuri, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 21,
+                "2": 12,
+                "3": 36,
+                "4": 120,
+                "5": 384
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ6awnzwqE2RIR9sjeZ2DP9JI",
+        "website": "https://www.restaurant-alivi-porto-vecchio.fr/",
+        "index": 50,
+        "utcOffset": 120,
+        "longitude": 9.300091,
+        "latitude": 41.62384,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "At L'alivi, a French restaurant located in Porto-Vecchio, Corsica, customers have expressed their dissatisfaction with the quality of certain dishes. One customer reported that their bruschetta was overcooked and despite attempts to enhance the flavors with burratta and other toppings, the burnt taste remained. Another customer mentioned that their well-done bavette de boeuf was excessively cooked and lacked enjoyment. These experiences left both customers feeling full from struggling to finish their meals which were quite expensive.",
+        "imageKeys": [
+            "Xs3PKaMfWoantAYnT38EbHqfp5psyxMS",
+            "Q7knbm4RVWImkbnkATpvBrICRH82jaYK",
+            "A1Vt1SiKEVb7RCIRgD4hlWaALiv2Nx4J"
+        ],
+        "ratingCount": 3075,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "L'alivi",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 95 21 80 22",
+        "address": "Rte de Pezza Carda, 20137 Porto-Vecchio, France",
+        "types": [
+            "French restaurant",
+            "Italian restaurant",
+            "Mediterranean restaurant",
+            "Pizza restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 75,
+                "2": 30,
+                "3": 73,
+                "4": 362,
+                "5": 2510
+            }
+        }
+    }
+]

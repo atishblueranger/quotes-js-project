@@ -1,0 +1,35 @@
+{
+  "job_index": 38,
+  "city": "Mae Rim",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163978",
+  "title": "The 18 most romantic places in Mae Rim",
+  "final_title": "Whispers of Love in Mae Rim",
+  "from_cache": false,
+  "counts": {
+    "meta": 18,
+    "blocks": 18,
+    "merged": 18,
+    "accepted_before_trim": 18,
+    "rejected": 0,
+    "accepted_final": 13
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "691",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_romantic-places_163978.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_romantic-places_163978.report.json"
+  },
+  "created_ts": 1759249018
+}

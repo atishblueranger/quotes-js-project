@@ -1,0 +1,1819 @@
+[
+    {
+        "placeId": "ChIJYRJLpQ88RUgRuoskyifnEuI",
+        "website": "http://www.killarneybrewing.com/",
+        "index": 1,
+        "utcOffset": 60,
+        "longitude": -9.507106,
+        "latitude": 52.054319,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "The Taproom at Killarney Brewing & Distilling Co. is a proud independent brewery located just a short distance from the town center on Muckross Road, housed in a restored mineral water facility. Using only the finest locally sourced ingredients, this craft brewery ensures premium quality and exceptional flavor in their beers, all of which are named after local myths and legends.",
+        "imageKeys": [
+            "z2i3O2Q7j1FXeQnA6ZPEXEKqAorz6GDK",
+            "kdM2KXe92UcKweCq8NDrTXwlZ3u9cbOu",
+            "3cz5KLmXBBbhUyeeqBBh9ffPA5zpdp6n",
+            "MYkTo7HjIVEfealht8SntWo0DaBtkl4p",
+            "CF2IyH6hKS7IO1uNChIh1Hz5wtFyma5a"
+        ],
+        "ratingCount": 1242,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "The Taproom at Killarney Brewing & Distilling Co.",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 64 663 6505",
+        "address": "Muckross Rd, Scrahane, Killarney, Co. Kerry, V93 RC95, Ireland",
+        "types": [
+            "Brewery",
+            "Food & Drink",
+            "Brewpub",
+            "Pizza restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 13,
+                "2": 13,
+                "3": 57,
+                "4": 211,
+                "5": 950
+            }
+        }
+    },
+    {
+        "placeId": "ChIJLWxES5g9RUgRZMin7CxZuj8",
+        "website": "https://www.killarneynationalpark.ie/explore/house-gardens/killarney-house-gardens/",
+        "index": 2,
+        "utcOffset": 60,
+        "longitude": -9.508597,
+        "latitude": 52.056782,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Killarney House & Gardens, situated in the heart of the town, provides a peaceful retreat with its exquisitely designed gardens and historical displays. The restored house offers insights into its rich past and significance to the local area. Visitors can enjoy leisurely strolls through the diverse plant species and picturesque landscapes within the gardens. Additionally, guided tours of the house and beautifully landscaped gardens are available for an immersive experience.",
+        "imageKeys": [
+            "J0GJEZcDNkX7668v9SdtTYfiBWgdbRNy",
+            "571eAOqtvBJYMwsVL8J1g3EVYARnbWC6",
+            "lHBbjXqJdrhTJgrQBImgK8NmQY6uGRBv",
+            "qMcZrsUuZI09rMjUjh5e7GYDhSnwUOw6",
+            "oNKTyzeLJjKPOc8nMm29yDKAcdoZymDE"
+        ],
+        "ratingCount": 479,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1715"
+                }
+            }
+        ],
+        "name": "Killarney House & Gardens",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+353 1 539 3620",
+        "address": "Demesne, Killarney, Co. Kerry, Ireland",
+        "types": [
+            "Park",
+            "Nature & Parks",
+            "Gardens"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 2,
+                "3": 16,
+                "4": 69,
+                "5": 401
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ2W6XtAw8RUgRwHQxl6nHAAo",
+        "website": "http://www.killarney.ie/",
+        "index": 3,
+        "utcOffset": 60,
+        "longitude": -9.504537,
+        "latitude": 52.059961,
+        "rating": null,
+        "excerpt": "Killarney is a town on the shores of Lough Leane in southwest Ireland’s County Kerry. It’s a stop on the Ring of Kerry scenic drive, and the start and finishing point of the 200-km Kerry Way walking trail. The town's 19th-century buildings include St. Mary’s Cathedral. Across the bridge from the cathedral is Killarney National Park. Victorian mansion Muckross House, Gardens & Traditional Farms sits in the park.",
+        "detail_description": "Killarney is a charming town located on the shores of Lough Leane in County Kerry, southwest Ireland. It serves as a key stop along the picturesque Ring of Kerry drive and marks the beginning and end point of the 200-km Kerry Way walking trail. The town boasts 19th-century architecture, including St. Mary’s Cathedral, while just across the bridge lies Killarney National Park, home to the elegant Muckross House, Gardens & Traditional Farms.",
+        "imageKeys": [
+            "0fHQ8YL8qQAK6qJuEqclpQYN2BxeqWd8",
+            "zrJLRsXFRA2Tms6C2KzQWsc2KSkPNXCM",
+            "QaXzOy4oOs04x8G6hOP7zATYQNsSzLzu",
+            "60vOaNX6CNyiy7knHYGJqWj1uWJSFqih",
+            "EUfqyO9GRSPFmuIfoGw9uSlVOvUhGVHE"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Killarney",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Co. Kerry, Ireland",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJq3gcMg88RUgRsfv7SLQ_Z-w",
+        "website": "http://www.killarneynationalpark.ie/",
+        "index": 4,
+        "utcOffset": 60,
+        "longitude": -9.508253,
+        "latitude": 52.056831,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Nestled in County Kerry on the southwest coast of Ireland, Killarney National Park Visitor Centre is a gateway to the stunning natural beauty of Killarney National Park. Located within the picturesque Killarney House and Gardens, the center offers interactive exhibitions showcasing the park's flora, fauna, history, and biodiversity. Knowledgeable guides are on hand to provide information about the park's attractions and activities.",
+        "imageKeys": [
+            "KpMyHYWT0tMxFoWAZWJPILxWhth3MkUP",
+            "rdY3BaXzZHwllIhnHZa4zxtvQdWk2ZR9",
+            "QkizSmDc3Iv1TzI88pyfroXS4xc9RgDp",
+            "a9tm0mVyDJsbJ7K1jWW6TaEpyIy1edYA",
+            "sspsxcAMyx7YSyoV4vIQnSQM29e32okh"
+        ],
+        "ratingCount": 288,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1715"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1715"
+                }
+            }
+        ],
+        "name": "Killarney National Park Visitor Centre",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+353 1 539 3620",
+        "address": "Killarney House and Gardens, Muckross Rd, Killarney, Co. Kerry, V93 HE3C, Ireland",
+        "types": [
+            "National park"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 1,
+                "3": 10,
+                "4": 47,
+                "5": 228
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ__9vKQc8RUgRw2Yz8_eObFU",
+        "website": "http://www.killarneyparish.com/",
+        "index": 5,
+        "utcOffset": 60,
+        "longitude": -9.518144,
+        "latitude": 52.059669,
+        "rating": 4.7,
+        "excerpt": "Completed in 1855, this restored gothic revival church in a scenic field holds Catholic services.",
+        "detail_description": "St. Mary’s Cathedral, completed in 1855, is a stunning example of Gothic Revival architecture nestled in a picturesque setting. This historic church serves as the Mother Church for the dioceses of Cork and Ross, showcasing remarkable features like its square tower and intricate limestone facades. Visitors can admire its impressive timber columns and 30 beautifully carved oak statues that tell stories of faith and artistry. As you explore the area surrounding St.",
+        "imageKeys": [
+            "8H2DQbo1rhSAD3rGwW97qFqdFYUN2zW5",
+            "jAY0bG3IqcogNWX0mHO8Zw1QcBQjqCZM",
+            "UJE1DuUEFHPVlW9Wn9VqOPzkC6lDLtm9",
+            "yDuEhGnXZux0z91b0sNPIabVsVkaN2Mh",
+            "XOikQNiCyrr9SRT9lCVdwKW9z0thm08z"
+        ],
+        "ratingCount": 1304,
+        "openingPeriods": null,
+        "name": "St Mary’s Cathedral",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+353 64 663 1014",
+        "address": "New St, Inch, Killarney, Co. Kerry, Ireland",
+        "types": [
+            "Catholic cathedral",
+            "Sights & Landmarks",
+            "Architectural Buildings",
+            "Sacred & Religious Sites",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 5,
+                "2": 7,
+                "3": 49,
+                "4": 246,
+                "5": 1012
+            }
+        }
+    },
+    {
+        "placeId": "ChIJSb2D2w88RUgRSvqqGjAXVB8",
+        "website": "https://killarneyjauntingcars.com/",
+        "index": 6,
+        "utcOffset": 60,
+        "longitude": -9.507555,
+        "latitude": 52.052654,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "When exploring the enchanting Killarney National Park, one cannot miss the charm of Killarney Jaunting Cars - Tangney Tours. This unique horse-drawn carriage experience allows visitors to soak in the breathtaking scenery, from serene lakes and majestic mountains to lush valleys and cascading waterfalls. With a rich tapestry of history and mythology woven into its landscapes, Killarney offers an array of activities such as walking, cycling, and delightful dining options ranging from lively pubs to cozy restaurants.",
+        "imageKeys": [
+            "YfGaq1JZUCGGTlIVx1kf1o1uxaR35ARD",
+            "zdC7wpU06d83tYArFo0w0Z3928CuBGPf",
+            "4Z92uRPAdTeCF73WKodfZlUOeWMZa5HE",
+            "5l1Btk64fDqnkZwtpLt637APNgGDn49G",
+            "5ZPq0UfPhhGEW3Q1Yyajif9z7voZ79Ia"
+        ],
+        "ratingCount": 258,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Killarney Jaunting Cars - Tangney Tours",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+353 64 663 3358",
+        "address": "Gilhuys 10 B Close, Muckross Rd, Killarney, Co. Kerry, V93 N2P4, Ireland",
+        "types": [
+            "Tour operator",
+            "Boat tour agency",
+            "Carriage ride service",
+            "Sightseeing tour agency",
+            "Tour agency"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 7,
+                "2": 5,
+                "3": 1,
+                "4": 24,
+                "5": 203
+            }
+        }
+    },
+    {
+        "placeId": "ChIJE6TtEgk8RUgRDI_oR3nbrw8",
+        "website": "http://www.murphysofkillarney.com/",
+        "index": 7,
+        "utcOffset": 60,
+        "longitude": -9.506268,
+        "latitude": 52.0594,
+        "rating": 4.5,
+        "excerpt": "Rustic pub and restaurant serving Irish and Mediterranean food, plus basic guestrooms.",
+        "detail_description": "Murphys Bar, Restaurant & Townhouse Killarney is a charming establishment that offers a rustic pub and restaurant experience with Irish and Mediterranean cuisine. Established in 1955, it features wooden beams, historical decor, and stone walls. The townhouse provides twenty spacious en-suite rooms with elevator access for comfort and convenience. Located in the town center near Killarney National Park, it's an ideal choice for travelers seeking exceptional hospitality.",
+        "imageKeys": [
+            "hIOrjxh2lowv9vE4BWqmZUxGU6nL9VJM",
+            "8jzZe7scZV4sMBlhN4wfOrECDdpy5Hax",
+            "y4qm7P2SkQKF0nxjp3sXADzvVbFLhu0c",
+            "vWc5i2Z2LICivlkZxA4iBfi8vUTZhmTC",
+            "FDAQIS3OoTYu97xxgUuUkiL8QglQkHk7"
+        ],
+        "ratingCount": 2338,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2330"
+                }
+            }
+        ],
+        "name": "Murphys Bar, Restaurant & Townhouse Killarney",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 64 663 1294",
+        "address": "18 College St, Killarney, Co. Kerry, V93 EFP1, Ireland",
+        "types": [
+            "Bar",
+            "Irish pub"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 51,
+                "2": 46,
+                "3": 157,
+                "4": 561,
+                "5": 1544
+            }
+        }
+    },
+    {
+        "placeId": "ChIJv4lBQgg8RUgRM5WzEkQmgE0",
+        "website": "http://www.bricin.ie/",
+        "index": 8,
+        "utcOffset": 60,
+        "longitude": -9.510014,
+        "latitude": 52.061011,
+        "rating": 4.7,
+        "excerpt": "Restaurant decorated with antique lamps, stained glass and artworks, turning out Irish favourites.",
+        "detail_description": "Bricín Restaurant and Boxty House is a charming eatery located on Killarney's High Street, owned by brothers Johnny and Paddy McGuire. The restaurant boasts a tasteful decor with natural stone walls, antique timber, stained glass, and artworks. It offers a fusion of Celtic imagination and traditional Irish cuisine, serving signature dishes like the Killarney boxty - an Irish potato pancake with various fillings.",
+        "imageKeys": [
+            "qrT23Fss8MOitf1sv9coyxksZjIooQ2G",
+            "xPJbPcK1mBAqo68Qe5hZGddRFiitrgtI",
+            "63uuPNa8uHZu8R2wISFCG7YtjSfGJaZi",
+            "FTbpLQw5pcjcZL3etmbuxVjVOf03tzkq",
+            "qGkCOT60HpTaEf9BtKX9lu9UYv3uJvH0"
+        ],
+        "ratingCount": 884,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "Bricín Restaurant and Boxty House",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 64 663 4902",
+        "address": "26 High Street, Killarney, Co. Kerry, V93 EE61, Ireland",
+        "types": [
+            "Irish restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 3,
+                "2": 8,
+                "3": 27,
+                "4": 133,
+                "5": 709
+            }
+        }
+    },
+    {
+        "placeId": "ChIJAYlWCwk8RUgRRAdUKFrBGOk",
+        "website": "http://theshirekillarney.com/",
+        "index": 9,
+        "utcOffset": 60,
+        "longitude": -9.506348,
+        "latitude": 52.060135,
+        "rating": 4.3,
+        "excerpt": null,
+        "detail_description": "The Shire Bar & Cafe in Killarney, County Kerry pays homage to The Lord of the Rings and the Hobbit realm. This cozy spot offers a taste of Middle-earth with its themed decor and occasional live music. While the food is simple, visitors can try the unique Hobbit juice and enjoy a selection of beers. The venue's small size adds to its charm, so arriving early is recommended.",
+        "imageKeys": [
+            "ide5R2KSA9xeYwOsVqIktto2X1YLE5tC",
+            "O6xdIgL1pb82d9VSWCIkOXqmgcUJ9wvE",
+            "BTx5ORHn7KS4saWJfCyHEjWXmQQZkdRa",
+            "X52rLf1sktqPQJ2pRmVehKIHZspyWLhd",
+            "AXG2IcXQnBajIHoGGSpOUl1cc6RD1LGq"
+        ],
+        "ratingCount": 1920,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0030"
+                }
+            }
+        ],
+        "name": "The Shire Bar & Cafe",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 64 667 1605",
+        "address": "Michael Collins Place, Lewis Rd, Killarney, Co. Kerry, V93 CP26, Ireland",
+        "types": [
+            "Irish pub",
+            "Bar",
+            "Bar & grill",
+            "Breakfast restaurant",
+            "Cafe",
+            "Cocktail bar",
+            "Coffee shop",
+            "Comedy club",
+            "Dog cafe",
+            "Live music venue",
+            "Lunch restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 87,
+                "2": 88,
+                "3": 204,
+                "4": 428,
+                "5": 1130
+            }
+        }
+    },
+    {
+        "placeId": "ChIJucIOwQg8RUgRakFXBAnxXxQ",
+        "website": "http://www.killarneygrand.com/",
+        "index": 10,
+        "utcOffset": 60,
+        "longitude": -9.509019,
+        "latitude": 52.058158,
+        "rating": 4.5,
+        "excerpt": "A hotel with simple en suite rooms that lures a party crowd to its live music bar and nightclub.",
+        "detail_description": "The Killarney Grand, located on Main Street in Killarney, is a vibrant hotel and pub that offers a lively atmosphere with regular live music performances and a wide selection of drinks. The hotel features simple en suite rooms and is known for luring a party crowd to its live music bar and nightclub. It is situated near St Mary's Cathedral and the INEC, making it an ideal choice for travelers looking to explore the picturesque beauty of Killarney.",
+        "imageKeys": [
+            "wFDNsaf9NHvmpWY7uwobFGsh4AI8q5Zv",
+            "T5l5DNqa5ND2f4g6AZDNZrbM6vVjJuKt",
+            "UO4Mh9xxjQn7gAMHNN1H3OTXC8o8omi9",
+            "r9CBWrwKrcnC0mXbzhUNav5uX5vN7ndw",
+            "B1EARTC3HvfJtNxrAgs3HYa7MHWAgW8V"
+        ],
+        "ratingCount": 1350,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0200"
+                }
+            }
+        ],
+        "name": "The Killarney Grand",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 64 663 1159",
+        "address": "17 Main St, Killarney, Co. Kerry, V93 X6FP, Ireland",
+        "types": [
+            "Pub",
+            "Disco club",
+            "Live music venue",
+            "Piano bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 57,
+                "2": 11,
+                "3": 77,
+                "4": 279,
+                "5": 936
+            }
+        }
+    },
+    {
+        "placeId": "ChIJhZJ9wwg8RUgRjlm4gpNVFBA",
+        "website": "http://www.courtneysbar.com/",
+        "index": 11,
+        "utcOffset": 60,
+        "longitude": -9.50815,
+        "latitude": 52.058556,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Courtney's Bar, located on Plunkett Street in Killarney, is a beloved establishment that has been serving locals and visitors since the late 1800s. This traditional Irish pub offers a cozy atmosphere with an open fire and bare wood interior, making it a popular spot for both tourists and locals. The bar features an impressive selection of Irish craft beers and over 90 Irish & Scottish whiskeys.",
+        "imageKeys": [
+            "0F9aYglPOaLJBHgcyRg3kQNLZIKIICVu",
+            "xvnzBiOnPvpBU2zDuNxFkjWZN751YHYx",
+            "6XQ0PLycTBtEazUslFXrZngHBwXtS64F",
+            "2OQLVhj9iA2f8wF4r2zD5Vx0NZ5KEJH2",
+            "E2rX7b0irwlgl0f4TyxH3fzQL4DpW03e"
+        ],
+        "ratingCount": 664,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0030"
+                }
+            }
+        ],
+        "name": "Courtney's Bar",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 64 663 2689",
+        "address": "24 Plunkett St, Killarney, Co. Kerry, V93 RR04, Ireland",
+        "types": [
+            "Bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 15,
+                "2": 6,
+                "3": 35,
+                "4": 151,
+                "5": 458
+            }
+        }
+    },
+    {
+        "placeId": "ChIJFxa8kgg8RUgRR68Mu_2qfuI",
+        "website": "https://seafoodbar.ie/killarney/",
+        "index": 12,
+        "utcOffset": 60,
+        "longitude": -9.509752,
+        "latitude": 52.059369,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Quinlan's Seafood Bar, located on High Street in Killarney, is a popular spot known for its super-fresh fish and chips. The menu features a variety of seafood options including scallops, haddock, wild mussels, and more. What sets Quinlan's apart is their commitment to sourcing fresh fish and shellfish from their own boats in Renard and Caherciveen. This ensures that guests can enjoy ultra-fresh seasonal seafood at affordable prices.",
+        "imageKeys": [
+            "AY60zVYCZXLPzGv0d4M6AsjMxlVDsloJ",
+            "DQTWFJ4xEhtMFxhETBG841OmjniVbv1T",
+            "mz6iBWJ496DvhE2hqTDkbzMT40p8ucJR",
+            "CBknnybiOCBlJwJYu35wBnirqS5H2jkW",
+            "IGZ1eb86F91JwutuQtwYfjaBG9yVWSKU"
+        ],
+        "ratingCount": 1746,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Quinlan's Seafood Bar",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 64 662 0666",
+        "address": "77 High Street, Killarney, Co. Kerry, V93 R2X3, Ireland",
+        "types": [
+            "Fish & chips restaurant",
+            "Fishing store",
+            "Seafood market",
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 34,
+                "2": 47,
+                "3": 115,
+                "4": 357,
+                "5": 1193
+            }
+        }
+    },
+    {
+        "placeId": "ChIJzQl5R60-RUgRYP8G4awTkP0",
+        "website": null,
+        "index": 13,
+        "utcOffset": 60,
+        "longitude": -9.530811,
+        "latitude": 52.063731,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Nestled within the stunning Killarney National Park, Knockreer offers an enchanting network of surfaced tracks perfect for both cyclists and walkers. This picturesque area, along with Muckross and Ross Island, boasts a variety of trails that cater to all levels of outdoor enthusiasts. Visitors can easily rent bicycles in Killarney town, where rental shops often provide helpful cycle maps to guide your adventure.",
+        "imageKeys": [
+            "fH2xoRhyJ58ZDMK8koH6NroeTkyfcPgd"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Knockreer",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Co. Kerry, Ireland",
+        "types": [
+            "Sights & Landmarks",
+            "Historic Sites"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJBXd-9Ag8RUgRJf32otzfRjE",
+        "website": null,
+        "index": 14,
+        "utcOffset": 60,
+        "longitude": -9.509623,
+        "latitude": 52.059788,
+        "rating": 4.6,
+        "excerpt": "Relaxing pub with live music, an upstairs restaurant & events like whiskey & beer tastings.",
+        "detail_description": "O'Connors Traditional Pub, located on High Street in Killarney, is a historic establishment that has been in business for a century. The interior exudes traditional charm with its panelled walls and old-school decor. This pub offers live music most nights of the week and hosts events such as whiskey and beer tastings. Visitors can also enjoy cocktails and tasty toasties while soaking up the lively atmosphere.",
+        "imageKeys": [
+            "ZZLTfZAKMwa1rAo0wxgwaXUyxWQ8tG5V",
+            "2x8kxpYWNSuyFBxptQZV8NsUhk3ENfhQ",
+            "dvZuPk56fihybjmYLfwFVk5zqjS6A0TL",
+            "I0WP8bRwogZHg3sXyMvNtZPzLvKXyg4R",
+            "bRGseZRY2fePJIfqBeUk4natZZsMdoZW"
+        ],
+        "ratingCount": 1118,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1230"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0030"
+                }
+            }
+        ],
+        "name": "O'Connors Traditional Pub",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 86 034 6949",
+        "address": "7 High Street, Killarney, Co. Kerry, V93 DV26, Ireland",
+        "types": [
+            "Pub",
+            "Bar",
+            "Cafe",
+            "Cocktail bar",
+            "Live music bar",
+            "Sandwich shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 22,
+                "2": 11,
+                "3": 63,
+                "4": 220,
+                "5": 815
+            }
+        }
+    },
+    {
+        "placeId": "ChIJGWRl5XI-RUgR7G0kROUqveA",
+        "website": null,
+        "index": 15,
+        "utcOffset": 60,
+        "longitude": -9.521117,
+        "latitude": 51.99807,
+        "rating": 4.8,
+        "excerpt": "A 1,755-foot mountain in a national park with a waterfall, climbing routes & lake views.",
+        "detail_description": "Torc Mountain is a majestic peak standing 1,755 feet tall and located in a national park. It features breathtaking views of the lake and offers climbing routes for those with moderate fitness levels. The climb begins at a waterfall adding an extra level of difficulty for hikers. Despite this, it's considered very safe and suitable for families with children if starting from the top car park.",
+        "imageKeys": [
+            "HDoqTXogmRMCmlalGWaHMRTvnwGwiUNW",
+            "xq3XhaKJSyhNV84QDLqT9jwp332chka1",
+            "gTiMwwvvAGDthzGOqy52vKmHJio3b0K6",
+            "k7KkRMj4UMvF4XOdaGhbTlAPMEhJHCsQ",
+            "8rTYxf8TsCSp1VWrQIcKxmeqNCMtpwdR"
+        ],
+        "ratingCount": 128,
+        "openingPeriods": null,
+        "name": "Torc Mountain",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Crinnagh, Co. Kerry, Ireland",
+        "types": [
+            "Mountain peak",
+            "Outdoor Activities",
+            "Hiking Trails"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 0,
+                "3": 2,
+                "4": 8,
+                "5": 118
+            }
+        }
+    },
+    {
+        "placeId": "ChIJiSxn2wg8RUgR1G1rc-xobOM",
+        "website": "http://theporterhousekillarney.com/",
+        "index": 16,
+        "utcOffset": 60,
+        "longitude": -9.508281,
+        "latitude": 52.058457,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Porterhouse Restaurant, located on Plunkett St, offers hearty Irish cuisine in a cozy and traditional pub setting. The family-run gastropub is known for its varied menu featuring dishes like stuffed mushrooms, gourmet burgers, fajitas, fish & chips, and dry-aged Angus steaks. Situated by the River Lee in Cork, it's also famous for its thin-based pizzas and other specialties like sweet potato fries and chicken goujons.",
+        "imageKeys": [
+            "zjGBgg0zizH44lvtwnO3eQYqogUa3Byw",
+            "vVRA98ZXuKpHSz5o79M8pMVEY5YvXWjk",
+            "EmgxbdGANSdQeoQtexDas10aRFpE9VUe",
+            "P8UVR1ZfwoPaUmgmT5LLHtecaj2KH5mL",
+            "TC5i5hrJxUACAXMd3PP9OsRKobNzc1dZ"
+        ],
+        "ratingCount": 1436,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Porterhouse Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+353 64 667 1130",
+        "address": "26 Plunkett St, Killarney, Co. Kerry, Ireland",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 40,
+                "2": 24,
+                "3": 74,
+                "4": 304,
+                "5": 994
+            }
+        }
+    },
+    {
+        "placeId": "ChIJKyfu2oE9RUgRMjWAeLiIA0k",
+        "website": null,
+        "index": 17,
+        "utcOffset": 60,
+        "longitude": -9.505262,
+        "latitude": 52.05969,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "aHzawBTYZuIwng3JEnBymFjpdj2epF6O",
+            "9npzPT4dN4jICo2JcepQvApTi6epbyJQ",
+            "6HfWX1SUswj9RfwVKbuGXQPYai39BPIu",
+            "NsCpnVcbHHoNMN4LewLguULD1iDOVLxn"
+        ],
+        "ratingCount": 4,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Killarney Town Walking Tours",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+353 89 253 5777",
+        "address": "Main St, Killarney, Co. Kerry, Ireland",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 3
+            }
+        }
+    },
+    {
+        "placeId": "ChIJQ1dkftM9RUgRp-MTG7w_tZc",
+        "website": "https://muckross-house.ie/",
+        "index": 18,
+        "utcOffset": 60,
+        "longitude": -9.504136,
+        "latitude": 52.01807,
+        "rating": 4.7,
+        "excerpt": "Furnished 19th-century mansion set among mountains and woodland, with shop, cafe and working farms.",
+        "detail_description": "Muckross House is a stunning 19th-century mansion located in Killarney, Ireland, amidst picturesque mountains and woodlands. The Victorian mansion is filled with an array of captivating objects, with 70% of its contents being original. Visitors can admire portraits by John Singer Sargent, trophy stags heads, and antique Killarney furniture featuring inlaid scenes of local beauty spots.",
+        "imageKeys": [
+            "fwZT0nwI6Qqc2tCQ9SwvhaLCafdjujP6",
+            "9gyjXBpjUT0lR7jtLBNcdvoPemA4cw2r",
+            "vHHtdHlUJ3w5Mz8v2RmZqDnRZF8S7gr0",
+            "7MWhufIbBXWp3aP99giqZYqPn1Wm58Uq",
+            "W36hswkHJLFWn7dNAYDlKKTWq5LuYYIT"
+        ],
+        "ratingCount": 10431,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0915"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Muckross House",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+353 64 667 0144",
+        "address": "Muckross, Killarney, Co. Kerry, Ireland",
+        "types": [
+            "Museum",
+            "Nature & Parks",
+            "Craft store",
+            "Restaurant",
+            "Historic Sites",
+            "Gardens"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 67,
+                "2": 64,
+                "3": 424,
+                "4": 2124,
+                "5": 7834
+            }
+        }
+    },
+    {
+        "placeId": "ChIJiWkrxg88RUgRYk8SBq1UrUA",
+        "website": "http://www.killarneycyclingclub.com/",
+        "index": 19,
+        "utcOffset": 60,
+        "longitude": -9.507927,
+        "latitude": 52.06203,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Killarney Cycling Club is a popular cycling club located in the picturesque town of Killarney, Ireland. The club offers a variety of cycling routes that cater to all levels of cyclists, from beginners to experienced riders. Members can enjoy stunning views of the surrounding countryside as they pedal through lush green landscapes and past sparkling lakes. The club also organizes group rides and events, providing opportunities for cyclists to connect with like-minded individuals and explore the beautiful scenery together.",
+        "imageKeys": [],
+        "ratingCount": null,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Killarney Cycling Club",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "St Anne's Rd, Kilcoolaght, Killarney, Co. Kerry, Ireland",
+        "types": [
+            "Bicycle club"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJlx6bW_07RUgRxBWkCKzahFo",
+        "website": "https://www.falconrykerry.com/",
+        "index": 20,
+        "utcOffset": 60,
+        "longitude": -9.496976,
+        "latitude": 52.081936,
+        "rating": 5,
+        "excerpt": null,
+        "detail_description": "Falconry Kerry, located in Killarney, is a popular tourist attraction for fans of birds of prey. The center offers a unique wedding experience where barn owls can be trained to deliver rings during the ceremony. Visitors can also enjoy spending quality time with various birds including Dusty and Freddie, two Harris hawks named Khaleesi and Hei Hei.",
+        "imageKeys": [
+            "cZo3xai1tSNzIF6WGrXagerbkaZTLwt3",
+            "Bbcp9bbTsp4ACsZAtvhu2hLBDreGIOlx",
+            "QeRuFgQMqzoWgzXrlsmtXYPrLtQ15yMz",
+            "O3oNloroNlXi8P4Mk4UwC9Oyf1MwdJFd",
+            "wXkGnYtsucNJi54Qwq9YB0t16tTrQElf"
+        ],
+        "ratingCount": 302,
+        "openingPeriods": null,
+        "name": "Falconry Kerry (in Killarney)",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+353 87 127 9745",
+        "address": "Inchycullane, Killarney, Co. Kerry, V93 N9Y4, Ireland",
+        "types": [
+            "Heritage preservation"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 4,
+                "5": 303
+            }
+        }
+    }
+]

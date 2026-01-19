@@ -1,0 +1,35 @@
+{
+  "job_index": 9,
+  "city": "Graz",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160559",
+  "title": "The 35 best photo spots in Graz",
+  "final_title": "Picture-Perfect Graz: Capture the Magic",
+  "from_cache": false,
+  "counts": {
+    "meta": 35,
+    "blocks": 35,
+    "merged": 35,
+    "accepted_before_trim": 24,
+    "rejected": 11,
+    "accepted_final": 15
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 33,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "1043",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\austria_20251003_1641\\graz_photo-spots_160559.json",
+    "report_json": "publish_playlist\\austria_20251003_1641\\graz_photo-spots_160559.report.json"
+  },
+  "created_ts": 1759492198
+}

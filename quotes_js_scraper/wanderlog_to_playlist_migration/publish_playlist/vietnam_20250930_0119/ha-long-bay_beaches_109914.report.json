@@ -1,0 +1,35 @@
+{
+  "job_index": 20,
+  "city": "Hạ Long Bay",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/109914",
+  "title": "The 20 best beaches in and around Hạ Long Bay",
+  "final_title": "Sun-Kissed Shores of Hạ Long Bay",
+  "from_cache": false,
+  "counts": {
+    "meta": 20,
+    "blocks": 20,
+    "merged": 20,
+    "accepted_before_trim": 20,
+    "rejected": 0,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "662",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\vietnam_20250930_0119\\ha-long-bay_beaches_109914.json",
+    "report_json": "publish_playlist\\vietnam_20250930_0119\\ha-long-bay_beaches_109914.report.json"
+  },
+  "created_ts": 1759177717
+}

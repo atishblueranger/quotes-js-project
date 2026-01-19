@@ -1,0 +1,35 @@
+{
+  "job_index": 39,
+  "city": "Mae Rim",
+  "category_used": "waterfalls",
+  "url": "https://wanderlog.com/list/geoCategory/178370",
+  "title": "The 16 best waterfalls near Mae Rim",
+  "final_title": "Chasing Cascades: Mae Rim's Waterfall Wonders",
+  "from_cache": false,
+  "counts": {
+    "meta": 16,
+    "blocks": 16,
+    "merged": 16,
+    "accepted_before_trim": 4,
+    "rejected": 12,
+    "accepted_final": 3
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 10,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_waterfalls_178370.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_waterfalls_178370.report.json"
+  },
+  "created_ts": 1759248598
+}

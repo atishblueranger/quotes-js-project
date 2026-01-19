@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Santorini Sunset Strolls",
+  "placeName": "Santorini",
+  "country": "Greece",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/places-to-visit-in-santorini/"
+  ],
+  "description": "Wandering Santorini's whitewashed lanes as the sun melts into the Aegean - songs for golden, slow strolls.",
+  "items": [
+    {
+      "name": "Pyrgos",
+      "description": "",
+      "location_hint": "Santorini Island, Greece",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Fira",
+      "description": "",
+      "location_hint": "Aegean Sea, Santorini Island, Greece",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Akrotiri",
+      "description": "",
+      "location_hint": "Thera 84700, Greece",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ammoudi",
+      "description": "",
+      "location_hint": "Santorini Island, Greece",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Nea Kameni",
+      "description": "",
+      "location_hint": "Santorini Caldera, Greece",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Oia",
+      "description": "",
+      "location_hint": "Santorini Island, Greece",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Caldera",
+      "description": "",
+      "location_hint": "Southern Aegean Sea",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Red Beach",
+      "description": "",
+      "location_hint": "Greece",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Therasia",
+      "description": "",
+      "location_hint": "NA",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ancient Thira",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

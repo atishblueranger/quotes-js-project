@@ -1,0 +1,29 @@
+[
+  {
+    "job_index": null,
+    "city": "Kuala Lumpur",
+    "category": "free attractions",
+    "title": "The 50 best free attractions in Kuala Lumpur",
+    "url": "https://wanderlog.com/list/geoCategory/129603",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Petaling Jaya",
+    "category": "free attractions",
+    "title": "The 47 best free attractions in Petaling Jaya",
+    "url": "https://wanderlog.com/list/geoCategory/129729",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Johor Bahru",
+    "category": "malls",
+    "title": "The 36 best malls in Johor Bahru",
+    "url": "https://wanderlog.com/list/geoCategory/140524",
+    "stage": "parse",
+    "error": "mobx_regex_no_match"
+  }
+]

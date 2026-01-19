@@ -1,0 +1,484 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759258386,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\thailand_20251001_0022\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 4,
+      "city": "Ayutthaya",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163949",
+      "title": "The 16 most romantic places in Ayutthaya",
+      "final_title": "Romantic Escapes in Enchanting Ayutthaya",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 16,
+        "rejected": 0,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "717",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\ayutthaya_romantic-places_163949.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\ayutthaya_romantic-places_163949.report.json"
+      },
+      "created_ts": 1759258578
+    },
+    {
+      "job_index": 6,
+      "city": "Pai",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163958",
+      "title": "The 17 most romantic places in Pai",
+      "final_title": "Whispers of Love in Pai",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 17,
+        "rejected": 0,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "718",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\pai_romantic-places_163958.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\pai_romantic-places_163958.report.json"
+      },
+      "created_ts": 1759258790
+    },
+    {
+      "job_index": 7,
+      "city": "Kanchanaburi",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163961",
+      "title": "The 19 most romantic places in Kanchanaburi",
+      "final_title": "Whispers of Love in Kanchanaburi",
+      "from_cache": false,
+      "counts": {
+        "meta": 19,
+        "blocks": 19,
+        "merged": 19,
+        "accepted_before_trim": 18,
+        "rejected": 1,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "719",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\kanchanaburi_romantic-places_163961.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\kanchanaburi_romantic-places_163961.report.json"
+      },
+      "created_ts": 1759259000
+    },
+    {
+      "job_index": 0,
+      "city": "Pattaya",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163825",
+      "title": "The 44 most romantic places in Pattaya",
+      "final_title": "Romantic Escapes in Enchanting Pattaya",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 42,
+        "rejected": 2,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 3,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "720",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\pattaya_romantic-places_163825.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\pattaya_romantic-places_163825.report.json"
+      },
+      "created_ts": 1759259446
+    },
+    {
+      "job_index": 8,
+      "city": "Kanchanaburi",
+      "category_used": "waterfalls",
+      "url": "https://wanderlog.com/list/geoCategory/178353",
+      "title": "The 17 best waterfalls near Kanchanaburi",
+      "final_title": "Chasing Cascades: Kanchanaburi's Waterfall Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 6,
+        "rejected": 11,
+        "accepted_final": 4
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\kanchanaburi_waterfalls_178353.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\kanchanaburi_waterfalls_178353.report.json"
+      },
+      "created_ts": 1759259473
+    },
+    {
+      "job_index": 9,
+      "city": "Kanchanaburi",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160363",
+      "title": "The 30 best photo spots in Kanchanaburi",
+      "final_title": "Capture Kanchanaburi: A Photographer's Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 24,
+        "rejected": 6,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 26,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "722",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\kanchanaburi_photo-spots_160363.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\kanchanaburi_photo-spots_160363.report.json"
+      },
+      "created_ts": 1759259781
+    },
+    {
+      "job_index": 10,
+      "city": "Chalong",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/161898",
+      "title": "The 43 best photo spots in Chalong",
+      "final_title": "Chalong's Captivating Photo Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 43,
+        "blocks": 43,
+        "merged": 43,
+        "accepted_before_trim": 17,
+        "rejected": 26,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 38,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "723",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\chalong_photo-spots_161898.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\chalong_photo-spots_161898.report.json"
+      },
+      "created_ts": 1759260061
+    },
+    {
+      "job_index": 12,
+      "city": "Patong",
+      "category_used": "waterfalls",
+      "url": "https://wanderlog.com/list/geoCategory/179890",
+      "title": "The 16 best waterfalls near Patong",
+      "final_title": "Chasing Waterfalls: Patong's Hidden Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 5,
+        "rejected": 11,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 8,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\patong_waterfalls_179890.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\patong_waterfalls_179890.report.json"
+      },
+      "created_ts": 1759260087
+    },
+    {
+      "job_index": 11,
+      "city": "Kamala",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/111527",
+      "title": "The 32 best beaches in and around Kamala",
+      "final_title": "Kamala's Coastal Bliss: Beachside Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 23,
+        "rejected": 9,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "725",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\kamala_beaches_111527.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\kamala_beaches_111527.report.json"
+      },
+      "created_ts": 1759260344
+    },
+    {
+      "job_index": 3,
+      "city": "Rawai",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109939",
+      "title": "The 36 best beaches in and around Rawai",
+      "final_title": "Rawai's Coastal Bliss: Beach Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 36,
+        "blocks": 36,
+        "merged": 36,
+        "accepted_before_trim": 22,
+        "rejected": 14,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "726",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\rawai_beaches_109939.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\rawai_beaches_109939.report.json"
+      },
+      "created_ts": 1759260619
+    },
+    {
+      "job_index": 15,
+      "city": "Patong",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/111528",
+      "title": "The 26 best beaches in and around Patong",
+      "final_title": "Patong's Paradise: Beach Bliss Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 19,
+        "rejected": 7,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 5,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "727",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\patong_beaches_111528.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\patong_beaches_111528.report.json"
+      },
+      "created_ts": 1759260831
+    },
+    {
+      "job_index": 13,
+      "city": "Patong",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/161900",
+      "title": "The 21 best photo spots in Patong",
+      "final_title": "Picture-Perfect Patong: Capture the Magic",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 11,
+        "rejected": 10,
+        "accepted_final": 7
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 19,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "728",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\patong_photo-spots_161900.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\patong_photo-spots_161900.report.json"
+      },
+      "created_ts": 1759261001
+    },
+    {
+      "job_index": 14,
+      "city": "Patong",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/142111",
+      "title": "The 32 best malls in Patong",
+      "final_title": "Patong's Shopping Paradise: Malls to Explore",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 16,
+        "rejected": 16,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "729",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20251001_0022\\patong_malls_142111.json",
+        "report_json": "publish_playlist\\thailand_20251001_0022\\patong_malls_142111.report.json"
+      },
+      "created_ts": 1759261217
+    }
+  ],
+  "end_ts": 1759261218,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 146,
+    "llm_title_calls": 13,
+    "google_places_calls": 126,
+    "cache_hits": 15,
+    "cache_misses": 309
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 146,
+    "llm_title_cache": 13,
+    "google_places_cache": 126,
+    "mobx_data_cache": 13
+  }
+}

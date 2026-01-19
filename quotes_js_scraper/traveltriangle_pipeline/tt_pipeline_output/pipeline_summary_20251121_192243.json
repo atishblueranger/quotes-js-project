@@ -1,0 +1,29 @@
+{
+  "timestamp": "20251121_192243",
+  "args": {
+    "url": "https://traveltriangle.com/blog/romantic-places-in-delhi/",
+    "batch": null,
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "category": "Travel",
+    "subtype": "poi",
+    "optimize_ai": true,
+    "title_mode": "catchy",
+    "min_confidence": 0.65,
+    "keep_ratio": 0.9,
+    "refresh_photos": false,
+    "require_photo": false,
+    "dry_run": true,
+    "skip_upload": false,
+    "output_dir": "tt_pipeline_output"
+  },
+  "results": [
+    {
+      "url": "https://traveltriangle.com/blog/romantic-places-in-delhi/",
+      "basename": "playlist",
+      "success": false,
+      "steps_completed": []
+    }
+  ]
+}

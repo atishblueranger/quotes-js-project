@@ -50,44 +50,49 @@
 
 # for Chrome driver 
 # from shutil import which
-  
+# from shutil import which 
+
 # SELENIUM_DRIVER_NAME = 'chrome'
-# SELENIUM_DRIVER_EXECUTABLE_PATH = 'C:\dev\python_runs\scrapy_selenium\quotes-js-project\chromedriver.exe'
-# SELENIUM_DRIVER_ARGUMENTS=['--headless']  
+# SELENIUM_DRIVER_EXECUTABLE_PATH = r"C:\dev\python_runs\scrapy_selenium\quotes-js-project\chromedriver.exe"
+# SELENIUM_DRIVER_ARGUMENTS = ['--headless'] 
   
+# # DOWNLOADER_MIDDLEWARES = {
+# #      'scrapy_selenium.SeleniumMiddleware': 800
+# #      }
+
 # DOWNLOADER_MIDDLEWARES = {
-#      'scrapy_selenium.SeleniumMiddleware': 800
-#      }
-
-DOWNLOADER_MIDDLEWARES = {
-    'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
-    'scrapeops_scrapy_proxy_sdk.scrapeops_scrapy_proxy_sdk.ScrapeOpsScrapyProxySdk': 543,
-    'quotes_js_scraper.middlewares.CustomSeleniumMiddleware': 400,
-}
+#     # 'quotes_js_scraper.middlewares.PatchedSeleniumMiddleware': 800,
+#     # 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
+#     # 'scrapeops_scrapy_proxy_sdk.scrapeops_scrapy_proxy_sdk.ScrapeOpsScrapyProxySdk': 543,
+#     # 'quotes_js_scraper.middlewares.CustomSeleniumMiddleware': 400,
+    
+# }
 
 
 
 
 
 
-BOT_NAME = 'quotes_js_scraper'
+# BOT_NAME = 'quotes_js_scraper'
 
-SPIDER_MODULES = ['quotes_js_scraper.spiders']
-NEWSPIDER_MODULE = 'quotes_js_scraper.spiders'
-
-
-# Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'quotes_js_scraper (+http://www.yourdomain.com)'
-
-# Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+# SPIDER_MODULES = ['quotes_js_scraper.spiders']
+# NEWSPIDER_MODULE = 'quotes_js_scraper.spiders'
 
 
-SCRAPEOPS_API_KEY = '0dd51678-5065-4d91-87a4-51013e50a107'
-SCRAPEOPS_PROXY_ENABLED = True
+# # Crawl responsibly by identifying yourself (and your website) on the user-agent
+# #USER_AGENT = 'quotes_js_scraper (+http://www.yourdomain.com)'
 
-# Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 1
+# # Obey robots.txt rules
+# ROBOTSTXT_OBEY = False
+# ITEM_PIPELINES = {
+#     # 'quotes_js_scraper.pipelines.CountryJsonWriterPipeline': 300,
+# }
+
+# SCRAPEOPS_API_KEY = '0dd51678-5065-4d91-87a4-51013e50a107'
+# SCRAPEOPS_PROXY_ENABLED = True
+
+# # Configure maximum concurrent requests performed by Scrapy (default: 16)
+# CONCURRENT_REQUESTS = 1
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
@@ -153,3 +158,37 @@ CONCURRENT_REQUESTS = 1
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+
+
+
+# settings.py
+
+# --- Scrapy-Selenium Configuration ---
+SELENIUM_DRIVER_NAME = 'chrome'
+# SELENIUM_DRIVER_EXECUTABLE_PATH = r"C:\dev\python_runs\scrapy_selenium\quotes-js-project\chromedriver.exe"  
+# 3) run it headless (optional)
+SELENIUM_DRIVER_ARGUMENTS = ['--headless','--no-sandbox']
+
+# --- Downloader Middlewares ---
+# Combine ALL middlewares into ONE dictionary.
+# The key is the middleware path, and the value is its order of execution.
+DOWNLOADER_MIDDLEWARES = {
+   # 'scrapy_selenium.SeleniumMiddleware': 800,
+   # 'scrapeops_scrapy_proxy_sdk.scrapeops_scrapy_proxy_sdk.ScrapeOpsScrapyProxySdk': 543,
+   # Add any other middlewares you need here
+}
+
+# --- Other Settings ---
+BOT_NAME = 'quotes_js_scraper'
+SPIDER_MODULES = ['quotes_js_scraper.spiders']
+NEWSPIDER_MODULE = 'quotes_js_scraper.spiders'
+
+ROBOTSTXT_OBEY = False
+
+# ScrapeOps Integration
+SCRAPEOPS_API_KEY = '0dd51678-5065-4d91-87a4-51013e50a107' # Paste your key here
+SCRAPEOPS_PROXY_ENABLED = True
+
+# Set a lower concurrency to be polite
+CONCURRENT_REQUESTS = 1

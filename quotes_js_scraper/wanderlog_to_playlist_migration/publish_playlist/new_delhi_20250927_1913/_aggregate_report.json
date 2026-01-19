@@ -1,0 +1,99 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1758980605,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\new_delhi_20250927_1913\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 1,
+      "city": "New Delhi",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97202",
+      "title": "The 45 best architecture in New Delhi",
+      "final_title": "Architectural Wonders of New Delhi",
+      "from_cache": false,
+      "counts": {
+        "meta": 45,
+        "blocks": 45,
+        "merged": 45,
+        "accepted_before_trim": 45,
+        "rejected": 0,
+        "accepted_final": 27
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "597",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\new_delhi_20250927_1913\\new-delhi_architecture_97202.json",
+        "report_json": "publish_playlist\\new_delhi_20250927_1913\\new-delhi_architecture_97202.report.json"
+      },
+      "created_ts": 1758981198
+    },
+    {
+      "job_index": 0,
+      "city": "New Delhi",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160167",
+      "title": "The 40 best photo spots in New Delhi",
+      "final_title": "Capturing the Heart of New Delhi",
+      "from_cache": false,
+      "counts": {
+        "meta": 40,
+        "blocks": 40,
+        "merged": 40,
+        "accepted_before_trim": 37,
+        "rejected": 3,
+        "accepted_final": 23
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 39,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\new_delhi_20250927_1913\\new-delhi_photo-spots_160167.json",
+        "report_json": "publish_playlist\\new_delhi_20250927_1913\\new-delhi_photo-spots_160167.report.json"
+      },
+      "created_ts": 1758981728
+    }
+  ],
+  "end_ts": 1758981728,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 39,
+    "llm_title_calls": 2,
+    "google_places_calls": 38,
+    "cache_hits": 12,
+    "cache_misses": 81
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 39,
+    "llm_title_cache": 2,
+    "google_places_cache": 38,
+    "mobx_data_cache": 2
+  }
+}

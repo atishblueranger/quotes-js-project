@@ -1,0 +1,35 @@
+{
+  "job_index": 13,
+  "city": "Pattaya",
+  "category_used": "free attractions",
+  "url": "https://wanderlog.com/list/geoCategory/129644",
+  "title": "The 22 best free attractions in Pattaya",
+  "final_title": "Discover Pattaya's Hidden Free Gems",
+  "from_cache": false,
+  "counts": {
+    "meta": 22,
+    "blocks": 22,
+    "merged": 22,
+    "accepted_before_trim": 7,
+    "rejected": 15,
+    "accepted_final": 5
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 8,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\pattaya_beaches_129644.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\pattaya_beaches_129644.report.json"
+  },
+  "created_ts": 1759252747
+}

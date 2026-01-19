@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Top Beaches In Vancouver",
+  "placeName": "Vancouver",
+  "country": "Canada",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-in-vancouver/"
+  ],
+  "description": "Salty air, driftwood mornings and sunset soundtracks - a playlist for Vancouver's best beaches.",
+  "items": [
+    {
+      "name": "Sunset Beach",
+      "description": "",
+      "location_hint": "1204 Beach Ave, Vancouver, BC V6E 1V3, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ambleside Beach",
+      "description": "",
+      "location_hint": "1150 Marine Dr, West Vancouver, BC V7T 1B1, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kitsilano Beach",
+      "description": "",
+      "location_hint": "Kitsilano Beach, Vancouver, BC, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Wreck Beach",
+      "description": "",
+      "location_hint": "Pacific Spirit Regional Park, Vancouver, British Columbia, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Jericho Beach",
+      "description": "",
+      "location_hint": "Point Grey Rd, Vancouver, BC V6R 1B5, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Spanish Banks Beach",
+      "description": "",
+      "location_hint": "Spanish Banks Beach, Vancouver, BC, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "English Bay Beach",
+      "description": "",
+      "location_hint": "English Bay Beach, Vancouver, British Columbia, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Locarno Beach",
+      "description": "",
+      "location_hint": "Locarno Beach, Vancouver, British Columbia, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Second Beach",
+      "description": "",
+      "location_hint": "Second Beach, Vancouver, British Columbia, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Cates Park",
+      "description": "",
+      "location_hint": "4141 Dollarton Hwy, North Vancouver, BC V7G 1A1, Canada",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.5,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,2552 @@
+{
+  "_id": "2253",
+  "city_name": "Pahalgam",
+  "is_searchable": true,
+  "place_id": 2253,
+  "country_name": "India",
+  "city_name_search": "pahalgam",
+  "longitude": 75.31199,
+  "parent_id": 87437,
+  "popularity": 3534,
+  "manual_description": null,
+  "subcategory": "municipality",
+  "state_name": "Jammu and Kashmir",
+  "bounds": [
+    75.30581,
+    33.98815,
+    75.32544,
+    34.03266
+  ],
+  "image_url": [
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/2253/1.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/2253/2.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/2253/3.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/2253.jpg"
+  ],
+  "position": {
+    "geohash": "twj99cbw2",
+    "geopoint": {
+      "latitude": 34.024384,
+      "longitude": 75.31199
+    }
+  },
+  "latitude": 34.024384,
+  "image_key": "aT9N480Xgor5Fa8COjZuSJ8GqSJi57Mf",
+  "depth": 5,
+  "place_description": "Pahalgam is a hill station in the north Indian state of Jammu and Kashmir. Mountain trails run northeast to Amarnath Cave Temple, a Hindu shrine and site of the annual Amarnath Yatra pilgrimage. Overa Aru Wildlife Sanctuary is home to animals including brown bears and musk deer. Northeast, the Lidder River runs through scenic Betaab Valley. Southeast, Tulian Lake is flanked by mountain peaks and often frozen.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "India"
+      },
+      {
+        "_id": "86838",
+        "subcategory": "region",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 86838,
+        "longitude": 76.81,
+        "bounds": [
+          73.75051,
+          32.29227,
+          79.30585,
+          35.50543
+        ],
+        "latitude": 34.125446,
+        "popularity": 25075,
+        "parentId": 86839,
+        "depth": 3,
+        "name": "Kashmir"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "1006",
+        "subcategory": "city",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 1006,
+        "longitude": 74.38533,
+        "bounds": [
+          74.35954,
+          34.03967,
+          74.38654,
+          34.0616
+        ],
+        "latitude": 34.046032,
+        "popularity": 3941,
+        "parentId": 87068,
+        "depth": 5,
+        "name": "Gulmarg"
+      },
+      {
+        "_id": "1818",
+        "subcategory": "city",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 1818,
+        "longitude": 74.31665,
+        "bounds": [
+          74.30908,
+          33.36012,
+          74.35449,
+          33.40307
+        ],
+        "latitude": 33.36914,
+        "popularity": 3,
+        "parentId": 87308,
+        "depth": 5,
+        "name": "Rajauri"
+      },
+      {
+        "_id": "2185",
+        "subcategory": "city",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 2185,
+        "longitude": 76.13061,
+        "bounds": [
+          76.112,
+          34.52044,
+          76.15706,
+          34.59633
+        ],
+        "latitude": 34.550034,
+        "popularity": 859,
+        "parentId": 87419,
+        "depth": 5,
+        "name": "Kargil"
+      },
+      {
+        "_id": "2541",
+        "subcategory": "city",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 2541,
+        "longitude": 75.149864,
+        "bounds": [
+          75.10998,
+          33.70319,
+          75.1865,
+          33.75259
+        ],
+        "latitude": 33.730213,
+        "popularity": 271,
+        "parentId": 87437,
+        "depth": 5,
+        "name": "Anantnag"
+      },
+      {
+        "_id": "256",
+        "subcategory": "city",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 256,
+        "longitude": 74.80222,
+        "bounds": [
+          74.71698,
+          34.00934,
+          74.89653,
+          34.2041
+        ],
+        "latitude": 34.09222,
+        "popularity": 16924,
+        "parentId": 86837,
+        "depth": 5,
+        "name": "Srinagar"
+      },
+      {
+        "_id": "2608",
+        "subcategory": "city",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 2608,
+        "longitude": 74.72022,
+        "bounds": [
+          74.72328,
+          33.98391,
+          74.82072,
+          34.02884
+        ],
+        "latitude": 34.021362,
+        "popularity": 4,
+        "parentId": 87538,
+        "depth": 5,
+        "name": "Badgam"
+      },
+      {
+        "_id": "3466",
+        "subcategory": "city",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 3466,
+        "longitude": 75.3165,
+        "bounds": [
+          75.31373,
+          33.05687,
+          75.34643,
+          33.1065
+        ],
+        "latitude": 33.08742,
+        "popularity": 622,
+        "parentId": 87529,
+        "depth": 5,
+        "name": "Patnitop"
+      },
+      {
+        "_id": "86837",
+        "subcategory": "district",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 86837,
+        "longitude": 74.80195,
+        "bounds": [
+          74.68744,
+          34.00792,
+          75.15237,
+          34.21627
+        ],
+        "latitude": 34.095325,
+        "popularity": 16924,
+        "parentId": 86838,
+        "depth": 4,
+        "name": "Srinagar District"
+      },
+      {
+        "_id": "87529",
+        "subcategory": "district",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 87529,
+        "longitude": 75.13882,
+        "bounds": [
+          74.61681,
+          32.61217,
+          75.6831,
+          33.5184
+        ],
+        "latitude": 33.02489,
+        "popularity": 705,
+        "parentId": 87057,
+        "depth": 4,
+        "name": "Udhampur District"
+      },
+      {
+        "_id": "87634",
+        "subcategory": "district",
+        "stateName": "Jammu and Kashmir",
+        "countryName": "India",
+        "id": 87634,
+        "longitude": 74.76399,
+        "bounds": [
+          74.49655,
+          32.90097,
+          75.03695,
+          33.25884
+        ],
+        "latitude": 33.08903,
+        "popularity": 439,
+        "parentId": 87057,
+        "depth": 4,
+        "name": "Reasi District"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ0wz1KbE_4jgRE7uUxhuRsus",
+        "prev_detail_description": "Pahalgam Market, particularly the Mini Market, is a charming shopping destination tucked away in a narrow lane just 500 meters from the main market. This quaint spot specializes in Pashmina shawls and carpets but truly shines with its array of affordable jewelry and handicrafts. Visitors can discover intricate Kashmiri jewelry, unique wooden artifacts, and delightful souvenirs that capture the essence of their Pahalgam experience.",
+        "website": null,
+        "index": 17,
+        "utcOffset": 300,
+        "longitude": 75.318335,
+        "rating": 4.4,
+        "detail_description": "Pahalgam Market's Mini Market offers Pashmina shawls, carpets, affordable jewelry, and Kashmiri handicrafts. Explore unique wooden artifacts and souvenirs just 500 meters from the main market.",
+        "imageKeys": [
+          "mDzUuNOICgIp9dAeW8toZOyXF433qJsp",
+          "1tzlVGpEKOLImVGjQG2aa6WGBMjNVH5y",
+          "uQNsZ0nEBnpULxu1wgXo2c4xdoK9thv4",
+          "TTxcM6cbH7iS1oC4eZVNdYYYx3xIUFEN"
+        ],
+        "ratingCount": 86,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:05.296948+00:00",
+        "name": "Pahalgam Market",
+        "placeId": "ChIJ0wz1KbE_4jgRE7uUxhuRsus",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0wz1KbE_4jgRE7uUxhuRsus_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0wz1KbE_4jgRE7uUxhuRsus_2.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 24,
+            "3": 8,
+            "1": 3,
+            "5": 56,
+            "2": 2
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0wz1KbE_4jgRE7uUxhuRsus_1.jpg",
+        "excerpt": "Pahalgam Market's Mini Market offers Pashmina shawls, carpets, affordable jewelry, and Kashmiri handicrafts.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 70,
+          "heuristic_triggers": [
+            "good_rating",
+            "ok_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 70,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular market offering traditional Kashmiri handicrafts and souvenirs, appealing to visitors but not a major landmark.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "2869+X8W, Chandanwari, Pahalgam, Jammu and Kashmir 192126",
+        "latitude": 34.012479,
+        "types": [
+          "Market"
+        ]
+      },
+      {
+        "_id": "ChIJ184GYJA_4jgR_gQiwJYVvV0",
+        "prev_detail_description": "Baisaran Rd is a must-visit destination in Pahalgam, Kashmir. It's part of a full-day tour that includes sightseeing at Awantipura ruins and Sheshnag Lake, as well as the option to hire a pony for exploring Baisaran and Daban. The road offers stunning views of the Kashmir valley, making it an ideal spot for nature lovers and adventure seekers alike.",
+        "website": null,
+        "index": 4,
+        "utcOffset": 300,
+        "longitude": 75.327137,
+        "rating": null,
+        "detail_description": "Baisaran Rd in Pahalgam offers stunning Kashmir valley views. Explore on foot or hire a pony to visit nearby spots like Awantipura ruins and Sheshnag Lake. Perfect for nature lovers and adventure seekers.",
+        "imageKeys": [
+          "8wXElOoeWt6rhDPUOespDKRsBSvuYr2N",
+          "d4bOKddCU7dTVJr2h2GmG8HjQZqLcSmS",
+          "DTTAMa8gisbmhDePEqcQU7HXN8k85Ufg",
+          "qjCBvcc96syZTCEQcyhllHLUkNXgOmTQ"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:07.728663+00:00",
+        "name": "Baisaran Rd",
+        "placeId": "ChIJ184GYJA_4jgR_gQiwJYVvV0",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ184GYJA_4jgR_gQiwJYVvV0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ184GYJA_4jgR_gQiwJYVvV0_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ184GYJA_4jgR_gQiwJYVvV0_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ184GYJA_4jgR_gQiwJYVvV0_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ184GYJA_4jgR_gQiwJYVvV0_5.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ184GYJA_4jgR_gQiwJYVvV0_1.jpg",
+        "excerpt": "Baisaran Rd in Pahalgam offers stunning Kashmir valley views.",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (0 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "192126",
+        "latitude": 34.015592,
+        "types": [
+          "Sights & Landmarks",
+          "Scenic Walking Areas"
+        ]
+      },
+      {
+        "_id": "ChIJ2ZHl26I_4jgR13j0F0vO4Fs",
+        "prev_detail_description": "Pahalgam, a serene retreat from city life, is adorned with the tranquil sounds of Lidder River. This picturesque destination boasts green meadows, well-kept highways, and boutique hotels nestled among snow-capped pine trees. The river originates from Kolhoi Glacier near Sonamarg and flows through the alpine meadows of Lidderwat in the Aru region before reaching Pahalgam.",
+        "website": null,
+        "index": 2,
+        "utcOffset": 300,
+        "longitude": 75.316096,
+        "rating": 4.8,
+        "detail_description": "Lidder River flows from Kolhoi Glacier through alpine meadows to Pahalgam, offering serene views, green landscapes, and peaceful sounds amid pine forests and boutique hotels.",
+        "imageKeys": [
+          "CiScAX0XzNZJsY3heS2KRmkeB0CIfMSa",
+          "sFnUM1e3040xEECu9jo2HnyqNXm20WD6",
+          "GwpBe6DBaqEVeMxTDDtPqtVERTuXwcqU"
+        ],
+        "ratingCount": 41,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:09.167648+00:00",
+        "name": "Lidder River",
+        "placeId": "ChIJ2ZHl26I_4jgR13j0F0vO4Fs",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2ZHl26I_4jgR13j0F0vO4Fs_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2ZHl26I_4jgR13j0F0vO4Fs_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2ZHl26I_4jgR13j0F0vO4Fs_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2ZHl26I_4jgR13j0F0vO4Fs_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2ZHl26I_4jgR13j0F0vO4Fs_5.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 6,
+            "3": 0,
+            "1": 1,
+            "5": 34,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2ZHl26I_4jgR13j0F0vO4Fs_1.jpg",
+        "excerpt": "Lidder River flows from Kolhoi Glacier through alpine meadows to Pahalgam, offering serene views, green landscapes, and…",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (41 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "2868+8CX, Pahalgam, 192123",
+        "latitude": 34.010862,
+        "types": [
+          "Bar"
+        ]
+      },
+      {
+        "_id": "ChIJ39SOrIk_4jgRTvu42_WKvvI",
+        "prev_detail_description": null,
+        "website": null,
+        "index": 11,
+        "utcOffset": 300,
+        "longitude": 75.318193,
+        "rating": 4.5,
+        "detail_description": "Chandanwari Skiing Area in Pahalgam offers thrilling slopes for skiers of all levels amid stunning Himalayan scenery. Enjoy winter sports and breathtaking views in a serene mountain setting.",
+        "imageKeys": [
+          "Pn4HWCuiHJmTO2Fo1Pdz3HdBO8sxA1xG",
+          "s96aRaaegGFLDgWU7g3XKM9npZ1D5vFe",
+          "EQ8rRRzf9OCPjd8OMfeqKpPFzGrMtefE"
+        ],
+        "ratingCount": 28,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:11.220785+00:00",
+        "name": "Chandanwari Skiing Area",
+        "placeId": "ChIJ39SOrIk_4jgRTvu42_WKvvI",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ39SOrIk_4jgRTvu42_WKvvI_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ39SOrIk_4jgRTvu42_WKvvI_2.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 7,
+            "3": 4,
+            "1": 0,
+            "5": 17,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ39SOrIk_4jgRTvu42_WKvvI_1.jpg",
+        "excerpt": "Chandanwari Skiing Area in Pahalgam offers thrilling slopes for skiers of all levels amid stunning Himalayan scenery.",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (28 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "2879+H7W, Chandanwari, Pahalgam, 192126",
+        "latitude": 34.013999,
+        "types": []
+      },
+      {
+        "_id": "ChIJ3wmVeyo_4jgRxRj7AfDPwQg",
+        "prev_detail_description": "Nestled in the breathtaking region of Jammu and Kashmir, Pahalgam is a picturesque hill station often referred to as the 'Valley of Shepherds.' This enchanting destination is renowned for its lush green meadows, dense pine forests, and towering mountains that create a stunning backdrop. The Lidder River gracefully winds through scenic spots like Betaab Valley, while adventure enthusiasts can explore high-altitude alpine lakes such as Tarsar and Tulian Lake.",
+        "website": null,
+        "index": 6,
+        "utcOffset": 300,
+        "longitude": 75.31498,
+        "rating": null,
+        "detail_description": "Pahalgam in Jammu and Kashmir offers lush meadows, dense pine forests, and towering mountains. The Lidder River flows through scenic spots like Betaab Valley. Adventure seekers explore alpine lakes Tarsar and Tulian.",
+        "imageKeys": [
+          "RaZuGwh57iNcvUDX2VkdhTnm6H6q6gEr",
+          "3VeN2S1tkkpOquPOEDJ3HpKrPKdzRCdx",
+          "aT9N480Xgor5Fa8COjZuSJ8GqSJi57Mf",
+          "gUxTELLGKy8uoPsZjgIxoropOIeN1Seu",
+          "QxaumsnqC38e0x1NccfcFOtXXfcv6Qn5"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:14.660804+00:00",
+        "name": "Pahalgam",
+        "placeId": "ChIJ3wmVeyo_4jgRxRj7AfDPwQg",
+        "prev_excerpt": "Pahalgam is a hill station in the north Indian state of Jammu and Kashmir. Mountain trails run northeast to Amarnath Cave Temple, a Hindu shrine and site of the annual Amarnath Yatra pilgrimage. Overa Aru Wildlife Sanctuary is home to animals including brown bears and musk deer. Northeast, the Lidder River runs through scenic Betaab Valley. Southeast, Tulian Lake is flanked by mountain peaks and often frozen.",
+        "excerpt": "Pahalgam in Jammu and Kashmir offers lush meadows, dense pine forests, and towering mountains.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ3wmVeyo_4jgRxRj7AfDPwQg_1.jpg",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (0 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ3wmVeyo_4jgRxRj7AfDPwQg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ3wmVeyo_4jgRxRj7AfDPwQg_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ3wmVeyo_4jgRxRj7AfDPwQg_3.jpg"
+        ],
+        "latitude": 34.016075,
+        "images_updated_at": "2025-10-26T05:51:40.174000+00:00",
+        "types": [],
+        "address": null
+      },
+      {
+        "_id": "ChIJ7QxCF5g_4jgROC-LqST9esQ",
+        "prev_detail_description": "Mamaleshwar Temple, located in the scenic landscapes of Pahalgam, is a revered sanctuary dedicated to Lord Shiva. This ancient temple, dating back to 400 CE, was built by King Jayasima entirely from rocks. Nestled at an altitude of 2,286 meters and situated near the banks of river Lidder, it exudes tranquility and spirituality.",
+        "website": null,
+        "index": 7,
+        "utcOffset": 300,
+        "longitude": 75.311883,
+        "rating": 4.6,
+        "detail_description": "Mamaleshwar Temple in Pahalgam is a 400 CE rock-built shrine dedicated to Lord Shiva. Set at 2,286m near the Lidder River, it offers a peaceful spiritual experience amid scenic mountain views.",
+        "imageKeys": [
+          "5bWdol9k33EecdSpCa13uhZW3LO94oZK",
+          "wUR8qcvtx4ZCaPKNdo2SZA6AeoY8NTNF",
+          "kirFeaVjS9LF6xJSY1Q7YoestLQAYOf7",
+          "N9s0mmaJAF1inrZQAxFDGfwX3Kp0rHJn",
+          "YtdIpC0OPpsNUwGFOO8JipdjeznEDa8B"
+        ],
+        "ratingCount": 350,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:16.602037+00:00",
+        "name": "Mamaleshwar Temple, Pahalgam (J&K)",
+        "placeId": "ChIJ7QxCF5g_4jgROC-LqST9esQ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7QxCF5g_4jgROC-LqST9esQ_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7QxCF5g_4jgROC-LqST9esQ_2.jpg"
+        ],
+        "prev_excerpt": "Set in a rural village, this ancient temple dates from 400 CE & has a shrine adorned with gold.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 41,
+            "3": 24,
+            "1": 7,
+            "5": 272,
+            "2": 6
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ7QxCF5g_4jgROC-LqST9esQ_1.jpg",
+        "excerpt": "Mamaleshwar Temple in Pahalgam is a 400 CE rock-built shrine dedicated to Lord Shiva.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Ancient 400 CE Shiva temple with scenic mountain setting, offering cultural and spiritual value in Pahalgam.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "2856+WQC, Pahalgam, 192123",
+        "latitude": 34.00981,
+        "types": [
+          "Hindu temple"
+        ]
+      },
+      {
+        "_id": "ChIJ8Qpfhpg_4jgRZC_2wsrZlcc",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:12:09.882188+00:00",
+        "utcOffset": 300,
+        "source_url": "wanderlog",
+        "longitude": 75.31844819999999,
+        "rating": 3.8,
+        "detail_description": "MCP Shopping Complex is a popular destination in Pahalgam, located at the heart of the town. It offers a unique shopping experience with its vibrant markets and quaint shops that showcase a variety of local handicrafts, souvenirs, and traditional Kashmiri items.",
+        "imageKeys": [],
+        "ratingCount": 632,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-25T13:12:09.882188+00:00",
+        "name": "MCP Shopping Complex",
+        "placeId": "ChIJ8Qpfhpg_4jgRZC_2wsrZlcc",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 75,
+          "heuristic_triggers": [
+            "ok_rating",
+            "high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 75,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular local shopping spot offering traditional Kashmiri handicrafts but not a major tourist draw or landmark in Pahalgam.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:23:48.355000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 70142 19312",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Shopping mall"
+        ],
+        "website": null,
+        "index": 21,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ8Qpfhpg_4jgRZC_2wsrZlcc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ8Qpfhpg_4jgRZC_2wsrZlcc_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ8Qpfhpg_4jgRZC_2wsrZlcc_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ8Qpfhpg_4jgRZC_2wsrZlcc_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 154,
+            "3": 151,
+            "1": 51,
+            "5": 245,
+            "2": 30
+          }
+        },
+        "country": "",
+        "address": "2869+G98, KP Rd, Pahalgam, Jammu and Kashmir 192126",
+        "latitude": 34.0112907
+      },
+      {
+        "_id": "ChIJE697sao_4jgRSjZ4s8LJnE4",
+        "prev_detail_description": null,
+        "website": null,
+        "index": 18,
+        "utcOffset": 300,
+        "longitude": 75.31498,
+        "rating": 4.4,
+        "detail_description": "Deno Valley in Pahalgam offers scenic hiking trails through lush landscapes and gentle streams, perfect for nature lovers seeking a peaceful outdoor adventure.",
+        "imageKeys": [
+          "vleTs6ZCWj2OzozI4A2ZvTWoUz9PmjW5",
+          "UNK959TqgtaxFkzcWdhUP4pfX6ZaIC4v",
+          "hiEQOmhubjSvh2oTUI9YkpX1YJvuiAq7",
+          "WqnDfPHoJivwt5y9DnsHH20a5BnxOvST"
+        ],
+        "ratingCount": 16,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:18.320472+00:00",
+        "name": "Deno valley",
+        "placeId": "ChIJE697sao_4jgRSjZ4s8LJnE4",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE697sao_4jgRSjZ4s8LJnE4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE697sao_4jgRSjZ4s8LJnE4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE697sao_4jgRSjZ4s8LJnE4_3.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 1,
+            "3": 0,
+            "1": 2,
+            "5": 13,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJE697sao_4jgRSjZ4s8LJnE4_1.jpg",
+        "excerpt": "Deno Valley in Pahalgam offers scenic hiking trails through lush landscapes and gentle streams, perfect for nature…",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (16 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "2887+CXQ, Pahalgam, Jammu and Kashmir 192123",
+        "latitude": 34.016075,
+        "types": [
+          "Hiking area"
+        ]
+      },
+      {
+        "_id": "ChIJEfX4VaI_4jgRYHneLJP7w6c",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:12:09.883224+00:00",
+        "utcOffset": 300,
+        "source_url": "wanderlog",
+        "longitude": 75.3153104,
+        "rating": 4.4,
+        "detail_description": "Park Umaro is a peaceful urban oasis, offering a serene escape with its lush greenery and meandering pathways. It's a popular spot for picnics, leisurely walks, and outdoor activities. The park is surrounded by picturesque mountains and rivers, providing stunning views. Visitors can enjoy horse rides to explore the area, with negotiable rates based on the desired destinations. For those seeking adventure, there are steep hills to traverse on horseback.",
+        "imageKeys": [],
+        "ratingCount": 1426,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "0700",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 1
+            },
+            "open": {
+              "time": "0700",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 2
+            },
+            "open": {
+              "time": "0700",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 3
+            },
+            "open": {
+              "time": "0700",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 4
+            },
+            "open": {
+              "time": "0700",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 5
+            },
+            "open": {
+              "time": "0700",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "0700",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-25T13:12:09.883224+00:00",
+        "name": "Park Umaro",
+        "placeId": "ChIJEfX4VaI_4jgRYHneLJP7w6c",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "good_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 90,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Park Umaro is a pleasant and peaceful park offering natural beauty and outdoor activities, but it lacks unique features or significant cultural importance to be a top attraction in Pahalgam.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:23:48.355000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 97979 92873",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Park"
+        ],
+        "website": null,
+        "index": 22,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJEfX4VaI_4jgRYHneLJP7w6c_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJEfX4VaI_4jgRYHneLJP7w6c_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJEfX4VaI_4jgRYHneLJP7w6c_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJEfX4VaI_4jgRYHneLJP7w6c_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 336,
+            "3": 107,
+            "1": 46,
+            "5": 907,
+            "2": 30
+          }
+        },
+        "country": "",
+        "address": "Mane Market, Pahalgam, Jammu and Kashmir 192123",
+        "latitude": 34.0106708
+      },
+      {
+        "_id": "ChIJFQBHkAk_4jgRUO5865inNlU",
+        "prev_detail_description": "Sheshnag, located at an altitude of 3,574 meters, is a mountain lake that serves as a crucial stop on the way to the Amarnath cave. It is about 11 kilometers from Chandanwari and 13 kilometers from Panchtarni. The annual Amarnath Yatra pilgrimage to the holy cave begins from Sheshnag Base Camp in Jammu and Kashmir.",
+        "website": null,
+        "index": 19,
+        "utcOffset": 300,
+        "longitude": 75.31498,
+        "rating": 4.8,
+        "detail_description": "Sheshnag is a high-altitude mountain lake at 3,574m, a key stop on the Amarnath Yatra pilgrimage route in Jammu and Kashmir, located 11 km from Chandanwari and 13 km from Panchtarni.",
+        "imageKeys": [
+          "ZIwyotfspb9VK5RsqC6cZh04eWbWxfU3",
+          "NCDWHiXi0qNbMgQuviOzR000Prc9eB64",
+          "p7ZIJd1ZESPi8AxuQtj6ZkH3AVw3LI52"
+        ],
+        "ratingCount": 52,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:19.948209+00:00",
+        "name": "Sheshnag",
+        "placeId": "ChIJFQBHkAk_4jgRUO5865inNlU",
+        "prev_excerpt": null,
+        "excerpt": "Sheshnag is a high-altitude mountain lake at 3,574m, a key stop on the Amarnath Yatra pilgrimage route in Jammu and…",
+        "ratingDistribution": {
+          "Google": {
+            "4": 5,
+            "3": 2,
+            "1": 1,
+            "5": 44,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJFQBHkAk_4jgRUO5865inNlU_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 75,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "ok_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 87,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Sheshnag is a culturally important high-altitude lake on a major pilgrimage route near Pahalgam, attracting many visitors for its religious and natural significance.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJFQBHkAk_4jgRUO5865inNlU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJFQBHkAk_4jgRUO5865inNlU_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJFQBHkAk_4jgRUO5865inNlU_3.jpg"
+        ],
+        "latitude": 34.016075,
+        "images_updated_at": "2025-10-26T05:52:03.564000+00:00",
+        "types": [
+          "Religious destination"
+        ],
+        "address": "2887+CXQ, Pahalgam, Jammu and Kashmir 192123"
+      },
+      {
+        "_id": "ChIJK4nPzgY_4jgRCMhFpzSLS0g",
+        "prev_detail_description": "Pahalgam, also known as the Valley of Shepherds, is a natural paradise located in the Anantnag district of Kashmir. This heavenly destination offers tranquility and attracts tourists from all over India. Surrounded by the River Lidder and Lake, Pahalgam boasts stunning landscapes including Aaru Betaab Valley.",
+        "website": null,
+        "index": 12,
+        "utcOffset": 300,
+        "longitude": 75.320244,
+        "rating": 4.6,
+        "detail_description": "Pahalgam, the Valley of Shepherds in Kashmir, offers serene landscapes by the Lidder River and Aaru Betaab Valley. It’s a peaceful retreat attracting nature lovers and adventure seekers alike.",
+        "imageKeys": [
+          "rsEdixqdygULRvzdmDXFJww9rFXWs9hX",
+          "TsPyNHpAie6YrF1fNDo9OnQOCsQC5qMP",
+          "xBXxWzrHFTD2NEHmnzXQLEgnZLQfZaYl",
+          "sgubZLftTSTB4stskbfqidVY59NWpwJj"
+        ],
+        "ratingCount": 7619,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T16:24:21.750520+00:00",
+        "name": "Pahalgam",
+        "placeId": "ChIJK4nPzgY_4jgRCMhFpzSLS0g",
+        "prev_excerpt": null,
+        "excerpt": "Pahalgam, the Valley of Shepherds in Kashmir, offers serene landscapes by the Lidder River and Aaru Betaab Valley.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 1189,
+            "3": 265,
+            "1": 179,
+            "5": 5895,
+            "2": 78
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 194 250 2270",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK4nPzgY_4jgRCMhFpzSLS0g_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "iconic",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.95,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Pahalgam is the primary and most famous tourist destination in the area, known for its stunning natural beauty and appeal to nature lovers and adventure seekers.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK4nPzgY_4jgRCMhFpzSLS0g_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK4nPzgY_4jgRCMhFpzSLS0g_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJK4nPzgY_4jgRCMhFpzSLS0g_3.jpg"
+        ],
+        "latitude": 34.01393,
+        "images_updated_at": "2025-10-26T05:52:08.091000+00:00",
+        "types": [],
+        "address": "287C+H3H, Chandanwari, Pahalgam, 192126"
+      },
+      {
+        "_id": "ChIJOWGBiLhA4jgRhpm8fu7gBvU",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:12:09.884248+00:00",
+        "utcOffset": 300,
+        "source_url": "wanderlog",
+        "longitude": 75.36379219999999,
+        "rating": 4.6,
+        "detail_description": "Many movies were filmed in this serene valley with a river & green meadows surrounded by mountains.",
+        "imageKeys": [
+          "579KPlRUjFJHPD7HsdMtcLDMJtMpdhUH",
+          "RqAuXgLfxz808KeRviJ2BD37s11Gz9PL"
+        ],
+        "ratingCount": 12192,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1200",
+              "day": 0
+            },
+            "open": {
+              "time": "0800",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 1
+            },
+            "open": {
+              "time": "0800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "0800",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "0800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "0800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "0800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "0800",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-25T13:12:09.884248+00:00",
+        "name": "Wadiy e Hajan",
+        "placeId": "ChIJOWGBiLhA4jgRhpm8fu7gBvU",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular scenic valley with strong local appeal and notable for film shoots, attracting many visitors.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:23:48.355000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Park",
+          "Nature & Parks",
+          "Nature & Wildlife Areas",
+          "Valleys"
+        ],
+        "website": null,
+        "index": 23,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOWGBiLhA4jgRhpm8fu7gBvU_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOWGBiLhA4jgRhpm8fu7gBvU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOWGBiLhA4jgRhpm8fu7gBvU_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJOWGBiLhA4jgRhpm8fu7gBvU_2.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 2255,
+            "3": 689,
+            "1": 270,
+            "5": 8738,
+            "2": 205
+          }
+        },
+        "country": "",
+        "address": "Pahalgam, Hajan, Jammu and Kashmir 192126",
+        "latitude": 34.0545035
+      },
+      {
+        "_id": "ChIJP62xg6Q_4jgRE1nvGRvwliM",
+        "prev_detail_description": null,
+        "website": null,
+        "index": 10,
+        "utcOffset": 300,
+        "longitude": 75.311883,
+        "rating": 4.6,
+        "detail_description": "Mamaleshwar Temple in Pahalgam is a historic Hindu temple known for its ancient architecture and spiritual significance. It offers a peaceful atmosphere and scenic views, attracting pilgrims and visitors alike.",
+        "imageKeys": [
+          "3GwbYMURH0sUNA7mAQarPsAHzwUwwtdn",
+          "VBhXdFEtOYdc7ZPYOULiMoBamTej44eJ",
+          "LUGfXYkXkBAG8CGSDre6k1lVRFK33dvE",
+          "PWKpNSFVhF688p4gYbvsv1qLWTEjjpqm"
+        ],
+        "ratingCount": 350,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:23.420743+00:00",
+        "name": "Mamaleshwar Temple, Pahalgam (J&K)",
+        "placeId": "ChIJP62xg6Q_4jgRE1nvGRvwliM",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP62xg6Q_4jgRE1nvGRvwliM_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP62xg6Q_4jgRE1nvGRvwliM_2.jpg"
+        ],
+        "prev_excerpt": "Set in a rural village, this ancient temple dates from 400 CE & has a shrine adorned with gold.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 41,
+            "3": 24,
+            "1": 7,
+            "5": 272,
+            "2": 6
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJP62xg6Q_4jgRE1nvGRvwliM_1.jpg",
+        "excerpt": "Mamaleshwar Temple in Pahalgam is a historic Hindu temple known for its ancient architecture and spiritual significance.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Mamaleshwar Temple is a historic and spiritually significant site in Pahalgam, attracting pilgrims and visitors for its ancient architecture and peaceful setting, making it a well worth visiting local",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "2856+WQC, Pahalgam, 192123",
+        "latitude": 34.00981,
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Sacred & Religious Sites"
+        ]
+      },
+      {
+        "_id": "ChIJS8xWWAk_4jgR1TctJIQok60",
+        "prev_detail_description": "Lidder Amusement Park in Pahalgam is a delightful destination for families and thrill-seekers alike. The park features a miniature railway, bumper cars, paddle boats, and an array of children's rides that are sure to bring out the inner child in everyone. Visitors can also enjoy various swings and adrenaline-pumping attractions. Additionally, the park offers a restaurant where guests can savor delicious meals.",
+        "website": null,
+        "index": 9,
+        "utcOffset": 300,
+        "longitude": 75.311882,
+        "rating": 4.1,
+        "detail_description": "Lidder Amusement Park in Pahalgam offers rides like a miniature railway, bumper cars, paddle boats, and swings. It’s perfect for families and thrill-seekers, with a restaurant serving tasty meals on-site.",
+        "imageKeys": [
+          "BG0JuIETeLwlxf3lLT2JeIpNpOUfK4BR",
+          "qosEFG16cf40b1lEUnPjg6WcGomRae9v",
+          "saGU75F7uxkV2Q2gErwFDRcylKX9c9Gz"
+        ],
+        "ratingCount": 825,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "1100",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 1
+            },
+            "open": {
+              "time": "1100",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 2
+            },
+            "open": {
+              "time": "1100",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 3
+            },
+            "open": {
+              "time": "1100",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 4
+            },
+            "open": {
+              "time": "1100",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 5
+            },
+            "open": {
+              "time": "1100",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "1100",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T16:24:25.358548+00:00",
+        "name": "Lidder Amusement Park",
+        "placeId": "ChIJS8xWWAk_4jgR1TctJIQok60",
+        "prev_excerpt": "Amusement park offering a miniature railway, bumper cars & paddle boats along with children's rides.",
+        "excerpt": "Lidder Amusement Park in Pahalgam offers rides like a miniature railway, bumper cars, paddle boats, and swings.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 200,
+            "3": 95,
+            "1": 58,
+            "5": 445,
+            "2": 27
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJS8xWWAk_4jgR1TctJIQok60_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "local",
+          "heuristic_score": 85,
+          "heuristic_triggers": [
+            "good_rating",
+            "high_reviews"
+          ],
+          "llm_confidence": 0.8,
+          "final_score": 85,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular family-friendly amusement park in Pahalgam but not a major or culturally significant attraction.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJS8xWWAk_4jgR1TctJIQok60_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJS8xWWAk_4jgR1TctJIQok60_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJS8xWWAk_4jgR1TctJIQok60_3.jpg"
+        ],
+        "latitude": 34.022681,
+        "images_updated_at": "2025-10-26T05:52:20.809000+00:00",
+        "types": [
+          "Amusement park"
+        ],
+        "address": "28F6+3QC, Pahalgam, Jammu and Kashmir 192126"
+      },
+      {
+        "_id": "ChIJYXcM6ZM_4jgRHZ5Da9nhVG4",
+        "prev_detail_description": "Baisaran Valley, located 5 km from Pahalgam in Kashmir, is a picturesque paradise surrounded by snow-capped mountains. The lush green meadow is adorned with alpine flowers and offers horseback rides and trekking routes for visitors to explore its serene ambiance. It's best visited after the rainy season when the valley turns green, making it an ideal destination for nature lovers seeking tranquility.",
+        "website": null,
+        "index": 8,
+        "utcOffset": 300,
+        "longitude": 75.332103,
+        "rating": 4.5,
+        "detail_description": "Baisaran Valley, 5 km from Pahalgam, features lush meadows framed by snow-capped peaks. Visitors enjoy alpine flowers, horseback rides, and trekking in a peaceful, green landscape best seen after the rainy season.",
+        "imageKeys": [
+          "8JiNahuoo3Nz5qaFPFrGZxeYikimFhGN",
+          "7SwOzk0gqK3cp6uVCFb82fa7Glwudk6H",
+          "L9bAtEuJ4e4hQxGAdTtfFkWgFj8KKA4D"
+        ],
+        "ratingCount": 4509,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "0600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0600",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T16:24:27.321678+00:00",
+        "name": "Baisaran Valley",
+        "placeId": "ChIJYXcM6ZM_4jgRHZ5Da9nhVG4",
+        "prev_excerpt": null,
+        "excerpt": "Baisaran Valley, 5 km from Pahalgam, features lush meadows framed by snow-capped peaks.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 841,
+            "3": 255,
+            "1": 152,
+            "5": 3182,
+            "2": 79
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYXcM6ZM_4jgRHZ5Da9nhVG4_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.9,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Baisaran Valley is a well-known natural attraction near Pahalgam, offering unique alpine meadows and popular activities like horseback rides and trekking, making it a must-visit local highlight.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYXcM6ZM_4jgRHZ5Da9nhVG4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYXcM6ZM_4jgRHZ5Da9nhVG4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYXcM6ZM_4jgRHZ5Da9nhVG4_3.jpg"
+        ],
+        "latitude": 34.004363,
+        "images_updated_at": "2025-10-26T05:52:29.171000+00:00",
+        "types": [],
+        "address": "Baisaran Rd, Forest Block, Jammu and Kashmir 192126"
+      },
+      {
+        "_id": "ChIJYei7lck_4jgR0LZcV2U2qTY",
+        "prev_detail_description": "River rafting in Pahalgam, particularly on the Lidder River, is a thrilling experience for both beginners and experts. The river offers various grades of rapids, surrounded by stunning views of forests and snow-capped peaks. It's an exhilarating break from regular sightseeing activities and attracts adventure seekers looking for an adrenaline rush. Navigating through the gushing waters while being encompassed by towering mountains and lush greenery creates an unforgettable experience.",
+        "website": null,
+        "index": 14,
+        "utcOffset": 300,
+        "longitude": 75.305511,
+        "rating": 4.5,
+        "detail_description": "Experience thrilling river rafting on Pahalgam's Lidder River. Navigate rapids of varying difficulty amid stunning forests and snow-capped peaks for an unforgettable adventure.",
+        "imageKeys": [
+          "Boc7KccciFNeuSV8V9xye6hWUJWnk6Yg",
+          "Y4TqbtjNsKm5H0RYZGLCwGlcBrQrDc8l",
+          "Cn9m0ISi9g7OmGAnjjvqVQ0TBMss474j"
+        ],
+        "ratingCount": 98,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 1
+            },
+            "open": {
+              "time": "0800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 2
+            },
+            "open": {
+              "time": "0800",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 3
+            },
+            "open": {
+              "time": "0800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 4
+            },
+            "open": {
+              "time": "0800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 5
+            },
+            "open": {
+              "time": "0800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 6
+            },
+            "open": {
+              "time": "0800",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T16:24:28.681052+00:00",
+        "name": "River Rafting",
+        "placeId": "ChIJYei7lck_4jgR0LZcV2U2qTY",
+        "prev_excerpt": null,
+        "excerpt": "Experience thrilling river rafting on Pahalgam's Lidder River.",
+        "ratingDistribution": {
+          "Google": {
+            "4": 20,
+            "3": 10,
+            "1": 3,
+            "5": 65,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYei7lck_4jgR0LZcV2U2qTY_1.jpg",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 75,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "ok_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 87,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Popular adventure activity showcasing Pahalgam's natural beauty and attracting many tourists.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYei7lck_4jgR0LZcV2U2qTY_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYei7lck_4jgR0LZcV2U2qTY_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJYei7lck_4jgR0LZcV2U2qTY_3.jpg"
+        ],
+        "latitude": 34.032339,
+        "images_updated_at": "2025-10-26T05:52:35.515000+00:00",
+        "types": [
+          "Rafting"
+        ],
+        "address": "28J4+W6J, Pahalgam, 192123"
+      },
+      {
+        "_id": "ChIJg8AjLLQ_4jgR2sCo5WhaVRo",
+        "prev_detail_description": "Nestled in the enchanting valley of Jammu and Kashmir, Hilton Arts Pahalgam Main Market is a vibrant hub for those looking to immerse themselves in local culture while indulging in some retail therapy. This bustling market is renowned for its exquisite collection of traditional Kashmiri handicrafts, including beautifully embroidered shawls, intricate carpets, and charming papier-mâché items.",
+        "website": "http://www.hiltonarts.co.in/",
+        "index": 16,
+        "utcOffset": 300,
+        "longitude": 75.318044,
+        "rating": 4.2,
+        "detail_description": "Hilton Arts in Pahalgam Main Market offers traditional Kashmiri handicrafts like embroidered shawls, carpets, and papier-mâché items. Explore local culture and shop unique clothing and crafts in this lively market.",
+        "imageKeys": [
+          "vrkSQbwpG4Lr5F4AfOl4q1pa9v7uNsxY",
+          "MnLQq7UjSL0QmiKt7hoA5tAdvqAcEcbc",
+          "Y6Zdproj1qDMXCg2V2UEuyIKL5KDT973"
+        ],
+        "ratingCount": 38,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2300",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2300",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T16:24:30.254399+00:00",
+        "name": "Hilton Arts Pahalgam Main Market Kashmir",
+        "placeId": "ChIJg8AjLLQ_4jgR2sCo5WhaVRo",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg8AjLLQ_4jgR2sCo5WhaVRo_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg8AjLLQ_4jgR2sCo5WhaVRo_2.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 8,
+            "3": 1,
+            "1": 4,
+            "5": 23,
+            "2": 2
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 95961 27159",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJg8AjLLQ_4jgR2sCo5WhaVRo_1.jpg",
+        "excerpt": "Hilton Arts in Pahalgam Main Market offers traditional Kashmiri handicrafts like embroidered shawls, carpets, and…",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (38 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "Pahalgam main market kashmir, opp. Volga Hotel & Restaurant, Jammu and Kashmir 192126",
+        "latitude": 34.01543,
+        "types": [
+          "Clothing store"
+        ]
+      },
+      {
+        "_id": "ChIJhwDlZoA_4jgR-jja0oZIFyQ",
+        "prev_detail_description": "Tarsar Marsar is a renowned trekking destination in the Pahalgam area of Kashmir, offering stunning natural beauty and challenging trails. The trek encompasses three alpine lakes - Tarsar, Marsar, and Sundarsar - set amidst lush green meadows. The journey through these pristine lakes is as breathtaking as the destination itself. With a moderate level of difficulty, intermediate trekkers can complete this trek in about 6 days while enjoying the picturesque landscapes and serene environment.",
+        "website": null,
+        "index": 13,
+        "utcOffset": 300,
+        "longitude": 75.320451,
+        "rating": 4.3,
+        "detail_description": "Tarsar Marsar trek in Pahalgam features three alpine lakes amid green meadows. This 6-day moderate trail offers stunning views and a peaceful environment, ideal for intermediate hikers seeking adventure and natural beauty.",
+        "imageKeys": [
+          "IIclIRlGPOtdQYAWutFhnTKjydLirjNQ",
+          "a6GCMYiT2zZA63wgpGFgxuiPwRGWfDnj",
+          "ZGsm2By6PmVuGpSwNmwK7BOVoFxzLUtH"
+        ],
+        "ratingCount": 99,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T16:24:31.845226+00:00",
+        "name": "Tarsar Marsar",
+        "placeId": "ChIJhwDlZoA_4jgR-jja0oZIFyQ",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJhwDlZoA_4jgR-jja0oZIFyQ_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJhwDlZoA_4jgR-jja0oZIFyQ_2.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 18,
+            "3": 1,
+            "1": 8,
+            "5": 67,
+            "2": 5
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJhwDlZoA_4jgR-jja0oZIFyQ_1.jpg",
+        "excerpt": "Tarsar Marsar trek in Pahalgam features three alpine lakes amid green meadows.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 70,
+          "heuristic_triggers": [
+            "good_rating",
+            "ok_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 82,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Tarsar Marsar trek is a well-known adventure spot in Pahalgam offering unique alpine lakes and scenic hiking, appealing to nature and adventure tourists.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "Pahalgam, Jammu and Kashmir 192126",
+        "latitude": 34.023723,
+        "types": [
+          "Hiking area",
+          "Adventure sports center"
+        ]
+      },
+      {
+        "_id": "ChIJi1kBRJ8_4jgR8Dx_uUIQpRU",
+        "prev_detail_description": "Chandanwari is a significant stop for pilgrims embarking on the revered Amarnath Yatra and holds historical importance. Nestled in the picturesque surroundings of Pahalgam, it offers breathtaking natural beauty and sits at an elevation of 2,895 meters, approximately 16 km from Pahalgam. Visitors can enjoy the serene banks of Sheshnag Lake that flows through this charming destination.",
+        "website": null,
+        "index": 3,
+        "utcOffset": 300,
+        "longitude": 75.318624,
+        "rating": null,
+        "detail_description": "Chandanwari, 16 km from Pahalgam at 2,895m, is a key stop on the Amarnath Yatra. Surrounded by stunning nature, it offers peaceful views along the banks of Sheshnag Lake.",
+        "imageKeys": [
+          "uPfiyZge8nGkZ5tH5CsTMn3u1oyUe8Wh",
+          "50d1nfEIYPzrvLxwWWWnixPBuirInvrc",
+          "6bxeuaQZN3HREXHK3oOg5SDCXBaw0L2I",
+          "xXIFRi1AJ4noCqCFjjkgtqu894EXKe7q",
+          "agd46vfr1a6dQkfvJngkIBeU9pteW2wl"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:33.682942+00:00",
+        "name": "Chandanwari",
+        "placeId": "ChIJi1kBRJ8_4jgR8Dx_uUIQpRU",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJi1kBRJ8_4jgR8Dx_uUIQpRU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJi1kBRJ8_4jgR8Dx_uUIQpRU_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJi1kBRJ8_4jgR8Dx_uUIQpRU_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJi1kBRJ8_4jgR8Dx_uUIQpRU_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJi1kBRJ8_4jgR8Dx_uUIQpRU_5.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJi1kBRJ8_4jgR8Dx_uUIQpRU_1.jpg",
+        "excerpt": "Chandanwari, 16 km from Pahalgam at 2,895m, is a key stop on the Amarnath Yatra.",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (0 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "Pahalgam",
+        "latitude": 34.014474,
+        "types": [
+          "Sights & Landmarks",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJk96qY-U_4jgRItl8CdpPC3Q",
+        "prev_detail_description": "Mamleshwar Shiv Temple in Pahalgam is a serene and ancient temple with a fascinating history. The temple is known for its hot pond water in winters and cold water in summers, which adds to its unique charm. It's a simple yet beautiful temple surrounded by well-maintained gardens with blooming flowers.",
+        "website": null,
+        "index": 5,
+        "utcOffset": 300,
+        "longitude": 75.311884,
+        "rating": 4.8,
+        "detail_description": "Mamleshwar Shiv Temple in Pahalgam features a unique hot pond that warms in winter and cools in summer. Surrounded by gardens, this ancient Hindu temple offers a peaceful and scenic visit.",
+        "imageKeys": [
+          "QJiwnuzTOlWc7hNgXGL3FVloZgmlojCR",
+          "Sk0hfFYQkG0Qrr5M4JTTCma4PFYN04BT",
+          "bfqTOdEqXYfzfJb8xWnhbySO2DU67VGA"
+        ],
+        "ratingCount": 34,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "0830",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 1
+            },
+            "open": {
+              "time": "0830",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 2
+            },
+            "open": {
+              "time": "0830",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 3
+            },
+            "open": {
+              "time": "0830",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 4
+            },
+            "open": {
+              "time": "0830",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 5
+            },
+            "open": {
+              "time": "0830",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "0830",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T16:24:38.209299+00:00",
+        "name": "Mamleshwar Shiv Temple, Kashmir, pahalgam",
+        "placeId": "ChIJk96qY-U_4jgRItl8CdpPC3Q",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJk96qY-U_4jgRItl8CdpPC3Q_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJk96qY-U_4jgRItl8CdpPC3Q_2.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 3,
+            "3": 2,
+            "1": 0,
+            "5": 29,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJk96qY-U_4jgRItl8CdpPC3Q_1.jpg",
+        "excerpt": "Mamleshwar Shiv Temple in Pahalgam features a unique hot pond that warms in winter and cools in summer.",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (34 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "Pahalgam, Jammu and Kashmir 192126",
+        "latitude": 34.00981,
+        "types": [
+          "Hindu temple"
+        ]
+      },
+      {
+        "_id": "ChIJm6JW7rw_4jgRW7zUiZF-Ybg",
+        "prev_detail_description": "The Amarnath Yatra Base Camp in Pahalgam is a significant stop for pilgrims visiting the Amarnath Cave during the annual Shravani Mela in July-August. Situated at an altitude of 3,888m, this camp offers a unique camping experience with a variety of tents while maintaining a sense of safety and tranquility. It provides basic amenities such as medical facilities and food for pilgrims.",
+        "website": null,
+        "index": 20,
+        "utcOffset": 300,
+        "longitude": 75.317988,
+        "rating": 4.6,
+        "detail_description": "Amarnath Yatra Base Camp in Pahalgam sits at 3,888m, serving pilgrims during the Shravani Mela. It offers safe camping with tents, basic food, and medical facilities amid tranquil mountain surroundings.",
+        "imageKeys": [
+          "Fpwgx2Sp5zzajfrErYpCfL9Xe7f1dGHw",
+          "Ct5HYGbV071CKcSOgXvcMAViBRRZVFPv",
+          "4KNE7oKduJJlhFJLyv3BVMCGnfJ4VgZw"
+        ],
+        "ratingCount": 316,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:40.072971+00:00",
+        "name": "Amarnath Yatra Base Camp, Pahalgam",
+        "placeId": "ChIJm6JW7rw_4jgRW7zUiZF-Ybg",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJm6JW7rw_4jgRW7zUiZF-Ybg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJm6JW7rw_4jgRW7zUiZF-Ybg_2.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 50,
+            "3": 16,
+            "1": 8,
+            "5": 237,
+            "2": 5
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJm6JW7rw_4jgRW7zUiZF-Ybg_1.jpg",
+        "excerpt": "Amarnath Yatra Base Camp in Pahalgam sits at 3,888m, serving pilgrims during the Shravani Mela.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 90,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "high_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Key base camp for the famous Amarnath Yatra pilgrimage, culturally important and attracts many visitors during the season.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "2829+25X, Pahalgam, Jammu and Kashmir 192126",
+        "latitude": 34.000104,
+        "types": [
+          "Campground"
+        ]
+      },
+      {
+        "_id": "ChIJr0VC6DY54jgRyHkcHbxJOhM",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-25T13:12:09.885751+00:00",
+        "utcOffset": 300,
+        "source_url": "wanderlog",
+        "longitude": 75.2632113,
+        "rating": 4.5,
+        "detail_description": "Aru Valley, located in Kashmir, is a picturesque destination that offers an idyllic escape from the hustle and bustle of daily life. Surrounded by the grandeur of the Himalayan mountains, this valley is known for its natural beauty. Visitors can enjoy leisurely strolls, picnics amidst lush greenery, and photography sessions. The valley transforms into a realm of natural splendor during October when the changing leaves paint the meadows with warm and vibrant colors.",
+        "imageKeys": [
+          "CMHbOUGfbALo6zEgVqU8LxzBmQnJWYsq",
+          "kKSv7zulqZf013Gue5vFtDgUXof9mO5h",
+          "YHB0MmKwiHc9cI0fSDdqYyBMCCt8lwJl",
+          "9iuMdqlZhW9skXQeyd3SuUGLcommPFFc",
+          "A6oqKV50jFl1oqGx55Tjyq1vLGcUV9aE"
+        ],
+        "ratingCount": 3732,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-25T13:12:09.885751+00:00",
+        "name": "Aru Valley",
+        "placeId": "ChIJr0VC6DY54jgRyHkcHbxJOhM",
+        "city": "",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 95,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "very_high_reviews"
+          ],
+          "llm_confidence": 0.9,
+          "final_score": 100,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Aru Valley is a well-known natural attraction in Pahalgam offering scenic beauty and outdoor activities, making it a popular spot for visitors.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-25T17:23:48.355000+00:00"
+        },
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 1800 103 1060",
+        "g_description": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJr0VC6DY54jgRyHkcHbxJOhM_1.jpg",
+        "images_updated_at": "2025-10-26T05:53:02.705000+00:00",
+        "types": [
+          "Nature & Parks",
+          "Valleys"
+        ],
+        "website": null,
+        "index": 24,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJr0VC6DY54jgRyHkcHbxJOhM_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJr0VC6DY54jgRyHkcHbxJOhM_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJr0VC6DY54jgRyHkcHbxJOhM_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJr0VC6DY54jgRyHkcHbxJOhM_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJr0VC6DY54jgRyHkcHbxJOhM_5.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 781,
+            "3": 330,
+            "1": 67,
+            "5": 2439,
+            "2": 83
+          }
+        },
+        "country": "",
+        "address": "37V7+FR2, Jammu And Kashmir, Pahalgam",
+        "latitude": 34.0921137
+      },
+      {
+        "_id": "ChIJrXFGJJA_4jgRTyoH97-NvmE",
+        "prev_detail_description": "Nestled amidst the breathtaking Himalayan ranges and situated across the Lidder River, Pahalgam Golf Course is a paradise for avid golfers. This premium golf course is one of the highest in the world, offering stunning views at an elevation of 2400 meters above sea level. Initially established as a 9-hole course, it has now been upgraded to an impressive 18 holes.",
+        "website": null,
+        "index": 1,
+        "utcOffset": 300,
+        "longitude": 75.315937,
+        "rating": 4.6,
+        "detail_description": "Lidder Valley Golf Course in Pahalgam offers 18 holes set at 2400m elevation. Surrounded by the Himalayas and the Lidder River, it provides a unique golfing experience with stunning mountain views.",
+        "imageKeys": [
+          "deIkxBA0UflZDe3EJE3Go0KBIZIzw4oC",
+          "v2yXIM39nHzzfTpwUbd8fUzeUJcEGxcb",
+          "CeZIHSylE9rQHmtT6HQ89tqtZGz5VfI8",
+          "FKbR6szPjj7OuNPXcWuA1xqCINfyqzQl",
+          "MHKLlrzpft7fgAu1eZmJR6eakzUqz5aU"
+        ],
+        "ratingCount": 96,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0700",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0700",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0700",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0700",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0700",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0700",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0700",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-23T16:24:41.721378+00:00",
+        "name": "LIDDER VALLEY GOLF COURSE PAHALGAM",
+        "placeId": "ChIJrXFGJJA_4jgRTyoH97-NvmE",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrXFGJJA_4jgRTyoH97-NvmE_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrXFGJJA_4jgRTyoH97-NvmE_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrXFGJJA_4jgRTyoH97-NvmE_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrXFGJJA_4jgRTyoH97-NvmE_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrXFGJJA_4jgRTyoH97-NvmE_5.jpg"
+        ],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 16,
+            "3": 8,
+            "1": 2,
+            "5": 70,
+            "2": 1
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 91496 59797",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrXFGJJA_4jgRTyoH97-NvmE_1.jpg",
+        "excerpt": "Lidder Valley Golf Course in Pahalgam offers 18 holes set at 2400m elevation.",
+        "curation": {
+          "is_top_suggested": true,
+          "llm_category": "significant",
+          "heuristic_score": 75,
+          "heuristic_triggers": [
+            "excellent_rating",
+            "ok_reviews"
+          ],
+          "llm_confidence": 0.85,
+          "final_score": 87,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Unique 18-hole golf course at high elevation with stunning Himalayan and river views, offering a distinctive recreational experience in Pahalgam.",
+          "provider": "openai",
+          "final_action": "KEEP",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "address": "Pahalgam, Jammu and Kashmir 192126",
+        "latitude": 34.028313,
+        "types": [
+          "Sports club"
+        ]
+      },
+      {
+        "_id": "ChIJt2kOIAA_4jgR4ZJsdxZBN7s",
+        "prev_detail_description": null,
+        "website": null,
+        "index": 15,
+        "utcOffset": 300,
+        "longitude": 75.31976,
+        "rating": 2.1,
+        "detail_description": "Enjoy a scenic pony ride at Baisaran Pony Ride Station in Pahalgam. Explore lush meadows and gentle trails on horseback, perfect for families and nature lovers seeking a unique outdoor experience.",
+        "imageKeys": [],
+        "ratingCount": 12,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-23T16:24:43.644330+00:00",
+        "name": "Baisaran Pony Ride Station",
+        "placeId": "ChIJt2kOIAA_4jgR4ZJsdxZBN7s",
+        "g_image_urls": [],
+        "prev_excerpt": null,
+        "ratingDistribution": {
+          "Google": {
+            "4": 1,
+            "3": 3,
+            "1": 7,
+            "5": 1,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "excerpt": "Enjoy a scenic pony ride at Baisaran Pony Ride Station in Pahalgam.",
+        "curation": {
+          "is_top_suggested": false,
+          "llm_category": "rule-based",
+          "heuristic_score": 0,
+          "heuristic_triggers": [
+            "hard_rule_reject"
+          ],
+          "llm_confidence": 1.0,
+          "final_score": 0,
+          "model": "gpt-4.1-mini",
+          "llm_reason": "Too few reviews (12 < 50)",
+          "provider": "openai",
+          "final_action": "DEMOTE",
+          "llm_iconic_restaurant": false,
+          "curated_at": "2025-10-23T18:07:32.514000+00:00"
+        },
+        "latitude": 34.009493,
+        "address": "Circuit Road, Pahalgam, Jammu and Kashmir 192126",
+        "types": [
+          "Pony ride service"
+        ]
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "Spring brings a burst of color to Pahalgam as flowers bloom and the weather becomes pleasantly warm. This is the best time for trekking and exploring the surrounding valleys, such as Aru and Betaab. The melting snow enhances the beauty of the Lidder River, making it perfect for fishing and river rafting. The vibrant landscapes attract photographers and nature enthusiasts.",
+          "June to August": "Summer in Pahalgam is characterized by mild temperatures and lush greenery. This is peak tourist season, with visitors flocking to enjoy the pleasant weather and various outdoor activities. The famous Amarnath Yatra takes place during this time, drawing pilgrims from across the country. Adventure sports like trekking, camping, and horse riding are popular among tourists.",
+          "Travel Tip": "When visiting Pahalgam, it's advisable to dress in layers, as temperatures can vary significantly throughout the day. Carrying cash is recommended, as not all places accept cards. Additionally, booking accommodations in advance during peak seasons can help avoid last-minute hassles.",
+          "Overview": "Pahalgam, a picturesque town in the Anantnag district of Jammu and Kashmir, is known for its stunning landscapes, lush green meadows, and the Lidder River. It serves as a base for the Amarnath Yatra pilgrimage and offers a range of outdoor activities such as trekking, fishing, and horse riding. The serene environment and breathtaking views make it a popular destination for nature lovers and adventure enthusiasts alike.",
+          "December to February": "During the winter months, Pahalgam transforms into a snowy wonderland. The temperature can drop below freezing, making it ideal for snow sports like skiing and snowboarding. The town is less crowded, allowing for a peaceful retreat. Visitors can enjoy the scenic beauty of snow-covered mountains and participate in winter festivals that showcase local culture.",
+          "Regional Highlights": "Key attractions in Pahalgam include the Betaab Valley, known for its lush meadows and stunning views; Aru Valley, a serene spot perfect for trekking; and the picturesque Baisaran, often referred to as 'Mini Switzerland'. The town is also famous for its local cuisine, which features traditional Kashmiri dishes that visitors should not miss.",
+          "September to November": "Autumn in Pahalgam is marked by a gradual drop in temperatures and the stunning transformation of foliage. The landscape is painted in shades of orange, red, and yellow, making it a photographer's paradise. This season is ideal for trekking and exploring the natural beauty of the region without the summer crowds. The weather remains pleasant, making it a great time for outdoor activities."
+        },
+        "monthlyRatings": {
+          "Apr": 5,
+          "Jun": 4,
+          "Jul": 3,
+          "Dec": 3,
+          "Mar": 4,
+          "Feb": 3,
+          "Aug": 3,
+          "Jan": 3,
+          "May": 5,
+          "Nov": 4,
+          "Oct": 5,
+          "Sep": 4
+        }
+      },
+      {
+        "_id": "things_to_know",
+        "🚗 Transportation": "While local taxis are available, consider renting a bike for a more adventurous way to explore the area. This allows you to enjoy the scenic routes at your own pace.",
+        "Conclusion": "Pahalgam is a treasure trove of natural beauty and cultural richness. Embrace the experience and create unforgettable memories in this enchanting destination.",
+        "🌄 Scenic Spots": "Make sure to visit Betaab Valley and Aru Valley for breathtaking views and perfect photo opportunities. These locations are ideal for nature lovers and offer a peaceful retreat from the hustle and bustle.",
+        "🕌 Cultural Etiquette": "Respect local customs and traditions, especially when visiting religious sites. Dress modestly and seek permission before taking photographs of people.",
+        "🍽️ Local Cuisine": "Don't miss out on trying the local Kashmiri dishes such as Rogan Josh and Yakhni. The unique flavors and spices will give you a taste of the region's rich culinary heritage.",
+        "Introduction": "Pahalgam, a picturesque town in the Indian state of Jammu and Kashmir, is known for its stunning landscapes and serene environment. Before you embark on your journey to this beautiful destination, here are some essential tips to enhance your experience.",
+        "🛍️ Shopping Tips": "Explore local markets for authentic handicrafts and souvenirs. Bargaining is common, so don't hesitate to negotiate prices for a better deal.",
+        "🏨 Accommodation Options": "Pahalgam offers a range of accommodation from luxury hotels to budget guesthouses. Book in advance during peak seasons to secure the best options.",
+        "🚶‍♂️ Trekking Trails": "For adventure enthusiasts, Pahalgam offers numerous trekking trails. Ensure you have the right gear and consider hiring a local guide to explore the best routes safely.",
+        "🧥 Weather Preparedness": "Pahalgam experiences varying weather conditions, so pack accordingly. Layered clothing is advisable, especially if you plan to visit during the colder months."
+      },
+      {
+        "_id": "top_things_to_do",
+        "🏰 Majestic Taj Mahal": "The Taj Mahal in Agra is an iconic symbol of love and one of the New Seven Wonders of the World. Its stunning white marble architecture and intricate craftsmanship make it a must-visit, especially at sunrise or sunset for breathtaking views.",
+        "🏞️ Trekking in Himachal Pradesh": "Himachal Pradesh offers some of India's best trekking routes, including the scenic trails around Manali and Dharamshala. The crisp mountain air and stunning Himalayan vistas make it ideal for adventure seekers, especially from April to June and September to November.",
+        "Conclusion": "India's rich diversity and warm hospitality promise an enriching travel experience filled with unforgettable sights and moments. Embrace the adventure and let the country's timeless charm leave a lasting impression on your heart.",
+        "🏜️ Desert Safari in Jaisalmer": "Explore the vast Thar Desert with a camel safari from Jaisalmer, known as the Golden City. The experience includes stunning sand dunes, traditional folk performances, and starry nights, best enjoyed during the cooler winter months.",
+        "🎉 Holi Festival Celebration": "Experiencing Holi, the festival of colors, is a joyous and vibrant way to immerse yourself in Indian culture. Celebrated across the country in March, it involves playful color throwing, music, and dance, creating unforgettable memories.",
+        "🌿 Exploring Kerala Backwaters": "Cruise through the tranquil backwaters of Kerala on a traditional houseboat to experience lush greenery and rural life. This peaceful journey offers a unique perspective on India's natural beauty and is best enjoyed during the cooler months from November to February.",
+        "Introduction": "India is a vibrant tapestry of colors, cultures, and traditions that captivate every traveler. From bustling cities to serene landscapes, the country offers an unforgettable journey filled with diverse experiences and rich history.",
+        "🌸 Mysore Dasara Festival": "Mysore Dasara is a grand ten-day festival celebrating the victory of good over evil with elaborate processions, decorated elephants, and cultural performances. Visiting in October allows travelers to witness this vibrant spectacle in Karnataka's historic city.",
+        "🎨 Udaipur's City Palace": "The City Palace in Udaipur is a magnificent complex overlooking Lake Pichola, blending Rajasthani and Mughal architecture. Its museums and courtyards offer insight into royal history, and visiting during the monsoon season adds a magical misty charm.",
+        "🕌 Jaipur's Amber Fort": "Amber Fort, located near Jaipur, showcases stunning Rajput architecture with panoramic views of the Aravalli hills. Explore its grand palaces and courtyards, and try to visit during the evening for the light and sound show that brings history to life.",
+        "🌅 Sunrise at Varanasi Ghats": "Witnessing the sunrise over the sacred Ganges River in Varanasi is a spiritual experience like no other. The early morning boat rides along the ghats reveal ancient rituals and a serene atmosphere that embodies India's deep cultural roots.",
+        "🍛 Street Food in Delhi": "Delhi's street food scene is a flavorful adventure featuring dishes like chaat, parathas, and kebabs. Wander through markets like Chandni Chowk to savor authentic tastes and vibrant street life, best experienced in the cooler evenings.",
+        "🕌 Golden Temple in Amritsar": "The Golden Temple is a spiritual beacon for Sikhs and a place of serene beauty with its gold-plated sanctum and reflective pool. Visitors can partake in the community kitchen, which serves free meals to thousands daily, embodying the spirit of service and equality."
+      },
+      {
+        "_id": "ways_to_get_around",
+        "Conclusion": "Navigating India's transport options can be an adventure in itself, blending affordability with cultural immersion. By choosing the right mode for your needs and staying aware of local customs, you can travel safely and enjoyably across the country.",
+        "🚇 Metro & Local Trains": "Major cities like Delhi, Mumbai, and Bangalore have efficient metro systems that are fast and affordable. Local trains in Mumbai are vital for daily commuters but can be extremely crowded during peak hours.",
+        "🛵 Motorbike Rentals": "Renting a motorbike is a flexible way to navigate through traffic and reach less accessible areas. Ensure you have a valid license and wear protective gear, as road safety standards vary widely.",
+        "Introduction": "Getting around in India offers a vibrant and diverse experience, with numerous transport options catering to different budgets and preferences. Whether you're navigating bustling cities or exploring rural areas, understanding the local transport system is key to a smooth journey.",
+        "🚕 Auto Rickshaws": "Auto rickshaws are a convenient and economical way to cover short distances within cities. Always agree on the fare before starting your ride or insist on using the meter to avoid overcharging.",
+        "🚶 Walking": "Walking is often the best way to explore local markets and neighborhoods at a leisurely pace. Stay alert to traffic and uneven sidewalks, and avoid walking alone at night in unfamiliar areas.",
+        "🛺 Shared Taxis & Vans": "Shared taxis and vans are common for intercity travel and can be cost-effective. They usually depart when full, so flexibility with timing is necessary, and luggage space may be limited.",
+        "🚤 Ferries & Boats": "In regions with rivers and lakes, ferries and boats provide scenic and practical transport options. Popular in places like Kerala and the Sundarbans, they offer a unique perspective of the landscape.",
+        "🚲 Bicycle Rentals": "In some cities, bicycle rentals are gaining popularity as a healthy and eco-friendly way to explore. Use designated bike lanes where available and always wear a helmet for safety.",
+        "🚕 Taxi Services": "App-based taxi services like Ola and Uber operate in many Indian cities, offering convenience and fixed fares. Always check the app for estimated costs and driver details before starting your trip.",
+        "🚌 Public Buses": "Public buses connect most towns and cities and are the cheapest mode of transport. While they can be crowded, they offer an authentic local experience and frequent services throughout the day.",
+        "🚆 Train Travel": "India's extensive railway network is one of the most popular ways to travel long distances affordably. Booking tickets in advance is recommended, especially for sleeper and AC classes, to ensure a comfortable journey.",
+        "🚗 Car Rentals": "Self-driving is possible but not recommended for first-time visitors due to chaotic traffic and road conditions. Hiring a car with a driver is a safer and more relaxing option for exploring at your own pace."
+      }
+    ]
+  }
+}

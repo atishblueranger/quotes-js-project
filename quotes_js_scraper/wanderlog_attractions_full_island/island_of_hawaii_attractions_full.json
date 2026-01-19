@@ -1,0 +1,5539 @@
+[
+    {
+        "placeId": "ChIJw99L6GoPVHkRic460qZHVEQ",
+        "website": "http://dapokeshack.com/",
+        "index": 1,
+        "utcOffset": -600,
+        "longitude": -155.977173,
+        "latitude": 19.607918,
+        "rating": 4.6,
+        "excerpt": "Seafood joint by the beach for take-out poke & other local specialties & salads.",
+        "detail_description": "Located on Ali Drive, Da Poke Shack is a small and unassuming seafood joint that has gained recognition as one of the best restaurants in the United States. Specializing in fresh, local Hawaiian poke, this eatery offers a variety of flavors such as Dynamite Poke with avocado and spicy garlic sesame poke. Customers can customize their poke bowls with options like rice, mixed greens, and kimchee.",
+        "imageKeys": [
+            "EfH1rgl6KMjMGAOGRh2f0VA6tFcZudrg",
+            "hKYnq4j7kCm06gn5zLBzaXYnQNcb4Ygq",
+            "QbUKxlEoNEvPd1ikTA2IKcW7Jt5cJ53y",
+            "J92t7xFlrOzbacl3NO4Gb8H2LAgK1dLx",
+            "2C5WihLCo4BkKSQ5gbeDWebdFdvLGRT4"
+        ],
+        "ratingCount": 2452,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "Da Poke Shack",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 329-7653",
+        "address": "76-6246 Ali‘i Dr, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Poke bar",
+            "Takeout Restaurant",
+            "Restaurant",
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 66,
+                "2": 50,
+                "3": 111,
+                "4": 356,
+                "5": 1881
+            }
+        }
+    },
+    {
+        "placeId": "ChIJk9VyXVgOVHkRuVqMfe1aScQ",
+        "website": "https://www.brokedamouthgrindz.com/",
+        "index": 2,
+        "utcOffset": -600,
+        "longitude": -156.000385,
+        "latitude": 19.648607,
+        "rating": 4.5,
+        "excerpt": "Offbeat, neighborhood nook preparing hearty portions of locally sourced Hawaiian & Filipino staples.",
+        "detail_description": "Broke Da Mouth Grindz in Kona is a beloved local spot serving up generous portions of Hawaiian and Filipino classics. The casual eatery has gained fame for its authentic and flavorful dishes like Oxtail Adobo, Garlic Furikake Chicken, and Kalbi Beef Ribs. Featured on Food Network's Diners Drive-ins and Dives with Guy Fieri, this offbeat gem lives up to its name, which means 'delicious food' in Hawaiian pidgin slang.",
+        "imageKeys": [
+            "OpvgelDqkbHbK79iHAdKmgritVxzwr8f",
+            "cZ0kT88JZXN0h6PPry85AiZ0OAdVaZiF",
+            "CG2PrhG7gOgFjU1dxhoxcLQ0MLN3go1q",
+            "W1SPTWHdN1R6pMfFErqMD3y4Bci6m3IV",
+            "3xPzQVxmH0WNTiAhhWmRAHbV16XdzRl7"
+        ],
+        "ratingCount": 2647,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Broke Da Mouth Grindz- KONA",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 327-1499",
+        "address": "74-5565 Luhia St, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Filipino restaurant",
+            "Korean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 79,
+                "2": 69,
+                "3": 149,
+                "4": 428,
+                "5": 1938
+            }
+        }
+    },
+    {
+        "placeId": "ChIJx6UVOFYOVHkRK3G_JREqdB4",
+        "website": "http://www.umekesrestaurants.com/",
+        "index": 3,
+        "utcOffset": -600,
+        "longitude": -155.999083,
+        "latitude": 19.644038,
+        "rating": 4.4,
+        "excerpt": "Poke bowls & other Hawaiian favorites served in a spacious, laid-back setting with a full bar.",
+        "detail_description": "Umekes Fish Market Bar & Grill is a must-visit spot for those craving great Hawaiian food. Located just a short drive from the center of Kailua, this laid-back restaurant offers an array of Hawaiian favorites, including their absolute favorite dish - poke bowls. Made with freshly caught Hawaiian ahi, the poke bowls come in various flavors like spicy aioli and sweet shoyu glaze.",
+        "imageKeys": [
+            "gcD8fk1eweYPB4Jz3TW6qIDZ819QYBsx",
+            "3HWKc4H7dcBUm5ZdfuTBoI3bgPrw1f9D",
+            "0HIvkHbKYHy2Iaph29lCtcZCML3XF1mK",
+            "jVq5JmfzKTiCqluDYqe1yfrUzOdJYsmQ",
+            "M4KYWm69BUtS3jCWyi3CZ6hzS9X6PgsM"
+        ],
+        "ratingCount": 5950,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Umekes Fish Market Bar & Grill",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 238-0571",
+        "address": "74-5599 Pawai Pl, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Restaurant",
+            "Caterer",
+            "Poke bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 207,
+                "2": 195,
+                "3": 442,
+                "4": 1114,
+                "5": 4008
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ_ZMiS-CpB3wRAphT0zonmcA",
+        "website": "https://www.merrimanshawaii.com/waimea/",
+        "index": 4,
+        "utcOffset": -600,
+        "longitude": -155.676598,
+        "latitude": 20.023014,
+        "rating": 4.7,
+        "excerpt": "Inventive, locally sourced menu of regional dishes, served in a simple, elegant mountainside space.",
+        "detail_description": "Merriman's Big Island is a renowned dining spot located on the mountainside, offering a creative menu featuring locally sourced regional dishes. It is known as one of the original pioneers of Hawaii Regional Cuisine and has gained recognition for its owner, Peter Merriman, being a James Beard Finalist. The restaurant provides an elegant dining experience with attentive waitstaff and a sophisticated ambiance.",
+        "imageKeys": [
+            "YzSz8xUNxSsKDkeSGrY3AFpb1pkKDgfe",
+            "K0LmyZEuevvZVcvMuuNseBQ6b69PTc1t",
+            "MGRriwXwEpavaV8kvg3PoE63eHcUhbtX",
+            "yOumSx1BsXluRKTOwovBk0AYVMjs3Tvo"
+        ],
+        "ratingCount": 1842,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Merriman's Big Island",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "(808) 885-6822",
+        "address": "65-1227 Opelo Rd B, Waimea, HI 96743, USA",
+        "types": [
+            "American restaurant",
+            "Bar",
+            "Fine dining restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 34,
+                "2": 25,
+                "3": 61,
+                "4": 198,
+                "5": 1533
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ582muw14VHkRXvqXega42K4",
+        "website": "https://aubergeresorts.com/maunalani/dine/canoe-house",
+        "index": 5,
+        "utcOffset": -600,
+        "longitude": -155.866835,
+        "latitude": 19.947071,
+        "rating": 4.5,
+        "excerpt": "Open-air eatery at the Mauna Lanai Bay Hotel offering panoramic ocean views & upscale island eats.",
+        "detail_description": "Nestled within the Mauna Lanai Bay Hotel on the Kohala Coast, CanoeHouse offers a modern and elegant indoor-outdoor dining experience with breathtaking ocean views. By day, guests can enjoy sunlit vistas, while at night, the ambiance is transformed by a mesmerizing fire pit and tiki torch glow against the ocean backdrop. The menu features fresh farm-to-table meals such as Shokupan Pull Apart Breadbuttered and Grilled Whole Keahole Lobster.",
+        "imageKeys": [
+            "tMxAyZayVW3IjnPKGcwNRdDah3cDX9vS",
+            "Jsc2kpNNKgpT8tn0zT4CH7uNRAAZkhWB",
+            "aXY0wn5KnQqv8wRVDW2z63q51lf3liHB",
+            "8X9UVlLuGYV8NgRXGZpr0kNHTABdqaT9",
+            "itoLsi6My7sYiZr9tSvFJurYiHdIjD89"
+        ],
+        "ratingCount": 829,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "CanoeHouse",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "(808) 885-6622",
+        "address": "Mauna Lani, Auberge Resorts Collection, 68-1400, Mauna Lani Dr, Waimea, HI 96743, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 28,
+                "2": 30,
+                "3": 49,
+                "4": 106,
+                "5": 623
+            }
+        }
+    },
+    {
+        "placeId": "ChIJLV0YzpZ3VHkRrJxydNU8n4s",
+        "website": "http://lavalavabeachclub.com/bigisland",
+        "index": 6,
+        "utcOffset": -600,
+        "longitude": -155.887946,
+        "latitude": 19.913298,
+        "rating": 4.4,
+        "excerpt": "Modern cottages in a beachfront resort with an open-air restaurant & live entertainment.",
+        "detail_description": "Lava Lava Beach Club is a beachfront resort with modern cottages and an open-air restaurant offering live entertainment. The club provides a casual atmosphere where guests can dine in their beach attire while enjoying the blowing of the conch shell at dusk, tiki torches, tropical cocktails, and live entertainment by Hawaiian recording artists.",
+        "imageKeys": [
+            "JqwReZ0IZ7GUu8nQIsJlrDNFrYKGMiTY",
+            "eRpAZJLEuJfo9h4Xhb1SAkoCdEhoylTl",
+            "pQA8oREpDJ0oehAcrZg80sgSSIoDo3b1",
+            "tl9GuG36Vai962PJsymtZbtaB6WuhQvI"
+        ],
+        "ratingCount": 5849,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Lava Lava Beach Club",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "(808) 769-5282",
+        "address": "69-1081 Ku'uali'i Pl, Waikoloa Village, HI 96738, USA",
+        "types": [
+            "Restaurant",
+            "Bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 226,
+                "2": 214,
+                "3": 432,
+                "4": 1130,
+                "5": 3880
+            }
+        }
+    },
+    {
+        "placeId": "ChIJgyAomFxLUnkR3SbiUvow2vA",
+        "website": "https://cafe100.com/",
+        "index": 7,
+        "utcOffset": -600,
+        "longitude": -155.077191,
+        "latitude": 19.714428,
+        "rating": 4.3,
+        "excerpt": "Walk-up eatery serving 30 loco moco varieties, plus pupu platters, burgers & other island classics.",
+        "detail_description": "Cafe 100 is a casual eatery established in 1948, known for its wide variety of loco moco dishes and other island classics. Despite being more of a walk-up spot than a traditional restaurant, it offers over 30 types of loco moco featuring different meats, chicken, vegetables, and fish. The place is famous for its affordable breakfast and lunch specials as well as the authentic old-Hilo experience it provides.",
+        "imageKeys": [
+            "9LH4BLoN56m3raTrZUUsHKnjDTkzJYq1",
+            "4UXFvVXB4ovhs2P5WaZR19eE6GQMw1GG",
+            "CuqLZllkIoZ1fo4iV8ktYZuAWTmYfUGE",
+            "5PQQwdTKGUdv1GFFNidCDvMKrgcGBEWY"
+        ],
+        "ratingCount": 1964,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Cafe 100",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "(808) 935-8683",
+        "address": "969 Kilauea Ave, Hilo, HI 96720, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Caterer",
+            "Family restaurant",
+            "Fast food restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 60,
+                "2": 59,
+                "3": 215,
+                "4": 522,
+                "5": 1115
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ9SL7n_0OVHkRG7JLHdD-JGY",
+        "website": "https://www.fosterskitchen.com/",
+        "index": 8,
+        "utcOffset": -600,
+        "longitude": -155.989903,
+        "latitude": 19.634659,
+        "rating": 4.3,
+        "excerpt": "Relaxed bar/eatery with TVs & outdoor seating preparing a locally sourced menu & creative cocktails.",
+        "detail_description": "Foster's Kitchen is a laid-back bar and eatery located on Alii Drive, offering a locally sourced menu and creative cocktails. The restaurant boasts ocean views and a bayfront location, creating a relaxed atmosphere for diners. Known for its quality menu infused with Cajun and island influences, Foster's Kitchen prides itself on using non-GMO, hormone-free, or USDA-certified organic ingredients in almost all of its dishes.",
+        "imageKeys": [
+            "hvsscpt2HgmI2sCHEyUheiZDeKePilmu",
+            "qrPsr9d4s7oEemCqnCXi9XCyl3ADJaaH",
+            "VgOIvj9yiA1HO3IduXJ5lj4gCvjNYliv",
+            "ZXNs70W7UnJIgrcV6rJ7IkTZOEU4Ug8a",
+            "uXiEjayQeZV8FQvdtAyWv9a4CLLAP9Tt"
+        ],
+        "ratingCount": 1605,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Foster's Kitchen Kona",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 515-7820",
+        "address": "75-5805 Ali‘i Dr, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "American restaurant",
+            "Barbecue restaurant",
+            "Cocktail bar",
+            "Hamburger restaurant",
+            "Salad shop",
+            "Sandwich shop",
+            "Seafood restaurant",
+            "Steak house",
+            "Taco restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 90,
+                "2": 66,
+                "3": 130,
+                "4": 303,
+                "5": 1024
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ85oMfwIPVHkR98780iJXIac",
+        "website": "http://huggosontherocks.com/",
+        "index": 9,
+        "utcOffset": -600,
+        "longitude": -155.989917,
+        "latitude": 19.633448,
+        "rating": 4.4,
+        "excerpt": "Local landmark Huggo's outdoor lounge serves island bites & cocktails right on the water.",
+        "detail_description": "On the Rocks is a popular seaside lounge located in Pottery Terrace, offering a casual and vibrant atmosphere with dog-friendly outdoor seating. Established in 2004, this colorful eatery specializes in seafood straight off the boat, premium quality steaks, chops, burgers, pasta dishes, local organic salads and vegetables. The menu features refined versions of locally-inspired fare such as wasabi-seared ahi and guava-glazed ribs.",
+        "imageKeys": [
+            "PENxKKnqNYWQr6OVqvJ4A3kqbPx4yLMf",
+            "kHfIH1JHfZIboSG4Ank2Eq1Soq09xlFC",
+            "AYtUAHGq0IkFyH5Qs5JnAxXSVErfmmxA",
+            "LqUImisLWxaHutsfGxPeDj9E2xpcPI3V",
+            "9uX054HSyBQ6aQ7aYr7kRnBwpVKLKmC7"
+        ],
+        "ratingCount": 4159,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "On the Rocks",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 329-8711",
+        "address": "75-5824 Kahakai Rd, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Bar & grill",
+            "Bar",
+            "Lounge",
+            "Pacific Rim restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 150,
+                "2": 132,
+                "3": 330,
+                "4": 1001,
+                "5": 2565
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ4wzG-vgOVHkRJkYBEDZ7jQo",
+        "website": "https://konabrewinghawaii.com/",
+        "index": 10,
+        "utcOffset": -600,
+        "longitude": -155.997519,
+        "latitude": 19.643082,
+        "rating": 4.5,
+        "excerpt": "Microbrewery with informal tours, pizza, live music on Sundays & a lanai with a corrugated tin roof.",
+        "detail_description": "Kona Brewing Co. is a delightful microbrewery located in Kailua-Kona, Hawaii, that offers an inviting atmosphere perfect for families and friends alike. Established in 1994, this beloved spot combines the best of Hawaiian cuisine with classic pub favorites like kalua pork and ale-marinated fire wings. Guests can enjoy informal tours of the brewery while savoring a variety of craft beers on tap or in bottles—each accompanied by a complimentary bottle opener!",
+        "imageKeys": [
+            "Dpq8ff2CRD07k3HFHW2GU93RcNq26G5O",
+            "WqRBPphvMAUChd16452u1WDE22NSg6W6",
+            "V7B2zhMldzraQ0ONua5LXjGdDngnWEBL",
+            "98bYaz100rwvzvQRVqihUN26PWLAQ1C2",
+            "HIOLGFib7RkhUJ9J3CH6uWeOTzCsrwlt"
+        ],
+        "ratingCount": 3755,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Kona Brewing Co.",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 334-2739",
+        "address": "74-5612 Pawai Pl, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Restaurant",
+            "Brewery",
+            "Event venue",
+            "Takeout Restaurant",
+            "Pub",
+            "Tour operator"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 117,
+                "2": 109,
+                "3": 231,
+                "4": 694,
+                "5": 2618
+            }
+        }
+    },
+    {
+        "placeId": "ChIJr6xr0TOHU3kReFUmA0pshzc",
+        "website": "https://maunakeabeachhotel.com/dining/big-island-hi-breakfast-buffet/",
+        "index": 11,
+        "utcOffset": -600,
+        "longitude": -155.825066,
+        "latitude": 20.006401,
+        "rating": 4.1,
+        "excerpt": "Upscale Hawaiian restaurant & wine bar in an elegant, open-air space overlooking the bay.",
+        "detail_description": "If you're in the mood for some amazing breakfast food overlooking the bay, Manta is definitely the place to go! Their menu has everything from made-to-order omelets and waffles to delicious pastries, cereals, and juices. Plus, their staff is always so friendly and accommodating - you'll love spending your morning here!",
+        "imageKeys": [
+            "EMjQ8jbZ6i80GsxR6CRBMBPil7Sk95n9",
+            "DqmmGYccQVbTJhbqAgns2XBv1gHQrCht",
+            "H10ezCnoLBU8RsthcwrUZBxmNpy0Bvhb",
+            "ItqAvJayw2hsj3ikHWy8O2mbfpeG04th",
+            "9KmUxcU2gb4vLDrdZeFKYstS9hl3mcL0"
+        ],
+        "ratingCount": 361,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1030"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Manta Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "(808) 882-5707",
+        "address": "Mauna Kea Beach Hotel, 62-100 Mauna Kea Beach Dr, Waimea, HI 96743, USA",
+        "types": [
+            "Restaurant",
+            "Breakfast restaurant",
+            "Wine bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 28,
+                "2": 33,
+                "3": 29,
+                "4": 58,
+                "5": 219
+            }
+        }
+    },
+    {
+        "placeId": "ChIJbSvsfwIPVHkRH2SV_Tlhdaw",
+        "website": "http://www.huggos.com/",
+        "index": 12,
+        "utcOffset": -600,
+        "longitude": -155.99005,
+        "latitude": 19.633113,
+        "rating": 4.4,
+        "excerpt": "Scenic, waterfront fixture providing seafood, steaks & pasta, plus tiki drinks & live entertainment.",
+        "detail_description": "Huggo's is a waterfront fixture offering seafood, steaks, and pasta along with tiki drinks and live entertainment. Next to the landmark Huggo's Restaurant is Huggo's on the Rocks, an oceanside lounge serving island bites and classic cocktails right by the water. The restaurant provides a casual dining experience with an emphasis on fresh island foods and serves tropical cocktails against stunning sunset views.",
+        "imageKeys": [
+            "rdL9Twlg5VBSGKMhqAoTjrhCRwQLTreQ",
+            "p7yKRtbSY3uOe1XQIKJnaKjNx2UTUfRd",
+            "3l3z8OLRhZZoCfptUxckqT6YYPfNoywV",
+            "z718ZOfrWyzbDFDQcuwHb7zLRXGMBwjQ",
+            "ix3fiSZrr902icETIzwgf6fIaPQNO8Vh"
+        ],
+        "ratingCount": 1664,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Huggo's",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "(808) 329-1493",
+        "address": "5308, 75-5828 Kahakai Rd, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Restaurant",
+            "Fine dining restaurant",
+            "Fish restaurant",
+            "Hawaiian restaurant",
+            "Steak house"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 72,
+                "2": 51,
+                "3": 119,
+                "4": 293,
+                "5": 1139
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ78h2KlZLUnkRrbQuSt59KaA",
+        "website": "http://www.facebook.com/moonandturtle",
+        "index": 13,
+        "utcOffset": -600,
+        "longitude": -155.087155,
+        "latitude": 19.725418,
+        "rating": 4.6,
+        "excerpt": "Locally sourced seafood stars at this Asian-fusion cafe with a menu that changes frequently.",
+        "detail_description": "In Hilo, the Moon and Turtle is a popular Asian-fusion cafe known for its ever-changing menu featuring locally sourced seafood. Chef Mark Pomaski, a Hilo native, has drawn attention to this Pacific seafood-centric spot by offering vibrant dishes with a focus on hyper-local ingredients. The restaurant's spin on familiar comfort foods and beloved local dishes has made it a favorite among both locals and tourists.",
+        "imageKeys": [
+            "ZT0V9UKOIFmmGRQqjB15ol7QUaT0b9NS",
+            "Wr60sz6efUtOlwUJp3DYWC3ujfl0rg4H",
+            "fDnq3dgZCZlNDRD16ilvktvS3XOtHr82",
+            "ggorb2N26Qossx5I5U4HqzKP0sSfOaW9",
+            "XXWsJKmTzCqMThzV1xDrVp6aPGNOg8C1"
+        ],
+        "ratingCount": 609,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Moon and Turtle",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 961-0599",
+        "address": "51 Kalakaua St, Hilo, HI 96720, USA",
+        "types": [
+            "Seafood restaurant",
+            "Bar",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 19,
+                "2": 11,
+                "3": 18,
+                "4": 70,
+                "5": 493
+            }
+        }
+    },
+    {
+        "placeId": "ChIJLW4i_XR4VHkRy-lzYDroOTc",
+        "website": "http://www.fairmont.com/orchid-hawaii/dining/browns-beach-house/",
+        "index": 14,
+        "utcOffset": -600,
+        "longitude": -155.860954,
+        "latitude": 19.951171,
+        "rating": 4.5,
+        "excerpt": "Luxurious open-air beach destination serves sophisticated farm-to-table meals in a romantic setting.",
+        "detail_description": "BROWN'S BEACH HOUSE is a luxurious open-air beach destination located at the Fairmont Orchid Resort, offering a sophisticated farm-to-table dining experience in a romantic setting. The restaurant's elegant beachfront location provides a beautiful backdrop for enjoying island-inspired cuisine featuring fresh seafood and the best of Hawaiian ingredients. With nightly entertainment and an AAA Four-Diamond rating, BROWN'S BEACH HOUSE is renowned for its commitment to excellence in creating decadent Hawaiian dishes.",
+        "imageKeys": [
+            "RMaKGZKhJxfzsrL2VkYIfsa4YLULCWyy",
+            "G7BWEP1iv5BG9bnn3IKATVQzvrtpXnGd",
+            "Q6QP2AWsJNTTQ1Fpx5PTkz3Z3OAvjXXF",
+            "ioZjxHET4AMmudkSYKii1zrsHR0NctLi",
+            "rw8iwe4aMbZxX18MRv0NdTmDk0HmJMmK"
+        ],
+        "ratingCount": 757,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "BROWN'S BEACH HOUSE",
+        "permanentlyClosed": false,
+        "priceLevel": 4,
+        "phone": "(808) 885-2000",
+        "address": "1 N Kaniku Dr, Waimea, HI 96743, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Asian restaurant",
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 23,
+                "2": 29,
+                "3": 54,
+                "4": 121,
+                "5": 535
+            }
+        }
+    },
+    {
+        "placeId": "ChIJQWICD2NMUnkRW0aBEM8qJuU",
+        "website": "http://www.kenshouseofpancakes.com/",
+        "index": 15,
+        "utcOffset": -600,
+        "longitude": -155.064689,
+        "latitude": 19.722307,
+        "rating": 4.4,
+        "excerpt": "American-style, 24-hour diner with a Hawaiian twist has macadamia-nut pancakes, burgers & stews.",
+        "detail_description": "Ken's House of Pancakes is a 24-hour American-style diner in Hilo, Hawaii, offering a unique Hawaiian twist to its menu. The restaurant is known for its macadamia-nut pancakes, burgers, and stews. It's a popular spot with locals and visitors alike. The diner has a nostalgic ambiance with window booths and friendly local waitresses who appreciate being addressed as 'auntie' as a sign of respect according to local customs.",
+        "imageKeys": [
+            "4Mo8gPOFDt4hyz2ugi5x3LuDSgbyG5Nf",
+            "VjjYaHnwL0uof4ZbGfcomF1UmlQlE0He",
+            "NzMGqz8c2W1O53hGs7nXFjkBk8Ajt6QB",
+            "Ukz5hcMxLajbt9SOS9rK2ESNcGNUpma1",
+            "9ZrtCdsNlBmEvPtn49HoecWzsKDbaMEd"
+        ],
+        "ratingCount": 5832,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Ken's House of Pancakes",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 935-8711",
+        "address": "1730 Kamehameha Ave, Hilo, HI 96720, USA",
+        "types": [
+            "Restaurant",
+            "Pancake restaurant",
+            "Sandwich shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 183,
+                "2": 152,
+                "3": 546,
+                "4": 1315,
+                "5": 3662
+            }
+        }
+    },
+    {
+        "placeId": "ChIJEUAXZVdLUnkRIqxpZY97YIE",
+        "website": "https://www.facebook.com/twoladieskitchenorginal/",
+        "index": 16,
+        "utcOffset": -600,
+        "longitude": -155.08443,
+        "latitude": 19.721099,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Two Ladies Kitchen is a popular spot in Hilo, known for its delicious mochi. Despite not being a traditional sit-down restaurant, it attracts both locals and tourists. The unique packaging of their mochi makes it a perfect souvenir or gift. The flavors they offer are sometimes unusual, making it a must-visit for mochi enthusiasts. Additionally, the place is often crowded with people eager to get their hands on these delectable treats.",
+        "imageKeys": [
+            "YIyL4RWuoCcyucrcQBU2cmIIYIdMFUKw",
+            "V04vMXzFE9Ql76eaHIlpjVEQtzNNYl4N",
+            "BCUGQ16wmrL0Uwhe0FGwOQQE59Xp79pz",
+            "UyjnO10zMyhvgvyLBmhe4PsqbOlEzNPj",
+            "IdAytzu8jgajxmj203xnOIv9X0hEz9Fw"
+        ],
+        "ratingCount": 1014,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "Two Ladies Kitchen",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(808) 961-4766",
+        "address": "274 Kilauea Ave, Hilo, HI 96720, USA",
+        "types": [
+            "Japanese confectionery shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 12,
+                "2": 22,
+                "3": 40,
+                "4": 134,
+                "5": 808
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ45nY4PsOVHkRsDxcpusSPDc",
+        "website": "https://bigislandgrill.shop/",
+        "index": 17,
+        "utcOffset": -600,
+        "longitude": -155.992237,
+        "latitude": 19.640159,
+        "rating": 4.5,
+        "excerpt": "Roomy, unassuming restaurant serving Hawaiian staples including loco moco, saimin & Kalua pork.",
+        "detail_description": "Big Island Grill is a spacious and unpretentious restaurant on the east side of The Big Island, offering a casual atmosphere and a loyal following. It's known for serving up Hawaiian comfort food like loco moco, saimin, Kalua pork, chicken katsu, fish and chips. The portions are generous and will leave you feeling satisfied. This diner-style venue has been popular with both locals and tourists for its delicious dishes served in large servings at great value.",
+        "imageKeys": [
+            "BeVcpP6raqW2UelFfFHb3MQ7f3L1oSmB",
+            "fQGayOxMRn6JrmtlXDD63q4UHSdGMGxQ",
+            "Zj8kYgyy3oSFIDgXD9ju9cqx6PuyXToi",
+            "hJDyMWxMFBNdGZvgKs5hEAtl3AelSVdK",
+            "nblz3UCaE7e4ZsGsPgfr5bzXfEjdqCst"
+        ],
+        "ratingCount": 2238,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            }
+        ],
+        "name": "Big Island Grill",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 326-1153",
+        "address": "75-5702 Kuakini Hwy, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "American restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 31,
+                "2": 48,
+                "3": 157,
+                "4": 533,
+                "5": 1470
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ6eJc_JJ3VHkRV-seNylLmEQ",
+        "website": "https://royyamaguchi.com/roys-waikoloa",
+        "index": 18,
+        "utcOffset": -600,
+        "longitude": -155.881821,
+        "latitude": 19.916072,
+        "rating": 4.2,
+        "excerpt": "High-end chain serving notable chef Roy Yamaguchi's Hawaiian fusion fare in a contemporary setting.",
+        "detail_description": "Roy's Waikoloa Bar & Grill is a high-end chain restaurant that offers a contemporary setting and serves Hawaiian fusion cuisine created by notable chef Roy Yamaguchi. The menu changes seasonally and features a blend of Japanese, Hawaiian, and European influences.",
+        "imageKeys": [
+            "rLo1IxOGr5HqoWnO2dJBwkKucfrMlC9G",
+            "kJQ8G2yBHnRwTIiwiD6ccBmKd4do0FbH",
+            "J71Q6Slj0zW3VFOYKbhYGUCMn1fxUWIv",
+            "7Su4S0XfYo4YKWu2scwQQefA3SfTiyyt",
+            "RUBZwwgeXGk3Ey7VlLCr8JnYBWqOlNM0"
+        ],
+        "ratingCount": 1121,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Roy's Waikoloa Bar & Grill",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "(808) 886-4321",
+        "address": "69-250 Waikōloa Beach Dr, Waikoloa Village, HI 96738, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Asian fusion restaurant",
+            "Bar",
+            "Seafood restaurant",
+            "Steak house"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 61,
+                "2": 59,
+                "3": 110,
+                "4": 226,
+                "5": 672
+            }
+        }
+    },
+    {
+        "placeId": "ChIJZbycIO0AVHkRdwDq-JcPo60",
+        "website": null,
+        "index": 19,
+        "utcOffset": -600,
+        "longitude": -155.879922,
+        "latitude": 19.453649,
+        "rating": 4.9,
+        "excerpt": "This modest, family-run restaurant is known for its laulau & other authentic Hawaiian dishes.",
+        "detail_description": "Kaaloa's Super J's is a roadside hawaiian restaurant in West Hawaii that specializes in laulau, a traditional Hawaiian dish. The food is excellent and the prices are very reasonable.",
+        "imageKeys": [
+            "VrsWTnOufgDDYgcNzByBX4d13F5QvkT2",
+            "1VuaDJcH5s8DiugD0Lic5j613XnHTOUf",
+            "AkDAcdX1aCwYJnq6NLCF7IEkMZUBPeh2",
+            "vtpvvbWtvewZGDyCnN9rydGkgBwi0DHc"
+        ],
+        "ratingCount": 1411,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                }
+            }
+        ],
+        "name": "Kaaloa's Super J's",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "(808) 328-9566",
+        "address": "83-5409 Mamalahoa Hwy, Captain Cook, HI 96704, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 5,
+                "2": 9,
+                "3": 28,
+                "4": 100,
+                "5": 1277
+            }
+        }
+    },
+    {
+        "placeId": "ChIJtdRqX-kNVHkRaJI8PPiCICU",
+        "website": "http://pinetreecafehi.com/",
+        "index": 20,
+        "utcOffset": -600,
+        "longitude": -156.027503,
+        "latitude": 19.699998,
+        "rating": 4.4,
+        "excerpt": "Hawaiian eats in hearty portions from a buffet-style counter for takeout or to stay in casual digs.",
+        "detail_description": "Pine Tree Cafe is a casual eatery offering hearty Hawaiian eats in generous portions. Despite its unassuming location, this spot is a go-to for excellent meals near the airport. The menu features local plate lunch options and classics like loco moco, alongside innovative dishes such as crab curry bisque. Whether you're craving breakfast, lunch, or dinner, this cafe has something for everyone with an extensive menu that includes favorites like spicy garlic chicken and Korean wings.",
+        "imageKeys": [
+            "HdAJ4mf4nTCHwGwYYuRUK4Bml4WSVrot",
+            "vKALrElRtOABpbxsaKlAIsodAlIWRpMm",
+            "IDIo5R2lZBZN9u3OjGqtYkJTbCfUlCMD",
+            "LuUFtMzuvRdLbSpQSiyFWkrB4qmeInvh",
+            "3Dz4sP3BJW8uMXUWDXJ8hfNFlGn8i2ms"
+        ],
+        "ratingCount": 2063,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "name": "Pine Tree Cafe",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "(808) 327-1234",
+        "address": "73-4040 Hulikoa Dr, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 76,
+                "2": 57,
+                "3": 148,
+                "4": 517,
+                "5": 1282
+            }
+        }
+    },
+    {
+        "placeId": "ChIJobaO3KlMUnkR2kLT0mnS76g",
+        "website": "http://www.jackiereyshilo.com/",
+        "index": 21,
+        "utcOffset": -600,
+        "longitude": -155.088118,
+        "latitude": 19.725929,
+        "rating": 4.5,
+        "excerpt": "Locally sourced seafood & cocktails in a restored bank building with high ceilings & a vault.",
+        "detail_description": "Jackie Rey's Ohana Grill Hilo is a fine dining restaurant located in a restored bank building with high ceilings and a vault, adding to its unique atmosphere. The establishment prides itself on offering locally sourced seafood and cocktails. The menu features delicious options such as house-made lobster ravioli with seared Hawaiian prawns and mushroom bowl with crispy local Oshiro tofu, yakisoba noodles, and vegetables.",
+        "imageKeys": [
+            "CT2Re8IWJGMXjywetDe1ab72VwvnWMqM",
+            "3PeXUUOCvvudT6jcJdIRc7mwZhZd791M",
+            "u7KB8642FU78IQOmqM1IyvvVfrmYtegK",
+            "Ake1VUNprDPVTWY2Ys6YQoZ0aIf9V8b5",
+            "jSISKmaKzLQFXJAN6iyMctsqm2R2S13O"
+        ],
+        "ratingCount": 1883,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Jackie Rey's Ohana Grill Hilo",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 961-2572",
+        "address": "64 Keawe St, Hilo, HI 96720, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Grill",
+            "New American restaurant",
+            "Restaurant",
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 50,
+                "2": 41,
+                "3": 111,
+                "4": 370,
+                "5": 1322
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ4wzG-vgOVHkRf1QccTNwND8",
+        "website": "http://originalthai.co/",
+        "index": 22,
+        "utcOffset": -600,
+        "longitude": -155.996676,
+        "latitude": 19.642869,
+        "rating": 4.4,
+        "excerpt": "Strip-mall eatery featuring signature Thai dishes such as panang curry plus weekday lunch specials.",
+        "detail_description": "Original Thai Cuisine is a popular strip-mall eatery in Kailua Kona, offering a variety of signature Thai dishes such as panang curry and drunken noodles with shrimp. The restaurant is known for its large portions of Thai food at reasonable prices, making it a favorite among locals and visitors alike. In addition to their regular menu, they also offer special dishes like the spectacular pumpkin curry and mango curry during specific seasons.",
+        "imageKeys": [
+            "yOPRMsqvDSdBm14oNmGKItiOLXnzeQw3",
+            "5UGfoLnxDM2DbL34pCTGSrnpl0KBPAQS",
+            "W1Mpdg3OrNKNS2vRBwcTPBhZ830XuRxk",
+            "9I1JSAYuEUntS7Q24gSmMQjtnntGarry",
+            "sCUNcDNeqUdeUZIftzCdiEMyTL05VHsi"
+        ],
+        "ratingCount": 428,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Original Thai Cuisine",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 329-3459",
+        "address": "75-5629 Kuakini Hwy, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Thai restaurant",
+            "Asian restaurant",
+            "Restaurant",
+            "Southeast Asian restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 26,
+                "2": 13,
+                "3": 26,
+                "4": 81,
+                "5": 283
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ_8ckTrFzVHkRbO1-v9rVXdY",
+        "website": "https://www.fourseasons.com/hualalai/dining/restaurants/ulu/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-kon-fab-mid-seo-na&utm_content=na-na&utm_term=na",
+        "index": 23,
+        "utcOffset": -600,
+        "longitude": -155.992025,
+        "latitude": 19.828808,
+        "rating": 4.6,
+        "excerpt": "An inventive Hawaiian menu is showcased at this oceanfront restaurant in the Four Seasons Resort.",
+        "detail_description": "Ulu is a Hawaiian restaurant that offers an ocean view and high-quality service. The menu features fresh seafood items as well as sushi, and the restaurant is endorsed by the Four Seasons Resort. It's perfect for a romantic evening out.",
+        "imageKeys": [
+            "dcfoqwtBEqoOGLydmRevOk7Nq9ROmFzF",
+            "EpKIJz6CIpOiWWi7r4ejxhtKAjL7gZlE",
+            "J4yCMEjoXdg9rH8Jjikd0iJjCbpW2MN8",
+            "dxPnDOvE6SYo4TH7Jkjp6mLPiqwawFkr"
+        ],
+        "ratingCount": 452,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "ULU",
+        "permanentlyClosed": false,
+        "priceLevel": 4,
+        "phone": "(808) 325-8000",
+        "address": "72-100 Ka'upulehu Drive, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Bar",
+            "Bar & grill",
+            "Breakfast restaurant",
+            "Dessert shop",
+            "Lounge",
+            "Restaurant",
+            "Seafood restaurant",
+            "Sushi restaurant",
+            "Wine bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 18,
+                "2": 12,
+                "3": 21,
+                "4": 48,
+                "5": 353
+            }
+        }
+    },
+    {
+        "placeId": "ChIJfYq9hNYPVHkRPBWiblxh87M",
+        "website": "http://www.willieshotchicken.com/",
+        "index": 24,
+        "utcOffset": -600,
+        "longitude": -155.998529,
+        "latitude": 19.644066,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Willie's Hot Chicken in Kailua-Kona, Hawaii offers a taste of Nashville with its responsibly sourced, all-natural crispy fried chicken and seven different sauces ranging from mild to extremely spicy. The Sweet Hawaiian flavor is highly recommended by many patrons. This lively spot also features big TVs for sports fans and is dog-friendly, making it a great place to enjoy some delicious fried chicken while soaking up the vibrant atmosphere.",
+        "imageKeys": [
+            "k1oEaS2a20F5zQLdV3U0x7HRfkgS2V71",
+            "3TLZWoux3pq3i0DppL8DLtPsqDd5YyH4",
+            "g7QE03Sbg7rLHVzQthQHdalxODkrp7rm",
+            "GQx7ePTqTbJsgH6mPNP2argtCU47tXh0"
+        ],
+        "ratingCount": 831,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Willie's Hot Chicken",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 796-3088",
+        "address": "74-5599 Pawai Pl Ste#1&2, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 43,
+                "2": 26,
+                "3": 38,
+                "4": 110,
+                "5": 609
+            }
+        }
+    },
+    {
+        "placeId": "ChIJi_wY86EPVHkRkOJ8QfxunmE",
+        "website": "http://www.poidogdeli.com/",
+        "index": 25,
+        "utcOffset": -600,
+        "longitude": -155.988411,
+        "latitude": 19.646045,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Poi Dog Deli is a unique deli located in a small strip mall, offering more than just your average sandwich shop. With vintage decor and a bluesy soundtrack, the deli provides a cool atmosphere to enjoy gourmet sandwiches, salads, wraps, an impressive selection of wines, craft beers from around the world, and hard ciders. The menu also features kitchen sink specials that change often and a delicious Turkey Orbit sandwich.",
+        "imageKeys": [
+            "77xWKLa55tTR027jgaboJ5xHYbHa7SyS",
+            "QaCKoIKZM8Plc8EKhhtJXRxmNGdu7ZIk",
+            "JuIqYRmGjtrYvAweVFs7Uzlk9dzqgKCS"
+        ],
+        "ratingCount": 426,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Poi Dog Deli",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 329-2917",
+        "address": "75-1022 Henry St, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Sandwich shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 8,
+                "3": 23,
+                "4": 46,
+                "5": 338
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ1RM8JfEPVHkR84IdOc35WT8",
+        "website": "http://islandlavajava.com/?y_source=1_MTQ4NDEyNzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "index": 26,
+        "utcOffset": -600,
+        "longitude": -155.990008,
+        "latitude": 19.634889,
+        "rating": 4.4,
+        "excerpt": "Part coffeehouse & bakery featuring Kona coffee, part American bistro serving locally sourced meals.",
+        "detail_description": "Island Lava Java is a unique dining spot on the Big Island, combining a coffeehouse, bakery, and American bistro. Open from morning to evening, it offers a range of beverages and light meals for breakfast, lunch, and dinner. The restaurant prioritizes sourcing local ingredients such as beef, lamb, cheese, produce, and coffee. Visitors can savor the flavors of tropical fruits and vegetables not easily found elsewhere while supporting local farmers and artisans.",
+        "imageKeys": [
+            "t7ycyoNJ0PDlQlbhax3W97gmwzV6iODw",
+            "ukUJjbq6P9QFWXGOz36ygIthVSRTzU1Y",
+            "91BtImETWymrVUGNeRM9xujD8GDrAxfF",
+            "rLLjToIe3TbIsSgSvALFIRDz1ne662ag",
+            "b1CtGkhCUuhSf3sDbvNX6o7V5Ygg07i6"
+        ],
+        "ratingCount": 3224,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Island Lava Java",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 300-5672",
+        "address": "75-5801 Ali‘i Dr Building 1, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Restaurant",
+            "Brunch restaurant",
+            "Hawaiian restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 146,
+                "2": 109,
+                "3": 242,
+                "4": 680,
+                "5": 2054
+            }
+        }
+    },
+    {
+        "placeId": "ChIJcX8FdwAPVHkRmmz4gIauRkc",
+        "website": "https://www.fishhopperkona.com/",
+        "index": 27,
+        "utcOffset": -600,
+        "longitude": -155.995853,
+        "latitude": 19.640301,
+        "rating": 4.4,
+        "excerpt": "Steak, seafood & cocktails served in a laid-back restaurant with big windows overlooking the bay.",
+        "detail_description": "Fish Hopper Kona is a casual dining spot in the heart of Kailua-Kona, offering stunning views of the Pacific Ocean. The restaurant serves fresh seafood from Hawaii and the Pacific Rim, along with flaming cocktails like The Volcano. With separate menus for breakfast, lunch, and dinner, as well as a three-course meal option on select days, it's known for its Poke Bar selections and award-winning clam chowder.",
+        "imageKeys": [
+            "o47ehrg6B4MHdDcAGjZfemf4FGwUpcnv",
+            "ZMEarSQ8P2Daywsb6pLTue3mBMgzrpRM",
+            "bjbp2CrVTTy4zuqCIdxHZgS8pzBXshuY",
+            "5sd4JMo5yntQ0HpPjsUVbi9q36nNvpNh"
+        ],
+        "ratingCount": 1480,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Fish Hopper Kona",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 326-2002",
+        "address": "75-5683 Ali‘i Dr, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 84,
+                "2": 53,
+                "3": 96,
+                "4": 249,
+                "5": 1019
+            }
+        }
+    },
+    {
+        "placeId": "ChIJBYgN4mxLUnkRIVx65N4mIL0",
+        "website": "http://www.hilobaycafe.com/",
+        "index": 28,
+        "utcOffset": -600,
+        "longitude": -155.070442,
+        "latitude": 19.725033,
+        "rating": 4.5,
+        "excerpt": "Wood-accented hangout featuring a New American menu with a Pacific Rim twist, cocktails & bay views.",
+        "detail_description": "Hilo Bay Cafe is a popular dining spot in Hilo, offering a New American menu with a Pacific Rim twist. Situated overlooking Hilo Bay, it provides breathtaking views and an outdoor patio for a romantic setting. The menu features top-notch sushi, miso butter garlic udon, Maui rum BBQ ribs, demi-glazed roasted duck, nigiri, sashimi, and unique rolls like torched hamachi and salmon furikake.",
+        "imageKeys": [
+            "oCOq1drick9Edd4SKiz4Cwz5oF3cOYqU",
+            "PWfByXXfUA9vhsLBTU4TDuMcSWKgghx7",
+            "hzFwhBGrh8CuepxnQeyJ3gBkrQ43Es0V",
+            "092qA4Pr0WKljQTSWU5LDSLWQmAVlIoa",
+            "PH67WZrc92D3MRJdttiYAvBJuqEzQwAw"
+        ],
+        "ratingCount": 1395,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1430"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Hilo Bay Cafe",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 935-4939",
+        "address": "123 Lihiwai St, Hilo, HI 96720, USA",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 39,
+                "2": 44,
+                "3": 92,
+                "4": 269,
+                "5": 957
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ1fgg61dLUnkRfeJrovG6W8M",
+        "website": "http://www.cafepesto.com/",
+        "index": 29,
+        "utcOffset": -600,
+        "longitude": -155.085015,
+        "latitude": 19.723735,
+        "rating": 4.5,
+        "excerpt": "Mainstay eatery in a quaint, restored historic space is known for its pizzas from a wood-fired oven.",
+        "detail_description": "Cafe Pesto Hilo Bay is a well-established restaurant located on the waterfront in Hilo. It offers a variety of Mediterranean and Italian-inspired dishes, including an array of pastas, entrees, and desserts. The menu also features a selection of seafood dishes made with fresh local ingredients. The restaurant's Italian roots are evident in its wood-fired pizzas and pasta specialties. With its inviting ambiance, Cafe Pesto is suitable for both casual lunches and special dinners.",
+        "imageKeys": [
+            "dNVDLEq6X1rReXLcT0Xlj9ZaM3rm9bCX",
+            "Ui4KYUu2QA4hBE2hqrGIeI7ntovlw8ga",
+            "H4X9b38N7ExqVWmR2CaYeZ5lwIn5Sj5I",
+            "wdFLYRIdAij2hTona4RptXjSUoyUbGDj",
+            "OfxmplN324nAQ4KDPAfBHO8NbgzwoPTa"
+        ],
+        "ratingCount": 2345,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Cafe Pesto Hilo Bay",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 969-6640",
+        "address": "308 Kamehameha Ave #101, Hilo, HI 96720, USA",
+        "types": [
+            "Restaurant",
+            "Asian fusion restaurant",
+            "Cafe",
+            "Pizza restaurant",
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 53,
+                "2": 57,
+                "3": 177,
+                "4": 552,
+                "5": 1515
+            }
+        }
+    },
+    {
+        "placeId": "ChIJh6tbJvkOVHkRm60fRPAJqoo",
+        "website": "http://www.coffeeshack.com/",
+        "index": 30,
+        "utcOffset": -600,
+        "longitude": -155.892272,
+        "latitude": 19.475274,
+        "rating": 4.7,
+        "excerpt": "Island-style breakfast & lunch fare, pizza & coffee, plus a lanai overlooking 26 miles of coastline.",
+        "detail_description": "The Coffee Shack in Captain Cook offers island-style breakfast and lunch options, along with pizza and coffee. The restaurant features a lanai that provides stunning views of the 26-mile coastline.",
+        "imageKeys": [
+            "FQrIs12RRYFjIrok4JSn9Yyjs4KCVvS5",
+            "wllZKUn8L67wDEkZnT16y4FBYJ7a35oy",
+            "0ke4vjLKpxROd0qNjOjHlFCzGo6LVvjs",
+            "qPjPNzqgGareqqA5gL8nAe1zYPOsiVdO",
+            "CSTa8AT4q70PaTDqzZyE0nG1DydKGbQG"
+        ],
+        "ratingCount": 2330,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1530"
+                }
+            }
+        ],
+        "name": "The Coffee Shack",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 328-9555",
+        "address": "83-5799 Mamalahoa Hwy Box 510, Honaunau-Napoopoo, HI 96704, USA",
+        "types": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 35,
+                "2": 29,
+                "3": 85,
+                "4": 296,
+                "5": 1890
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ1R8HZcgKU3kROw6srT99Uuc",
+        "website": "https://texdrivein-hawaii.com/",
+        "index": 31,
+        "utcOffset": -600,
+        "longitude": -155.46448,
+        "latitude": 20.071862,
+        "rating": 4.3,
+        "excerpt": "Longtime pit stop known for deep-fried dough balls called malasadas, plus burgers & Hawaiian food.",
+        "detail_description": "Tex Drive-In is a popular pit stop in Honokaa, Hawaii, known for its deep-fried dough balls called malasadas, as well as serving up delicious burgers and Hawaiian food. It's a long-standing establishment that has garnered praise from visitors for its tasty offerings. The restaurant also offers Korean cuisine, adding to its diverse menu. With its convenient location and varied menu options, Tex Drive-In is a must-visit spot for those looking to experience the local flavors of Honokaa.",
+        "imageKeys": [
+            "BIJym6vJvndcxrs00YZmkJunMe475Ytc",
+            "98kZsWQq1NIaOuobecG0xSOEw26nd4kn",
+            "ZVXVyinR8Idrxn4VTKCG5IypADBajtdE",
+            "MOjRRePrRqt9muhUn3hIqgbl8igWRnuB",
+            "6tzS9H64048oHBodptF3lEMNKXnc19am"
+        ],
+        "ratingCount": 3249,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Tex Drive-In",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "(808) 775-0598",
+        "address": "45-690 Pakalana St #19, Honokaa, HI 96727, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Fast food restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 136,
+                "2": 89,
+                "3": 330,
+                "4": 732,
+                "5": 1974
+            }
+        }
+    },
+    {
+        "placeId": "ChIJXYG-Rhp4VHkRYDU89CZ29wo",
+        "website": "http://napuarestaurant.com/",
+        "index": 32,
+        "utcOffset": -600,
+        "longitude": -155.872142,
+        "latitude": 19.941723,
+        "rating": 4.5,
+        "excerpt": "Secluded resort eatery serving locally sourced, regional cuisine in an open-air, oceanfront setting.",
+        "detail_description": "Napua at Mauna Lani Beach Club is a secluded resort eatery offering a unique dining experience with stunning ocean views and a laid-back atmosphere. The menu features locally sourced, regional cuisine that blends classic Hawaiian flavors with upscale resort dining. From the catch of the day to Panko Fried Calamari and Lumpia Banana for dessert, every dish showcases the real deal sourced from local farmers, ranchers, and fishermen.",
+        "imageKeys": [
+            "olR9UpHoaoDPG4UDVUz1cTWtq5WPKi8n",
+            "0xI9c38WWqIOKrPl0vlCNJrbVj1O1t0R",
+            "oFh2EocePWAul32j7XPmp6nzYZpnOgzc",
+            "X0mwNigVH2LXBImySADrzFKll0mCDUih"
+        ],
+        "ratingCount": 947,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Napua at Mauna Lani Beach club",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "(808) 746-2027",
+        "address": "68-1292 S Kaniku Dr, Waikoloa Village, HI 96738, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Bar",
+            "Fine dining restaurant",
+            "Restaurant",
+            "Seafood restaurant",
+            "Wine bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 35,
+                "2": 22,
+                "3": 53,
+                "4": 128,
+                "5": 712
+            }
+        }
+    },
+    {
+        "placeId": "ChIJFQVZil9GUXkRd2wfGFJuhaQ",
+        "website": "http://www.bakeshophawaii.com/",
+        "index": 33,
+        "utcOffset": -600,
+        "longitude": -155.585964,
+        "latitude": 19.061255,
+        "rating": 4.6,
+        "excerpt": "Quaint bakery & visitor center offering Hawaiian sweetbreads, cookies, souvenirs & island novelties.",
+        "detail_description": "Punalu'u Bake Shop is a charming bakery and visitor center located midway between Kailua-Kona and Volcanoes National Park. Set amidst four acres of tropical gardens, it's an ideal spot to take a break and savor some shoyu pork or baked fish plate lunch on the lanai. The bakery offers an array of Hawaiian sweetbreads, cookies, and souvenirs, including decadent Portuguese sweetbread and chocolate-dipped shortbread cookies.",
+        "imageKeys": [
+            "oYk49c7yOp5txSZ8bDIYJPsnvGOscGWT",
+            "3DpnEIFkL6KvJs9MEYZNeuCPHqKoAGgJ",
+            "86XMW6HPioAF0a4ZaDH1MTpKIuL3597l",
+            "eIdMw3tLleHMZCHdOGDc7kSU1OS95Ebo",
+            "jV5CsSYsctvCFfGdn5barbWxI2lwbeSu"
+        ],
+        "ratingCount": 4898,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Punalu'u Bake Shop",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "(866) 366-3501",
+        "address": "95-5642 Mamalahoa Hwy, Naalehu, HI 96772, USA",
+        "types": [
+            "Bakery",
+            "Coffee shop",
+            "Cupcake shop",
+            "Ice cream shop",
+            "Restaurant",
+            "Visitor center"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 92,
+                "2": 94,
+                "3": 326,
+                "4": 887,
+                "5": 3536
+            }
+        }
+    },
+    {
+        "placeId": "ChIJl2SHeVkOVHkRW__Xrf1J1T8",
+        "website": "http://www.ultimateburger.net/",
+        "index": 34,
+        "utcOffset": -600,
+        "longitude": -156.005048,
+        "latitude": 19.649453,
+        "rating": 4.5,
+        "excerpt": "Casual spot offering made-to-order grass-fed beef burgers, fresh-cut fries, beer & tea.",
+        "detail_description": "Located in Kailua-Kona, Ultimate Burger is a casual eatery known for its made-to-order grass-fed beef burgers and fresh-cut fries. The restaurant prides itself on using the finest local ingredients to create mouthwatering burgers, such as juicy hamburgers, cheeseburgers, and hearty double-decker options. Patrons can also enjoy organic toppings like vegetables and fruits.",
+        "imageKeys": [
+            "xFu9sfBrf0njPKNlFCFpVGQDYqnlQ9OM",
+            "81dXWHa64YrlwXzn492xpXyHp2WUUNoB",
+            "G4TGXUgLcJfRHuPpsz9Pi9ltKVsjCiZP",
+            "hzelUQbGGxqVrHiRoecOR07nMv9zWkKd"
+        ],
+        "ratingCount": 1977,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "Ultimate Burger",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 329-2326",
+        "address": "74-5450 Makala Blvd E112, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Hamburger restaurant",
+            "American restaurant",
+            "Fast food restaurant",
+            "Organic restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 36,
+                "2": 41,
+                "3": 160,
+                "4": 418,
+                "5": 1337
+            }
+        }
+    },
+    {
+        "placeId": "ChIJebUNnRoPVHkR_v5yj4pvX0A",
+        "website": "https://kenichipacific.com/",
+        "index": 35,
+        "utcOffset": -600,
+        "longitude": -155.962117,
+        "latitude": 19.570939,
+        "rating": 4.3,
+        "excerpt": "Understated strip-mall restaurant serving sushi & creative Asian-fusion cuisine.",
+        "detail_description": "Kenichi Pacific is a sushi and Asian-fusion restaurant located in Kona, Hawaii. The restaurant offers both indoor and outdoor seating, with an extensive Japanese food selection. The service, sushi, and appetizers were all excellent; some guests even said it was the best salmon and tuna nigiri they ever had. If you're looking for a delicious culinary experience in beautiful Kona, Kenichi Pacific is definitely worth a visit!",
+        "imageKeys": [
+            "tkMQNDXaSuzNy7QuNBPRHpx1TB2UsWbt",
+            "0D4GJcLZ6EjZ6lVyxjunhHfj5Oo2Yggh",
+            "14eUs4Nk8HlXLS6nBx8drWcnMAz45TTB",
+            "WPmOysrpW67bhSt0AgTRzni6Ei2HgJp4",
+            "8gJTYkQeCLPj7E926dEgxNQ1NNLjrUi6"
+        ],
+        "ratingCount": 815,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "KENICHI PACIFIC SUSHI*STEAK*SEAFOOD FUSION",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 322-6400",
+        "address": "78-6831 Ali‘i Dr D125, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Restaurant",
+            "Family restaurant",
+            "Fusion restaurant",
+            "Japanese restaurant",
+            "Japanese steakhouse",
+            "Seafood restaurant",
+            "Steak house",
+            "Sushi restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 49,
+                "2": 31,
+                "3": 70,
+                "4": 127,
+                "5": 541
+            }
+        }
+    },
+    {
+        "placeId": "ChIJoQts0UNLUnkRIz0RfycfvCo",
+        "website": "https://www.sweetcanecafe.com/",
+        "index": 36,
+        "utcOffset": -600,
+        "longitude": -155.077986,
+        "latitude": 19.710211,
+        "rating": 4.5,
+        "excerpt": "Bright, cozy counter for sugar cane juice, smoothies, vegetarian lunches & gluten-free goods.",
+        "detail_description": "Nestled in Hilo, Hawaii, Sweet Cane Cafe is a charming spot offering a delightful array of organic and locally sourced fare. This cozy eatery boasts an impressive menu featuring organic sugarcane juice, smoothies, sandwiches, wraps, and acai bowls. Additionally, visitors can indulge in pre-made items like cookies, kale chips, fruit leather, and dried banana.",
+        "imageKeys": [
+            "w7YcZp7bZGDdNPsZi0NsmxSXSUG7qCLh",
+            "nCQiWr1PFIC3YKATpiIxyuYSeJOv3CeA",
+            "V58iUDwDIamiMvgRU0sFXcLFYM4FY4C6",
+            "46KYYgF4vLp1HNaVJKz2B5MArIXx2fSa",
+            "LZGc3rAoXxunZA5H5j29GHOLMbXQKe5n"
+        ],
+        "ratingCount": 741,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "Sweet Cane Cafe",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 934-0002",
+        "address": "48 Kamana St, Hilo, HI 96720, USA",
+        "types": [
+            "Vegetarian restaurant",
+            "Cafe",
+            "Caterer",
+            "Health food restaurant",
+            "Juice shop",
+            "Takeout Restaurant",
+            "Organic restaurant",
+            "Restaurant",
+            "Sandwich shop",
+            "Vegan restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 24,
+                "2": 16,
+                "3": 48,
+                "4": 99,
+                "5": 555
+            }
+        }
+    },
+    {
+        "placeId": "ChIJod0RxptMUnkRtXFMd2t4z38",
+        "website": "https://hilohulahulas.com/",
+        "index": 37,
+        "utcOffset": -600,
+        "longitude": -155.064756,
+        "latitude": 19.72992,
+        "rating": 3.9,
+        "excerpt": "Modern Hawaiian fare & cocktails, presented with hula dancing in a chic, airy hotel setting.",
+        "detail_description": "Hula Hula's is a chic Hawaiian restaurant located inside the DoubleTree in Hilo. The menu features modern Hawaiian fare and cocktails, with the added entertainment of hula dancing. The food is prepared in-house and includes standout dishes like Loco Moco, Avocado Toast, and a build-your-own burger option. While the breakfast offerings are praised for items like Ka'u Coffee and continental options, some find the prices to be on the higher side compared to local restaurants.",
+        "imageKeys": [
+            "UX9Q0tHW58qMcfY4FaGC6tcLw8EuPPCu",
+            "P7PCWUX12c4rfEx714He5UCWkNyuGChB",
+            "24ZetOeozuh1XzvsINJWCBUHX1QwqH5C",
+            "h3sGmJyAGurlW6BXZSyXVS8xIfW6DreO"
+        ],
+        "ratingCount": 687,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0630"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Hula Hula's",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 932-4545",
+        "address": "93 Banyan Dr, Hilo, HI 96720, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Breakfast restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 71,
+                "2": 49,
+                "3": 89,
+                "4": 164,
+                "5": 314
+            }
+        }
+    },
+    {
+        "placeId": "ChIJDd0XgcZGUXkRvpS4VF9xZkE",
+        "website": "https://naalehurestaurant.com/",
+        "index": 38,
+        "utcOffset": -600,
+        "longitude": -155.586003,
+        "latitude": 19.059958,
+        "rating": 4.3,
+        "excerpt": "This inviting eatery offers Hawaiian-style comfort food, classic desserts & vegetarian options.",
+        "detail_description": "Hana Hou Restaurant is a delightful gem that captures the essence of Hawaiian comfort food, offering a warm and inviting atmosphere perfect for any meal. Known for its home-style dishes, this eatery serves up local favorites like Loco Moco and Kalua Pork, alongside fresh island fish that tantalizes the taste buds. The elegant setting enhances your dining experience, whether you're enjoying a blackened fish sandwich or indulging in their decadent chocolate peanut butter cake.",
+        "imageKeys": [
+            "a93aXJW2mPBTAVnNwTRR5EaQHWYbsh6f",
+            "0aUNkuzadaaT1NQUmTFlBcbJl1HjjXtP",
+            "Q0vSdvdKEa9DfB0CqyqCKw9CMgsRbPaL",
+            "xvZB60WH9n9H81MppX5zAHceQPD19EyI",
+            "eZ6OjdmqXH426AxgOy9uwc4noQi2wqdq"
+        ],
+        "ratingCount": 1471,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Hana Hou Restaurant",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 929-9717",
+        "address": "95-1148 Naalehu Spur Rd, Naalehu, HI 96772, USA",
+        "types": [
+            "Diner",
+            "Bakery",
+            "Bar",
+            "Family restaurant",
+            "Hamburger restaurant",
+            "Pizza restaurant",
+            "Pizza Takeout",
+            "Restaurant",
+            "Sushi restaurant",
+            "Sushi takeaway"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 73,
+                "2": 58,
+                "3": 110,
+                "4": 295,
+                "5": 947
+            }
+        }
+    },
+    {
+        "placeId": "ChIJxZ2pxo53VHkRrUvOOBhzZW4",
+        "website": "https://www.hiltonwaikoloavillage.com/kpc?SEO_id=GMB--2-R-KOAHWHH-2&y_source=1_MTU0MDUxODYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "index": 39,
+        "utcOffset": -600,
+        "longitude": -155.887321,
+        "latitude": 19.924974,
+        "rating": 4.1,
+        "excerpt": "Upscale surf 'n' turf restaurant at Hilton Waikoloa with a romantic patio overlooking the coastline.",
+        "detail_description": "Kamuela Provision Company is an upscale surf 'n' turf restaurant located at Hilton Waikoloa Village, offering a romantic patio with stunning views of the coastline. The restaurant focuses on Pacific Rim flavors and locally sourced ingredients, offering a three-course set menu and optional wine pairings. Diners can enjoy refined yet unpretentious Pacific Rim-influenced cuisine while taking in sweeping ocean views and dramatic island sunsets.",
+        "imageKeys": [
+            "PY5vrWLzXzDYGPWtcyaD86B6BdlcpseB",
+            "DuNiOM9bY7TBkUpXLeCZ7HgCEu8ooUA4",
+            "lkPwP0Odta40kmyLgjHNEcgAITzZKiXT",
+            "tCYqWCb6lBnAuDCZhqikfyRjV0fQx3NO",
+            "mqErbjRa5nbZ7gGm5LoT3B1FhlvRRGdy"
+        ],
+        "ratingCount": 913,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Kamuela Provision Company",
+        "permanentlyClosed": false,
+        "priceLevel": 4,
+        "phone": "(808) 886-1234",
+        "address": "69-425 Waikōloa Beach Dr, Waikoloa Village, HI 96738, USA",
+        "types": [
+            "Restaurant",
+            "Seafood restaurant",
+            "Steak house"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 65,
+                "2": 61,
+                "3": 100,
+                "4": 188,
+                "5": 502
+            }
+        }
+    },
+    {
+        "placeId": "ChIJU83HhafRU3kRIvm0-zL9Yf0",
+        "website": "http://cafeono.net/",
+        "index": 40,
+        "utcOffset": -600,
+        "longitude": -155.224025,
+        "latitude": 19.435423,
+        "rating": 4.8,
+        "excerpt": "Quaint cafe in a leafy garden with a terrace & statues, serving up vegan & gluten-free options.",
+        "detail_description": "Cafe Ono is a charming eatery nestled in Volcano Village, offering a delightful dining experience surrounded by verdant gardens and Hawaiian artwork at the adjacent Volcano Garden Arts gallery. This vegetarian and vegan restaurant takes pride in using locally sourced ingredients to craft its fresh, organic dishes. Visitors can savor vegan and gluten-free options while basking in the serene garden ambiance.",
+        "imageKeys": [
+            "3dBR4WbueuCRzXxhvV7sOB5pQQzWGk22",
+            "SQpx3bX9P9OPco1PtZ2HX3KJd6pveHZy",
+            "S9lVXlgUdO4Blft3w8yCA4fklLAa2PNG",
+            "AJw2xUuBVtOKcsVy3ibkTvJpZSef1kue"
+        ],
+        "ratingCount": 417,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            }
+        ],
+        "name": "Café Ono & Catering",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 985-8979",
+        "address": "19-3834 Old Volcano Rd, Volcano, HI 96785, USA",
+        "types": [
+            "Vegetarian restaurant",
+            "Cafe",
+            "Caterer"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 9,
+                "2": 1,
+                "3": 10,
+                "4": 34,
+                "5": 363
+            }
+        }
+    },
+    {
+        "placeId": "ChIJy2ZxmBoPVHkRMvlXlKfUysc",
+        "website": "http://www.greenflashcoffee.com/",
+        "index": 41,
+        "utcOffset": -600,
+        "longitude": -155.985422,
+        "latitude": 19.622241,
+        "rating": 4.3,
+        "excerpt": "Petite coffee shop known for its Kona coffee, smoothies, breakfast sandwiches & panini.",
+        "detail_description": "Green Flash Coffee is a charming coffee shop located near the beautiful Kahului Bay, offering a variety of Kona coffee, smoothies, breakfast sandwiches, and paninis. The casual setting welcomes dogs in the outdoor seating area where visitors can enjoy fresh dishes such as salmon bagels, sweetbread French toast, and a selection of sandwiches. This seaside shack takes its coffee seriously with specialty drinks like the Earthquake containing four shots of espresso.",
+        "imageKeys": [
+            "RBjqkheYZGcPZv1XrXe8I3TYSYw8jiTn",
+            "9fGsjrgkDmIzQgLKLowMWm0bmeYUQ8Ee",
+            "VlK5VLGwVcUqVbgJaeEsMtrPA2NffyJJ",
+            "Dn0dhbVmFLtkEeaQpXKDZyysFeZXqOua"
+        ],
+        "ratingCount": 493,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1130"
+                }
+            }
+        ],
+        "name": "Green Flash Coffee",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": null,
+        "address": "75-6000 Ali‘i Dr, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Coffee shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 40,
+                "2": 15,
+                "3": 36,
+                "4": 73,
+                "5": 334
+            }
+        }
+    },
+    {
+        "placeId": "ChIJIX4RcbFzVHkRMwd0OL40sLE",
+        "website": "https://www.fourseasons.com/hualalai/dining/restaurants/beach_tree/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-kon-fab-mid-seo-na&utm_content=na-na&utm_term=na",
+        "index": 42,
+        "utcOffset": -600,
+        "longitude": -155.992492,
+        "latitude": 19.828417,
+        "rating": 4.6,
+        "excerpt": "Elegant beachside spot at the Four Seasons Resort features modern Italian fare & island cocktails.",
+        "detail_description": "Nestled within the Four Seasons Resort, Beach Tree Restaurant offers a sophisticated beachside dining experience. The menu features modern Italian cuisine with a tropical twist, complemented by an extensive selection of wines and island-inspired cocktails. Guests can savor pupu and burgers on the breezy porch while enjoying picturesque views. The restaurant's ambiance and service are highly praised, with standout dishes like burrata salad and truffle pasta.",
+        "imageKeys": [
+            "sJnwL7yxqj7TASXB9dwU9lowMPm6TqcD",
+            "Gp90LCLCvynBIRrodMmaDUhmnyGyg1fq",
+            "VIxSgEksJdEALm9VUR5yhgPbJbPEfs8Q",
+            "CKG2wMk3cfZF4c2kUmzqSwz1w8MhCCmB",
+            "q4a105pxrHqaHniOMVKn92981hNeqSZ3"
+        ],
+        "ratingCount": 449,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Beach Tree Restaurant & Bar",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "(808) 325-8000",
+        "address": "72-100 Kaupulehu Dr, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Bar",
+            "Lounge",
+            "Restaurant",
+            "Wine bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 9,
+                "2": 10,
+                "3": 24,
+                "4": 57,
+                "5": 347
+            }
+        }
+    },
+    {
+        "placeId": "ChIJi54nEp9LUXkRHQJ-HZVKQrk",
+        "website": "https://www.hawaiianbarbecue.com/",
+        "index": 43,
+        "utcOffset": -600,
+        "longitude": -155.776729,
+        "latitude": 19.084749,
+        "rating": 4.2,
+        "excerpt": "Island-themed fast-food chain whose menu features traditional Hawaiian plate lunches.",
+        "detail_description": null,
+        "imageKeys": [
+            "Ept5j8hIvFtMbo1tHS056TNeYTtcK0xW",
+            "Wio1FSfWDQE8PJa7w80b9ZFw8UXFBFqR",
+            "Q7pcFULZijcAAxw8qA27ycDO4fxBETA8",
+            "2c2CJiMyIocwfkf04haOrpHRr4BknPAh",
+            "OxhM61gow0Exn3oWARzly8vLDg2zDsHY"
+        ],
+        "ratingCount": 623,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "L&L Hawaiian Barbecue",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "(808) 929-8888",
+        "address": "92-8701 Hawaiʻi Belt Rd, Ocean View, HI 96704, USA",
+        "types": [
+            "Hawaiian restaurant",
+            "Barbecue restaurant",
+            "Fast food restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 27,
+                "2": 22,
+                "3": 72,
+                "4": 151,
+                "5": 351
+            }
+        }
+    },
+    {
+        "placeId": "ChIJlT6GgBwPVHkReqSUF0paWes",
+        "website": "https://tealiciouskona.com/",
+        "index": 44,
+        "utcOffset": -600,
+        "longitude": -155.984065,
+        "latitude": 19.627083,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Nestled in Kona, Tea:licious Cafe is a charming spot offering an array of local and international loose-leaf teas, freshly baked pastries, and quick bites. It's also known for its takeout picnic box for two, perfect for a beach day. The cafe boasts a cozy atmosphere with mismatched china and a light menu featuring gourmet sandwiches and salads.",
+        "imageKeys": [
+            "WULReuFZKY3GqGrvdwZk91FYe8cd0NNq",
+            "n7BqtHYLXltGq9aXg2EQ4M6ptTuwPArQ",
+            "PaVzAjIICRn2xrQmj5NW5V5SNKYbI3w6"
+        ],
+        "ratingCount": 472,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            }
+        ],
+        "name": "Tea:licious Cafe",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 209-8282",
+        "address": "75-159 Lunapule Rd, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Cafe",
+            "Breakfast restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 12,
+                "2": 8,
+                "3": 13,
+                "4": 37,
+                "5": 403
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ0WZy6vkPVHkRA_fmVkMO7AA",
+        "website": "https://www.sushishiono.com/izakaya-shiono/",
+        "index": 45,
+        "utcOffset": -600,
+        "longitude": -155.998285,
+        "latitude": 19.644025,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Nestled in the heart of Kailua-Kona, Izakaya Shiono is a delightful culinary gem that specializes in authentic Japanese cuisine. This charming eatery offers an impressive selection of dishes, including ramen, sushi, and kushikatsu. While their focus leans towards fresh fish, they also cater to vegan diners with a delectable vegetable sushi set featuring seasonal ingredients like shitake mushrooms and grilled zucchini.",
+        "imageKeys": [
+            "7KpLLOdY4zko5IdOQUuSSnkElzQy0QYH",
+            "px5DNE1cHqjMIh00U4r1szrZZSErIhFx",
+            "lYo3EHA5qQY0SmfzTWJZRFxozXOFUcqx",
+            "j0ThnszB3m7gWU8nhO5AhShLcmsKXiT6",
+            "tkAxkPbVt1ztSvfGoPBguYpu933Zmzjh"
+        ],
+        "ratingCount": 395,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "IZAKAYA SHIONO KONA",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(808) 657-4388",
+        "address": "〒96740 Hawaii, Kailua-Kona, Pawai Pl, USA",
+        "types": [
+            "Sushi restaurant",
+            "Izakaya restaurant",
+            "Japanese restaurant",
+            "Ramen restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 14,
+                "2": 9,
+                "3": 13,
+                "4": 48,
+                "5": 313
+            }
+        }
+    },
+    {
+        "placeId": "ChIJr-1AXcoPVHkRRCcVL7xI010",
+        "website": "https://www.bigkahunabeachgrill.com/",
+        "index": 46,
+        "utcOffset": -600,
+        "longitude": -155.996748,
+        "latitude": 19.640502,
+        "rating": 4.2,
+        "excerpt": "Simple venue with live music & ocean views serving comfort food, breakfast & cocktails.",
+        "detail_description": "Big Kahuna Beach Grill is a laid-back venue offering live music and stunning ocean views while serving up comforting dishes, breakfast options, and cocktails. The restaurant's location holds historical significance as it was once the center of Kona where chiefs and priests resided, overseeing the construction of religious centers dedicated to ancient gods.",
+        "imageKeys": [
+            "sPeuF6aj0CikyFnSwaT1N0537NS9AU1O",
+            "etXFfnZTUHkniSsnOWi5zjQC0vwwNVM3",
+            "uDHWB5cPineYXMfwX4PwG7YkxSAqyXO8",
+            "wgzuBTojtM8o4xc92ggogSRkQmkA8KxA"
+        ],
+        "ratingCount": 978,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Big Kahuna Beach Grill",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 556-6482",
+        "address": "75-5663 Palani Rd, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "American restaurant",
+            "Bar & grill",
+            "Breakfast restaurant",
+            "Cocktail bar",
+            "Hamburger restaurant",
+            "Pancake restaurant",
+            "Sandwich shop",
+            "Seafood restaurant",
+            "Steak house",
+            "Taco restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 72,
+                "2": 40,
+                "3": 77,
+                "4": 176,
+                "5": 616
+            }
+        }
+    },
+    {
+        "placeId": "ChIJUZblnYl3VHkR32ZBA1ABMyE",
+        "website": "https://www.islandfishandchipshawaii.com/",
+        "index": 47,
+        "utcOffset": -600,
+        "longitude": -155.882118,
+        "latitude": 19.916424,
+        "rating": 4.2,
+        "excerpt": null,
+        "detail_description": "Located in the Waikoloa Beach Resort in Waikoloa Village, Island Fish and Chips is a locally-owned restaurant specializing in fried seafood. With outdoor seating overlooking the lake, it's a great place to enjoy fresh fish and chips.",
+        "imageKeys": [
+            "cJ98VgK1Yqd8msPCTAqE1clvlr9n14AX",
+            "r8iCnl6njXT1RecTQNxjF2IMPGuxSo19",
+            "vOCjLObFAoUVrs9WoNeqAuEeh0hN7VPy",
+            "cJXNkjuHaO405BLL1uLjAEYUNhw9GokP",
+            "UMX3KOBo3flqJYojf0Kdovy4GpKTaDQZ"
+        ],
+        "ratingCount": 347,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Island fish and chips",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(808) 886-0005",
+        "address": "Waikoloa Village, HI 96738, USA",
+        "types": [
+            "Seafood restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 15,
+                "2": 18,
+                "3": 39,
+                "4": 76,
+                "5": 199
+            }
+        }
+    },
+    {
+        "placeId": "ChIJo9_DnWEPVHkRUoc3n9csWOw",
+        "website": "https://shakatacoz.com/",
+        "index": 48,
+        "utcOffset": -600,
+        "longitude": -155.980564,
+        "latitude": 19.614144,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Shaka Tacoz, located at 75-6129 Ali Drive, is a must-visit for budget-friendly and delectable tacos. Every Tuesday and Thursday, they offer dollar tacos that you can customize to your liking with their build-your-plate system. The Ono fish tacos are a local favorite, featuring cheesy corn tortillas topped with shaka sauce, mild mango chile sauce, and lime crema.",
+        "imageKeys": [
+            "JbH0fACQ5Pk5nlhW6YBYxrvPXGFXKiBM",
+            "iEipB4zOOr6jk0tUJWW54VHXl3ZIrlsW",
+            "yP2VMOnvFPAxCoM4KMWkSq1dYEMCPDNw",
+            "1VKyoUMayVjugSlDmsaqMBO6wZQoDAjO",
+            "DXwEOkp8mc8j5uM6ljhOA4pXabNE3m8K"
+        ],
+        "ratingCount": 217,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Shaka Tacoz",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "(808) 333-6186",
+        "address": "75-6129 Ali‘i Dr, Kailua-Kona, HI 96740, USA",
+        "types": [
+            "Taco restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 2,
+                "3": 7,
+                "4": 11,
+                "5": 195
+            }
+        }
+    },
+    {
+        "placeId": "ChIJMQpvs6lMUnkRufly6WtiEgI",
+        "website": "http://hilofarmersmarket.com/?y_source=1_NTY1MDUwNzgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "index": 49,
+        "utcOffset": -600,
+        "longitude": -155.084795,
+        "latitude": 19.722978,
+        "rating": 4.4,
+        "excerpt": "Twice-weekly outdoor market with over 200 vendors selling produce, artisanal foods & crafts.",
+        "detail_description": "The Hilo Farmer's Market is a vibrant and festive open market located in Downtown Hilo, Hawaii. With over 200 vendors, it offers a wide variety of locally grown produce, artisanal foods, crafts, and plants. Visitors can find unique items such as locally roasted coffee, exotic tropical fruits, island jams and jellies, macadamia nuts, and handmade jewelry. The market is also known for its colorful selection of orchids and anthuriums.",
+        "imageKeys": [
+            "T1SshRXyXL1L4cLNgPmeI09CP4WxbVT7",
+            "Y81HYZ7LRQwV0HnnK9fdetHtaMMSS3xJ",
+            "5l7LCXMFZDS1SUJ5gDWP6cmYkiNcXZB6",
+            "kUwIupJnKpXMTt7PhEI3xVo0PiVdByuC",
+            "lVExcOB7eNs3vaquYlwbFUm2N2Qm1578"
+        ],
+        "ratingCount": 5305,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                }
+            }
+        ],
+        "name": "Hilo Farmer's Market",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "(808) 933-1000",
+        "address": "Corner of Kamehameha Avenue and, Mamo St, Hilo, HI 96720, USA",
+        "types": [
+            "Produce market",
+            "Food & Drink",
+            "Farmers Markets"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 81,
+                "2": 115,
+                "3": 492,
+                "4": 1275,
+                "5": 3351
+            }
+        }
+    },
+    {
+        "placeId": "ChIJxffZ_1B9UXkRVUHHWMIE-uQ",
+        "website": "https://www.hawaiivolcanohouse.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing",
+        "index": 50,
+        "utcOffset": -600,
+        "longitude": -155.25836,
+        "latitude": 19.428742,
+        "rating": 4.4,
+        "excerpt": "Simple rooms & rustic cabins in an 1846 hotel offering a lounge & a restaurant with crater views.",
+        "detail_description": "Volcano House is an 1846 hotel that offers simple rooms and rustic cabins. It features a lounge and a restaurant with stunning views of the crater. Located just ten minutes from Hawaii Volcanoes National Park, visitors can hike along the crater's edge and witness the remarkable geological changes at the summit of Kilauea Volcano.",
+        "imageKeys": [
+            "gIpFkHeBBQoIeQm2t2vVUBSx8NVyGk8Y",
+            "aDdVf5ObEt7VO0jwRArXsU2tcsMBTLIM",
+            "GdTSU1TdHVWw8ptqbyaHTexmG7ZCGH1r",
+            "pFE0zYWHBkUwykHqyv5NWW4ewH97G54O",
+            "sgWrWEd82Saku2gPjxyVL47Oq9IaUhqx"
+        ],
+        "ratingCount": 2460,
+        "openingPeriods": null,
+        "name": "Volcano House",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(808) 756-9625",
+        "address": "1 Crater Rim Drive, Hawaii Volcanoes National Park, HI 96718, USA",
+        "types": [
+            "Hotel",
+            "Campground",
+            "Gift shop",
+            "Restaurant",
+            "Visitor center"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 92,
+                "2": 54,
+                "3": 186,
+                "4": 639,
+                "5": 1508
+            }
+        }
+    }
+]

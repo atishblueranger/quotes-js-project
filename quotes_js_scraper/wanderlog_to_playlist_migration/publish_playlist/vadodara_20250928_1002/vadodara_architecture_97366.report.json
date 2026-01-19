@@ -1,0 +1,35 @@
+{
+  "job_index": 1,
+  "city": "Vadodara",
+  "category_used": "architecture",
+  "url": "https://wanderlog.com/list/geoCategory/97366",
+  "title": "The 49 best architecture in Vadodara",
+  "final_title": "Architectural Wonders of Vadodara",
+  "from_cache": false,
+  "counts": {
+    "meta": 49,
+    "blocks": 49,
+    "merged": 49,
+    "accepted_before_trim": 49,
+    "rejected": 0,
+    "accepted_final": 35
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "610",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\vadodara_20250928_1002\\vadodara_architecture_97366.json",
+    "report_json": "publish_playlist\\vadodara_20250928_1002\\vadodara_architecture_97366.report.json"
+  },
+  "created_ts": 1759034936
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 26,
+  "city": "Bordeaux",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160453",
+  "title": "The 34 best photo spots in Bordeaux",
+  "final_title": "Bordeaux's Picture-Perfect Hidden Gems",
+  "from_cache": false,
+  "counts": {
+    "meta": 34,
+    "blocks": 34,
+    "merged": 34,
+    "accepted_before_trim": 23,
+    "rejected": 11,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 31,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "935",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\netherlands_20251002_0039\\bordeaux_photo-spots_160453.json",
+    "report_json": "publish_playlist\\netherlands_20251002_0039\\bordeaux_photo-spots_160453.report.json"
+  },
+  "created_ts": 1759349889
+}

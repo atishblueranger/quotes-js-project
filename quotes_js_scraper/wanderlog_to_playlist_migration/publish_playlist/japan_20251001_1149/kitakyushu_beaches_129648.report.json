@@ -1,0 +1,35 @@
+{
+  "job_index": 39,
+  "city": "Kitakyushu",
+  "category_used": "free attractions",
+  "url": "https://wanderlog.com/list/geoCategory/129648",
+  "title": "The 15 best free attractions in Kitakyushu",
+  "final_title": "Discover Kitakyushu's Hidden Green Gems",
+  "from_cache": false,
+  "counts": {
+    "meta": 15,
+    "blocks": 15,
+    "merged": 15,
+    "accepted_before_trim": 7,
+    "rejected": 8,
+    "accepted_final": 5
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 7,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\japan_20251001_1149\\kitakyushu_beaches_129648.json",
+    "report_json": "publish_playlist\\japan_20251001_1149\\kitakyushu_beaches_129648.report.json"
+  },
+  "created_ts": 1759305533
+}

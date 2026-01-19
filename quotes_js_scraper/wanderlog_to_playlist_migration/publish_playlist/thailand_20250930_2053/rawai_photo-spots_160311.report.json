@@ -1,0 +1,35 @@
+{
+  "job_index": 30,
+  "city": "Rawai",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160311",
+  "title": "The 19 best photo spots in Rawai",
+  "final_title": "Capturing Rawai: Scenic Photo Adventures",
+  "from_cache": false,
+  "counts": {
+    "meta": 19,
+    "blocks": 19,
+    "merged": 19,
+    "accepted_before_trim": 6,
+    "rejected": 13,
+    "accepted_final": 5
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 15,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\rawai_photo-spots_160311.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\rawai_photo-spots_160311.report.json"
+  },
+  "created_ts": 1759252723
+}

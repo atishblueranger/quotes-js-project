@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Pondicherry",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/109957",
+  "title": "The 28 best beaches in and around Pondicherry",
+  "final_title": "Seaside Serenity: Pondicherry's Coastal Treasures",
+  "from_cache": false,
+  "counts": {
+    "meta": 28,
+    "blocks": 28,
+    "merged": 28,
+    "accepted_before_trim": 15,
+    "rejected": 13,
+    "accepted_final": 11
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 18,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "633",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\pondicherry_20250928_2201\\pondicherry_beaches_109957.json",
+    "report_json": "publish_playlist\\pondicherry_20250928_2201\\pondicherry_beaches_109957.report.json"
+  },
+  "created_ts": 1759077594
+}

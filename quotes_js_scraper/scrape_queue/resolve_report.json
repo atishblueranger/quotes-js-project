@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "total_playlists": 1,
+    "total_items": 10,
+    "success_rate": 100.0,
+    "publishable_rate": 0.0
+  },
+  "totals": {
+    "items": 10,
+    "resolved": 10,
+    "publishable": 0,
+    "partial": 10,
+    "unresolved": 0
+  },
+  "thresholds": {
+    "min_confidence": 0.75,
+    "min_reviews": 20,
+    "min_rating": 3.5,
+    "require_photo": true
+  }
+}

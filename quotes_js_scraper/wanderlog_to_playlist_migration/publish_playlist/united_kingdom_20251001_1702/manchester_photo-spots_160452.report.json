@@ -1,0 +1,35 @@
+{
+  "job_index": 5,
+  "city": "Manchester",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160452",
+  "title": "The 47 best photo spots in Manchester",
+  "final_title": "Manchester's Captivating Corners for Picture-Perfect Moments",
+  "from_cache": false,
+  "counts": {
+    "meta": 47,
+    "blocks": 47,
+    "merged": 47,
+    "accepted_before_trim": 32,
+    "rejected": 15,
+    "accepted_final": 20
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 40,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "883",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\united_kingdom_20251001_1702\\manchester_photo-spots_160452.json",
+    "report_json": "publish_playlist\\united_kingdom_20251001_1702\\manchester_photo-spots_160452.report.json"
+  },
+  "created_ts": 1759328534
+}

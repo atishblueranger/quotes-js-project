@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Munich Museum Magic",
+  "placeName": "Munich",
+  "country": "Germany",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-munich/"
+  ],
+  "description": "Stroll Munich's galleries and halls—sonic echoes of masterpieces, soft Bavarian light.",
+  "items": [
+    {
+      "name": "Deutsches Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 950 approx"
+    },
+    {
+      "name": "Residenz museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 560 approx for Residenz Museum & Treasury, INR 280 approx for Cuvilliés-Theatre and INR 1000 approx for Combined ticket."
+    },
+    {
+      "name": "Pinakothek der Moderne",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "Regular INR 800 approx, Reduced INR 560 and on Sundays INR 80 approx."
+    },
+    {
+      "name": "Nymphenburg Palace",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Munich Stadtmuseum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 560 approx and free for persons under 18."
+    },
+    {
+      "name": "The Bavarian National Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "from INR 320 to INR 640 (depending on what you want to visit) and free for children under 18."
+    },
+    {
+      "name": "Beer and Oktoberfest Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 500 approx (museum entry only) and INR 760 approx (museum entry and beer tasting)"
+    },
+    {
+      "name": "The Brandhorst Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "Regular admission INR 560 approx, Reduced INR 400 approx and INR 80 approx on Sundays."
+    },
+    {
+      "name": "BMW Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 720 approx, children up to 18 years: INR 480 approx."
+    },
+    {
+      "name": "Haus der Kunst",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1120 approx and free for children under 12."
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

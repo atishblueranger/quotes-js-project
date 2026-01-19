@@ -1,0 +1,62 @@
+{
+  "playlistTitle": "Sacred Sri Lanka Temples",
+  "placeName": "Sri-lanka",
+  "country": "Sri-lanka",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/buddhist-temples-in-sri-lanka/"
+  ],
+  "description": "Drift through misty temple courtyards and ancient chants—soundtrack for Sri Lanka's sacred places.",
+  "items": [
+    {
+      "name": "Temple of the Sacred Tooth Relic – Kandy",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "1500 LKR for SAARC foreign adults, 2000 LKR for Non-SAARC adult"
+    },
+    {
+      "name": "Dambulla Cave Temple – Dambulla",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "1500 LKR"
+    },
+    {
+      "name": "Ruwanwelisaya – Anuradhapura",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "2500 LKR for South Asian nationals, 5000 LKR for foreigners"
+    },
+    {
+      "name": "Gangaramaya Temple – Colombo",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "No entry fee"
+    },
+    {
+      "name": "Jetavanaramaya – Anuradhapura",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "3250 LKR per person"
+    },
+    {
+      "name": "Pidurangala Royal Cave Temple – Sigiriya",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "500 LKR per person"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

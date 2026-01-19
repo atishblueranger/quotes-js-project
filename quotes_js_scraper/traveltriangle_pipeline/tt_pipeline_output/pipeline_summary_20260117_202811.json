@@ -1,0 +1,37 @@
+{
+  "timestamp": "20260117_202811",
+  "args": {
+    "url": "https://traveltriangle.com/blog/best-honeymoon-destinations-in-italy/?utm_source=blog_gn",
+    "batch": null,
+    "city": "Italy",
+    "state": "Italy",
+    "country": "Italy",
+    "category": "Travel",
+    "subtype": "destination",
+    "optimize_ai": true,
+    "title_mode": "catchy",
+    "min_confidence": 0.75,
+    "keep_ratio": 0.8,
+    "refresh_photos": false,
+    "require_photo": false,
+    "dry_run": false,
+    "skip_upload": false,
+    "output_dir": "tt_pipeline_output"
+  },
+  "results": [
+    {
+      "url": "https://traveltriangle.com/blog/best-honeymoon-destinations-in-italy/?utm_source=blog_gn",
+      "basename": "_utm_source_blog_gn",
+      "success": true,
+      "steps_completed": [
+        "extract",
+        "adapt",
+        "resolve",
+        "upload"
+      ],
+      "extracted_file": "tt_pipeline_output\\20260117_202811_01_extracted.json",
+      "resolved_file": "tt_pipeline_output\\20260117_202811_03_resolved.json",
+      "report_file": "tt_pipeline_output\\20260117_202811_03_report.json"
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "list_id": "1004",
+  "imageUrl": "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsNew_images/1004/1.jpg",
+  "description": "Dive into \"Beautiful Beaches of Dusseldorf\" — a handpicked list of places with quick notes, links, and essentials for fast trip planning and discovery.",
+  "source_urls": [
+    "https://wanderlog.com/list/geoCategory/110147"
+  ],
+  "source": "wanderlog",
+  "category": "Travel",
+  "title": "Beautiful Beaches of Dusseldorf",
+  "city_id": "9738",
+  "subtype": "poi",
+  "city": "Dusseldorf",
+  "created_ts": 1759434536,
+  "slug": "beautiful-beaches-of-dusseldorf-dusseldorf-poi-1ab10c",
+  "subcollections": {
+    "places": [
+      {
+        "_id": "ChIJ9VioEJe3uEcRH9pO7Ohy5gk",
+        "generalDescription": "Paradiesstrand Düsseldorf Hafen is a popular spot along the River Rhine, drawing both locals and tourists during the summer months. It offers various activities such as swimming, barbecuing, and volleyball with a backdrop of the city skyline. The area is bustling with food and wine festivals, outdoor dining in the Old Town, and stunning sunset views from Paradiesstrand.",
+        "utcOffset": 120,
+        "maxMinutesSpent": 180,
+        "longitude": 6.746196,
+        "rating": 4.5,
+        "numRatings": 917,
+        "sources": [
+          {
+            "id": "529259",
+            "type": "webPlacesList",
+            "url": "https://www.mrduesseldorf.de/heimaturlaub-top-10-sonnenplaetze-in-duesseldorf/",
+            "sourceSite": "Web",
+            "snippet": "Wenn es um Heimaturlaub geht, dann ist der Paradiesstrand im Düsseldorfer Hafen der perfekte Ort. Ein Stückchen Beach Vibes mitten in der Stadt und mit ganz viel Sand!. Entlang des Rheins lädt der flache Sandstrand zu entspannten Spaziergängen ein und bietet viel Platz für eine erholsame Auszeit.",
+            "siteName": "Mr. Düsseldorf",
+            "shortName": "Heimaturlaub – Top 8 Sonnenplätze in Düsseldorf",
+            "indexInSource": 1,
+            "iconSiteId": 2008,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1845955",
+            "type": "webPlacesList",
+            "url": "https://www.lifeinduesseldorf.com/beaches-in-dusseldorf/",
+            "sourceSite": "Web",
+            "snippet": "Paradiesstrand is a local favorite, and it’s easy to see why. This sandy spot along the Rhine offers beautiful views of the Düsseldorf skyline, making it the perfect place to unwind and soak up the sun. Forewarning, due to its popularity, you can expect large crowds on sunny days.",
+            "siteName": "Life in Düsseldorf",
+            "shortName": "The Best Sunbathing Spots and Beaches in Düsseldorf: Local Favorites Revealed! ☀️",
+            "indexInSource": 0,
+            "iconSiteId": 3910,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "MTkFBlTw49OO3LhuGoR2fFZsBgyDtK3a",
+          "Qm5zckafOUIFKh0vBhoef18DhA5lIMB0",
+          "k3zHI2Igo5xIWxhN9RSx2BPbkvztwTnT",
+          "MTkFBlTw49OO3LhuGoR2fFZsBgyDtK3a",
+          "Qm5zckafOUIFKh0vBhoef18DhA5lIMB0",
+          "k3zHI2Igo5xIWxhN9RSx2BPbkvztwTnT"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "Rheinstrand",
+        "placeId": "ChIJ9VioEJe3uEcRH9pO7Ohy5gk",
+        "internationalPhoneNumber": null,
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "A very nice & peaceful place with a good view …",
+            "author_name": "Mary Zamani",
+            "relative_time_description": "",
+            "time": 1723151384,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Highly recommended for a weekend day beach escape by foot from the city center. BBQ allowed and great for kids. Note that there are dangerous river currents so do not go in too deep.",
+            "author_name": "Nicholas Kamp",
+            "relative_time_description": "",
+            "time": 1746162398,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "A series of 3 or 4 sand beaches on the Rhine. They are relatively clean, and the best part is that it is not very crowded because you can only access on foot or bike. People will grill on the beach and the view to the city is superb and makes the place very enjoyable to disconnect for a few hours. Definitely recommendable!",
+            "author_name": "María Cuco",
+            "relative_time_description": "",
+            "time": 1659301042,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "https://www.duesseldorf.de/ordnungsamt/osd/rheinschwimmen",
+        "index": 1,
+        "id": "",
+        "categories": [
+          "Scenic spot",
+          "Hiking area"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 27,
+            "2": 17,
+            "3": 60,
+            "4": 188,
+            "5": 625
+          }
+        },
+        "minMinutesSpent": 180,
+        "latitude": 51.222405,
+        "address": "40221 Düsseldorf, Germany",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJJQ9_yVHMuEcRXNIOq3_7jPU",
+        "generalDescription": "Unterbacher See is a popular destination in Dusseldorf, offering a perfect setting for a leisurely day out. Visitors can enjoy strolls along the sandy beaches, take a refreshing swim in the crystal-clear waters, or indulge in sailing activities. The lake also provides various recreational options such as beach volleyball, pedal boats, surfing, and mini-golf. For those seeking relaxation, there are waterfront restaurants and cafes to unwind.",
+        "utcOffset": 120,
+        "maxMinutesSpent": null,
+        "longitude": 6.892743,
+        "rating": 4.5,
+        "numRatings": 1188,
+        "sources": [
+          {
+            "id": "1845955",
+            "type": "webPlacesList",
+            "url": "https://www.lifeinduesseldorf.com/beaches-in-dusseldorf/",
+            "sourceSite": "Web",
+            "snippet": "This popular lake in the southeast of Düsseldorf is perfect for a day out with family or friends. With two beaches, Nordstrand and Südstrand, you’ll find plenty of space to sunbathe, swim, and engage in water sports (there’s even a nude beach).",
+            "siteName": "Life in Düsseldorf",
+            "shortName": "The Best Sunbathing Spots and Beaches in Düsseldorf: Local Favorites Revealed! ☀️",
+            "indexInSource": 2,
+            "iconSiteId": 3910,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1845954",
+            "type": "webPlacesList",
+            "url": "https://rausgegangen.de/en/blog/bathing-lakes-summer-duesseldorf/",
+            "sourceSite": "Web",
+            "snippet": "Hier gibt es gleich zwei paradiesische Strandbäder an der Nord- und Südseite des Sees. Die langen Sandstrände sorgen primär schonmal für Urlaubsfeeling. Strandliegen, Badeinseln und eine schattige Liegewiese?",
+            "siteName": "rausgegangen.de",
+            "shortName": "The 5 best swimming lakes in Düsseldorf",
+            "indexInSource": 0,
+            "iconSiteId": 49889,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "g56arrOmxYsVvTyznOL4wFTECqSh5Sij",
+          "O4z3yxINwXZUQpJwgCJLLXOGdI84L4pO",
+          "l4RWoK4w8pwWSfRUCaeLejMGE0Za1aFi",
+          "g56arrOmxYsVvTyznOL4wFTECqSh5Sij",
+          "O4z3yxINwXZUQpJwgCJLLXOGdI84L4pO",
+          "l4RWoK4w8pwWSfRUCaeLejMGE0Za1aFi"
+        ],
+        "openingPeriods": [],
+        "name": "Unterbacher See",
+        "placeId": "ChIJJQ9_yVHMuEcRXNIOq3_7jPU",
+        "internationalPhoneNumber": null,
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "It's a well organised, super fun place where you can rent boats, have food and sit by the water. If you don't want to rent boats/ go swimming, you can also take a 6km hike around the water and see really beautiful views. A must visit on a sunny day!",
+            "author_name": "Pooja Jayakumar",
+            "relative_time_description": "",
+            "time": 1712667453,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "⭐Pedal boating on the lake is such a fun family activity. Remember to bring cash. This is how renting a boat works:\n1. You pay down 25 euro upfront, as a security deposit.\n2. You get a chip with a number on it. This is the the number of your boat.\n3. After you hand in the numbered chip at the return, a total price will be calculated and deducted from the 25 you paid down. You get your change in cash.\n\n⭐Our 60-min boating of a two seater costs 12 euro. Another two seater at 74 minutes costs 14.80 euro.\n\n⭐Four seaters are in shorter supply and higher demand, so the wait is longer. It's always a good idea to get in the line early. We waited for about 20 minutes for the two-seaters.",
+            "author_name": "Handan Bao",
+            "relative_time_description": "",
+            "time": 1739285237,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "Unterbacher See is great if you've got children and are looking for the convenience of having bathrooms and snack bars, but I found the 4 Euro entrance fee a little high. It costs 6 Euro a day to rent a beach chair on top of that. Nonetheless, I will definitely come back when I'm with friends and looking to play some beach volleyball or tan nude! Otherwise, I'll probably find a more secluded lake!",
+            "author_name": "Life in Düsseldorf",
+            "relative_time_description": "",
+            "time": 1532591946,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": null,
+        "index": 2,
+        "id": "",
+        "categories": [
+          "Lake"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 52,
+            "2": 20,
+            "3": 62,
+            "4": 245,
+            "5": 809
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 51.194695,
+        "address": "40627 Düsseldorf, Germany",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJ6--xtW_LuEcRC_KhWuxq-Jg",
+        "generalDescription": null,
+        "utcOffset": 120,
+        "maxMinutesSpent": 150,
+        "longitude": 6.800639,
+        "rating": 4.5,
+        "numRatings": 390,
+        "sources": [
+          {
+            "id": "1845955",
+            "type": "webPlacesList",
+            "url": "https://www.lifeinduesseldorf.com/beaches-in-dusseldorf/",
+            "sourceSite": "Web",
+            "snippet": "Located in the Himmelgeist district, this beach is known for its serene atmosphere and natural beauty. It’s a fantastic spot for those looking to escape the city hustle and enjoy a peaceful day by the river.",
+            "siteName": "Life in Düsseldorf",
+            "shortName": "The Best Sunbathing Spots and Beaches in Düsseldorf: Local Favorites Revealed! ☀️",
+            "indexInSource": 1,
+            "iconSiteId": 3910,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "R1HehuFhKQrKueHjwj63uXblmPNZbKpr",
+          "eH0g3t5BJUnVIpTdROWfiLzHCp6j1SKT",
+          "fLYlUgiOnBssVUI0iRS0kUb4jJzSYJL5",
+          "R1HehuFhKQrKueHjwj63uXblmPNZbKpr",
+          "eH0g3t5BJUnVIpTdROWfiLzHCp6j1SKT",
+          "fLYlUgiOnBssVUI0iRS0kUb4jJzSYJL5"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "Himmelgeister Rheinbogen Nature Reserve",
+        "placeId": "ChIJ6--xtW_LuEcRC_KhWuxq-Jg",
+        "internationalPhoneNumber": null,
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Beautiful place to visit during summer. I liked this place as it has sandy beach with magnificent view",
+            "author_name": "Mohammed Nafjuddin",
+            "relative_time_description": "",
+            "time": 1594378107,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 2,
+            "text": "Not my kind of beach. It's more like a canal. The water and surrounding not so clean. You will get to see the passage of different ships and ferries. A cool place to spend solitude time though.",
+            "author_name": "Olatunji Sidiku",
+            "relative_time_description": "",
+            "time": 1707209231,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "Pleasant",
+            "author_name": "manish alankala",
+            "relative_time_description": "",
+            "time": 1720968521,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": null,
+        "index": 3,
+        "id": "",
+        "categories": [
+          "Wildlife refuge",
+          "Public beach"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 14,
+            "2": 4,
+            "3": 21,
+            "4": 89,
+            "5": 262
+          }
+        },
+        "minMinutesSpent": 150,
+        "latitude": 51.166046,
+        "address": "40589 Düsseldorf, Germany",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJ13hy2G63uEcRGarHc4RuqWE",
+        "generalDescription": null,
+        "utcOffset": 120,
+        "maxMinutesSpent": null,
+        "longitude": 6.710529,
+        "rating": 4.4,
+        "numRatings": 282,
+        "sources": [
+          {
+            "id": "529259",
+            "type": "webPlacesList",
+            "url": "https://www.mrduesseldorf.de/heimaturlaub-top-10-sonnenplaetze-in-duesseldorf/",
+            "sourceSite": "Web",
+            "snippet": "Im Juni 2023 hat in Düsseldorf das RheinRiff eröffnet – die größte Indoor-Surfhalle der Welt!. Und das Beste: Mitten im Industriegebiet auf dem Areal Böhler findest du nun auch einen riesigen Beach Club mit wechselnden Food-Trucks, kühlen Drinks und sogar einer 30 Quadratmeter großen Feuerstelle für gemütliche Lagerfeuer. Mit feinstem Karibiksand unter den Füßen und Wellengeräuschen aus der offenen Surfhalle fühlt man sich hier wirklich wie im Urlaub.",
+            "siteName": "Mr. Düsseldorf",
+            "shortName": "Heimaturlaub – Top 8 Sonnenplätze in Düsseldorf",
+            "indexInSource": 2,
+            "iconSiteId": 2008,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "EP9n8RR5DNWTYXi6K3CtMbsAN8DRvVI7",
+          "0n8Bq9PBpp9naQkfzbXwfgpYYmI82B6W",
+          "XE4ygJZxNwDdtnhMQs5J9XbwX9g760wD",
+          "EP9n8RR5DNWTYXi6K3CtMbsAN8DRvVI7",
+          "0n8Bq9PBpp9naQkfzbXwfgpYYmI82B6W",
+          "XE4ygJZxNwDdtnhMQs5J9XbwX9g760wD"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "1000"
+            },
+            "close": {
+              "day": 0,
+              "time": "2200"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "1500"
+            },
+            "close": {
+              "day": 1,
+              "time": "2200"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "1500"
+            },
+            "close": {
+              "day": 2,
+              "time": "2200"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "1500"
+            },
+            "close": {
+              "day": 3,
+              "time": "2200"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "1500"
+            },
+            "close": {
+              "day": 4,
+              "time": "2200"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "1330"
+            },
+            "close": {
+              "day": 5,
+              "time": "2200"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "1000"
+            },
+            "close": {
+              "day": 6,
+              "time": "2200"
+            }
+          }
+        ],
+        "name": "RheinRiff Düsseldorf",
+        "placeId": "ChIJ13hy2G63uEcRGarHc4RuqWE",
+        "internationalPhoneNumber": null,
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "What an amazing place! Went there for an art show and had absolutely no idea that there was indoor surfing and beach volleyball in Düsseldorf. Really cool place with bars and friendly staff. Was so cool to watch the surfing!",
+            "author_name": "Deborah Hadley",
+            "relative_time_description": "",
+            "time": 1713802849,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Summer vacation in Düsseldorf🏖️\nPeople are nice, the instructors are very well trained & have amazing skills. Huge plus-dog friendly🤍I'll be coming back Surfing I can't wait🤙🏄🏼‍♂️",
+            "author_name": "Attila Gyömrei",
+            "relative_time_description": "",
+            "time": 1686136028,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Really good experience, Joshua the best, Marcus also. Excellent place and personal. We will repeat 🤙🏽",
+            "author_name": "Marcos Gómez",
+            "relative_time_description": "",
+            "time": 1705867526,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "http://www.rheinriff.de/",
+        "index": 4,
+        "id": "",
+        "categories": [
+          "Surf school",
+          "Beach volleyball court",
+          "Concert hall",
+          "Event venue",
+          "Function room facility"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 22,
+            "2": 8,
+            "3": 12,
+            "4": 36,
+            "5": 195
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 51.245575,
+        "address": "Hansaallee 321, 40549 Düsseldorf, Germany",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJr_iyq_W1uEcRH4kdC18f3nM",
+        "generalDescription": null,
+        "utcOffset": 120,
+        "maxMinutesSpent": 90,
+        "longitude": 6.735159,
+        "rating": 4.6,
+        "numRatings": 318,
+        "sources": [
+          {
+            "id": "1845955",
+            "type": "webPlacesList",
+            "url": "https://www.lifeinduesseldorf.com/beaches-in-dusseldorf/",
+            "sourceSite": "Web",
+            "snippet": "Another great Rhein beach, located near the Hamm district, this spot offers sandy shores and a relaxed vibe. It’s perfect for spending a sunny afternoon with friends or family.",
+            "siteName": "Life in Düsseldorf",
+            "shortName": "The Best Sunbathing Spots and Beaches in Düsseldorf: Local Favorites Revealed! ☀️",
+            "indexInSource": 6,
+            "iconSiteId": 3910,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "C8E3gDRXT3s3lvGrVTpNMZTfVagtnhWN",
+          "frFzPdQutbTaQDFngunDpWYwA4lLWcS1",
+          "6yqoHRtqaZfC9rZSbMnr4evrl3DE8ZCY",
+          "C8E3gDRXT3s3lvGrVTpNMZTfVagtnhWN",
+          "frFzPdQutbTaQDFngunDpWYwA4lLWcS1",
+          "6yqoHRtqaZfC9rZSbMnr4evrl3DE8ZCY"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "Rheinstrand",
+        "placeId": "ChIJr_iyq_W1uEcRH4kdC18f3nM",
+        "internationalPhoneNumber": "+49 211 17202867",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Just wanna say, mashaa allah! Beautiful  banks, amazing sight viewd and the water are so clean! Any nature lover would spend a whole day, just to seeing the river's bauty.",
+            "author_name": "Sadia Fatema Moula",
+            "relative_time_description": "",
+            "time": 1635752952,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Rheinstrand is a hidden gem - a beautiful, peaceful beach right on the river, perfect for relaxing. It's ideal for sunbathing and enjoying a break, with kids playing around and a very laid-back atmosphere. While it's not meant for swimming, it's great for grilling, picnicking, or just soaking up the sun. There's no restaurant on-site, so bringing your own food and drinks is a must - but that actually adds to the cozy, picnic vibe. It's surprisingly close to the city, yet feels wonderfully quiet and remote. If you're on a bike tour, it's an absolutely perfect rest stop. Highly recommended for anyone looking to unwind by the water!",
+            "author_name": "Natania Morrissey",
+            "relative_time_description": "",
+            "time": 1745684841,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Lovely view to the city",
+            "author_name": "Almutamed Haloush",
+            "relative_time_description": "",
+            "time": 1627929695,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": null,
+        "index": 5,
+        "id": "",
+        "categories": [
+          "Scenic spot",
+          "Public beach"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 3,
+            "2": 4,
+            "3": 19,
+            "4": 60,
+            "5": 232
+          }
+        },
+        "minMinutesSpent": 90,
+        "latitude": 51.201653,
+        "address": "40221 Düsseldorf, Germany",
+        "travel_time": null
+      }
+    ]
+  }
+}

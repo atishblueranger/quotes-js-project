@@ -1,0 +1,35 @@
+{
+  "job_index": 36,
+  "city": "Porto",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160444",
+  "title": "The 46 best photo spots in Porto",
+  "final_title": "Picture-Perfect Porto: Capture the Charm",
+  "from_cache": false,
+  "counts": {
+    "meta": 46,
+    "blocks": 46,
+    "merged": 46,
+    "accepted_before_trim": 42,
+    "rejected": 4,
+    "accepted_final": 26
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 36,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "1014",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\germany_20251003_0018\\porto_photo-spots_160444.json",
+    "report_json": "publish_playlist\\germany_20251003_0018\\porto_photo-spots_160444.report.json"
+  },
+  "created_ts": 1759437661
+}

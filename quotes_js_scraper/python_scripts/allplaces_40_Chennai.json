@@ -1,0 +1,2014 @@
+{
+  "_id": "40",
+  "city_name": "Chennai (Madras)",
+  "is_searchable": true,
+  "place_id": 40,
+  "country_name": "India",
+  "city_name_search": "chennai (madras)",
+  "longitude": 80.286385,
+  "parent_id": 86690,
+  "popularity": 24057,
+  "manual_description": "Chennai city is a vibrant cultural melting-pot located in Southern India. It's known for its classical dance and music, and its energetic culture. Chennai is a leading center for Carnatic music, and it's also a great place to shop, eat and experience the pulsating nightlife.",
+  "subcategory": "city",
+  "state_name": "Chennai District",
+  "bounds": [
+    79.96844,
+    12.69985,
+    80.33632,
+    13.26117
+  ],
+  "image_url": [
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40/1.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40/2.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40/3.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40/4.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40.jpg"
+  ],
+  "position": {
+    "geohash": "tf346yqg8",
+    "geopoint": {
+      "latitude": 13.086713,
+      "longitude": 80.286385
+    }
+  },
+  "latitude": 13.086713,
+  "image_key": "xqvnFQMbwBehPbpjk9Ao733X99R67PzN",
+  "depth": 4,
+  "place_description": "Chennai, on the Bay of Bengal in eastern India, is the capital of the state of Tamil Nadu. The city is home to Fort St. George, built in 1644 and now a museum showcasing the city's roots as a British military garrison and East India Company trading outpost, when it was called Madras. Religious sites include Kapaleeshwarar Temple, adorned with carved and painted gods, and St. Mary's, a 17th-century Anglican church.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "India"
+      },
+      {
+        "_id": "86690",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "India",
+        "id": 86690,
+        "longitude": 80.19017,
+        "bounds": [
+          79.96844,
+          12.69985,
+          80.33632,
+          13.26117
+        ],
+        "latitude": 13.030569,
+        "popularity": 24529,
+        "parentId": 86691,
+        "depth": 3,
+        "name": "Chennai District"
+      },
+      {
+        "_id": "86691",
+        "subcategory": "region",
+        "stateName": null,
+        "countryName": "India",
+        "id": 86691,
+        "longitude": 78.66028,
+        "bounds": [
+          76.23055,
+          8.06901,
+          80.34645,
+          13.49667
+        ],
+        "latitude": 11.350797,
+        "popularity": 115522,
+        "parentId": 86661,
+        "depth": 2,
+        "name": "Tamil Nadu"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "1055",
+        "subcategory": "city",
+        "stateName": "Kanchipuram District",
+        "countryName": "India",
+        "id": 1055,
+        "longitude": 80.17822,
+        "bounds": [
+          80.17629,
+          12.59812,
+          80.20599,
+          12.64653
+        ],
+        "latitude": 12.618793,
+        "popularity": 8374,
+        "parentId": 87054,
+        "depth": 4,
+        "name": "Mahabalipuram"
+      },
+      {
+        "_id": "86690",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "India",
+        "id": 86690,
+        "longitude": 80.19017,
+        "bounds": [
+          79.96844,
+          12.69985,
+          80.33632,
+          13.26117
+        ],
+        "latitude": 13.030569,
+        "popularity": 24529,
+        "parentId": 86691,
+        "depth": 3,
+        "name": "Chennai District"
+      },
+      {
+        "_id": "87054",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "India",
+        "id": 87054,
+        "longitude": 79.99142,
+        "bounds": [
+          79.55784,
+          12.21305,
+          80.26113,
+          13.0371
+        ],
+        "latitude": 12.724917,
+        "popularity": 10187,
+        "parentId": 86691,
+        "depth": 3,
+        "name": "Kanchipuram District"
+      },
+      {
+        "_id": "914",
+        "subcategory": "city",
+        "stateName": "Andhra Pradesh",
+        "countryName": "India",
+        "id": 914,
+        "longitude": 79.41821,
+        "bounds": [
+          79.31168,
+          13.56423,
+          79.53793,
+          13.69107
+        ],
+        "latitude": 13.63194,
+        "popularity": 5053,
+        "parentId": 87040,
+        "depth": 4,
+        "name": "Tirupati"
+      },
+      {
+        "_id": "976",
+        "subcategory": "city",
+        "stateName": "Kanchipuram District",
+        "countryName": "India",
+        "id": 976,
+        "longitude": 79.71,
+        "bounds": [
+          79.69466,
+          12.81846,
+          79.71219,
+          12.84072
+        ],
+        "latitude": 12.82,
+        "popularity": 1556,
+        "parentId": 87054,
+        "depth": 4,
+        "name": "Kanchipuram"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ-4qb8w5mUjoRNhwcE3v6B5U",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.468866+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.25678119999999,
+        "rating": 4.3,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 16720,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1830",
+              "day": 0
+            },
+            "open": {
+              "time": "1030",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 1
+            },
+            "open": {
+              "time": "1030",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 2
+            },
+            "open": {
+              "time": "1030",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 3
+            },
+            "open": {
+              "time": "1030",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 4
+            },
+            "open": {
+              "time": "1030",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 5
+            },
+            "open": {
+              "time": "1030",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 6
+            },
+            "open": {
+              "time": "1030",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.468866+00:00",
+        "name": "Government Museum Chennai",
+        "placeId": "ChIJ-4qb8w5mUjoRNhwcE3v6B5U",
+        "city": "",
+        "detail_description": "State collections including Indian art & sculpture, bronzes, anthropology & a children's section.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2819 3238",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Art museum",
+          "Museums",
+          "History museum",
+          "Specialty Museums"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "http://www.govtmuseumchennai.org/",
+        "index": 0,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ-4qb8w5mUjoRNhwcE3v6B5U_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ-4qb8w5mUjoRNhwcE3v6B5U_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ-4qb8w5mUjoRNhwcE3v6B5U_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ-4qb8w5mUjoRNhwcE3v6B5U_2.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 4833,
+            "3": 1741,
+            "1": 424,
+            "5": 9246,
+            "2": 382
+          }
+        },
+        "country": "",
+        "address": "Government Maternity Hospital, Pantheon Rd, Egmore, Chennai, Tamil Nadu 600008, India",
+        "latitude": 13.0695553
+      },
+      {
+        "_id": "ChIJ2QauKuNnUjoRkfE8ECuLTYQ",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.470926+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.271761,
+        "rating": 4.4,
+        "curation": {},
+        "imageKeys": [
+          "YQ16AkKw9QsBXo2owPg0lqPVgpn5JVpE"
+        ],
+        "ratingCount": 7677,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-31T15:21:08.470926+00:00",
+        "name": "Edward Elliot's Beach",
+        "placeId": "ChIJ2QauKuNnUjoRkfE8ECuLTYQ",
+        "city": "",
+        "detail_description": "Popular beach offering a sandy shoreline & swimming spots, plus the Karl Schmidt Memorial.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Beach",
+          "Outdoor Activities"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": null,
+        "index": 1,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ2QauKuNnUjoRkfE8ECuLTYQ_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ2QauKuNnUjoRkfE8ECuLTYQ_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ2QauKuNnUjoRkfE8ECuLTYQ_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ2QauKuNnUjoRkfE8ECuLTYQ_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 2265,
+            "3": 620,
+            "1": 124,
+            "5": 4554,
+            "2": 100
+          }
+        },
+        "country": "",
+        "address": "Tamil Nadu, India",
+        "latitude": 12.9988631
+      },
+      {
+        "_id": "ChIJ3WSdxJxoUjoRMZCq-sm2iAQ",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.470926+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.2803374,
+        "rating": 4.5,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 8862,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1230",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1930",
+              "day": 0
+            },
+            "open": {
+              "time": "1500",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1230",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1915",
+              "day": 2
+            },
+            "open": {
+              "time": "1500",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1230",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1915",
+              "day": 3
+            },
+            "open": {
+              "time": "1500",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1230",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1915",
+              "day": 4
+            },
+            "open": {
+              "time": "1500",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1230",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1915",
+              "day": 5
+            },
+            "open": {
+              "time": "1500",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1230",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          },
+          {
+            "close": {
+              "time": "1915",
+              "day": 6
+            },
+            "open": {
+              "time": "1500",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.470926+00:00",
+        "name": "Vivekananda House",
+        "placeId": "ChIJ3WSdxJxoUjoRMZCq-sm2iAQ",
+        "city": "",
+        "detail_description": "Former ice store where Swami Vivekananda stayed in 1897, now a permanent exhibition on his life.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2844 6188",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Museum",
+          "Sights & Landmarks",
+          "Historical landmark",
+          "Historic Sites"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "https://vivekanandahouse.org/",
+        "index": 2,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ3WSdxJxoUjoRMZCq-sm2iAQ_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ3WSdxJxoUjoRMZCq-sm2iAQ_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ3WSdxJxoUjoRMZCq-sm2iAQ_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ3WSdxJxoUjoRMZCq-sm2iAQ_1.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 2069,
+            "3": 643,
+            "1": 125,
+            "5": 5856,
+            "2": 117
+          }
+        },
+        "country": "",
+        "address": "VIVEKANANDA HOUSE, Kamaraj Salai, Marina Beach Road, Triplicane, Chennai, Tamil Nadu 600005, India",
+        "latitude": 13.0494675
+      },
+      {
+        "_id": "ChIJ3aAOr6NRUjoRy5ybqxPMAhE",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.473039+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.23853509999999,
+        "rating": 4.3,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 19146,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.473039+00:00",
+        "name": "The Madras Crocodile Bank Trust and Centre for Herpetology",
+        "placeId": "ChIJ3aAOr6NRUjoRy5ybqxPMAhE",
+        "city": "",
+        "detail_description": "Longtime reptile zoo & crocodile sanctuary/breeding center with feedings & a night safari.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 94459 80950",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Animal protection organization",
+          "Outdoor Activities",
+          "Wildlife refuge",
+          "Zoos"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "https://madrascrocodilebank.org/",
+        "index": 3,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ3aAOr6NRUjoRy5ybqxPMAhE_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ3aAOr6NRUjoRy5ybqxPMAhE_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ3aAOr6NRUjoRy5ybqxPMAhE_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJ3aAOr6NRUjoRy5ybqxPMAhE_2.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 5896,
+            "3": 1941,
+            "1": 405,
+            "5": 10465,
+            "2": 405
+          }
+        },
+        "country": "",
+        "address": "Post Bag No 4, Mahabalipuram, Tamil Nadu 603104, India",
+        "latitude": 12.7435038
+      },
+      {
+        "_id": "ChIJH7hVUn9oUjoR3pS3Si7dSKE",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.474611+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.2778191,
+        "rating": 4.7,
+        "curation": {},
+        "imageKeys": [
+          "zACK1FkvbauENW0ENeMGxFIgAWuwBPNq"
+        ],
+        "ratingCount": 15434,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2100",
+              "day": 0
+            },
+            "open": {
+              "time": "0600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 1
+            },
+            "open": {
+              "time": "0600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 2
+            },
+            "open": {
+              "time": "0600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "0600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 4
+            },
+            "open": {
+              "time": "0600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 5
+            },
+            "open": {
+              "time": "0600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 6
+            },
+            "open": {
+              "time": "0600",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.474611+00:00",
+        "name": "Santhome Cathedral Basilica",
+        "placeId": "ChIJH7hVUn9oUjoR3pS3Si7dSKE",
+        "city": "",
+        "detail_description": "Cathedral basilica rebuilt in 1896 in neo-Gothic style, at the site of St. Thomas Apostle's tomb.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2498 5455",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Catholic cathedral",
+          "Sights & Landmarks",
+          "Cathedral",
+          "Catholic church",
+          "Church",
+          "Architectural Buildings",
+          "Sacred & Religious Sites",
+          "Churches & Cathedrals"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "https://catholicshrinebasilica.com/santhome-cathedral-basilica-chennai/",
+        "index": 4,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJH7hVUn9oUjoR3pS3Si7dSKE_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJH7hVUn9oUjoR3pS3Si7dSKE_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJH7hVUn9oUjoR3pS3Si7dSKE_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJH7hVUn9oUjoR3pS3Si7dSKE_2.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 2718,
+            "3": 548,
+            "1": 207,
+            "5": 11802,
+            "2": 91
+          }
+        },
+        "country": "",
+        "address": "12, Rosary Church Road, Santhome, Mylapore, Chennai, Tamil Nadu 600004, India",
+        "latitude": 13.033626
+      },
+      {
+        "_id": "ChIJK24cZD9mUjoR11SiOPeIY7s",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.474611+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.25503429999999,
+        "rating": 4.4,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 1588,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-31T15:21:08.474611+00:00",
+        "name": "Thousand Lights Shia Mosque",
+        "placeId": "ChIJK24cZD9mUjoR11SiOPeIY7s",
+        "city": "",
+        "detail_description": "Large, medieval-inspired mosque dating to the early 1800s & featuring 5 domes & 2 minarets.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2851 8195",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Mosque",
+          "Sights & Landmarks",
+          "Sacred & Religious Sites"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": null,
+        "index": 5,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJK24cZD9mUjoR11SiOPeIY7s_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJK24cZD9mUjoR11SiOPeIY7s_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJK24cZD9mUjoR11SiOPeIY7s_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJK24cZD9mUjoR11SiOPeIY7s_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 264,
+            "3": 143,
+            "1": 67,
+            "5": 1068,
+            "2": 35
+          }
+        },
+        "country": "",
+        "address": "3734+X27, Royapettah, Peter's Rd, Peters Colony, Thousand Lights, Chennai, Tamil Nadu 600086, India",
+        "latitude": 13.0549155
+      },
+      {
+        "_id": "ChIJTxCw-5dnUjoREeNbCLS5qsg",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.476887+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.2440367,
+        "rating": 4.1,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 2796,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1745",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1745",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1745",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1745",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1745",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1745",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1745",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.476887+00:00",
+        "name": "B.M. Birla Planetarium",
+        "placeId": "ChIJTxCw-5dnUjoREeNbCLS5qsg",
+        "city": "",
+        "detail_description": "Modern planetarium with a 360-degree theater for a virtual tour of the night sky & astronomy shows.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2441 0025",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Planetarium",
+          "Museums",
+          "Observatories & Planetariums"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "https://tnstc.gov.in/",
+        "index": 6,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJTxCw-5dnUjoREeNbCLS5qsg_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJTxCw-5dnUjoREeNbCLS5qsg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJTxCw-5dnUjoREeNbCLS5qsg_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJTxCw-5dnUjoREeNbCLS5qsg_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 746,
+            "3": 316,
+            "1": 186,
+            "5": 1431,
+            "2": 104
+          }
+        },
+        "country": "",
+        "address": "Gandhi Mandapam Rd, Duraisamy Nagar, Kotturpuram, Chennai, Tamil Nadu 600025, India",
+        "latitude": 13.0119334
+      },
+      {
+        "_id": "ChIJY-OC3g1mUjoRyVmyWN2brAA",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.476887+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.2567748,
+        "rating": 4.5,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 975,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "0800",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 1
+            },
+            "open": {
+              "time": "0800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "0800",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "0800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "0800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "0800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "0800",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.476887+00:00",
+        "name": "Connemara Public Library",
+        "placeId": "ChIJY-OC3g1mUjoRyVmyWN2brAA",
+        "city": "",
+        "detail_description": "Located in Egmore, Chennai, the Connemara Public Library is a significant historical site and one of the four National Depositories of India. It houses an extensive collection of rare books, ancient texts, records, and periodicals. Visitors can access multimedia resources for free and enjoy facilities such as a video room for documentary films, a Braille Library, and an IAS study center. While non-members can read on-site, borrowing privileges are reserved for members only.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2819 3751",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Public library",
+          "University library",
+          "Libraries"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "http://www.connemarapubliclibrary.org/index.html",
+        "index": 7,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJY-OC3g1mUjoRyVmyWN2brAA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJY-OC3g1mUjoRyVmyWN2brAA_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJY-OC3g1mUjoRyVmyWN2brAA_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJY-OC3g1mUjoRyVmyWN2brAA_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 203,
+            "3": 42,
+            "1": 27,
+            "5": 683,
+            "2": 17
+          }
+        },
+        "country": "",
+        "address": "37C4+5PC, ., Pantheon Rd, Chennai, Tamil Nadu 600008, India",
+        "latitude": 13.0704486
+      },
+      {
+        "_id": "ChIJcVcO_UZmUjoR21emTXt0U4k",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.478426+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.2514128,
+        "rating": 4.1,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 26604,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.478426+00:00",
+        "name": "Semmozhi Poonga",
+        "placeId": "ChIJcVcO_UZmUjoR21emTXt0U4k",
+        "city": "",
+        "detail_description": "Serene botanical garden with over 500 species of plants, including exotic varieties.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Botanical garden",
+          "Nature & Parks",
+          "Park",
+          "Gardens"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": null,
+        "index": 8,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJcVcO_UZmUjoR21emTXt0U4k_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJcVcO_UZmUjoR21emTXt0U4k_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJcVcO_UZmUjoR21emTXt0U4k_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJcVcO_UZmUjoR21emTXt0U4k_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 8127,
+            "3": 3555,
+            "1": 1239,
+            "5": 12623,
+            "2": 1020
+          }
+        },
+        "country": "",
+        "address": "3722+6H7, Cathedral Rd, opposite American Consulate, Ellaiamman Colony, Teynampet, Chennai, Tamil Nadu 600086, India",
+        "latitude": 13.0505371
+      },
+      {
+        "_id": "ChIJcz_Hx_hnUjoRV2udbMHpzno",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.478426+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.2703902,
+        "rating": 4.6,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 13554,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1200",
+              "day": 0
+            },
+            "open": {
+              "time": "0630",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "1600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 1
+            },
+            "open": {
+              "time": "0630",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 1
+            },
+            "open": {
+              "time": "1600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 2
+            },
+            "open": {
+              "time": "0630",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "1600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 3
+            },
+            "open": {
+              "time": "0630",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "1600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 4
+            },
+            "open": {
+              "time": "0630",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "1600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 5
+            },
+            "open": {
+              "time": "0630",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "1600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 6
+            },
+            "open": {
+              "time": "0630",
+              "day": 6
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "1600",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.478426+00:00",
+        "name": "Shri Ashtalakshmi Temple",
+        "placeId": "ChIJcz_Hx_hnUjoRV2udbMHpzno",
+        "city": "",
+        "detail_description": "This colourful, multi-level seaside temple with ornate details honours the Hindu goddess Lakshmi.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2446 6777",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Sacred & Religious Sites"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": null,
+        "index": 9,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJcz_Hx_hnUjoRV2udbMHpzno_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJcz_Hx_hnUjoRV2udbMHpzno_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJcz_Hx_hnUjoRV2udbMHpzno_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJcz_Hx_hnUjoRV2udbMHpzno_1.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 2740,
+            "3": 774,
+            "1": 226,
+            "5": 9600,
+            "2": 159
+          }
+        },
+        "country": "",
+        "address": "Beach Rd, Kalakshetra Colony, Besant Nagar, Chennai, Tamil Nadu 600090, India",
+        "latitude": 12.9926039
+      },
+      {
+        "_id": "ChIJoZMe_p1oUjoRIOvbaW67UKo",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.483345+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.27695609999999,
+        "rating": 4.7,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 25296,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1200",
+              "day": 0
+            },
+            "open": {
+              "time": "0600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 0
+            },
+            "open": {
+              "time": "1600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 1
+            },
+            "open": {
+              "time": "0600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 1
+            },
+            "open": {
+              "time": "1600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 2
+            },
+            "open": {
+              "time": "0600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "1600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 3
+            },
+            "open": {
+              "time": "0600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "1600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 4
+            },
+            "open": {
+              "time": "0600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "1600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 5
+            },
+            "open": {
+              "time": "0600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 5
+            },
+            "open": {
+              "time": "1600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 6
+            },
+            "open": {
+              "time": "0600",
+              "day": 6
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 6
+            },
+            "open": {
+              "time": "1600",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.483345+00:00",
+        "name": "Arulmigu Sri Parthasarathy Perumal Temple Tiruvallikeni",
+        "placeId": "ChIJoZMe_p1oUjoRIOvbaW67UKo",
+        "city": "",
+        "detail_description": "Sacred 8th-century temple honouring the god Krishna, with ornately carved towers & columns.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2844 2462",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Place of worship",
+          "Sacred & Religious Sites"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "https://parthasarathy.hrce.tn.gov.in/",
+        "index": 10,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJoZMe_p1oUjoRIOvbaW67UKo_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJoZMe_p1oUjoRIOvbaW67UKo_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJoZMe_p1oUjoRIOvbaW67UKo_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJoZMe_p1oUjoRIOvbaW67UKo_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 3658,
+            "3": 686,
+            "1": 276,
+            "5": 20441,
+            "2": 145
+          }
+        },
+        "country": "",
+        "address": "Car St, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005, India",
+        "latitude": 13.0538068
+      },
+      {
+        "_id": "ChIJuzIBtptoUjoRCrZi347PSQU",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.484502+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.2824026,
+        "rating": 4.3,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 58807,
+        "openingPeriods": null,
+        "content_updated_at": "2025-10-31T15:21:08.484502+00:00",
+        "name": "Marina Beach",
+        "placeId": "ChIJuzIBtptoUjoRCrZi347PSQU",
+        "city": "",
+        "detail_description": "Bustling urban beach featuring a long shoreline for basking & a variety of food stalls & shops.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Beach",
+          "Outdoor Activities"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": null,
+        "index": 11,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJuzIBtptoUjoRCrZi347PSQU_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJuzIBtptoUjoRCrZi347PSQU_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJuzIBtptoUjoRCrZi347PSQU_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJuzIBtptoUjoRCrZi347PSQU_1.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 14692,
+            "3": 6105,
+            "1": 2134,
+            "5": 33967,
+            "2": 1723
+          }
+        },
+        "country": "",
+        "address": "Tamil Nadu, India",
+        "latitude": 13.0499526
+      },
+      {
+        "_id": "ChIJwb9yx-tmUjoRK3QYKW3Ax1c",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.485495+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.21352089999999,
+        "rating": 4.7,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 24794,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1200",
+              "day": 0
+            },
+            "open": {
+              "time": "0500",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 0
+            },
+            "open": {
+              "time": "1600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 1
+            },
+            "open": {
+              "time": "0500",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 1
+            },
+            "open": {
+              "time": "1600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 2
+            },
+            "open": {
+              "time": "0500",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 2
+            },
+            "open": {
+              "time": "1600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 3
+            },
+            "open": {
+              "time": "0500",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "1600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 4
+            },
+            "open": {
+              "time": "0500",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 4
+            },
+            "open": {
+              "time": "1600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 5
+            },
+            "open": {
+              "time": "0500",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 5
+            },
+            "open": {
+              "time": "1600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1200",
+              "day": 6
+            },
+            "open": {
+              "time": "0500",
+              "day": 6
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 6
+            },
+            "open": {
+              "time": "1600",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.485495+00:00",
+        "name": "Arulmigu Vadapalani Murugan Temple",
+        "placeId": "ChIJwb9yx-tmUjoRK3QYKW3Ax1c",
+        "city": "",
+        "detail_description": "Renovated in 1920, this Hindu temple dedicated to Lord Muruga is a popular place to get married.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2483 6903",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Place of worship",
+          "Sacred & Religious Sites"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "https://vadapalaniandavar.hrce.tn.gov.in/",
+        "index": 12,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJwb9yx-tmUjoRK3QYKW3Ax1c_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJwb9yx-tmUjoRK3QYKW3Ax1c_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJwb9yx-tmUjoRK3QYKW3Ax1c_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJwb9yx-tmUjoRK3QYKW3Ax1c_3.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 3647,
+            "3": 673,
+            "1": 302,
+            "5": 19752,
+            "2": 143
+          }
+        },
+        "country": "",
+        "address": "Palani Andavar Koil St, Vadapalani, Chennai, Tamil Nadu 600026, India",
+        "latitude": 13.0528421
+      },
+      {
+        "_id": "ChIJzdR_sAT2UjoRhpxs68kL8LI",
+        "prev_detail_description": "",
+        "migrated_at": "2025-10-31T15:21:08.487017+00:00",
+        "utcOffset": 330,
+        "source_url": "wanderlog",
+        "longitude": 80.0808294,
+        "rating": 4.2,
+        "curation": {},
+        "imageKeys": [],
+        "ratingCount": 68788,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1630",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "content_updated_at": "2025-10-31T15:21:08.487017+00:00",
+        "name": "Arignar Anna Zoological Park",
+        "placeId": "ChIJzdR_sAT2UjoRhpxs68kL8LI",
+        "city": "",
+        "detail_description": "Vast zoo with large, natural enclosures for Asian mammals & battery-operated cars (fee) for touring.",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 44 2954 2301",
+        "g_description": "",
+        "image_url": "",
+        "types": [
+          "Zoo",
+          "Outdoor Activities"
+        ],
+        "migrated_at_ts": "2025-10-31T15:21:11.019000+00:00",
+        "website": "https://www.aazp.in/",
+        "index": 13,
+        "prev_excerpt": "",
+        "excerpt": "",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJzdR_sAT2UjoRhpxs68kL8LI_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJzdR_sAT2UjoRhpxs68kL8LI_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJzdR_sAT2UjoRhpxs68kL8LI_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/places/ChIJzdR_sAT2UjoRhpxs68kL8LI_4.jpg"
+        ],
+        "migrated_from_explore": true,
+        "ratingDistribution": {
+          "Google": {
+            "4": 20194,
+            "3": 8074,
+            "1": 2845,
+            "5": 35346,
+            "2": 2169
+          }
+        },
+        "country": "",
+        "address": "Grand Southern Trunk Rd, Vandalur, Tamil Nadu 600048, India",
+        "latitude": 12.8797685
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "The summer months in Chennai can be quite hot, with temperatures often exceeding 35°C (95°F). However, this is also the time for various festivals, including the Tamil New Year and the Chithirai Festival. Visitors can enjoy the city's vibrant street food scene and relax at the Marina Beach during the cooler evenings.",
+          "June to August": "The monsoon season brings relief from the summer heat, with occasional heavy rainfall. This is a great time to visit the city's museums and art galleries, such as the Government Museum and the National Art Gallery. The lush greenery and cooler temperatures make it a pleasant time for outdoor activities, though travelers should be prepared for rain.",
+          "Travel Tip": "When visiting Chennai, it's advisable to dress modestly, especially when visiting temples. Stay hydrated and use sunscreen during the hot months. Public transport, including buses and the metro, is a convenient way to navigate the city. Learning a few basic Tamil phrases can enhance your experience and interactions with locals.",
+          "Overview": "Chennai, formerly known as Madras, is the capital city of the Indian state of Tamil Nadu. It is known for its rich cultural heritage, vibrant arts scene, and beautiful beaches. The city is a major economic and educational hub in South India, offering a blend of traditional and modern attractions.",
+          "December to February": "This is the winter season in Chennai, characterized by pleasant weather and lower humidity. It is the ideal time to explore the city's historical sites, such as the Kapaleeshwarar Temple and Fort St. George. The Chennai Music Season, held in December, showcases classical music and dance performances, attracting artists and audiences from around the world.",
+          "Regional Highlights": "Chennai is home to several notable attractions, including the historic Marina Beach, the ancient temples of Kanchipuram, and the vibrant art district of Mylapore. The city also boasts a thriving culinary scene, famous for its South Indian cuisine, particularly dosa and idli. The nearby Mahabalipuram, a UNESCO World Heritage site, is known for its rock-cut temples and sculptures.",
+          "September to November": "As the monsoon recedes, the weather becomes more comfortable, making it a good time for sightseeing. The Navaratri festival, celebrated with great enthusiasm, features colorful processions and cultural events. Visitors can explore the bustling markets and enjoy local delicacies during this festive season."
+        },
+        "monthlyRatings": {
+          "Apr": 3,
+          "Jun": 2,
+          "Jul": 3,
+          "Dec": 5,
+          "Mar": 3,
+          "Feb": 4,
+          "Aug": 3,
+          "Jan": 4,
+          "May": 2,
+          "Nov": 4,
+          "Oct": 4,
+          "Sep": 3
+        }
+      },
+      {
+        "_id": "things_to_know",
+        "🕌 Cultural Etiquette": "Respect local customs and traditions, especially when visiting temples. Dress modestly and remove your shoes before entering sacred spaces.",
+        "Conclusion": "Chennai is a city that beautifully blends tradition and modernity, offering travelers a unique experience. Embrace the local culture and enjoy your journey in this dynamic metropolis.",
+        "🎉 Festivals and Events": "Chennai hosts numerous festivals throughout the year, including Pongal and the Chennai Music Season. Participating in these events can provide a deeper understanding of the local culture.",
+        "🛍️ Shopping Insights": "Chennai offers a variety of shopping experiences, from bustling markets to modern malls. Look for traditional silk sarees and handicrafts as unique souvenirs.",
+        "Introduction": "Chennai, formerly known as Madras, is a vibrant city on the southeastern coast of India, rich in culture, history, and cuisine. Before visiting, it's essential to understand the local customs, climate, and attractions to make the most of your trip.",
+        "📱 Connectivity": "Wi-Fi is available in many hotels and cafes, but purchasing a local SIM card can be beneficial for staying connected while exploring the city.",
+        "🏖️ Beach Safety": "Chennai is home to beautiful beaches like Marina Beach, but be cautious of strong currents and avoid swimming in unmonitored areas. Visit during the early morning or late evening for a more pleasant experience.",
+        "🌡️ Weather Considerations": "Chennai has a tropical climate, with hot and humid conditions year-round. The best time to visit is between November and February when temperatures are more pleasant.",
+        "🍽️ Local Cuisine": "Don't miss out on trying authentic South Indian dishes like dosa, idli, and sambar. Street food is also a must-try, but ensure you choose clean and popular stalls to avoid any health issues.",
+        "🚕 Transportation Tips": "Public transport in Chennai includes buses and the metro, but auto-rickshaws are a convenient way to navigate the city. Always negotiate the fare beforehand or ensure the meter is running."
+      },
+      {
+        "_id": "ways_to_get_around",
+        "🚢 Ferry Services": "Ferry services operate along the coast, offering a scenic alternative to road travel. These ferries can take you to nearby beaches and islands, providing a refreshing break from the city.",
+        "🚄 Suburban Trains": "The suburban train network connects Chennai to its surrounding areas, making it a vital transport option for commuters. Trains are frequent and can be a quick way to reach destinations outside the city center.",
+        "🚇 Metro Rail": "The Chennai Metro is a modern and efficient way to travel across the city. With multiple lines connecting key areas, it helps avoid traffic congestion and offers a comfortable ride.",
+        "Conclusion": "Chennai offers a variety of transportation options to suit every traveler's needs. Whether you choose to ride the metro, hail a taxi, or explore on foot, you'll find that getting around the city can be both convenient and enjoyable.",
+        "🚕 Taxis & Auto Rickshaws": "Taxis and auto rickshaws are widely available and provide a convenient way to get around. Ride-hailing apps like Uber and Ola make it easy to book a ride at any time.",
+        "Introduction": "Chennai, formerly known as Madras, is a bustling metropolis in southern India, known for its rich culture and vibrant lifestyle. Navigating this city can be an adventure in itself, with various transportation options available to help you explore its many attractions.",
+        "🚶 Walking": "Walking is a great way to experience Chennai's vibrant streets and local markets. Many attractions are within walking distance of each other, allowing you to soak in the city's atmosphere.",
+        "🚌 Public Buses": "Chennai's public bus system is extensive and affordable, covering most parts of the city. While it can be crowded, it offers a unique glimpse into local life and is a great way to save money.",
+        "🛴 E-Scooters": "E-scooters are available for rent in various parts of the city, providing a quick and fun way to navigate short distances. They are especially popular among younger locals and tourists.",
+        "🚲 Bicycles": "Cycling is becoming increasingly popular in Chennai, with dedicated bike lanes in some areas. Renting a bicycle can be a fun and eco-friendly way to explore the city at your own pace.",
+        "🚗 Car Rentals": "For those who prefer to drive, car rental services are available throughout Chennai. This option gives you the freedom to explore at your own pace, though be prepared for the city's busy traffic."
+      }
+    ]
+  }
+}

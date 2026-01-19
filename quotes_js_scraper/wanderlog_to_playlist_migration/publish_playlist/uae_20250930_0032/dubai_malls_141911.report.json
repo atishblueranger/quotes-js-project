@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Dubai",
+  "category_used": "malls",
+  "url": "https://wanderlog.com/list/geoCategory/141911",
+  "title": "The 50 best malls in Dubai",
+  "final_title": "Dubai's Ultimate Mall Adventure",
+  "from_cache": false,
+  "counts": {
+    "meta": 50,
+    "blocks": 50,
+    "merged": 50,
+    "accepted_before_trim": 41,
+    "rejected": 9,
+    "accepted_final": 29
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 13,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "648",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\uae_20250930_0032\\dubai_malls_141911.json",
+    "report_json": "publish_playlist\\uae_20250930_0032\\dubai_malls_141911.report.json"
+  },
+  "created_ts": 1759172761
+}

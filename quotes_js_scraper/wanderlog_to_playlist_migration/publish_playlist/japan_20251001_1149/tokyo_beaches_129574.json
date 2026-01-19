@@ -1,0 +1,980 @@
+{
+  "list_id": "773",
+  "imageUrl": "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsNew_images/773/1.jpg",
+  "description": "Dive into \"Tokyo's Hidden Gems: Explore for Free\" — a handpicked list of places with quick notes, links, and essentials for fast trip planning and discovery.",
+  "source_urls": [
+    "https://wanderlog.com/list/geoCategory/129574"
+  ],
+  "source": "wanderlog",
+  "category": "Travel",
+  "title": "Tokyo's Hidden Gems: Explore for Free",
+  "city_id": "1",
+  "subtype": "poi",
+  "city": "Tokyo",
+  "created_ts": 1759299864,
+  "slug": "tokyos-hidden-gems-explore-for-free-tokyo-poi-1e645d",
+  "subcollections": {
+    "places": [
+      {
+        "_id": "ChIJF0MR5MSmH2ARj3x0ov0aQ-8",
+        "generalDescription": "Hie Shrine is a significant complex of Shinto shrines and gardens located in Akasaka, Tokyo. Established in 1478, it was once situated within the grounds of Edo Castle before being relocated to its current location in 1659. The shrine features a torii path that offers an alternative to the famous Fushimi Inari in Kyoto, providing a picturesque spot for photography with its red gates.",
+        "utcOffset": 540,
+        "maxMinutesSpent": null,
+        "longitude": 139.739938,
+        "rating": 4.4,
+        "numRatings": 12106,
+        "sources": [
+          {
+            "id": "899090",
+            "type": "webPlacesList",
+            "url": "https://www.2aussietravellers.com/best-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "This relatively small but significant shrine in Akasaka is one we discovered when we got ourselves a bit turned around on one of our first trips to Japan and being a short distance from Akasaka-Mitsuke station and close to some excellent cheap restaurants for a quick dinner after a full day out exploring we’ve passed by and detoured through a few times. The shrine was established in 1478 and at one time stood within the grounds of Edo Castle. In 1659 the son of the Shogun Tokugawa Ieyasu had it moved to this location.",
+            "siteName": "2 Aussie Travellers",
+            "shortName": "50 of the best things to do in Tokyo for first time visitors",
+            "indexInSource": 12,
+            "iconSiteId": 5237,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1076282",
+            "type": "webPlacesList",
+            "url": "https://www.helenabradbury.com/blog-1/tourist-attractions-tokyo-japan",
+            "sourceSite": "Web",
+            "snippet": "Dating back to the 14th century, this small haven is the bustling Chiyoda City, it’s a brief walk from Akasaka Station and the entrance is free. The shrine has become famous in recent years due to its trail of Torii Gates, similar in style to the Torii Gate trail at Kyoto’s Fushimi Inari Taisha. Although the trail at Hie shrine is much shorter, it’s a beautiful and free spot to visit in the city.",
+            "siteName": "Helena Bradbury",
+            "shortName": "50 Must-see Tourist Attractions in Tokyo Japan",
+            "indexInSource": 6,
+            "iconSiteId": 15727,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "262248",
+            "type": "webPlacesList",
+            "url": "https://theplanetd.com/best-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "If you are looking for that famous the temple in Tokyo with that row of red Torii Gates in Tokyo, Hie Shrine is the spot. Hie Shrine is located right in the heart of Akasaka in the Minato Ward and is one of the most popular places to visit in Tokyo. This Shinto Shrine houses massive white Shinto gates, temples and pagodas, and the Torii Gate.",
+            "siteName": "The Planet D: Adventure Travel Blog",
+            "shortName": "The Best Things to do in Tokyo, Japan",
+            "indexInSource": 3,
+            "iconSiteId": 1973,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899765",
+            "type": "webPlacesList",
+            "url": "https://www.thetokyochapter.com/free-things-to-do-in-tokyo-with-kids/",
+            "sourceSite": "Web",
+            "snippet": "The Lucky Cat Shrine, Setagaya (details can be found in my ‘A More Traditional Japan without leaving Tokyo’ post here.)",
+            "siteName": "The Tokyo Chapter",
+            "shortName": "FREE THINGS TO DO IN TOKYO WITH KIDS",
+            "indexInSource": 4,
+            "iconSiteId": 34763,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "608mmYsolYHcYZyu0yUlv7VAUVdB2WMF",
+          "KMRKYADjImti3AbuFPqBx3runU0U257Z",
+          "RHB9s8XWliuMoK5G1Ji0yok2XAy6lOsx",
+          "29XzmErfdNCYFt2bfsVS4bcy7hSffTxP",
+          "aRd8GyjjKpbK8SD57Jvfxsm60Cjf8mTa",
+          "608mmYsolYHcYZyu0yUlv7VAUVdB2WMF",
+          "KMRKYADjImti3AbuFPqBx3runU0U257Z",
+          "RHB9s8XWliuMoK5G1Ji0yok2XAy6lOsx",
+          "29XzmErfdNCYFt2bfsVS4bcy7hSffTxP",
+          "aRd8GyjjKpbK8SD57Jvfxsm60Cjf8mTa"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0600"
+            },
+            "close": {
+              "day": 0,
+              "time": "1700"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0600"
+            },
+            "close": {
+              "day": 1,
+              "time": "1700"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0600"
+            },
+            "close": {
+              "day": 2,
+              "time": "1700"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0600"
+            },
+            "close": {
+              "day": 3,
+              "time": "1700"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0600"
+            },
+            "close": {
+              "day": 4,
+              "time": "1700"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0600"
+            },
+            "close": {
+              "day": 5,
+              "time": "1700"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0600"
+            },
+            "close": {
+              "day": 6,
+              "time": "1700"
+            }
+          }
+        ],
+        "name": "Hie Shrine",
+        "placeId": "ChIJF0MR5MSmH2ARj3x0ov0aQ-8",
+        "internationalPhoneNumber": "+81 3-3581-2471",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Hie Shrine is a tranquil and sacred place, offering visitors a peaceful escape from the bustling city. Located in the heart of Tokyo, it boasts beautiful traditional architecture and lush surroundings. The shrine's serene atmosphere makes it a perfect spot for reflection and prayer. The main hall, or honden, is an architectural marvel, and the vibrant red torii gate adds to the shrine's majestic feel. Visitors can enjoy a quiet walk through the grounds, especially during the changing seasons when the foliage enhances the beauty of the area. The cultural significance of Hie Shrine, combined with its peaceful ambiance, makes it a must-visit destination for anyone seeking a deeper connection to Japan's spiritual heritage.",
+            "author_name": "Hoai Nguyen",
+            "relative_time_description": "",
+            "time": 1742568500,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "What an awesome shrine. Great to take pics. There is a fair bit of walking and steps. Great relaxing walk but does get pretty busy.",
+            "author_name": "C K",
+            "relative_time_description": "",
+            "time": 1745453862,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Lovely temple. Can be a bit too crowded, but still a nice visit. From the other side, you approach the temple through torii gates which gives you a glimpse of Kyoto.\nI was lucky to \"attend\" some kind of ritual and we were not allowed to take photos, which I respect so much! The lady was telling everyone with such kindness that taking photos is forbidden. Japanese people are so kind.",
+            "author_name": "Dylan Dog",
+            "relative_time_description": "",
+            "time": 1751018511,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "https://www.hiejinja.net/index.html",
+        "index": 1,
+        "id": "",
+        "categories": [
+          "Shinto shrine",
+          "Sights & Landmarks",
+          "Shrine",
+          "Sacred & Religious Sites",
+          "Historic Sites"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 108,
+            "2": 111,
+            "3": 1302,
+            "4": 3640,
+            "5": 6942
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 35.674666,
+        "address": "2 Chome-10-5 Nagatachō, Chiyoda City, Tokyo 100-0014, Japan",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJMwpiebSMGGARPr_454zHvDQ",
+        "generalDescription": "Nestled in the heart of Tokyo, Yoyogi Park is a sprawling urban oasis that spans an impressive 134 acres. This vibrant park features serene lakes, charming fountains, and lush forested areas adorned with mature trees, making it a perfect escape from the city's hustle and bustle. Located just south of Shinjuku and near the iconic Yoyogi National Gymnasium, it's easily accessible for both locals and tourists alike.",
+        "utcOffset": 540,
+        "maxMinutesSpent": 180,
+        "longitude": 139.694966,
+        "rating": 4.3,
+        "numRatings": 25615,
+        "sources": [
+          {
+            "id": "1424408",
+            "type": "webPlacesList",
+            "url": "https://www.mobal.com/blog/japan/15-free-attractions-to-check-out-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "Another pleasant park in the middle of Tokyo, Yoyogi Park is a large green space that features wooded areas, trails, ponds, and lawns. It has nice pathways for walkers, runners, and cyclists, and also a dog park section where you can watch canines of all shapes, sizes, colors, and breeds having some fun time. In the spring and autumn seasons, it sees crowds and crowds of people wanting to get the best seats for cherry blossoms and autumn foliage viewing.",
+            "siteName": "Mobal Blog",
+            "shortName": "15 FREE Attractions to Check Out in Tokyo -",
+            "indexInSource": 4,
+            "iconSiteId": 50550,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "371728",
+            "type": "webPlacesList",
+            "url": "https://livejapan.com/en/article-a0004510/",
+            "sourceSite": "Web",
+            "snippet": "Many also make for fun attractions, such as Harajuku’s Yoyogi Park, a hotspot for eccentric performers and fashionistas where you can catch free shows. Other must-see Tokyo parks include the fresh and breezy Sumida Park, famous for its unique photo opportunities, and Ueno Park, which features a beautiful lake and two temples. Plenty of smaller neighborhood parks are dotted throughout Tokyo just waiting to be discovered, so be sure to consult your map!",
+            "siteName": "LIVE JAPAN",
+            "shortName": "20 Fun Things to Do for Free in Tokyo",
+            "indexInSource": 5,
+            "iconSiteId": 39,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1076282",
+            "type": "webPlacesList",
+            "url": "https://www.helenabradbury.com/blog-1/tourist-attractions-tokyo-japan",
+            "sourceSite": "Web",
+            "snippet": "Close to Harajuku Station, Yoyogi Park is one of Tokyo's largest city parks, rich with history as the site for the 1964 Olympics athletes' village. With beautiful trees, serene ponds, and meandering paths, the park doesn't cost a yen to visit but is popular for sakura spotting in Tokyo during the spring cherry blossom season.",
+            "siteName": "Helena Bradbury",
+            "shortName": "50 Must-see Tourist Attractions in Tokyo Japan",
+            "indexInSource": 19,
+            "iconSiteId": 15727,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899090",
+            "type": "webPlacesList",
+            "url": "https://www.2aussietravellers.com/best-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "Slightly past the overpass and adjacent to Meiji Shrine, you’ll find Yoyogi Park. This is one of the city’s biggest parks and you’ll always find something going on here. From Rock and Rolling Elvis lookalikes to hanami parties in the spring, Lolita gatherings, skateboarding dogs and rabbits out walking in their Sunday best.",
+            "siteName": "2 Aussie Travellers",
+            "shortName": "50 of the best things to do in Tokyo for first time visitors",
+            "indexInSource": 26,
+            "iconSiteId": 5237,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899758",
+            "type": "webPlacesList",
+            "url": "https://www.beyondmydoor.com/25-free-things-to-do-in-tokyo-japan/",
+            "sourceSite": "Web",
+            "snippet": "One of my favorite parks in Tokyo and a great place to spend an afternoon. You’ll see lots of Tokyo out and about either doing activities or having picnics in this large park. Be sure to keep an eye out for all the creative folks, specifically all the various group dancers.",
+            "siteName": "Beyond my Door",
+            "shortName": "25 Free things to do in Tokyo Japan",
+            "indexInSource": 1,
+            "iconSiteId": 68798,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1424405",
+            "type": "webPlacesList",
+            "url": "https://tourteller.com/blog/free-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "Yoyogi Park is conveniently located adjacent to the Meiji Shrine and Harajuku Station. This pet-friendly park is also wheelchair accessible. Anyone can stroll around and enjoy a relaxing time with friends and family.",
+            "siteName": "TourTeller Blog",
+            "shortName": "Free Things to Do in Tokyo 2025",
+            "indexInSource": 6,
+            "iconSiteId": 13028,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899765",
+            "type": "webPlacesList",
+            "url": "https://www.thetokyochapter.com/free-things-to-do-in-tokyo-with-kids/",
+            "sourceSite": "Web",
+            "snippet": "A huge park (no playground equipment) and a lovely slice of green in the middle of the busy city. Like all large, beautiful parks in Japan, the foliage and view is completely different with every season.",
+            "siteName": "The Tokyo Chapter",
+            "shortName": "FREE THINGS TO DO IN TOKYO WITH KIDS",
+            "indexInSource": 5,
+            "iconSiteId": 34763,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "302230",
+            "type": "webPlacesList",
+            "url": "https://familydestinationsguide.com/best-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "2-1 YoyogikamizonochoShibuya City, Tokyo, JA 151-0052+81 3-3469-6081. Yoyogi Park, about 134 acres in size, is beautifully landscaped. It is a local favorite for outdoor fun and entertainment.",
+            "siteName": "Family Destinations Guide",
+            "shortName": "25 Best Things to Do in Tokyo, Japan (for 2024)",
+            "indexInSource": 22,
+            "iconSiteId": 5892,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899745",
+            "type": "webPlacesList",
+            "url": "https://thosewhowandr.com/free-things-to-do-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "Yoyogi Park  in Harajuku can be classified as a miniature forest. If you’re able to, visit on Sundays when the park comes alive with live performances. Great for picnicking and hanami viewing.",
+            "siteName": "Those Who Wandr",
+            "shortName": "FREE Things to Do in Tokyo",
+            "indexInSource": 8,
+            "iconSiteId": 17342,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "910451",
+            "type": "webPlacesList",
+            "url": "https://littlegreybox.net/49-insanely-cheap-and-free-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "1/  Visit Yoyogi Park on a Sunday, it’s when the park comes alive with locals wearing costumes, dancing, playing games and just hanging out",
+            "siteName": "Little Grey Box",
+            "shortName": "49 Insanely cheap and free things to do in Tokyo",
+            "indexInSource": 0,
+            "iconSiteId": 2875,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899768",
+            "type": "webPlacesList",
+            "url": "https://voyageursintrepides.com/en/the-15-best-free-activities-in-tokyo",
+            "sourceSite": "Web",
+            "snippet": "This park is famous for the amount of trees it houses, all sent to the capital from all over Japan and planted by volunteers",
+            "siteName": "- Le blog des curieux du voyage",
+            "shortName": "The 15 best free activities in Tokyo -",
+            "indexInSource": 6,
+            "iconSiteId": 16077,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "F01hWx4MdtqrymNvEU24U5hKHycDB22T",
+          "VTln5zIjJk8tEhWeOl6DEoAwvLlKJOCH",
+          "LgZECdwaaIasODXit2SImbsKmzUwr6P1",
+          "eaTzl9FWdjuvCwvjCQM2HuRwb8FA0msx",
+          "GyXqUGtGT5J1scY8KdXkt0DhHolpUkAq",
+          "F01hWx4MdtqrymNvEU24U5hKHycDB22T",
+          "VTln5zIjJk8tEhWeOl6DEoAwvLlKJOCH",
+          "LgZECdwaaIasODXit2SImbsKmzUwr6P1",
+          "eaTzl9FWdjuvCwvjCQM2HuRwb8FA0msx",
+          "GyXqUGtGT5J1scY8KdXkt0DhHolpUkAq"
+        ],
+        "openingPeriods": [
+          {
+            "open": {
+              "day": 0,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 1,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 2,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 3,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 4,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 5,
+              "time": "0000"
+            }
+          },
+          {
+            "open": {
+              "day": 6,
+              "time": "0000"
+            }
+          }
+        ],
+        "name": "Yoyogi Park",
+        "placeId": "ChIJMwpiebSMGGARPr_454zHvDQ",
+        "internationalPhoneNumber": "+81 3-3469-6081",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "A nice park to relax in or go for a jog.  Most of the park is tree lined paths and bench areas though it has a few extra sections.  There is a beautiful butterfly garden on the south side that I'd recommend.  A herb / rose garden.  A dog park.  And a lake for viewing birds... Though they were hiding during our visit.",
+            "author_name": "Bill Reichman",
+            "relative_time_description": "",
+            "time": 1750994356,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Green, expansive, gorgeous. There are so many words that could describe Yoyogi Park but those are my top three. I loved the greenery, art, wildlife, and the First Flight Monument. Easy to get to, easy to navigate. Even though we walked around for a few hours, there was still more to see. Don't miss it!\n\nPhotography by Jason Taylor (Except for the pictures I took)",
+            "author_name": "Amy Shafer",
+            "relative_time_description": "",
+            "time": 1757040092,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "This park does not have a lot to offer but this is one good place to spend some time off, peaceful \"me time\" and have picnics with your loved ones. This is just a 5 minute walk from the Meiji Shrine. By the time I visited, Roses are in bloom making the park more interesting to visit.",
+            "author_name": "Maria Theresa Dela Cruz",
+            "relative_time_description": "",
+            "time": 1747986146,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "https://www.tokyo-park.or.jp/park/yoyogi/",
+        "index": 2,
+        "id": "",
+        "categories": [
+          "Park",
+          "Nature & Parks"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 260,
+            "2": 346,
+            "3": 3487,
+            "4": 7727,
+            "5": 13788
+          }
+        },
+        "minMinutesSpent": 180,
+        "latitude": 35.670065,
+        "address": "2-1 Yoyogikamizonocho, Shibuya, Tokyo 151-0052, Japan",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJ5V1T5KKMGGARlTLiBrjIGUg",
+        "generalDescription": "Harajuku is a vibrant hub of youth culture and fashion in Tokyo, renowned for its eclectic mix of street art, trendy boutiques, vintage shops, and cosplay stores. This lively area offers an array of casual dining options, including delicious crepes that are perfect for a quick snack while exploring.",
+        "utcOffset": 540,
+        "maxMinutesSpent": null,
+        "longitude": 139.709008,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [
+          {
+            "id": "1424399",
+            "type": "webPlacesList",
+            "url": "https://www.telegraph.co.uk/travel/destinations/asia/japan/tokyo/articles/free-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "The Telegraph",
+            "shortName": "The best free things to do in Tokyo",
+            "indexInSource": 3,
+            "iconSiteId": 206,
+            "showIcon": true,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "371774",
+            "type": "webPlacesList",
+            "url": "https://travelphotodiscovery.com/20-free-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "Hang out at Harajuku – this famous neighborhood is where all the cool and bizarre dressed up Harajuku kids go to check out other dressed up characters, street performers or fashion wannabe types. You’ll also find a variety of street music, marshal artists, free style dancers and cosplay people doing their quirky routines. It’s also fun to explore the surrounding neighborhood and streets at Omote Sando, a glamourous street lined with upscale boutique galleries.",
+            "siteName": "travelphotodiscovery.com",
+            "shortName": "20 Free Things To Do In Tokyo",
+            "indexInSource": 2,
+            "iconSiteId": 14265,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1424396",
+            "type": "webPlacesList",
+            "url": "https://tokyotreat.com/blog/5-free-attractions-in-tokyo",
+            "sourceSite": "Web",
+            "snippet": "Harajuku is known as being the hub for Japanese pop culture. Don’t worry if that doesn’t interest you too much though, Harajuku isn’t only about teen culture and shopping. One of Tokyo's major and most famous shrines, Meiji Jingu, is located just west of the Yamanote railway tracks in a large green oasis shared with the spacious Yoyogi Park, Tokyo's largest public park and a popular spot for people to escape the city.",
+            "siteName": "TokyoTreat: Japanese Candy & Snacks Subscription Boxes",
+            "shortName": "The Top 5 Free Attractions in Tokyo!",
+            "indexInSource": 3,
+            "iconSiteId": 26210,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899778",
+            "type": "webPlacesList",
+            "url": "https://www.hostelworld.com/blog/15-things-to-do-for-free-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "Every Sunday, teenagers gather in this area around Harajuku Station and show off a wide variety of styles including colourful cosplay costumes. In nearby Yoyogi Park, which is one of the city’s largest parks, you’ll see a great variety of interesting characters as you stroll through. Local bands play around the perimeter of the park, people practice martial arts, and a host of other performers entertain the crowds.",
+            "siteName": "Hostelworld Travel Blog",
+            "shortName": "15 Of The Best Free Things To Do In Tokyo",
+            "indexInSource": 5,
+            "iconSiteId": 27,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "371726",
+            "type": "webPlacesList",
+            "url": "https://www.creativetravelguide.com/free-things-to-do-in-tokyo-japan/",
+            "sourceSite": "Web",
+            "snippet": "This shopping district is a fantastic neighborhood to explore whilst you are in Tokyo. This is a bustling area, home to colorful stalls, unique boutiques, contemporary architecture, and art galleries. Of course, window shopping is always free but just exploring this neighborhood is a great way to get an idea of the quirky fashion that Japan has to offer.",
+            "siteName": "Creative Travel Guide",
+            "shortName": "15 FREE things to do in TOKYO, JAPAN",
+            "indexInSource": 4,
+            "iconSiteId": 386,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899758",
+            "type": "webPlacesList",
+            "url": "https://www.beyondmydoor.com/25-free-things-to-do-in-tokyo-japan/",
+            "sourceSite": "Web",
+            "snippet": "You can wander through the shops looking at the latest fashion or some bizarre trends. Also the second hand stores are a bizarre look in trying to understand why someone’s old college t-shirt fetches high prices. At the end of Harajuku near the bridge by the Meiji shrine folks gather (primarily on Sundays) to sport some of the latest cosplay costumes.",
+            "siteName": "Beyond my Door",
+            "shortName": "25 Free things to do in Tokyo Japan",
+            "indexInSource": 2,
+            "iconSiteId": 68798,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1076282",
+            "type": "webPlacesList",
+            "url": "https://www.helenabradbury.com/blog-1/tourist-attractions-tokyo-japan",
+            "sourceSite": "Web",
+            "snippet": "Located just a stone's throw from Harajuku Station, this vibrant district has been a hub for trendsetters since the 1960s. Start at Takeshita Street, the epicentre of Harajuku’s kawaii (cute) subculture, where shops sell everything from rainbow candy floss to outrageous outfits. While there's no entrance fee, be prepared for a shopping spree!",
+            "siteName": "Helena Bradbury",
+            "shortName": "50 Must-see Tourist Attractions in Tokyo Japan",
+            "indexInSource": 12,
+            "iconSiteId": 15727,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899748",
+            "type": "webPlacesList",
+            "url": "https://thesmartlocal.com/read/tokyo-free-activities/",
+            "sourceSite": "Web",
+            "snippet": "Take a short walk around Harajuku and you’ll notice that there are tons of people – mainly youngsters – decked out in bold outfits and colourful hair. It’s quite an unusual sight you won’t easily find elsewhere in Japan. This shopping district is basically a giant runway where people express themselves through fashion.",
+            "siteName": "TheSmartLocal - Singapore's Leading Travel and Lifestyle Portal",
+            "shortName": "21 Free Things To Do In Tokyo, Japan For Budget Travellers (2024)",
+            "indexInSource": 15,
+            "iconSiteId": 102,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1424408",
+            "type": "webPlacesList",
+            "url": "https://www.mobal.com/blog/japan/15-free-attractions-to-check-out-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "If you are into the latest Japanese youth fashion, make sure to stop by Harajuku to find several boutiques and shops that offer a wide selection of the current fashion trends. You can also find many food stores there that serve unique snacks like giant crepes and rainbow cotton candy.",
+            "siteName": "Mobal Blog",
+            "shortName": "15 FREE Attractions to Check Out in Tokyo -",
+            "indexInSource": 8,
+            "iconSiteId": 50550,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "578185",
+            "type": "webPlacesList",
+            "url": "https://www.sarahfreia.com/blog/2019/7/10/top-10-free-attractions-in-tokyo",
+            "sourceSite": "Web",
+            "snippet": "Although Harajuku is known for shopping, it’s a fun place to visit even if you don’t plan on spending any money. The sheer amounts of people crammed into the small space is interesting to see, and there’s lots of joy in spotting some of the whimsical and unique outfits people curate.",
+            "siteName": "Sarah Freia",
+            "shortName": "Top 10 Free Attractions in Tokyo",
+            "indexInSource": 1,
+            "iconSiteId": 7117,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899768",
+            "type": "webPlacesList",
+            "url": "https://voyageursintrepides.com/en/the-15-best-free-activities-in-tokyo",
+            "sourceSite": "Web",
+            "snippet": "Harajuku is Tokyo’s most famous district for kawaii fashion. Whether you’re looking for a leopard print tank top, funky contact lenses or outrageous contact lenses or outrageous accessories, you are sure to find them in Harajuku!",
+            "siteName": "- Le blog des curieux du voyage",
+            "shortName": "The 15 best free activities in Tokyo -",
+            "indexInSource": 4,
+            "iconSiteId": 16077,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "910451",
+            "type": "webPlacesList",
+            "url": "https://littlegreybox.net/49-insanely-cheap-and-free-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "16/  Dedicate some time to walking around Harajuku and just getting lost, there are some amazing hidden stores waiting to be discovered in back streets",
+            "siteName": "Little Grey Box",
+            "shortName": "49 Insanely cheap and free things to do in Tokyo",
+            "indexInSource": 11,
+            "iconSiteId": 2875,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "2358618",
+            "type": "webPlacesList",
+            "url": "https://www.japan-guide.com/forum/quereadisplay.html?0+62403",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "japan-guide.com",
+            "shortName": "Best Free Activity in Tokyo",
+            "indexInSource": 5,
+            "iconSiteId": 13919,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899090",
+            "type": "webPlacesList",
+            "url": "https://www.2aussietravellers.com/best-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": null,
+            "siteName": "2 Aussie Travellers",
+            "shortName": "50 of the best things to do in Tokyo for first time visitors",
+            "indexInSource": 0,
+            "iconSiteId": 5237,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "aSaQt0koGHff1TtpFAEhrgtK7aNe4n8A",
+          "u6aelAbU2lf2Tp8PFrU2ZZR1NFY9VDHN",
+          "WXbeFL8FpqpKrJj1Pbol4GYXQeDBVqVH",
+          "83ZNix3QlykYw1rpr76OZP2B6WJUrWay",
+          "W80evLnftkIC07uLOsgana1N17StvG3D",
+          "aSaQt0koGHff1TtpFAEhrgtK7aNe4n8A",
+          "u6aelAbU2lf2Tp8PFrU2ZZR1NFY9VDHN",
+          "WXbeFL8FpqpKrJj1Pbol4GYXQeDBVqVH",
+          "83ZNix3QlykYw1rpr76OZP2B6WJUrWay",
+          "W80evLnftkIC07uLOsgana1N17StvG3D"
+        ],
+        "openingPeriods": [],
+        "name": "Harajuku",
+        "placeId": "ChIJ5V1T5KKMGGARlTLiBrjIGUg",
+        "internationalPhoneNumber": null,
+        "reviews": [],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": null,
+        "index": 3,
+        "id": "",
+        "categories": [],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 35.669968,
+        "address": "Jingumae, Shibuya, Tokyo 150-0001, Japan",
+        "travel_time": null
+      },
+      {
+        "_id": "ChIJbWVFlTCKGGARr5l6ox-7_CA",
+        "generalDescription": "Rainbow Bridge is a stunning suspension bridge that spans Tokyo Bay, connecting Shibaura Wharf to Daiba. Opened in 1993, it serves as both a transportation route and a beloved landmark for the new Tokyo Bay area. The bridge features vibrant nighttime illumination powered by solar energy and offers a walking route along its 1.7 km length.",
+        "utcOffset": 540,
+        "maxMinutesSpent": null,
+        "longitude": 139.763144,
+        "rating": 4.5,
+        "numRatings": 3594,
+        "sources": [
+          {
+            "id": "1555073",
+            "type": "webPlacesList",
+            "url": "https://matcha-jp.com/en/5073",
+            "sourceSite": "Web",
+            "snippet": "Odaiba is a highly sought-after amusement area, distinguished by its iconic Rainbow Bridge that shines brilliantly at night. Illuminated by an array of lights, the bridge provides a captivating display while also granting a view of restaurant ships floating on the water, adorned in various colors. It is in the nighttime that the bridge truly lives up to its name as the \"rainbow bridge.\" It radiantly glows in vibrant hues, resembling the colors of a rainbow.",
+            "siteName": "MATCHA",
+            "shortName": "Tokyo: 35 Free Things to Do",
+            "indexInSource": 6,
+            "iconSiteId": 35843,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1424417",
+            "type": "webPlacesList",
+            "url": "https://www.offthetrackjapan.com/free-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "The Tokyo Rainbow Bridge is a stunning structure that spans across Tokyo Bay, connecting the city’s central district with the man-made island of Odaiba. Completed in 1993, the bridge has become an iconic landmark in Tokyo and a popular destination for tourists and locals alike. You can walk on the underside of the Rainbow Bridge for free, which in itself is a pretty unique attraction.",
+            "siteName": "Off The Track Japan",
+            "shortName": "12 FREE things to do in Tokyo",
+            "indexInSource": 3,
+            "iconSiteId": 94546,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "578134",
+            "type": "webPlacesList",
+            "url": "https://blog.japanwondertravel.com/best-free-experiences-in-tokyo-32498",
+            "sourceSite": "Web",
+            "snippet": "Along with the Odaiba Statue of Liberty, Rainbow Bridge is a symbolic structure in Odaiba that brings in visitors by the mass. This suspension bridge connects the beautiful waterfront between Odaiba and the Tokyo mainland. Unfortunately, only a few people know that you can not only take pictures of it from a distance but also walk across this landmark at no charge!",
+            "siteName": "Japan Wonder Travel Blog",
+            "shortName": "12 Best Free Experiences in Tokyo",
+            "indexInSource": 5,
+            "iconSiteId": 76,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1424408",
+            "type": "webPlacesList",
+            "url": "https://www.mobal.com/blog/japan/15-free-attractions-to-check-out-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "Extending about 800 meters across Tokyo Bay, the Rainbow Bridge is highly recommended to anyone who loves nice and scenic leisurely walks. From sunset to night time, the views of the bay and the city from it are incredible, and make for amazing photos. Walking the entire length from either the Tokyo side or the Odaiba side takes under half an hour.",
+            "siteName": "Mobal Blog",
+            "shortName": "15 FREE Attractions to Check Out in Tokyo -",
+            "indexInSource": 9,
+            "iconSiteId": 50550,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1424396",
+            "type": "webPlacesList",
+            "url": "https://tokyotreat.com/blog/5-free-attractions-in-tokyo",
+            "sourceSite": "Web",
+            "snippet": "Australia has Harbour Bridge, England has London Bridge and in 1993, Japan built their own bridge in Tokyo and named it Rainbow Bridge. You have to make sure to take a walk across the truly beautiful Tokyo Bay. The bridge is an easy walk, but be warned, you do have to share the bridge with traffic so it isn’t the quietest of walks.",
+            "siteName": "TokyoTreat: Japanese Candy & Snacks Subscription Boxes",
+            "shortName": "The Top 5 Free Attractions in Tokyo!",
+            "indexInSource": 2,
+            "iconSiteId": 26210,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "262248",
+            "type": "webPlacesList",
+            "url": "https://theplanetd.com/best-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "You probably recognize the Rainbow Bridge from the Olympics. It seems that every reporter has stood in front of its colorful lights giving us updates about our favorite athletes. Tokyo’s Rainbow Bridge has become as iconic to the Tokyo Skyline as its temples and towers.",
+            "siteName": "The Planet D: Adventure Travel Blog",
+            "shortName": "The Best Things to do in Tokyo, Japan",
+            "indexInSource": 15,
+            "iconSiteId": 1973,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "1424405",
+            "type": "webPlacesList",
+            "url": "https://tourteller.com/blog/free-things-to-do-in-tokyo/",
+            "sourceSite": "Web",
+            "snippet": "If you want to take memorable pictures with your loved one, head to the Rainbow Bridge. This bridge spans Tokyo Bay to connect the Shibaura Pier and Odaiba. It looks impressive at night, illuminated in rainbow lights, making it perfect for night photography.",
+            "siteName": "TourTeller Blog",
+            "shortName": "Free Things to Do in Tokyo 2025",
+            "indexInSource": 2,
+            "iconSiteId": 13028,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          },
+          {
+            "id": "899768",
+            "type": "webPlacesList",
+            "url": "https://voyageursintrepides.com/en/the-15-best-free-activities-in-tokyo",
+            "sourceSite": "Web",
+            "snippet": "Its symbol, the Rainbow Bridge, shines brightest at night: it is covered with all kinds of lights, and lights, and you can watch the restaurant boats floating on the water lit up in different colors.",
+            "siteName": "- Le blog des curieux du voyage",
+            "shortName": "The 15 best free activities in Tokyo -",
+            "indexInSource": 2,
+            "iconSiteId": 16077,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [
+          "VMivq5mchLqahlv5ZQaCDfVNTgwVEKyo",
+          "Yh5Y7kuxBM9FVVFTH42WtQKgW9hdAxIS",
+          "cDgRF5Vd4eeTOeiEWA61Mu2I8dtHrUgb",
+          "EqZhjbk77OfSrBohQATJP6kBPNRGadSk",
+          "OJMALjyDahJW1FplpNNsrvAxyGp9C5wo",
+          "VMivq5mchLqahlv5ZQaCDfVNTgwVEKyo",
+          "Yh5Y7kuxBM9FVVFTH42WtQKgW9hdAxIS",
+          "cDgRF5Vd4eeTOeiEWA61Mu2I8dtHrUgb",
+          "EqZhjbk77OfSrBohQATJP6kBPNRGadSk",
+          "OJMALjyDahJW1FplpNNsrvAxyGp9C5wo"
+        ],
+        "openingPeriods": [],
+        "name": "Rainbow Bridge",
+        "placeId": "ChIJbWVFlTCKGGARr5l6ox-7_CA",
+        "internationalPhoneNumber": "+81 3-5463-0223",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "The Rainbow Bridge in Tokyo is a stunning architectural marvel and a must-see attraction. Spanning Tokyo Bay, it offers breathtaking views, especially at night when it's beautifully illuminated. Whether you're walking, driving, or taking a boat tour, the bridge provides a unique perspective of the city's skyline. The pedestrian walkways are perfect for a leisurely stroll with picturesque scenes, making it a favorite spot for both locals and tourists. Highly recommended for anyone visiting Tokyo!",
+            "author_name": "Pragash Y",
+            "relative_time_description": "",
+            "time": 1722123300,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "This is definitely something to see the bridge itself looks stunning specially at night when the lights turn on, do keep in mind that if it's not a holiday, the lights will only shine in white or purple. Otherwise, if it's a holiday, it will be a rainbow color. I recommend taking pictures of it or watching it from the Statue of Liberty.",
+            "author_name": "Oskar Vovčak",
+            "relative_time_description": "",
+            "time": 1743081872,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "I was staying in Odaiba, and walking across the promenade of the rainbow bridge was an amazing way to get to the Tokyo tower.\nThe bridge is a great design and is a real focus point of the surrounding area.\nIt's great to look at it, but if you get the chance, I would definitely recommend walking across.",
+            "author_name": "Steve",
+            "relative_time_description": "",
+            "time": 1748248363,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": "https://www.shutoko.jp/fun/lightup/rainbowbridge/",
+        "index": 4,
+        "id": "",
+        "categories": [
+          "Bridge",
+          "Sights & Landmarks"
+        ],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 43,
+            "2": 36,
+            "3": 308,
+            "4": 954,
+            "5": 2259
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 35.636564,
+        "address": "Minato City, Tokyo 105-0000, Japan",
+        "travel_time": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 47,
+  "city": "Koto",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163840",
+  "title": "The 26 most romantic places in Koto",
+  "final_title": "Romantic Escapes in Koto's Heart",
+  "from_cache": false,
+  "counts": {
+    "meta": 26,
+    "blocks": 26,
+    "merged": 26,
+    "accepted_before_trim": 25,
+    "rejected": 1,
+    "accepted_final": 15
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "807",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\japan_20251001_1149\\koto_romantic-places_163840.json",
+    "report_json": "publish_playlist\\japan_20251001_1149\\koto_romantic-places_163840.report.json"
+  },
+  "created_ts": 1759306756
+}

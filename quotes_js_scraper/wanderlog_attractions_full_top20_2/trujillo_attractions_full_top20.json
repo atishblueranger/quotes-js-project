@@ -1,0 +1,1782 @@
+[
+    {
+        "placeId": "ChIJaS5Q6iCjFQ0R98B3ILSbAr4",
+        "website": null,
+        "index": 1,
+        "utcOffset": 120,
+        "longitude": -5.88139,
+        "latitude": 39.460608,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Upon entering Plaza Mayor in the heart of Trujillo, it's like being transported back to the 15th century. The well-preserved churches, the impressive Moorish castle, and the imposing statue of Peruvian conquistador Francisco Pizarro all contribute to this feeling. The narrow cobblestone streets add to the ambiance, making it easy to imagine what life was like in this town when it was first named by King Juan II of Castilla in 1430.",
+        "imageKeys": [],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Plaza Mayor",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Town square"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJTxcvuiCjFQ0R2VgUFVYf7MM",
+        "website": null,
+        "index": 2,
+        "utcOffset": 120,
+        "longitude": -5.882076,
+        "latitude": 39.461072,
+        "rating": 3.5,
+        "excerpt": null,
+        "detail_description": "The Torre del Alfiler is a historic defensive tower dating back to the Muslim era, originally part of the castle walls. It features a metal rod in its dome and beautiful Talavera tiles added for defense. This Gothic tower is a distinctive symbol in Trujillo's skyline and was later transformed into the keep of a fortified palace. Today, it houses a visitor center focused on local and regional history, offering insights into different stages of Trujillo's past.",
+        "imageKeys": [
+            "z81uK5CZSz2hxESC34NzBBlpuKFqRAgt",
+            "TrwF2exnXH2lPfHN0FO286fbSYLYIsj5",
+            "YsUlej6hHngpg9HMzbro2DvelePz1K2L"
+        ],
+        "ratingCount": 52,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Torre del Alfiler",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "C. Ballesteros, 7, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Cultural center"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 8,
+                "2": 4,
+                "3": 10,
+                "4": 13,
+                "5": 17
+            }
+        }
+    },
+    {
+        "placeId": "ChIJcTezQSejFQ0RWGq4U4ctJNU",
+        "website": "https://iglesiasdetrujillo.com/",
+        "index": 3,
+        "utcOffset": 120,
+        "longitude": -5.884572,
+        "latitude": 39.460673,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Santa María La Mayor, also known as Iglesia de Santa Maria la Mayor, is an ancient Catholic church in Trujillo that beautifully combines various historical and architectural influences. Originally a Visigothic temple, it was transformed into a mosque during Muslim rule before becoming a Christian church. The building's Gothic architecture showcases the intricate craftsmanship influenced by its diverse history.",
+        "imageKeys": [
+            "Finte2yTVPQldtpuyCdi99tDwAAvhLuh",
+            "Y5BbyusFsceb4B4Zq9dn5hQKwcch7mbp",
+            "FBSBIgBc47h8tUJt9IZETesdjksn7nJr",
+            "NrhMUIyB3Ve4ookkdbEDANYEawv2VvMt",
+            "h5wfUv0To8u6M8VULzQ9G2HuhfeYhP3w"
+        ],
+        "ratingCount": 688,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Santa María La Mayor",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+34 927 32 02 11",
+        "address": "C. Sta. María, 17, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Catholic church",
+            "Sights & Landmarks",
+            "Monument",
+            "Churches & Cathedrals"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 16,
+                "2": 5,
+                "3": 50,
+                "4": 201,
+                "5": 415
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ39KVxyCjFQ0RE6Rq4bpAtgg",
+        "website": null,
+        "index": 4,
+        "utcOffset": 120,
+        "longitude": -5.882157,
+        "latitude": 39.460742,
+        "rating": 4.3,
+        "excerpt": "Casual outpost offering Spanish cooking & tapas plates alongside specialty cocktails & wine.",
+        "detail_description": "Gloss Gin Club is a trendy spot in town, offering Spanish tapas plates and specialty cocktails. It's located on the bar-lined Calle Sillerias, making it a great stop during a night out. The club features various spaces, but the highlight is its terrace with stunning views of the floodlit castle. The indoor/outdoor wine and gin bar, housed in a stone building, provides an enjoyable experience. Visitors praise the delicious tapas and recommend trying the jar and toasted bread.",
+        "imageKeys": [
+            "q52JwxnP0kpK1YC0In7XRe6agp82hSEa",
+            "q6vb8AqehGbxJerzX1zYQyv1ovsf18AU",
+            "kUB9TfOfDerUS35MZ0TdQwziokQ1fBGj",
+            "FJMnvsJTuiylvPSDJjblL4iAkL2FD9Lg"
+        ],
+        "ratingCount": 366,
+        "openingPeriods": [],
+        "name": "Gloss Gin Club",
+        "permanentlyClosed": true,
+        "priceLevel": 2,
+        "phone": "+34 666 89 92 66",
+        "address": "Pl. Mayor, 10D, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Gastropub"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 27,
+                "2": 7,
+                "3": 31,
+                "4": 83,
+                "5": 218
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ1W9QhiGjFQ0RHvL5FonxE2g",
+        "website": "https://iglesiasdetrujillo.com/",
+        "index": 5,
+        "utcOffset": 120,
+        "longitude": -5.881111,
+        "latitude": 39.461111,
+        "rating": 4.1,
+        "excerpt": null,
+        "detail_description": "Iglesia San Martín de Tours, located in Trujillo's Plaza Mayor, is a significant 14th-century building with a solemn and austere appearance. It served as the meeting place of the Trujillo Council and holds great civic interest. The interior features the prominent Virgen de la Coronada and numerous tombstones on the floor due to the absence of a cemetery until the 16th century.",
+        "imageKeys": [
+            "laeWypLv6aAdozea3lz0o2IpBzAfpBVM",
+            "O3F8VZA3jcEFPBBxqbTHkoQ5Kzk3dJUm",
+            "009Oxz76epl0vS93DgwbEmnhGlOplo8i",
+            "tnhrLr7TnR778xu6gabZJzYbUzvofRvd"
+        ],
+        "ratingCount": 126,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1930"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1930"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Iglesia San Martín de Tours",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+34 927 32 00 38",
+        "address": "Pl. Mayor, 0, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Catholic church",
+            "Sights & Landmarks",
+            "Churches & Cathedrals"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 13,
+                "2": 0,
+                "3": 6,
+                "4": 46,
+                "5": 64
+            }
+        }
+    },
+    {
+        "placeId": "ChIJj8ovOCCjFQ0RYeFyVUEE_WM",
+        "website": null,
+        "index": 6,
+        "utcOffset": 120,
+        "longitude": -5.876728,
+        "latitude": 39.458293,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Trujillo may not be the most talked-about destination, but it's a hidden gem in Extremadura. Despite the lack of hype on platforms like Trip Advisor, this town has a lot to offer. From historical sites to delicious local cuisine, Trujillo is worth exploring. Whether you're into architecture or just want to immerse yourself in a charming Spanish town, Trujillo won't disappoint.",
+        "imageKeys": [
+            "QOAGNbfGSsa32nXrGCzyubrPpI23IQLD",
+            "HtEUeDbaxe1AKscf6MlG9rh0eUhmu2wu",
+            "V0M23vtWduKU2R3QHK72wALvRJxo7Dce",
+            "GSqYByguZRmfIZEjIkIqOB4GHCQEQ8wx",
+            "3Vz0xEh2rYnwIMRCZLkAsa4m9thXT1fh"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Trujillo",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Cáceres, Spain",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJKeNbZyejFQ0RoSpWa4adHO0",
+        "website": null,
+        "index": 7,
+        "utcOffset": 120,
+        "longitude": -5.884182,
+        "latitude": 39.461346,
+        "rating": 3.9,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "qwWfnqY1qj9AsKz6IkMprp9e5r2Hzlt3",
+            "lSoVdd8piMKeippQO8cnj9gZUBLQcneR",
+            "9ZAiup25dc85LgKEzWLmVPfzLceG5CBy"
+        ],
+        "ratingCount": 225,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1630"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "name": "Pizarro House Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+34 927 32 26 77",
+        "address": "Calleja del Castillo, 1, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Museum",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 13,
+                "2": 10,
+                "3": 46,
+                "4": 76,
+                "5": 81
+            }
+        }
+    },
+    {
+        "placeId": "ChIJQX4vlSCjFQ0RrI_KYjrNkUY",
+        "website": "https://www.guiaturismotrujillo.com/",
+        "index": 8,
+        "utcOffset": 120,
+        "longitude": -5.88142,
+        "latitude": 39.460808,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "The origins of Trujillo can be traced back to the ancient settlement known as Turgalium. After being occupied by both Romans and Visigoths, Trujillo came under Arabic rule for more than five centuries, during which it witnessed significant progress. Later, in 1232, it was conquered by King Fernando III and became a Christian territory. In 1430, Trujillo was granted the status of a city by King Juan II.",
+        "imageKeys": [
+            "uaw4YR1AkBSlHgXN7XuIHf29HGVK1EtE",
+            "Avd6fIW75BFQikklAAjHbm6VvimZfUoN",
+            "xpXKnUimxA5z9YJH3DOcH0YBu35BveZi"
+        ],
+        "ratingCount": 208,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Francisco Pizarro Equestrian Monument",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Pl. Mayor, 14, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Historical landmark",
+            "Sights & Landmarks",
+            "Monuments & Statues"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 1,
+                "3": 9,
+                "4": 34,
+                "5": 160
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ9223FSGjFQ0RJQrs7Bod3iM",
+        "website": "https://trujilloteespera.com/",
+        "index": 9,
+        "utcOffset": 120,
+        "longitude": -5.882535,
+        "latitude": 39.462117,
+        "rating": 4.5,
+        "excerpt": "Landmark, medieval Moorish stone defense fortress, with 8 towers & a horseshoe arch.",
+        "detail_description": "Trujillo Alcazaba, also known as Trujillo Castle, is a medieval Moorish stone fortress with 8 towers and a horseshoe arch. Situated at the top of a granite hill in the city, it was built between the 9th and 12th centuries over an Arab citadel. The castle offers panoramic views of dusty plains dotted with smaller castle ruins and ancient walls. It has gained popularity as one of the filming locations for Game of Thrones.",
+        "imageKeys": [
+            "ftxGTsf6CfZ4L7KMwg9qpBNLt8hY8q7P",
+            "3WG7fxzU7kZqlGwIxUANyWttDPcHEr6R",
+            "w7uC0tyx5lrXEkplZOk6lNjezDXjwfDl",
+            "6u3arlI8LMv6hf4ZodEekIQbeOYJ4EKp"
+        ],
+        "ratingCount": 2887,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1945"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1945"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1945"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1945"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1945"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1945"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1400"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1945"
+                }
+            }
+        ],
+        "name": "Trujillo Alcazaba",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+34 927 32 26 77",
+        "address": "Pl. del Castillo, 1, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Castle",
+            "Sights & Landmarks",
+            "Ancient Ruins"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 45,
+                "2": 26,
+                "3": 164,
+                "4": 796,
+                "5": 1858
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ_6giuESjFQ0RK2bBXqUIdMo",
+        "website": null,
+        "index": 10,
+        "utcOffset": 120,
+        "longitude": -5.88404,
+        "latitude": 39.459942,
+        "rating": 3.9,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "BghjBfo2xabN8dUp8eGLXOeYYO1LLXjg",
+            "bZtPZco3Naz7tdckUz7fncIlTov34L69",
+            "XnlunhEuvx8UufGcDGj2Ot8JnDSV5Hpn"
+        ],
+        "ratingCount": 19,
+        "openingPeriods": null,
+        "name": "Aljibe de Los Altamirano",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "C. de la Victoria, 7, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Historical landmark",
+            "Sights & Landmarks",
+            "Historic Sites"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 3,
+                "2": 1,
+                "3": 2,
+                "4": 2,
+                "5": 11
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ34MJBHajFQ0R0WU6hg0hZ0A",
+        "website": null,
+        "index": 11,
+        "utcOffset": 120,
+        "longitude": -5.882631,
+        "latitude": 39.460531,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "XXuia9Hr8pATr39peK771O6CuORAu0AL",
+            "7mCLUDWSHIqOeMgoVfMGVJuQdJIZfuWA",
+            "8AWg4KaBdpEGkKG44LmFJggfM9rDrDCD",
+            "CEqzpg2PKgUVz5zgF0KjDCMxQGJTLcfO"
+        ],
+        "ratingCount": 12,
+        "openingPeriods": null,
+        "name": "Casa-Fuerte de Luis de Chaves \"El Viejo\"",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Calle Cuesta de la Sangre, 2, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Castle"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 5,
+                "5": 7
+            }
+        }
+    },
+    {
+        "placeId": "ChIJOaqGAyejFQ0RbQKOfxbb7RE",
+        "website": null,
+        "index": 12,
+        "utcOffset": 120,
+        "longitude": -5.884857,
+        "latitude": 39.459588,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "La Alberca is a charming destination with a rich history and friendly locals. The town offers a glimpse into a different way of life, showcasing well-preserved architecture and clean streets. Visitors can explore the old part of the city on foot, taking in beautiful alleys and scenic views.",
+        "imageKeys": [
+            "Mtr6Hf1DDna3TCsleskCElGOTiGiXdK0",
+            "Iud4X3b5AhUOMAv39jzMAW01uWRubD4s",
+            "RsTxrGpns7Vf3qFCEpIfqzVw4EdLANzI",
+            "AQ1aeIvRNXlWN2srizGMENIi15rTHXwy"
+        ],
+        "ratingCount": 543,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "La Alberca",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "C. Alberca, 3, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Scenic spot"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 9,
+                "2": 7,
+                "3": 45,
+                "4": 157,
+                "5": 325
+            }
+        }
+    },
+    {
+        "placeId": "ChIJydjkySCjFQ0RxHOVy9dbT9w",
+        "website": null,
+        "index": 13,
+        "utcOffset": 120,
+        "longitude": -5.8825,
+        "latitude": 39.460684,
+        "rating": 4,
+        "excerpt": null,
+        "detail_description": "The Main Houses of Los Chaves Sotomayor, a historical site with facades dating back to 1486, feature a corridor-style frontage adorned with ogival arches resting on sturdy pillars embellished with botanical designs. This scenic spot showcases architectural grandeur and intricate decorative elements, offering visitors a glimpse into the past.",
+        "imageKeys": [
+            "0ChgOC3kiPn5C1JCw56cSMXjE4tY0PUJ",
+            "RVrr61e0gDf9wAsXCbBZ3ofkMiqe1HWD",
+            "OKB5jGxnzrRC580AoE3zDaa2hj0BJEQy",
+            "PWrTUHqZBJpLMW5cAI4R8linG9HNTQzy"
+        ],
+        "ratingCount": 1,
+        "openingPeriods": [],
+        "name": "Casas Principales de Los Chaves Sotomayor",
+        "permanentlyClosed": true,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Calle Cuesta de la Sangre, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Scenic spot",
+            "Sights & Landmarks",
+            "Architectural Buildings",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJO8S37yCjFQ0RPC2_EigLO_w",
+        "website": null,
+        "index": 14,
+        "utcOffset": 120,
+        "longitude": -5.880976,
+        "latitude": 39.460271,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "The Palacio de los Orellana Toledo, constructed by Pedro Suarez de Toledo in approximately 1550, is a remarkable tourist attraction in Trujillo. This historical site boasts an impressive frontage featuring two arcaded galleries. Notably, the lower market gallery provided shelter to traders who showcased their merchandise every Thursday in the central square.",
+        "imageKeys": [
+            "sren4WMKEeU9M0H2S313BRizMiIaN1lP",
+            "DkvHbR9kd64GTmU61DbHzmj1reFsPoGR",
+            "o83IzPzQiQUTYwtLXpNh0n0UR2yswUAs",
+            "73KHXWSAJM28nFJPgaCKgGGTF6csYjSL"
+        ],
+        "ratingCount": 6,
+        "openingPeriods": [],
+        "name": "Palacio de los Orellana Toledo",
+        "permanentlyClosed": true,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Pl. Mayor, 30, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Sights & Landmarks",
+            "Monuments & Statues"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 5
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ1V4sdiejFQ0RPPeoA__vUZM",
+        "website": null,
+        "index": 15,
+        "utcOffset": 120,
+        "longitude": -5.885488,
+        "latitude": 39.461035,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "AjkGMrhhBjL6B1FqpjwYR3ZgDC8KPOfh",
+            "AtF6KKYrpNqWwu2UM5OYkRplJ3qBP4Rx",
+            "PuEY4Ubu700znd7uMXKNZCd6xwS4bOh2",
+            "8ItcwC9IssNtXcXb2rJ6UlJY78d8SbZX"
+        ],
+        "ratingCount": 17,
+        "openingPeriods": null,
+        "name": "Monasterio San Francisco el Real de la Coria",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "C. Prta de La Coria, 6, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Monastery",
+            "Museums",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 4,
+                "5": 13
+            }
+        }
+    },
+    {
+        "placeId": "ChIJO8Jy4CajFQ0RhgV0uYLH0fI",
+        "website": null,
+        "index": 16,
+        "utcOffset": 120,
+        "longitude": -5.884338,
+        "latitude": 39.459342,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "The Puerta de San Andrés is an extraordinary gateway in Trujillo's historic center that offers a glimpse into the past. This perfectly preserved gem showcases Muslim-style architecture and serves as one of the entrances to the walled enclosure. It connects with the charming street of battlements, adding to its historical significance. Visitors are recommended to explore this fascinating spot, which provides a rich dose of history and an enjoyable experience.",
+        "imageKeys": [
+            "fwniHBv3oBHY1vGkIfsIwOWEJUCVSjRO",
+            "eKqEKvR6nb3lRTwjXLgGDG16obsKQHje",
+            "rS9a9tVVTDacHlHeHss1eImVIRJfnLRo",
+            "saQtYmWOD20zYoILlUzQzIoOis5gCM4W"
+        ],
+        "ratingCount": 47,
+        "openingPeriods": null,
+        "name": "Puerta de San Andrés",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "C. Cta. de San Andrés, 16, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Historical landmark",
+            "Sights & Landmarks",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 6,
+                "4": 12,
+                "5": 29
+            }
+        }
+    },
+    {
+        "placeId": "ChIJOVzzVVmiFQ0RSor_DF0Zk6s",
+        "website": "http://www.bodegashabla.com/",
+        "index": 17,
+        "utcOffset": 120,
+        "longitude": -5.868571,
+        "latitude": 39.401076,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Bodegas Habla is a cutting-edge luxury winery located in the village of Trujillo, Extremadura. Despite being situated in a rural region known for its ancient Roman and medieval cities, this avant-garde winery stands out with its modern facilities and 200 hectares of vineyards. Visitors can enjoy tasting tours and even host events like weddings at the extensive facility.",
+        "imageKeys": [
+            "0Mem88QujFzTtopsOJAcyvsRfnsQM8T1",
+            "tDXYXYtgyPKXOWNG5Midnv6v2HVfr23m",
+            "rip7YcxRl8fAutRMANLYh6JlDtLqRPwO"
+        ],
+        "ratingCount": 430,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Bodegas Habla",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+34 927 65 91 80",
+        "address": "Autovía del Suroeste, km 259, 10200, Cáceres, Spain",
+        "types": [
+            "Winery",
+            "Food & Drink",
+            "Wine store",
+            "Wineries & Vineyards"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 30,
+                "2": 9,
+                "3": 23,
+                "4": 68,
+                "5": 303
+            }
+        }
+    },
+    {
+        "placeId": "ChIJHZl69q8raw0RsHz6ClxHi68",
+        "website": null,
+        "index": 18,
+        "utcOffset": 120,
+        "longitude": -5.039252,
+        "latitude": 39.157165,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "ERwe6q2ZqUiPdUkAAmqmFq217wwPP9o2",
+            "Vk7iqCEPfCqQHxH27fmbs1KF6SAHzIV6"
+        ],
+        "ratingCount": null,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Mirador del Puerto del Castillo",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "06630 Puebla de Alcocer, Badajoz, Spain",
+        "types": [
+            "Observation deck"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJlSx_jsWjFQ0RWxdxZBf7Re4",
+        "website": "https://planetario.ceta-ciemat.es/",
+        "index": 19,
+        "utcOffset": 120,
+        "longitude": -5.881281,
+        "latitude": 39.458521,
+        "rating": 3.7,
+        "excerpt": null,
+        "detail_description": "Planetario de Trujillo is a place that promotes scientific learning and curiosity about the unknown. It offers an exciting experience for families and children with educational and entertaining films suitable for all ages. Visitors can enjoy lying down and watching the sky while being guided by friendly staff. The planetarium provides a fun and recommended opportunity to explore space and science, making it a highly enjoyable experience for both kids and adults alike.",
+        "imageKeys": [
+            "jZz43eiGg4MGm1HfgPlAOwODcefueyha",
+            "VRauUTjGk4dYVc6qO9BAgsBabqU5yQNW",
+            "WEZTfL6Yw8zfFCyUEaKpsOZcZcI6i4nX"
+        ],
+        "ratingCount": 30,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1330"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Planetario de Trujillo",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+34 927 32 26 77",
+        "address": "Conventual de San Francisco, C. Sola, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Planetarium",
+            "Museums",
+            "Observatories & Planetariums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 8,
+                "2": 0,
+                "3": 2,
+                "4": 2,
+                "5": 18
+            }
+        }
+    },
+    {
+        "placeId": "ChIJt54iNiejFQ0RTTbnLtwgTNc",
+        "website": null,
+        "index": 20,
+        "utcOffset": 120,
+        "longitude": -5.882631,
+        "latitude": 39.460531,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "The Casa-Fuerte de Luis de Chaves \"El Viejo\" castle, situated in a strategic location, is an imposing fortification constructed by Luis de Chaves \"El Viejo.\" This grand structure was built using strong materials, showcasing its durability and strength. The fortress offers impressive panoramic views of the surrounding landscape. It stands as a testament to the architectural prowess of its creator and serves as a symbol of power and authority.",
+        "imageKeys": [
+            "GLGCUrxPrNODcMpIJdaHjwo8bylYxca1",
+            "FEvMmXGOGaWMOkkmacV9BFxJpNG0Mmpy",
+            "c5uvlGRyEcnKdvKwAdT2oPgoD6dETurp"
+        ],
+        "ratingCount": 12,
+        "openingPeriods": null,
+        "name": "Casa-Fuerte de Luis de Chaves \"El Viejo\"",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Calle Cuesta de la Sangre, 2, 10200 Trujillo, Cáceres, Spain",
+        "types": [
+            "Castle",
+            "Sights & Landmarks",
+            "Historic Walking Areas",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 5,
+                "5": 7
+            }
+        }
+    }
+]

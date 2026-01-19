@@ -1,0 +1,35 @@
+{
+  "job_index": 47,
+  "city": "Funchal",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164114",
+  "title": "The 20 most romantic places in Funchal",
+  "final_title": "Romantic Escapes in Funchal's Gardens",
+  "from_cache": false,
+  "counts": {
+    "meta": 20,
+    "blocks": 20,
+    "merged": 20,
+    "accepted_before_trim": 20,
+    "rejected": 0,
+    "accepted_final": 12
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "1023",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\germany_20251003_0018\\funchal_romantic-places_164114.json",
+    "report_json": "publish_playlist\\germany_20251003_0018\\funchal_romantic-places_164114.report.json"
+  },
+  "created_ts": 1759439488
+}

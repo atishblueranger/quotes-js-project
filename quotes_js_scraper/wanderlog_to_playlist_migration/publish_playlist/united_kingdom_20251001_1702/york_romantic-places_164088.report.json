@@ -1,0 +1,35 @@
+{
+  "job_index": 23,
+  "city": "York",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164088",
+  "title": "The 46 most romantic places in York",
+  "final_title": "Whispers of Love in Historic York",
+  "from_cache": false,
+  "counts": {
+    "meta": 46,
+    "blocks": 46,
+    "merged": 46,
+    "accepted_before_trim": 46,
+    "rejected": 0,
+    "accepted_final": 28
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "869",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\united_kingdom_20251001_1702\\york_romantic-places_164088.json",
+    "report_json": "publish_playlist\\united_kingdom_20251001_1702\\york_romantic-places_164088.report.json"
+  },
+  "created_ts": 1759323254
+}

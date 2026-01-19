@@ -1,0 +1,35 @@
+{
+  "job_index": 1,
+  "city": "Bhopal",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160353",
+  "title": "The 24 best photo spots in Bhopal",
+  "final_title": "Bhopal's Picture-Perfect Moments Await",
+  "from_cache": false,
+  "counts": {
+    "meta": 24,
+    "blocks": 24,
+    "merged": 24,
+    "accepted_before_trim": 20,
+    "rejected": 4,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 22,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "619",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\bhopal_20250928_1340\\bhopal_photo-spots_160353.json",
+    "report_json": "publish_playlist\\bhopal_20250928_1340\\bhopal_photo-spots_160353.report.json"
+  },
+  "created_ts": 1759047854
+}

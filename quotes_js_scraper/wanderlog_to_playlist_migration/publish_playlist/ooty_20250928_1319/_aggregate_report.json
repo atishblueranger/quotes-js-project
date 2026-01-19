@@ -1,0 +1,99 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759045768,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\ooty_20250928_1319\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 1,
+      "city": "Ooty",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97387",
+      "title": "The 17 best architecture in Ooty (Udhagamandalam)",
+      "final_title": "Architectural Wonders of Ooty",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 17,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "617",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\ooty_20250928_1319\\ooty_architecture_97387.json",
+        "report_json": "publish_playlist\\ooty_20250928_1319\\ooty_architecture_97387.report.json"
+      },
+      "created_ts": 1759046420
+    },
+    {
+      "job_index": 0,
+      "city": "Ooty",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160352",
+      "title": "The 28 best photo spots in Ooty (Udhagamandalam)",
+      "final_title": "Ooty's Picture-Perfect Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 26,
+        "rejected": 2,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "618",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\ooty_20250928_1319\\ooty_photo-spots_160352.json",
+        "report_json": "publish_playlist\\ooty_20250928_1319\\ooty_photo-spots_160352.report.json"
+      },
+      "created_ts": 1759047465
+    }
+  ],
+  "end_ts": 1759047465,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 20,
+    "llm_title_calls": 2,
+    "google_places_calls": 29,
+    "cache_hits": 2,
+    "cache_misses": 53
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 20,
+    "llm_title_cache": 2,
+    "google_places_cache": 29,
+    "mobx_data_cache": 2
+  }
+}

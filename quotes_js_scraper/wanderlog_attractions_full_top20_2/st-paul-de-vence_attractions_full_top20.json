@@ -1,0 +1,1587 @@
+[
+    {
+        "placeId": "ChIJncMLKOzSzRIRdPxNdymVLqE",
+        "website": "https://www.facebook.com/Caf%C3%A9-De-La-Place-115151891870858/",
+        "index": 1,
+        "utcOffset": 120,
+        "longitude": 7.121579,
+        "latitude": 43.698321,
+        "rating": 3.3,
+        "excerpt": null,
+        "detail_description": "Café de la Place is a charming and traditional French brasserie that offers a nostalgic atmosphere, making visitors feel like they've stepped back in time. It's an authentic cafe with a basic menu, offering mainly meat-based options along with some vegetarian choices like paninis and salads. The ambiance is perfect for enjoying a leisurely lunch or just sipping on a drink while soaking in the surroundings.",
+        "imageKeys": [
+            "hqdAUtr1sf6o0oSEgKDSwAhezJaLPU7n",
+            "0O2u5B5Jf9ZAOfP3jSfp3aUoBTxZ4ccG",
+            "wDAkuhzcyytnoMNyTRnlVBK96DRrLu8P",
+            "c4tg6SIbW4sQA6yxQ0pzdY5MSJ0EBVh1",
+            "Bfayg68xUh35wHsqrhgYkjfEUynSYPEl"
+        ],
+        "ratingCount": 936,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Café de la Place",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 93 32 80 03",
+        "address": "Place du Général de Gaulle, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Cafe",
+            "Bar",
+            "Brewery"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 234,
+                "2": 86,
+                "3": 124,
+                "4": 196,
+                "5": 296
+            }
+        }
+    },
+    {
+        "placeId": "ChIJt2sJxOvSzRIRUwnVhsrtGNc",
+        "website": "https://www.fondation-maeght.com/",
+        "index": 2,
+        "utcOffset": 120,
+        "longitude": 7.114874,
+        "latitude": 43.700717,
+        "rating": 4.6,
+        "excerpt": "Hilltop museum & sculpture garden housing works by 20th-century artists like Calder, Miró & Chagall.",
+        "detail_description": "Located just a short distance from the historic town center of Saint-Paul-de-Vence, Fondation Maeght is a hilltop museum and sculpture garden that showcases an impressive collection of 20th-century artworks by renowned artists such as Calder, Miró, and Chagall.",
+        "imageKeys": [
+            "FlOEvWkhfY8nr3t1xwayWHNkbvgCE4Xc",
+            "qVAYdJ3uaoI69MEcClquco5YuwQmiRf3",
+            "z07SgilgIh75vFfGiLA50ab13qgcYtLy",
+            "Ke9XNhxSBsU1D7OaIiBjJKZGh5qtjkhu",
+            "Csgh0i12FG64FfiHZlzgdYu0c7fJUmkT"
+        ],
+        "ratingCount": 3177,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Fondation Maeght",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 93 32 81 63",
+        "address": "623 Chem. des Gardettes, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Art museum",
+            "Museums",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 66,
+                "2": 50,
+                "3": 126,
+                "4": 497,
+                "5": 2450
+            }
+        }
+    },
+    {
+        "placeId": "ChIJG6TaC-bSzRIR8JeX_aUZCAQ",
+        "website": null,
+        "index": 3,
+        "utcOffset": 120,
+        "longitude": 7.122138,
+        "latitude": 43.696973,
+        "rating": null,
+        "excerpt": "Saint-Paul-de-Vence is a commune in the Alpes-Maritimes department in the Provence-Alpes-Côte d'Azur region of Southeastern France. Wikipedia.",
+        "detail_description": "Saint-Paul-de-Vence is a charming commune in the Provence-Alpes-Côte d'Azur region of Southeastern France, offering a perfect day trip away from the French Riviera. This ancient village embodies Provencal stereotypes with its picturesque scenery, old men playing petanque, beautiful views, and art galleries. Nearby towns like Vence and Saint Jeannet add to the allure of the area.",
+        "imageKeys": [
+            "JbRK1V1i4S06XsDEcPgbMWCMRYxtNKUB",
+            "dZvx1Y2sFDsNRbKED7NUFMJyT5v3BgoZ",
+            "i45i1DgQPHLJQWU1tiJizqclHW1SqKxk",
+            "7YZ578z5m62LrjVvoTnngprbVL9I7QwK",
+            "ppeX3m3MX2jYLfIz129ZIa1yR41FcZQt"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "St Paul de Vence",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "France",
+        "types": [
+            "Sights & Landmarks",
+            "Historic Walking Areas"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ6VPd9-7SzRIRhgJy_VxrxG8",
+        "website": null,
+        "index": 4,
+        "utcOffset": 120,
+        "longitude": 7.12225,
+        "latitude": 43.696332,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Rue Grande is a charming and bustling street located in the heart of a vibrant city. It is lined with an eclectic mix of shops, cafes, and restaurants, offering a wide variety of local and international goods and cuisine. The street is known for its lively atmosphere and is a popular destination for both locals and tourists alike. Visitors can stroll along the cobblestone pavement, taking in the sights and sounds of this dynamic area.",
+        "imageKeys": [
+            "1hBJ4t4sUA2u97VIXizvr77xtaQGCm8H",
+            "IwfK1yACNOd9EQ2YuNvpoY51XU0LHEkY",
+            "TjprNXibnvMHtq4TkTVaBJRzMqlxRjDp",
+            "82zaqeqs1Onf6jcA3vNHl7f8t3udTscG",
+            "D0Mk8VAoTU7JiEQ4G5F5IVvuXJNHf93f"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Rue Grande",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "06570 Saint-Paul-de-Vence, France",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ2Zv9vO_SzRIRmn8hYuCNqSM",
+        "website": "http://www.saintpauldevence.org/",
+        "index": 5,
+        "utcOffset": 120,
+        "longitude": 7.123403,
+        "latitude": 43.694093,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Saint Paul de Vence Cemetery is a significant attraction in the charming town of Saint-Paul-de-Vence, located in the south of France, Provence. The cemetery is the final resting place of renowned artists and figures such as Marc Chagall, who resided in the French Riviera from the late 1940s until his passing.",
+        "imageKeys": [
+            "HUspPeHtbWKW7Vg7lXhAU8XsEUGkLkoo",
+            "uiN95XjHM3nYqY2EocDwHl41kGLwkMPZ",
+            "TaZJlNYPDwxymJV2L0uEH2HgVQqLSi5n",
+            "MXEVHyL8BUf7PGCZOyELfst0ruLOUQAB"
+        ],
+        "ratingCount": 75,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1830"
+                }
+            }
+        ],
+        "name": "Saint Paul de Vence Cemetery",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 93 32 41 00",
+        "address": "Chem. de Nice, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Cemetery"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 2,
+                "3": 6,
+                "4": 17,
+                "5": 49
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ3Rxl8e7SzRIReRbXNVYhK3U",
+        "website": null,
+        "index": 6,
+        "utcOffset": 120,
+        "longitude": 7.122071,
+        "latitude": 43.696542,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Fontaine de Saint-Paul-de-Vence is a charming and historic fountain located in the heart of the French village. Dating back to 1615, this Provencal-style fountain adds to the picturesque setting of cobbled lanes and stone dwellings. The fountain, redesigned in the 19th century, features a sculpture with four spouts pouring water into its central basin. Visitors can easily locate it at place de la Grande-Fontaine, making it a central point for exploring the town.",
+        "imageKeys": [
+            "k3an4coprFeQYCVkSxrFDj9ARtOKoXD4",
+            "XFrT4ZtwYBVvHQMWJ9m2X2Kybkvhzorw",
+            "Wdj7RORFcHx64LaJx0t30tq8FiHDJ2nz",
+            "c638yriABkzjtxAMHwnnmP5ElUAQqNQG",
+            "dT4dQKY6Wvu72wApxSAyjysr6erHRrlO"
+        ],
+        "ratingCount": 116,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Fontaine de Saint-Paul-de-Vence",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Fountain",
+            "Historical landmark"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 1,
+                "3": 6,
+                "4": 32,
+                "5": 76
+            }
+        }
+    },
+    {
+        "placeId": "ChIJtX_8iu7SzRIR5cSlLriQfF0",
+        "website": "https://saintpauldevence.org/",
+        "index": 7,
+        "utcOffset": 120,
+        "longitude": 7.122429,
+        "latitude": 43.697029,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "The Chapelle des Pénitents Blancs, also known as Folon Chapel, is a 17th-century church in Saint-Paul-de-Vence near Nice. The interior is adorned with the artwork of Belgian artist Jean-Michel Folon, including vibrant mosaics, sculptures, and paintings. The chapel's stained glass windows were created in collaboration with artisans. Visitors are recommended to visit this unassuming yet luminescent church to see the striking Folon mural.",
+        "imageKeys": [
+            "NOumEheHL9JQsojmNqjGCqEm6P2GJOKE",
+            "ATQ8l09wrxsN71Q9blUSK0E5W69JcKdT",
+            "9aOG1ciK0owwYjl5IJBkZt5hEBzTWNtE",
+            "BauOowAGJotQDVFprmLNmJuxchOowgNI",
+            "ZhvYI4hnggi1X5WEJMi7jOSsAXJnjfbH"
+        ],
+        "ratingCount": 103,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1230"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1230"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1230"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Chapelle des Pénitents Blancs",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 93 32 41 13",
+        "address": "5 Pl. de l'Église, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Church",
+            "Sights & Landmarks",
+            "Churches & Cathedrals"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 2,
+                "2": 2,
+                "3": 3,
+                "4": 24,
+                "5": 73
+            }
+        }
+    },
+    {
+        "placeId": "ChIJJS2ol6DTzRIRAhoDZAQjO88",
+        "website": "https://www.lesremparts.co/",
+        "index": 8,
+        "utcOffset": 120,
+        "longitude": 7.121961,
+        "latitude": 43.696126,
+        "rating": 4.5,
+        "excerpt": "Hillside restaurant & bar with a snug dining room & casual plates, plus a terrace & scenic views.",
+        "detail_description": "Les Remparts is a hillside restaurant and bar offering a snug dining room, casual plates, and a terrace with scenic views. The restaurant provides a romantic setting with 180-degree views across the valley. It has an outdoor patio and cozy indoor space with Mediterranean medieval vibes. The menu offers delicious options made from high-quality ingredients, such as burrata and fregola salad, ceviche, and fish of the day.",
+        "imageKeys": [
+            "tlDEdZ6yu4w47M57UHUrCnXnSdDtWH0N",
+            "D9gs7DKpoo8NbLVJTyPgNXc6ZZRcjrLJ",
+            "BR0tnJAwM2bBbgZpZsKveYbd3t3gZn9z",
+            "orPfeQI7i5sG3Hsah21SBOI9bKDtSqIW",
+            "QBiGGxhHpLRspCV45Kpt9V465Hwa1nEX"
+        ],
+        "ratingCount": 1161,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Les Remparts",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 22 53 53 85",
+        "address": "Rem Sud-Ouest Courtine Sainte-Anne, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 56,
+                "2": 33,
+                "3": 55,
+                "4": 145,
+                "5": 925
+            }
+        }
+    },
+    {
+        "placeId": "ChIJmTTkYdfSzRIRDchihK867NY",
+        "website": "http://www.restaurant-letilleul.com/",
+        "index": 9,
+        "utcOffset": 120,
+        "longitude": 7.121752,
+        "latitude": 43.697774,
+        "rating": 4.3,
+        "excerpt": "Creative, globally-inflected Mediterranean food & Provençal wines on a leafy patio with hill views.",
+        "detail_description": "Restaurant Le Tilleul is a charming spot located just behind the ramparts of the picturesque village of Saint-Paul-de-Vence. The place offers a leafy patio under a majestic tree, which quickly fills up during summer. Chef Olivier Renaud presents a refined Mediterranean cuisine with global influences, using local ingredients and Provençal wines. The restaurant also features a tea room menu and delicacies to be enjoyed on its sunny terrace with panoramic views.",
+        "imageKeys": [
+            "1i2OfzdwW9cBBbJo1RIyhHU6zGHBVY8J",
+            "cyIoYjHXIZaDBGn7LmKXfFqYrOSwEVcq",
+            "kPSV4j9NQKIytKRrJ3GUI4xnLIcuCjRH",
+            "eR72HxVC4Fh0Q0klcn63KVj4uW1nnlq2",
+            "uKci0M4q82ZgyxKvRG7Gw3WwN7E7fvgU"
+        ],
+        "ratingCount": 2370,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Restaurant Le Tilleul",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 93 32 80 36",
+        "address": "Pl. du Tilleul, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "French restaurant",
+            "Mediterranean restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 128,
+                "2": 89,
+                "3": 201,
+                "4": 593,
+                "5": 1361
+            }
+        }
+    },
+    {
+        "placeId": "ChIJM1TzaUnNzRIRIJaX_aUZCAQ",
+        "website": null,
+        "index": 10,
+        "utcOffset": 120,
+        "longitude": 7.111703,
+        "latitude": 43.722322,
+        "rating": null,
+        "excerpt": "Vence is a commune set in the hills of the Alpes-Maritimes department in the Provence-Alpes-Côte d'Azur region in Southeastern France, north of Nice and Antibes on the Mediterranean coast. Wikipedia.",
+        "detail_description": "Vence, a charming commune located in the hills of the Alpes-Maritimes department in Southeastern France, is nestled north of Nice and Antibes along the Mediterranean coast. This medieval town has been a magnet for artists due to its picturesque setting amidst hills adorned with olive and orange trees, offering breathtaking views of both the sea and mountains. Vence's old village, mild climate, and vibrant colors are particularly beloved by visitors.",
+        "imageKeys": [
+            "h38AzmcJQpIfTsceK7YLwYRj20RbbUSN",
+            "FARJCK3KKsyTJCRqvnybb8dAt3F6QSN9",
+            "i45i1DgQPHLJQWU1tiJizqclHW1SqKxk",
+            "btEICqvkIhlofhQjWmCZp8fzX50mLJou",
+            "sV2oBKgQABgtGGBbZCfqZW9lT9bc3rTs"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Vence",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "France",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ_cJ8ShvTzRIRRZ5958j3itQ",
+        "website": "http://www.lemasdepierre.com/restaurants/table-de-pierre/",
+        "index": 11,
+        "utcOffset": 120,
+        "longitude": 7.12375,
+        "latitude": 43.682983,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "La Table de Pierre is a renowned gastronomic restaurant located within the Domaine du Mas de Pierre in Saint-Paul-de-Vence. The restaurant, which underwent a complete renovation in 2021, is known for offering a culinary journey through Provençal flavors using locally sourced ingredients such as vegetables from the hotel's garden, olive oil from Nice, cheeses from Var, and chocolates from Grasse.",
+        "imageKeys": [
+            "AQMbR0S6A8qFSRyGlT3ZQPLMqwpRv0C5",
+            "YAUDxPM7zr6u82fuqeMNnwaH0fyKXr72",
+            "0QLibv28I0pDa14eXnFuanb5hv3fvRY1",
+            "9sz0daRuLKGQivdgfVfsFx166qWNSBqu"
+        ],
+        "ratingCount": 69,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "La Table de Pierre",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 4 93 59 00 10",
+        "address": "2320 Rte des Serres, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 0,
+                "3": 1,
+                "4": 6,
+                "5": 57
+            }
+        }
+    },
+    {
+        "placeId": "ChIJd2cozrHTzRIRj9tzIsGrkmw",
+        "website": null,
+        "index": 12,
+        "utcOffset": 120,
+        "longitude": 7.122659,
+        "latitude": 43.697023,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "DuVh1v1J3TYgxet8bQsSW8a4NzZztRh8",
+            "YJlFrIxowB0qhQubsPkzIEw1Ni5u0dSa",
+            "lRbYD7oqq05I8LLCu9My0u3sn5FP6jw7",
+            "CPNSTvAA7R0IZjZua4yes4t8LJRNup4u",
+            "fZJgj3I9sJmlSZFl5nuDSBGSMm0XVWfy"
+        ],
+        "ratingCount": 9,
+        "openingPeriods": null,
+        "name": "Maison de Jacques Prevert",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "4 Rue de la Cassette, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Historical landmark"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 7
+            }
+        }
+    },
+    {
+        "placeId": "ChIJWY1go-_SzRIRDkb7U7XLmLw",
+        "website": null,
+        "index": 13,
+        "utcOffset": 120,
+        "longitude": 7.123168,
+        "latitude": 43.694813,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Marc Chagall’s Grave is located in the cemetery of Saint Paul de Vence, a village that was home to the renowned artist. The cemetery also holds the graves of other notable figures like former Rolling Stones bass player Bill Wyman. The village itself is steeped in artistic history, with influences from artists like Paul Signac and Pablo Picasso evident in its numerous art studios.",
+        "imageKeys": [
+            "COGIubimx3MknCjg4CkELVAN6MuAYZbB",
+            "gITsnEMzslsK0zfBPrw8cySe8VyvVMZv",
+            "FyHKYq5TzOdVCFHdr0EnfMA4Hb5vICBC",
+            "h5poEL5lZg7HreKviXb52eqghOHqGoGf"
+        ],
+        "ratingCount": 68,
+        "openingPeriods": null,
+        "name": "Marc Chagall’s Grave",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Memorial park"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 1,
+                "3": 9,
+                "4": 13,
+                "5": 44
+            }
+        }
+    },
+    {
+        "placeId": "ChIJmfXa8O7SzRIRq_0tCubOSqw",
+        "website": "http://casadamordesign.com/",
+        "index": 14,
+        "utcOffset": 120,
+        "longitude": 7.122086,
+        "latitude": 43.696436,
+        "rating": 4.9,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "hjo24OUXLsddZ6AaZaqrHSQptNbBIPLm",
+            "kP7IjEI3viDBzxYZ31yPbU7NEXBCv04N",
+            "X06cV2VsCeBKVq7vRTOjJ1bMVxR9Q5Zs",
+            "EwIhMCVJL4ut8LykLc8WdAqwjI47b8Kr"
+        ],
+        "ratingCount": 7,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1900"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1900"
+                }
+            }
+        ],
+        "name": "Casa Amor Design",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 6 99 26 48 88",
+        "address": "62 Rue Grande, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Art gallery"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 6
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ87xoR-zSzRIRiamYKkRz5G8",
+        "website": null,
+        "index": 15,
+        "utcOffset": 120,
+        "longitude": 7.121471,
+        "latitude": 43.699488,
+        "rating": 4.1,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "1bPi7vFyN3wFfBxg0jQjzMobE2GnWQMb",
+            "zAX9yUivwYsEib82Dzeytrwxcw4pvUOQ",
+            "5PQEAgeNAjd0OlQvyND7J4VOWrdOqt3M",
+            "N7GF3Y4nzrBkam0jKG6tpCGoO0zOZlaP"
+        ],
+        "ratingCount": 9,
+        "openingPeriods": null,
+        "name": "Chapelle Sainte Claire",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "10 Chem. de Sainte-Claire, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Chapel"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 3,
+                "4": 2,
+                "5": 4
+            }
+        }
+    },
+    {
+        "placeId": "ChIJW5QlS2vTzRIRsEZH6ngl1Xo",
+        "website": "https://fondationcab.com/fr/restaurant",
+        "index": 16,
+        "utcOffset": 120,
+        "longitude": 7.117656,
+        "latitude": 43.700577,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Restaurant Sol is a superb establishment that comes highly recommended. The selection of dishes on offer is excellent, and the quality of the meal itself is truly exceptional. I have dined at this restaurant three times, and each visit has consistently met my expectations. One particularly noteworthy aspect is that there are always new additions to the menu, which is exactly what you would expect from such an establishment. Additionally, the service provided by the staff is friendly yet professional, ensuring a spotless experience.",
+        "imageKeys": [
+            "M399VdtJxdOO9A96G0gchMMdXVxSdR5i",
+            "Q0ccUjbCMUjamgLxNrHd2GpNAFGjEa4n",
+            "9rC2vsdk3HWjqlVemAf1Oh3Pu5jG99z5"
+        ],
+        "ratingCount": 126,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0830"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Restaurant à St Paul de Vence | Cuisine Maison & Événements Privés - SOL",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+33 6 10 38 66 92",
+        "address": "Accès par les jardins, 343 Chemin des Gardettes, 5766 Chem. des Trious, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Restaurant",
+            "Brunch restaurant",
+            "Coffee shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 3,
+                "2": 2,
+                "3": 2,
+                "4": 6,
+                "5": 113
+            }
+        }
+    },
+    {
+        "placeId": "ChIJsRzQAUzTzRIR46VDbtSRnWs",
+        "website": null,
+        "index": 17,
+        "utcOffset": 120,
+        "longitude": 7.119743,
+        "latitude": 43.69832,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "Zj2QNQqO9fdUUVjWxC9Np0k3MtWTCXue",
+            "pvnveb2T7K8GnBelhkcIBQrLjrg0x09a",
+            "a8OLqQA0Qf8uC3b4pZGx4ytZ70D3KIHH",
+            "951I5i2qu5xqHkR2MfoUDkXIBdTesiqu"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Chapelle Saint Michel",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Cimetière, 66 Rte de Nice, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Religious destination"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJwcbkiu7SzRIR4btLmNpMjk0",
+        "website": null,
+        "index": 18,
+        "utcOffset": 120,
+        "longitude": 7.122161,
+        "latitude": 43.696855,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": null,
+        "imageKeys": [
+            "1i3vZUC2vNg8wudEXdpVHYG4lYXHitFl",
+            "vTz6MMyiDuT6sZX3y1bCqyLsbvTQL553",
+            "UyagjJMpbn4fqDcDl3zzAwPDliy0BGrY",
+            "oA66hQ0QT85opTUZXWKkgiuz9aFMT1JA",
+            "LpE4liTlaTixvBjdSdnW0XOAVH2SWkJO"
+        ],
+        "ratingCount": 281,
+        "openingPeriods": null,
+        "name": "Le Caruso",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+33 4 93 24 36 47",
+        "address": "1 Mnt de la Castre, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Restaurant",
+            "French restaurant",
+            "Mediterranean restaurant",
+            "Provence restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 10,
+                "2": 5,
+                "3": 6,
+                "4": 45,
+                "5": 215
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ6Vb-QajNzRIRXzqmIgWFFic",
+        "website": null,
+        "index": 19,
+        "utcOffset": 120,
+        "longitude": 7.137608,
+        "latitude": 43.750789,
+        "rating": 4.9,
+        "excerpt": null,
+        "detail_description": "Baou de Saint-Jeannet is a popular mountain in the Grasse foothills, attracting hikers and climbers with its stunning views of Saint-Paul-de-Vence. The hike to the summit takes around 2.30 hours and starts from the village entrance, leading through Rue de la Croix and Rue du Baou. The trail is well-marked but challenging at times due to loose stones.",
+        "imageKeys": [
+            "LS0t1npLdNrvMWcPE6OGHR4Kscd0umvC",
+            "wB9dQqMwQJZc8ignRhY4c1ItDKULVHss",
+            "b7J162Al3CaIrlEIO24qMx34odKilZAU"
+        ],
+        "ratingCount": 117,
+        "openingPeriods": null,
+        "name": "baou de Saint-Jeannet",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "06640 Saint-Jeannet, France",
+        "types": [
+            "Mountain peak"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 12,
+                "5": 103
+            }
+        }
+    },
+    {
+        "placeId": "ChIJQekRjCnTzRIRp6L7Xma0DD8",
+        "website": null,
+        "index": 20,
+        "utcOffset": 120,
+        "longitude": 7.122937,
+        "latitude": 43.696045,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "The Ramparts of Saint Paul de Vence, completed in 1547, are a significant part of the town's history and offer stunning views over the surrounding villages. Strolling through this medieval village allows for picturesque scenes of small archways, stepped roads, and trailing wisteria plants. The town is known for its ateliers featuring art from local artists, though some pieces can be pricey. Despite the expensive restaurants, visitors find that the breathtaking views make it all worthwhile.",
+        "imageKeys": [
+            "xQaXaFw40MYDDh7knAUg2TYfqehrG4Xs",
+            "ha83rUTZT41q8Ysd57J1OjBOzm6OLr75",
+            "3U4grO9jSQOqHm1H9YLW0Uxw0uY7sIvu",
+            "mHThEiZTmPxtlSbfyHCTBkHXJhBUgfV2",
+            "yDnoVmp9ULdkhSePGz6OmX4IX22azRGJ"
+        ],
+        "ratingCount": 150,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Ramparts of Saint Paul de Vence",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "16 Rue du Fangas, 06570 Saint-Paul-de-Vence, France",
+        "types": [
+            "Historical landmark"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 1,
+                "3": 3,
+                "4": 19,
+                "5": 127
+            }
+        }
+    }
+]

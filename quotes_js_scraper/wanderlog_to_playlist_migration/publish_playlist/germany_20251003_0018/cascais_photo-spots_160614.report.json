@@ -1,0 +1,35 @@
+{
+  "job_index": 39,
+  "city": "Cascais",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160614",
+  "title": "The 9 best photo spots in Cascais",
+  "final_title": "Cascais Captured: Picture-Perfect Moments",
+  "from_cache": false,
+  "counts": {
+    "meta": 9,
+    "blocks": 9,
+    "merged": 9,
+    "accepted_before_trim": 7,
+    "rejected": 2,
+    "accepted_final": 5
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 8,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\germany_20251003_0018\\cascais_photo-spots_160614.json",
+    "report_json": "publish_playlist\\germany_20251003_0018\\cascais_photo-spots_160614.report.json"
+  },
+  "created_ts": 1759438089
+}

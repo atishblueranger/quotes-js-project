@@ -1,0 +1,75 @@
+{
+  "list_id": "977",
+  "imageUrl": "https://storage.googleapis.com/mycasavsc.appspot.com/playlistsNew_images/977/1.jpg",
+  "description": "Dive into \"Granada's Hidden Waterfall Wonders\" — a handpicked list of places with quick notes, links, and essentials for fast trip planning and discovery.",
+  "source_urls": [
+    "https://wanderlog.com/list/geoCategory/178468"
+  ],
+  "source": "wanderlog",
+  "category": "Travel",
+  "title": "Granada's Hidden Waterfall Wonders",
+  "city_id": "9693",
+  "subtype": "poi",
+  "city": "Granada",
+  "created_ts": 1759383871,
+  "slug": "granadas-hidden-waterfall-wonders-granada-poi-e65fb3",
+  "subcollections": {
+    "places": [
+      {
+        "_id": "ChIJt-t09aP8cQ0RDB-vVCyvrSg",
+        "generalDescription": "Plaza del Ángel serves as a convenient starting point for your adventure. You can easily reach it by walking or hopping on bus #8, which will take you to the Plaza del Ángel bus stop. From there, catch bus #0183 to Plaza Miraflores, and in about an hour, you'll be ready to embark on a scenic hike along the river. This picturesque trail features charming suspension bridges and leads you through stunning canyons of Monachil where several hidden waterfalls await discovery.",
+        "utcOffset": 120,
+        "maxMinutesSpent": null,
+        "longitude": -3.596358,
+        "rating": 0,
+        "numRatings": 0,
+        "sources": [
+          {
+            "id": "1114176",
+            "type": "webPlacesList",
+            "url": "https://www.bucketlistly.blog/posts/granada-best-things-to-do-spain",
+            "sourceSite": "Web",
+            "snippet": "Basically, you can either walk or take bus #8 to the Plaza del Ángel bus stop. From there, take bus #0183 to the Plaza Miraflores, and you should arrive in about an hour. From there, it is a pretty straightforward hike along the river, crossing suspension bridges, and you will find several waterfalls tucked away in the canyons of Monachil.",
+            "siteName": "BucketListly Blog",
+            "shortName": "Explore Granada: 8 Incredible Activities You’ll Love",
+            "indexInSource": 4,
+            "iconSiteId": 742,
+            "showIcon": false,
+            "showInternalLink": false,
+            "showExternalLink": true,
+            "showSiteNameOnWeb": true
+          }
+        ],
+        "imageKeys": [],
+        "openingPeriods": [],
+        "name": "Pl. del Ángel",
+        "placeId": "ChIJt-t09aP8cQ0RDB-vVCyvrSg",
+        "internationalPhoneNumber": null,
+        "reviews": [],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "tripadvisorRating": 0,
+        "description": null,
+        "website": null,
+        "index": 1,
+        "id": "",
+        "categories": [],
+        "tripadvisorNumRatings": 0,
+        "g_image_urls": [],
+        "ratingDistribution": {
+          "Google": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+          }
+        },
+        "minMinutesSpent": null,
+        "latitude": 37.163779,
+        "address": "18006 Granada, Spain",
+        "travel_time": null
+      }
+    ]
+  }
+}

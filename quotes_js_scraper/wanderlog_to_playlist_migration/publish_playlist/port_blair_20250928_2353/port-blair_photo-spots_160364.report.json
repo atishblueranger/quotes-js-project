@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Port Blair",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160364",
+  "title": "The 21 best photo spots in Port Blair",
+  "final_title": "Picture-Perfect Port Blair: Capture the Beauty",
+  "from_cache": false,
+  "counts": {
+    "meta": 21,
+    "blocks": 21,
+    "merged": 21,
+    "accepted_before_trim": 13,
+    "rejected": 8,
+    "accepted_final": 10
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 15,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "638",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\port_blair_20250928_2353\\port-blair_photo-spots_160364.json",
+    "report_json": "publish_playlist\\port_blair_20250928_2353\\port-blair_photo-spots_160364.report.json"
+  },
+  "created_ts": 1759084412
+}

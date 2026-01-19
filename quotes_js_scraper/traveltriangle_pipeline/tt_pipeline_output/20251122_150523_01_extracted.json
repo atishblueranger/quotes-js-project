@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Ahmedabad Museum Trail",
+  "placeName": "Ahemedabad",
+  "country": "India",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-ahmedabad/"
+  ],
+  "description": "Wander Ahmedabad's museums — a playlist of textile lanes, history, and quiet courtyard echoes.",
+  "items": [
+    {
+      "name": "Sardar Vallabhbhai Patel National Museum",
+      "description": "",
+      "location_hint": "Gandhi-Sardar Smruthi Chowk, Opp. Circuit House, Shahibag, Ahmedabad, Gujarat",
+      "opening_hours_text": "9:30 am to 5 pm, on all days of the week except Mondays. Timings for the 3D Interactive show is 7 pm and 7:45 pm.",
+      "entry_fee_text": "INR 20/person"
+    },
+    {
+      "name": "Calico Museum Of Textiles",
+      "description": "",
+      "location_hint": "The Retreat, Airport Rd, Opp. Rani Sati Mandir, Jain Colony, Shahibag, Ahmedabad, Gujarat",
+      "opening_hours_text": "On all days of the week except Wednesdays; from 10 am to 12:30 pm and 2:45 pm to 4:30 pm.",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Sanskar Kendra",
+      "description": "",
+      "location_hint": "Bhagtacharya Road, Near Sardar Patel, Bridge, Paldi, Ahmedabad, Gujarat",
+      "opening_hours_text": "10 am to 6 pm",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Vechaar Utensils Museum",
+      "description": "",
+      "location_hint": "Opp. Vasna Tol Naka, Ahmedabad, Gujarat 380055",
+      "opening_hours_text": "1 pm to 3 pm and 5 pm to 10:30 pm. This place is open every day except Mondays.",
+      "entry_fee_text": "INR 20/person"
+    },
+    {
+      "name": "Auto World Vintage Car Museum",
+      "description": "",
+      "location_hint": "Dastan Estate Sardar Patel Ring Road Kathwada, Ahmedabad, Gujarat",
+      "opening_hours_text": "8 am to 9 pm",
+      "entry_fee_text": "INR 50/person"
+    },
+    {
+      "name": "Lalbhai Dalpatbhai Museum",
+      "description": "",
+      "location_hint": "Opposite Gujarat University, Navarangpura, Ahmedabad,",
+      "opening_hours_text": "10: 30 am to 5: 30 pm. This museum is closed on Mondays.",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Kites Museum",
+      "description": "",
+      "location_hint": "Sankar Kender, Bhagtacharya Road, Kocharab, Paldi, Ahmedabad, Gujarat",
+      "opening_hours_text": "10 am-12 noon and 4 pm to 6 pm every day except Monday.",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Shreyas Folk Museum",
+      "description": "",
+      "location_hint": "Shreyas Tekra Rd, Opposite, Mithila Society, Bhudarpura, Ayojan Nagar, Ahmedabad, Gujarat",
+      "opening_hours_text": "9 am to 2 pm. The museum is open on all days of the week except Sundays.",
+      "entry_fee_text": "INR 10/person"
+    },
+    {
+      "name": "Archer Art Gallery",
+      "description": "",
+      "location_hint": "Girish Cold Drinks, 2nd Floor, Phoenix Opposite New, Ahmedabad, Gujarat",
+      "opening_hours_text": "10:30 am to 7 pm. The museum is open to visitors on all days of the week except Sundays.",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Varso Toy Museum",
+      "description": "",
+      "location_hint": "1765 Dhobini Pole Haveli No, Ahmedabad, Gujarat",
+      "opening_hours_text": "11 am to 4 pm",
+      "entry_fee_text": "Free"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

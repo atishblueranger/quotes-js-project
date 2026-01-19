@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Pattaya",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163825",
+  "title": "The 44 most romantic places in Pattaya",
+  "final_title": "Romantic Escapes in Enchanting Pattaya",
+  "from_cache": false,
+  "counts": {
+    "meta": 44,
+    "blocks": 44,
+    "merged": 44,
+    "accepted_before_trim": 42,
+    "rejected": 2,
+    "accepted_final": 26
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 3,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "720",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20251001_0022\\pattaya_romantic-places_163825.json",
+    "report_json": "publish_playlist\\thailand_20251001_0022\\pattaya_romantic-places_163825.report.json"
+  },
+  "created_ts": 1759259446
+}

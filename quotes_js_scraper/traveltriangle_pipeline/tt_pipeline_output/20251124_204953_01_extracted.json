@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Sydney Campfire Vibes",
+  "placeName": "Sydney",
+  "country": "Australia",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/camping-near-sydney/"
+  ],
+  "description": "Crackling fire, coastal breeze, and sunset acoustics - Sydney campfire vibes for wandering hearts.",
+  "items": [
+    {
+      "name": "Cockatoo Island",
+      "description": "",
+      "location_hint": "Cockatoo Island Campground, Woolwich NSW, Sydney 2110, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Basin KU Ring Guy Campground",
+      "description": "",
+      "location_hint": "Basin Trail, Ku-Ring-Gai Chase NSW 2084, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Diamond Head Campground",
+      "description": "NOTE: The image is for representation purpose only.",
+      "location_hint": "763 Diamond Head Rd, Diamond Head, Sydney, NSW 2443, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Cattai Campground",
+      "description": "NOTE: The image is for representation purpose only.",
+      "location_hint": "Rundells Trail, Cattai, NSW 2756, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Mill Creek Campground",
+      "description": "",
+      "location_hint": "Mill Creek Rd, Gunderman NSW 2775, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Bouddi National Park",
+      "description": "",
+      "location_hint": "Gosford, Sydney, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Uloola Falls Campground",
+      "description": "",
+      "location_hint": "2 Lady Carrington Dr, Audley, Royal National Park, NSW NSW 2233, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Euroka Campground",
+      "description": "NOTE: The image is for representation purpose only.",
+      "location_hint": "Fern Glen Walking Track, Blue Mountains National Park NSW 2787, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Frazer Campground",
+      "description": "",
+      "location_hint": "Frazer Beach Road, Frazer Park NSW 2259, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Mirang Pool Campground",
+      "description": "",
+      "location_hint": "Pipeline Trail, Heathcote NSW 2233, Australia",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

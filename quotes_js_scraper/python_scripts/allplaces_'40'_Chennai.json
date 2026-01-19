@@ -1,0 +1,251 @@
+{
+  "_id": "40",
+  "city_name": "Chennai (Madras)",
+  "is_searchable": true,
+  "place_id": 40,
+  "country_name": "India",
+  "city_name_search": "chennai (madras)",
+  "longitude": 80.286385,
+  "parent_id": 86690,
+  "popularity": 24057,
+  "manual_description": "Chennai city is a vibrant cultural melting-pot located in Southern India. It's known for its classical dance and music, and its energetic culture. Chennai is a leading center for Carnatic music, and it's also a great place to shop, eat and experience the pulsating nightlife.",
+  "subcategory": "city",
+  "state_name": "Chennai District",
+  "bounds": [
+    79.96844,
+    12.69985,
+    80.33632,
+    13.26117
+  ],
+  "image_url": [
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40/1.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40/2.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40/3.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40/4.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/40.jpg"
+  ],
+  "position": {
+    "geohash": "tf346yqg8",
+    "geopoint": {
+      "latitude": 13.086713,
+      "longitude": 80.286385
+    }
+  },
+  "latitude": 13.086713,
+  "image_key": "xqvnFQMbwBehPbpjk9Ao733X99R67PzN",
+  "depth": 4,
+  "place_description": "Chennai, on the Bay of Bengal in eastern India, is the capital of the state of Tamil Nadu. The city is home to Fort St. George, built in 1644 and now a museum showcasing the city's roots as a British military garrison and East India Company trading outpost, when it was called Madras. Religious sites include Kapaleeshwarar Temple, adorned with carved and painted gods, and St. Mary's, a 17th-century Anglican church.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "India"
+      },
+      {
+        "_id": "86690",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "India",
+        "id": 86690,
+        "longitude": 80.19017,
+        "bounds": [
+          79.96844,
+          12.69985,
+          80.33632,
+          13.26117
+        ],
+        "latitude": 13.030569,
+        "popularity": 24529,
+        "parentId": 86691,
+        "depth": 3,
+        "name": "Chennai District"
+      },
+      {
+        "_id": "86691",
+        "subcategory": "region",
+        "stateName": null,
+        "countryName": "India",
+        "id": 86691,
+        "longitude": 78.66028,
+        "bounds": [
+          76.23055,
+          8.06901,
+          80.34645,
+          13.49667
+        ],
+        "latitude": 11.350797,
+        "popularity": 115522,
+        "parentId": 86661,
+        "depth": 2,
+        "name": "Tamil Nadu"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "1055",
+        "subcategory": "city",
+        "stateName": "Kanchipuram District",
+        "countryName": "India",
+        "id": 1055,
+        "longitude": 80.17822,
+        "bounds": [
+          80.17629,
+          12.59812,
+          80.20599,
+          12.64653
+        ],
+        "latitude": 12.618793,
+        "popularity": 8374,
+        "parentId": 87054,
+        "depth": 4,
+        "name": "Mahabalipuram"
+      },
+      {
+        "_id": "86690",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "India",
+        "id": 86690,
+        "longitude": 80.19017,
+        "bounds": [
+          79.96844,
+          12.69985,
+          80.33632,
+          13.26117
+        ],
+        "latitude": 13.030569,
+        "popularity": 24529,
+        "parentId": 86691,
+        "depth": 3,
+        "name": "Chennai District"
+      },
+      {
+        "_id": "87054",
+        "subcategory": "district",
+        "stateName": null,
+        "countryName": "India",
+        "id": 87054,
+        "longitude": 79.99142,
+        "bounds": [
+          79.55784,
+          12.21305,
+          80.26113,
+          13.0371
+        ],
+        "latitude": 12.724917,
+        "popularity": 10187,
+        "parentId": 86691,
+        "depth": 3,
+        "name": "Kanchipuram District"
+      },
+      {
+        "_id": "914",
+        "subcategory": "city",
+        "stateName": "Andhra Pradesh",
+        "countryName": "India",
+        "id": 914,
+        "longitude": 79.41821,
+        "bounds": [
+          79.31168,
+          13.56423,
+          79.53793,
+          13.69107
+        ],
+        "latitude": 13.63194,
+        "popularity": 5053,
+        "parentId": 87040,
+        "depth": 4,
+        "name": "Tirupati"
+      },
+      {
+        "_id": "976",
+        "subcategory": "city",
+        "stateName": "Kanchipuram District",
+        "countryName": "India",
+        "id": 976,
+        "longitude": 79.71,
+        "bounds": [
+          79.69466,
+          12.81846,
+          79.71219,
+          12.84072
+        ],
+        "latitude": 12.82,
+        "popularity": 1556,
+        "parentId": 87054,
+        "depth": 4,
+        "name": "Kanchipuram"
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "The summer months in Chennai can be quite hot, with temperatures often exceeding 35°C (95°F). However, this is also the time for various festivals, including the Tamil New Year and the Chithirai Festival. Visitors can enjoy the city's vibrant street food scene and relax at the Marina Beach during the cooler evenings.",
+          "June to August": "The monsoon season brings relief from the summer heat, with occasional heavy rainfall. This is a great time to visit the city's museums and art galleries, such as the Government Museum and the National Art Gallery. The lush greenery and cooler temperatures make it a pleasant time for outdoor activities, though travelers should be prepared for rain.",
+          "Travel Tip": "When visiting Chennai, it's advisable to dress modestly, especially when visiting temples. Stay hydrated and use sunscreen during the hot months. Public transport, including buses and the metro, is a convenient way to navigate the city. Learning a few basic Tamil phrases can enhance your experience and interactions with locals.",
+          "Overview": "Chennai, formerly known as Madras, is the capital city of the Indian state of Tamil Nadu. It is known for its rich cultural heritage, vibrant arts scene, and beautiful beaches. The city is a major economic and educational hub in South India, offering a blend of traditional and modern attractions.",
+          "December to February": "This is the winter season in Chennai, characterized by pleasant weather and lower humidity. It is the ideal time to explore the city's historical sites, such as the Kapaleeshwarar Temple and Fort St. George. The Chennai Music Season, held in December, showcases classical music and dance performances, attracting artists and audiences from around the world.",
+          "Regional Highlights": "Chennai is home to several notable attractions, including the historic Marina Beach, the ancient temples of Kanchipuram, and the vibrant art district of Mylapore. The city also boasts a thriving culinary scene, famous for its South Indian cuisine, particularly dosa and idli. The nearby Mahabalipuram, a UNESCO World Heritage site, is known for its rock-cut temples and sculptures.",
+          "September to November": "As the monsoon recedes, the weather becomes more comfortable, making it a good time for sightseeing. The Navaratri festival, celebrated with great enthusiasm, features colorful processions and cultural events. Visitors can explore the bustling markets and enjoy local delicacies during this festive season."
+        },
+        "monthlyRatings": {
+          "Apr": 3,
+          "Jun": 2,
+          "Jul": 3,
+          "Dec": 5,
+          "Mar": 3,
+          "Feb": 4,
+          "Aug": 3,
+          "Jan": 4,
+          "May": 2,
+          "Nov": 4,
+          "Oct": 4,
+          "Sep": 3
+        }
+      },
+      {
+        "_id": "things_to_know",
+        "🕌 Cultural Etiquette": "Respect local customs and traditions, especially when visiting temples. Dress modestly and remove your shoes before entering sacred spaces.",
+        "Conclusion": "Chennai is a city that beautifully blends tradition and modernity, offering travelers a unique experience. Embrace the local culture and enjoy your journey in this dynamic metropolis.",
+        "🎉 Festivals and Events": "Chennai hosts numerous festivals throughout the year, including Pongal and the Chennai Music Season. Participating in these events can provide a deeper understanding of the local culture.",
+        "🛍️ Shopping Insights": "Chennai offers a variety of shopping experiences, from bustling markets to modern malls. Look for traditional silk sarees and handicrafts as unique souvenirs.",
+        "Introduction": "Chennai, formerly known as Madras, is a vibrant city on the southeastern coast of India, rich in culture, history, and cuisine. Before visiting, it's essential to understand the local customs, climate, and attractions to make the most of your trip.",
+        "📱 Connectivity": "Wi-Fi is available in many hotels and cafes, but purchasing a local SIM card can be beneficial for staying connected while exploring the city.",
+        "🏖️ Beach Safety": "Chennai is home to beautiful beaches like Marina Beach, but be cautious of strong currents and avoid swimming in unmonitored areas. Visit during the early morning or late evening for a more pleasant experience.",
+        "🌡️ Weather Considerations": "Chennai has a tropical climate, with hot and humid conditions year-round. The best time to visit is between November and February when temperatures are more pleasant.",
+        "🍽️ Local Cuisine": "Don't miss out on trying authentic South Indian dishes like dosa, idli, and sambar. Street food is also a must-try, but ensure you choose clean and popular stalls to avoid any health issues.",
+        "🚕 Transportation Tips": "Public transport in Chennai includes buses and the metro, but auto-rickshaws are a convenient way to navigate the city. Always negotiate the fare beforehand or ensure the meter is running."
+      },
+      {
+        "_id": "ways_to_get_around",
+        "🚢 Ferry Services": "Ferry services operate along the coast, offering a scenic alternative to road travel. These ferries can take you to nearby beaches and islands, providing a refreshing break from the city.",
+        "🚄 Suburban Trains": "The suburban train network connects Chennai to its surrounding areas, making it a vital transport option for commuters. Trains are frequent and can be a quick way to reach destinations outside the city center.",
+        "🚇 Metro Rail": "The Chennai Metro is a modern and efficient way to travel across the city. With multiple lines connecting key areas, it helps avoid traffic congestion and offers a comfortable ride.",
+        "Conclusion": "Chennai offers a variety of transportation options to suit every traveler's needs. Whether you choose to ride the metro, hail a taxi, or explore on foot, you'll find that getting around the city can be both convenient and enjoyable.",
+        "🚕 Taxis & Auto Rickshaws": "Taxis and auto rickshaws are widely available and provide a convenient way to get around. Ride-hailing apps like Uber and Ola make it easy to book a ride at any time.",
+        "Introduction": "Chennai, formerly known as Madras, is a bustling metropolis in southern India, known for its rich culture and vibrant lifestyle. Navigating this city can be an adventure in itself, with various transportation options available to help you explore its many attractions.",
+        "🚶 Walking": "Walking is a great way to experience Chennai's vibrant streets and local markets. Many attractions are within walking distance of each other, allowing you to soak in the city's atmosphere.",
+        "🚌 Public Buses": "Chennai's public bus system is extensive and affordable, covering most parts of the city. While it can be crowded, it offers a unique glimpse into local life and is a great way to save money.",
+        "🛴 E-Scooters": "E-scooters are available for rent in various parts of the city, providing a quick and fun way to navigate short distances. They are especially popular among younger locals and tourists.",
+        "🚲 Bicycles": "Cycling is becoming increasingly popular in Chennai, with dedicated bike lanes in some areas. Renting a bicycle can be a fun and eco-friendly way to explore the city at your own pace.",
+        "🚗 Car Rentals": "For those who prefer to drive, car rental services are available throughout Chennai. This option gives you the freedom to explore at your own pace, though be prepared for the city's busy traffic."
+      }
+    ]
+  }
+}

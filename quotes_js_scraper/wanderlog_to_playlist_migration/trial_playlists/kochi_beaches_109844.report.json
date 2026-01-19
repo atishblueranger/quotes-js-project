@@ -1,0 +1,488 @@
+{
+  "job_index": 0,
+  "city": "Kochi",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/109844",
+  "title": "The 37 best beaches in and around Kochi (Cochin)",
+  "final_title": "Serene Shores of Kochi",
+  "from_cache": false,
+  "counts": {
+    "meta": 37,
+    "blocks": 37,
+    "merged": 37,
+    "accepted_before_trim": 20,
+    "rejected": 17,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 20,
+    "title_calls": 1
+  },
+  "decisions": [
+    {
+      "placeId": "ChIJHTJMK1UXCDsRM93c5M1B578",
+      "name": "Cherai Beach",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [
+        "beach",
+        "sand"
+      ],
+      "neg_hits": [
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Cherai Beach, located on the fringes of Kochi, is a serene stretch of sand known for its natural beauty and tranquility. Visitors can enjoy activities such as walking, swimming, shell co"
+    },
+    {
+      "placeId": "ChIJPeNRyDFtCDsRLD8AVG9pZdg",
+      "name": "Fort Kochi Beach",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [
+        "beach",
+        "sand",
+        "seafront"
+      ],
+      "neg_hits": [
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Fort Kochi Beach, located in Kochi, Kerala, is a serene seafront destination with a paved walkway offering stunning views of the Arabian Sea and the iconic Chinese fishing nets. The beac"
+    },
+    {
+      "placeId": "ChIJnypq_BsTCDsRlJI-1Jo--Zk",
+      "name": "Puthuvype Beach",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [
+        "beach",
+        "sands"
+      ],
+      "neg_hits": [
+        "church",
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Puthuvype Beach, located in Fort Kochi, Ernakulam, is a stunning destination known for its natural beauty and historical landmarks. The beach boasts Chinese fishing nets, a French street"
+    },
+    {
+      "placeId": "ChIJc4UruZoZCDsRG8HoJ7Wu_Vc",
+      "name": "Munambam Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Munambam Beach, also known as Muziris Beach, is a picturesque and active fishing harbor in Kochi. It offers stunning views of the mouth of the river Periyar and Chinese fishing net boats"
+    },
+    {
+      "placeId": "ChIJXVV3DCV7CDsR_9COLn0v8Tk",
+      "name": "Andhakaranazhi Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Andhakaranazhi Beach, located 30 kilometers from Kochi, is a hidden gem that offers a relaxed and uncommercialized coastal experience. This virgin beach is an extension of the village of"
+    },
+    {
+      "placeId": "ChIJuecy2JERCDsRV5VFNt6zIAM",
+      "name": "Veeranpuzha",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Veeranpuzha Beach, located in Kochi, Kerala, is a renowned destination known for its stunning golden sandy shores and lush green surroundings. The beach offers breathtaking views of suns"
+    },
+    {
+      "placeId": "ChIJrYrKf1MNCDsR6gNsW6zTGHc",
+      "name": "Marine Drive",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Marine Drive is a vibrant waterfront area featuring the Marine Walkway and Subhash Bose Park, perfect for leisurely evening walks. The modern Rainbow and Kettuvallam bridges provide scen"
+    },
+    {
+      "placeId": "ChIJG3_h00RtCDsRyLV04bOkgGg",
+      "name": "Mattancherry Palace",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "fort",
+        "museum",
+        "palace"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Mattancherry Palace, also known as Dutch Palace, is a stunning example of Kerala-style architecture with a touch of colonial influence. Originally constructed by the Portuguese in 1555 a"
+    },
+    {
+      "placeId": "ChIJrwSKfnFtCDsRCsnJtO1h2Dg",
+      "name": "Willingdon Island",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Willingdon Island, the largest artificial island in India, was created in the 1930s and named after Lord Willingdon, the British Viceroy of India. It is a hub for various commercial and "
+    },
+    {
+      "placeId": "ChIJFU-OOdcQCDsRML1VtQ0Xvaw",
+      "name": "Kuzhuppilly Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach",
+        "sand"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Kuzhuppilly Beach is a serene and well-hidden spot in Kerala, that's perfect for a day spent by the water. With golden sand, crystal blue waters, and an incredible panorama around, it's "
+    },
+    {
+      "placeId": "ChIJZwX_tzZtCDsRO5rzBs6Z2E4",
+      "name": "Santa Cruz Cathedral Basilica, Kochi",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "church",
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Santa Cruz Cathedral Basilica in Fort Cochin is a reconstructed 1880s Catholic church with a rich history dating back to the 1500s when it was originally built by the Portuguese. This ma"
+    },
+    {
+      "placeId": "ChIJ1dFOKVkNCDsR8HjfsDC7cOI",
+      "name": "Mangalavanam Bird Sanctuary",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Mangalavanam Bird Sanctuary, located in Kochi, is a serene nature retreat amidst the urban landscape. This sanctuary serves as a nesting ground for various migratory birds and is an ecol"
+    },
+    {
+      "placeId": "ChIJjR6MRccTCDsRzXXvB6TW9lw",
+      "name": "Njarackal Arattuvazhi Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Njarackal Arattuvazhi Beach is a popular tourist attraction in Kochi due to its location, minimal crowd, and calm atmosphere. The beach is also attractive for its sunset views. Tags: Pub"
+    },
+    {
+      "placeId": "ChIJc7waRcsSCDsRUQdGwZAsB88",
+      "name": "Chinese Fishing Nets",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: When visiting Fort Kochi in South India, be sure to take in the mesmerizing sight of the Chinese Fishing Nets. These iconic nets, suspended from tall bamboo frames, have been a symbol of"
+    },
+    {
+      "placeId": "ChIJx6UeW1sTCDsRVsD0uh1peaQ",
+      "name": "Vypin Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach",
+        "sand",
+        "shore"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Vypin Beach, located on Vypin Island in Kerala, is renowned for its natural beauty and tranquil ambiance. Surrounded by lush greenery and palm trees, it offers stunning views of the Arab"
+    },
+    {
+      "placeId": "ChIJjRcLTzFtCDsRO7QNOT8jRcU",
+      "name": "Fort Kochi",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "church",
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Fort Kochi, also known as Old Kochi or West Kochi, is a charming seaside area with a rich multicultural history. The Dutch, Portuguese, and British colonial architecture adds to its allu"
+    },
+    {
+      "placeId": "ChIJ7xjezjNtCDsRAAV0655p98E",
+      "name": "Mahatma Gandhi Beach",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [
+        "beach",
+        "shore"
+      ],
+      "neg_hits": [
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: The Mahatma Gandhi Beach in Kochi is a picturesque and small beach known for its excellent sunset views. It is also home to a number of food vendors selling casual street food. However, "
+    },
+    {
+      "placeId": "ChIJb0qPdIIICDsRWISWXeTrsjA",
+      "name": "Cochin International Airport",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Cochin International Airport, located in Kochi, serves both domestic and international flights and offers bus links for transportation. The airport is the nearest one to Munnar, with var"
+    },
+    {
+      "placeId": "ChIJeY_W1KURCDsRbEy4SPbPeJc",
+      "name": "Kuzhupilly beach",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "court"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Kuzhupilly Beach, situated near Cherai Beach in Kochi, is a tranquil and unspoiled destination. The long stretch of sandy shoreline, adorned with large rocks and pine trees, offers an id"
+    },
+    {
+      "placeId": "ChIJv8a-SlENCDsRkkGEpcqC1Qs",
+      "name": "Kochi",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Kochi, also known as Cochin, is a captivating city located in the coastal state of Kerala in southwest India. With its rich history dating back to 1341 when a flood created its harbor, K"
+    },
+    {
+      "placeId": "ChIJFW4d6CtuCDsRNSp7MNszB70",
+      "name": "Chellanam Beach, Kochi",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "fort"
+      ],
+      "context_used_excerpt": "Target category: beaches Review: There is no beach as such. There is a sea wall which is saving the nearby people and their homes. The sea waves and its power is at its peak at this place and due to which it is known to "
+    },
+    {
+      "placeId": "ChIJk8_1sVhzCDsR22LoAsvFFHo",
+      "name": "Season Kerala Holidays",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Season Kerala Holidays offers a wide range of tour packages across India, including popular destinations like Ladakh, Himachal, Kashmir, Rajasthan, Andaman, Uttarakhand, Goa, and more. T"
+    },
+    {
+      "placeId": "ChIJ6U4P4aoRCDsR-RKe4wlP5-U",
+      "name": "Cherai beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach",
+        "sand"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches Tags: Historical landmark Review: Best Time to Visit:\nThe best time to visit Cherai Beach is from September to February, when the weather is pleasant and ideal for outdoor activities.\nAccommodati"
+    },
+    {
+      "placeId": "ChIJv3Y0aw8HCDsRrck9vjXdwjo",
+      "name": "TourzIndia Kerala Tour Packages",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches Tags: Tour operator, Tour agency, Travel agency Review: Right from the initial interaction with Anoop, using their website, pickup at the airport, friendly attitude throughout the trip with our g"
+    },
+    {
+      "placeId": "ChIJm_kVqq8NCDsRotj1OQO9jRQ",
+      "name": "Club Mahindra",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches Tags: Tour agency Review: Good place for buy everything in one trip but big crowds always the problem Cash counter big quees and more time spending the only .Carparking fee should not collect ppl"
+    },
+    {
+      "placeId": "ChIJ3dBOhjIMCDsR2lk0whwS9RE",
+      "name": "Kerala Tour",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches Tags: Tour agency Review: Deepesh from before holidays organized the kerala tour wonderful. The driver Rohit is professional and ensured the comfort and guided throughout the trip. The resorts an"
+    },
+    {
+      "placeId": "ChIJcY4-CQptCDsRwWqC1MfkFFM",
+      "name": "Mattancherry Kadavumbhagam Synagogue",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "fort",
+        "museum"
+      ],
+      "context_used_excerpt": "Target category: beaches General: The Mattancherry Kadavumbhagam Synagogue, often referred to as the Black Synagogue, stands as a remarkable symbol of Kochi's rich cultural tapestry. Located in the historic Jew Town, thi"
+    },
+    {
+      "placeId": "ChIJeUNuV_4RCDsRRzpvLoSB6A8",
+      "name": "Nayarambalam Beach",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "court"
+      ],
+      "context_used_excerpt": "Target category: beaches Tags: Beach volleyball court Review: Such a chill spot! It's a peaceful, uncrowded spot. Hardly anyone around, so it's super quiet and relaxing. Feels like one of those secret places only locals "
+    },
+    {
+      "placeId": "ChIJ4zXjsFIRCDsR4v5FkhYEYc4",
+      "name": "EDAVANAKAD BEACH",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [
+        "playground"
+      ],
+      "context_used_excerpt": "Target category: beaches Tags: Playground Review: Nice place to meditate. Review: Great view of the Arabian Sea"
+    },
+    {
+      "placeId": "ChIJj45mcgAZCDsRiNf-1ZVt7D4",
+      "name": "Muziris Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Muziris Beach, also known as Munambam Beach or Muziris Golden Beach, is located at the northern end of Cherai Beach. It's a picturesque spot where the River Periyar meets the Arabian Sea"
+    },
+    {
+      "placeId": "ChIJDzClQR1yCDsRUYgoempE-ok",
+      "name": "Kumbalangi",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Kumbalangi is a serene island village that offers a rural tourism experience. Visitors can witness the iconic Chinese fishing nets, wander through lush mangrove forests, and immerse them"
+    },
+    {
+      "placeId": "ChIJqfN2-QgNCDsRVNRu8ES0zek",
+      "name": "Ernakulam",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "cinema",
+        "mall",
+        "palace"
+      ],
+      "context_used_excerpt": "Target category: beaches General: Ernakulam, a bustling residential area, is famous for its Marine Drive waterfront promenade offering backwater cruises. The Kerala Folklore and Hill Palace museums showcase local heritag"
+    },
+    {
+      "placeId": "ChIJgUpyHYYZCDsRYSwiS_b6Qh4",
+      "name": "Munambam",
+      "accepted": true,
+      "decided_by": "llm",
+      "reason": "llm_yes",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Munambam, located in the northern part of Vypeen Island in Kochi, India, is a charming suburb surrounded by the Arabian Sea to the west and the Periyar river to the east. The area is kno"
+    },
+    {
+      "placeId": "ChIJ71F3attyCDsRogUGm-RBL0o",
+      "name": "Chilavannoor",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Chilavannoor, or Chilavannur, is a high-value residential area of Kochi in the state of Kerala, India. Chilavannoor Road serves as its main artery, running from the Elamkulam junction an"
+    },
+    {
+      "placeId": "ChIJu5PLUAYTCDsRDbTlg8svnxU",
+      "name": "Puthuvype Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Puthuvype Beach is a beautiful, sandy beach that is perfect for a lazy day by the water. The beach is located a short walk from Kochi City Centre, making it easy to get to. There are sev"
+    },
+    {
+      "placeId": "ChIJNe9XSdAQCDsRcLPWy11fh-Y",
+      "name": "Kuzhuppilly Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach",
+        "sand"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Kuzhuppilly Beach is a stunning and picturesque coastal destination where the shoreline is adorned with lush vegetation. This idyllic beach boasts a serene ambiance with gentle waves, ma"
+    },
+    {
+      "placeId": "ChIJpxzK0RtuCDsROPDQ1RG8tFk",
+      "name": "Puthenthodu Beach",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "beach"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: beaches General: Puthenthode Beach is a small, serene beach located in Chellanam, 12 km from Kochi city center. The beach is popular for its peaceful vibe and calm environs. It can be accessed by bus. Ad"
+    }
+  ],
+  "out_files": {
+    "playlist_json": "trial_playlists\\kochi_beaches_109844.json",
+    "report_json": "trial_playlists\\kochi_beaches_109844.report.json"
+  },
+  "created_ts": 1758857104
+}

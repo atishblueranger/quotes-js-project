@@ -1,0 +1,134 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1758966222,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\mumbai_20250927_1513\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 2,
+      "city": "Mumbai",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97214",
+      "title": "The 49 best architecture in Mumbai",
+      "final_title": "Architectural Wonders of Mumbai Unveiled",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 49,
+        "rejected": 0,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "574",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\mumbai_20250927_1513\\mumbai_architecture_97214.json",
+        "report_json": "publish_playlist\\mumbai_20250927_1513\\mumbai_architecture_97214.report.json"
+      },
+      "created_ts": 1758967109
+    },
+    {
+      "job_index": 1,
+      "city": "Mumbai",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163777",
+      "title": "The 50 most romantic places in Mumbai",
+      "final_title": "Love in the Heart of Mumbai",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 50,
+        "rejected": 0,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "575",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\mumbai_20250927_1513\\mumbai_romantic-places_163777.json",
+        "report_json": "publish_playlist\\mumbai_20250927_1513\\mumbai_romantic-places_163777.report.json"
+      },
+      "created_ts": 1758967916
+    },
+    {
+      "job_index": 0,
+      "city": "Mumbai",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160179",
+      "title": "The 49 best photo spots in Mumbai",
+      "final_title": "Capturing Mumbai: Iconic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 38,
+        "rejected": 11,
+        "accepted_final": 23
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 46,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "576",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\mumbai_20250927_1513\\mumbai_photo-spots_160179.json",
+        "report_json": "publish_playlist\\mumbai_20250927_1513\\mumbai_photo-spots_160179.report.json"
+      },
+      "created_ts": 1758968611
+    }
+  ],
+  "end_ts": 1758968612,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 47,
+    "llm_title_calls": 3,
+    "google_places_calls": 54,
+    "cache_hits": 29,
+    "cache_misses": 107
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 47,
+    "llm_title_cache": 3,
+    "google_places_cache": 54,
+    "mobx_data_cache": 3
+  }
+}

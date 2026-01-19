@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Christchurch Vibes",
+  "placeName": "Christchurch",
+  "country": "New Zealand",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/waterfalls-near-christchurch/"
+  ],
+  "description": "Coastal breeze, urban calm — soundtrack for wandering Ōtautahi streets and river trails.",
+  "items": [
+    {
+      "name": "Marokopa Falls",
+      "description": "",
+      "location_hint": "Te Anga 3988, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Huka Falls",
+      "description": "",
+      "location_hint": "Taupo 3377, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Purakaunui Falls",
+      "description": "",
+      "location_hint": "The Catlins, South Island",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kitekite Falls",
+      "description": "",
+      "location_hint": "36°57'05.3″S 174°29'03/8″E Queen St, Auckland, 1010, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Stirling Falls",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Bridal Veil Falls",
+      "description": "",
+      "location_hint": "Highlands, NC",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Devils Punch Bowls",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Wairere Falls",
+      "description": "",
+      "location_hint": "Okauia 3391, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Tawhai Falls",
+      "description": "",
+      "location_hint": "Manawatu-Wanganui 4691, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Thunder Creek Falls",
+      "description": "",
+      "location_hint": "Haast Pass-Makarora Rd, Mt Aspiring National Park 9382, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

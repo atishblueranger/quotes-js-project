@@ -1,0 +1,382 @@
+{
+  "script_version": "1.3.0",
+  "start_ts": 1759589575,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\croatia_20251004_2022\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Zagreb",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164056",
+      "title": "The 50 most romantic places in Zagreb",
+      "final_title": "Whispers of Love in Zagreb's Hidden Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 50,
+        "rejected": 0,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1044",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\zagreb_romantic-places_164056.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\zagreb_romantic-places_164056.report.json"
+      },
+      "created_ts": 1759590053
+    },
+    {
+      "job_index": 3,
+      "city": "Split",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160479",
+      "title": "The 18 best photo spots in Split",
+      "final_title": "Picture-Perfect Moments in Split",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 15,
+        "rejected": 3,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1045",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\split_photo-spots_160479.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\split_photo-spots_160479.report.json"
+      },
+      "created_ts": 1759590237
+    },
+    {
+      "job_index": 5,
+      "city": "Dubrovnik",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164085",
+      "title": "The 49 most romantic places in Dubrovnik",
+      "final_title": "Whispers of Love in Dubrovnik",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 48,
+        "rejected": 1,
+        "accepted_final": 29
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1046",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\dubrovnik_romantic-places_164085.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\dubrovnik_romantic-places_164085.report.json"
+      },
+      "created_ts": 1759590710
+    },
+    {
+      "job_index": 8,
+      "city": "Dubrovnik",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115512",
+      "title": "The 16 best castles in and around Dubrovnik",
+      "final_title": "Castles of Dubrovnik: A Journey Through Time",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 3,
+        "rejected": 13,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\dubrovnik_castles_115512.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\dubrovnik_castles_115512.report.json"
+      },
+      "created_ts": 1759590733
+    },
+    {
+      "job_index": 9,
+      "city": "Zadar",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164246",
+      "title": "The 25 most romantic places in Zadar",
+      "final_title": "Whispers of Love in Zadar",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 25,
+        "rejected": 0,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1048",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\zadar_romantic-places_164246.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\zadar_romantic-places_164246.report.json"
+      },
+      "created_ts": 1759590971
+    },
+    {
+      "job_index": 10,
+      "city": "Zadar",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160648",
+      "title": "The 28 best photo spots in Zadar",
+      "final_title": "Capturing Zadar: A Photogenic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 19,
+        "rejected": 9,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 26,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1049",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\zadar_photo-spots_160648.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\zadar_photo-spots_160648.report.json"
+      },
+      "created_ts": 1759591194
+    },
+    {
+      "job_index": 1,
+      "city": "Zagreb",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160458",
+      "title": "The 34 best photo spots in Zagreb",
+      "final_title": "Capturing Zagreb: A Photographic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 34,
+        "blocks": 34,
+        "merged": 34,
+        "accepted_before_trim": 25,
+        "rejected": 9,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 32,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1050",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\zagreb_photo-spots_160458.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\zagreb_photo-spots_160458.report.json"
+      },
+      "created_ts": 1759591473
+    },
+    {
+      "job_index": 2,
+      "city": "Split",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164077",
+      "title": "The 44 most romantic places in Split",
+      "final_title": "Romantic Escapes in Enchanting Split",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 42,
+        "rejected": 2,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1051",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\split_romantic-places_164077.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\split_romantic-places_164077.report.json"
+      },
+      "created_ts": 1759591881
+    },
+    {
+      "job_index": 4,
+      "city": "Split",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110107",
+      "title": "The 25 best beaches in and around Split",
+      "final_title": "Sun-Kissed Shores of Split",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 22,
+        "rejected": 3,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1052",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\split_beaches_110107.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\split_beaches_110107.report.json"
+      },
+      "created_ts": 1759592107
+    },
+    {
+      "job_index": 7,
+      "city": "Dubrovnik",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110115",
+      "title": "The 28 best beaches in and around Dubrovnik",
+      "final_title": "Dubrovnik's Coastal Bliss: Beach Vibes Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 24,
+        "rejected": 4,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 5,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1053",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\croatia_20251004_2022\\dubrovnik_beaches_110115.json",
+        "report_json": "publish_playlist\\croatia_20251004_2022\\dubrovnik_beaches_110115.report.json"
+      },
+      "created_ts": 1759592360
+    }
+  ],
+  "end_ts": 1759592361,
+  "finish_reason": "finished",
+  "failures_count": 2,
+  "failures_file": "publish_playlist\\croatia_20251004_2022\\_failed_jobs.json",
+  "rerun_dataset_file": "publish_playlist\\croatia_20251004_2022\\_rerun_dataset.json",
+  "cache_stats": {
+    "llm_validation_calls": 94,
+    "llm_title_calls": 10,
+    "google_places_calls": 140,
+    "cache_hits": 25,
+    "cache_misses": 256
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 94,
+    "llm_title_cache": 10,
+    "google_places_cache": 140,
+    "mobx_data_cache": 10
+  }
+}

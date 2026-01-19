@@ -147,6 +147,51 @@ class SearchedCategoriesSpider(scrapy.Spider):
         for char in invalid_chars:
             title = title.replace(char, '-')
         return title
+def clean_text(self, text):
+        """Cleans up special unicode characters in text."""
+        if text:
+            cleaned_text = (text
+            .replace(u'\u2019', "'")   # Replace right single quote
+            .replace(u'\u2014', "-")   # Replace em dash
+            .replace(u'\u00f3', 'ó')   # Replace o with acute
+            .replace(u'\u201c', '"')   # Replace left double quote
+            .replace(u'\u201d', '"')   # Replace right double quote
+            .replace(u'\u00f9', 'ù')   # Replace u with grave
+            .replace(u'\u1ea1', 'ạ')   # Replace a with dot below
+            .replace(u'\u0111', 'đ')   # Replace d with stroke
+            .replace(u'\u1ee7', 'ủ')   # Replace u with hook above
+            .replace(u'\u00ed', 'í')   # Replace i with acute
+            .replace(u'\u00e9', 'é')   # Replace e with acute
+            .replace(u'\u00e8', 'è')   # Replace e with grave
+            .replace(u'\u00e0', 'à')   # Replace a with grave
+            .replace(u'\u00b2', '²')   # Replace superscript two
+            .replace(u'\u00f8', 'ø')   # Replace o with stroke
+            .replace(u'\u00f4', 'ô')   # Replace o with circumflex
+            .replace(u'\u00e7', 'ç')   # Replace c with cedilla
+            .replace(u'\u00eb', 'ë')   # Replace e with diaeresis
+            .replace(u'\u00fc', 'ü')   # Replace u with diaeresis
+            .replace(u'\u00f1', 'ñ')   # Replace n with tilde
+            .replace(u'\u00e2', 'â')   # Replace a with circumflex
+            .replace(u'\u00e4', 'ä')   # Replace a with diaeresis
+            .replace(u'\u00c4', 'Ä')   # Replace A with diaeresis
+            .replace(u'\u00f6', 'ö')   # Replace o with diaeresis
+            .replace(u'\u00df', 'ß')   # Replace sharp s
+            .replace(u'\u00c0', 'À')   # Replace A with grave
+            .replace(u'\u00c9', 'É')   # Replace E with acute
+            .replace(u'\u00d3', 'Ó')   # Replace O with acute
+            .replace(u'\u00d1', 'Ñ')   # Replace N with tilde
+            .replace(u'\u00b0', '°')   # Replace degree symbol
+            .replace(u'\u00ba', 'º')   # Replace masculine ordinal indicator
+            .replace(u'\u00e5', 'å')   # Replace a with ring above
+            .replace(u'\u00c5', 'Å')   # Replace A with ring above
+            .replace(u'\u00f2', 'ò')   # Replace o with grave
+            .replace(u'\u00fa', 'ú')   # Replace u with acute
+            .replace(u'\u00e1', 'á')   # Replace a with acute
+            .replace(u'\u00ea', 'ê')   # Replace e with circumflex
+            .replace(u'\u00f5', 'õ')   # Replace o with tilde
+            )
+            return cleaned_text
+        return text
 
     # def clean_text(self, text):
     #     """Cleans up special unicode characters in text."""
@@ -325,52 +370,7 @@ class SearchedCategoriesSpider(scrapy.Spider):
 #             title = title.replace(char, '-')
 #         return title
 
-    def clean_text(self, text):
-        """Cleans up special unicode characters in text."""
-        if text:
-            cleaned_text = (text
-            .replace(u'\u2019', "'")   # Replace right single quote
-            .replace(u'\u2014', "-")   # Replace em dash
-            .replace(u'\u00f3', 'ó')   # Replace o with acute
-            .replace(u'\u201c', '"')   # Replace left double quote
-            .replace(u'\u201d', '"')   # Replace right double quote
-            .replace(u'\u00f9', 'ù')   # Replace u with grave
-            .replace(u'\u1ea1', 'ạ')   # Replace a with dot below
-            .replace(u'\u0111', 'đ')   # Replace d with stroke
-            .replace(u'\u1ee7', 'ủ')   # Replace u with hook above
-            .replace(u'\u00ed', 'í')   # Replace i with acute
-            .replace(u'\u00e9', 'é')   # Replace e with acute
-            .replace(u'\u00e8', 'è')   # Replace e with grave
-            .replace(u'\u00e0', 'à')   # Replace a with grave
-            .replace(u'\u00b2', '²')   # Replace superscript two
-            .replace(u'\u00f8', 'ø')   # Replace o with stroke
-            .replace(u'\u00f4', 'ô')   # Replace o with circumflex
-            .replace(u'\u00e7', 'ç')   # Replace c with cedilla
-            .replace(u'\u00eb', 'ë')   # Replace e with diaeresis
-            .replace(u'\u00fc', 'ü')   # Replace u with diaeresis
-            .replace(u'\u00f1', 'ñ')   # Replace n with tilde
-            .replace(u'\u00e2', 'â')   # Replace a with circumflex
-            .replace(u'\u00e4', 'ä')   # Replace a with diaeresis
-            .replace(u'\u00c4', 'Ä')   # Replace A with diaeresis
-            .replace(u'\u00f6', 'ö')   # Replace o with diaeresis
-            .replace(u'\u00df', 'ß')   # Replace sharp s
-            .replace(u'\u00c0', 'À')   # Replace A with grave
-            .replace(u'\u00c9', 'É')   # Replace E with acute
-            .replace(u'\u00d3', 'Ó')   # Replace O with acute
-            .replace(u'\u00d1', 'Ñ')   # Replace N with tilde
-            .replace(u'\u00b0', '°')   # Replace degree symbol
-            .replace(u'\u00ba', 'º')   # Replace masculine ordinal indicator
-            .replace(u'\u00e5', 'å')   # Replace a with ring above
-            .replace(u'\u00c5', 'Å')   # Replace A with ring above
-            .replace(u'\u00f2', 'ò')   # Replace o with grave
-            .replace(u'\u00fa', 'ú')   # Replace u with acute
-            .replace(u'\u00e1', 'á')   # Replace a with acute
-            .replace(u'\u00ea', 'ê')   # Replace e with circumflex
-            .replace(u'\u00f5', 'õ')   # Replace o with tilde
-            )
-            return cleaned_text
-        return text
-
+  
 
 
 # import scrapy

@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Kyoto",
+  "category_used": "free attractions",
+  "url": "https://wanderlog.com/list/geoCategory/129575",
+  "title": "The 37 best free attractions in Kyoto",
+  "final_title": "Kyoto's Hidden Gems: Explore for Free",
+  "from_cache": false,
+  "counts": {
+    "meta": 37,
+    "blocks": 37,
+    "merged": 37,
+    "accepted_before_trim": 15,
+    "rejected": 22,
+    "accepted_final": 9
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 16,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "772",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\japan_20251001_1149\\kyoto_beaches_129575.json",
+    "report_json": "publish_playlist\\japan_20251001_1149\\kyoto_beaches_129575.report.json"
+  },
+  "created_ts": 1759299823
+}

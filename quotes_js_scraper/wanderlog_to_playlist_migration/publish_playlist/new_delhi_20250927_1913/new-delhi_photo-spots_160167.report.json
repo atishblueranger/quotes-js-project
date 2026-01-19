@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "New Delhi",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160167",
+  "title": "The 40 best photo spots in New Delhi",
+  "final_title": "Capturing the Heart of New Delhi",
+  "from_cache": false,
+  "counts": {
+    "meta": 40,
+    "blocks": 40,
+    "merged": 40,
+    "accepted_before_trim": 37,
+    "rejected": 3,
+    "accepted_final": 23
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 39,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\new_delhi_20250927_1913\\new-delhi_photo-spots_160167.json",
+    "report_json": "publish_playlist\\new_delhi_20250927_1913\\new-delhi_photo-spots_160167.report.json"
+  },
+  "created_ts": 1758981728
+}

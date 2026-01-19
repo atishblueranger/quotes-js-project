@@ -1,0 +1,35 @@
+{
+  "job_index": 8,
+  "city": "Seville",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160434",
+  "title": "The 32 best photo spots in Seville",
+  "final_title": "Seville's Picture-Perfect Moments Await",
+  "from_cache": false,
+  "counts": {
+    "meta": 32,
+    "blocks": 32,
+    "merged": 32,
+    "accepted_before_trim": 26,
+    "rejected": 6,
+    "accepted_final": 16
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 28,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "975",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\spain_20251002_1031\\seville_photo-spots_160434.json",
+    "report_json": "publish_playlist\\spain_20251002_1031\\seville_photo-spots_160434.report.json"
+  },
+  "created_ts": 1759383300
+}

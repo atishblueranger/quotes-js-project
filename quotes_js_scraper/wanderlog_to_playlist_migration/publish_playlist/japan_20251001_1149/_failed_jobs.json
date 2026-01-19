@@ -1,0 +1,56 @@
+[
+  {
+    "job_index": null,
+    "city": "Kyoto",
+    "category": "romantic places",
+    "title": "The 49 most romantic places in Kyoto",
+    "url": "https://wanderlog.com/list/geoCategory/163756",
+    "stage": "parse",
+    "error": "mobx_regex_no_match"
+  },
+  {
+    "job_index": null,
+    "city": "Osaka",
+    "category": "free attractions",
+    "title": "The 50 best free attractions in Osaka",
+    "url": "https://wanderlog.com/list/geoCategory/129576",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Yokohama",
+    "category": "beaches",
+    "title": "The 26 best beaches in and around Yokohama",
+    "url": "https://wanderlog.com/list/geoCategory/109802",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Minato",
+    "category": "free attractions",
+    "title": "The 34 best free attractions in Minato",
+    "url": "https://wanderlog.com/list/geoCategory/129594",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Nagoya",
+    "category": "free attractions",
+    "title": "The 22 best free attractions in Nagoya",
+    "url": "https://wanderlog.com/list/geoCategory/129600",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Beppu",
+    "category": "romantic places",
+    "title": "The 25 most romantic places in Beppu",
+    "url": "https://wanderlog.com/list/geoCategory/163900",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "job_index": 34,
+  "city": "Sintra",
+  "category_used": "waterfalls",
+  "url": "https://wanderlog.com/list/geoCategory/178646",
+  "title": "The 15 best waterfalls near Sintra",
+  "final_title": "Chasing Cascades: Waterfalls of Sintra",
+  "from_cache": false,
+  "counts": {
+    "meta": 15,
+    "blocks": 15,
+    "merged": 15,
+    "accepted_before_trim": 3,
+    "rejected": 12,
+    "accepted_final": 2
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 7,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\germany_20251003_0018\\sintra_waterfalls_178646.json",
+    "report_json": "publish_playlist\\germany_20251003_0018\\sintra_waterfalls_178646.report.json"
+  },
+  "created_ts": 1759437084
+}

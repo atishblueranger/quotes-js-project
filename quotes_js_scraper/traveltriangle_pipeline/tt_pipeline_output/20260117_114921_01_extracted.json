@@ -1,0 +1,62 @@
+{
+  "playlistTitle": "Pura Vida Trails",
+  "placeName": "Costa-Rica",
+  "country": "Costa Rica",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hiking-in-costa-rica/"
+  ],
+  "description": "Sun-dappled hikes, ocean breeze, and pura vida rhythms—soundtrack for Costa Rica's wild trails.",
+  "items": [
+    {
+      "name": "Arenal Volcano National Park Hike",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Rio Celeste Waterfall and Tenorio Volcano Hike",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Manuel Antonio National Park Hike",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Bajos del Toro Waterfall Hike",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Monteverde Cloud Forest Reserve Hike",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Poas Volcano National Park Hike",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

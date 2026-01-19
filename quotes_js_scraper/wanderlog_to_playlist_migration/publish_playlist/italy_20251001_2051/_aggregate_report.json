@@ -1,0 +1,1257 @@
+{
+  "script_version": "1.3.0",
+  "start_ts": 1759332110,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\italy_20251001_2051\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Rome",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115439",
+      "title": "The 35 best castles in and around Rome",
+      "final_title": "Enchanting Castles of Rome: A Journey Through Time",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 6,
+        "rejected": 29,
+        "accepted_final": 4
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\rome_castles_115439.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\rome_castles_115439.report.json"
+      },
+      "created_ts": 1759332168
+    },
+    {
+      "job_index": 1,
+      "city": "Rome",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160414",
+      "title": "The 49 best photo spots in Rome",
+      "final_title": "Capturing Rome: Iconic Photo Journeys",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 47,
+        "rejected": 2,
+        "accepted_final": 29
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 45,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "889",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\rome_photo-spots_160414.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\rome_photo-spots_160414.report.json"
+      },
+      "created_ts": 1759332794
+    },
+    {
+      "job_index": 4,
+      "city": "Venice",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115453",
+      "title": "The 38 best castles in and around Venice",
+      "final_title": "The 38 best castles in and around Venice",
+      "from_cache": false,
+      "counts": {
+        "meta": 38,
+        "blocks": 38,
+        "merged": 38,
+        "accepted_before_trim": 0,
+        "rejected": 38,
+        "accepted_final": 0
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 0
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\venice_castles_115453.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\venice_castles_115453.report.json"
+      },
+      "created_ts": 1759332846
+    },
+    {
+      "job_index": 5,
+      "city": "Venice",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160428",
+      "title": "The 49 best photo spots in Venice",
+      "final_title": "Picture Perfect Venice",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 41,
+        "rejected": 8,
+        "accepted_final": 25
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 44,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "891",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\venice_photo-spots_160428.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\venice_photo-spots_160428.report.json"
+      },
+      "created_ts": 1759333393
+    },
+    {
+      "job_index": 8,
+      "city": "Florence",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160425",
+      "title": "The 39 best photo spots in Florence",
+      "final_title": "Florence: Capture the City’s Timeless Beauty",
+      "from_cache": false,
+      "counts": {
+        "meta": 39,
+        "blocks": 39,
+        "merged": 39,
+        "accepted_before_trim": 32,
+        "rejected": 7,
+        "accepted_final": 20
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 34,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "892",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\florence_photo-spots_160425.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\florence_photo-spots_160425.report.json"
+      },
+      "created_ts": 1759333817
+    },
+    {
+      "job_index": 9,
+      "city": "Florence",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164023",
+      "title": "The 44 most romantic places in Florence",
+      "final_title": "Florence: Love in Every Corner",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 43,
+        "rejected": 1,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "893",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\florence_romantic-places_164023.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\florence_romantic-places_164023.report.json"
+      },
+      "created_ts": 1759334244
+    },
+    {
+      "job_index": 10,
+      "city": "Milan",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115446",
+      "title": "The 39 best castles in and around Milan",
+      "final_title": "Majestic Castles of Milan: A Journey Through Time",
+      "from_cache": false,
+      "counts": {
+        "meta": 39,
+        "blocks": 39,
+        "merged": 39,
+        "accepted_before_trim": 3,
+        "rejected": 36,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 25,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\milan_castles_115446.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\milan_castles_115446.report.json"
+      },
+      "created_ts": 1759334311
+    },
+    {
+      "job_index": 11,
+      "city": "Milan",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160421",
+      "title": "The 42 best photo spots in Milan",
+      "final_title": "Capturing Milan: Iconic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 42,
+        "blocks": 42,
+        "merged": 42,
+        "accepted_before_trim": 38,
+        "rejected": 4,
+        "accepted_final": 23
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 41,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "895",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\milan_photo-spots_160421.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\milan_photo-spots_160421.report.json"
+      },
+      "created_ts": 1759334862
+    },
+    {
+      "job_index": 12,
+      "city": "Milan",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164019",
+      "title": "The 49 most romantic places in Milan",
+      "final_title": "Whispers of Love in Milan's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 49,
+        "rejected": 0,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "896",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\milan_romantic-places_164019.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\milan_romantic-places_164019.report.json"
+      },
+      "created_ts": 1759335366
+    },
+    {
+      "job_index": 13,
+      "city": "Vatican City",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115980",
+      "title": "The 27 best castles in and around Vatican City",
+      "final_title": "Enchanting Echoes of Vatican Castles",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 4,
+        "rejected": 23,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\vatican-city_castles_115980.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\vatican-city_castles_115980.report.json"
+      },
+      "created_ts": 1759335398
+    },
+    {
+      "job_index": 15,
+      "city": "Vatican City",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164553",
+      "title": "The 47 most romantic places in Vatican City",
+      "final_title": "Whispers of Love in Vatican City",
+      "from_cache": false,
+      "counts": {
+        "meta": 47,
+        "blocks": 47,
+        "merged": 47,
+        "accepted_before_trim": 47,
+        "rejected": 0,
+        "accepted_final": 29
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "898",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\vatican-city_romantic-places_164553.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\vatican-city_romantic-places_164553.report.json"
+      },
+      "created_ts": 1759335858
+    },
+    {
+      "job_index": 17,
+      "city": "Naples",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115454",
+      "title": "The 19 best castles in and around Naples",
+      "final_title": "Castles of Enchantment: Discovering Naples",
+      "from_cache": false,
+      "counts": {
+        "meta": 19,
+        "blocks": 19,
+        "merged": 19,
+        "accepted_before_trim": 10,
+        "rejected": 9,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\naples_castles_115454.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\naples_castles_115454.report.json"
+      },
+      "created_ts": 1759335890
+    },
+    {
+      "job_index": 18,
+      "city": "Naples",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164027",
+      "title": "The 41 most romantic places in Naples",
+      "final_title": "Whispers of Love in Enchanted Naples",
+      "from_cache": false,
+      "counts": {
+        "meta": 41,
+        "blocks": 41,
+        "merged": 41,
+        "accepted_before_trim": 41,
+        "rejected": 0,
+        "accepted_final": 25
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "900",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\naples_romantic-places_164027.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\naples_romantic-places_164027.report.json"
+      },
+      "created_ts": 1759336303
+    },
+    {
+      "job_index": 19,
+      "city": "Pompeii",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115683",
+      "title": "The 2 best castles in and around Avignon",
+      "final_title": "Enchanting Castles of Pompeii's Past",
+      "from_cache": false,
+      "counts": {
+        "meta": 2,
+        "blocks": 2,
+        "merged": 2,
+        "accepted_before_trim": 1,
+        "rejected": 1,
+        "accepted_final": 1
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\pompeii_castles_115683.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\pompeii_castles_115683.report.json"
+      },
+      "created_ts": 1759336313
+    },
+    {
+      "job_index": 20,
+      "city": "Pompeii",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160683",
+      "title": "The 22 best photo spots in Pompeii",
+      "final_title": "Capturing Pompeii: Timeless Photo Treasures",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 20,
+        "rejected": 2,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "902",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\pompeii_photo-spots_160683.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\pompeii_photo-spots_160683.report.json"
+      },
+      "created_ts": 1759336587
+    },
+    {
+      "job_index": 21,
+      "city": "Pisa",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110170",
+      "title": "The 15 best beaches in and around Pisa",
+      "final_title": "Seaside Serenity: Pisa's Coastal Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 13,
+        "rejected": 2,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 3,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "903",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\pisa_beaches_110170.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\pisa_beaches_110170.report.json"
+      },
+      "created_ts": 1759336765
+    },
+    {
+      "job_index": 22,
+      "city": "Pisa",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160542",
+      "title": "The 22 best photo spots in Pisa",
+      "final_title": "Picture-Perfect Pisa: Capture the Charm",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 19,
+        "rejected": 3,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "904",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\pisa_photo-spots_160542.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\pisa_photo-spots_160542.report.json"
+      },
+      "created_ts": 1759337018
+    },
+    {
+      "job_index": 23,
+      "city": "Sorrento",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110152",
+      "title": "The 17 best beaches in and around Sorrento",
+      "final_title": "Sorrento's Coastal Bliss: Beach Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 14,
+        "rejected": 3,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "905",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\sorrento_beaches_110152.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\sorrento_beaches_110152.report.json"
+      },
+      "created_ts": 1759337187
+    },
+    {
+      "job_index": 25,
+      "city": "Amalfi",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110448",
+      "title": "The 17 best beaches in and around Amalfi",
+      "final_title": "Sun-Kissed Shores of Amalfi Bliss",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 14,
+        "rejected": 3,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "906",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\amalfi_beaches_110448.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\amalfi_beaches_110448.report.json"
+      },
+      "created_ts": 1759337350
+    },
+    {
+      "job_index": 27,
+      "city": "Amalfi",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160820",
+      "title": "The 21 best photo spots in Amalfi",
+      "final_title": "Picture-Perfect Moments in Amalfi",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 14,
+        "rejected": 7,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 19,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "907",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\amalfi_photo-spots_160820.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\amalfi_photo-spots_160820.report.json"
+      },
+      "created_ts": 1759337545
+    },
+    {
+      "job_index": 29,
+      "city": "Ravello",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110605",
+      "title": "The 16 best beaches in and around Ravello",
+      "final_title": "Ravello's Coastal Escapes: Sun, Sand, Serenity",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 13,
+        "rejected": 3,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 3,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "908",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\ravello_beaches_110605.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\ravello_beaches_110605.report.json"
+      },
+      "created_ts": 1759337688
+    },
+    {
+      "job_index": 30,
+      "city": "Ravello",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115977",
+      "title": "The  best castles in and around Bonifacio",
+      "final_title": "The  best castles in and around Bonifacio",
+      "from_cache": false,
+      "counts": {
+        "meta": 0,
+        "blocks": 0,
+        "merged": 0,
+        "accepted_before_trim": 0,
+        "rejected": 0,
+        "accepted_final": 0
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 0
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\ravello_castles_115977.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\ravello_castles_115977.report.json"
+      },
+      "created_ts": 1759337689
+    },
+    {
+      "job_index": 31,
+      "city": "Ravello",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160977",
+      "title": "The 21 best photo spots in Ravello",
+      "final_title": "Capturing Ravello: A Photographic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 10,
+        "rejected": 11,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 18,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\ravello_photo-spots_160977.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\ravello_photo-spots_160977.report.json"
+      },
+      "created_ts": 1759337733
+    },
+    {
+      "job_index": 32,
+      "city": "Ravello",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164575",
+      "title": "The 21 most romantic places in Ravello",
+      "final_title": "Romantic Escapes in Enchanting Ravello",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 21,
+        "rejected": 0,
+        "accepted_final": 13
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "911",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\ravello_romantic-places_164575.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\ravello_romantic-places_164575.report.json"
+      },
+      "created_ts": 1759337939
+    },
+    {
+      "job_index": 35,
+      "city": "Turin",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164039",
+      "title": "The 37 most romantic places in Turin",
+      "final_title": "Romantic Escapes in Enchanting Turin",
+      "from_cache": false,
+      "counts": {
+        "meta": 37,
+        "blocks": 37,
+        "merged": 37,
+        "accepted_before_trim": 37,
+        "rejected": 0,
+        "accepted_final": 23
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "912",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\turin_romantic-places_164039.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\turin_romantic-places_164039.report.json"
+      },
+      "created_ts": 1759338353
+    },
+    {
+      "job_index": 37,
+      "city": "Bologna",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164058",
+      "title": "The 27 most romantic places in Bologna",
+      "final_title": "Romantic Escapes in Enchanting Bologna",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 27,
+        "rejected": 0,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "913",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\bologna_romantic-places_164058.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\bologna_romantic-places_164058.report.json"
+      },
+      "created_ts": 1759338632
+    },
+    {
+      "job_index": 38,
+      "city": "Verona",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115519",
+      "title": "The 49 best castles in and around Verona",
+      "final_title": "Enchanting Castles of Verona's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 12,
+        "rejected": 37,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 22,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "914",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\verona_castles_115519.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\verona_castles_115519.report.json"
+      },
+      "created_ts": 1759338844
+    },
+    {
+      "job_index": 39,
+      "city": "Verona",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160494",
+      "title": "The 24 best photo spots in Verona",
+      "final_title": "Verona's Picture-Perfect Moments Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 24,
+        "rejected": 0,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 23,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "915",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\verona_photo-spots_160494.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\verona_photo-spots_160494.report.json"
+      },
+      "created_ts": 1759339173
+    },
+    {
+      "job_index": 40,
+      "city": "Verona",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164092",
+      "title": "The 49 most romantic places in Verona",
+      "final_title": "Whispers of Love in Verona",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 49,
+        "rejected": 0,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "916",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\verona_romantic-places_164092.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\verona_romantic-places_164092.report.json"
+      },
+      "created_ts": 1759339694
+    },
+    {
+      "job_index": 16,
+      "city": "Naples",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110057",
+      "title": "The 19 best beaches in and around Naples",
+      "final_title": "Naples' Coastal Escapes: Sun-Kissed Shores",
+      "from_cache": false,
+      "counts": {
+        "meta": 19,
+        "blocks": 19,
+        "merged": 19,
+        "accepted_before_trim": 17,
+        "rejected": 2,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 5,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "917",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\naples_beaches_110057.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\naples_beaches_110057.report.json"
+      },
+      "created_ts": 1759339910
+    },
+    {
+      "job_index": 24,
+      "city": "Sorrento",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164122",
+      "title": "The 18 most romantic places in Sorrento",
+      "final_title": "Romantic Escapes in Enchanting Sorrento",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 18,
+        "rejected": 0,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "918",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\sorrento_romantic-places_164122.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\sorrento_romantic-places_164122.report.json"
+      },
+      "created_ts": 1759340115
+    },
+    {
+      "job_index": 26,
+      "city": "Amalfi",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115820",
+      "title": "The  best castles in and around Arzachena",
+      "final_title": "The  best castles in and around Arzachena",
+      "from_cache": false,
+      "counts": {
+        "meta": 0,
+        "blocks": 0,
+        "merged": 0,
+        "accepted_before_trim": 0,
+        "rejected": 0,
+        "accepted_final": 0
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 0
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\amalfi_castles_115820.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\amalfi_castles_115820.report.json"
+      },
+      "created_ts": 1759340118
+    },
+    {
+      "job_index": 28,
+      "city": "Amalfi",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164418",
+      "title": "The 21 most romantic places in Amalfi",
+      "final_title": "Whispers of Romance in Amalfi's Embrace",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 21,
+        "rejected": 0,
+        "accepted_final": 13
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "920",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\amalfi_romantic-places_164418.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\amalfi_romantic-places_164418.report.json"
+      },
+      "created_ts": 1759340319
+    },
+    {
+      "job_index": 33,
+      "city": "Turin",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115466",
+      "title": "The 39 best castles in and around Turin",
+      "final_title": "Turin's Enchanted Castles Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 39,
+        "blocks": 39,
+        "merged": 39,
+        "accepted_before_trim": 3,
+        "rejected": 36,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 25,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\turin_castles_115466.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\turin_castles_115466.report.json"
+      },
+      "created_ts": 1759340380
+    },
+    {
+      "job_index": 36,
+      "city": "Bologna",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160460",
+      "title": "The 44 best photo spots in Bologna",
+      "final_title": "Bologna's Picture-Perfect Moments Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 32,
+        "rejected": 12,
+        "accepted_final": 20
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 40,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "922",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\italy_20251001_2051\\bologna_photo-spots_160460.json",
+        "report_json": "publish_playlist\\italy_20251001_2051\\bologna_photo-spots_160460.report.json"
+      },
+      "created_ts": 1759340844
+    }
+  ],
+  "end_ts": 1759340845,
+  "finish_reason": "finished",
+  "failures_count": 6,
+  "failures_file": "publish_playlist\\italy_20251001_2051\\_failed_jobs.json",
+  "rerun_dataset_file": "publish_playlist\\italy_20251001_2051\\_rerun_dataset.json",
+  "cache_stats": {
+    "llm_validation_calls": 460,
+    "llm_title_calls": 32,
+    "google_places_calls": 362,
+    "cache_hits": 73,
+    "cache_misses": 895
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 460,
+    "llm_title_cache": 32,
+    "google_places_cache": 362,
+    "mobx_data_cache": 35
+  }
+}

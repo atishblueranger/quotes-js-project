@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Kolkata",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160217",
+  "title": "The 50 best photo spots in Kolkata (Calcutta)",
+  "final_title": "Capturing Kolkata: A Photographic Journey",
+  "from_cache": false,
+  "counts": {
+    "meta": 50,
+    "blocks": 50,
+    "merged": 50,
+    "accepted_before_trim": 40,
+    "rejected": 10,
+    "accepted_final": 24
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 44,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\kolkata_20250927_1612\\kolkata_photo-spots_160217.json",
+    "report_json": "publish_playlist\\kolkata_20250927_1612\\kolkata_photo-spots_160217.report.json"
+  },
+  "created_ts": 1758971776
+}

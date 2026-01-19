@@ -1,0 +1,169 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1758976044,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 2,
+      "city": "Pondicherry",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163927",
+      "title": "The 32 most romantic places in Pondicherry",
+      "final_title": "Whispers of Love in Pondicherry",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 31,
+        "rejected": 1,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "587",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\pondicherry_romantic-places_163927.json",
+        "report_json": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\pondicherry_romantic-places_163927.report.json"
+      },
+      "created_ts": 1758976431
+    },
+    {
+      "job_index": 1,
+      "city": "Pondicherry",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160329",
+      "title": "The 32 best photo spots in Pondicherry",
+      "final_title": "Picture-Perfect Moments in Pondicherry",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 19,
+        "rejected": 13,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 30,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "588",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\pondicherry_photo-spots_160329.json",
+        "report_json": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\pondicherry_photo-spots_160329.report.json"
+      },
+      "created_ts": 1758976768
+    },
+    {
+      "job_index": 3,
+      "city": "Pondicherry",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97364",
+      "title": "The 37 best architecture in Pondicherry",
+      "final_title": "Architectural Wonders of Pondicherry",
+      "from_cache": false,
+      "counts": {
+        "meta": 37,
+        "blocks": 37,
+        "merged": 37,
+        "accepted_before_trim": 36,
+        "rejected": 1,
+        "accepted_final": 22
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 3,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "589",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\pondicherry_architecture_97364.json",
+        "report_json": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\pondicherry_architecture_97364.report.json"
+      },
+      "created_ts": 1758977264
+    },
+    {
+      "job_index": 0,
+      "city": "Pondicherry",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109957",
+      "title": "The 28 best beaches in and around Pondicherry",
+      "final_title": "Sun-Kissed Shores of Pondicherry",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 15,
+        "rejected": 13,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 18,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "590",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\pondicherry_beaches_109957.json",
+        "report_json": "publish_playlist\\pondicherry_$(Get-Date -Format 'yyyyMMdd_HHmm')\\pondicherry_beaches_109957.report.json"
+      },
+      "created_ts": 1758977505
+    }
+  ],
+  "end_ts": 1758977505,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 52,
+    "llm_title_calls": 4,
+    "google_places_calls": 46,
+    "cache_hits": 16,
+    "cache_misses": 106
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 52,
+    "llm_title_cache": 4,
+    "google_places_cache": 46,
+    "mobx_data_cache": 4
+  }
+}

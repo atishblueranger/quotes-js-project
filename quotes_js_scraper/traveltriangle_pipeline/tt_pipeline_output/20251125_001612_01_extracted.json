@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Gold Coast Gems",
+  "placeName": "Gold Coast",
+  "country": "Australia",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/places-to-visit-in-gold-coast/"
+  ],
+  "description": "Sun-kissed beats for coastal drives and late-night waves — your Gold Coast soundtrack.",
+  "items": [
+    {
+      "name": "Dreamworld",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Snapper Rocks",
+      "description": "Choosing a favourite beach at Gold Coast is as different as choosing a favourite ice cream flavour for a child! However, many locals and surfing enthusiasts list Snapper Rocks as their favourite beach owing to its distinct waves, uniform swell and the ‘Superbank', a human constructed sand bank that lets boat riders cruise from Snapper Rocks to Coolangatta. It is definitely one of the best places to see in Gold Coast.",
+      "location_hint": "Snapper Rocks, Snapper Rocks Rd, Coolangatta QLD 4225",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Springbrook National Park",
+      "description": "Suggested Read: Shopping In Australia: The Answer To What And Where To Buy During Your Tour Down Under!",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Surfers Paradise Beach",
+      "description": "This popular strand of sand is adored by locals and tourists alike. There is much to do for everyone here: kids love to build sandcastles in the sand whereas surfers love to ride their boards. Others can relax on a sunbed or head to a beach restaurant to sip on interesting cocktails. This beach is a perfect area for a stroll at night when it is lit up!",
+      "location_hint": "Surfers Paradise Beach, Queensland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Currumbin Wildlife Sanctuary",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sea World",
+      "description": "It is the largest marine park in Australia and among the best places to go in Gold Coast. A delight for both the young and old, the shows include dolphins, sea lions, and a popular water-ski ballet. Visitors love the monorail that offers great views as well as the sea-themed rides. After a lovely time at the park, one can chill in the small water park.",
+      "location_hint": "Seaworld Drive, Main Beach",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 6000"
+    },
+    {
+      "name": "Warner Bros Movie World",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Coolangatta Beach",
+      "description": "This beach is one of the premier Gold Coast attractions. If you want to spend time at a beach that is relatively less crowded than the Surfer's Paradise, this is your top bet. The beautiful beach of Coolangatta is the last town before the border of New South Wales and also houses the Gold Coast Airport.",
+      "location_hint": "Coolangatta Beach, Queensland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Wet’n’Wild",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Logan Village Museum",
+      "description": "There are a few museums in Gold Coast that history lovers like to visit. Located in a tiny village called Logan Village, this museum aims to preserve the local history and tales of the area. Many of the families of this village are represented in the current population even today, and share their knowledge and stories enthusiastically!",
+      "location_hint": "1-5 River St, Logan Village QLD 4207",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

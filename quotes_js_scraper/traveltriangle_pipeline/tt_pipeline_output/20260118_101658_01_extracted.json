@@ -1,0 +1,55 @@
+{
+  "playlistTitle": "Lakeside Seasons",
+  "placeName": "Auckland",
+  "country": "New Zealand",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/lakes-in-auckland/"
+  ],
+  "description": "Lakeside Seasons: a soundtrack for Auckland's shifting light — morning calm, golden dusk, cool nights.",
+  "items": [
+    {
+      "name": "Lake Pupuke",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Ototoa",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Kawaupaka",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Waitakere Reservoir",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lower Nihotupu Reservoir",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

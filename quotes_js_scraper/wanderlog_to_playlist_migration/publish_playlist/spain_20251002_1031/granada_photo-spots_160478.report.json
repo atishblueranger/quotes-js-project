@@ -1,0 +1,35 @@
+{
+  "job_index": 11,
+  "city": "Granada",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160478",
+  "title": "The 33 best photo spots in Granada",
+  "final_title": "Granada's Picture-Perfect Views Await",
+  "from_cache": false,
+  "counts": {
+    "meta": 33,
+    "blocks": 33,
+    "merged": 33,
+    "accepted_before_trim": 26,
+    "rejected": 7,
+    "accepted_final": 16
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 27,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "988",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\spain_20251002_1031\\granada_photo-spots_160478.json",
+    "report_json": "publish_playlist\\spain_20251002_1031\\granada_photo-spots_160478.report.json"
+  },
+  "created_ts": 1759387466
+}

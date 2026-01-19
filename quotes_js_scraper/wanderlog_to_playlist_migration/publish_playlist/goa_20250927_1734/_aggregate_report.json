@@ -1,0 +1,99 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1758974673,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\goa_20250927_1734\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 1,
+      "city": "Goa",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97352",
+      "title": "The 25 best architecture in Panjim",
+      "final_title": "Goa's Architectural Treasures Unveiled",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 22,
+        "rejected": 3,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "583",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\goa_20250927_1734\\goa_architecture_97352.json",
+        "report_json": "publish_playlist\\goa_20250927_1734\\goa_architecture_97352.report.json"
+      },
+      "created_ts": 1758974779
+    },
+    {
+      "job_index": 0,
+      "city": "Goa",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109945",
+      "title": "The 21 best beaches in and around Panjim",
+      "final_title": "Goa's Coastal Bliss: Beachside Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 17,
+        "rejected": 4,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 12,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "584",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\goa_20250927_1734\\goa_beaches_109945.json",
+        "report_json": "publish_playlist\\goa_20250927_1734\\goa_beaches_109945.report.json"
+      },
+      "created_ts": 1758974987
+    }
+  ],
+  "end_ts": 1758974988,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 16,
+    "llm_title_calls": 2,
+    "google_places_calls": 28,
+    "cache_hits": 0,
+    "cache_misses": 48
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 16,
+    "llm_title_cache": 2,
+    "google_places_cache": 28,
+    "mobx_data_cache": 2
+  }
+}

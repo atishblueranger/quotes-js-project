@@ -1,0 +1,35 @@
+{
+  "job_index": 26,
+  "city": "Alanya",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/110310",
+  "title": "The 27 best beaches in and around Alanya",
+  "final_title": "Alanya's Coastal Paradise: Beach Bliss Awaits",
+  "from_cache": false,
+  "counts": {
+    "meta": 27,
+    "blocks": 27,
+    "merged": 27,
+    "accepted_before_trim": 15,
+    "rejected": 12,
+    "accepted_final": 9
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 9,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "845",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\turkey_20251001_1510\\alanya_beaches_110310.json",
+    "report_json": "publish_playlist\\turkey_20251001_1510\\alanya_beaches_110310.report.json"
+  },
+  "created_ts": 1759315417
+}

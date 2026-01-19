@@ -1,0 +1,35 @@
+{
+  "job_index": 35,
+  "city": "Turin",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164039",
+  "title": "The 37 most romantic places in Turin",
+  "final_title": "Romantic Escapes in Enchanting Turin",
+  "from_cache": false,
+  "counts": {
+    "meta": 37,
+    "blocks": 37,
+    "merged": 37,
+    "accepted_before_trim": 37,
+    "rejected": 0,
+    "accepted_final": 23
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "912",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\italy_20251001_2051\\turin_romantic-places_164039.json",
+    "report_json": "publish_playlist\\italy_20251001_2051\\turin_romantic-places_164039.report.json"
+  },
+  "created_ts": 1759338353
+}

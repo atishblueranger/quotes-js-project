@@ -1,0 +1,83 @@
+{
+  "playlistTitle": "Secret Singapore Spots",
+  "placeName": "Singapore",
+  "country": "Singapore",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hidden-gems-in-singapore/"
+  ],
+  "description": "Hidden lanes, rooftop gardens and late-night hawker corners — a playlist for Singapore's secrets.",
+  "items": [
+    {
+      "name": "Yunnan Garden",
+      "description": "",
+      "location_hint": "In Nanyang Technological University, 12 Nanyang Dr, Singapore 637721",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Pulau Ubin",
+      "description": "",
+      "location_hint": "Northeastern Coast of mainland Singapore",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "MacRitchie Reservoir Treetop Walk",
+      "description": "",
+      "location_hint": "In MacRitchie Reservoir Park,",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Southern Ridges",
+      "description": "",
+      "location_hint": "Telok Blangah Hill Park, Singapore",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Hampstead Wetlands Park",
+      "description": "",
+      "location_hint": "1 Baker St, Singapore 799977",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Raffles Marina Lighthouse",
+      "description": "",
+      "location_hint": "10 Tuas West Dr, Singapore 638404",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Keppel Hill Reservoir",
+      "description": "",
+      "location_hint": "Keppel Hill, Singapore",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sungei Buloh Wetland Reserve",
+      "description": "",
+      "location_hint": "301 Neo Tiew Cres, Singapore 718925",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Smith Marine Floating Kelong Restaurant",
+      "description": "",
+      "location_hint": "Near Changi Point Ferry Terminal, Off the Northern Coast of Singapore",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 60,
+  "city": "Hakone-machi",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163896",
+  "title": "The 33 most romantic places in Hakone-machi",
+  "final_title": "Romantic Escapes in Enchanting Hakone",
+  "from_cache": false,
+  "counts": {
+    "meta": 33,
+    "blocks": 33,
+    "merged": 33,
+    "accepted_before_trim": 32,
+    "rejected": 1,
+    "accepted_final": 20
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "816",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\japan_20251001_1149\\hakone-machi_romantic-places_163896.json",
+    "report_json": "publish_playlist\\japan_20251001_1149\\hakone-machi_romantic-places_163896.report.json"
+  },
+  "created_ts": 1759308453
+}

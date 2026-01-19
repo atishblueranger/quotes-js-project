@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Castles of Britain",
+  "placeName": "the-united-kingdom",
+  "country": "the-united-kingdom",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/castles-in-united-kingdom/"
+  ],
+  "description": "Soundtrack for wandering crumbling halls and windswept moors - melodies for Britain's castles.",
+  "items": [
+    {
+      "name": "Dover Castle",
+      "description": "",
+      "location_hint": "Castle Hill, Kent",
+      "opening_hours_text": "",
+      "entry_fee_text": "20 £ (adults), 12 £ (children – 5 to 17 years)"
+    },
+    {
+      "name": "Warkworth Castle",
+      "description": "",
+      "location_hint": "Warkworth, Northumberland",
+      "opening_hours_text": "",
+      "entry_fee_text": "6.80 £ (adults), 4.10 £ (children – 5 to 17 years)"
+    },
+    {
+      "name": "Portchester Castle",
+      "description": "",
+      "location_hint": "Portchester, Hampshire",
+      "opening_hours_text": "",
+      "entry_fee_text": "6.90 £ (adults), 4.10 £ (children – 5 to 17 years)"
+    },
+    {
+      "name": "Bolsover Castle",
+      "description": "",
+      "location_hint": "Bolsover, Derbyshire",
+      "opening_hours_text": "",
+      "entry_fee_text": "11.30 £ (adults), 6.80 £ (children – 5 to 17 years)"
+    },
+    {
+      "name": "Leeds Castle",
+      "description": "",
+      "location_hint": "Kent, England",
+      "opening_hours_text": "",
+      "entry_fee_text": "25.50 £ (adults), 22.50 £ (senior citizens and children – 5 to 17 years)"
+    },
+    {
+      "name": "Tintagel Castle",
+      "description": "",
+      "location_hint": "Tintagel, Cornwall",
+      "opening_hours_text": "",
+      "entry_fee_text": "9.50 £ (adults), 5.70 £ (children – 5 to 17 years)"
+    },
+    {
+      "name": "Bodiam Castle",
+      "description": "",
+      "location_hint": "Robertsbridge, East Sussex",
+      "opening_hours_text": "",
+      "entry_fee_text": "10.80 £ (adults), 5.40 £ (children – 5 to 17 years)"
+    },
+    {
+      "name": "Kenilworth Castle",
+      "description": "",
+      "location_hint": "Kenilworth, Warwickshire",
+      "opening_hours_text": "",
+      "entry_fee_text": "11.30 £ (adults), 6.80 £ (children – 5 to 17 years)"
+    },
+    {
+      "name": "Warwick Castle",
+      "description": "",
+      "location_hint": "Warwickshire",
+      "opening_hours_text": "",
+      "entry_fee_text": "18 £"
+    },
+    {
+      "name": "Carisbrooke Castle",
+      "description": "",
+      "location_hint": "Newport, Isle of Wight",
+      "opening_hours_text": "",
+      "entry_fee_text": "10 £ (adults), 6 £ (children – 5 to 17 years)"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

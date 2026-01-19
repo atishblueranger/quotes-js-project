@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Scenic Sweden Sounds",
+  "placeName": "Sweden",
+  "country": "Sweden",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-in-sweden/"
+  ],
+  "description": "Drift through Sweden's forests, lakes and archipelago - a soundtrack for slow, scenic moments.",
+  "items": [
+    {
+      "name": "Smedsuddsbadet",
+      "description": "– Holger for Wikimedia",
+      "location_hint": "Kungsholmen district in central Stockholm",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Liljeholmsbadet",
+      "description": "",
+      "location_hint": "Northern side of Langholmen, Riddarfjarden which is located near Vasterbron",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Boda",
+      "description": "",
+      "location_hint": "Oland Island on southern Sweden",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sudersand",
+      "description": "– Arild for Wikimedia",
+      "location_hint": "In Faro, a tiny island of the south-eastern Swedish island Gotland which is 200 kilometres south of Stockholm",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Skutberget",
+      "description": "",
+      "location_hint": "Beside Vanem of Karlstad municipality",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Skanian Beaches",
+      "description": "– Jorchr for Wikimedia",
+      "location_hint": "South-western fringe of Sweden in the Skanor med Falsterbo city of Vellinge Municipality, Falsterbo peninsula",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Varamon",
+      "description": "– Artifex for Wikimedia",
+      "location_hint": "Ostergotland in the south-central Sweden",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ribersborg",
+      "description": "– Pixabay",
+      "location_hint": "Downtown Malmo city",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sandhammaren",
+      "description": "– Slaunger for Wikimedia",
+      "location_hint": "In Ystand at the south-eastern tip of Skane and Sweden",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Tylosand",
+      "description": "",
+      "location_hint": "Halmstad Municipality in Halland County",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

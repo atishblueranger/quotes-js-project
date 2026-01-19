@@ -1,0 +1,2062 @@
+{
+  "script_version": "1.3.0",
+  "start_ts": 1759299608,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\japan_20251001_1149\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Kyoto",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129575",
+      "title": "The 37 best free attractions in Kyoto",
+      "final_title": "Kyoto's Hidden Gems: Explore for Free",
+      "from_cache": false,
+      "counts": {
+        "meta": 37,
+        "blocks": 37,
+        "merged": 37,
+        "accepted_before_trim": 15,
+        "rejected": 22,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 16,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "772",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kyoto_beaches_129575.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kyoto_beaches_129575.report.json"
+      },
+      "created_ts": 1759299823
+    },
+    {
+      "job_index": 3,
+      "city": "Tokyo",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129574",
+      "title": "The 49 best free attractions in Tokyo",
+      "final_title": "Tokyo's Hidden Gems: Explore for Free",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 6,
+        "rejected": 43,
+        "accepted_final": 4
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 17,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\tokyo_beaches_129574.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\tokyo_beaches_129574.report.json"
+      },
+      "created_ts": 1759299864
+    },
+    {
+      "job_index": 4,
+      "city": "Tokyo",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163755",
+      "title": "The 49 most romantic places in Tokyo",
+      "final_title": "Whispers of Love in Tokyo's Enchantment",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 48,
+        "rejected": 1,
+        "accepted_final": 29
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "774",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\tokyo_romantic-places_163755.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\tokyo_romantic-places_163755.report.json"
+      },
+      "created_ts": 1759300406
+    },
+    {
+      "job_index": 6,
+      "city": "Osaka",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/160159",
+      "title": "The 44 best photo spots in Osaka",
+      "final_title": "Whispers of Love in Osaka's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 42,
+        "rejected": 2,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "775",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\osaka_photo-spots_160159.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\osaka_photo-spots_160159.report.json"
+      },
+      "created_ts": 1759300860
+    },
+    {
+      "job_index": 9,
+      "city": "Yokohama",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163772",
+      "title": "The 42 most romantic places in Yokohama",
+      "final_title": "Romantic Escapes in Enchanting Yokohama",
+      "from_cache": false,
+      "counts": {
+        "meta": 42,
+        "blocks": 42,
+        "merged": 42,
+        "accepted_before_trim": 38,
+        "rejected": 4,
+        "accepted_final": 23
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 5,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "776",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\yokohama_romantic-places_163772.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\yokohama_romantic-places_163772.report.json"
+      },
+      "created_ts": 1759301255
+    },
+    {
+      "job_index": 11,
+      "city": "Minato",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163775",
+      "title": "The 29 most romantic places in Minato",
+      "final_title": "Whispers of Love in Minato",
+      "from_cache": false,
+      "counts": {
+        "meta": 29,
+        "blocks": 29,
+        "merged": 29,
+        "accepted_before_trim": 27,
+        "rejected": 2,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "777",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\minato_romantic-places_163775.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\minato_romantic-places_163775.report.json"
+      },
+      "created_ts": 1759301539
+    },
+    {
+      "job_index": 13,
+      "city": "Chuo",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163778",
+      "title": "The 21 most romantic places in Chuo",
+      "final_title": "Romantic Escapes in Chuo's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 21,
+        "rejected": 0,
+        "accepted_final": 13
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "778",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\chuo_romantic-places_163778.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\chuo_romantic-places_163778.report.json"
+      },
+      "created_ts": 1759301747
+    },
+    {
+      "job_index": 15,
+      "city": "Taito",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163779",
+      "title": "The 26 most romantic places in Taito",
+      "final_title": "Romantic Escapes in Taito's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 26,
+        "rejected": 0,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "779",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\taito_romantic-places_163779.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\taito_romantic-places_163779.report.json"
+      },
+      "created_ts": 1759302013
+    },
+    {
+      "job_index": 17,
+      "city": "Sapporo",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163780",
+      "title": "The 23 most romantic places in Sapporo",
+      "final_title": "Whispers of Love in Sapporo",
+      "from_cache": false,
+      "counts": {
+        "meta": 23,
+        "blocks": 23,
+        "merged": 23,
+        "accepted_before_trim": 23,
+        "rejected": 0,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "780",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\sapporo_romantic-places_163780.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\sapporo_romantic-places_163780.report.json"
+      },
+      "created_ts": 1759302252
+    },
+    {
+      "job_index": 20,
+      "city": "Shinjuku",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129602",
+      "title": "The 32 best free attractions in Shinjuku",
+      "final_title": "Shinjuku's Hidden Gems: Explore for Free",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 3,
+        "rejected": 29,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 10,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\shinjuku_beaches_129602.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\shinjuku_beaches_129602.report.json"
+      },
+      "created_ts": 1759302282
+    },
+    {
+      "job_index": 19,
+      "city": "Nagoya",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163781",
+      "title": "The 19 most romantic places in Nagoya",
+      "final_title": "Whispers of Romance in Nagoya",
+      "from_cache": false,
+      "counts": {
+        "meta": 19,
+        "blocks": 19,
+        "merged": 19,
+        "accepted_before_trim": 19,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "782",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\nagoya_romantic-places_163781.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\nagoya_romantic-places_163781.report.json"
+      },
+      "created_ts": 1759302488
+    },
+    {
+      "job_index": 22,
+      "city": "Fukuoka",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109812",
+      "title": "The 48 best beaches in and around Fukuoka",
+      "final_title": "Fukuoka's Coastal Escapes: Beach Bliss Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 48,
+        "blocks": 48,
+        "merged": 48,
+        "accepted_before_trim": 26,
+        "rejected": 22,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "783",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\fukuoka_beaches_109812.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\fukuoka_beaches_109812.report.json"
+      },
+      "created_ts": 1759302797
+    },
+    {
+      "job_index": 23,
+      "city": "Fukuoka",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129601",
+      "title": "The 27 best free attractions in Fukuoka",
+      "final_title": "Fukuoka's Hidden Gems: Free Wonders Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 10,
+        "rejected": 17,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\fukuoka_beaches_129601.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\fukuoka_beaches_129601.report.json"
+      },
+      "created_ts": 1759302844
+    },
+    {
+      "job_index": 25,
+      "city": "Kobe",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109815",
+      "title": "The 16 best beaches in and around Kobe",
+      "final_title": "Coastal Escapes: Kobe's Beach Bliss",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 8,
+        "rejected": 8,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kobe_beaches_109815.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kobe_beaches_109815.report.json"
+      },
+      "created_ts": 1759302871
+    },
+    {
+      "job_index": 24,
+      "city": "Fukuoka",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163782",
+      "title": "The 43 most romantic places in Fukuoka",
+      "final_title": "Whispers of Love in Fukuoka",
+      "from_cache": false,
+      "counts": {
+        "meta": 43,
+        "blocks": 43,
+        "merged": 43,
+        "accepted_before_trim": 42,
+        "rejected": 1,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "786",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\fukuoka_romantic-places_163782.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\fukuoka_romantic-places_163782.report.json"
+      },
+      "created_ts": 1759303302
+    },
+    {
+      "job_index": 26,
+      "city": "Kobe",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129604",
+      "title": "The 20 best free attractions in Kobe",
+      "final_title": "Explore Kobe's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 2,
+        "rejected": 18,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kobe_beaches_129604.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kobe_beaches_129604.report.json"
+      },
+      "created_ts": 1759303316
+    },
+    {
+      "job_index": 27,
+      "city": "Kobe",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163785",
+      "title": "The 37 most romantic places in Kobe",
+      "final_title": "Love in the Heart of Kobe",
+      "from_cache": false,
+      "counts": {
+        "meta": 37,
+        "blocks": 37,
+        "merged": 37,
+        "accepted_before_trim": 37,
+        "rejected": 0,
+        "accepted_final": 23
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "788",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kobe_romantic-places_163785.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kobe_romantic-places_163785.report.json"
+      },
+      "created_ts": 1759303759
+    },
+    {
+      "job_index": 28,
+      "city": "Shibuya",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129607",
+      "title": "The 43 best free attractions in Shibuya",
+      "final_title": "Shibuya's Hidden Gems: Explore for Free",
+      "from_cache": false,
+      "counts": {
+        "meta": 43,
+        "blocks": 43,
+        "merged": 43,
+        "accepted_before_trim": 7,
+        "rejected": 36,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 12,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\shibuya_beaches_129607.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\shibuya_beaches_129607.report.json"
+      },
+      "created_ts": 1759303794
+    },
+    {
+      "job_index": 29,
+      "city": "Shibuya",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163788",
+      "title": "The 37 most romantic places in Shibuya",
+      "final_title": "Whispers of Love in Shibuya",
+      "from_cache": false,
+      "counts": {
+        "meta": 37,
+        "blocks": 37,
+        "merged": 37,
+        "accepted_before_trim": 36,
+        "rejected": 1,
+        "accepted_final": 22
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "790",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\shibuya_romantic-places_163788.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\shibuya_romantic-places_163788.report.json"
+      },
+      "created_ts": 1759304169
+    },
+    {
+      "job_index": 30,
+      "city": "Chiyoda",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129611",
+      "title": "The 49 best free attractions in Chiyoda",
+      "final_title": "Discover Chiyoda's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 8,
+        "rejected": 41,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 12,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\chiyoda_beaches_129611.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\chiyoda_beaches_129611.report.json"
+      },
+      "created_ts": 1759304203
+    },
+    {
+      "job_index": 31,
+      "city": "Chiyoda",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163792",
+      "title": "The 41 most romantic places in Chiyoda",
+      "final_title": "Chiyoda's Enchanted Escapes for Lovers",
+      "from_cache": false,
+      "counts": {
+        "meta": 41,
+        "blocks": 41,
+        "merged": 41,
+        "accepted_before_trim": 41,
+        "rejected": 0,
+        "accepted_final": 25
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "792",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\chiyoda_romantic-places_163792.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\chiyoda_romantic-places_163792.report.json"
+      },
+      "created_ts": 1759304631
+    },
+    {
+      "job_index": 33,
+      "city": "Sendai",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163805",
+      "title": "The 21 most romantic places in Sendai",
+      "final_title": "Whispers of Love in Sendai",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 21,
+        "rejected": 0,
+        "accepted_final": 13
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "793",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\sendai_romantic-places_163805.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\sendai_romantic-places_163805.report.json"
+      },
+      "created_ts": 1759304873
+    },
+    {
+      "job_index": 34,
+      "city": "Hiroshima",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129627",
+      "title": "The 20 best free attractions in Hiroshima",
+      "final_title": "Discover Hiroshima: Free Wonders Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 3,
+        "rejected": 17,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\hiroshima_beaches_129627.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\hiroshima_beaches_129627.report.json"
+      },
+      "created_ts": 1759304897
+    },
+    {
+      "job_index": 35,
+      "city": "Hiroshima",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163808",
+      "title": "The 19 most romantic places in Hiroshima",
+      "final_title": "Whispers of Love in Hiroshima",
+      "from_cache": false,
+      "counts": {
+        "meta": 19,
+        "blocks": 19,
+        "merged": 19,
+        "accepted_before_trim": 17,
+        "rejected": 2,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "795",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\hiroshima_romantic-places_163808.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\hiroshima_romantic-places_163808.report.json"
+      },
+      "created_ts": 1759305094
+    },
+    {
+      "job_index": 36,
+      "city": "Kanazawa",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129630",
+      "title": "The 15 best free attractions in Kanazawa",
+      "final_title": "Discover Kanazawa's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 4,
+        "rejected": 11,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 5,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kanazawa_beaches_129630.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kanazawa_beaches_129630.report.json"
+      },
+      "created_ts": 1759305111
+    },
+    {
+      "job_index": 37,
+      "city": "Kanazawa",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163811",
+      "title": "The 18 most romantic places in Kanazawa",
+      "final_title": "Whispers of Love in Kanazawa",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 18,
+        "rejected": 0,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "797",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kanazawa_romantic-places_163811.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kanazawa_romantic-places_163811.report.json"
+      },
+      "created_ts": 1759305308
+    },
+    {
+      "job_index": 38,
+      "city": "Nagasaki",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163820",
+      "title": "The 19 most romantic places in Nagasaki",
+      "final_title": "Nagasaki's Enchanted Escapes for Lovers",
+      "from_cache": false,
+      "counts": {
+        "meta": 19,
+        "blocks": 19,
+        "merged": 19,
+        "accepted_before_trim": 18,
+        "rejected": 1,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "798",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\nagasaki_romantic-places_163820.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\nagasaki_romantic-places_163820.report.json"
+      },
+      "created_ts": 1759305514
+    },
+    {
+      "job_index": 39,
+      "city": "Kitakyushu",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129648",
+      "title": "The 15 best free attractions in Kitakyushu",
+      "final_title": "Discover Kitakyushu's Hidden Green Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 7,
+        "rejected": 8,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 7,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kitakyushu_beaches_129648.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kitakyushu_beaches_129648.report.json"
+      },
+      "created_ts": 1759305533
+    },
+    {
+      "job_index": 40,
+      "city": "Okayama",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163830",
+      "title": "The 15 most romantic places in Okayama",
+      "final_title": "Whispers of Love in Okayama",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 15,
+        "rejected": 0,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "800",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\okayama_romantic-places_163830.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\okayama_romantic-places_163830.report.json"
+      },
+      "created_ts": 1759305708
+    },
+    {
+      "job_index": 41,
+      "city": "Bunkyo",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129654",
+      "title": "The 20 best free attractions in Bunkyo",
+      "final_title": "Explore Bunkyo: Hidden Gems Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 3,
+        "rejected": 17,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\bunkyo_beaches_129654.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\bunkyo_beaches_129654.report.json"
+      },
+      "created_ts": 1759305731
+    },
+    {
+      "job_index": 43,
+      "city": "Kumamoto",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163836",
+      "title": "The 15 most romantic places in Kumamoto",
+      "final_title": "Whispers of Love in Kumamoto",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 15,
+        "rejected": 0,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "802",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kumamoto_romantic-places_163836.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kumamoto_romantic-places_163836.report.json"
+      },
+      "created_ts": 1759305908
+    },
+    {
+      "job_index": 44,
+      "city": "Nara",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129658",
+      "title": "The 20 best free attractions in Nara",
+      "final_title": "Discover Nara's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 6,
+        "rejected": 14,
+        "accepted_final": 4
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 7,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\nara_beaches_129658.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\nara_beaches_129658.report.json"
+      },
+      "created_ts": 1759305940
+    },
+    {
+      "job_index": 46,
+      "city": "Koto",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129659",
+      "title": "The 34 best free attractions in Koto",
+      "final_title": "Explore Koto: Free Wonders Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 34,
+        "blocks": 34,
+        "merged": 34,
+        "accepted_before_trim": 8,
+        "rejected": 26,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 12,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\koto_beaches_129659.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\koto_beaches_129659.report.json"
+      },
+      "created_ts": 1759305981
+    },
+    {
+      "job_index": 45,
+      "city": "Nara",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163839",
+      "title": "The 18 most romantic places in Nara",
+      "final_title": "Whispers of Love in Nara",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 18,
+        "rejected": 0,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "805",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\nara_romantic-places_163839.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\nara_romantic-places_163839.report.json"
+      },
+      "created_ts": 1759306192
+    },
+    {
+      "job_index": 48,
+      "city": "Ishigaki",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109871",
+      "title": "The 35 best beaches in and around Ishigaki",
+      "final_title": "Sun-Kissed Shores of Ishigaki",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 25,
+        "rejected": 10,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "806",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\ishigaki_beaches_109871.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\ishigaki_beaches_109871.report.json"
+      },
+      "created_ts": 1759306495
+    },
+    {
+      "job_index": 47,
+      "city": "Koto",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163840",
+      "title": "The 26 most romantic places in Koto",
+      "final_title": "Romantic Escapes in Koto's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 25,
+        "rejected": 1,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "807",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\koto_romantic-places_163840.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\koto_romantic-places_163840.report.json"
+      },
+      "created_ts": 1759306756
+    },
+    {
+      "job_index": 50,
+      "city": "Toshima",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129661",
+      "title": "The 29 best free attractions in Toshima",
+      "final_title": "Explore Toshima: Unforgettable Free Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 29,
+        "blocks": 29,
+        "merged": 29,
+        "accepted_before_trim": 2,
+        "rejected": 27,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 10,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\toshima_beaches_129661.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\toshima_beaches_129661.report.json"
+      },
+      "created_ts": 1759306789
+    },
+    {
+      "job_index": 51,
+      "city": "Hakodate",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163847",
+      "title": "The 16 most romantic places in Hakodate",
+      "final_title": "Romantic Escapes in Enchanting Hakodate",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 16,
+        "rejected": 0,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "809",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\hakodate_romantic-places_163847.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\hakodate_romantic-places_163847.report.json"
+      },
+      "created_ts": 1759307013
+    },
+    {
+      "job_index": 52,
+      "city": "Sumida",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129667",
+      "title": "The 29 best free attractions in Sumida",
+      "final_title": "Sumida's Hidden Gems: Explore for Free",
+      "from_cache": false,
+      "counts": {
+        "meta": 29,
+        "blocks": 29,
+        "merged": 29,
+        "accepted_before_trim": 8,
+        "rejected": 21,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 10,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\sumida_beaches_129667.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\sumida_beaches_129667.report.json"
+      },
+      "created_ts": 1759307040
+    },
+    {
+      "job_index": 53,
+      "city": "Sumida",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163848",
+      "title": "The 20 most romantic places in Sumida",
+      "final_title": "Whispers of Love in Sumida",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 20,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "811",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\sumida_romantic-places_163848.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\sumida_romantic-places_163848.report.json"
+      },
+      "created_ts": 1759307274
+    },
+    {
+      "job_index": 54,
+      "city": "Ota",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163849",
+      "title": "The 15 most romantic places in Ota",
+      "final_title": "Romantic Escapes in Ota's Charm",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 15,
+        "rejected": 0,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "812",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\ota_romantic-places_163849.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\ota_romantic-places_163849.report.json"
+      },
+      "created_ts": 1759307439
+    },
+    {
+      "job_index": 55,
+      "city": "Kamakura",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109884",
+      "title": "The 43 best beaches in and around Kamakura",
+      "final_title": "Sun-Kissed Shores of Kamakura",
+      "from_cache": false,
+      "counts": {
+        "meta": 43,
+        "blocks": 43,
+        "merged": 43,
+        "accepted_before_trim": 17,
+        "rejected": 26,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 18,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "813",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\kamakura_beaches_109884.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\kamakura_beaches_109884.report.json"
+      },
+      "created_ts": 1759307695
+    },
+    {
+      "job_index": 56,
+      "city": "Takayama",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163857",
+      "title": "The 17 most romantic places in Takayama",
+      "final_title": "Whispers of Love in Takayama",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 16,
+        "rejected": 1,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "814",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\takayama_romantic-places_163857.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\takayama_romantic-places_163857.report.json"
+      },
+      "created_ts": 1759307890
+    },
+    {
+      "job_index": 58,
+      "city": "Otaru",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163866",
+      "title": "The 16 most romantic places in Otaru",
+      "final_title": "Whispers of Love in Otaru",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 16,
+        "rejected": 0,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "815",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\otaru_romantic-places_163866.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\otaru_romantic-places_163866.report.json"
+      },
+      "created_ts": 1759308073
+    },
+    {
+      "job_index": 60,
+      "city": "Hakone-machi",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163896",
+      "title": "The 33 most romantic places in Hakone-machi",
+      "final_title": "Romantic Escapes in Enchanting Hakone",
+      "from_cache": false,
+      "counts": {
+        "meta": 33,
+        "blocks": 33,
+        "merged": 33,
+        "accepted_before_trim": 32,
+        "rejected": 1,
+        "accepted_final": 20
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "816",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\hakone-machi_romantic-places_163896.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\hakone-machi_romantic-places_163896.report.json"
+      },
+      "created_ts": 1759308453
+    },
+    {
+      "job_index": 59,
+      "city": "Taketomi-cho",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109905",
+      "title": "The 24 best beaches in and around Taketomi-cho",
+      "final_title": "Serene Shores of Taketomi-cho",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 20,
+        "rejected": 4,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "817",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\taketomi-cho_beaches_109905.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\taketomi-cho_beaches_109905.report.json"
+      },
+      "created_ts": 1759308672
+    },
+    {
+      "job_index": 63,
+      "city": "Urayasu",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129800",
+      "title": "The 20 best free attractions in Urayasu",
+      "final_title": "Discover Urayasu's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 1,
+        "rejected": 19,
+        "accepted_final": 1
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\urayasu_beaches_129800.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\urayasu_beaches_129800.report.json"
+      },
+      "created_ts": 1759308717
+    },
+    {
+      "job_index": 2,
+      "city": "Tokyo",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109785",
+      "title": "The 48 best beaches in and around Tokyo",
+      "final_title": "Tokyo's Coastal Escapes: Beach Bliss Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 48,
+        "blocks": 48,
+        "merged": 48,
+        "accepted_before_trim": 33,
+        "rejected": 15,
+        "accepted_final": 20
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 18,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "819",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\tokyo_beaches_109785.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\tokyo_beaches_109785.report.json"
+      },
+      "created_ts": 1759309096
+    },
+    {
+      "job_index": 8,
+      "city": "Yokohama",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129591",
+      "title": "The 38 best free attractions in Yokohama",
+      "final_title": "Yokohama's Hidden Gems: Free Adventures Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 38,
+        "blocks": 38,
+        "merged": 38,
+        "accepted_before_trim": 13,
+        "rejected": 25,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 17,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "820",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\yokohama_beaches_129591.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\yokohama_beaches_129591.report.json"
+      },
+      "created_ts": 1759309284
+    },
+    {
+      "job_index": 12,
+      "city": "Chuo",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129597",
+      "title": "The 22 best free attractions in Chuo",
+      "final_title": "Discover Chuo: Unforgettable Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 5,
+        "rejected": 17,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 8,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\chuo_beaches_129597.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\chuo_beaches_129597.report.json"
+      },
+      "created_ts": 1759309308
+    },
+    {
+      "job_index": 14,
+      "city": "Taito",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129598",
+      "title": "The 35 best free attractions in Taito",
+      "final_title": "Discover Taito's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 5,
+        "rejected": 30,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\taito_beaches_129598.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\taito_beaches_129598.report.json"
+      },
+      "created_ts": 1759309335
+    },
+    {
+      "job_index": 16,
+      "city": "Sapporo",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129599",
+      "title": "The 30 best free attractions in Sapporo",
+      "final_title": "Discover Sapporo's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 8,
+        "rejected": 22,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\sapporo_beaches_129599.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\sapporo_beaches_129599.report.json"
+      },
+      "created_ts": 1759309361
+    },
+    {
+      "job_index": 21,
+      "city": "Shinjuku",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163783",
+      "title": "The 35 most romantic places in Shinjuku",
+      "final_title": "Whispers of Romance in Shinjuku",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 33,
+        "rejected": 2,
+        "accepted_final": 20
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "824",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\shinjuku_romantic-places_163783.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\shinjuku_romantic-places_163783.report.json"
+      },
+      "created_ts": 1759309753
+    },
+    {
+      "job_index": 32,
+      "city": "Sendai",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129624",
+      "title": "The 17 best free attractions in Sendai",
+      "final_title": "Explore Sendai: Unforgettable Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 4,
+        "rejected": 13,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 5,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\sendai_beaches_129624.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\sendai_beaches_129624.report.json"
+      },
+      "created_ts": 1759309774
+    },
+    {
+      "job_index": 42,
+      "city": "Bunkyo",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163837",
+      "title": "The 6 most romantic places in Kagoshima",
+      "final_title": "Whispers of Romance in Bunkyo",
+      "from_cache": false,
+      "counts": {
+        "meta": 6,
+        "blocks": 6,
+        "merged": 6,
+        "accepted_before_trim": 6,
+        "rejected": 0,
+        "accepted_final": 4
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\bunkyo_romantic-places_163837.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\bunkyo_romantic-places_163837.report.json"
+      },
+      "created_ts": 1759309778
+    },
+    {
+      "job_index": 49,
+      "city": "Ishigaki",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163841",
+      "title": "The 15 most romantic places in Ishigaki",
+      "final_title": "Romantic Escapes in Ishigaki's Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 15,
+        "rejected": 0,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "827",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\ishigaki_romantic-places_163841.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\ishigaki_romantic-places_163841.report.json"
+      },
+      "created_ts": 1759309952
+    },
+    {
+      "job_index": 57,
+      "city": "Miyakojima",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109894",
+      "title": "The 38 best beaches in and around Miyakojima",
+      "final_title": "Sun-Kissed Shores of Miyakojima",
+      "from_cache": false,
+      "counts": {
+        "meta": 38,
+        "blocks": 38,
+        "merged": 38,
+        "accepted_before_trim": 22,
+        "rejected": 16,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "828",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\miyakojima_beaches_109894.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\miyakojima_beaches_109894.report.json"
+      },
+      "created_ts": 1759310329
+    },
+    {
+      "job_index": 62,
+      "city": "Biei-cho",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163986",
+      "title": "The 2 most romantic places in Biei-cho",
+      "final_title": "Whispers of Love in Biei-cho",
+      "from_cache": false,
+      "counts": {
+        "meta": 2,
+        "blocks": 2,
+        "merged": 2,
+        "accepted_before_trim": 2,
+        "rejected": 0,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\japan_20251001_1149\\biei-cho_romantic-places_163986.json",
+        "report_json": "publish_playlist\\japan_20251001_1149\\biei-cho_romantic-places_163986.report.json"
+      },
+      "created_ts": 1759310336
+    }
+  ],
+  "end_ts": 1759310338,
+  "finish_reason": "finished",
+  "failures_count": 6,
+  "failures_file": "publish_playlist\\japan_20251001_1149\\_failed_jobs.json",
+  "rerun_dataset_file": "publish_playlist\\japan_20251001_1149\\_rerun_dataset.json",
+  "cache_stats": {
+    "llm_validation_calls": 337,
+    "llm_title_calls": 58,
+    "google_places_calls": 399,
+    "cache_hits": 129,
+    "cache_misses": 858
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 337,
+    "llm_title_cache": 58,
+    "google_places_cache": 399,
+    "mobx_data_cache": 58
+  }
+}

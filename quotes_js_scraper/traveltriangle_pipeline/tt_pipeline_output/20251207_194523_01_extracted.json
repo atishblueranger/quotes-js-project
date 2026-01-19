@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Romance in Brussels",
+  "placeName": "Brussels",
+  "country": "Belgium",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/romantic-places-in-brussels/"
+  ],
+  "description": "Soft jazz and sunset strolls through cobblestone streets - a playlist for Brussels romance.",
+  "items": [
+    {
+      "name": "Van Buuren Museum",
+      "description": "",
+      "location_hint": "Avenue Leo Arrera, Brussels",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Grand Place",
+      "description": "",
+      "location_hint": "Central Square, Brussels",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "BOZAR- Centre For Fine Arts",
+      "description": "",
+      "location_hint": "1000 Bruxelles, Brussels",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Elevator To The Sky",
+      "description": "",
+      "location_hint": "Place Poelaert, 1000 Bruxelles, Brussels",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Streets",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Royal Greenhouses Of Laeken",
+      "description": "",
+      "location_hint": "Avenue du Parc Royal 61, 1020 Brussels, Belgium",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Galeries Royal St. Hubert",
+      "description": "",
+      "location_hint": "Galerie du Roi 5, 1000 Brussel, Belgium",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Brussels’ Magritte Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Cathedral Of Saints Michael And Gudula",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Mary Chocolatier Of Brussels",
+      "description": "",
+      "location_hint": "Belgium, Lombardstraat 28B, 1000 Brussel, Belgium",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

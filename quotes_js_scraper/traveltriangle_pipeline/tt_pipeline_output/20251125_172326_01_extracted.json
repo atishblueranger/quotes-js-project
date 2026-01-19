@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Wild Japan Zoos",
+  "placeName": "Japan",
+  "country": "Japan",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/japan-zoos/"
+  ],
+  "description": "Wild Japan Zoos: stroll through Tokyo parks and remote enclosures, playful calls and bamboo hush.",
+  "items": [
+    {
+      "name": "Sapporo City Maruyama Zoo",
+      "description": "",
+      "location_hint": "Sapporo",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ueno Zoo",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Fuji Safari Park",
+      "description": "",
+      "location_hint": "Susono",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Nogeyama Zoo",
+      "description": "",
+      "location_hint": "Yokohama",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Zoorasia",
+      "description": "",
+      "location_hint": "Yokohama",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Tobe Zoological Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Tama Zoological Park",
+      "description": "",
+      "location_hint": "Hino",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "African Safari",
+      "description": "",
+      "location_hint": "Usa",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

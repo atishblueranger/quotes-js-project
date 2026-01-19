@@ -1,0 +1,1868 @@
+[
+    {
+        "placeId": "ChIJkYDYclNvA4wRbJpiYMKzERQ",
+        "website": "https://www.casita-blanca.com/",
+        "index": 1,
+        "utcOffset": -240,
+        "longitude": -66.053687,
+        "latitude": 18.44338,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Nestled in Old San Juan, La Casita Blanca is a charming restaurant that has been serving both locals and tourists for over 40 years. The name \"Little White House\" perfectly captures the simplicity of this place, with its potted plants, plastic tablecloths, and old rum bottles used as vases. The menu is exclusively in Spanish and is handwritten on a weathered chalkboard. Upon arrival, guests are greeted with complimentary codfish fritters and plantain soup.",
+        "imageKeys": [
+            "IKXzUpLq4FmjmsZQGJ1qBB11Y2LafxaO",
+            "vADwuGazTIpTq9fqRK2nVf0u9BxjnDv0",
+            "CWFE1YqkRj4MnP4edV1jbPUhLx3cZA9f",
+            "wXMPTPEkVqUAfsdgw0tSiMyFNsvJJ4M3",
+            "ufIMaUw9Xpx0rPjwSLyDbTJ60g2eJJTf"
+        ],
+        "ratingCount": 3314,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "La Casita Blanca",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-726-5501",
+        "address": "351 C. Tapia, San Juan, 00912, Puerto Rico",
+        "types": [
+            "Puerto Rican restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 115,
+                "2": 68,
+                "3": 159,
+                "4": 428,
+                "5": 2580
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ-3rDMcduA4wRgPxPq5_A1e0",
+        "website": "https://www.chocobarcortes.com/",
+        "index": 2,
+        "utcOffset": -240,
+        "longitude": -66.115556,
+        "latitude": 18.465632,
+        "rating": 4.7,
+        "excerpt": "Relaxed eatery offering a breakfast & brunch menu with chocolate used in every dish.",
+        "detail_description": "Chocobar Cortés is a cocoa-focused cafe located in Old San Juan, offering a unique dining experience with chocolate-infused dishes for breakfast and brunch. The establishment is an extension of the fourth-generation chocolate-making operation, Chocolate Cortes, which has been producing locally and sustainably grown cacao varieties since 1929. The menu at Chocobar Cortés features a variety of sweet and savory dishes that incorporate chocolate into every bite.",
+        "imageKeys": [
+            "qNydiTKyRRcSGR2jU6VRVEtdQh92iD8z",
+            "yPSWNbFnFOcBBh9A4COAv2yFZ4Uqiekc",
+            "MHPSeCFsPdf5E2P7cekLjl19DRbkq3IY",
+            "xALle10iNQLKH5iq2TLAWEV6rSP3Ibhx",
+            "m3v20cyQoLeRhzupptN8BX5ulrxApWT0"
+        ],
+        "ratingCount": 7608,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Chocobar Cortés",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-722-0499",
+        "address": "210 C. de San Francisco, San Juan, 00901, Puerto Rico",
+        "types": [
+            "Restaurant",
+            "Brunch restaurant",
+            "Chocolate shop",
+            "Lunch restaurant",
+            "Tapas restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 150,
+                "2": 106,
+                "3": 286,
+                "4": 918,
+                "5": 6114
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ_wl9dy9vA4wReA-OeIhk7uc",
+        "website": "https://www.casita-miramar.com/",
+        "index": 3,
+        "utcOffset": -240,
+        "longitude": -66.085108,
+        "latitude": 18.455823,
+        "rating": 4.5,
+        "excerpt": "Vibrant, colorful venue with outdoor dining serving inventive Puerto Rican dishes & craft cocktails.",
+        "detail_description": "Casita Miramar is a vibrant and colorful restaurant located in the lively Miramar district of San Juan. Housed in a charming Spanish villa, the venue offers a warm and inviting atmosphere with cozy decor, including hanging plants, twinkle lights, and vintage furniture. The outdoor dining area is adorned with lush greenery, creating a relaxed ambiance for enjoying inventive Puerto Rican dishes and craft cocktails.",
+        "imageKeys": [
+            "LjLhTzLrEbymvveBAiUSyZ1fYG0We519",
+            "gmqdRHf2RQ9tkiUX50PWHyDfdsOy3PvX",
+            "u5Q3wX5SwjnN9L2lF4HBzXtWqZHG85eR",
+            "Hg2Evprv2459nqIzPSsugTydzyxe327p",
+            "8qLsbRfXdMScQsvsnDzHnlf0q0ZxsahX"
+        ],
+        "ratingCount": 3201,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Casita Miramar",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-631-8265",
+        "address": "605 Av. Miramar, San Juan, 00907, Puerto Rico",
+        "types": [
+            "Puerto Rican restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 154,
+                "2": 80,
+                "3": 152,
+                "4": 384,
+                "5": 2464
+            }
+        }
+    },
+    {
+        "placeId": "ChIJibSd8TVvA4wRSnVVJCgwE4M",
+        "website": "http://www.viandapr.com/",
+        "index": 4,
+        "utcOffset": -240,
+        "longitude": -66.070495,
+        "latitude": 18.447909,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Vianda, located in Santurce, is a trendy restaurant founded by former NYC chef Francis Guzman and his wife, Amelia Dill. The stylish wood-paneled bar draws a diverse crowd of visitors and regulars for early evening cocktails. The farm-to-table menu showcases the island's culinary heritage with dishes like sourdough tostadas and raices locales. The restaurant's laid-back vibe features friendly service and minimalist decor with white walls and hanging plants.",
+        "imageKeys": [
+            "bzLVQdY2k962VqEZqaALnVFVGzYSVFuS",
+            "fSla6sZjn98S8cWIXEMMU3BIbFnyJhKz",
+            "9RUylQUx83EZpYiNNRPI5fb15QOJUk8t",
+            "zZvi8QKIO23WGoa4mjlQqGcAE0t4TaEx",
+            "hDP5tffgNP1ix0mDcFMskWTBYE8RhxTb"
+        ],
+        "ratingCount": 548,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2130"
+                }
+            }
+        ],
+        "name": "Vianda",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 939-475-1578",
+        "address": "1413 PR-25, San Juan, 00907, Puerto Rico",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 11,
+                "3": 15,
+                "4": 43,
+                "5": 476
+            }
+        }
+    },
+    {
+        "placeId": "ChIJYXyNtcZuA4wRNttsW6Mi8gQ",
+        "website": "https://www.marmaladepr.com/?fbclid=PAY2xjawHHLp9leHRuA2FlbQIxMQABpnaqDlFV6hpaff_Wh8F1p_XjY5qmFFgapDN7ZPUYFTHkKHPnRTwMq9JMVg_aem_7Qb7Fd7EIjFwJxED5YB1kg",
+        "index": 5,
+        "utcOffset": -240,
+        "longitude": -66.113317,
+        "latitude": 18.465609,
+        "rating": 4.8,
+        "excerpt": "Stylish restaurant featuring an international menu with creative plates, plus cocktails & wine.",
+        "detail_description": "Marmalade is a stylish restaurant in San Juan known for its international menu and creative dishes. Chef Peter Schintler has crafted an ingredient-driven menu that combines local flavors with global influences, featuring dishes like ceviche paired with tostones and vegan poblanos rellenos atop spicy black beans and mole. The restaurant offers tasting menus ranging from five to 14 courses, with the option of a plant-based menu.",
+        "imageKeys": [
+            "o1OCQ1GuirwnmPuLvho1XY3VW6KLHIiV",
+            "e8wlT4Y2eHZDJNaIyvl308Q5bKsD016g",
+            "KpyONLcCG3njOUsjWWnek7vGS75urDVC",
+            "he9roV3IBabG2Vy1tncUh0ALm9wz7xV1",
+            "rLlCDxDrlpPAM0YlI2zy74DavpQ5xJfL"
+        ],
+        "ratingCount": 1762,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Marmalade",
+        "permanentlyClosed": false,
+        "priceLevel": 4,
+        "phone": "+1 787-724-3969",
+        "address": "317 C. de la Fortaleza, San Juan, 00901, Puerto Rico",
+        "types": [
+            "Fine dining restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 27,
+                "2": 27,
+                "3": 40,
+                "4": 79,
+                "5": 1575
+            }
+        }
+    },
+    {
+        "placeId": "ChIJXU0w50lvA4wRK09bRkrSAqI",
+        "website": "https://josesantaella.com/",
+        "index": 6,
+        "utcOffset": -240,
+        "longitude": -66.069868,
+        "latitude": 18.450087,
+        "rating": 4.5,
+        "excerpt": "Chic restaurant serving tapas, mains & creative cocktails in an industrial-style space.",
+        "detail_description": "Santaella is a stylish restaurant located in Santurce, offering a blend of tapas, main dishes, and innovative cocktails within an industrial-style space. The dining room overlooks an interior garden and features a contemporary design. Chef Jose Santaella brings his expertise from working with renowned names like Ferran Adria and Eric Ripert to create upscale market-driven cocina criolla. Guests can enjoy this elevated local cuisine for lunch at affordable prices or visit in the evening for cocktails and small plates.",
+        "imageKeys": [
+            "gZvNa7sv0ADHZMpQPJGFvLbuhhQy2QvO",
+            "sgk2BUouPErE2APWigJ3cYRKCpYpkCmq",
+            "y2yhJ4PKCEOllSXJiZ0xVTOGTseZ3Wv9",
+            "Il84uvBDI8P35eCJsK5adj3uaoi7Mzq8",
+            "91LOghT0SGo15IfW2BVJBVFQ4Agl3xLc"
+        ],
+        "ratingCount": 1536,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Santaella",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+1 787-725-1611",
+        "address": "219 C. Canals, San Juan, 00907, Puerto Rico",
+        "types": [
+            "Puerto Rican restaurant",
+            "Cocktail bar",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 95,
+                "2": 32,
+                "3": 74,
+                "4": 192,
+                "5": 1158
+            }
+        }
+    },
+    {
+        "placeId": "ChIJkQd9gFBvA4wRA0dJC6XSatw",
+        "website": "http://www.kasalta.com/",
+        "index": 7,
+        "utcOffset": -240,
+        "longitude": -66.054857,
+        "latitude": 18.45214,
+        "rating": 4.3,
+        "excerpt": null,
+        "detail_description": "Kasalta is a beloved bakery and diner located in Ocean Park, known for its diverse offerings beyond just pastries. The establishment has two sides; one serving Spanish-inspired dishes like tapas, paella, and hearty soups, while the other offers Cuban sandwiches, soups, pastries, and desserts. Visitors can also purchase Spanish staples such as olives, Manchego cheese, and Serrano ham.",
+        "imageKeys": [
+            "tkZdQhs1O9wBb2Gd8fNxM4Mwsyztnx6H",
+            "rTXufUaxDew0JHXz9JTvc0hd2UMjoHoh",
+            "aG7f744IBgd71FTErNm3bGQ1gGefjgHX",
+            "8TVKR2hNlOqntNSkFBiHLnJvDCYMM92Q",
+            "28BqqrZ10HM25r2FUXZLnph6Sub9hamI"
+        ],
+        "ratingCount": 4370,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Kasalta",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-727-7340",
+        "address": "1966 Av. McLeary, San Juan, 00911, Puerto Rico",
+        "types": [
+            "Bakery",
+            "Breakfast restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 217,
+                "2": 171,
+                "3": 404,
+                "4": 929,
+                "5": 2660
+            }
+        }
+    },
+    {
+        "placeId": "ChIJC7lPPDZvA4wRsFWcxstZtpE",
+        "website": "https://alcapurriaquema.com/",
+        "index": 8,
+        "utcOffset": -240,
+        "longitude": -66.071043,
+        "latitude": 18.450677,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Located in the vibrant foodie spot of La Placita in Santurce, San Juan, La Alcapurria Quema is a casual eatery offering a taste of authentic Puerto Rican comfort food. The restaurant is situated near Ocean Park and Condado, making it a convenient stop for locals and tourists alike.",
+        "imageKeys": [
+            "H6ioL4IvpyEsQDzMoJztu9tKYhHkwRLe",
+            "63rJGAnCz7JTjmDNVkSm9hBYKDZy5Iub",
+            "miNC43i65Ha23i0XoDgKeyIzpIJCjoae",
+            "InEEsSS6FQKTyNAtWOtJ21VzZGe762bD",
+            "z9zlZOco8rjmEk5cZ8IcBIkUQ2ClpKuJ"
+        ],
+        "ratingCount": 931,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "0030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "0130"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0730"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "0130"
+                }
+            }
+        ],
+        "name": "La Alcapurria Quemá",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "+1 787-990-9444",
+        "address": "251 C. Duffaut, San Juan, 00907, Puerto Rico",
+        "types": [
+            "Puerto Rican restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 39,
+                "2": 34,
+                "3": 47,
+                "4": 132,
+                "5": 673
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ_Zna5sZuA4wR3UTMa4ystWU",
+        "website": "http://www.cuatrosombras.com/",
+        "index": 9,
+        "utcOffset": -240,
+        "longitude": -66.114336,
+        "latitude": 18.464325,
+        "rating": 4.5,
+        "excerpt": "Laid-back coffee shop offering locally roasted espresso, cafe meals & pastries, plus patio seating.",
+        "detail_description": "Café Cuatro Sombras is a trendy coffee shop located in the heart of Old San Juan, Puerto Rico. It stands out for offering locally grown and roasted coffee beans, providing a strong yet not bitter flavor. The café is the face of the owner's family coffee plantation, Hacienda Santa Clara, which was established in 1846 in the mountains of Yauco.",
+        "imageKeys": [
+            "eId71XFyQ5PbtWDGcDfpkL42TZ5cD2Rb",
+            "KcktryYiJhe1CRJRdTQSTPhkEvYJhJTl",
+            "RqyQI30LmqZrUSIy1XwZo38TC5w7QfxG",
+            "VR7PtFgSCqSWiwODp47ljYsdXAZUGmTp",
+            "PHbFSrdOgeP5ufddtbi1SRTkDIJRpCAS"
+        ],
+        "ratingCount": 2268,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Café Cuatro Sombras",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-723-3853",
+        "address": "259 C. Recinto Sur, San Juan, 00901, Puerto Rico",
+        "types": [
+            "Coffee shop",
+            "Breakfast restaurant",
+            "Coffee roasters"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 68,
+                "2": 44,
+                "3": 147,
+                "4": 373,
+                "5": 1621
+            }
+        }
+    },
+    {
+        "placeId": "ChIJOckQDzhvA4wRQBXguqV-nDo",
+        "website": "https://www.cocinaabierta.net/",
+        "index": 10,
+        "utcOffset": -240,
+        "longitude": -66.070591,
+        "latitude": 18.455129,
+        "rating": 4.6,
+        "excerpt": "Cosmopolitan restaurant serving innovative tasting menus, wine pairings & cocktails.",
+        "detail_description": "Cocina Abierta, which translates to \"open kitchen,\" is a cosmopolitan restaurant in San Juan led by Argentine chef Martin Louzao. The restaurant offers innovative tasting menus with wine pairings and cocktails, emphasizing pan-Latin cuisine with influences from the Caribbean to the Mediterranean. What sets Cocina Abierta apart is its interactive experience for diners, as it features an open kitchen where guests can watch the talented kitchen staff prepare diverse creations.",
+        "imageKeys": [
+            "atNuaTauw5u5Jyhp4NqY33pLLuid9B2S",
+            "44Zw8xS1uAhTBcUAPtwMkN6LDqraq8kk",
+            "PIp5VsMvKCBiIFgjCIIqo0rYWxSSziJN",
+            "0b4sOTQ3ch0Hh0nmpKtvQf9mWXXD8OdM",
+            "J9RZrSoRIZvEQpR7rz2H0LFCcN5xsKme"
+        ],
+        "ratingCount": 1578,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Cocina Abierta",
+        "permanentlyClosed": false,
+        "priceLevel": 3,
+        "phone": "+1 787-946-1333",
+        "address": "58 Caribe St, San Juan, 00907, Puerto Rico",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 64,
+                "2": 37,
+                "3": 68,
+                "4": 214,
+                "5": 1215
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ00ide0MoA4wRLROfXwlByvc",
+        "website": "https://linktr.ee/lacasitabychefjavier",
+        "index": 11,
+        "utcOffset": -240,
+        "longitude": -66.584425,
+        "latitude": 18.216682,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "La Casita Del Chef Javier is a delightful restaurant with a surprising and delicious menu. The churrasco is tender, perfectly cooked, and well-seasoned. The portion sizes are satisfying, and the flavors are amazing. The service is attentive, although there were some minor issues with timing and food presentation. Despite this, the overall experience is outstanding. The environment is spacious and beautiful, offering a great place to enjoy the fantastic food and strong, tasty drinks.",
+        "imageKeys": [
+            "DLk4tGQJfi3JrDbwGTAVppvgKuy5xLNA",
+            "7EN5f4em0QoUgqBnRb83fhH8mtQP56CW",
+            "9bAqjUqH1XSREeqEiOc33jFg9ALcqby7"
+        ],
+        "ratingCount": 1005,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "La Casita Restaurant by Chef Javier",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-828-9906",
+        "address": "Coabey, Jayuya 00664, Puerto Rico",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 6,
+                "3": 22,
+                "4": 139,
+                "5": 836
+            }
+        }
+    },
+    {
+        "placeId": "ChIJE8OQ_CJvA4wRGTtmBdDyFkw",
+        "website": "https://www.instagram.com/bodegachicpr/?hl=en",
+        "index": 12,
+        "utcOffset": -240,
+        "longitude": -66.113551,
+        "latitude": 18.465614,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Bodega Chic, located at 51 Calle del Cristo in Old San Juan, offers a relaxed and unpretentious atmosphere with amazing French cuisine infused with Mediterranean and Caribbean influences. The decor exudes a bohemian vibe reminiscent of the area's past. It's known for its simple yet delicious food, making it a gem for brunch on Sundays. In the evening, Bodega Chic transforms into a hip lounge where guests can enjoy great food and drinks.",
+        "imageKeys": [
+            "4ZsoB1N37wNoTXlEEUmqyA31SPbywgwk",
+            "ceKQ3HAHYNS0ofYzVtXGCiUH8mo5qZhO",
+            "AKvboyr60iuj53jk5BWw7ntJKMhnxPk5",
+            "cnKsVKUc3LogthRTXmRILThFLJuOgYch",
+            "ii1lAChSk2XNhq27b8fbOcd7i2wVWA5t"
+        ],
+        "ratingCount": 144,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1130"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Bodega Chic",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 787-721-6083",
+        "address": "313 C. de la Fortaleza, San Juan, 00901, Puerto Rico",
+        "types": [
+            "Restaurant",
+            "Bar",
+            "French restaurant",
+            "Brasserie"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 9,
+                "2": 5,
+                "3": 5,
+                "4": 11,
+                "5": 114
+            }
+        }
+    },
+    {
+        "placeId": "ChIJMUD0YJ9DA4wRFGWnWkHFqZ4",
+        "website": "https://m.facebook.com/elranchodapa/",
+        "index": 13,
+        "utcOffset": -240,
+        "longitude": -66.098484,
+        "latitude": 18.291238,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Nestled in the heart of Aguas Buenas, El Rancho de Apa offers a genuine taste of Puerto Rican culture and cuisine. This charming lechonera features cinder block roasting pits where they prepare succulent pork seasoned with a unique blend of spices, including salt, garlic, and adobo. A visit here is essential for anyone wanting to savor traditional dishes like lechon and arroz con gandules—roasted pig served alongside rice and pigeon peas.",
+        "imageKeys": [
+            "YjL3Zp1H9pEjKUy9OxoUWQr7Jfj2Kmoq",
+            "AnVDyuqe5XBk27L4OmtKLULxwfaNxaqA",
+            "GcUKT6Bcz8j7U0SJGMIUTX12rXCQQDFy",
+            "bcvQP0aIadWGXVsEYKHNHFQTQexP7AvN"
+        ],
+        "ratingCount": 411,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1530"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1530"
+                }
+            }
+        ],
+        "name": "El Rancho de Apa",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "+1 787-789-4706",
+        "address": "Carr. 173 KM 28.9 Bo, Guaynabo 00927, Puerto Rico",
+        "types": [
+            "Puerto Rican restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 18,
+                "2": 8,
+                "3": 12,
+                "4": 51,
+                "5": 327
+            }
+        }
+    },
+    {
+        "placeId": "ChIJn1tccr5oA4wRugPdu-HcunQ",
+        "website": "https://www.cayocaribe.com/",
+        "index": 14,
+        "utcOffset": -240,
+        "longitude": -66.064709,
+        "latitude": 18.421985,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Cayo Caribe is a popular eatery in Puerto Rico known for its creole and seafood dishes. The restaurant offers a variety of flavorful options such as mofongo with lobster, mahi mahi tacos, arroz mamposteao, and chuletas (pork chops), showcasing the best of home-cooked Puerto Rican cuisine. While some visitors appreciate the affordable prices and excellent service, others note that the atmosphere has a sports bar vibe.",
+        "imageKeys": [
+            "mA3yEOoyMGqKa3KRBC2cQtw9gcnHo3V0",
+            "fbTiyQPxhEaYodPF0fE0fER0RAlNxDgl",
+            "0U09y63BxrgPA8jW8nypjvq8mMfiOj2j",
+            "4a4REhQrUxiD6EtobSwFkznTR2dd7KSm"
+        ],
+        "ratingCount": 2724,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2230"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2230"
+                }
+            }
+        ],
+        "name": "Cayo Caribe",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-764-8700",
+        "address": "253 Avenida F.D. Roosevelt, San Juan, 00918, Puerto Rico",
+        "types": [
+            "Seafood restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 110,
+                "2": 57,
+                "3": 203,
+                "4": 595,
+                "5": 1768
+            }
+        }
+    },
+    {
+        "placeId": "ChIJx9xnUQDIBIwRhpOdgGWAPZA",
+        "website": "https://www.bananasvqs.com/",
+        "index": 15,
+        "utcOffset": -240,
+        "longitude": -65.473251,
+        "latitude": 18.095316,
+        "rating": 3.9,
+        "excerpt": null,
+        "detail_description": "Bananas is a popular spot in Esperanza, offering a relaxed atmosphere with playful rain-forest murals and teal-colored tables. The menu features dishes like red snapper sandwich, jerk chicken, and Caribbean salads. The highlight is the deep-fried bananas with hot honey sauce. With an airy timber-built venue overlooking the ocean, it's an ideal place to enjoy island living vibes while sipping on tropical cocktails like pina coladas and mojitos.",
+        "imageKeys": [
+            "WYY1K3kU0FaLYuedq9KTcm3Nf7ND7BeN",
+            "r4WpVCrrILvoMcnLTgWbsFHj4UhfaDJ1",
+            "XYJFw5b2JaAuC4NO8VFf9PBaQA3FWNuJ",
+            "JQrFHdqwBYKQUvt3i9g39vrwhz31Uuex",
+            "prrILotd9d5OhQXlXWpG6iufb58tStkC"
+        ],
+        "ratingCount": 1409,
+        "openingPeriods": null,
+        "name": "Bananas Beach Bar and Guesthouse",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 787-705-2506",
+        "address": "142 Calle Flamboyan, Esperanza, Vieques 00765, Puerto Rico",
+        "types": [
+            "Restaurant",
+            "Guest house"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 196,
+                "2": 84,
+                "3": 132,
+                "4": 232,
+                "5": 770
+            }
+        }
+    },
+    {
+        "placeId": "ChIJc1LxccduA4wREM00tNOWrjQ",
+        "website": "http://paletashop.com/",
+        "index": 16,
+        "utcOffset": -240,
+        "longitude": -66.116503,
+        "latitude": 18.46419,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "Located in the southern section of Old San Juan, Señor Paleta is a small family-owned shop that has gained popularity for its handcrafted paletas. These refreshing natural popsicles come in a variety of flavors, including both milk and fruit-based options. The shop offers dairy and non-dairy choices, with flavors ranging from chocolate to various tropical fruits. Despite its size, Señor Paleta attracts eager customers who happily wait in line to indulge in these cold treats.",
+        "imageKeys": [
+            "DprXPrrhumdhyU8D3QyOc6IGxi8Cbr8x",
+            "aj285qyJYxooKMPvYDx35ovM78Ux6iDE",
+            "A3oS7llw0xpg5gmjNcPGrzZ0aavZDLPz",
+            "OSp9Y609q2tpjFgpqIusb3sGNbV4RMCY",
+            "1kZM5R5nUNb7cZ6RsCwItTjHbXciHye6"
+        ],
+        "ratingCount": 3371,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2300"
+                }
+            }
+        ],
+        "name": "Señor Paleta",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-724-2337",
+        "address": "153 C. Tetuán, San Juan, 00901, Puerto Rico",
+        "types": [
+            "Ice cream shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 56,
+                "2": 31,
+                "3": 160,
+                "4": 490,
+                "5": 2639
+            }
+        }
+    },
+    {
+        "placeId": "ChIJa7l5lxSXBIwRS4jwJmcapBM",
+        "website": "https://www.laestacionpr.com/",
+        "index": 17,
+        "utcOffset": -240,
+        "longitude": -65.637937,
+        "latitude": 18.360062,
+        "rating": 4.7,
+        "excerpt": null,
+        "detail_description": "La Estación is a unique dining spot located in an old gas station outside the Conquistador Resort in Fajardo, Puerto Rico. The restaurant is the brainchild of two New Yorkers with extensive restaurant experience who have brought their expertise to create a culinary haven dedicated to Nuyorican BBQ. This innovative style combines American barbecue techniques with Caribbean flavors and spices, resulting in mouthwatering dishes that are not to be missed.",
+        "imageKeys": [
+            "Lz0tqOuPOgPVA5woSUOZKTPyJrXh7ue0",
+            "I26Fd7G4KnrfCsn42HtSu9bMUjAPm3V5",
+            "1xiGbXwhEJ7FWcpCq2gKautyAk53ka6W",
+            "jknlvEx1CHcXr8AbQTWkqxeNsEAkdT5S",
+            "hkJjMU519UvS6AipNARIgeUio5IsAFPA"
+        ],
+        "ratingCount": 1600,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2030"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2030"
+                }
+            }
+        ],
+        "name": "La Estación",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+1 787-863-4481",
+        "address": "Fajardo, 00738, Puerto Rico",
+        "types": [
+            "Puerto Rican restaurant",
+            "Barbecue restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 38,
+                "2": 27,
+                "3": 75,
+                "4": 166,
+                "5": 1309
+            }
+        }
+    },
+    {
+        "placeId": "ChIJPxNJJqpuA4wR4EGhQWuDEFo",
+        "website": "https://www.casabacardi.com/",
+        "index": 18,
+        "utcOffset": -240,
+        "longitude": -66.139264,
+        "latitude": 18.458211,
+        "rating": 4.5,
+        "excerpt": "Renowned rum distillery featuring historical tours, mixology classes, tastings & an outdoor patio.",
+        "detail_description": "Nestled just outside San Juan in Catano, Casa BACARDÍ is a must-visit for anyone exploring Puerto Rico. This iconic rum distillery offers an engaging experience that combines history and mixology. Visitors can embark on a fascinating tour through the new visitor center, where stunning views of the harbor and Old San Juan await. The journey delves into the rich heritage of sugar cane cultivation in the Caribbean and reveals how rum production began on these vibrant islands.",
+        "imageKeys": [
+            "SwY7R7lQHV7uEDITkXxSsc0tIOM3SDAC",
+            "sdfOydCfI9Cr6RngkCGSG2ZoNHNgagmq",
+            "I9jvKXC3utzTZxbAcpZnQrL7q67GygLG",
+            "yf8bTCDFmGGoSBdNwlhuzzKid9zXWBGz",
+            "3giQSbQpvc6t7N8RRqErlw4iY4XG4K0A"
+        ],
+        "ratingCount": 2669,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Casa BACARDÍ",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "200 PR-165, Cataño, 00962, Puerto Rico",
+        "types": [
+            "Food & Drink",
+            "Alcohol manufacturer",
+            "Bar",
+            "Distillery",
+            "Tour operator"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 140,
+                "2": 62,
+                "3": 94,
+                "4": 294,
+                "5": 2099
+            }
+        }
+    },
+    {
+        "placeId": "ChIJmYNXycZuA4wRQV-zJSCBCb4",
+        "website": "http://www.311restaurantpr.com/",
+        "index": 19,
+        "utcOffset": -240,
+        "longitude": -66.113641,
+        "latitude": 18.465535,
+        "rating": 4.6,
+        "excerpt": "Intimate eatery featuring elevated French cuisine & fine wines in a dimly lit, romantic atmosphere.",
+        "detail_description": "Nestled in the heart of Old San Juan, Trois Cent Onze is an intimate and upscale French restaurant that offers a sophisticated dining experience. The restaurant boasts an elegant decor, excellent service, and a superb wine list. With its colorful Moorish-Andalucian gateway entrance, the dining room exudes sophistication and intimacy. Chef Carlos Guzman Tavarez's delicate and flavorful classic French cuisine is complemented by a well-stocked wine cellar.",
+        "imageKeys": [
+            "jipJOIdzjJnUQweueDrzOomTKTOMTXMQ",
+            "xHLHM80zFwhJfUh9sljKuLvU8cZfQRBa",
+            "w2N3AGolFj3rdMSBe4qScSYHTgLjj5Zy",
+            "IUl31rkhiXqD9MFd7HrvHqEeIW8wWYaE"
+        ],
+        "ratingCount": 211,
+        "openingPeriods": [],
+        "name": "Trois Cent Onze",
+        "permanentlyClosed": true,
+        "priceLevel": 3,
+        "phone": "+1 787-725-7959",
+        "address": "311 C. de la Fortaleza, San Juan, 00901, Puerto Rico",
+        "types": [
+            "French restaurant",
+            "Fine dining restaurant",
+            "Restaurant",
+            "Wine bar"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 6,
+                "3": 9,
+                "4": 29,
+                "5": 163
+            }
+        }
+    },
+    {
+        "placeId": "ChIJo_l5esduA4wRflGU7V1acFY",
+        "website": "https://verdemesapr.com/",
+        "index": 20,
+        "utcOffset": -240,
+        "longitude": -66.117058,
+        "latitude": 18.46401,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "Verde Mesa is a charming restaurant located in the heart of Old San Juan. The cozy and rustic ambiance, with pressed-tin ceilings and vintage furniture, sets the stage for a delightful dining experience. The menu features superb Mediterranean-Caribbean fusion cuisine, with a focus on using indigenous tropical ingredients and fresh local produce. Vegetarian-friendly options are plentiful and inventive, such as the refreshing ceviche-style chayote salad and hearty pumpkin and barley porridge.",
+        "imageKeys": [
+            "zJlvYpT4Zk9ua4qhbxRdxKTCmI2k6GC2",
+            "BTU3AQs54e7kUC8YmQ1qpsG49iP8Njar",
+            "rIFdbquPSeVORssP8gQnXWWNGvUNbAkh",
+            "FkgSBE6slJrjLXzt8LzoAIA0BxQu1ISJ",
+            "wSdxWajzXNkqhemKxYzviS707zkZrNjQ"
+        ],
+        "ratingCount": 628,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1145"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1145"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1730"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1145"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1145"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1145"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1500"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Verde Mesa",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+1 787-390-4662",
+        "address": "107 Calle Tetuan Esq, C. de San José, San Juan, 00901, Puerto Rico",
+        "types": [
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 26,
+                "2": 26,
+                "3": 22,
+                "4": 58,
+                "5": 501
+            }
+        }
+    }
+]

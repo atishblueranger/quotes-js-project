@@ -1,0 +1,1927 @@
+{
+  "_id": "146238",
+  "city_name": "Amer",
+  "is_searchable": true,
+  "place_id": 146238,
+  "country_name": "India",
+  "city_name_search": "amer",
+  "longitude": 75.866936,
+  "parent_id": 24,
+  "popularity": 23849,
+  "manual_description": "The city of Amer is named after the famous Amer Fort, a magnificent 16th-century hilltop stronghold overlooking Jaipur. Also called the Amber Palace, the fort is an outstanding example of Rajput architecture, featuring a hall with intricate mirror mosaics and a Ganesh icon carved from coral. The Amer Fort, along with five other forts in Rajasthan state are collectively declared a UNESCO World Heritage Site. Amer is also home to the Nahargarh Biological Park, which has amazing flora and fauna of the region, including endangered species such as the Indian leopard.",
+  "subcategory": "city",
+  "state_name": "Rajasthan",
+  "bounds": [
+    75.83148,
+    26.94985,
+    75.93402,
+    27.01842
+  ],
+  "image_url": [
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/146238/1.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/146238/2.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/146238/3.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/146238/1.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/146238/2.jpg",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/146238/3.jpg"
+  ],
+  "position": {
+    "geohash": "tsvcw2kee",
+    "geopoint": {
+      "latitude": 26.984425,
+      "longitude": 75.866936
+    }
+  },
+  "latitude": 26.984425,
+  "image_key": "eN8R4BtN8J7RCKkB6Ozc1TkFki3ioU2I",
+  "depth": 5,
+  "place_description": "Amer is named for its 16th-century fort, a dramatic hilltop stronghold overlooking Jaipur. Often called the Amber Palace, the fort features a hall with intricate mirror mosaics and a Ganesh icon carved from coral. Nearby landmarks include the geometric Panna Meena ka Kund stepwell and Jagat Shiromani, a Hindu temple with a striking statue of goddess Kali. The Anokhi Museum showcases woodblock printing.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "24",
+        "subcategory": "municipality",
+        "stateName": "Rajasthan",
+        "countryName": "India",
+        "id": 24,
+        "longitude": 75.79276,
+        "bounds": [
+          75.63993,
+          26.74975,
+          75.94119,
+          27.02067
+        ],
+        "latitude": 26.9143,
+        "popularity": 65256,
+        "parentId": 86673,
+        "depth": 4,
+        "name": "Jaipur"
+      },
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "India"
+      },
+      {
+        "_id": "86673",
+        "subcategory": "district",
+        "stateName": "Rajasthan",
+        "countryName": "India",
+        "id": 86673,
+        "longitude": 75.58024,
+        "bounds": [
+          74.90704,
+          26.42339,
+          76.29341,
+          27.86142
+        ],
+        "latitude": 26.71019,
+        "popularity": 65314,
+        "parentId": 86674,
+        "depth": 3,
+        "name": "Jaipur District"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "1138",
+        "subcategory": "city",
+        "stateName": "Rajasthan",
+        "countryName": "India",
+        "id": 1138,
+        "longitude": 76.35778,
+        "bounds": [
+          76.31721,
+          25.97842,
+          76.41541,
+          26.07498
+        ],
+        "latitude": 26.01053,
+        "popularity": 5525,
+        "parentId": 87101,
+        "depth": 4,
+        "name": "Sawai Madhopur"
+      },
+      {
+        "_id": "1241",
+        "subcategory": "city",
+        "stateName": "Rajasthan",
+        "countryName": "India",
+        "id": 1241,
+        "longitude": 76.61239,
+        "bounds": [
+          76.57763,
+          27.48954,
+          76.71513,
+          27.61974
+        ],
+        "latitude": 27.55561,
+        "popularity": 2627,
+        "parentId": 87132,
+        "depth": 4,
+        "name": "Alwar"
+      },
+      {
+        "_id": "24",
+        "subcategory": "municipality",
+        "stateName": "Rajasthan",
+        "countryName": "India",
+        "id": 24,
+        "longitude": 75.79276,
+        "bounds": [
+          75.63993,
+          26.74975,
+          75.94119,
+          27.02067
+        ],
+        "latitude": 26.9143,
+        "popularity": 65256,
+        "parentId": 86673,
+        "depth": 4,
+        "name": "Jaipur"
+      },
+      {
+        "_id": "86673",
+        "subcategory": "district",
+        "stateName": "Rajasthan",
+        "countryName": "India",
+        "id": 86673,
+        "longitude": 75.58024,
+        "bounds": [
+          74.90704,
+          26.42339,
+          76.29341,
+          27.86142
+        ],
+        "latitude": 26.71019,
+        "popularity": 65314,
+        "parentId": 86674,
+        "depth": 3,
+        "name": "Jaipur District"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ0fNH81yxbTkRi56uF-amqgo",
+        "website": "https://www.tourism.rajasthan.gov.in/nahargarh-fort.html",
+        "index": 5,
+        "utcOffset": 330,
+        "longitude": 75.817037,
+        "rating": 4.5,
+        "detail_description": "Nahargarh Fort, built in 1734 above Jaipur, is part of a trio of forts along with Jaigarh and Amer. It was constructed to protect the city and has a rich military history. The fort also houses a wax museum featuring sports stars, freedom fighters, and Bollywood celebrities. Visitors can embark on a cycling expedition to explore the fort in a unique way while enjoying stunning views of Jaipur and Man Sagar Lake.",
+        "imageKeys": [
+          "0hYzc8luxiU3uk2dPQF9HGy8JpYt1J5h",
+          "3me51J1GvjYioIBWnVbyO0Ck916HCuhY",
+          "y3VrjXpTmmyfpi831MLQGdppiYEHtlLv",
+          "s1DHiAmLe6kMruVERT9iE7jkkmhrEaqq",
+          "MPkCmkefiIFFZW6WwBQRcdJdqELgZuOt"
+        ],
+        "ratingCount": 72587,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1730",
+              "day": 0
+            },
+            "open": {
+              "time": "1000",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Elaborate fort built in 1734 in the hills above Jaipur, offering sweeping views of the city.",
+        "name": "Nahargarh Fort",
+        "placeId": "ChIJ0fNH81yxbTkRi56uF-amqgo",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0fNH81yxbTkRi56uF-amqgo_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0fNH81yxbTkRi56uF-amqgo_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0fNH81yxbTkRi56uF-amqgo_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0fNH81yxbTkRi56uF-amqgo_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0fNH81yxbTkRi56uF-amqgo_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 16468,
+            "3": 5062,
+            "1": 1377,
+            "5": 48646,
+            "2": 1136
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 141 282 2863",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0fNH81yxbTkRi56uF-amqgo_1.jpg",
+        "address": "Krishna Nagar, Brahampuri, Jaipur, Rajasthan 302007, India",
+        "latitude": 26.940166,
+        "types": [
+          "Castle",
+          "Museums",
+          "Fortress",
+          "Historical landmark",
+          "Historic Sites",
+          "Military Museums",
+          "Lookouts"
+        ]
+      },
+      {
+        "_id": "ChIJ2fs8d7WxbTkRnv1e7pWoFuI",
+        "website": "http://www.anokhimuseum.com/",
+        "index": 11,
+        "utcOffset": 330,
+        "longitude": 75.850776,
+        "rating": 4.6,
+        "detail_description": "Nestled within a charming traditional townhouse in Jaipur, the Anokhi Museum of Hand Printing is a treasure trove dedicated to the exquisite art and heritage of wood-block printing. This museum not only showcases an impressive array of exhibits, including intricately carved wooden blocks and beautifully hand-printed textiles but also serves as a charitable foundation aimed at preserving this ancient Rajasthani craft.",
+        "imageKeys": [
+          "FzqZOJmNFkpgCYyRcJ6Sf9WLmeMFO5Zs",
+          "M3U9oh1HcxuN565WUzqtQIjqcpaCnRZB",
+          "j3D942RRQXJTS7zcki7rNJO2CUDnYnPB",
+          "JwxJl2IUhswukkViKcIu9qi6LuQZangL",
+          "wvU6gepwUhuzbYSiy6d5Z4BIHT6F2RXZ"
+        ],
+        "ratingCount": 404,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "1030",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "1030",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "1030",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "1030",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "1030",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "1030",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Located in a traditional townhouse, this museum showcases the art & heritage of wood-block printing.",
+        "name": "Anokhi Museum",
+        "placeId": "ChIJ2fs8d7WxbTkRnv1e7pWoFuI",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2fs8d7WxbTkRnv1e7pWoFuI_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2fs8d7WxbTkRnv1e7pWoFuI_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2fs8d7WxbTkRnv1e7pWoFuI_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2fs8d7WxbTkRnv1e7pWoFuI_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2fs8d7WxbTkRnv1e7pWoFuI_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 67,
+            "3": 20,
+            "1": 9,
+            "5": 301,
+            "2": 8
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 141 253 0226",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ2fs8d7WxbTkRnv1e7pWoFuI_1.jpg",
+        "address": "Anokhi Haveli Kheri Gate, Amer, Jaipur, Rajasthan 302028, India",
+        "latitude": 26.99271,
+        "types": [
+          "Museum",
+          "Handicraft museum",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJ4xrHd06wbTkRpL6PTIeqMTA",
+        "website": null,
+        "index": 9,
+        "utcOffset": 330,
+        "longitude": 75.861032,
+        "rating": null,
+        "detail_description": "Amer, also known as Amber, is a historic town in Jaipur famous for its 16th-century fort that sits atop a hill. The fort, also called the Amber Palace, boasts stunning mirror mosaics and a coral-carved Ganesh icon. Nearby attractions include the Panna Meena ka Kund stepwell and the Jagat Shiromani Hindu temple with its impressive statue of goddess Kali.",
+        "imageKeys": [
+          "eN8R4BtN8J7RCKkB6Ozc1TkFki3ioU2I",
+          "a0hHSAMIsFejXJnzPrdxvWowSndkA5DH",
+          "Sg6ULht7otQJbLpFrM2vmqcRpAvyf0FP",
+          "y1llcwR199q4bPXO6gHyP6y7W1C9opYd",
+          "gtGRJTvbOHYtNFmELhQaf5MqkcXAfZiF"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": "Amer is named for its 16th-century fort, a dramatic hilltop stronghold overlooking Jaipur. Often called the Amber Palace, the fort features a hall with intricate mirror mosaics and a Ganesh icon carved from coral. Nearby landmarks include the geometric Panna Meena ka Kund stepwell and Jagat Shiromani, a Hindu temple with a striking statue of goddess Kali. The Anokhi Museum showcases woodblock printing.",
+        "name": "Amer",
+        "placeId": "ChIJ4xrHd06wbTkRpL6PTIeqMTA",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4xrHd06wbTkRpL6PTIeqMTA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4xrHd06wbTkRpL6PTIeqMTA_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4xrHd06wbTkRpL6PTIeqMTA_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4xrHd06wbTkRpL6PTIeqMTA_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4xrHd06wbTkRpL6PTIeqMTA_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ4xrHd06wbTkRpL6PTIeqMTA_1.jpg",
+        "address": "Jaipur, Rajasthan, India",
+        "latitude": 26.988009,
+        "types": []
+      },
+      {
+        "_id": "ChIJ94NTG7WxbTkRcBL55cQFS98",
+        "website": null,
+        "index": 8,
+        "utcOffset": 330,
+        "longitude": 75.851285,
+        "rating": 4.4,
+        "detail_description": "Panna Meena ka Kund is a historic stepwell and rainwater catchment located near Amber Fort in Jaipur. Dating back to the 16th century, this architectural wonder features picturesque symmetrical stairways on three sides and a multi-story balcony on the fourth. It is a popular spot for photography, especially during monsoon rains when it transforms into a peaceful oasis.",
+        "imageKeys": [
+          "LFwAzWw8UN3MHLIWUOaByQcomMv3lz1y",
+          "fjwlq8z8hXGomD7Vz0VX0zE2PPfCktR9",
+          "VZl6Zpimv8ffUuhm2umL4miOisy6M0US",
+          "2rodBPQKCOLUfYwKfEfdMOcdD4r5o6ls",
+          "JX8xxpLSvHQApkP0bebxnrsCDfTjzucL"
+        ],
+        "ratingCount": 5197,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0700",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 1
+            },
+            "open": {
+              "time": "0700",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0700",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0700",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0700",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0700",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0700",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Historic stepwell & rainwater catchment known for its picturesque symmetrical stairways.",
+        "name": "Panna Meena ka Kund",
+        "placeId": "ChIJ94NTG7WxbTkRcBL55cQFS98",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ94NTG7WxbTkRcBL55cQFS98_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ94NTG7WxbTkRcBL55cQFS98_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ94NTG7WxbTkRcBL55cQFS98_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ94NTG7WxbTkRcBL55cQFS98_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ94NTG7WxbTkRcBL55cQFS98_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 1330,
+            "3": 627,
+            "1": 78,
+            "5": 3081,
+            "2": 116
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ94NTG7WxbTkRcBL55cQFS98_1.jpg",
+        "address": "XVR2+FGV, Amer, Rajasthan 302028, India",
+        "latitude": 26.991231,
+        "types": [
+          "Historical place",
+          "Sights & Landmarks",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJ98VRB0qwbTkRZLIvn_3NPzk",
+        "website": null,
+        "index": 7,
+        "utcOffset": 330,
+        "longitude": 75.858811,
+        "rating": 4.6,
+        "detail_description": "Amber Fort View offers a stunning perspective of Jaipur, showcasing the impressive blend of Mughal and Rajput architecture. The fort, constructed in 1592 by Raja Man Singh, boasts elaborately mirrored rooms like Diwan-Aam and Sheesh Mahal, narrating tales of grandeur and bravery. While the climb to reach this vantage point may be challenging for beginners due to numerous stairs, the breathtaking views from the top make it a memorable experience.",
+        "imageKeys": [
+          "ud8XwZHbeLrK1SN7arEdBNG7nWB2nXy9",
+          "iBUYVZujFCQ8rHX5JGSVTffYpPl79ehW",
+          "QdH4FCToGivepWGb4QNQXnVTBXTpP1cr"
+        ],
+        "ratingCount": 242,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": null,
+        "name": "Amber Fort View",
+        "placeId": "ChIJ98VRB0qwbTkRZLIvn_3NPzk",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ98VRB0qwbTkRZLIvn_3NPzk_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ98VRB0qwbTkRZLIvn_3NPzk_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ98VRB0qwbTkRZLIvn_3NPzk_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ98VRB0qwbTkRZLIvn_3NPzk_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ98VRB0qwbTkRZLIvn_3NPzk_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 33,
+            "3": 12,
+            "1": 8,
+            "5": 185,
+            "2": 1
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ98VRB0qwbTkRZLIvn_3NPzk_1.jpg",
+        "address": "XVV5+PGM, Amer, Jaipur, Rajasthan 302028, India",
+        "latitude": 26.994333,
+        "types": [
+          "Historical landmark"
+        ]
+      },
+      {
+        "_id": "ChIJG_bV1kywbTkRw3PjiJvcsko",
+        "website": null,
+        "index": 2,
+        "utcOffset": 330,
+        "longitude": 75.85394,
+        "rating": 4.7,
+        "detail_description": "Perched on a hill in the Aravalli Range, Amer Fort is an impressive 16th-century fortress and palace located near Jaipur, India. Constructed from marble and red sandstone, this grand structure features four levels, intricate gates, cobbled paths, expansive ramparts, courtyards, a temple, and a 12-kilometer surrounding wall. Notably, it boasts an underground passageway connecting it to Jiagarh Fort for royal family escape during wartime.",
+        "imageKeys": [
+          "icD81zluhIt841mVK3JzszZVsWB0s1vM",
+          "RG092XJEmZFpPfBB5BmHNnrsve1b392i",
+          "i2RxRdEpI8w1W1xClxOACO93Xs04B7U4"
+        ],
+        "ratingCount": 218,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Amer Fort",
+        "placeId": "ChIJG_bV1kywbTkRw3PjiJvcsko",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG_bV1kywbTkRw3PjiJvcsko_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG_bV1kywbTkRw3PjiJvcsko_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG_bV1kywbTkRw3PjiJvcsko_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG_bV1kywbTkRw3PjiJvcsko_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG_bV1kywbTkRw3PjiJvcsko_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 41,
+            "3": 7,
+            "1": 3,
+            "5": 166,
+            "2": 1
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG_bV1kywbTkRw3PjiJvcsko_1.jpg",
+        "address": "Devisinghpura, Amer, Rajasthan 302028, India",
+        "latitude": 26.985577,
+        "types": [
+          "Bus stop"
+        ]
+      },
+      {
+        "_id": "ChIJJxQ3gVaxbTkRPU4mhGY7Vb0",
+        "website": null,
+        "index": 14,
+        "utcOffset": 330,
+        "longitude": 75.850921,
+        "rating": 4.7,
+        "detail_description": "Diwan-e-aam is a part of the Amer Fort palace facility in Jaipur, India. It is a stunning example of Mughal and Rajput architectural styles, featuring a blend of red sandstone and white marble. This court was where the King would meet with his administrative officers on important occasions.",
+        "imageKeys": [
+          "NmNz96Y00G96CBQ0vrRVKqBrc4fq2Hxw",
+          "iehRavtNDKPaP8Y7YGDfAD0XqvRIRpvR",
+          "vf0D58PKZuCO0kVXyylLTGXywuz9MS0R"
+        ],
+        "ratingCount": 71,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Diwan-e-aam",
+        "placeId": "ChIJJxQ3gVaxbTkRPU4mhGY7Vb0",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJJxQ3gVaxbTkRPU4mhGY7Vb0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJJxQ3gVaxbTkRPU4mhGY7Vb0_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJJxQ3gVaxbTkRPU4mhGY7Vb0_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJJxQ3gVaxbTkRPU4mhGY7Vb0_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJJxQ3gVaxbTkRPU4mhGY7Vb0_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 9,
+            "3": 4,
+            "1": 1,
+            "5": 57,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJJxQ3gVaxbTkRPU4mhGY7Vb0_1.jpg",
+        "address": "XVP2+G9M, Unnamed Road, Devisinghpura, Amer, Rajasthan 302028, India",
+        "latitude": 26.986345,
+        "types": [
+          "City Hall"
+        ]
+      },
+      {
+        "_id": "ChIJNWQbG7OxbTkROn7-HkkIPk8",
+        "website": null,
+        "index": 6,
+        "utcOffset": 330,
+        "longitude": 75.850643,
+        "rating": 4.5,
+        "detail_description": "Ganesh Pol serves as the stunning entrance to the expansive Amber Palace complex, a true gem in Jaipur. Adorned with intricate paintings of Lord Ganesh, this ornate gateway leads visitors into a world of royal splendor. Inside, you'll find the Diwan-e-Am hall featuring beautifully carved columns and latticed galleries, along with the king's private quarters and other remarkable structures like Jai Mandir or Sheesh Mahal.",
+        "imageKeys": [
+          "JyXYsfzI7bNpx5qWH0s2a3DCChupDt7x",
+          "ARfPh5Gothiq0hvzwf10xYH2kdvdYzzl",
+          "ac7NggauXfHft0pXF5u0F9BUBXkPSucR",
+          "YHK21juu0kCPyZcRVYGwDN7An1bYUwFq"
+        ],
+        "ratingCount": 152,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2230",
+              "day": 0
+            },
+            "open": {
+              "time": "0800",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 1
+            },
+            "open": {
+              "time": "0800",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 2
+            },
+            "open": {
+              "time": "0800",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 3
+            },
+            "open": {
+              "time": "0800",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 4
+            },
+            "open": {
+              "time": "0800",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 5
+            },
+            "open": {
+              "time": "0800",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2230",
+              "day": 6
+            },
+            "open": {
+              "time": "0800",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Ornate gateway to the vast Amber Palace complex, with a painting of the Hindu elephant deity Ganesh.",
+        "name": "Ganesh Pol",
+        "placeId": "ChIJNWQbG7OxbTkROn7-HkkIPk8",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJNWQbG7OxbTkROn7-HkkIPk8_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJNWQbG7OxbTkROn7-HkkIPk8_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJNWQbG7OxbTkROn7-HkkIPk8_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJNWQbG7OxbTkROn7-HkkIPk8_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJNWQbG7OxbTkROn7-HkkIPk8_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 35,
+            "3": 10,
+            "1": 2,
+            "5": 103,
+            "2": 2
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 141 237 1141",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJNWQbG7OxbTkROn7-HkkIPk8_1.jpg",
+        "address": "JAIGARH FORT, Amer Road, Devisinghpura, Amer, Rajasthan 302028, India",
+        "latitude": 26.986061,
+        "types": [
+          "Sights & Landmarks",
+          "Architectural Buildings",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJV9GWIae2bTkR3tu5UFSOwk0",
+        "website": null,
+        "index": 18,
+        "utcOffset": 330,
+        "longitude": 75.808722,
+        "rating": 4.6,
+        "detail_description": "Central Park in Jaipur is a sprawling green oasis located near the Statue Circle and Dr. Ambedkar Statue, making it a popular destination for locals and tourists alike. Constructed by the Jaipur Development Authority, this expansive park features lush gardens, a jogging track, and notable landmarks such as the Rambagh Polo Ground and Rambagh Golf Club. Visitors can unwind amidst the serene surroundings or enjoy a leisurely picnic while admiring the towering Indian flag and stone sculptures scattered throughout the park.",
+        "imageKeys": [
+          "iXKDNS8MeXm99y39AD0Q2v4fW6fitV11",
+          "KpP0pDArb7tYNtza4qs4REV20a0GGu39",
+          "qRUCOPbOky4xMikHaxXMnxhiqTDvdtjH"
+        ],
+        "ratingCount": 24776,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2100",
+              "day": 0
+            },
+            "open": {
+              "time": "0500",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 1
+            },
+            "open": {
+              "time": "0500",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 2
+            },
+            "open": {
+              "time": "0500",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "0500",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 4
+            },
+            "open": {
+              "time": "0500",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 5
+            },
+            "open": {
+              "time": "0500",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 6
+            },
+            "open": {
+              "time": "0500",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Jaipur's largest park, with lush green space, a jogging path, towering flagpole & stone statues.",
+        "name": "Central Park",
+        "placeId": "ChIJV9GWIae2bTkR3tu5UFSOwk0",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJV9GWIae2bTkR3tu5UFSOwk0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJV9GWIae2bTkR3tu5UFSOwk0_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJV9GWIae2bTkR3tu5UFSOwk0_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJV9GWIae2bTkR3tu5UFSOwk0_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJV9GWIae2bTkR3tu5UFSOwk0_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 4609,
+            "3": 1257,
+            "1": 549,
+            "5": 18038,
+            "2": 307
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 1800 11 1363",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJV9GWIae2bTkR3tu5UFSOwk0_1.jpg",
+        "address": "Prithviraj Rd, Rambagh, Jaipur, Rajasthan 302007, India",
+        "latitude": 26.904904,
+        "types": [
+          "Park",
+          "Nature & Parks"
+        ]
+      },
+      {
+        "_id": "ChIJXyn5OrC2bTkRaGk8EzNDuwU",
+        "website": "https://obms-tourist.rajasthan.gov.in/place-details/Government-Central-Museum-Albert-Hall-Jaipur",
+        "index": 10,
+        "utcOffset": 330,
+        "longitude": 75.819412,
+        "rating": 4.5,
+        "detail_description": "Nestled within the lush surroundings of Ram Niwas Bagh, the Albert Hall Museum stands as a testament to Jaipur's rich heritage and artistic legacy. Established in 1887, this elegant museum is not only the oldest in the city but also an architectural marvel designed by Sir Samuel Swinton Jacob. The Indo-Saracenic style building, crafted from sandstone and marble, beautifully blends Indian and Victorian influences.",
+        "imageKeys": [
+          "IwocZcna2kGm9NA37nhjmdRrTpDqCST3",
+          "nTcTrDw75HdpG5BNNHISakTGrqBZVhNx",
+          "lYMXRzq5FhKZAi3xjc9IWzdPJsqr2R5v",
+          "FEC2tiGcNzFAY2NStgqXjvwBjo6uttTd",
+          "zAQ0LhpLrJzWijzGf0kmTCPt6T08tD77"
+        ],
+        "ratingCount": 68078,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2100",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Elegant museum built in 1887 showcasing Indian art, arms, jewels, furniture, artefacts & more.",
+        "name": "Albert Hall Museum",
+        "placeId": "ChIJXyn5OrC2bTkRaGk8EzNDuwU",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJXyn5OrC2bTkRaGk8EzNDuwU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJXyn5OrC2bTkRaGk8EzNDuwU_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJXyn5OrC2bTkRaGk8EzNDuwU_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJXyn5OrC2bTkRaGk8EzNDuwU_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJXyn5OrC2bTkRaGk8EzNDuwU_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 16289,
+            "3": 4811,
+            "1": 1217,
+            "5": 44679,
+            "2": 987
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJXyn5OrC2bTkRaGk8EzNDuwU_1.jpg",
+        "address": "Ram Niwas Garden, Ashok Nagar, Jaipur, Rajasthan 302007, India",
+        "latitude": 26.911585,
+        "types": [
+          "Museum",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJaXD1f0yxbTkRvquNoSkESuk",
+        "website": "https://www.tourism.rajasthan.gov.in/jantar-mantar.html",
+        "index": 20,
+        "utcOffset": 330,
+        "longitude": 75.82456,
+        "rating": 4.5,
+        "detail_description": "Jantar Mantar in Jaipur is a fascinating 18th-century heritage site that stands as a testament to the astronomical prowess of its creator, Maharaj Sawai Jai Singh II. This remarkable observatory, constructed in 1726 from masonry, marble, and brass, features an array of fixed instruments known as yantras. These large-scale structures resemble abstract sculptures but serve a serious purpose: they accurately measure celestial phenomena such as timekeeping, star locations, planetary angles, and even predict eclipses.",
+        "imageKeys": [
+          "o1FDGX33Uiun3xQ7cMG4Dyot3TBcKiOP",
+          "J1dKtsdt4HNRkHefFePgrb0wJ4INjuiz",
+          "rA0rXf6a1AhJCuzoBa2EMFLv2UCKMThp",
+          "9nxAKdbzsQsrnL3RYDa4qD9dLao1kbRt",
+          "6vsWTgZzr9LxLG7GRJpl2Hzdme4mfz3a"
+        ],
+        "ratingCount": 40305,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1830",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "18th-century park & heritage site with fixed instruments for making astronomical observations.",
+        "name": "Jantar Mantar",
+        "placeId": "ChIJaXD1f0yxbTkRvquNoSkESuk",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJaXD1f0yxbTkRvquNoSkESuk_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJaXD1f0yxbTkRvquNoSkESuk_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJaXD1f0yxbTkRvquNoSkESuk_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJaXD1f0yxbTkRvquNoSkESuk_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJaXD1f0yxbTkRvquNoSkESuk_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 9231,
+            "3": 3200,
+            "1": 880,
+            "5": 26383,
+            "2": 709
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 141 515 5163",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJaXD1f0yxbTkRvquNoSkESuk_1.jpg",
+        "address": "Malve Nagar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002, India",
+        "latitude": 26.924762,
+        "types": [
+          "Observatory",
+          "Museums",
+          "Observatories & Planetariums"
+        ]
+      },
+      {
+        "_id": "ChIJcXc6vH2xbTkRbcIu9i9aSk8",
+        "website": null,
+        "index": 12,
+        "utcOffset": 330,
+        "longitude": 75.850643,
+        "rating": 4.6,
+        "detail_description": "Sheesh Mahal, also known as the Mirror Palace, is a stunning pavilion within Amber Fort that was once used by the imperial family. The palace is renowned for its intricate mirror work, featuring traditional motifs and lotus designs adorning thousands of small mirrors. It is said that even the light from a single candle could illuminate the entire Sheesh Mahal. This historical gem served as the backdrop for iconic scenes in Bollywood films and has become a popular spot for visitors seeking Instagram-worthy photos.",
+        "imageKeys": [
+          "sQvBoNeX4Y7RdKdXAreLyTM9xbFyplWQ",
+          "GErwysovTEUhUJhxKQogMSxeUS4ZabTs",
+          "DsQRVtNTx2EscGys8xzbUT4M2yazc1VC",
+          "rkgD4DeFcm9F6renHmfjqqDJo5bu2DDf",
+          "7ahacnHGSj7DwhNMHIxlpxtmWSpSZyHp"
+        ],
+        "ratingCount": 5689,
+        "openingPeriods": null,
+        "excerpt": "Pavilion in the Amber Fort built for use by the imperial family, famous for intricate mirrorwork.",
+        "name": "Sheesh Mahal, Amber Fort",
+        "placeId": "ChIJcXc6vH2xbTkRbcIu9i9aSk8",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcXc6vH2xbTkRbcIu9i9aSk8_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcXc6vH2xbTkRbcIu9i9aSk8_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcXc6vH2xbTkRbcIu9i9aSk8_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcXc6vH2xbTkRbcIu9i9aSk8_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcXc6vH2xbTkRbcIu9i9aSk8_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 1169,
+            "3": 276,
+            "1": 80,
+            "5": 4098,
+            "2": 58
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJcXc6vH2xbTkRbcIu9i9aSk8_1.jpg",
+        "address": "JAIGARH FORT, Devisinghpura, Amer, Jaipur, Rajasthan 302028, India",
+        "latitude": 26.985709,
+        "types": [
+          "Sights & Landmarks",
+          "Historical place",
+          "Architectural Buildings"
+        ]
+      },
+      {
+        "_id": "ChIJeSsYKBqzbTkRkOA72_U4lAw",
+        "website": "http://rajmandircinema.com/",
+        "index": 17,
+        "utcOffset": 330,
+        "longitude": 75.809866,
+        "rating": 4.6,
+        "detail_description": "Raj Mandir Cinema, also known as the Pride of Asia, is an ornately decorated art deco/modern movie theatre in Jaipur. Owned by a jewellery dynasty, it is one of Asia's largest theater halls with a capacity of over 1300 people. The Cineplex screens both private and public films, from Bollywood masala flicks to documentaries and regional films.",
+        "imageKeys": [
+          "O5D8yOG2K6y2qCnD7NrG4IpWypmWun6n",
+          "MFIWGKB9KDOcRCcsvYVuq38IRZ2AfGCb",
+          "IJ8PdqnDAB75g9G6rTc7A6xfbwVDOyzt",
+          "4d568F26yFvkEoNhN2qlKoefgcXQRl3l",
+          "b4MNbWkQrMofEzCEylr2j6cESqMYhoW6"
+        ],
+        "ratingCount": 42405,
+        "openingPeriods": null,
+        "excerpt": "Ornately decorated art deco/modern movie theatre owned by a jewellery dynasty.",
+        "name": "Raj Mandir Cinema",
+        "placeId": "ChIJeSsYKBqzbTkRkOA72_U4lAw",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJeSsYKBqzbTkRkOA72_U4lAw_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJeSsYKBqzbTkRkOA72_U4lAw_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJeSsYKBqzbTkRkOA72_U4lAw_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJeSsYKBqzbTkRkOA72_U4lAw_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJeSsYKBqzbTkRkOA72_U4lAw_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 7500,
+            "3": 2415,
+            "1": 1157,
+            "5": 30727,
+            "2": 660
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJeSsYKBqzbTkRkOA72_U4lAw_1.jpg",
+        "address": "C-16, Bhagwan Das Rd, Panch Batti, C Scheme, Ashok Nagar, Jaipur, Rajasthan 302001, India",
+        "latitude": 26.91559,
+        "types": [
+          "Movie theater",
+          "Performing arts theater"
+        ]
+      },
+      {
+        "_id": "ChIJkbIZvUixbTkRjL1a2LdSuuM",
+        "website": null,
+        "index": 16,
+        "utcOffset": 330,
+        "longitude": 75.821265,
+        "rating": null,
+        "detail_description": "Tripolia Bazar, situated between Manak Chowk and Chhoti Chaupar in Jaipur, is renowned for its wide array of bangles and lacquer jewelry accessories. The market's Maniyaro ka Rasta offers a prime opportunity for window shopping and discovering the origins of Rajasthan's lac jewelry. Visitors can also peruse tie-dye fabrics adorned with intricate embroidery as well as vibrant carpets, making it a must-visit destination for those seeking traditional Rajasthani crafts.",
+        "imageKeys": [
+          "wUAK76hUQzAJoGK42lM0Gdus0jGWeE5d",
+          "Z65sev2uTUa8ScvqrSJNYdTl0YzoY9Wc",
+          "1XhbvpnqFaseIxNjk6PJAdZMLVrW5BS7",
+          "uSudEEWannny9PiQSLjtrh0nlUkistrZ"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Tripolia Bazar",
+        "placeId": "ChIJkbIZvUixbTkRjL1a2LdSuuM",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkbIZvUixbTkRjL1a2LdSuuM_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkbIZvUixbTkRjL1a2LdSuuM_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkbIZvUixbTkRjL1a2LdSuuM_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkbIZvUixbTkRjL1a2LdSuuM_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkbIZvUixbTkRjL1a2LdSuuM_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkbIZvUixbTkRjL1a2LdSuuM_1.jpg",
+        "address": "Kanwar Nagar, Jaipur, Rajasthan, India",
+        "latitude": 26.926211,
+        "types": []
+      },
+      {
+        "_id": "ChIJkdO5vWKxbTkRSAUY_L0CmEk",
+        "website": "http://www.tourism.rajasthan.gov.in/",
+        "index": 13,
+        "utcOffset": 330,
+        "longitude": 75.850312,
+        "rating": 4.2,
+        "detail_description": "Sukh Niwas, also known as Sukh Mandir, is a historical site located near Diwan-e-Aam in Amer Fort. It was a place where the king spent time with his queens, hence its name. The hall is adorned with sandalwood and ivory and overlooks the picturesque Char Bagh garden. One of its most striking features is the Sheesh Mahal, a hall made entirely of mirrors that creates a mesmerizing play of light.",
+        "imageKeys": [
+          "ecoTdnzwgeWRUdEt1Xw8yCj6ehGrC2Tu",
+          "28ilzxW4TDuRtHp86QqLqHdNGtaGJPXE",
+          "4M8BmCapb6mTTNt6YUH7grRR0MIiPJ5n"
+        ],
+        "ratingCount": 24,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Sukh Niwas",
+        "placeId": "ChIJkdO5vWKxbTkRSAUY_L0CmEk",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkdO5vWKxbTkRSAUY_L0CmEk_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkdO5vWKxbTkRSAUY_L0CmEk_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkdO5vWKxbTkRSAUY_L0CmEk_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkdO5vWKxbTkRSAUY_L0CmEk_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkdO5vWKxbTkRSAUY_L0CmEk_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 8,
+            "3": 2,
+            "1": 2,
+            "5": 12,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkdO5vWKxbTkRSAUY_L0CmEk_1.jpg",
+        "address": "XVP2+C43, Devisinghpura, Amer, Fort, Rajasthan 302028, India",
+        "latitude": 26.986005,
+        "types": [
+          "Historical landmark"
+        ]
+      },
+      {
+        "_id": "ChIJlXJ26RuxbTkR0qsToxFP05c",
+        "website": "https://www.tourism.rajasthan.gov.in/content/rajasthan-tourism/en/tourist-destinations/jal-mahal.html",
+        "index": 1,
+        "utcOffset": 330,
+        "longitude": 75.846123,
+        "rating": 4.2,
+        "detail_description": "Jal Mahal, also known as the Water Palace, is a grand red sandstone palace situated in the middle of Man Sagar Lake in Jaipur. Built in the 18th century by Sawai Madho Singh, it was originally intended as a summer resort for the royal family and guests. The palace's unique location makes it one of Jaipur's most famous landmarks.",
+        "imageKeys": [
+          "fTDvJCzoManFwl25Uf3eQwwPj3ZO3Y3P",
+          "pTQosZeDUghT7mIe6qxpGc3wzOkSWBC2",
+          "4D1Mf9oWfCGou05Jd2eURKsRDcqYL9by",
+          "yoStND8Qd1bFey2P0PvVXwME7Vqs1wRx",
+          "0KP803oUzZNKsSPpRcqFfq2HuxERcOHm"
+        ],
+        "ratingCount": 35937,
+        "openingPeriods": null,
+        "excerpt": "In the middle of Man Sagar Lake sits this grand palace made of red sandstone, most of it submerged.",
+        "name": "Jal Mahal",
+        "placeId": "ChIJlXJ26RuxbTkR0qsToxFP05c",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJlXJ26RuxbTkR0qsToxFP05c_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJlXJ26RuxbTkR0qsToxFP05c_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJlXJ26RuxbTkR0qsToxFP05c_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJlXJ26RuxbTkR0qsToxFP05c_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJlXJ26RuxbTkR0qsToxFP05c_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 8214,
+            "3": 4645,
+            "1": 1452,
+            "5": 20176,
+            "2": 1384
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJlXJ26RuxbTkR0qsToxFP05c_1.jpg",
+        "address": "Amer, Jaipur, Rajasthan 302002, India",
+        "latitude": 26.953458,
+        "types": [
+          "Historical landmark",
+          "Sights & Landmarks",
+          "Castles"
+        ]
+      },
+      {
+        "_id": "ChIJocZChkGxbTkRQLfLGPDHoZ0",
+        "website": null,
+        "index": 15,
+        "utcOffset": 330,
+        "longitude": 75.824615,
+        "rating": null,
+        "detail_description": "Gaitore Ki Chhatriyan, also known as the royal cenotaphs, is a hidden gem in Jaipur that often goes unnoticed by tourists. Located at the foothills of Nahargarh Fort, this tranquil site serves as the crematorium grounds for the Kachwaha dynasty. The beautifully carved cenotaphs pay homage to Jaipur's former kings, including Sawai Jai Singh II and Man Singh II.",
+        "imageKeys": [
+          "1hMkTdyonaVrM6a3NISCY6UMUCsXQm6Q",
+          "LnCgbnZO9cikkR5140erSyJ00ODJW8dL",
+          "PCXDv5FsNCJ1CgVF1Q58R4bOTLLyLECi",
+          "WNeDHAfTTLG6KPcnxVNpdjShLgxZXJnc"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "excerpt": null,
+        "name": "Gaitore Ki Chhatriyan",
+        "placeId": "ChIJocZChkGxbTkRQLfLGPDHoZ0",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJocZChkGxbTkRQLfLGPDHoZ0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJocZChkGxbTkRQLfLGPDHoZ0_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJocZChkGxbTkRQLfLGPDHoZ0_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJocZChkGxbTkRQLfLGPDHoZ0_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJocZChkGxbTkRQLfLGPDHoZ0_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 0,
+            "3": 0,
+            "1": 0,
+            "5": 0,
+            "2": 0
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJocZChkGxbTkRQLfLGPDHoZ0_1.jpg",
+        "address": "Krishna Nagar, Brahampuri, Jaipur, Rajasthan 302002, India",
+        "latitude": 26.9429,
+        "types": [
+          "Monument",
+          "Sights & Landmarks",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
+        "website": "https://obms-tourist.rajasthan.gov.in/place-details/Hawa-mahal",
+        "index": 4,
+        "utcOffset": 330,
+        "longitude": 75.826714,
+        "rating": 4.5,
+        "detail_description": "Hawa Mahal, often referred to as the \"Palace of Winds,\" is a stunning architectural gem located in Jaipur, Rajasthan. Built in 1799 by Maharaja Sawai Pratap Singh, this five-story palace is renowned for its striking facade adorned with numerous small windows known as jharokhas. These intricately designed openings not only enhance the beauty of the structure but also serve a practical purpose by allowing cool breezes to flow through, making it an early form of natural air conditioning.",
+        "imageKeys": [
+          "BVMZN4yQ0eQjsbVtCdVX9LL8N43kGGJK",
+          "1UFwEBzk5L4h96GpN6eu0sAzTf8ssY5N",
+          "Dxq2PcAgiuW7ntRX7DlauQqvz0S44em7",
+          "FJvIkJNvHtNP6WmJOTQ8WJFWiVFafGbl",
+          "zMAFXSK7f4d4YPJ2xD0ClpwNsYoZJVtZ"
+        ],
+        "ratingCount": 152272,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1900",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1900",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Palace built in the form of a high wall to screen royal ladies as they watched street festivities.",
+        "name": "Hawa Mahal",
+        "placeId": "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpQvTG0uxbTkRDLLMHlNdDoY_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpQvTG0uxbTkRDLLMHlNdDoY_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpQvTG0uxbTkRDLLMHlNdDoY_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpQvTG0uxbTkRDLLMHlNdDoY_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpQvTG0uxbTkRDLLMHlNdDoY_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 33697,
+            "3": 12330,
+            "1": 3841,
+            "5": 99727,
+            "2": 3013
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpQvTG0uxbTkRDLLMHlNdDoY_1.jpg",
+        "address": "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002, India",
+        "latitude": 26.924046,
+        "types": [
+          "Castle",
+          "Sights & Landmarks",
+          "Fortress",
+          "Architectural Buildings",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJw1BujlyxbTkRlufvmwfJwO4",
+        "website": "https://jaipurwaxmuseum.com/",
+        "index": 19,
+        "utcOffset": 330,
+        "longitude": 75.816274,
+        "rating": 4.3,
+        "detail_description": "The Jaipur Wax Museum at Nahargarh Fort is a unique attraction that showcases lifelike wax figures of famous personalities from around the world. Visitors can marvel at replicas of celebrities like Amitabh Bachchan, Deepika Padukone, and Jackie Chan, as well as historical icons such as Mahatma Gandhi and Albert Einstein. What sets this museum apart is its inclusion of Rajasthani kings, queens, and warriors alongside international figures.",
+        "imageKeys": [
+          "w7PIOecGt6oqVg1UM2B51B4HtPY3u1eF",
+          "HcU6Cq8YPntCBFHTtf1Xahc1PdjnIFJA",
+          "aQgmaisAwfhJ3rXOGzs0IzfDQMlTeGBi"
+        ],
+        "ratingCount": 3019,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1830",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Wax figures of royalty, celebrities, historical figures & cartoon icons displayed in Nahargarh Fort.",
+        "name": "Jaipur Wax Museum Nahargarh Fort",
+        "placeId": "ChIJw1BujlyxbTkRlufvmwfJwO4",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJw1BujlyxbTkRlufvmwfJwO4_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJw1BujlyxbTkRlufvmwfJwO4_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJw1BujlyxbTkRlufvmwfJwO4_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJw1BujlyxbTkRlufvmwfJwO4_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJw1BujlyxbTkRlufvmwfJwO4_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 455,
+            "3": 219,
+            "1": 199,
+            "5": 2057,
+            "2": 93
+          }
+        },
+        "priceLevel": null,
+        "phone": null,
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJw1BujlyxbTkRlufvmwfJwO4_1.jpg",
+        "address": "Nahargarh Fort Amer Road Near Jal Mahal, Jaipur, Rajasthan 302001, India",
+        "latitude": 26.93918,
+        "types": [
+          "Museum",
+          "Wax museum"
+        ]
+      },
+      {
+        "_id": "ChIJx0lfsbGxbTkRgVOhxJ7EGbw",
+        "website": "https://royaljaipur.in/index.php/plan-your-visit/jaigarh/",
+        "index": 3,
+        "utcOffset": 330,
+        "longitude": 75.844792,
+        "rating": 4.5,
+        "detail_description": "Jaigarh Fort, located in Jaipur, was built in the 18th century by Maharaja Sawai Jai Singh II to protect the Amber Fort complex. The fort spans 3 km in length and 1 km in breadth and offers stunning views of Maota Lake and Amer Fort. It houses temples, residential complexes, and well-preserved water reservoirs. One of its main attractions is the Jaivana Cannon, known as the world's largest cannon on wheels.",
+        "imageKeys": [
+          "b1KBw7CoK26BHdH6J4V51dvupprAL7cv",
+          "Y7Qn6QTECY2Gre6eH9r4L3eU1JkrQjwQ",
+          "poyZoHiwOPS16cDMzi0iQB30TYpIkiks",
+          "fezjAYmxeG30tXecfruUUs2lk7XLVQUC",
+          "TMVTx4mK9CCH98xkaODleqX5Ua3eBbIm"
+        ],
+        "ratingCount": 30154,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1830",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 5
+            },
+            "open": {
+              "time": "0900",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1830",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Built to protect the Amber Fort complex below, this 3-km-long fort offers a museum & views.",
+        "name": "Jaigarh Fort",
+        "placeId": "ChIJx0lfsbGxbTkRgVOhxJ7EGbw",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx0lfsbGxbTkRgVOhxJ7EGbw_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx0lfsbGxbTkRgVOhxJ7EGbw_2.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx0lfsbGxbTkRgVOhxJ7EGbw_3.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx0lfsbGxbTkRgVOhxJ7EGbw_4.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx0lfsbGxbTkRgVOhxJ7EGbw_5.jpg"
+        ],
+        "ratingDistribution": {
+          "Google": {
+            "4": 7112,
+            "3": 2249,
+            "1": 645,
+            "5": 19773,
+            "2": 440
+          }
+        },
+        "priceLevel": null,
+        "phone": "+91 141 408 8888",
+        "permanentlyClosed": false,
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJx0lfsbGxbTkRgVOhxJ7EGbw_1.jpg",
+        "address": "Devisinghpura, Amer, Jaipur, Rajasthan 302028, India",
+        "latitude": 26.981605,
+        "types": [
+          "Historical place museum",
+          "Sights & Landmarks",
+          "Fortress",
+          "Historical place",
+          "Historic Sites"
+        ]
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "As temperatures begin to rise, the weather in Amer can become quite hot, especially in April and May, with daytime highs reaching up to 40°C. Early mornings and late afternoons are the best times for outdoor activities. Travelers can enjoy the local markets and cultural experiences, but should stay hydrated and wear sun protection during the day.",
+          "June to August": "The monsoon season brings relief from the heat, with cooler temperatures and occasional rain showers. This is a quieter time for tourism, making it a good option for those looking to avoid crowds. The lush greenery enhances the beauty of the forts and landscapes. However, travelers should be prepared for wet conditions and potential travel disruptions.",
+          "Travel Tip": "When visiting Amer, consider hiring a local guide to enhance your experience. They can provide valuable insights into the history and significance of the sites. Additionally, wearing comfortable shoes is essential for exploring the forts and palaces, as there is a lot of walking involved. Always carry water and stay hydrated, especially during the warmer months.",
+          "Overview": "Amer, a historic city located near Jaipur, is known for its majestic forts, palaces, and rich cultural heritage. The Amer Fort, with its stunning architecture and intricate carvings, is a must-visit. The city offers a blend of history, art, and local traditions, making it a perfect destination for travelers seeking to explore Rajasthan's royal past.",
+          "December to February": "This is the peak tourist season in Amer, characterized by pleasant weather and clear skies. Daytime temperatures range from 20°C to 25°C, making it ideal for sightseeing. Visitors can explore the Amer Fort, Jaigarh Fort, and the beautiful gardens without the discomfort of extreme heat. The evenings can be chilly, so it's advisable to carry light jackets.",
+          "Regional Highlights": "Key attractions in Amer include the Amer Fort, which showcases a blend of Hindu and Mughal architecture, the scenic Maota Lake, and the historic Jaigarh Fort, known for its impressive cannon. The local markets offer vibrant handicrafts, textiles, and jewelry, providing a taste of Rajasthani culture. Don't miss the chance to experience traditional Rajasthani cuisine at local eateries.",
+          "September to November": "This period marks the transition from monsoon to winter, with temperatures gradually cooling down. September can still be rainy, but by October, the weather becomes more pleasant, making it a great time for sightseeing. Festivals like Diwali in November attract visitors, offering a glimpse into local traditions and celebrations."
+        },
+        "monthlyRatings": {
+          "Apr": 5,
+          "Jun": 3,
+          "Jul": 2,
+          "Dec": 3,
+          "Mar": 4,
+          "Feb": 3,
+          "Aug": 2,
+          "Jan": 3,
+          "May": 4,
+          "Nov": 4,
+          "Oct": 5,
+          "Sep": 4
+        }
+      },
+      {
+        "_id": "things_to_know",
+        "🕌 Cultural Etiquette": "When visiting temples and forts, dress modestly and respect local customs. It's customary to remove your shoes before entering sacred spaces.",
+        "Conclusion": "Amer offers a unique blend of history, culture, and adventure. Embrace the experience and create unforgettable memories during your visit.",
+        "🌄 Best Time to Visit": "The ideal time to visit Amer is between October and March when the weather is pleasant. Avoid the summer months due to extreme heat.",
+        "📸 Photography Spots": "Capture stunning views from the fort's ramparts, especially during sunrise and sunset. The picturesque landscapes provide perfect backdrops for memorable photos.",
+        "Introduction": "Amer, a charming town near Jaipur, is known for its stunning forts and rich history. Visitors can explore its vibrant culture, delicious cuisine, and breathtaking architecture, making it a must-visit destination in India.",
+        "🏰 Fort Exploration": "The Amer Fort is a UNESCO World Heritage site that showcases stunning Rajput architecture. Be sure to take a guided tour to fully appreciate its history and intricate designs.",
+        "🚕 Transportation": "Auto-rickshaws and taxis are readily available for getting around Amer. Consider hiring a local guide for a more personalized experience.",
+        "🛍️ Shopping Tips": "Amer is famous for its handicrafts, including jewelry and textiles. Bargaining is common, so don't hesitate to negotiate prices at local markets.",
+        "🍽️ Local Cuisine": "Don't miss out on trying traditional Rajasthani dishes like Dal Baati Churma and Ghevar. Local eateries offer authentic flavors that will enhance your culinary experience.",
+        "🎉 Local Festivals": "If possible, plan your visit during local festivals like Teej or Diwali to experience the vibrant celebrations and cultural events that showcase the town's heritage."
+      },
+      {
+        "_id": "top_things_to_do",
+        "🕌 Shila Devi Temple": "This historic temple inside Amer Fort is dedicated to Goddess Shila Devi and is a spiritual highlight for visitors. The temple’s intricate carvings and religious significance make it a must-see. Early morning visits are recommended for a tranquil experience.",
+        "🌅 Sunset at Maota Lake": "Maota Lake, located at the base of Amer Fort, provides a serene spot to watch the sunset. The reflection of the fort in the water creates a picturesque scene perfect for photography enthusiasts. Evening visits are ideal for a peaceful and romantic vibe.",
+        "Conclusion": "Amer is a captivating destination that blends history, culture, and natural beauty seamlessly. Every traveler will find something enchanting here, making it an unforgettable part of any Rajasthan journey.",
+        "🏰 Amer Fort Exploration": "The Amer Fort is a stunning example of Rajput architecture with intricate carvings and expansive courtyards. Visiting at sunrise or sunset enhances the golden hues of the sandstone, making it a magical experience. Don't miss the Sheesh Mahal, the palace of mirrors, inside the fort.",
+        "Introduction": "Amer, a charming town near Jaipur, India, is a treasure trove of history and culture. Known for its majestic forts and vibrant local life, it offers a perfect blend of royal heritage and scenic beauty.",
+        "🎭 Cultural Performances at Amer Fort": "In the evenings, Amer Fort hosts traditional dance and music performances that showcase Rajasthan’s rich cultural heritage. Attending these shows offers a lively and immersive experience. Check the schedule in advance to catch a performance during your visit.",
+        "🎨 Local Art and Handicrafts": "Amer’s markets are filled with vibrant Rajasthani handicrafts, including textiles, pottery, and jewelry. Exploring these stalls offers insight into local craftsmanship and a chance to pick up unique souvenirs. Visit during the day when shops are lively and artisans are at work.",
+        "🍛 Rajasthani Cuisine Sampling": "Amer boasts several eateries serving authentic Rajasthani dishes like dal bati churma and gatte ki sabzi. Trying local cuisine is essential to fully experience the culture and flavors of the region. Visit popular local restaurants during lunch or dinner hours for the best taste.",
+        "🌿 Jaigarh Fort Trek": "A short trek from Amer Fort, Jaigarh Fort offers panoramic views of the surrounding Aravalli hills and Amer town. Known for its massive cannon and robust walls, it’s a great spot for history buffs and nature lovers alike. Wear comfortable shoes and carry water for the hike.",
+        "🌳 Sisodia Rani Garden Visit": "This beautifully landscaped garden features fountains, pavilions, and murals depicting royal life. It’s a peaceful retreat from the fort’s grandeur and a lovely spot for a leisurely stroll. Visit during the cooler parts of the day to enjoy the lush greenery.",
+        "🐘 Elephant Ride to the Fort": "A traditional elephant ride up the hill to Amer Fort offers a unique and memorable way to arrive like royalty. This experience is best enjoyed early in the morning to avoid the midday heat and crowds. It’s a fun way to soak in the historic ambiance.",
+        "📸 Photography Walk in Amer Village": "Wandering through the narrow lanes of Amer village reveals colorful houses, bustling markets, and friendly locals. This walk is perfect for capturing candid moments and the essence of rural Rajasthan. Morning or late afternoon light is ideal for photography."
+      },
+      {
+        "_id": "ways_to_get_around",
+        "Conclusion": "Navigating Amer is both easy and enjoyable with a variety of transport options to suit every traveler’s preference. Embrace the local modes of transport to fully experience the charm and culture of this historic town.",
+        "🚗 Private Cars & Taxis": "Hiring a private car or taxi is one of the most comfortable ways to explore Amer. It allows flexibility in your schedule and easy access to off-the-beaten-path attractions around the town.",
+        "🛵 Scooter Rentals": "Scooter rentals are popular among tourists who want to explore Amer independently. They are easy to maneuver through traffic and ideal for short to medium distances.",
+        "🚂 Train Connections": "The nearest major railway station is in Jaipur, about 11 kilometers from Amer. From there, taxis and buses can take you directly to Amer, making train travel a viable option for long-distance visitors.",
+        "Introduction": "Getting around Amer, Rajasthan, India, offers a unique blend of traditional and modern transport options. Whether exploring the historic forts or local markets, visitors can enjoy a variety of convenient ways to navigate this charming town.",
+        "🚶 Walking": "Many of Amer’s attractions are close to each other, making walking a pleasant and practical option. Strolling through the narrow lanes offers an authentic experience of the town’s vibrant culture.",
+        "🛺 Auto Rickshaws": "Auto rickshaws are a common and affordable mode of transport for short trips within Amer. Always agree on the fare before starting your journey to avoid any confusion.",
+        "🚶‍♂️ Guided Walking Tours": "Joining a guided walking tour can enhance your experience by providing historical insights while you explore. Many tours include visits to key landmarks and hidden gems.",
+        "🚲 Bicycle Rentals": "Renting a bicycle is a great way to explore Amer at your own pace while enjoying the fresh air. Several rental shops offer bikes suitable for navigating the town’s hilly terrain.",
+        "🚕 Ride-Sharing Apps": "Ride-sharing services like Ola and Uber operate in the region, offering convenient and cashless travel options. These apps are useful for quick trips and provide upfront fare estimates.",
+        "🐎 Horse Carriages": "Horse-drawn carriages, known locally as 'tongas,' provide a quaint and scenic way to travel short distances. They are especially popular for rides around the Amer Fort and nearby areas.",
+        "🚌 Local Buses": "Local buses connect Amer with Jaipur and nearby villages, providing an economical travel option. However, they can be crowded and may not run frequently, so plan accordingly."
+      }
+    ]
+  }
+}

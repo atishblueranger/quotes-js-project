@@ -1,0 +1,83 @@
+{
+  "playlistTitle": "Madrid Beach Escapes",
+  "placeName": "Madrid",
+  "country": "Spain",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-near-madrid/"
+  ],
+  "description": "Madrid Beach Escapes: a coastal soundtrack for city souls craving sun, sand and slow afternoons.",
+  "items": [
+    {
+      "name": "Playa de Langre",
+      "description": "",
+      "location_hint": "Costa Trasmiera countryside",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Santander Bay Beach",
+      "description": "",
+      "location_hint": "Cantabria",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Playa de Bolonia",
+      "description": "",
+      "location_hint": "Tarifa",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Playa de Gulpiyuri",
+      "description": "",
+      "location_hint": "Asturias",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "La Concha Beach",
+      "description": "",
+      "location_hint": "San Sebastian",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Cap de Creus",
+      "description": "",
+      "location_hint": "Costa Brava",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Alberche Beach",
+      "description": "",
+      "location_hint": "Avila",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Cadaques",
+      "description": "",
+      "location_hint": "Costa Brava",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "La Malvarrosa Beach",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

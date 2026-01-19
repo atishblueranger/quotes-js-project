@@ -1,0 +1,35 @@
+{
+  "job_index": 5,
+  "city": "Da Nang",
+  "category_used": "malls",
+  "url": "https://wanderlog.com/list/geoCategory/140411",
+  "title": "The 23 best malls in Da Nang",
+  "final_title": "Shopping Adventures in Da Nang's Malls",
+  "from_cache": false,
+  "counts": {
+    "meta": 23,
+    "blocks": 23,
+    "merged": 23,
+    "accepted_before_trim": 10,
+    "rejected": 13,
+    "accepted_final": 7
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 14,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "676",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\vietnam_20250930_1944\\da-nang_malls_140411.json",
+    "report_json": "publish_playlist\\vietnam_20250930_1944\\da-nang_malls_140411.report.json"
+  },
+  "created_ts": 1759244697
+}

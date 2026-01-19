@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Lisbon Beach Vibes",
+  "placeName": "Lisbon",
+  "country": "Portugal",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-in-lisbon/"
+  ],
+  "description": "Sunlit waves and pastel skies: a mellow mix for wandering Lisbon beaches and rooftop sunsets.",
+  "items": [
+    {
+      "name": "Tamariz Beach",
+      "description": "",
+      "location_hint": "Estoril, Cascais",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Carcavelos beach",
+      "description": "",
+      "location_hint": "Cascais",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Meco beach",
+      "description": "",
+      "location_hint": "Sesimbra, Setubal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Figueirinha beach",
+      "description": "",
+      "location_hint": "Setubal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Galapos beach",
+      "description": "",
+      "location_hint": "Setubal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Guincho beach",
+      "description": "",
+      "location_hint": "Cascais",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Adraga Beach",
+      "description": "",
+      "location_hint": "Sintra – Cascais Natural Park",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Magoito Beach",
+      "description": "",
+      "location_hint": "Sintra",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Areia Branca Beach",
+      "description": "",
+      "location_hint": "Lourinha",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sao Juliao Beach",
+      "description": "",
+      "location_hint": "Sintra",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

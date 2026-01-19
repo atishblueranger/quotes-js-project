@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Makati Museum Gems",
+  "placeName": "Makati",
+  "country": "Philippines",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/makati-museums/"
+  ],
+  "description": "Curated soundtrack for wandering Makati's museums — from modern galleries to hidden heritage halls.",
+  "items": [
+    {
+      "name": "Ayala Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "Ayala Museum is open – 9 am to 6 pm from Tuesday to Sunday (closed on Mondays)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Yuchengco Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "Yuchengco Museum is open – 10 am to 6 pm from Monday to Saturday (closed on Sundays and public holidays)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Prism Gallery",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "Prism Gallery is open – 9 am to 5 pm from Monday to Friday and 9 am to 6 pm on Saturday (closed on Sundays)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Mind Museum",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "The Mind Museum is open – 9 am to 6 pm from Tuesday to Sunday (closed on Mondays)",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "ArtistSpace Gallery",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "ArtistSpace Gallery is open – 10 am to 7 pm from Monday to Sunday",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Michel Yves Art Gallery",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "Michel Yves Art Gallery is open – 10 am to 9 pm from Monday to Sunday",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Finale Art File",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "Finale Art File is open – 10 am to 7 pm from Monday to Saturday",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Museum of Contemporary Art and Design",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "Museum of Contemporary Art and Design is open – 10 am to 6 pm from Tuesday to Sunday",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

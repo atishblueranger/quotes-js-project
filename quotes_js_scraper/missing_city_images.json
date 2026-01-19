@@ -1,0 +1,2553 @@
+{
+    "Gibraltar": {
+        "country_name": "Gibraltar",
+        "place_id": 10165,
+        "missing_image_cities": [
+            "Westside",
+            "Gibraltar Town",
+            "Sandy Bay",
+            "South District"
+        ],
+        "missing_count": 4
+    },
+    "Vatican City": {
+        "country_name": "Vatican City",
+        "place_id": 10705,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Brazil": {
+        "country_name": "Brazil",
+        "place_id": 135383,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Argentina": {
+        "country_name": "Argentina",
+        "place_id": 135385,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Chile": {
+        "country_name": "Chile",
+        "place_id": 135391,
+        "missing_image_cities": [
+            "Pirque"
+        ],
+        "missing_count": 1
+    },
+    "Colombia": {
+        "country_name": "Colombia",
+        "place_id": 135393,
+        "missing_image_cities": [
+            "Zipaquira"
+        ],
+        "missing_count": 1
+    },
+    "Ecuador": {
+        "country_name": "Ecuador",
+        "place_id": 135396,
+        "missing_image_cities": [
+            "San Antonio de Pichincha",
+            "Puerto Villamil",
+            "Puerto Baquerizo Moreno"
+        ],
+        "missing_count": 3
+    },
+    "Uruguay": {
+        "country_name": "Uruguay",
+        "place_id": 135408,
+        "missing_image_cities": [
+            "Rocha",
+            "Carmelo",
+            "Punta Ballena"
+        ],
+        "missing_count": 3
+    },
+    "Bolivia": {
+        "country_name": "Bolivia",
+        "place_id": 135438,
+        "missing_image_cities": [
+            "Copacabana",
+            "Tupiza",
+            "Rurrenabaque",
+            "Samaipata"
+        ],
+        "missing_count": 4
+    },
+    "Venezuela": {
+        "country_name": "Venezuela",
+        "place_id": 135468,
+        "missing_image_cities": [
+            "Pampatar",
+            "Juan Griego",
+            "Ciudad Guayana",
+            "Maracay",
+            "Tucacas"
+        ],
+        "missing_count": 5
+    },
+    "Paraguay": {
+        "country_name": "Paraguay",
+        "place_id": 135498,
+        "missing_image_cities": [
+            "Encarnacion",
+            "Salto del Guaira",
+            "Pedro Juan Caballero",
+            "Trinidad",
+            "Presidente Franco",
+            "San Bernardino",
+            "Aregua",
+            "Luque"
+        ],
+        "missing_count": 8
+    },
+    "Suriname": {
+        "country_name": "Suriname",
+        "place_id": 135642,
+        "missing_image_cities": [
+            "Nieuw Nickerie",
+            "Nieuw Amsterdam",
+            "Reynsdorp",
+            "Lelydorp",
+            "Palumeu",
+            "Pikin Slee",
+            "Albina",
+            "Groningen",
+            "Brownsweg"
+        ],
+        "missing_count": 9
+    },
+    "Guyana": {
+        "country_name": "Guyana",
+        "place_id": 135733,
+        "missing_image_cities": [
+            "Lethem",
+            "Skeldon",
+            "Nappi Village",
+            "Annai",
+            "Santa Mission",
+            "Cuyuni-Mazaruni",
+            "Bartica",
+            "Surama Village"
+        ],
+        "missing_count": 8
+    },
+    "French Guiana": {
+        "country_name": "French Guiana",
+        "place_id": 136048,
+        "missing_image_cities": [
+            "Cayenne",
+            "Kourou",
+            "Macouria",
+            "Remire-Montjoly",
+            "Saint-Laurent-du-Maroni",
+            "Roura",
+            "Matoury",
+            "Montsinery-Tonnegrande",
+            "Sinnamary",
+            "Les Hattes"
+        ],
+        "missing_count": 10
+    },
+    "Greenland": {
+        "country_name": "Greenland",
+        "place_id": 145918,
+        "missing_image_cities": [
+            "Ilulissat",
+            "Qaanaaq",
+            "Narsarsuaq",
+            "Tasiilaq",
+            "Qeqqata Municipality",
+            "Nuuk",
+            "Kangerlussuaq",
+            "Kulusuk",
+            "Sisimiut",
+            "Qaqortoq"
+        ],
+        "missing_count": 10
+    },
+    "Cocos (Keeling) Islands": {
+        "country_name": "Cocos (Keeling) Islands",
+        "place_id": 3651,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Mauritius": {
+        "country_name": "Mauritius",
+        "place_id": 79304,
+        "missing_image_cities": [
+            "Pamplemousses",
+            "Cascavelle",
+            "Trou aux Biches",
+            "Riviere des Anguilles",
+            "Flic En Flac",
+            "Bel Ombre"
+        ],
+        "missing_count": 6
+    },
+    "Dominican Republic": {
+        "country_name": "Dominican Republic",
+        "place_id": 81176,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Cuba": {
+        "country_name": "Cuba",
+        "place_id": 81178,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Jamaica": {
+        "country_name": "Jamaica",
+        "place_id": 81179,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Guadeloupe": {
+        "country_name": "Guadeloupe",
+        "place_id": 81184,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Barbados": {
+        "country_name": "Barbados",
+        "place_id": 81185,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Aruba": {
+        "country_name": "Aruba",
+        "place_id": 81188,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Martinique": {
+        "country_name": "Martinique",
+        "place_id": 81191,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Bermuda": {
+        "country_name": "Bermuda",
+        "place_id": 81192,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Curacao": {
+        "country_name": "Curacao",
+        "place_id": 81193,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Grenada": {
+        "country_name": "Grenada",
+        "place_id": 81204,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Dominica": {
+        "country_name": "Dominica",
+        "place_id": 81214,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Haiti": {
+        "country_name": "Haiti",
+        "place_id": 81238,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Anguilla": {
+        "country_name": "Anguilla",
+        "place_id": 81239,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Montserrat": {
+        "country_name": "Montserrat",
+        "place_id": 81309,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Nauru": {
+        "country_name": "Nauru",
+        "place_id": 83438,
+        "missing_image_cities": [
+            "Yaren"
+        ],
+        "missing_count": 1
+    },
+    "Tokelau": {
+        "country_name": "Tokelau",
+        "place_id": 84883,
+        "missing_image_cities": [
+            "Atafu",
+            "Nukunonu"
+        ],
+        "missing_count": 2
+    },
+    "Japan": {
+        "country_name": "Japan",
+        "place_id": 86647,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Thailand": {
+        "country_name": "Thailand",
+        "place_id": 86651,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Philippines": {
+        "country_name": "Philippines",
+        "place_id": 86652,
+        "missing_image_cities": [
+            "Oslob"
+        ],
+        "missing_count": 1
+    },
+    "China": {
+        "country_name": "China",
+        "place_id": 86653,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Singapore": {
+        "country_name": "Singapore",
+        "place_id": 86654,
+        "missing_image_cities": [
+            "Singapore",
+            "Singapore"
+        ],
+        "missing_count": 2
+    },
+    "Vietnam": {
+        "country_name": "Vietnam",
+        "place_id": 86655,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "South Korea": {
+        "country_name": "South Korea",
+        "place_id": 86656,
+        "missing_image_cities": [
+            "Paju"
+        ],
+        "missing_count": 1
+    },
+    "Cambodia": {
+        "country_name": "Cambodia",
+        "place_id": 86659,
+        "missing_image_cities": [
+            "Kratie",
+            "Kampong Cham",
+            "Koh Kong",
+            "Banlung"
+        ],
+        "missing_count": 4
+    },
+    "India": {
+        "country_name": "India",
+        "place_id": 86661,
+        "missing_image_cities": [
+            "Mumbai"
+        ],
+        "missing_count": 1
+    },
+    "Indonesia": {
+        "country_name": "Indonesia",
+        "place_id": 86663,
+        "missing_image_cities": [
+            "Beraban"
+        ],
+        "missing_count": 1
+    },
+    "Nepal": {
+        "country_name": "Nepal",
+        "place_id": 86667,
+        "missing_image_cities": [
+            "Lumbini",
+            "Kurintar",
+            "Nagarkot",
+            "Namche Bazaar",
+            "Dhulikhel"
+        ],
+        "missing_count": 5
+    },
+    "Taiwan": {
+        "country_name": "Taiwan",
+        "place_id": 86668,
+        "missing_image_cities": [
+            "Hengchun"
+        ],
+        "missing_count": 1
+    },
+    "Malaysia": {
+        "country_name": "Malaysia",
+        "place_id": 86683,
+        "missing_image_cities": [
+            "Batu Caves"
+        ],
+        "missing_count": 1
+    },
+    "Sri Lanka": {
+        "country_name": "Sri Lanka",
+        "place_id": 86693,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Myanmar": {
+        "country_name": "Myanmar",
+        "place_id": 86698,
+        "missing_image_cities": [
+            "Nyaungshwe",
+            "Taunggyi",
+            "Amarapura",
+            "Kin Pun",
+            "Bago"
+        ],
+        "missing_count": 5
+    },
+    "Armenia": {
+        "country_name": "Armenia",
+        "place_id": 86719,
+        "missing_image_cities": [
+            "Garni",
+            "Geghard",
+            "Lusarat",
+            "Areni",
+            "Vagharshapat",
+            "Tsakhkadzor",
+            "Tatev",
+            "Alaverdi"
+        ],
+        "missing_count": 8
+    },
+    "Azerbaijan": {
+        "country_name": "Azerbaijan",
+        "place_id": 86729,
+        "missing_image_cities": [
+            "Sheki",
+            "Qabala",
+            "Ganja",
+            "Qobustan",
+            "Khankendi",
+            "Shusha",
+            "Mardakan",
+            "Qusar",
+            "Shamakhi"
+        ],
+        "missing_count": 9
+    },
+    "Kazakhstan": {
+        "country_name": "Kazakhstan",
+        "place_id": 86731,
+        "missing_image_cities": [
+            "Oskemen",
+            "Shymkent",
+            "Pavlodar",
+            "Atyrau",
+            "Oral",
+            "Turkistan",
+            "Kostanay"
+        ],
+        "missing_count": 7
+    },
+    "Mongolia": {
+        "country_name": "Mongolia",
+        "place_id": 86772,
+        "missing_image_cities": [
+            "Olgiy",
+            "Kharkhorin",
+            "Dalanzadgad",
+            "Khatgal",
+            "Khorgo",
+            "Amar Hiyd",
+            "Tsetserleg",
+            "Darhan",
+            "Sainshand"
+        ],
+        "missing_count": 9
+    },
+    "Kyrgyzstan": {
+        "country_name": "Kyrgyzstan",
+        "place_id": 86776,
+        "missing_image_cities": [
+            "Osh",
+            "Cholpon Ata",
+            "Naryn",
+            "Tokmok",
+            "Tosor",
+            "Kochkor",
+            "Barskoon",
+            "Arslanbob"
+        ],
+        "missing_count": 8
+    },
+    "Brunei Darussalam": {
+        "country_name": "Brunei Darussalam",
+        "place_id": 86779,
+        "missing_image_cities": [
+            "Seria",
+            "Kampong Jerudong",
+            "Serasa",
+            "Muara",
+            "Bangar",
+            "Kuala Belait",
+            "Tutong",
+            "Mendaram Kechil",
+            "Gadong"
+        ],
+        "missing_count": 9
+    },
+    "Laos": {
+        "country_name": "Laos",
+        "place_id": 86797,
+        "missing_image_cities": [
+            "Ban Pak-Ou",
+            "Huay Xai",
+            "Champasak Town",
+            "Phonsavan",
+            "Luang Namtha",
+            "Nong Khiaw"
+        ],
+        "missing_count": 6
+    },
+    "Bhutan": {
+        "country_name": "Bhutan",
+        "place_id": 86819,
+        "missing_image_cities": [
+            "Punakha",
+            "Bumthang",
+            "Trongsa",
+            "Phuentsholing",
+            "Gangtey",
+            "Jakar",
+            "Ha",
+            "Wangdue"
+        ],
+        "missing_count": 8
+    },
+    "Pakistan": {
+        "country_name": "Pakistan",
+        "place_id": 86831,
+        "missing_image_cities": [
+            "Rawalpindi",
+            "Multan",
+            "Skardu",
+            "Naran",
+            "Faisalabad",
+            "Chitral"
+        ],
+        "missing_count": 6
+    },
+    "Bangladesh": {
+        "country_name": "Bangladesh",
+        "place_id": 86851,
+        "missing_image_cities": [
+            "Sylhet City",
+            "Bandarban",
+            "Sreemangal",
+            "Bagerhat",
+            "Savar",
+            "Rangamati",
+            "Mirpur"
+        ],
+        "missing_count": 7
+    },
+    "Uzbekistan": {
+        "country_name": "Uzbekistan",
+        "place_id": 86865,
+        "missing_image_cities": [
+            "Shahrisabz",
+            "Nukus",
+            "Kokand",
+            "Margilan",
+            "Termiz",
+            "Muynak"
+        ],
+        "missing_count": 6
+    },
+    "Tajikistan": {
+        "country_name": "Tajikistan",
+        "place_id": 86938,
+        "missing_image_cities": [
+            "Khujand",
+            "Khorog",
+            "Hisor",
+            "Murghab",
+            "Qurghonteppa",
+            "Nurek",
+            "Kulob",
+            "Marguzor",
+            "Ayni"
+        ],
+        "missing_count": 9
+    },
+    "Maldives": {
+        "country_name": "Maldives",
+        "place_id": 86983,
+        "missing_image_cities": [
+            "Hulhumale",
+            "Bodufolhudhoo",
+            "Maafushi Island",
+            "Ellaidhoo Island",
+            "Kanuhuraa",
+            "Fonimagoodhoo Island",
+            "Maalhos",
+            "Naifaru",
+            "Dholhiyadhoo Island"
+        ],
+        "missing_count": 9
+    },
+    "North Korea": {
+        "country_name": "North Korea",
+        "place_id": 87077,
+        "missing_image_cities": [
+            "Pyongyang",
+            "Kaesong",
+            "Hyangsan",
+            "Wonsan",
+            "Samjiyon",
+            "Nampo",
+            "North Hamgyong Province",
+            "South Hamgyong Province",
+            "South Hwanghae Province",
+            "Kimchaek"
+        ],
+        "missing_count": 10
+    },
+    "Timor-Leste": {
+        "country_name": "Timor-Leste",
+        "place_id": 87139,
+        "missing_image_cities": [
+            "Com",
+            "Ermera",
+            "Liquica",
+            "Maubisse",
+            "Maliana",
+            "Baucau",
+            "Ainaro",
+            "Cova Lima District",
+            "Manufahi District"
+        ],
+        "missing_count": 9
+    },
+    "Turkmenistan": {
+        "country_name": "Turkmenistan",
+        "place_id": 87175,
+        "missing_image_cities": [
+            "Ashgabat",
+            "Darvaza",
+            "Mary",
+            "Kunya-Urgench",
+            "Balkanabat",
+            "Dasoguz",
+            "Bamy",
+            "Kaakhka",
+            "Turkmenabat",
+            "Turkmenbashi"
+        ],
+        "missing_count": 10
+    },
+    "Afghanistan": {
+        "country_name": "Afghanistan",
+        "place_id": 87389,
+        "missing_image_cities": [
+            "Kabul",
+            "Bamyan",
+            "Mazar-i-Sharif",
+            "Herat",
+            "Bagram",
+            "Balkh",
+            "Shahrak",
+            "Kandahar",
+            "Ghazni",
+            "Farah"
+        ],
+        "missing_count": 10
+    },
+    "Italy": {
+        "country_name": "Italy",
+        "place_id": 88352,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "France": {
+        "country_name": "France",
+        "place_id": 88358,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "United Kingdom": {
+        "country_name": "United Kingdom",
+        "place_id": 88359,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Russia": {
+        "country_name": "Russia",
+        "place_id": 88360,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Spain": {
+        "country_name": "Spain",
+        "place_id": 88362,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Czech Republic": {
+        "country_name": "Czech Republic",
+        "place_id": 88366,
+        "missing_image_cities": [
+            "Terezin"
+        ],
+        "missing_count": 1
+    },
+    "Turkiye": {
+        "country_name": "Turkiye",
+        "place_id": 88367,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Germany": {
+        "country_name": "Germany",
+        "place_id": 88368,
+        "missing_image_cities": [
+            "Hohenschwangau"
+        ],
+        "missing_count": 1
+    },
+    "The Netherlands": {
+        "country_name": "The Netherlands",
+        "place_id": 88373,
+        "missing_image_cities": [
+            "Lisse"
+        ],
+        "missing_count": 1
+    },
+    "Greece": {
+        "country_name": "Greece",
+        "place_id": 88375,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Hungary": {
+        "country_name": "Hungary",
+        "place_id": 88380,
+        "missing_image_cities": [
+            "Heviz",
+            "Matrafured"
+        ],
+        "missing_count": 2
+    },
+    "Austria": {
+        "country_name": "Austria",
+        "place_id": 88384,
+        "missing_image_cities": [
+            "Melk",
+            "Wattens"
+        ],
+        "missing_count": 2
+    },
+    "Ireland": {
+        "country_name": "Ireland",
+        "place_id": 88386,
+        "missing_image_cities": [
+            "Liscannor",
+            "Blarney"
+        ],
+        "missing_count": 2
+    },
+    "Ukraine": {
+        "country_name": "Ukraine",
+        "place_id": 88394,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Denmark": {
+        "country_name": "Denmark",
+        "place_id": 88402,
+        "missing_image_cities": [
+            "Billund",
+            "Hillerod"
+        ],
+        "missing_count": 2
+    },
+    "Poland": {
+        "country_name": "Poland",
+        "place_id": 88403,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Romania": {
+        "country_name": "Romania",
+        "place_id": 88405,
+        "missing_image_cities": [
+            "Bran"
+        ],
+        "missing_count": 1
+    },
+    "Malta": {
+        "country_name": "Malta",
+        "place_id": 88407,
+        "missing_image_cities": [
+            "Zurrieq"
+        ],
+        "missing_count": 1
+    },
+    "Belgium": {
+        "country_name": "Belgium",
+        "place_id": 88408,
+        "missing_image_cities": [
+            "Brugelette"
+        ],
+        "missing_count": 1
+    },
+    "Iceland": {
+        "country_name": "Iceland",
+        "place_id": 88419,
+        "missing_image_cities": [
+            "Grindavik",
+            "Blaskogabyggd",
+            "Lake Myvatn",
+            "Vik",
+            "Jokulsarlon",
+            "Geysir",
+            "Skogar",
+            "Thingvellir"
+        ],
+        "missing_count": 8
+    },
+    "Georgia": {
+        "country_name": "Georgia",
+        "place_id": 88420,
+        "missing_image_cities": [
+            "Gagra",
+            "New Athos",
+            "Stepantsminda",
+            "Gori",
+            "Sukhumi"
+        ],
+        "missing_count": 5
+    },
+    "Latvia": {
+        "country_name": "Latvia",
+        "place_id": 88423,
+        "missing_image_cities": [
+            "Pilsrundale",
+            "Daugavpils",
+            "Kuldiga",
+            "Bauska"
+        ],
+        "missing_count": 4
+    },
+    "Norway": {
+        "country_name": "Norway",
+        "place_id": 88432,
+        "missing_image_cities": [
+            "Flam",
+            "Stranda",
+            "Geiranger"
+        ],
+        "missing_count": 3
+    },
+    "Finland": {
+        "country_name": "Finland",
+        "place_id": 88434,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Switzerland": {
+        "country_name": "Switzerland",
+        "place_id": 88437,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Croatia": {
+        "country_name": "Croatia",
+        "place_id": 88438,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Sweden": {
+        "country_name": "Sweden",
+        "place_id": 88445,
+        "missing_image_cities": [
+            "Abisko"
+        ],
+        "missing_count": 1
+    },
+    "Bulgaria": {
+        "country_name": "Bulgaria",
+        "place_id": 88449,
+        "missing_image_cities": [
+            "Sunny Beach",
+            "Rila",
+            "Borovets"
+        ],
+        "missing_count": 3
+    },
+    "Estonia": {
+        "country_name": "Estonia",
+        "place_id": 88455,
+        "missing_image_cities": [
+            "Rakvere",
+            "Vihula",
+            "Viljandi",
+            "Keila"
+        ],
+        "missing_count": 4
+    },
+    "Serbia": {
+        "country_name": "Serbia",
+        "place_id": 88464,
+        "missing_image_cities": [
+            "Zlatibor",
+            "Subotica",
+            "Mokra Gora",
+            "Palic",
+            "Vrnjacka Banja",
+            "Kragujevac"
+        ],
+        "missing_count": 6
+    },
+    "Lithuania": {
+        "country_name": "Lithuania",
+        "place_id": 88477,
+        "missing_image_cities": [
+            "Trakai",
+            "Nida",
+            "Anyksciai"
+        ],
+        "missing_count": 3
+    },
+    "Slovakia": {
+        "country_name": "Slovakia",
+        "place_id": 88478,
+        "missing_image_cities": [
+            "Zehra",
+            "Tatranska Lomnica",
+            "Levoca"
+        ],
+        "missing_count": 3
+    },
+    "Slovenia": {
+        "country_name": "Slovenia",
+        "place_id": 88486,
+        "missing_image_cities": [
+            "Skocjan"
+        ],
+        "missing_count": 1
+    },
+    "Belarus": {
+        "country_name": "Belarus",
+        "place_id": 88503,
+        "missing_image_cities": [
+            "Nesvizh",
+            "Mir",
+            "Gomel",
+            "Mogilev",
+            "Ptich",
+            "Kamianiuki"
+        ],
+        "missing_count": 6
+    },
+    "Cyprus": {
+        "country_name": "Cyprus",
+        "place_id": 88527,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Bosnia and Herzegovina": {
+        "country_name": "Bosnia and Herzegovina",
+        "place_id": 88597,
+        "missing_image_cities": [
+            "Medjugorje",
+            "Studenci",
+            "Blagaj",
+            "Foca",
+            "Jajce",
+            "Banja Luka",
+            "Visegrad"
+        ],
+        "missing_count": 7
+    },
+    "Albania": {
+        "country_name": "Albania",
+        "place_id": 88609,
+        "missing_image_cities": [
+            "Butrint",
+            "Ksamil"
+        ],
+        "missing_count": 2
+    },
+    "Montenegro": {
+        "country_name": "Montenegro",
+        "place_id": 88654,
+        "missing_image_cities": [
+            "Podgorica",
+            "Cetinje",
+            "Zabljak Municipality",
+            "Cetinje",
+            "Zabljak"
+        ],
+        "missing_count": 5
+    },
+    "Luxembourg": {
+        "country_name": "Luxembourg",
+        "place_id": 88723,
+        "missing_image_cities": [
+            "Vianden",
+            "Clervaux",
+            "Mondorf-les-Bains",
+            "Esch-sur-Alzette",
+            "Diekirch",
+            "Mullerthal",
+            "Bettembourg",
+            "Bourscheid"
+        ],
+        "missing_count": 8
+    },
+    "Republic of North Macedonia": {
+        "country_name": "Republic of North Macedonia",
+        "place_id": 88727,
+        "missing_image_cities": [
+            "Struga",
+            "Prilep",
+            "Tetovo",
+            "Mavrovo",
+            "Krusevo",
+            "Strumica",
+            "Gostivar"
+        ],
+        "missing_count": 7
+    },
+    "Moldova": {
+        "country_name": "Moldova",
+        "place_id": 88731,
+        "missing_image_cities": [
+            "Cricova",
+            "Tiraspol",
+            "Bender",
+            "Orhei",
+            "Soroca",
+            "Trebujeni",
+            "Bulboaca",
+            "Ialoveni",
+            "Rezina"
+        ],
+        "missing_count": 9
+    },
+    "Andorra": {
+        "country_name": "Andorra",
+        "place_id": 88978,
+        "missing_image_cities": [
+            "Soldeu",
+            "Ordino",
+            "Pas de la Casa",
+            "El Serrat"
+        ],
+        "missing_count": 4
+    },
+    "San Marino": {
+        "country_name": "San Marino",
+        "place_id": 89073,
+        "missing_image_cities": [
+            "Acquaviva",
+            "Serravalle",
+            "Borgo Maggiore",
+            "Domagnano",
+            "Falciano",
+            "Faetano",
+            "Murata",
+            "Valdragone",
+            "Dogana"
+        ],
+        "missing_count": 9
+    },
+    "Monaco": {
+        "country_name": "Monaco",
+        "place_id": 89098,
+        "missing_image_cities": [
+            "Fontvieille"
+        ],
+        "missing_count": 1
+    },
+    "Kosovo": {
+        "country_name": "Kosovo",
+        "place_id": 89102,
+        "missing_image_cities": [
+            "Pec",
+            "Gracanica",
+            "Decan",
+            "Mitrovica",
+            "Klina",
+            "Rahovec",
+            "Gjakova",
+            "Ferizaj"
+        ],
+        "missing_count": 8
+    },
+    "Faroe Islands": {
+        "country_name": "Faroe Islands",
+        "place_id": 89196,
+        "missing_image_cities": [
+            "Vestmanna",
+            "Kirkjubour",
+            "Gjogv",
+            "Gasadalur",
+            "Klaksvik",
+            "Sandavagur",
+            "Vagur",
+            "Tvoroyri",
+            "Frodba"
+        ],
+        "missing_count": 9
+    },
+    "Liechtenstein": {
+        "country_name": "Liechtenstein",
+        "place_id": 89330,
+        "missing_image_cities": [
+            "Malbun",
+            "Triesenberg",
+            "Balzers",
+            "Triesen",
+            "Schellenberg",
+            "Schaan",
+            "Ruggell",
+            "Nendeln",
+            "Eschen"
+        ],
+        "missing_count": 9
+    },
+    "Canada": {
+        "country_name": "Canada",
+        "place_id": 90374,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "United States": {
+        "country_name": "United States",
+        "place_id": 90407,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Panama": {
+        "country_name": "Panama",
+        "place_id": 90647,
+        "missing_image_cities": [
+            "Colon",
+            "Santa Catalina",
+            "Pedasi",
+            "Bluff Beach",
+            "Volcan",
+            "Gamboa"
+        ],
+        "missing_count": 6
+    },
+    "Honduras": {
+        "country_name": "Honduras",
+        "place_id": 90648,
+        "missing_image_cities": [
+            "West Bay",
+            "French Harbour",
+            "Sandy Bay",
+            "La Ceiba",
+            "West End",
+            "Gracias",
+            "Tela"
+        ],
+        "missing_count": 7
+    },
+    "Costa Rica": {
+        "country_name": "Costa Rica",
+        "place_id": 90651,
+        "missing_image_cities": [
+            "Tortuguero",
+            "Vara Blanca"
+        ],
+        "missing_count": 2
+    },
+    "Guatemala": {
+        "country_name": "Guatemala",
+        "place_id": 90652,
+        "missing_image_cities": [
+            "Lanquin",
+            "Rio Dulce",
+            "Chichicastenango",
+            "San Pedro La Laguna",
+            "Livingston",
+            "Santa Cruz La Laguna"
+        ],
+        "missing_count": 6
+    },
+    "Belize": {
+        "country_name": "Belize",
+        "place_id": 90656,
+        "missing_image_cities": [
+            "La Democracia",
+            "Camelote",
+            "Belmopan",
+            "Dangriga",
+            "Punta Gorda",
+            "San Felipe"
+        ],
+        "missing_count": 6
+    },
+    "Nicaragua": {
+        "country_name": "Nicaragua",
+        "place_id": 90660,
+        "missing_image_cities": [
+            "La Laguna de Apoyo",
+            "Moyogalpa",
+            "Somoto",
+            "Esteli"
+        ],
+        "missing_count": 4
+    },
+    "El Salvador": {
+        "country_name": "El Salvador",
+        "place_id": 90663,
+        "missing_image_cities": [
+            "Santa Ana",
+            "La Libertad",
+            "Coatepeque",
+            "Suchitoto",
+            "Juayua",
+            "Santa Tecla",
+            "Sonsonate",
+            "Antiguo Cuscatlan",
+            "Chalchuapa"
+        ],
+        "missing_count": 9
+    },
+    "Morocco": {
+        "country_name": "Morocco",
+        "place_id": 90759,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Tanzania": {
+        "country_name": "Tanzania",
+        "place_id": 90761,
+        "missing_image_cities": [
+            "Nungwi",
+            "Kiwengwa",
+            "Moshi",
+            "Paje",
+            "Jambiani",
+            "Matemwe"
+        ],
+        "missing_count": 6
+    },
+    "Kenya": {
+        "country_name": "Kenya",
+        "place_id": 90762,
+        "missing_image_cities": [
+            "Diani Beach",
+            "Kisumu",
+            "Gede",
+            "Nanyuki Municipality"
+        ],
+        "missing_count": 4
+    },
+    "Egypt": {
+        "country_name": "Egypt",
+        "place_id": 90763,
+        "missing_image_cities": [
+            "Nabq Bay",
+            "Abu Simbel"
+        ],
+        "missing_count": 2
+    },
+    "South Africa": {
+        "country_name": "South Africa",
+        "place_id": 90764,
+        "missing_image_cities": [
+            "The Crags"
+        ],
+        "missing_count": 1
+    },
+    "Uganda": {
+        "country_name": "Uganda",
+        "place_id": 90774,
+        "missing_image_cities": [
+            "Kabale",
+            "Masindi",
+            "Fort Portal",
+            "Kasese",
+            "Nakitoma",
+            "Mbarara",
+            "Kisoro"
+        ],
+        "missing_count": 7
+    },
+    "Ethiopia": {
+        "country_name": "Ethiopia",
+        "place_id": 90776,
+        "missing_image_cities": [
+            "Lalibela",
+            "Gonder",
+            "Axum",
+            "Jinka",
+            "Arba Minch",
+            "Mek'ele",
+            "Harar",
+            "Awasa"
+        ],
+        "missing_count": 8
+    },
+    "Rwanda": {
+        "country_name": "Rwanda",
+        "place_id": 90785,
+        "missing_image_cities": [
+            "Ruhengeri",
+            "Butare",
+            "Gisenyi",
+            "Muhanga",
+            "Kibuye",
+            "Huye",
+            "Kinigi",
+            "Nyanza",
+            "Rubavu"
+        ],
+        "missing_count": 9
+    },
+    "Seychelles": {
+        "country_name": "Seychelles",
+        "place_id": 90788,
+        "missing_image_cities": [
+            "Beau Vallon",
+            "Baie Lazare",
+            "Anse Kerlan",
+            "La Passe",
+            "Baie Ste Anne",
+            "Anse Volbert",
+            "Anse Louis",
+            "Amitie",
+            "Takamaka"
+        ],
+        "missing_count": 9
+    },
+    "Tunisia": {
+        "country_name": "Tunisia",
+        "place_id": 90790,
+        "missing_image_cities": [
+            "El-Jem",
+            "Kairouan"
+        ],
+        "missing_count": 2
+    },
+    "Cape Verde": {
+        "country_name": "Cape Verde",
+        "place_id": 90791,
+        "missing_image_cities": [
+            "Santa Maria",
+            "Santa Monica",
+            "Cidade Velha",
+            "Tarrafal",
+            "Murdeira",
+            "Cha das Caldeiras",
+            "Ribeira Grande",
+            "Pedra de Lume"
+        ],
+        "missing_count": 8
+    },
+    "Namibia": {
+        "country_name": "Namibia",
+        "place_id": 90796,
+        "missing_image_cities": [
+            "Sossusvlei",
+            "Luderitz",
+            "Otjiwarongo",
+            "Khorixas",
+            "Walvis Bay",
+            "Sesriem",
+            "Ais-Ais",
+            "Kamanjab"
+        ],
+        "missing_count": 8
+    },
+    "Ghana": {
+        "country_name": "Ghana",
+        "place_id": 90797,
+        "missing_image_cities": [
+            "Elmina",
+            "Larabanga",
+            "Hohoe",
+            "Busua",
+            "Tafi Atome",
+            "Beyin",
+            "Senya Beraku"
+        ],
+        "missing_count": 7
+    },
+    "Madagascar": {
+        "country_name": "Madagascar",
+        "place_id": 90798,
+        "missing_image_cities": [
+            "Andasibe",
+            "Antsiranana (Diego Suarez)",
+            "Morondava",
+            "Isalo",
+            "Fianarantsoa",
+            "Antsirabe",
+            "Ambalavao",
+            "Mahajanga",
+            "Tolanaro"
+        ],
+        "missing_count": 9
+    },
+    "Zimbabwe": {
+        "country_name": "Zimbabwe",
+        "place_id": 90801,
+        "missing_image_cities": [
+            "Masvingo",
+            "Kariba",
+            "Gweru",
+            "Nyanga",
+            "Mutare",
+            "Hwange",
+            "Wedza"
+        ],
+        "missing_count": 7
+    },
+    "Zambia": {
+        "country_name": "Zambia",
+        "place_id": 90806,
+        "missing_image_cities": [
+            "Victoria Falls",
+            "Mpika",
+            "Chingola",
+            "Ndola",
+            "Senanga",
+            "Siavonga",
+            "Kazungula",
+            "Kasama"
+        ],
+        "missing_count": 8
+    },
+    "Senegal": {
+        "country_name": "Senegal",
+        "place_id": 90810,
+        "missing_image_cities": [
+            "Mbour",
+            "Saly",
+            "Saint-Louis",
+            "Somone",
+            "Foundiougne",
+            "Joal Fadiouth",
+            "Rufisque",
+            "Oussouye",
+            "Ngaparou"
+        ],
+        "missing_count": 9
+    },
+    "Nigeria": {
+        "country_name": "Nigeria",
+        "place_id": 90815,
+        "missing_image_cities": [
+            "Abuja",
+            "Lekki",
+            "Abeokuta",
+            "Ibadan",
+            "Benin City",
+            "Kano",
+            "Calabar",
+            "Badagry",
+            "Osogbo"
+        ],
+        "missing_count": 9
+    },
+    "Mozambique": {
+        "country_name": "Mozambique",
+        "place_id": 90816,
+        "missing_image_cities": [
+            "Tofo",
+            "Vilanculos",
+            "Inhaca",
+            "Xai-Xai",
+            "Pemba",
+            "Nampula",
+            "Beira",
+            "Inhambane",
+            "Praia da Barra"
+        ],
+        "missing_count": 9
+    },
+    "Reunion Island": {
+        "country_name": "Reunion Island",
+        "place_id": 90817,
+        "missing_image_cities": [
+            "Saint-Leu",
+            "Saint-Philippe",
+            "Sainte-Rose",
+            "Saint-Benoit"
+        ],
+        "missing_count": 4
+    },
+    "Botswana": {
+        "country_name": "Botswana",
+        "place_id": 90821,
+        "missing_image_cities": [
+            "Kasane",
+            "Serowe",
+            "Nata",
+            "Shakawe",
+            "Palapye",
+            "Francistown",
+            "Tshabong",
+            "Gweta"
+        ],
+        "missing_count": 8
+    },
+    "Algeria": {
+        "country_name": "Algeria",
+        "place_id": 90823,
+        "missing_image_cities": [
+            "Constantine",
+            "Tlemcen",
+            "Tipasa",
+            "Setif",
+            "Bejaia",
+            "Annaba",
+            "Batna",
+            "Blida"
+        ],
+        "missing_count": 8
+    },
+    "Ivory Coast": {
+        "country_name": "Ivory Coast",
+        "place_id": 90828,
+        "missing_image_cities": [
+            "Abidjan",
+            "Yamoussoukro",
+            "Grand Bassam",
+            "Assinie",
+            "Sassandra",
+            "Man",
+            "Grand-Lahou",
+            "Korhogo",
+            "Bonoua",
+            "Bouafle"
+        ],
+        "missing_count": 10
+    },
+    "Democratic Republic of the Congo": {
+        "country_name": "Democratic Republic of the Congo",
+        "place_id": 90832,
+        "missing_image_cities": [
+            "Goma",
+            "Kinshasa",
+            "Zongo",
+            "Lubumbashi",
+            "Kisantu",
+            "South Kivu Province",
+            "Bukavu",
+            "Matadi",
+            "Orientale Province",
+            "Kisangani"
+        ],
+        "missing_count": 10
+    },
+    "Gambia": {
+        "country_name": "Gambia",
+        "place_id": 90840,
+        "missing_image_cities": [
+            "Bakau",
+            "Kotu",
+            "Serekunda",
+            "Kololi",
+            "Tanji",
+            "Kartong",
+            "Bijilo",
+            "Brusubi",
+            "Gunjur"
+        ],
+        "missing_count": 9
+    },
+    "Sao Tome and Principe": {
+        "country_name": "Sao Tome and Principe",
+        "place_id": 90841,
+        "missing_image_cities": [
+            "Sao Tome",
+            "Sao Joao dos Angolares",
+            "Porto Alegre",
+            "Roca Agostinho Net",
+            "Monteforte",
+            "Santana",
+            "Bombaim",
+            "Morro Peixe",
+            "Santo Antonio",
+            "Oueste"
+        ],
+        "missing_count": 10
+    },
+    "Angola": {
+        "country_name": "Angola",
+        "place_id": 90847,
+        "missing_image_cities": [
+            "Lubango",
+            "Muxima",
+            "Kalandula",
+            "Malanje",
+            "Benguela",
+            "Baia Farta",
+            "Soyo",
+            "Kuito",
+            "Namibe"
+        ],
+        "missing_count": 9
+    },
+    "Eritrea": {
+        "country_name": "Eritrea",
+        "place_id": 90848,
+        "missing_image_cities": [
+            "Asmara",
+            "Massawa",
+            "Keren",
+            "Senafe",
+            "Gash-Barka Region",
+            "Agordat",
+            "Barentu",
+            "Tessenei",
+            "Haikota",
+            "Southern Red Sea Region"
+        ],
+        "missing_count": 10
+    },
+    "Malawi": {
+        "country_name": "Malawi",
+        "place_id": 90852,
+        "missing_image_cities": [
+            "Lilongwe",
+            "Mulanje",
+            "Blantyre",
+            "Zomba",
+            "Chikwawa",
+            "Salima",
+            "Nkhata Bay",
+            "Mtakataka",
+            "Dedza",
+            "Karonga"
+        ],
+        "missing_count": 10
+    },
+    "Gabon": {
+        "country_name": "Gabon",
+        "place_id": 90855,
+        "missing_image_cities": [
+            "Libreville",
+            "Lambarene",
+            "Omboue",
+            "Oyem",
+            "Makokou",
+            "Ogooue-Lolo Province",
+            "Iguela",
+            "Lastoursville",
+            "Nyanga Province",
+            "Mayumba"
+        ],
+        "missing_count": 10
+    },
+    "Sierra Leone": {
+        "country_name": "Sierra Leone",
+        "place_id": 90857,
+        "missing_image_cities": [
+            "Freetown",
+            "Bure Town",
+            "Lakka",
+            "Kenema",
+            "Rotifunk",
+            "Yurika",
+            "Bo",
+            "Koidu Town",
+            "Kamakwie",
+            "Makeni"
+        ],
+        "missing_count": 10
+    },
+    "Togo": {
+        "country_name": "Togo",
+        "place_id": 90858,
+        "missing_image_cities": [
+            "Lome",
+            "Kpalime",
+            "Agbodrafo",
+            "Kara",
+            "Togoville",
+            "Tandjouare",
+            "Sokode",
+            "Dapaong",
+            "Aneho",
+            "Atakpame"
+        ],
+        "missing_count": 10
+    },
+    "Benin": {
+        "country_name": "Benin",
+        "place_id": 90861,
+        "missing_image_cities": [
+            "Cotonou",
+            "Ouidah",
+            "Abomey",
+            "Tanguieta",
+            "Ganvie",
+            "Natitingou",
+            "Bohicon",
+            "Grand Popo",
+            "Dassa Zoume",
+            "Parakou"
+        ],
+        "missing_count": 10
+    },
+    "Sudan": {
+        "country_name": "Sudan",
+        "place_id": 90862,
+        "missing_image_cities": [
+            "Khartoum",
+            "Karima",
+            "Omdurman",
+            "Merowe",
+            "Dongola",
+            "Kerma",
+            "Wawa",
+            "Kassala",
+            "South Darfur",
+            "North Darfur"
+        ],
+        "missing_count": 10
+    },
+    "Burkina Faso": {
+        "country_name": "Burkina Faso",
+        "place_id": 90869,
+        "missing_image_cities": [
+            "Ouagadougou",
+            "Banfora",
+            "Bobo Dioulasso",
+            "Loropeni",
+            "Tiebele",
+            "Koudougou",
+            "Bani",
+            "Ouahigouya",
+            "Gorom-Gorom",
+            "Centre-Est Region"
+        ],
+        "missing_count": 10
+    },
+    "Mali": {
+        "country_name": "Mali",
+        "place_id": 90871,
+        "missing_image_cities": [
+            "Bamako",
+            "Mopti",
+            "Djenne",
+            "Segou",
+            "Timbuktu",
+            "Gao",
+            "Kayes",
+            "Kidal Region",
+            "Kidal",
+            "Sevare"
+        ],
+        "missing_count": 10
+    },
+    "Cameroon": {
+        "country_name": "Cameroon",
+        "place_id": 90872,
+        "missing_image_cities": [
+            "Yaounde",
+            "Kribi",
+            "Douala",
+            "Limbe",
+            "Buea",
+            "Bamenda",
+            "Melong",
+            "Foumban",
+            "Dschang",
+            "Bandjoun"
+        ],
+        "missing_count": 10
+    },
+    "Somalia": {
+        "country_name": "Somalia",
+        "place_id": 90877,
+        "missing_image_cities": [
+            "Hargeysa",
+            "Mogadishu",
+            "Upper Juba Region",
+            "Bay Region",
+            "Puntland",
+            "Bardere",
+            "Dinsoor",
+            "Baidoa",
+            "Gaalkacyo",
+            "Qardho"
+        ],
+        "missing_count": 10
+    },
+    "Lesotho": {
+        "country_name": "Lesotho",
+        "place_id": 90882,
+        "missing_image_cities": [
+            "Butha-Buthe",
+            "Maseru",
+            "Semonkong",
+            "Malealea",
+            "Morija",
+            "Teyateyaneng",
+            "Quthing",
+            "Thaba-Bosiu",
+            "Mokhotlong District",
+            "Sani Pass"
+        ],
+        "missing_count": 10
+    },
+    "Western Sahara": {
+        "country_name": "Western Sahara",
+        "place_id": 90883,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Eswatini (Swaziland)": {
+        "country_name": "Eswatini (Swaziland)",
+        "place_id": 90884,
+        "missing_image_cities": [
+            "Mbabane",
+            "Manzini",
+            "Malkerns",
+            "Ngwenya",
+            "Simunye",
+            "Ezulwini",
+            "Lobamba",
+            "Piggs Peak",
+            "Siteki",
+            "Bulembu"
+        ],
+        "missing_count": 10
+    },
+    "Libya": {
+        "country_name": "Libya",
+        "place_id": 90889,
+        "missing_image_cities": [
+            "Tripoli",
+            "Al Khums",
+            "Benghazi",
+            "Sabratah",
+            "Al Bayda",
+            "Ghadamis",
+            "Ghat",
+            "Murzuq",
+            "Susah",
+            "Tobruk"
+        ],
+        "missing_count": 10
+    },
+    "Djibouti": {
+        "country_name": "Djibouti",
+        "place_id": 90899,
+        "missing_image_cities": [
+            "Djibouti",
+            "Arta",
+            "Ali Sabieh",
+            "Tadjoura"
+        ],
+        "missing_count": 4
+    },
+    "Mauritania": {
+        "country_name": "Mauritania",
+        "place_id": 90900,
+        "missing_image_cities": [
+            "Nouakchott",
+            "Chinguetti",
+            "Boutilimit",
+            "Atar",
+            "Ouadane",
+            "Dakhlet Nouadhibou Region",
+            "Nouadhibou",
+            "Guidimaka Region",
+            "Selibaby",
+            "Assaba Region"
+        ],
+        "missing_count": 10
+    },
+    "Liberia": {
+        "country_name": "Liberia",
+        "place_id": 90906,
+        "missing_image_cities": [
+            "Monrovia",
+            "Robertsport",
+            "Grand Bassa County",
+            "Nimba County",
+            "Margibi County",
+            "Grand Gedeh County",
+            "Buchanan",
+            "Ganta",
+            "Kakata",
+            "Harbel"
+        ],
+        "missing_count": 10
+    },
+    "Burundi": {
+        "country_name": "Burundi",
+        "place_id": 90917,
+        "missing_image_cities": [
+            "Bujumbura",
+            "Gitega",
+            "Cankuzo",
+            "Makamba Province",
+            "Mwaro Province",
+            "Bururi Province",
+            "Muramvya Province",
+            "Makamba",
+            "Mwaro",
+            "Rumonge"
+        ],
+        "missing_count": 10
+    },
+    "Guinea": {
+        "country_name": "Guinea",
+        "place_id": 90919,
+        "missing_image_cities": [
+            "Conakry",
+            "Kindia",
+            "Labe",
+            "Nzerekore Region",
+            "Kankan Region",
+            "Gueckedou",
+            "Kankan",
+            "Mali",
+            "Nzerekore",
+            "Mamou Region"
+        ],
+        "missing_count": 10
+    },
+    "Mayotte": {
+        "country_name": "Mayotte",
+        "place_id": 90922,
+        "missing_image_cities": [
+            "Mamoudzou",
+            "Pamandzi",
+            "Ouangani",
+            "Chirongui",
+            "Boueni",
+            "Dzaoudzi",
+            "Bandrele",
+            "M'Tsangamouji",
+            "Kanikeli",
+            "Sada"
+        ],
+        "missing_count": 10
+    },
+    "Niger": {
+        "country_name": "Niger",
+        "place_id": 90934,
+        "missing_image_cities": [
+            "Niamey",
+            "Agadez",
+            "Zinder",
+            "Koure",
+            "Tahoua Region",
+            "Arlit",
+            "Tahoua",
+            "Maradi Region",
+            "Diffa Region",
+            "Tillaberi"
+        ],
+        "missing_count": 10
+    },
+    "Comoros": {
+        "country_name": "Comoros",
+        "place_id": 90940,
+        "missing_image_cities": [
+            "Moroni",
+            "Fomboni",
+            "Moutsamoudou",
+            "Moya",
+            "Lingoni"
+        ],
+        "missing_count": 5
+    },
+    "Central African Republic": {
+        "country_name": "Central African Republic",
+        "place_id": 90947,
+        "missing_image_cities": [
+            "Bangui",
+            "Bayanga",
+            "Boali",
+            "Ouadda",
+            "Lobaye Prefecture",
+            "Kemo Prefecture",
+            "M'Baiki",
+            "Sibut",
+            "Mbomou Prefecture",
+            "Bangassou"
+        ],
+        "missing_count": 10
+    },
+    "Guinea-Bissau": {
+        "country_name": "Guinea-Bissau",
+        "place_id": 90948,
+        "missing_image_cities": [
+            "Bissau",
+            "Bolama Region",
+            "Biombo Region",
+            "Quinhamel"
+        ],
+        "missing_count": 4
+    },
+    "Equatorial Guinea": {
+        "country_name": "Equatorial Guinea",
+        "place_id": 90950,
+        "missing_image_cities": [
+            "Malabo",
+            "Luba",
+            "Bata",
+            "Mongomo",
+            "Ebebiyin"
+        ],
+        "missing_count": 5
+    },
+    "Republic of the Congo": {
+        "country_name": "Republic of the Congo",
+        "place_id": 90951,
+        "missing_image_cities": [
+            "Brazzaville",
+            "Djambala",
+            "Etoumbi"
+        ],
+        "missing_count": 3
+    },
+    "Chad": {
+        "country_name": "Chad",
+        "place_id": 90962,
+        "missing_image_cities": [
+            "N'Djamena",
+            "Fada",
+            "Baga Sola",
+            "Ouaddai Region",
+            "Moyen-Chari Region",
+            "Abeche",
+            "Sarh",
+            "Salamat Region",
+            "Guera Region",
+            "Logone Oriental Region"
+        ],
+        "missing_count": 10
+    },
+    "South Sudan": {
+        "country_name": "South Sudan",
+        "place_id": 90963,
+        "missing_image_cities": [
+            "Juba",
+            "Western Bahr el Ghazal State",
+            "Eastern Equatoria State",
+            "Jonglei State",
+            "Bor",
+            "Wau",
+            "Lakes State",
+            "Rumbek",
+            "Upper Nile State",
+            "Malakal"
+        ],
+        "missing_count": 10
+    },
+    "Caribbean": {
+        "country_name": "Caribbean",
+        "place_id": 91219,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "U.S. Virgin Islands": {
+        "country_name": "U.S. Virgin Islands",
+        "place_id": 91220,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Cayman Islands": {
+        "country_name": "Cayman Islands",
+        "place_id": 91223,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Bahamas": {
+        "country_name": "Bahamas",
+        "place_id": 91224,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Antigua and Barbuda": {
+        "country_name": "Antigua and Barbuda",
+        "place_id": 91227,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Trinidad and Tobago": {
+        "country_name": "Trinidad and Tobago",
+        "place_id": 91232,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "St. Kitts and Nevis": {
+        "country_name": "St. Kitts and Nevis",
+        "place_id": 91233,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "British Virgin Islands": {
+        "country_name": "British Virgin Islands",
+        "place_id": 91235,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Mexico": {
+        "country_name": "Mexico",
+        "place_id": 91342,
+        "missing_image_cities": [
+            "Chichen Itza"
+        ],
+        "missing_count": 1
+    },
+    "Australia": {
+        "country_name": "Australia",
+        "place_id": 91387,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "New Zealand": {
+        "country_name": "New Zealand",
+        "place_id": 91394,
+        "missing_image_cities": [
+            "Auckland Central",
+            "Waitomo Caves"
+        ],
+        "missing_count": 2
+    },
+    "Fiji": {
+        "country_name": "Fiji",
+        "place_id": 91403,
+        "missing_image_cities": [
+            "Pacific Harbour",
+            "Sigatoka",
+            "Viseisei",
+            "Navua",
+            "Lautoka",
+            "Savusavu",
+            "Waiyevo"
+        ],
+        "missing_count": 7
+    },
+    "Mariana Islands": {
+        "country_name": "Mariana Islands",
+        "place_id": 91409,
+        "missing_image_cities": [
+            "Garapan",
+            "Tamuning",
+            "Talofofo",
+            "Umatac",
+            "Yona",
+            "Obyan",
+            "Inarajan"
+        ],
+        "missing_count": 7
+    },
+    "New Caledonia": {
+        "country_name": "New Caledonia",
+        "place_id": 91413,
+        "missing_image_cities": [
+            "Poindimie",
+            "Hienghene",
+            "Paita",
+            "Bourail",
+            "Yate",
+            "Farino",
+            "Koumac",
+            "Dumbea",
+            "La Foa"
+        ],
+        "missing_count": 9
+    },
+    "Vanuatu": {
+        "country_name": "Vanuatu",
+        "place_id": 91416,
+        "missing_image_cities": [
+            "Luganville",
+            "Mele",
+            "Mele Maat",
+            "Lenakel",
+            "Lakatoro",
+            "Vanuatu, Espiritu Santo, Hog Harbour",
+            "Onesua",
+            "Isangel",
+            "Green Hill"
+        ],
+        "missing_count": 9
+    },
+    "French Polynesia": {
+        "country_name": "French Polynesia",
+        "place_id": 91420,
+        "missing_image_cities": [
+            "Avatoru",
+            "Maharepa",
+            "Ha'apiti",
+            "Vaitape",
+            "Temae",
+            "Fare",
+            "Arue",
+            "Uturoa"
+        ],
+        "missing_count": 8
+    },
+    "Cook Islands": {
+        "country_name": "Cook Islands",
+        "place_id": 91427,
+        "missing_image_cities": [
+            "Muri",
+            "Ngatangiia",
+            "Titikaveka",
+            "Aroa Beach",
+            "Tupapa",
+            "Amuri",
+            "Arutanga",
+            "Vaimaanga",
+            "Matavera"
+        ],
+        "missing_count": 9
+    },
+    "Samoa": {
+        "country_name": "Samoa",
+        "place_id": 91433,
+        "missing_image_cities": [
+            "Lotofaga",
+            "Lalomanu",
+            "Fagamalo",
+            "Savaia",
+            "Mulifanua",
+            "Manase",
+            "Cape Fatuosofia",
+            "Salelologa",
+            "Si'umu"
+        ],
+        "missing_count": 9
+    },
+    "Palau": {
+        "country_name": "Palau",
+        "place_id": 91440,
+        "missing_image_cities": [
+            "Koror",
+            "Melekeok",
+            "Airai",
+            "Kloulklubed"
+        ],
+        "missing_count": 4
+    },
+    "Tonga": {
+        "country_name": "Tonga",
+        "place_id": 91453,
+        "missing_image_cities": [
+            "Nuku'alofa",
+            "Haveluliku",
+            "Neiafu",
+            "Uoleva Island",
+            "Kanokupolu",
+            "Matamaka",
+            "Ha'ateiho",
+            "Fua'amotu"
+        ],
+        "missing_count": 8
+    },
+    "Papua New Guinea": {
+        "country_name": "Papua New Guinea",
+        "place_id": 91463,
+        "missing_image_cities": [
+            "Rabaul",
+            "Alotau",
+            "Mount Hagen",
+            "Kavieng",
+            "Lae",
+            "Madang",
+            "Goroka",
+            "Kokoda",
+            "Kokopo"
+        ],
+        "missing_count": 9
+    },
+    "Solomon Islands": {
+        "country_name": "Solomon Islands",
+        "place_id": 91473,
+        "missing_image_cities": [
+            "Honiara",
+            "Gizo",
+            "Auki",
+            "Yandina",
+            "Tenaru",
+            "Ruavatu",
+            "Ruaniu"
+        ],
+        "missing_count": 7
+    },
+    "Niue": {
+        "country_name": "Niue",
+        "place_id": 91474,
+        "missing_image_cities": [
+            "Alofi",
+            "Namukulu",
+            "Hakupu",
+            "Hikutavake",
+            "Makefu",
+            "Tuapa",
+            "Mutalau",
+            "Lalotuake",
+            "Fagalilika"
+        ],
+        "missing_count": 9
+    },
+    "American Samoa": {
+        "country_name": "American Samoa",
+        "place_id": 91478,
+        "missing_image_cities": [
+            "Pago Pago",
+            "Futiga",
+            "Utulei",
+            "Ottoville",
+            "Ili'ili"
+        ],
+        "missing_count": 5
+    },
+    "Federated States of Micronesia": {
+        "country_name": "Federated States of Micronesia",
+        "place_id": 91479,
+        "missing_image_cities": [
+            "Colonia",
+            "Kolonia",
+            "Palikir",
+            "Ulithi Atoll"
+        ],
+        "missing_count": 4
+    },
+    "Marshall Islands": {
+        "country_name": "Marshall Islands",
+        "place_id": 91491,
+        "missing_image_cities": [
+            "Majuro",
+            "Calumet",
+            "Munising"
+        ],
+        "missing_count": 3
+    },
+    "Republic of Kiribati": {
+        "country_name": "Republic of Kiribati",
+        "place_id": 91506,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Tuvalu": {
+        "country_name": "Tuvalu",
+        "place_id": 91507,
+        "missing_image_cities": [],
+        "missing_count": 0
+    },
+    "Wallis and Futuna": {
+        "country_name": "Wallis and Futuna",
+        "place_id": 91516,
+        "missing_image_cities": [
+            "Vaitupu"
+        ],
+        "missing_count": 1
+    },
+    "United Arab Emirates": {
+        "country_name": "United Arab Emirates",
+        "place_id": 91524,
+        "missing_image_cities": [
+            "Umm Al Quwain",
+            "Dibba Al Fujairah"
+        ],
+        "missing_count": 2
+    },
+    "Israel": {
+        "country_name": "Israel",
+        "place_id": 91525,
+        "missing_image_cities": [
+            "Masada",
+            "Caesarea"
+        ],
+        "missing_count": 2
+    },
+    "Lebanon": {
+        "country_name": "Lebanon",
+        "place_id": 91526,
+        "missing_image_cities": [
+            "Jitta",
+            "Jounieh",
+            "Baalbeck",
+            "Harissa",
+            "Bcharre",
+            "Beiteddine",
+            "Sidon",
+            "Batroun"
+        ],
+        "missing_count": 8
+    },
+    "Iran": {
+        "country_name": "Iran",
+        "place_id": 91530,
+        "missing_image_cities": [
+            "Hamadan",
+            "Pasargad"
+        ],
+        "missing_count": 2
+    },
+    "Jordan": {
+        "country_name": "Jordan",
+        "place_id": 91534,
+        "missing_image_cities": [
+            "Karak",
+            "Azraq",
+            "Al-Maghtas",
+            "Dana",
+            "Ma'in"
+        ],
+        "missing_count": 5
+    },
+    "Qatar": {
+        "country_name": "Qatar",
+        "place_id": 91535,
+        "missing_image_cities": [
+            "Al-Rayyan",
+            "Al Khor",
+            "Madinat Ash Shamal",
+            "Mesaieed",
+            "Al Wakrah",
+            "Fuwayrit",
+            "Ash-Shahaniyah",
+            "Dukhan",
+            "Al Wakra"
+        ],
+        "missing_count": 9
+    },
+    "Oman": {
+        "country_name": "Oman",
+        "place_id": 91536,
+        "missing_image_cities": [
+            "Sur",
+            "Al Hamra",
+            "Khasab",
+            "Jabrin",
+            "Jalan Bani Buhassan",
+            "Al Hadd",
+            "Dibba Al Bay Ah"
+        ],
+        "missing_count": 7
+    },
+    "Kuwait": {
+        "country_name": "Kuwait",
+        "place_id": 91537,
+        "missing_image_cities": [
+            "Fahaheel",
+            "Ahmadi",
+            "Farwaniya",
+            "Jahra",
+            "Dasman",
+            "Julai'a",
+            "Salmiya",
+            "Hawalli"
+        ],
+        "missing_count": 8
+    },
+    "Bahrain": {
+        "country_name": "Bahrain",
+        "place_id": 91540,
+        "missing_image_cities": [
+            "Saar",
+            "Zallaq",
+            "Riffa",
+            "Sakhir",
+            "Barbar",
+            "Awali",
+            "Jannusan",
+            "Budaiya"
+        ],
+        "missing_count": 8
+    },
+    "Saudi Arabia": {
+        "country_name": "Saudi Arabia",
+        "place_id": 91548,
+        "missing_image_cities": [
+            "Al Khobar",
+            "Al Jubail",
+            "Taif",
+            "Dhahran",
+            "Al Ahsa"
+        ],
+        "missing_count": 5
+    },
+    "Syria": {
+        "country_name": "Syria",
+        "place_id": 91554,
+        "missing_image_cities": [
+            "Damascus",
+            "Aleppo",
+            "Palmyra",
+            "Hamah",
+            "Maaloula",
+            "Homs",
+            "Tartus",
+            "Apamea",
+            "Lattakia",
+            "As Suwayda"
+        ],
+        "missing_count": 10
+    },
+    "Palestinian Territories": {
+        "country_name": "Palestinian Territories",
+        "place_id": 91555,
+        "missing_image_cities": [
+            "Bethlehem",
+            "Jericho",
+            "Gush Etzion",
+            "Nablus",
+            "Beit Sahour",
+            "Hebron",
+            "Alon",
+            "Kfar Adumim",
+            "Kalia"
+        ],
+        "missing_count": 9
+    },
+    "Iraq": {
+        "country_name": "Iraq",
+        "place_id": 91564,
+        "missing_image_cities": [
+            "Baghdad",
+            "Sulaymaniyah",
+            "Karbala",
+            "Najaf",
+            "Duhok",
+            "Kufa",
+            "Basrah",
+            "Nasiriyah",
+            "Al Hillah"
+        ],
+        "missing_count": 9
+    },
+    "Yemen": {
+        "country_name": "Yemen",
+        "place_id": 91579,
+        "missing_image_cities": [
+            "Sanaa",
+            "Aden",
+            "Taiz",
+            "Zabid",
+            "Hadiboh",
+            "Mukalla",
+            "Marib",
+            "Shahara",
+            "Kawkaban",
+            "Al-Makha"
+        ],
+        "missing_count": 10
+    }
+}

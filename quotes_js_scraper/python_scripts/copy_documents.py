@@ -1,3 +1,7 @@
+"""
+Script to copy documents from 'explore' collection to 'places' collection in Firestore.
+"""
+
 import firebase_admin
 from firebase_admin import credentials, firestore
 import os

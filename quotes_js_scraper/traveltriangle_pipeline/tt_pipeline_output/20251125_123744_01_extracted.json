@@ -1,0 +1,55 @@
+{
+  "playlistTitle": "Bangkok Park Escapes",
+  "placeName": "Bangkok",
+  "country": "Thailand",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/national-parks-in-bangkok/"
+  ],
+  "description": "Mellow morning walks, hidden ponds, tuk-tuk lullabies — a Bangkok park playlist for wandering souls.",
+  "items": [
+    {
+      "name": "Sai Yok National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Khao Yai National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Erawan National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kui Buri National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Khao Sam Roi Yot National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

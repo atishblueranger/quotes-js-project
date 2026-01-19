@@ -1,0 +1,35 @@
+{
+  "job_index": 6,
+  "city": "Hoi An",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/109803",
+  "title": "The 34 best beaches in and around Hoi An",
+  "final_title": "Serene Shores of Hoi An",
+  "from_cache": false,
+  "counts": {
+    "meta": 34,
+    "blocks": 34,
+    "merged": 34,
+    "accepted_before_trim": 19,
+    "rejected": 15,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 13,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "656",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\vietnam_20250930_0119\\hoi-an_beaches_109803.json",
+    "report_json": "publish_playlist\\vietnam_20250930_0119\\hoi-an_beaches_109803.report.json"
+  },
+  "created_ts": 1759175705
+}

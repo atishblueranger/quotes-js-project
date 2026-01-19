@@ -1,0 +1,64 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759031900,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\srinagar_20250928_0928\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Srinagar",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160308",
+      "title": "The 30 best photo spots in Srinagar",
+      "final_title": "Srinagar Snapshots: Capturing Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 24,
+        "rejected": 6,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 27,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "607",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\srinagar_20250928_0928\\srinagar_photo-spots_160308.json",
+        "report_json": "publish_playlist\\srinagar_20250928_0928\\srinagar_photo-spots_160308.report.json"
+      },
+      "created_ts": 1759032928
+    }
+  ],
+  "end_ts": 1759032928,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 27,
+    "llm_title_calls": 1,
+    "google_places_calls": 17,
+    "cache_hits": 0,
+    "cache_misses": 46
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 27,
+    "llm_title_cache": 1,
+    "google_places_cache": 17,
+    "mobx_data_cache": 1
+  }
+}

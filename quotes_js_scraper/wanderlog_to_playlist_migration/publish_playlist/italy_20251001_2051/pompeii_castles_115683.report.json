@@ -1,0 +1,35 @@
+{
+  "job_index": 19,
+  "city": "Pompeii",
+  "category_used": "castles",
+  "url": "https://wanderlog.com/list/geoCategory/115683",
+  "title": "The 2 best castles in and around Avignon",
+  "final_title": "Enchanting Castles of Pompeii's Past",
+  "from_cache": false,
+  "counts": {
+    "meta": 2,
+    "blocks": 2,
+    "merged": 2,
+    "accepted_before_trim": 1,
+    "rejected": 1,
+    "accepted_final": 1
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\italy_20251001_2051\\pompeii_castles_115683.json",
+    "report_json": "publish_playlist\\italy_20251001_2051\\pompeii_castles_115683.report.json"
+  },
+  "created_ts": 1759336313
+}

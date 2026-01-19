@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Naples Museum Gems",
+  "placeName": "Naples",
+  "country": "Italy",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/naples-museums/"
+  ],
+  "description": "Soundtrack for wandering Naples museums: baroque halls, coastal light, hidden frescoes.",
+  "items": [
+    {
+      "name": "National Archaeological Museum of Naples",
+      "description": "",
+      "location_hint": "Piazza Museo, 19, 80135 Napoli NA, Italy",
+      "opening_hours_text": "9 AM - 7:30 PM",
+      "entry_fee_text": "1200 INR"
+    },
+    {
+      "name": "The National Museum of San Martino",
+      "description": "",
+      "location_hint": "Largo S. Martino, 5, 80129 Napoli NA, Italy",
+      "opening_hours_text": "8:30 AM - 6:30 PM",
+      "entry_fee_text": "800 INR"
+    },
+    {
+      "name": "Galleria Borbonica",
+      "description": "",
+      "location_hint": "Parcheggio Morelli, Via Domenico Morelli, 61 c, 80121 Napoli NA, Italy",
+      "opening_hours_text": "10 AM - 5 PM",
+      "entry_fee_text": "900 INR"
+    },
+    {
+      "name": "Cappella Sansevero",
+      "description": "",
+      "location_hint": "Cappella Sansevero, Via Francesco De Sanctis, 19/21, Naples, Italy",
+      "opening_hours_text": "9 AM - 6:30 PM",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Museo di Capodimonte",
+      "description": "",
+      "location_hint": "Via Miano, 2, 80131 Napoli NA,",
+      "opening_hours_text": "8:30 AM - 7:30 PM",
+      "entry_fee_text": "1000 INR"
+    },
+    {
+      "name": "Catacombs of San Gennaro",
+      "description": "",
+      "location_hint": "Via Capodimonte, 13, 80100 Napoli NA, Italy",
+      "opening_hours_text": "10 AM - 5 PM",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Certosa di San Martino",
+      "description": "",
+      "location_hint": "Largo S. Martino, 5, 80129 Napoli NA, Italy",
+      "opening_hours_text": "8:30 AM - 6:30 PM",
+      "entry_fee_text": "500 INR"
+    },
+    {
+      "name": "Palazzo Zevallos Stigliano",
+      "description": "",
+      "location_hint": "Palazzo Zevallos Stigliano, Via Toledo, 185, Naples, Italy",
+      "opening_hours_text": "10 AM - 6 PM",
+      "entry_fee_text": "400 INR"
+    },
+    {
+      "name": "Royal Palace of Naples",
+      "description": "",
+      "location_hint": "Via Miano, 2, 80131 Napoli NA, Italy",
+      "opening_hours_text": "8:30 AM - 7:30 PM",
+      "entry_fee_text": "1000 INR"
+    },
+    {
+      "name": "Museo Madre",
+      "description": "",
+      "location_hint": "Museo MADRE, Via Luigi Settembrini, 79, Naples, Italy",
+      "opening_hours_text": "10:00 AM - 7:30 PM",
+      "entry_fee_text": "650 INR"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

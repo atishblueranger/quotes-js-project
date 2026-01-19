@@ -1,0 +1,69 @@
+{
+  "playlistTitle": "Trails of Phuket",
+  "placeName": "Phuket",
+  "country": "Thailand",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hiking-in-phuket/"
+  ],
+  "description": "Sunlit jungle paths, ocean breezes and island rhythms - a soundtrack for Phuket's trails.",
+  "items": [
+    {
+      "name": "Kathu Waterfall",
+      "description": "",
+      "location_hint": "Kathu, Kathu District, Phuket 83120",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Khao Sok National Park",
+      "description": "",
+      "location_hint": "62 Khlong Sok, Phanom District, Surat Thani 84250, Thailand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Bang Pae Waterfall",
+      "description": "",
+      "location_hint": "Pa Klok, Thalang District, Phuket 83110 (Khao Phra Thaeo National Park)",
+      "opening_hours_text": "09:00 – 16:30, All year Round",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Banana Rock Beach",
+      "description": "",
+      "location_hint": "Coral Island, Phuket 83110, Thailand",
+      "opening_hours_text": "Always Open",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Samet Nangshe Viewpoint",
+      "description": "",
+      "location_hint": "Khlong Khian, Tha Yu 82130, Thailand",
+      "opening_hours_text": "4 am – 10 pm",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Patong To Paradise Beach",
+      "description": "",
+      "location_hint": "Muen-Ngern Road, Pa Tong, Kathu District, Phuket 83150, Thailand",
+      "opening_hours_text": "Always",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kata Beach To The Big Buddha",
+      "description": "",
+      "location_hint": "Mueang Phuket District, Phuket 83100, Thailand",
+      "opening_hours_text": "08:00 – 19:30",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

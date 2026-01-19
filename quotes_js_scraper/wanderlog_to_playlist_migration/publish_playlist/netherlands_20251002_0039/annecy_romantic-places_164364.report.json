@@ -1,0 +1,35 @@
+{
+  "job_index": 32,
+  "city": "Annecy",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164364",
+  "title": "The 30 most romantic places in Annecy",
+  "final_title": "Whispers of Love in Annecy",
+  "from_cache": false,
+  "counts": {
+    "meta": 30,
+    "blocks": 30,
+    "merged": 30,
+    "accepted_before_trim": 29,
+    "rejected": 1,
+    "accepted_final": 18
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "938",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\netherlands_20251002_0039\\annecy_romantic-places_164364.json",
+    "report_json": "publish_playlist\\netherlands_20251002_0039\\annecy_romantic-places_164364.report.json"
+  },
+  "created_ts": 1759351042
+}

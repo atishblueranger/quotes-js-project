@@ -1,0 +1,35 @@
+{
+  "job_index": 6,
+  "city": "Chiang Mai",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160173",
+  "title": "The 42 best photo spots in Chiang Mai",
+  "final_title": "Chiang Mai's Picture-Perfect Paradises",
+  "from_cache": false,
+  "counts": {
+    "meta": 42,
+    "blocks": 42,
+    "merged": 42,
+    "accepted_before_trim": 29,
+    "rejected": 13,
+    "accepted_final": 21
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 40,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "682",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_photo-spots_160173.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_photo-spots_160173.report.json"
+  },
+  "created_ts": 1759246288
+}

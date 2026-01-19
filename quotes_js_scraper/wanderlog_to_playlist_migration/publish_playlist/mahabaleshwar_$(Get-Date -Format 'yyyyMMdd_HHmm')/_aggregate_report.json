@@ -1,0 +1,64 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759070957,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\mahabaleshwar_$(Get-Date -Format 'yyyyMMdd_HHmm')\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Mahabaleshwar",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160391",
+      "title": "The 15 best photo spots in Mahabaleshwar",
+      "final_title": "Capturing Mahabaleshwar's Scenic Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 14,
+        "rejected": 1,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "625",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\mahabaleshwar_$(Get-Date -Format 'yyyyMMdd_HHmm')\\mahabaleshwar_photo-spots_160391.json",
+        "report_json": "publish_playlist\\mahabaleshwar_$(Get-Date -Format 'yyyyMMdd_HHmm')\\mahabaleshwar_photo-spots_160391.report.json"
+      },
+      "created_ts": 1759071445
+    }
+  ],
+  "end_ts": 1759071445,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 4,
+    "llm_title_calls": 1,
+    "google_places_calls": 10,
+    "cache_hits": 0,
+    "cache_misses": 16
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 4,
+    "llm_title_cache": 1,
+    "google_places_cache": 10,
+    "mobx_data_cache": 1
+  }
+}

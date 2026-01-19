@@ -1,0 +1,46 @@
+{
+  "direct_copy": [
+    "address",
+    "g_image_urls",
+    "imageKeys",
+    "name",
+    "openingPeriods",
+    "placeId",
+    "rating",
+    "ratingDistribution",
+    "utcOffset",
+    "website"
+  ],
+  "rename": {
+    "categories": "types",
+    "description": "detail_description",
+    "internationalPhoneNumber": "phone",
+    "numRatings": "ratingCount"
+  },
+  "transform": {
+    "latitude": { "action": "to_float" },
+    "longitude": { "action": "to_float" },
+    "permanentlyClosed": { "action": "to_bool" },
+    "priceLevel": { "action": "to_int_or_null" }
+  },
+  "skip": [
+    "id"
+  ],
+  "default": {
+    "city": "",
+    "content_updated_at": "",
+    "country": "",
+    "curation": {},
+    "detail_description": "",
+    "excerpt": "",
+    "g_description": "",
+    "image_url": "",
+    "index": 0,
+    "phone": "",
+    "prev_detail_description": "",
+    "prev_excerpt": "",
+    "ratingCount": 0,
+    "source_url": "",
+    "types": []
+  }
+}

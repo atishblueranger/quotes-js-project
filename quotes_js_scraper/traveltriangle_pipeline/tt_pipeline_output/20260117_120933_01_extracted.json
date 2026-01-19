@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Gems of Chile",
+  "placeName": "Chile",
+  "country": "Chile",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/places-to-visit-in-chile/"
+  ],
+  "description": "Wander through Chile's hidden rhythms — from Santiago streets to Patagonia peaks, a sonic journey.",
+  "items": [
+    {
+      "name": "Torres Del Paine National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "15.000 CLP / 23 US$"
+    },
+    {
+      "name": "Valle de la Luna And The Atacama Desert",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "3000 Chilean peso"
+    },
+    {
+      "name": "Easter Island And Rapa Nui National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "54000 pesos"
+    },
+    {
+      "name": "Santiago",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Chilean Lake District",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Valparaiso",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lauca National Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Pumalin Park",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Los Pinguinos Natural Monument",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Humberstone and Santa Laura Saltpeter Works",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "C$3000"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

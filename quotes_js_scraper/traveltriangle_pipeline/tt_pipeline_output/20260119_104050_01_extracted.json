@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Wild Turkiye Wonders",
+  "placeName": "Turkiye",
+  "country": "Turkiye",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/national-parks-in-turkey/"
+  ],
+  "description": "Roam Turkiye's untamed coasts and rugged mountains — a soundtrack for wild Turkish wonders.",
+  "items": [
+    {
+      "name": "Aladağlar National Park – Paradise for backpackers and trekkers",
+      "description": "",
+      "location_hint": "51660 Demirkazık Köyü/Çamardı/Niğde, Turkey",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Köprülü Canyon National Park – With a stunning backdrop",
+      "description": "",
+      "location_hint": "Bozyaka Mahallesi, 07550 Manavgat/Antalya, Turkey",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Nemrut Dağı National Park – The historical national park of Turkey",
+      "description": "",
+      "location_hint": "Karadut, Turkey",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Göreme National Park – The view that will make your jaw drop",
+      "description": "",
+      "location_hint": "Goreme, Turkey",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kazdagi National Park – Paradise for nature lovers",
+      "description": "",
+      "location_hint": "Edremit, Balikesir, Turkey",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Altinbesik Cave National Park – Experience thrilling caving",
+      "description": "",
+      "location_hint": "Ibradı/Antalya, Turkey",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kackar Mountains National Park – The rainy forest of Turkey",
+      "description": "",
+      "location_hint": "Alparslan Türkeş Cd., 06560 Rize, Turkey",
+      "opening_hours_text": "24 hours",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Yedigöller National Park – Heaven for photographers",
+      "description": "",
+      "location_hint": "14030 Yedigöller/Bolu Merkez/Bolu, Turkey",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

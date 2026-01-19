@@ -1,0 +1,37 @@
+{
+  "timestamp": "20251122_181758",
+  "args": {
+    "url": "https://traveltriangle.com/blog/places-to-visit-in-dwarka/",
+    "batch": null,
+    "city": "Dwarka",
+    "state": "Gujurat",
+    "country": "India",
+    "category": "Travel",
+    "subtype": "poi",
+    "optimize_ai": true,
+    "title_mode": "catchy",
+    "min_confidence": 0.7,
+    "keep_ratio": 0.9,
+    "refresh_photos": false,
+    "require_photo": false,
+    "dry_run": false,
+    "skip_upload": false,
+    "output_dir": "tt_pipeline_output"
+  },
+  "results": [
+    {
+      "url": "https://traveltriangle.com/blog/places-to-visit-in-dwarka/",
+      "basename": "playlist",
+      "success": true,
+      "steps_completed": [
+        "extract",
+        "adapt",
+        "resolve",
+        "upload"
+      ],
+      "extracted_file": "tt_pipeline_output\\20251122_181758_01_extracted.json",
+      "resolved_file": "tt_pipeline_output\\20251122_181758_03_resolved.json",
+      "report_file": "tt_pipeline_output\\20251122_181758_03_report.json"
+    }
+  ]
+}

@@ -1,0 +1,1819 @@
+{
+  "_id": "909",
+  "city_name": "Agartala",
+  "is_searchable": true,
+  "place_id": 909,
+  "country_name": "India",
+  "city_name_search": "agartala",
+  "longitude": 91.29324,
+  "parent_id": 87037,
+  "popularity": 831,
+  "manual_description": null,
+  "subcategory": "city",
+  "state_name": "Tripura",
+  "bounds": [
+    91.22734,
+    23.77564,
+    91.36136,
+    23.92654
+  ],
+  "position": {
+    "geohash": "wh0ztkmwq",
+    "geopoint": {
+      "latitude": 23.84281,
+      "longitude": 91.29324
+    }
+  },
+  "latitude": 23.84281,
+  "image_key": "q6UB0nlCCN9m6HdcV2xR45MjqX9EMLLP",
+  "depth": 4,
+  "place_description": "Agartala is the capital city of Tripura, a northeast Indian state. The huge, white Ujjayanta Palace, built in 1901 by Maharaja Radha Kishore Manikya, has Mughal-style gardens with fountains. It houses the Tripura Government Museum, where displays include 9th-century sculptures. Nearby, ornate columns and pointed domes mark the Hindu temple Jagannath Bari. North, Rabindra Kanan park has flowerbeds and a puppet house.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "India"
+      },
+      {
+        "_id": "87038",
+        "subcategory": "state",
+        "parentId": 86661,
+        "countryName": "India",
+        "id": 87038,
+        "longitude": 91.29324,
+        "bounds": [
+          91.14968,
+          22.93731,
+          92.336,
+          24.53198
+        ],
+        "latitude": 23.84281,
+        "depth": 2,
+        "stateName": null,
+        "popularity": 0,
+        "name": "Tripura"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "283",
+        "subcategory": "city",
+        "parentId": 86850,
+        "countryName": "Bangladesh",
+        "id": 283,
+        "longitude": 90.40077,
+        "bounds": [
+          90.32955,
+          23.66127,
+          90.5091,
+          23.9
+        ],
+        "latitude": 23.711224,
+        "depth": 3,
+        "stateName": "Dhaka Division",
+        "popularity": 4693,
+        "name": "Dhaka City"
+      },
+      {
+        "_id": "86851",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86851,
+        "longitude": 90.22033,
+        "bounds": [
+          88.00861,
+          20.3794,
+          92.68012,
+          26.63391
+        ],
+        "latitude": 24.189028,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "Bangladesh"
+      },
+      {
+        "_id": "87038",
+        "subcategory": "state",
+        "parentId": 86661,
+        "countryName": "India",
+        "id": 87038,
+        "longitude": 91.29324,
+        "bounds": [
+          91.14968,
+          22.93731,
+          92.336,
+          24.53198
+        ],
+        "latitude": 23.84281,
+        "depth": 2,
+        "stateName": null,
+        "popularity": 0,
+        "name": "Tripura"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ0er_D5D0UzcREIsvhXJGnGY",
+        "website": "http://www.nfr.indianrailways.gov.in/",
+        "index": 8,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.2,
+        "detail_description": "",
+        "imageKeys": [
+          "RcHmjoJJhLuzC4eAwzoSXMEZCOLYLmlr",
+          "YWx1Ny94ob8vAWvrNF47tCshw8kiXVm3",
+          "84xEID45wRUb2Rpxi9RhV3zanfoY0GoQ",
+          "RcHmjoJJhLuzC4eAwzoSXMEZCOLYLmlr",
+          "YWx1Ny94ob8vAWvrNF47tCshw8kiXVm3",
+          "84xEID45wRUb2Rpxi9RhV3zanfoY0GoQ"
+        ],
+        "ratingCount": 3981,
+        "openingPeriods": [],
+        "excerpt": "",
+        "name": "Agartala Railway Station",
+        "placeId": "ChIJ0er_D5D0UzcREIsvhXJGnGY",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0er_D5D0UzcREIsvhXJGnGY_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0er_D5D0UzcREIsvhXJGnGY_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Nestled in the picturesque northeastern region of India, Agartala serves as the vibrant capital of Tripura. The Agartala Railway Station stands out as a vital hub for travelers, linking this charming city to various parts of the country. With three platforms and essential amenities like ticket counters, waiting areas, and restrooms, it ensures a comfortable experience for passengers. The station is designed with accessibility in mind, featuring wheelchair access and escalators to assist those with mobility challenges.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ0er_D5D0UzcREIsvhXJGnGY_1.jpg",
+        "address": "Dukli, Agartala, Tripura 799003, India",
+        "latitude": null,
+        "types": [
+          "Train station"
+        ]
+      },
+      {
+        "_id": "ChIJ6_YZOwz0UzcRcOPdYJRYpuA",
+        "website": null,
+        "index": 12,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "This massive white palace features galleries with exhibits on the state of Tripura.",
+        "imageKeys": [
+          "EFyGZnbq7we2ZG2guFygb18RF0HPuGWu",
+          "kkB6te7fS10SIwkr7zyFv9G0yztDXeQH",
+          "EFyGZnbq7we2ZG2guFygb18RF0HPuGWu",
+          "kkB6te7fS10SIwkr7zyFv9G0yztDXeQH"
+        ],
+        "ratingCount": 1409,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 0
+            },
+            "open": {
+              "time": "1015",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "1015",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "1015",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "1015",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "1015",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "1015",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "1015",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "This massive white palace features galleries with exhibits on the state of Tripura.",
+        "name": "Tripura State Museum",
+        "placeId": "ChIJ6_YZOwz0UzcRcOPdYJRYpuA",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6_YZOwz0UzcRcOPdYJRYpuA_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6_YZOwz0UzcRcOPdYJRYpuA_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Nestled in the heart of Agartala, the Tripura State Museum stands as a magnificent white palace that showcases the rich heritage and culture of Tripura. This museum is an essential stop for anyone looking to delve into the state's history, featuring galleries filled with fascinating exhibits that highlight both tribal culture and historical artifacts. The museum complements other regal sites like Ujjayanta Palace and Neermahal, making Agartala a treasure trove of royal splendor.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6_YZOwz0UzcRcOPdYJRYpuA_1.jpg",
+        "address": "R7PM+W39, Lakshmi Narayan Bari Rd, Palace Compound, Indranagar, Agartala, Tripura 799001, India",
+        "latitude": null,
+        "types": [
+          "Museum",
+          "History Museums",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJ6aZ8hozzUzcRnENhXbTZN34",
+        "website": null,
+        "index": 17,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.4,
+        "detail_description": "",
+        "imageKeys": [
+          "KEWik7GSz6g9tRMroRIVpa4nAwPKjKdu",
+          "7n3Ol02mhly6f15OOMDechYOEG2nFd2x",
+          "jpCKjsRIsCNotiKVWv03rOWx0Y66dR68",
+          "KEWik7GSz6g9tRMroRIVpa4nAwPKjKdu",
+          "7n3Ol02mhly6f15OOMDechYOEG2nFd2x",
+          "jpCKjsRIsCNotiKVWv03rOWx0Y66dR68"
+        ],
+        "ratingCount": 236,
+        "openingPeriods": [],
+        "excerpt": "",
+        "name": "College Tilla Lake",
+        "placeId": "ChIJ6aZ8hozzUzcRnENhXbTZN34",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6aZ8hozzUzcRnENhXbTZN34_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6aZ8hozzUzcRnENhXbTZN34_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "College Tilla Lake is a serene and picturesque spot located near the Maharaja Bir Bikram College in Agartala. Established in 1947, the college is named after Maharaja Bir Bikram Manikya Bahadur and is known for its academic excellence. The lake offers a tranquil environment with seating areas to relax and enjoy the soothing sounds of nature. Visitors can admire the lotus flowers in the lake while taking in the fresh air and peaceful atmosphere.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ6aZ8hozzUzcRnENhXbTZN34_1.jpg",
+        "address": "Agartala, Tripura 799004",
+        "latitude": null,
+        "types": [
+          "Lake"
+        ]
+      },
+      {
+        "_id": "ChIJDwiYED_3UzcR_bUSsKT7_IU",
+        "website": null,
+        "index": 13,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.1,
+        "detail_description": "",
+        "imageKeys": [
+          "EO2iKrciPcWBHIgU2cHRGVq7cfzszk7D",
+          "PVldyfUg7YQfHgOddQtidWNK9WtTV7Q9",
+          "5nPLwUpJxHQ4WaA8jDWcVu4JVTnMNVdd",
+          "EO2iKrciPcWBHIgU2cHRGVq7cfzszk7D",
+          "PVldyfUg7YQfHgOddQtidWNK9WtTV7Q9",
+          "5nPLwUpJxHQ4WaA8jDWcVu4JVTnMNVdd"
+        ],
+        "ratingCount": 915,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 2
+            },
+            "open": {
+              "time": "0600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 3
+            },
+            "open": {
+              "time": "0600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 4
+            },
+            "open": {
+              "time": "0600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 6
+            },
+            "open": {
+              "time": "0600",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "Oxygen Park",
+        "placeId": "ChIJDwiYED_3UzcR_bUSsKT7_IU",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDwiYED_3UzcR_bUSsKT7_IU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDwiYED_3UzcR_bUSsKT7_IU_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Oxygen Park in Agartala is a delightful green oasis nestled within the bustling city, perfect for those seeking a breath of fresh air. Accessible via auto-rickshaw or rideshare services, this park welcomes visitors with an affordable entry fee of just Rs. 10. Once inside, you'll find yourself surrounded by lush greenery and vibrant flowers that create a serene atmosphere ideal for relaxation and rejuvenation.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJDwiYED_3UzcR_bUSsKT7_IU_1.jpg",
+        "address": "V7RG+PRW, Gandhigram, Agartala, Tripura 799012, India",
+        "latitude": null,
+        "types": [
+          "Park"
+        ]
+      },
+      {
+        "_id": "ChIJETAQK6r2UzcR9U0v1pe8YwY",
+        "website": null,
+        "index": 3,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.2,
+        "detail_description": "",
+        "imageKeys": [
+          "TX2mwltl7AFxezqLOtqvjLZrQ7Zr01mj",
+          "uZgl4SdbwLGqHGYbHaXiMdzcuYFrkrU0",
+          "3tvvfo2LsGQ2l5WzLN8btn9T5qs7di8o",
+          "TX2mwltl7AFxezqLOtqvjLZrQ7Zr01mj",
+          "uZgl4SdbwLGqHGYbHaXiMdzcuYFrkrU0",
+          "3tvvfo2LsGQ2l5WzLN8btn9T5qs7di8o"
+        ],
+        "ratingCount": 4828,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1800",
+              "day": 0
+            },
+            "open": {
+              "time": "0600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 1
+            },
+            "open": {
+              "time": "0600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 2
+            },
+            "open": {
+              "time": "0600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 3
+            },
+            "open": {
+              "time": "0600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2000",
+              "day": 4
+            },
+            "open": {
+              "time": "0600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1800",
+              "day": 5
+            },
+            "open": {
+              "time": "0600",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "Heritage Park",
+        "placeId": "ChIJETAQK6r2UzcR9U0v1pe8YwY",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJETAQK6r2UzcR9U0v1pe8YwY_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJETAQK6r2UzcR9U0v1pe8YwY_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "The Agartala-based heritage park showcases the history, culture, and natural beauty of Tripura in a miniature format. Visitors can explore replicas of important rivers, mountains, bridges, railways, and tourist spots from the entire state. This innovative initiative is being meticulously constructed and maintained with utmost care to ensure cleanliness throughout the park's premises. For those seeking solace away from city crowds, Heritage Park offers a serene environment filled with lush greenery and picturesque locations that provide tranquility for the mind.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJETAQK6r2UzcR9U0v1pe8YwY_1.jpg",
+        "address": "V74M+JX7, Gorkhabasti, Kunjaban, Agartala, Tripura 799006, India",
+        "latitude": null,
+        "types": [
+          "Park",
+          "Nature & Parks"
+        ]
+      },
+      {
+        "_id": "ChIJF-ML0an2UzcRI5MAILEArkc",
+        "website": null,
+        "index": 15,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 3.9,
+        "detail_description": "",
+        "imageKeys": [
+          "O46KX1EisV6Ir2tnBRiqk9FFu72Uqobs",
+          "PZK8FrKydPjiynS15asEV5OUWbSXkUep",
+          "cGojAVJB9MYHDOAuF6npodbe1GGWqQ79",
+          "O46KX1EisV6Ir2tnBRiqk9FFu72Uqobs",
+          "PZK8FrKydPjiynS15asEV5OUWbSXkUep",
+          "cGojAVJB9MYHDOAuF6npodbe1GGWqQ79"
+        ],
+        "ratingCount": 2363,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2200",
+              "day": 0
+            },
+            "open": {
+              "time": "0630",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 1
+            },
+            "open": {
+              "time": "0630",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 2
+            },
+            "open": {
+              "time": "0630",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 3
+            },
+            "open": {
+              "time": "0630",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 4
+            },
+            "open": {
+              "time": "0630",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 5
+            },
+            "open": {
+              "time": "0630",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2200",
+              "day": 6
+            },
+            "open": {
+              "time": "0630",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "Nehru Park",
+        "placeId": "ChIJF-ML0an2UzcRI5MAILEArkc",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF-ML0an2UzcRI5MAILEArkc_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF-ML0an2UzcRI5MAILEArkc_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 381 232 5930",
+        "g_description": "Nehru Park in Agartala is a beautiful park located about 500 meters from the heritage park. Managed by women, it offers a well-maintained kids section and lush greenery. However, some visitors feel that the park closes too early at 4 pm and could benefit from extended hours. Despite this, it's praised for its cleanliness, security, and vibrant flowers.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJF-ML0an2UzcRI5MAILEArkc_1.jpg",
+        "address": "Gorkhabasti, 79 Tilla, Agartala, Tripura 799006, India",
+        "latitude": null,
+        "types": [
+          "Park",
+          "Memorial park"
+        ]
+      },
+      {
+        "_id": "ChIJG3y5fN7zUzcRAabP73Xw-Kw",
+        "website": "https://www.facebook.com/TheFernAgartala",
+        "index": 11,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4,
+        "detail_description": "",
+        "imageKeys": [
+          "uDiLhQVjJLQyrEfixkzGRRzXm3v7v0iN",
+          "sYnnIIno2cKoK6O3CcLQQUiy91VsmaJg",
+          "uDiLhQVjJLQyrEfixkzGRRzXm3v7v0iN",
+          "sYnnIIno2cKoK6O3CcLQQUiy91VsmaJg"
+        ],
+        "ratingCount": 1133,
+        "openingPeriods": [],
+        "excerpt": "",
+        "name": "The Fern",
+        "placeId": "ChIJG3y5fN7zUzcRAabP73Xw-Kw",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG3y5fN7zUzcRAabP73Xw-Kw_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG3y5fN7zUzcRAabP73Xw-Kw_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": 2,
+        "phone": "+91 98635 47532",
+        "g_description": "Nestled in the heart of Agartala, Tripura, The Fern restaurant is a culinary gem that offers an eclectic mix of cuisines. From delectable North Indian dishes like Aloo Paratha and Chicken Biryani to flavorful Chinese options such as Paneer Hakka Noodles and Chilli Chicken Dry, there's something for everyone. The ambiance is inviting, featuring unique seating arrangements that blend traditional floor seating with comfortable table chairs made from bamboo.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJG3y5fN7zUzcRAabP73Xw-Kw_1.jpg",
+        "address": "Happy Vly Rd, Banamalipur, Indranagar, Agartala, Tripura 799006, India",
+        "latitude": null,
+        "types": [
+          "Takeout Restaurant"
+        ]
+      },
+      {
+        "_id": "ChIJ_____9p0VDcRLkM4SG2CYfg",
+        "website": null,
+        "index": 19,
+        "utcOffset": 360,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "",
+        "imageKeys": [
+          "YqiLb4yChonesiRlBH0xFHU46xUjzWoB",
+          "lHKhWAGEe5ZJ23YFjCsXfQ7eWUUZNWFT",
+          "Ue0Euq5mVGous7BHGKBpajmDLjD7r7Gd",
+          "YqiLb4yChonesiRlBH0xFHU46xUjzWoB",
+          "lHKhWAGEe5ZJ23YFjCsXfQ7eWUUZNWFT",
+          "Ue0Euq5mVGous7BHGKBpajmDLjD7r7Gd"
+        ],
+        "ratingCount": 239,
+        "openingPeriods": [
+          {
+            "open": {
+              "time": "0000",
+              "day": 0
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 1
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 2
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 3
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 4
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 5
+            }
+          },
+          {
+            "open": {
+              "time": "0000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "Kasba Kamalasagar Kali Temple",
+        "placeId": "ChIJ_____9p0VDcRLkM4SG2CYfg",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ_____9p0VDcRLkM4SG2CYfg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ_____9p0VDcRLkM4SG2CYfg_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJ_____9p0VDcRLkM4SG2CYfg_1.jpg",
+        "address": "P5R5+3W2, Kamalasagar, Tripura 799102, India",
+        "latitude": null,
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Sacred & Religious Sites"
+        ]
+      },
+      {
+        "_id": "ChIJa9C5DkX2UzcRFWrfcOQJ8dk",
+        "website": "https://www.aai.aero/en/airports/agartala",
+        "index": 0,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.2,
+        "detail_description": "",
+        "imageKeys": [
+          "QRbAieiF8Ma1vqDniInGByi8xbENJHx1",
+          "BsP53Dc7rlPYMFgdmDNty2LmXpV1Wlpx",
+          "DF3bihxb2KkFWOgLsJ8wPxZywajxD5Jy",
+          "QRbAieiF8Ma1vqDniInGByi8xbENJHx1",
+          "BsP53Dc7rlPYMFgdmDNty2LmXpV1Wlpx",
+          "DF3bihxb2KkFWOgLsJ8wPxZywajxD5Jy"
+        ],
+        "ratingCount": 6697,
+        "openingPeriods": [],
+        "excerpt": "",
+        "name": "Maharaja Bir Bikram Airport, Agartala",
+        "placeId": "ChIJa9C5DkX2UzcRFWrfcOQJ8dk",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJa9C5DkX2UzcRFWrfcOQJ8dk_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJa9C5DkX2UzcRFWrfcOQJ8dk_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Maharaja Bir Bikram Airport, also known as Agartala Airport, is the largest airport in Tripura, India. Situated in Singarbil, it offers facilities such as duty-free shops, car rentals, ATMs and currency exchange services. The airport serves airlines like Air India Regional, GoAir, IndiGo and SpiceJet. While there are no restaurants inside the airport itself, there are plenty of dining options nearby.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJa9C5DkX2UzcRFWrfcOQJ8dk_1.jpg",
+        "address": "Usha Bazar, Agartala, Tripura 799009, India",
+        "latitude": null,
+        "types": [
+          "International airport",
+          "Airport",
+          "Domestic airport"
+        ]
+      },
+      {
+        "_id": "ChIJbZTMcQ70UzcRd-hIKvg69l0",
+        "website": null,
+        "index": 14,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.3,
+        "detail_description": "",
+        "imageKeys": [
+          "BhR7OyEqzysKo7I46AwVIcAXclppK2wE",
+          "uSppCBxXHwg567DyotjKdUgwIHnqgz6t",
+          "cbDlfTmXqjhkPToZBzxx46P5WJoJhqqv",
+          "BhR7OyEqzysKo7I46AwVIcAXclppK2wE",
+          "uSppCBxXHwg567DyotjKdUgwIHnqgz6t",
+          "cbDlfTmXqjhkPToZBzxx46P5WJoJhqqv"
+        ],
+        "ratingCount": 386,
+        "openingPeriods": [],
+        "excerpt": "",
+        "name": "Rajbari Lake Garden",
+        "placeId": "ChIJbZTMcQ70UzcRd-hIKvg69l0",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJbZTMcQ70UzcRd-hIKvg69l0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJbZTMcQ70UzcRd-hIKvg69l0_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Rajbari Lake Garden is a recently renovated attraction in Agartala, Tripura. It's perfect for evening strolls, casual gatherings, and enjoying the refreshing air. The area offers stunning scenery that becomes even more enchanting after dark. Visitors praise its natural beauty and describe it as a place where you can truly feel nature's embrace. Located north of Jagannath Bari Mandir, it's considered one of the best spots in Agartala for relaxation and rejuvenation.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJbZTMcQ70UzcRd-hIKvg69l0_1.jpg",
+        "address": "R7PJ+CC5, Chandra Mahal Road, Shakuntala Rd Ext, Palace Compound, Indranagar, Agartala, Tripura 799001, India",
+        "latitude": null,
+        "types": [
+          "Park"
+        ]
+      },
+      {
+        "_id": "ChIJbwe9DY3zUzcRFswZ1p7vk1A",
+        "website": "https://www.mbbcollege.in/",
+        "index": 10,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.2,
+        "detail_description": "",
+        "imageKeys": [
+          "whrZDgPpyC4m3fDRgJcqAwVEqhPGRrSx",
+          "LZUvnDBpMjy4PoOPqiWE30WRJbbPT9wg",
+          "PpoMvjvsWWq1iv7lGsqUFpHU6I9Zn3oT",
+          "whrZDgPpyC4m3fDRgJcqAwVEqhPGRrSx",
+          "LZUvnDBpMjy4PoOPqiWE30WRJbbPT9wg",
+          "PpoMvjvsWWq1iv7lGsqUFpHU6I9Zn3oT"
+        ],
+        "ratingCount": 1346,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "Maharaja Bir Bikram College",
+        "placeId": "ChIJbwe9DY3zUzcRFswZ1p7vk1A",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJbwe9DY3zUzcRFswZ1p7vk1A_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJbwe9DY3zUzcRFswZ1p7vk1A_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Maharaja Bir Bikram College, also known as MBB College, was established in 1947 by Maharaja Bir Bikram with the goal of providing quality higher education to local youths. The campus, spanning 264 acres, is nestled amidst nature and features a picturesque lake. The college's architecture reflects the rich history of the royal Manikya dynasty.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJbwe9DY3zUzcRFswZ1p7vk1A_1.jpg",
+        "address": "Dhaleswar, Agartala, Tripura 799004, India",
+        "latitude": null,
+        "types": [
+          "College",
+          "Government college",
+          "University"
+        ]
+      },
+      {
+        "_id": "ChIJc5m2P131UzcRA76yAAgvU28",
+        "website": "https://tripuratourism.gov.in/single-tour.php?id=1",
+        "index": 1,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "Lavish, early-1900s mansion with a vast central dome, lakefront gardens & Tripura State Museum.",
+        "imageKeys": [
+          "7PS44qlTPt01f1Zhp5A2q6a9lAGGhvBO",
+          "1lxrOsK2OyVhi1o4OHSQgW7DpqKMbNHD",
+          "oz4P6v0q9qvW0YSYDLVqHfOwO7WX5dhT",
+          "7pFXC5fpBNsd7r4qSXLRXrINNM9sNGPg",
+          "7PS44qlTPt01f1Zhp5A2q6a9lAGGhvBO",
+          "1lxrOsK2OyVhi1o4OHSQgW7DpqKMbNHD",
+          "oz4P6v0q9qvW0YSYDLVqHfOwO7WX5dhT",
+          "7pFXC5fpBNsd7r4qSXLRXrINNM9sNGPg"
+        ],
+        "ratingCount": 3906,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1715",
+              "day": 0
+            },
+            "open": {
+              "time": "1015",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1715",
+              "day": 2
+            },
+            "open": {
+              "time": "1015",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1715",
+              "day": 3
+            },
+            "open": {
+              "time": "1015",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1715",
+              "day": 4
+            },
+            "open": {
+              "time": "1015",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1715",
+              "day": 5
+            },
+            "open": {
+              "time": "1015",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1715",
+              "day": 6
+            },
+            "open": {
+              "time": "1015",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Lavish, early-1900s mansion with a vast central dome, lakefront gardens & Tripura State Museum.",
+        "name": "Ujjayanta Palace",
+        "placeId": "ChIJc5m2P131UzcRA76yAAgvU28",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJc5m2P131UzcRA76yAAgvU28_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJc5m2P131UzcRA76yAAgvU28_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Ujjayanta Palace is a grand mansion built in the early 1900s, featuring a striking central dome and beautiful lakefront gardens. It houses the Tripura State Museum, which showcases the history, culture, and arts of Tripura and Northeast India. The palace is one of Agartala's top attractions, offering visitors a glimpse into the region's heritage through its well-curated galleries.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJc5m2P131UzcRA76yAAgvU28_1.jpg",
+        "address": "Palace Compound, Indranagar, Agartala, Tripura 799001, India",
+        "latitude": null,
+        "types": [
+          "Museum",
+          "Historical landmark",
+          "Specialty Museums"
+        ]
+      },
+      {
+        "_id": "ChIJd3xh2nT0UzcRtLvHrgmKSoU",
+        "website": null,
+        "index": 16,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4,
+        "detail_description": "",
+        "imageKeys": [
+          "bu764x1mkwS6F5SLLVuCrDNR4bNzUuVH",
+          "5Xt66tWkYGHTw9GuHcmINj4AYtTpjvG2",
+          "bgu9qhLPWjZRykNi1ZpNzGTCZmLin5e0",
+          "Bp2fDbsqYWSAMhkEEoIFgc8iEtGwLgmh",
+          "bu764x1mkwS6F5SLLVuCrDNR4bNzUuVH",
+          "5Xt66tWkYGHTw9GuHcmINj4AYtTpjvG2",
+          "bgu9qhLPWjZRykNi1ZpNzGTCZmLin5e0",
+          "Bp2fDbsqYWSAMhkEEoIFgc8iEtGwLgmh"
+        ],
+        "ratingCount": 501,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2100",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 5
+            },
+            "open": {
+              "time": "0930",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2130",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "Ghar Sansar",
+        "placeId": "ChIJd3xh2nT0UzcRtLvHrgmKSoU",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJd3xh2nT0UzcRtLvHrgmKSoU_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJd3xh2nT0UzcRtLvHrgmKSoU_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 381 238 0367",
+        "g_description": "Ghar Sansar, located on Chittaranjan Road in Agartala, is a well-known departmental store that caters to all your shopping needs. This vibrant shopping complex offers a wide range of groceries and household products at reasonable prices. The ground floor is dedicated to kitchen essentials, while the upper level features an extensive selection of grocery items. Regular customers appreciate the warm and helpful staff who enhance the overall shopping experience.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJd3xh2nT0UzcRtLvHrgmKSoU_1.jpg",
+        "address": "CR Rd, Shibnagar, Dhaleswar, Agartala, Tripura 799001, India",
+        "latitude": null,
+        "types": [
+          "Grocery store"
+        ]
+      },
+      {
+        "_id": "ChIJdS-1cgL0UzcRKm0cqZqinmg",
+        "website": null,
+        "index": 18,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.2,
+        "detail_description": "",
+        "imageKeys": [
+          "e0f6qstzbN0wKbxFz9kuSUpL8zq9RrwS",
+          "IvgLAONLITpZQHi7eNsYsKPhyh3M66ha",
+          "9ppcFB71NaHAybShZ6nTEGgdsnki5ZZG",
+          "e0f6qstzbN0wKbxFz9kuSUpL8zq9RrwS",
+          "IvgLAONLITpZQHi7eNsYsKPhyh3M66ha",
+          "9ppcFB71NaHAybShZ6nTEGgdsnki5ZZG"
+        ],
+        "ratingCount": 351,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1730",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1730",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "Tripura Tourism Development Corporation Limited (TTDCL)",
+        "placeId": "ChIJdS-1cgL0UzcRKm0cqZqinmg",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJdS-1cgL0UzcRKm0cqZqinmg_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJdS-1cgL0UzcRKm0cqZqinmg_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 381 232 5930",
+        "g_description": "Tripura Tourism Development Corporation Limited (TTDCL) is your go-to resource for exploring the enchanting state of Tripura. This hidden gem in Northeast India boasts a plethora of small yet stunning destinations that are often overlooked by travelers. To kickstart your adventure, make sure to visit the Raj Bari, also known as Ujjayanta Palace, located in Agartala.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJdS-1cgL0UzcRKm0cqZqinmg_1.jpg",
+        "address": "R7PM+VFX, Road, Swetmahal, Palace Compound, Indranagar, Agartala, Tripura 799001, India",
+        "latitude": null,
+        "types": [
+          "State government office",
+          "Tourist information center"
+        ]
+      },
+      {
+        "_id": "ChIJf11VLP6NUTcRbOqShQ7jTUY",
+        "website": null,
+        "index": 2,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "Ancient worship site known for its carved-rock sculptures in a picturesque natural setting.",
+        "imageKeys": [
+          "VdkexpmIkzVlmd2ZCDjfo43j0tLciUg4",
+          "JcKvVKSveWLdaG83uTtqF68BezfF435A",
+          "VdkexpmIkzVlmd2ZCDjfo43j0tLciUg4",
+          "JcKvVKSveWLdaG83uTtqF68BezfF435A"
+        ],
+        "ratingCount": 3025,
+        "openingPeriods": [],
+        "excerpt": "Ancient worship site known for its carved-rock sculptures in a picturesque natural setting.",
+        "name": "Unakoti Rock Carvings",
+        "placeId": "ChIJf11VLP6NUTcRbOqShQ7jTUY",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJf11VLP6NUTcRbOqShQ7jTUY_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJf11VLP6NUTcRbOqShQ7jTUY_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 92335 33929",
+        "g_description": "Unakoti Rock Carvings is an ancient worship site featuring intricate carved-rock sculptures set amidst a scenic natural backdrop. The massive relief sculptures of Hindu deities, some dating back to the 7th century, adorn rock faces throughout the site. Visitors can marvel at a variety of impressive carvings such as a towering 10m-tall sculpture of Shiva and a group of Ganeshas situated beside a waterfall. It takes approximately two hours to explore all noteworthy sights within the area.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJf11VLP6NUTcRbOqShQ7jTUY_1.jpg",
+        "address": "Gakulnagar, Uttar Unakuti R.F., Tripura 799290, India",
+        "latitude": null,
+        "types": [
+          "Historical landmark",
+          "Nature & Parks",
+          "Historical place",
+          "Caverns & Caves",
+          "Geologic Formations"
+        ]
+      },
+      {
+        "_id": "ChIJkQbJzyLyUzcRGH956ntR1qI",
+        "website": null,
+        "index": 6,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "",
+        "imageKeys": [
+          "VX7OkeuHNSPNA4PzA4kDMcqti2NV9NQn",
+          "2NCR8BGA8sfjnSLME3HIUMjO7jtLLsvd",
+          "rIuJm4Q8f175JDiNutSEULPXTthTp5CE",
+          "VX7OkeuHNSPNA4PzA4kDMcqti2NV9NQn",
+          "2NCR8BGA8sfjnSLME3HIUMjO7jtLLsvd",
+          "rIuJm4Q8f175JDiNutSEULPXTthTp5CE"
+        ],
+        "ratingCount": 1285,
+        "openingPeriods": [],
+        "excerpt": "",
+        "name": "Fourteen Gods' and Goddesses' Temple",
+        "placeId": "ChIJkQbJzyLyUzcRGH956ntR1qI",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkQbJzyLyUzcRGH956ntR1qI_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkQbJzyLyUzcRGH956ntR1qI_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "The Fourteen Gods' and Goddesses' Temple in Agartala, Tripura, was constructed by King Krishna Manikya Deb Barma and is devoted to Chaturdasha Devta, fourteen Hindu deities. It holds great significance as the royal families of Tripura have been observing traditional worship practices at this site for generations. Situated 8 km from the city center, the temple attracts thousands of pilgrims and devotees during the annual Kharchi festival.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJkQbJzyLyUzcRGH956ntR1qI_1.jpg",
+        "address": "R8RW+G3G, Khayerpur, Old Agartala, Mekhlipara, Agartala, Tripura 799035, India",
+        "latitude": null,
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Place of worship",
+          "Sacred & Religious Sites"
+        ]
+      },
+      {
+        "_id": "ChIJk_cPeMv0UzcRqRhUTFwVjck",
+        "website": "https://www.tripurauniv.ac.in/",
+        "index": 9,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.3,
+        "detail_description": "",
+        "imageKeys": [
+          "BUPnYUUhFoMKZfDjUwWgnk63VyqUOJ6r",
+          "ZNodbo0LZJDxi4r1KM2n2vWGxryDfPU7",
+          "JLr8SjaDvoOC3H5Iggiio7OK12XLBFHd",
+          "BUPnYUUhFoMKZfDjUwWgnk63VyqUOJ6r",
+          "ZNodbo0LZJDxi4r1KM2n2vWGxryDfPU7",
+          "JLr8SjaDvoOC3H5Iggiio7OK12XLBFHd"
+        ],
+        "ratingCount": 1520,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1700",
+              "day": 1
+            },
+            "open": {
+              "time": "1030",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 2
+            },
+            "open": {
+              "time": "1030",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 3
+            },
+            "open": {
+              "time": "1030",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 4
+            },
+            "open": {
+              "time": "1030",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1700",
+              "day": 5
+            },
+            "open": {
+              "time": "1030",
+              "day": 5
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "Tripura University",
+        "placeId": "ChIJk_cPeMv0UzcRqRhUTFwVjck",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJk_cPeMv0UzcRqRhUTFwVjck_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJk_cPeMv0UzcRqRhUTFwVjck_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 381 237 4801",
+        "g_description": "When visiting Agartala, make sure to explore the College Tilla, Ujjayanta Palace, Jagannath Temple, Venuban Budhha Vihar, and Neermahal. For nature lovers, Jampui Hill offers breathtaking landscapes. Tripura University is a top choice for students interested in biology-related fields with departments like Molecular Biology and Bioinformatics, Human Physiology, Microbiology, Zoology, Botany, Pharmaceutical Sciences and Forestry.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJk_cPeMv0UzcRqRhUTFwVjck_1.jpg",
+        "address": "Tripura university Main Gate Opposite Side Agartala To, Tripura 799022, India",
+        "latitude": null,
+        "types": [
+          "University"
+        ]
+      },
+      {
+        "_id": "ChIJn0G-Gg70UzcR6R9a31uM-y0",
+        "website": null,
+        "index": 5,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.6,
+        "detail_description": "This 4-story octagonal Hindu temple at the Ujjayanta Palace was built in the 19th century.",
+        "imageKeys": [
+          "OeSUomxwc8nGVleHqhaHcjVTkEETPlKV",
+          "8t7ywwVa1w5M8RnwoKqXJPAqgon0Uuub",
+          "LG3PaF7RAwEmUl3StdUTxlTpu7WSJIno",
+          "OeSUomxwc8nGVleHqhaHcjVTkEETPlKV",
+          "8t7ywwVa1w5M8RnwoKqXJPAqgon0Uuub",
+          "LG3PaF7RAwEmUl3StdUTxlTpu7WSJIno"
+        ],
+        "ratingCount": 2769,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1300",
+              "day": 0
+            },
+            "open": {
+              "time": "0430",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 0
+            },
+            "open": {
+              "time": "1600",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 1
+            },
+            "open": {
+              "time": "0430",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 1
+            },
+            "open": {
+              "time": "1600",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 2
+            },
+            "open": {
+              "time": "0430",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 2
+            },
+            "open": {
+              "time": "1600",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 3
+            },
+            "open": {
+              "time": "0430",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 3
+            },
+            "open": {
+              "time": "1600",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 4
+            },
+            "open": {
+              "time": "0430",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 4
+            },
+            "open": {
+              "time": "1600",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 5
+            },
+            "open": {
+              "time": "0430",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 5
+            },
+            "open": {
+              "time": "1600",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1300",
+              "day": 6
+            },
+            "open": {
+              "time": "0430",
+              "day": 6
+            }
+          },
+          {
+            "close": {
+              "time": "2100",
+              "day": 6
+            },
+            "open": {
+              "time": "1600",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "This 4-story octagonal Hindu temple at the Ujjayanta Palace was built in the 19th century.",
+        "name": "Shri Jagannath Temple, Agartala",
+        "placeId": "ChIJn0G-Gg70UzcR6R9a31uM-y0",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJn0G-Gg70UzcR6R9a31uM-y0_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJn0G-Gg70UzcR6R9a31uM-y0_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 381 232 4497",
+        "g_description": "The Jagannath Bari is an octagonal Hindu temple located at the Ujjayanta Palace that was constructed during the 19th century. This four-story building is a testament to the architectural brilliance of its time, featuring intricate designs and exceptional craftsmanship. The temple remains an important landmark in the region and continues to attract visitors from all over the world.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJn0G-Gg70UzcR6R9a31uM-y0_1.jpg",
+        "address": "Palace Compound, Krishna Nagar, Agartala, Tripura 799001, India",
+        "latitude": null,
+        "types": [
+          "Hindu temple"
+        ]
+      },
+      {
+        "_id": "ChIJpWxgPiaMUzcR8wUriKDgLek",
+        "website": null,
+        "index": 7,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.1,
+        "detail_description": "Lions, bear & deer are among the many animals in this zoological park with a lake for boating.",
+        "imageKeys": [
+          "8L0E8yci3ZTdeKZpHivbwHfmFIOfIfzD",
+          "p5KpGnyKE3dArRSvfmApMACCEarh6zj2",
+          "WseBmGBYMzXYelxK6XeDIZoAQslCiVZp",
+          "8L0E8yci3ZTdeKZpHivbwHfmFIOfIfzD",
+          "p5KpGnyKE3dArRSvfmApMACCEarh6zj2",
+          "WseBmGBYMzXYelxK6XeDIZoAQslCiVZp"
+        ],
+        "ratingCount": 2456,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 0
+            },
+            "open": {
+              "time": "0900",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "0900",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "0900",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "0900",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "0900",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "0900",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "Lions, bear & deer are among the many animals in this zoological park with a lake for boating.",
+        "name": "Sepahijala Wildlife Sanctuary & Zoo",
+        "placeId": "ChIJpWxgPiaMUzcR8wUriKDgLek",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpWxgPiaMUzcR8wUriKDgLek_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpWxgPiaMUzcR8wUriKDgLek_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "Sipahijala Wildlife Sanctuary is a zoological park that houses a variety of animals, including lions, bears, and deer. The sanctuary features a scenic lake where visitors can go boating. It is recommended to bring water bottles and a camera for optimal enjoyment. Notable wildlife attractions include Hulok Gibbon, Rock Python, Hippocampus, and clouded leopards. This national park in Tripura offers an excellent opportunity for exploring wildlife in the region.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJpWxgPiaMUzcR8wUriKDgLek_1.jpg",
+        "address": "Bishalgarh, Tripura 799102, India",
+        "latitude": null,
+        "types": [
+          "Zoo",
+          "Nature & Parks",
+          "Park",
+          "Wildlife park",
+          "Nature & Wildlife Areas"
+        ]
+      },
+      {
+        "_id": "ChIJrVyYa_XzUzcRW77ZLwx_Kic",
+        "website": null,
+        "index": 4,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/geoCategory/1586839/top-things-to-do-and-attractions-in-agartala",
+        "longitude": null,
+        "rating": 4.5,
+        "detail_description": "",
+        "imageKeys": [
+          "vMa8XEa9RMlLyW2ANZsvZX50uBSbBJw8",
+          "XZUc4qMCZqalZkKrHC5HLNwXwh2rXfcH",
+          "9OIxwbCrh83HaTvqj9dyID3l9hZoRPL7",
+          "vMa8XEa9RMlLyW2ANZsvZX50uBSbBJw8",
+          "XZUc4qMCZqalZkKrHC5HLNwXwh2rXfcH",
+          "9OIxwbCrh83HaTvqj9dyID3l9hZoRPL7"
+        ],
+        "ratingCount": 1448,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "2015",
+              "day": 0
+            },
+            "open": {
+              "time": "0430",
+              "day": 0
+            }
+          },
+          {
+            "close": {
+              "time": "2015",
+              "day": 1
+            },
+            "open": {
+              "time": "0430",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "2015",
+              "day": 2
+            },
+            "open": {
+              "time": "0430",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "2015",
+              "day": 3
+            },
+            "open": {
+              "time": "0430",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "2015",
+              "day": 4
+            },
+            "open": {
+              "time": "0430",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "2015",
+              "day": 5
+            },
+            "open": {
+              "time": "0430",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "2015",
+              "day": 6
+            },
+            "open": {
+              "time": "0430",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "name": "ISKCON Agartala",
+        "placeId": "ChIJrVyYa_XzUzcRW77ZLwx_Kic",
+        "g_image_urls": [
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrVyYa_XzUzcRW77ZLwx_Kic_1.jpg",
+          "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrVyYa_XzUzcRW77ZLwx_Kic_2.jpg"
+        ],
+        "city": "Agartala",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 381 232 7053",
+        "g_description": "At the ISKCON Agartala Hindu temple, one can enjoy a delicious and affordable 20 rupee tiffin for breakfast consisting of puri sabzi. The temple hosts various events, including last rites and weddings performed under ISKCON norms. These ceremonies are simple yet charming, with delectable food such as fried rice, pakoda made from Banana blossom, baby corn and paneer sabzi, daal, another paneer dish, chutney, and vanilla ice cream.",
+        "country": "",
+        "image_url": "https://storage.googleapis.com/mycasavsc.appspot.com/lp_attractions/ChIJrVyYa_XzUzcRW77ZLwx_Kic_1.jpg",
+        "address": "Math Chowmuhani, NH8, Shiv Nagar, Indranagar, Agartala, Tripura 799001, India",
+        "latitude": null,
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Sacred & Religious Sites"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 20,
+  "city": "Bophut",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/109868",
+  "title": "The 29 best beaches in and around Bophut",
+  "final_title": "Bophut Bliss: Beaches to Discover",
+  "from_cache": false,
+  "counts": {
+    "meta": 29,
+    "blocks": 29,
+    "merged": 29,
+    "accepted_before_trim": 21,
+    "rejected": 8,
+    "accepted_final": 15
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 8,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "688",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\bophut_beaches_109868.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\bophut_beaches_109868.report.json"
+  },
+  "created_ts": 1759248565
+}

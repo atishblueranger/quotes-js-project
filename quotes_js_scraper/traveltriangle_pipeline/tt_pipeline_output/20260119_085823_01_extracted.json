@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Barcelona Castle Trail",
+  "placeName": "Barcelona",
+  "country": "Spain",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/castles-in-barcelona/"
+  ],
+  "description": "A sunlit soundtrack for wandering Barcelona's hilltop castles and coastal ramparts at dusk.",
+  "items": [
+    {
+      "name": "Castell De Montjuïc",
+      "description": "",
+      "location_hint": "Carretera de Montjuïc, 66 08038 Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Castillo De Torre Baró",
+      "description": "",
+      "location_hint": "Carretera Alta de les Roquetes, 328 08033 Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Can Potosí",
+      "description": "",
+      "location_hint": "Cami Sense Nom 700147, 71I, 08017 Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Castillo De San Marcial",
+      "description": "",
+      "location_hint": "BP-1413, 08290 Cerdanyola del Vallès, Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Castell De Santa Florentina",
+      "description": "",
+      "location_hint": "Avenida Doctor María Serra, S/N, 08360 Canet de Mar, Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Castell De Canals",
+      "description": "",
+      "location_hint": "Carrer Colom, 5-7, 08197 Sant Cugat del Vallès, Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Castell De Cardona",
+      "description": "",
+      "location_hint": "Lloc Parador Nacional Turisme, 506, 08261 Cardona, Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Palau Ramón Montaner",
+      "description": "",
+      "location_hint": "Carrer de Mallorca, 278, 08037 Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Casa Batllo",
+      "description": "",
+      "location_hint": "Passeig de Gracia, 43, 08007 Barcelona",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Font De Sant Just",
+      "description": "",
+      "location_hint": "Placa de Sant Just, Barcelona, Spain",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

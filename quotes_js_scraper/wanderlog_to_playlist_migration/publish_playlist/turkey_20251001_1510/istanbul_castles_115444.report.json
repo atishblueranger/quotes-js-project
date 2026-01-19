@@ -1,0 +1,35 @@
+{
+  "job_index": 4,
+  "city": "Istanbul",
+  "category_used": "castles",
+  "url": "https://wanderlog.com/list/geoCategory/115444",
+  "title": "The 49 best castles in and around Istanbul",
+  "final_title": "Castles of Istanbul: A Journey Through Time",
+  "from_cache": false,
+  "counts": {
+    "meta": 49,
+    "blocks": 49,
+    "merged": 49,
+    "accepted_before_trim": 6,
+    "rejected": 43,
+    "accepted_final": 4
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 21,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\turkey_20251001_1510\\istanbul_castles_115444.json",
+    "report_json": "publish_playlist\\turkey_20251001_1510\\istanbul_castles_115444.report.json"
+  },
+  "created_ts": 1759315953
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 2,
+  "city": "Shimla",
+  "category_used": "architecture",
+  "url": "https://wanderlog.com/list/geoCategory/97381",
+  "title": "The 35 best architecture in Shimla",
+  "final_title": "Architectural Wonders of Shimla Unveiled",
+  "from_cache": false,
+  "counts": {
+    "meta": 35,
+    "blocks": 35,
+    "merged": 35,
+    "accepted_before_trim": 34,
+    "rejected": 1,
+    "accepted_final": 24
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 1,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "615",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\shimla_20250928_1304\\shimla_architecture_97381.json",
+    "report_json": "publish_playlist\\shimla_20250928_1304\\shimla_architecture_97381.report.json"
+  },
+  "created_ts": 1759045979
+}

@@ -1,0 +1,233 @@
+# TravelTriangle Modular Pipeline Guide
+
+## Architecture Overview
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  Step 1: Extract (TravelTriangle-specific)             │
+│  Input:  URL, city, country                             │
+│  Output: tt_extracted.json                              │
+│  - Scrapes HTML (cached)                                │
+│  - AI title/description optimization                    │
+│  - Extracts places with metadata                        │
+└─────────────────────────────────────────────────────────┘
+                         │
+                         ▼
+┌─────────────────────────────────────────────────────────┐
+│  Step 2: Classify & Enrich (reuse 02_extract_items.py) │
+│  Input:  tt_extracted.json                              │
+│  Output: tt_items_classified.json                       │
+│  - LLM category classification                          │
+│  - Location hint inference                              │
+│  - Query hint generation                                │
+└─────────────────────────────────────────────────────────┘
+                         │
+                         ▼
+┌─────────────────────────────────────────────────────────┐
+│  Step 2.5: Resolve & Validate (02_5_resolve_validate)  │
+│  Input:  tt_items_classified.json                       │
+│  Output: tt_resolved.json                               │
+│  - Google Places resolution                             │
+│  - Confidence scoring                                   │
+│  - Photo ref collection                                 │
+│  - Publishability filtering (min confidence 0.80)       │
+└─────────────────────────────────────────────────────────┘
+                         │
+                         ▼
+┌─────────────────────────────────────────────────────────┐
+│  Step 3: Build & Upload (03_build_upload.py)           │
+│  Input:  tt_resolved.json                               │
+│  Output: Firestore + Cloud Storage                      │
+│  - Details enrichment (cached)                          │
+│  - Photo upload (with backfill)                         │
+│  - Cover image creation                                 │
+│  - Firestore write                                      │
+└─────────────────────────────────────────────────────────┘
+```
+
+## Benefits of Modular Approach
+
+### 1. **Caching at Each Stage**
+- HTML cache (Step 1) - Never re-fetch pages
+- AI response cache (Step 1) - Save API costs
+- LLM category cache (Step 2) - Reuse classifications
+- Google Places cache (Step 2.5) - Avoid quota waste
+- Details cache (Step 3) - Faster re-runs
+- Photo metadata cache (Step 3) - Track uploaded photos
+
+### 2. **Debuggability**
+```bash
+# Inspect outputs at each stage
+cat tt_extracted.json        # Raw extraction
+cat tt_items_classified.json # After classification
+cat tt_resolved.json         # After Google resolution
+cat resolve_report.json      # Quality metrics
+```
+
+### 3. **Flexible Re-runs**
+```bash
+# Re-extract with different AI params
+python traveltriangle_01_extract.py --url [...] --optimize-ai --title-mode catchy
+
+# Re-resolve with stricter confidence
+python 02_5_resolve_validate.py --in tt_items_classified.json --min-confidence 0.85
+
+# Re-upload with more photos
+python 03_build_upload.py --input tt_resolved.json --max-photos 5
+```
+
+### 4. **Quality Control Gates**
+- Step 1: Validates HTML structure, AI response format
+- Step 2: Ensures category taxonomy compliance
+- Step 2.5: Filters by confidence score (default 0.80)
+- Step 3: Filters to "publishable" items only
+
+## Usage Examples
+
+### Basic Pipeline (3 commands)
+
+```bash
+# 1. Extract from TravelTriangle
+python traveltriangle_01_extract.py \
+  --url "https://traveltriangle.com/blog/best-waterfalls-in-karnataka/" \
+  --city "Karnataka" \
+  --country "India" \
+  --subtype poi \
+  --optimize-ai \
+  --out tt_extracted.json
+
+# 2. Classify categories (adapt 02_extract_items.py to read single playlist JSON)
+# OR skip this if categories not needed, directly go to resolve
+
+# 2.5. Resolve with Google Places
+python 02_5_resolve_validate.py \
+  --in tt_extracted.json \
+  --out tt_resolved.json \
+  --min-confidence 0.80 \
+  --refresh-photos \
+  --anchor-state "Karnataka"
+
+# 3. Upload to Firestore
+python 03_build_upload.py \
+  --input tt_resolved.json
+```
+
+### Advanced: Batch Processing
+
+```bash
+# Create a batch script
+cat > process_tt_urls.sh << 'EOF'
+#!/bin/bash
+
+URLS=(
+  "https://traveltriangle.com/blog/places-to-visit-in-karnataka/"
+  "https://traveltriangle.com/blog/hill-stations-in-karnataka/"
+  "https://traveltriangle.com/blog/waterfalls-in-karnataka/"
+)
+
+for url in "${URLS[@]}"; do
+  # Extract basename for unique output
+  basename=$(echo "$url" | sed 's|.*/||' | sed 's|/$||')
+  
+  echo "Processing: $url"
+  
+  python traveltriangle_01_extract.py \
+    --url "$url" \
+    --city "Karnataka" \
+    --country "India" \
+    --subtype poi \
+    --optimize-ai \
+    --out "tt_${basename}.json"
+  
+  python 02_5_resolve_validate.py \
+    --in "tt_${basename}.json" \
+    --out "tt_${basename}_resolved.json" \
+    --anchor-state "Karnataka"
+  
+  python 03_build_upload.py --input "tt_${basename}_resolved.json"
+done
+EOF
+
+chmod +x process_tt_urls.sh
+./process_tt_urls.sh
+```
+
+## Comparison: Monolithic vs Modular
+
+### Your Current Single Script
+❌ No intermediate inspection
+❌ Re-fetches everything on failure
+❌ Hard to tune confidence thresholds
+❌ Mixed concerns (scraping + AI + Google + Firestore)
+✅ Simple to run (one command)
+
+### Modular Pipeline
+✅ Inspect outputs at each stage
+✅ Caching prevents redundant API calls
+✅ Easy to adjust filters/thresholds
+✅ Each script has single responsibility
+✅ Reuse existing battle-tested code (resolve_validate.py, build_upload.py)
+❌ Slightly more complex (3 commands vs 1)
+
+## Key Improvements to Apply
+
+### 1. **Add to Current TravelTriangle Script**
+```python
+# Add these from 02_5_resolve_validate.py:
+- Confidence scoring (name_sim + type_compat + distance + popularity)
+- Photo backfill with REST fallback
+- Publishability filtering (min confidence 0.80)
+- Enhanced query building with landmark hints
+
+# Add these from 03_build_upload.py:
+- Details caching
+- Photo metadata caching
+- Static map fallback
+- Cover image auto-creation
+```
+
+### 2. **Split into 3 Scripts**
+Better long-term: Keep TravelTriangle extraction separate, reuse your existing Step 2.5 and Step 3 scripts.
+
+## Recommended Next Steps
+
+**Option A: Quick Win (Enhance Current Script)**
+1. Add confidence scoring from `02_5_resolve_validate.py`
+2. Add photo backfill logic
+3. Add publishability filter (reject confidence < 0.80)
+4. Add caching layers
+
+**Option B: Full Refactor (Modular Pipeline)**
+1. Keep Step 1 TravelTriangle-specific (extraction + AI)
+2. Adapt Step 2 for category classification (optional)
+3. Reuse Step 2.5 as-is (Google resolution)
+4. Reuse Step 3 as-is (Firestore upload)
+
+I recommend **Option B** because:
+- You already have robust Step 2.5 and Step 3 scripts
+- Caching will save you lots of API quota
+- Easier to debug quality issues
+- Can batch-process multiple URLs efficiently
+
+## Migration Path
+
+```bash
+# Week 1: Split extraction
+- Create traveltriangle_01_extract.py (just scraping + AI)
+- Output: tt_extracted.json
+
+# Week 2: Wire to existing Step 2.5
+- Adapt tt_extracted.json format to match playlist_items.json schema
+- Run through 02_5_resolve_validate.py
+
+# Week 3: Wire to existing Step 3
+- Run resolved output through 03_build_upload.py
+- Verify Firestore uploads work
+
+# Week 4: Add batch processing
+- Create shell script for multiple URLs
+- Add progress tracking
+- Add error recovery
+```
+
+Would you like me to create the adapter code to make Step 2.5 and Step 3 work with TravelTriangle's output format?

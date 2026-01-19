@@ -1,0 +1,872 @@
+{
+  "script_version": "1.3.0",
+  "start_ts": 1759381323,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\spain_20251002_1031\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 1,
+      "city": "Barcelona",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106445",
+      "title": "The 17 best backpacking trails near Barcelona",
+      "final_title": "Barcelona's Hidden Trails: Coastal Adventures Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 3,
+        "rejected": 14,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\barcelona_beaches_106445.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\barcelona_beaches_106445.report.json"
+      },
+      "created_ts": 1759381356
+    },
+    {
+      "job_index": 0,
+      "city": "Barcelona",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164013",
+      "title": "The 49 most romantic places in Barcelona",
+      "final_title": "Barcelona's Enchanting Escapes for Lovers",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 47,
+        "rejected": 2,
+        "accepted_final": 29
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "972",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\barcelona_romantic-places_164013.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\barcelona_romantic-places_164013.report.json"
+      },
+      "created_ts": 1759381961
+    },
+    {
+      "job_index": 4,
+      "city": "Madrid",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164016",
+      "title": "The 49 most romantic places in Madrid",
+      "final_title": "Romantic Escapes in Enchanting Madrid",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 48,
+        "rejected": 1,
+        "accepted_final": 29
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "973",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\madrid_romantic-places_164016.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\madrid_romantic-places_164016.report.json"
+      },
+      "created_ts": 1759382530
+    },
+    {
+      "job_index": 6,
+      "city": "Madrid",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160418",
+      "title": "The 35 best photo spots in Madrid",
+      "final_title": "Capture the Magic of Madrid",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 31,
+        "rejected": 4,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 32,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "974",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\madrid_photo-spots_160418.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\madrid_photo-spots_160418.report.json"
+      },
+      "created_ts": 1759382943
+    },
+    {
+      "job_index": 8,
+      "city": "Seville",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160434",
+      "title": "The 32 best photo spots in Seville",
+      "final_title": "Seville's Picture-Perfect Moments Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 26,
+        "rejected": 6,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 28,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "975",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\seville_photo-spots_160434.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\seville_photo-spots_160434.report.json"
+      },
+      "created_ts": 1759383300
+    },
+    {
+      "job_index": 10,
+      "city": "Granada",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164076",
+      "title": "The 48 most romantic places in Granada",
+      "final_title": "Whispers of Love in Granada",
+      "from_cache": false,
+      "counts": {
+        "meta": 48,
+        "blocks": 48,
+        "merged": 48,
+        "accepted_before_trim": 47,
+        "rejected": 1,
+        "accepted_final": 29
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "976",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\granada_romantic-places_164076.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\granada_romantic-places_164076.report.json"
+      },
+      "created_ts": 1759383830
+    },
+    {
+      "job_index": 12,
+      "city": "Granada",
+      "category_used": "waterfalls",
+      "url": "https://wanderlog.com/list/geoCategory/178468",
+      "title": "The 15 best waterfalls near Granada",
+      "final_title": "Granada's Hidden Waterfall Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 1,
+        "rejected": 14,
+        "accepted_final": 1
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\granada_waterfalls_178468.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\granada_waterfalls_178468.report.json"
+      },
+      "created_ts": 1759383871
+    },
+    {
+      "job_index": 13,
+      "city": "Granada",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115503",
+      "title": "The 18 best castles in and around Granada",
+      "final_title": "Castles of Enchantment: Discovering Granada's Heritage",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 7,
+        "rejected": 11,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\granada_castles_115503.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\granada_castles_115503.report.json"
+      },
+      "created_ts": 1759383898
+    },
+    {
+      "job_index": 14,
+      "city": "Malaga",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164066",
+      "title": "The 50 most romantic places in Malaga",
+      "final_title": "Malaga's Enchanted Escapes for Lovers",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 50,
+        "rejected": 0,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "979",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\malaga_romantic-places_164066.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\malaga_romantic-places_164066.report.json"
+      },
+      "created_ts": 1759384415
+    },
+    {
+      "job_index": 16,
+      "city": "Malaga",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160468",
+      "title": "The 35 best photo spots in Malaga",
+      "final_title": "Malaga's Picture-Perfect Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 27,
+        "rejected": 8,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 30,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "980",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\malaga_photo-spots_160468.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\malaga_photo-spots_160468.report.json"
+      },
+      "created_ts": 1759384787
+    },
+    {
+      "job_index": 17,
+      "city": "Malaga",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115493",
+      "title": "The 23 best castles in and around Malaga",
+      "final_title": "Castles of Enchantment in Malaga",
+      "from_cache": false,
+      "counts": {
+        "meta": 23,
+        "blocks": 23,
+        "merged": 23,
+        "accepted_before_trim": 9,
+        "rejected": 14,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 14,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\malaga_castles_115493.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\malaga_castles_115493.report.json"
+      },
+      "created_ts": 1759384832
+    },
+    {
+      "job_index": 18,
+      "city": "Marbella",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164108",
+      "title": "The 43 most romantic places in Marbella",
+      "final_title": "Romantic Escapes in Marbella's Embrace",
+      "from_cache": false,
+      "counts": {
+        "meta": 43,
+        "blocks": 43,
+        "merged": 43,
+        "accepted_before_trim": 43,
+        "rejected": 0,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "982",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\marbella_romantic-places_164108.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\marbella_romantic-places_164108.report.json"
+      },
+      "created_ts": 1759385321
+    },
+    {
+      "job_index": 19,
+      "city": "Marbella",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106540",
+      "title": "The 26 best backpacking trails near Marbella",
+      "final_title": "Marbella's Hidden Trails and Coastal Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 13,
+        "rejected": 13,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "983",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\marbella_beaches_106540.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\marbella_beaches_106540.report.json"
+      },
+      "created_ts": 1759385489
+    },
+    {
+      "job_index": 20,
+      "city": "Marbella",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160510",
+      "title": "The 28 best photo spots in Marbella",
+      "final_title": "Picture-Perfect Marbella: Capture the Magic",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 15,
+        "rejected": 13,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 28,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "984",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\marbella_photo-spots_160510.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\marbella_photo-spots_160510.report.json"
+      },
+      "created_ts": 1759385718
+    },
+    {
+      "job_index": 21,
+      "city": "Valencia",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164046",
+      "title": "The 39 most romantic places in Valencia",
+      "final_title": "Valencia's Enchanted Escapes for Two",
+      "from_cache": false,
+      "counts": {
+        "meta": 39,
+        "blocks": 39,
+        "merged": 39,
+        "accepted_before_trim": 39,
+        "rejected": 0,
+        "accepted_final": 24
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "985",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\valencia_romantic-places_164046.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\valencia_romantic-places_164046.report.json"
+      },
+      "created_ts": 1759386160
+    },
+    {
+      "job_index": 24,
+      "city": "Palma de Mallorca",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115492",
+      "title": "The 17 best castles in and around Palma de Mallorca",
+      "final_title": "Castles of Enchantment in Palma de Mallorca",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 8,
+        "rejected": 9,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 12,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\palma-de-mallorca_malls_115492.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\palma-de-mallorca_malls_115492.report.json"
+      },
+      "created_ts": 1759386355
+    },
+    {
+      "job_index": 7,
+      "city": "Seville",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164032",
+      "title": "The 44 most romantic places in Seville",
+      "final_title": "Whispers of Love in Seville",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 44,
+        "rejected": 0,
+        "accepted_final": 27
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "987",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\seville_romantic-places_164032.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\seville_romantic-places_164032.report.json"
+      },
+      "created_ts": 1759387111
+    },
+    {
+      "job_index": 11,
+      "city": "Granada",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160478",
+      "title": "The 33 best photo spots in Granada",
+      "final_title": "Granada's Picture-Perfect Views Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 33,
+        "blocks": 33,
+        "merged": 33,
+        "accepted_before_trim": 26,
+        "rejected": 7,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 27,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "988",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\granada_photo-spots_160478.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\granada_photo-spots_160478.report.json"
+      },
+      "created_ts": 1759387466
+    },
+    {
+      "job_index": 15,
+      "city": "Malaga",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106498",
+      "title": "The 38 best backpacking trails near Malaga",
+      "final_title": "Trails of Discovery in Malaga's Mountains",
+      "from_cache": false,
+      "counts": {
+        "meta": 38,
+        "blocks": 38,
+        "merged": 38,
+        "accepted_before_trim": 10,
+        "rejected": 28,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 28,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\malaga_beaches_106498.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\malaga_beaches_106498.report.json"
+      },
+      "created_ts": 1759387552
+    },
+    {
+      "job_index": 22,
+      "city": "Valencia",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160448",
+      "title": "The 25 best photo spots in Valencia",
+      "final_title": "Picture-Perfect Valencia: Capture the Magic",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 22,
+        "rejected": 3,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 24,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "990",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\valencia_photo-spots_160448.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\valencia_photo-spots_160448.report.json"
+      },
+      "created_ts": 1759387852
+    },
+    {
+      "job_index": 23,
+      "city": "Palma de Mallorca",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164065",
+      "title": "The 36 most romantic places in Palma de Mallorca",
+      "final_title": "Romantic Escapes in Palma de Mallorca",
+      "from_cache": false,
+      "counts": {
+        "meta": 36,
+        "blocks": 36,
+        "merged": 36,
+        "accepted_before_trim": 36,
+        "rejected": 0,
+        "accepted_final": 22
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "991",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\palma-de-mallorca_malls_164065.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\palma-de-mallorca_malls_164065.report.json"
+      },
+      "created_ts": 1759388243
+    },
+    {
+      "job_index": 9,
+      "city": "Seville",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115459",
+      "title": "The 17 best castles in and around Seville",
+      "final_title": "Castles of Enchantment: Discover Seville's Fortresses",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 2,
+        "rejected": 15,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\seville_castles_115459.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\seville_castles_115459.report.json"
+      },
+      "created_ts": 1759388284
+    },
+    {
+      "job_index": 26,
+      "city": "Cordoba",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160577",
+      "title": "The 24 best photo spots in Cordoba",
+      "final_title": "Cordoba's Captivating Photo Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 21,
+        "rejected": 3,
+        "accepted_final": 13
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 22,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "993",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\cordoba_photo-spots_160577.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\cordoba_photo-spots_160577.report.json"
+      },
+      "created_ts": 1759388585
+    },
+    {
+      "job_index": 3,
+      "city": "Barcelona",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115440",
+      "title": "The 44 best castles in and around Barcelona",
+      "final_title": "Castles and Views: Barcelona's Hidden Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 8,
+        "rejected": 36,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\spain_20251002_1031\\barcelona_castles_115440.json",
+        "report_json": "publish_playlist\\spain_20251002_1031\\barcelona_castles_115440.report.json"
+      },
+      "created_ts": 1759388665
+    }
+  ],
+  "end_ts": 1759388666,
+  "finish_reason": "finished",
+  "failures_count": 3,
+  "failures_file": "publish_playlist\\spain_20251002_1031\\_failed_jobs.json",
+  "rerun_dataset_file": "publish_playlist\\spain_20251002_1031\\_rerun_dataset.json",
+  "cache_stats": {
+    "llm_validation_calls": 330,
+    "llm_title_calls": 24,
+    "google_places_calls": 285,
+    "cache_hits": 43,
+    "cache_misses": 666
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 330,
+    "llm_title_cache": 24,
+    "google_places_cache": 285,
+    "mobx_data_cache": 24
+  }
+}

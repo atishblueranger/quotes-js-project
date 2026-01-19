@@ -1,0 +1,35 @@
+{
+  "job_index": 32,
+  "city": "Dalyan",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/110599",
+  "title": "The 21 best beaches in and around Dalyan",
+  "final_title": "Sun-Kissed Shores of Dalyan",
+  "from_cache": false,
+  "counts": {
+    "meta": 21,
+    "blocks": 21,
+    "merged": 21,
+    "accepted_before_trim": 5,
+    "rejected": 16,
+    "accepted_final": 3
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 18,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\turkey_20251001_1510\\dalyan_beaches_110599.json",
+    "report_json": "publish_playlist\\turkey_20251001_1510\\dalyan_beaches_110599.report.json"
+  },
+  "created_ts": 1759315881
+}

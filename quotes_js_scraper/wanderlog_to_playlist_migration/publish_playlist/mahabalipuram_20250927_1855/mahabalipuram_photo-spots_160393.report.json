@@ -1,0 +1,35 @@
+{
+  "job_index": 1,
+  "city": "Mahabalipuram",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160393",
+  "title": "The 25 best photo spots in Mahabalipuram",
+  "final_title": "Capturing Mahabalipuram's Timeless Treasures",
+  "from_cache": false,
+  "counts": {
+    "meta": 25,
+    "blocks": 25,
+    "merged": 25,
+    "accepted_before_trim": 23,
+    "rejected": 2,
+    "accepted_final": 17
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 23,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "595",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\mahabalipuram_20250927_1855\\mahabalipuram_photo-spots_160393.json",
+    "report_json": "publish_playlist\\mahabalipuram_20250927_1855\\mahabalipuram_photo-spots_160393.report.json"
+  },
+  "created_ts": 1758980014
+}

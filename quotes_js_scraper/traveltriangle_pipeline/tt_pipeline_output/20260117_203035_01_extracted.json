@@ -1,0 +1,62 @@
+{
+  "playlistTitle": "Italian Museum Gems",
+  "placeName": "Italy",
+  "country": "Italy",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-italy/"
+  ],
+  "description": "Wandering Italy's museum halls: timeless masterpieces, hidden frescoes, and quiet reverence.",
+  "items": [
+    {
+      "name": "Uffizi Gallery, Florence",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1650"
+    },
+    {
+      "name": "Galleria Borghese, Rome",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1680 (via online reservation)"
+    },
+    {
+      "name": "Doge Palace, Venice",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1640"
+    },
+    {
+      "name": "Museo Egizio, Turin",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1230"
+    },
+    {
+      "name": "Museo Ferrari, Maranello",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1300"
+    },
+    {
+      "name": "National Archeological Museum, Naples",
+      "description": "For people who love to delve into ancient Italian/Roman history, the National Archeological Museum in Naples is the place to visit. What gives this establishment a distinguished position among the museums in Italy is its invaluable ancient Roman and Greek artefacts that belong to places like Pompeii and Herculaneum.",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 990"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

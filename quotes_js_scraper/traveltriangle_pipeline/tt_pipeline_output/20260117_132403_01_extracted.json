@@ -1,0 +1,97 @@
+{
+  "playlistTitle": "Offbeat Finnish Villages",
+  "placeName": "Finland",
+  "country": "Finland",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/villages-in-finland/"
+  ],
+  "description": "Wandering through Finland's hidden villages: mossy lanes, sauna smoke, quiet lakeside mornings.",
+  "items": [
+    {
+      "name": "Hanko",
+      "description": "",
+      "location_hint": "Western part of the Uusimaa region, Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Hossa",
+      "description": "",
+      "location_hint": "Oulu Province, Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Saariselkä",
+      "description": "",
+      "location_hint": "Finnish Lapland, Northern Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Naantali",
+      "description": "",
+      "location_hint": "Southwest Coast, Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Savonlinna",
+      "description": "",
+      "location_hint": "Finnish Lakeland, Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lohja",
+      "description": "",
+      "location_hint": "Southern Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Salla",
+      "description": "",
+      "location_hint": "Finnish Lapland, Northern Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Rauma",
+      "description": "",
+      "location_hint": "Western coast, Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Inari",
+      "description": "",
+      "location_hint": "Lapland, Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ruka",
+      "description": "",
+      "location_hint": "Kuusamo, Northern Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Hamina",
+      "description": "",
+      "location_hint": "Southern coast, Finland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

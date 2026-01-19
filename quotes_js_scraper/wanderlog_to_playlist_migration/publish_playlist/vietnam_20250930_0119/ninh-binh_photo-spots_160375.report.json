@@ -1,0 +1,35 @@
+{
+  "job_index": 27,
+  "city": "Ninh Binh",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160375",
+  "title": "The 40 best photo spots in Ninh Binh",
+  "final_title": "Ninh Binh's Picture-Perfect Wonders",
+  "from_cache": false,
+  "counts": {
+    "meta": 40,
+    "blocks": 40,
+    "merged": 40,
+    "accepted_before_trim": 34,
+    "rejected": 6,
+    "accepted_final": 24
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 32,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "661",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\vietnam_20250930_0119\\ninh-binh_photo-spots_160375.json",
+    "report_json": "publish_playlist\\vietnam_20250930_0119\\ninh-binh_photo-spots_160375.report.json"
+  },
+  "created_ts": 1759177491
+}

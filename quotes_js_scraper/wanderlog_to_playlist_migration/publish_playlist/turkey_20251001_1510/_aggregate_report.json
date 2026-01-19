@@ -1,0 +1,1082 @@
+{
+  "script_version": "1.3.0",
+  "start_ts": 1759311631,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\turkey_20251001_1510\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Istanbul",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164017",
+      "title": "The 49 most romantic places in Istanbul",
+      "final_title": "Whispers of Love in Istanbul",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 49,
+        "rejected": 0,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "829",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\istanbul_romantic-places_164017.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\istanbul_romantic-places_164017.report.json"
+      },
+      "created_ts": 1759312294
+    },
+    {
+      "job_index": 3,
+      "city": "Istanbul",
+      "category_used": "art galleries",
+      "url": "https://wanderlog.com/list/geoCategory/99253",
+      "title": "The 50 best art galleries in Istanbul",
+      "final_title": "Artful Journeys Through Istanbul's Gallery Scene",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 13,
+        "rejected": 37,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "830",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\istanbul_beaches_99253.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\istanbul_beaches_99253.report.json"
+      },
+      "created_ts": 1759312521
+    },
+    {
+      "job_index": 5,
+      "city": "Ankara",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164086",
+      "title": "The 20 most romantic places in Ankara",
+      "final_title": "Whispers of Love in Ankara's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 19,
+        "rejected": 1,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "831",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\ankara_romantic-places_164086.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\ankara_romantic-places_164086.report.json"
+      },
+      "created_ts": 1759312802
+    },
+    {
+      "job_index": 7,
+      "city": "Ankara",
+      "category_used": "art galleries",
+      "url": "https://wanderlog.com/list/geoCategory/99322",
+      "title": "The 50 best art galleries in Ankara",
+      "final_title": "Artful Adventures in Ankara's Galleries",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 24,
+        "rejected": 26,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 36,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "832",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\ankara_beaches_99322.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\ankara_beaches_99322.report.json"
+      },
+      "created_ts": 1759313189
+    },
+    {
+      "job_index": 10,
+      "city": "Antalya",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110131",
+      "title": "The 28 best beaches in and around Antalya",
+      "final_title": "Antalya's Coastal Paradise: Beach Bliss Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 23,
+        "rejected": 5,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 3,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "833",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\antalya_beaches_110131.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\antalya_beaches_110131.report.json"
+      },
+      "created_ts": 1759313519
+    },
+    {
+      "job_index": 12,
+      "city": "Antalya",
+      "category_used": "art galleries",
+      "url": "https://wanderlog.com/list/geoCategory/99337",
+      "title": "The 39 best art galleries in Antalya",
+      "final_title": "Artful Adventures in Antalya's Gallery Scene",
+      "from_cache": false,
+      "counts": {
+        "meta": 39,
+        "blocks": 39,
+        "merged": 39,
+        "accepted_before_trim": 4,
+        "rejected": 35,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 16,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\antalya_beaches_99337.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\antalya_beaches_99337.report.json"
+      },
+      "created_ts": 1759313567
+    },
+    {
+      "job_index": 14,
+      "city": "Izmir",
+      "category_used": "art galleries",
+      "url": "https://wanderlog.com/list/geoCategory/99355",
+      "title": "The 39 best art galleries in Izmir",
+      "final_title": "Artful Adventures in Izmir's Galleries",
+      "from_cache": false,
+      "counts": {
+        "meta": 39,
+        "blocks": 39,
+        "merged": 39,
+        "accepted_before_trim": 9,
+        "rejected": 30,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 23,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\izmir_beaches_99355.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\izmir_beaches_99355.report.json"
+      },
+      "created_ts": 1759313655
+    },
+    {
+      "job_index": 13,
+      "city": "Izmir",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160521",
+      "title": "The 34 best photo spots in Izmir",
+      "final_title": "Picture-Perfect Izmir: Capture the Charm",
+      "from_cache": false,
+      "counts": {
+        "meta": 34,
+        "blocks": 34,
+        "merged": 34,
+        "accepted_before_trim": 26,
+        "rejected": 8,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 32,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "836",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\izmir_photo-spots_160521.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\izmir_photo-spots_160521.report.json"
+      },
+      "created_ts": 1759314016
+    },
+    {
+      "job_index": 16,
+      "city": "Marmaris",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115638",
+      "title": "The 16 best castles in and around Marmaris",
+      "final_title": "Castles and Coasts: Discovering Marmaris",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 3,
+        "rejected": 13,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 12,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\marmaris_castles_115638.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\marmaris_castles_115638.report.json"
+      },
+      "created_ts": 1759314057
+    },
+    {
+      "job_index": 17,
+      "city": "Bodrum City",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164229",
+      "title": "The 20 most romantic places in Bodrum City",
+      "final_title": "Romantic Escapes in Enchanting Bodrum",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 19,
+        "rejected": 1,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "838",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_romantic-places_164229.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_romantic-places_164229.report.json"
+      },
+      "created_ts": 1759314285
+    },
+    {
+      "job_index": 18,
+      "city": "Bodrum City",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110259",
+      "title": "The 27 best beaches in and around Bodrum City",
+      "final_title": "Beautiful Beaches of Bodrum City",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 17,
+        "rejected": 10,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "839",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_beaches_110259.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_beaches_110259.report.json"
+      },
+      "created_ts": 1759314527
+    },
+    {
+      "job_index": 19,
+      "city": "Bodrum City",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160631",
+      "title": "The 21 best photo spots in Bodrum City",
+      "final_title": "Capturing Bodrum: A Photogenic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 12,
+        "rejected": 9,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "840",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_photo-spots_160631.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_photo-spots_160631.report.json"
+      },
+      "created_ts": 1759314735
+    },
+    {
+      "job_index": 20,
+      "city": "Bodrum City",
+      "category_used": "art galleries",
+      "url": "https://wanderlog.com/list/geoCategory/99465",
+      "title": "The 16 best art galleries in Bodrum City",
+      "final_title": "Artful Adventures in Bodrum's Galleries",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 3,
+        "rejected": 13,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 7,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_beaches_99465.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_beaches_99465.report.json"
+      },
+      "created_ts": 1759314754
+    },
+    {
+      "job_index": 21,
+      "city": "Bodrum City",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115656",
+      "title": "The 25 best castles in and around Bodrum City",
+      "final_title": "Castles of Enchantment: Discovering Bodrum's Rich Heritage",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 2,
+        "rejected": 23,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_castles_115656.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\bodrum-city_castles_115656.report.json"
+      },
+      "created_ts": 1759314805
+    },
+    {
+      "job_index": 22,
+      "city": "Fethiye",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110269",
+      "title": "The 22 best beaches in and around Fethiye",
+      "final_title": "Sun-Kissed Shores of Fethiye",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 20,
+        "rejected": 2,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "843",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\fethiye_beaches_110269.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\fethiye_beaches_110269.report.json"
+      },
+      "created_ts": 1759315045
+    },
+    {
+      "job_index": 23,
+      "city": "Fethiye",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160641",
+      "title": "The 15 best photo spots in Fethiye",
+      "final_title": "Fethiye's Picture-Perfect Hidden Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 12,
+        "rejected": 3,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "844",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\fethiye_photo-spots_160641.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\fethiye_photo-spots_160641.report.json"
+      },
+      "created_ts": 1759315211
+    },
+    {
+      "job_index": 26,
+      "city": "Alanya",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110310",
+      "title": "The 27 best beaches in and around Alanya",
+      "final_title": "Alanya's Coastal Paradise: Beach Bliss Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 15,
+        "rejected": 12,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "845",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\alanya_beaches_110310.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\alanya_beaches_110310.report.json"
+      },
+      "created_ts": 1759315417
+    },
+    {
+      "job_index": 28,
+      "city": "Kas",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110338",
+      "title": "The 31 best beaches in and around Kas",
+      "final_title": "Beautiful Beaches of Kas",
+      "from_cache": false,
+      "counts": {
+        "meta": 31,
+        "blocks": 31,
+        "merged": 31,
+        "accepted_before_trim": 17,
+        "rejected": 14,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "846",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\kas_beaches_110338.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\kas_beaches_110338.report.json"
+      },
+      "created_ts": 1759315657
+    },
+    {
+      "job_index": 30,
+      "city": "Oludeniz",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164353",
+      "title": "The 15 most romantic places in Oludeniz",
+      "final_title": "Love in the Air: Oludeniz Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 15,
+        "rejected": 0,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "847",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\oludeniz_romantic-places_164353.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\oludeniz_romantic-places_164353.report.json"
+      },
+      "created_ts": 1759315829
+    },
+    {
+      "job_index": 32,
+      "city": "Dalyan",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110599",
+      "title": "The 21 best beaches in and around Dalyan",
+      "final_title": "Sun-Kissed Shores of Dalyan",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 5,
+        "rejected": 16,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 18,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\dalyan_beaches_110599.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\dalyan_beaches_110599.report.json"
+      },
+      "created_ts": 1759315881
+    },
+    {
+      "job_index": 33,
+      "city": "Pamukkale",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/116102",
+      "title": "The 16 best castles in and around Pamukkale",
+      "final_title": "Enchanted Fortresses of Pamukkale",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 1,
+        "rejected": 15,
+        "accepted_final": 1
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\pamukkale_castles_116102.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\pamukkale_castles_116102.report.json"
+      },
+      "created_ts": 1759315907
+    },
+    {
+      "job_index": 4,
+      "city": "Istanbul",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115444",
+      "title": "The 49 best castles in and around Istanbul",
+      "final_title": "Castles of Istanbul: A Journey Through Time",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 6,
+        "rejected": 43,
+        "accepted_final": 4
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\istanbul_castles_115444.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\istanbul_castles_115444.report.json"
+      },
+      "created_ts": 1759315953
+    },
+    {
+      "job_index": 6,
+      "city": "Ankara",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160488",
+      "title": "The 29 best photo spots in Ankara",
+      "final_title": "Capturing Ankara: A Photographic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 29,
+        "blocks": 29,
+        "merged": 29,
+        "accepted_before_trim": 25,
+        "rejected": 4,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 28,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "851",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\ankara_photo-spots_160488.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\ankara_photo-spots_160488.report.json"
+      },
+      "created_ts": 1759316256
+    },
+    {
+      "job_index": 9,
+      "city": "Antalya",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164101",
+      "title": "The 24 most romantic places in Antalya",
+      "final_title": "Whispers of Love in Antalya's Embrace",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 24,
+        "rejected": 0,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "852",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\antalya_romantic-places_164101.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\antalya_romantic-places_164101.report.json"
+      },
+      "created_ts": 1759316528
+    },
+    {
+      "job_index": 15,
+      "city": "Kusadasi",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110237",
+      "title": "The 28 best beaches in and around Kusadasi",
+      "final_title": "Sun-Kissed Shores of Kusadasi",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 18,
+        "rejected": 10,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "853",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\kusadasi_beaches_110237.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\kusadasi_beaches_110237.report.json"
+      },
+      "created_ts": 1759316746
+    },
+    {
+      "job_index": 24,
+      "city": "Goreme",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160642",
+      "title": "The 20 best photo spots in Goreme",
+      "final_title": "Capturing Goreme: A Photographic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 14,
+        "rejected": 6,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 17,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "854",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\goreme_photo-spots_160642.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\goreme_photo-spots_160642.report.json"
+      },
+      "created_ts": 1759316945
+    },
+    {
+      "job_index": 25,
+      "city": "Alanya",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164280",
+      "title": "The 13 most romantic places in Alanya",
+      "final_title": "Whispers of Love in Alanya's Embrace",
+      "from_cache": false,
+      "counts": {
+        "meta": 13,
+        "blocks": 13,
+        "merged": 13,
+        "accepted_before_trim": 13,
+        "rejected": 0,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "855",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\alanya_romantic-places_164280.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\alanya_romantic-places_164280.report.json"
+      },
+      "created_ts": 1759317091
+    },
+    {
+      "job_index": 29,
+      "city": "Bursa",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160732",
+      "title": "The 22 best photo spots in Bursa",
+      "final_title": "Bursa's Captivating Clicks: A Photo Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 18,
+        "rejected": 4,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "856",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\bursa_photo-spots_160732.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\bursa_photo-spots_160732.report.json"
+      },
+      "created_ts": 1759317339
+    },
+    {
+      "job_index": 31,
+      "city": "Oludeniz",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110383",
+      "title": "The 25 best beaches in and around Oludeniz",
+      "final_title": "Sun-Kissed Shores of Oludeniz",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 19,
+        "rejected": 6,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "857",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\oludeniz_beaches_110383.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\oludeniz_beaches_110383.report.json"
+      },
+      "created_ts": 1759317570
+    },
+    {
+      "job_index": 11,
+      "city": "Antalya",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160503",
+      "title": "The 30 best photo spots in Antalya",
+      "final_title": "Picture-Perfect Moments in Antalya",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 19,
+        "rejected": 11,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 29,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "858",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\turkey_20251001_1510\\antalya_photo-spots_160503.json",
+        "report_json": "publish_playlist\\turkey_20251001_1510\\antalya_photo-spots_160503.report.json"
+      },
+      "created_ts": 1759317848
+    }
+  ],
+  "end_ts": 1759317849,
+  "finish_reason": "finished",
+  "failures_count": 4,
+  "failures_file": "publish_playlist\\turkey_20251001_1510\\_failed_jobs.json",
+  "rerun_dataset_file": "publish_playlist\\turkey_20251001_1510\\_rerun_dataset.json",
+  "cache_stats": {
+    "llm_validation_calls": 399,
+    "llm_title_calls": 30,
+    "google_places_calls": 238,
+    "cache_hits": 30,
+    "cache_misses": 701
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 399,
+    "llm_title_cache": 30,
+    "google_places_cache": 238,
+    "mobx_data_cache": 30
+  }
+}

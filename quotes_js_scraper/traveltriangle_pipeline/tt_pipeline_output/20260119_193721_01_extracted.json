@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "British Gallery Gems",
+  "placeName": "the-united-kingdom",
+  "country": "the-united-kingdom",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-united-kingdom/"
+  ],
+  "description": "Stroll British galleries: portraits and modern classics to soundtrack your museum wanderings.",
+  "items": [
+    {
+      "name": "National Railway Museum",
+      "description": "",
+      "location_hint": "Leeman Road, York, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "National Museum of Scotland",
+      "description": "",
+      "location_hint": "Chambers Street, Edinburgh, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Tate Modern",
+      "description": "",
+      "location_hint": "Bankside, London, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Roman Baths",
+      "description": "",
+      "location_hint": "Stall Street, Bath, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1600"
+    },
+    {
+      "name": "SS Great Britain",
+      "description": "",
+      "location_hint": "Great Western Dockyard, Gas Ferry Road, Bristol, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "INR 1600"
+    },
+    {
+      "name": "Natural History Museum",
+      "description": "",
+      "location_hint": "Cromwell Road, Kensington, London, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Science Museum",
+      "description": "",
+      "location_hint": "Exhibition Road, Kensington, London, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "International Slavery Museum",
+      "description": "",
+      "location_hint": "Liverpool, United Kingdom",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Kelvingrove Art Gallery & Museum",
+      "description": "",
+      "location_hint": "Argyle Street, Glasgow, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "National Maritime Museum",
+      "description": "",
+      "location_hint": "Park Row, London, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

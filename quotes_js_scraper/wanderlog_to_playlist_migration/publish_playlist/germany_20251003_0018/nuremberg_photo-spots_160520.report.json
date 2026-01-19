@@ -1,0 +1,35 @@
+{
+  "job_index": 29,
+  "city": "Nuremberg",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160520",
+  "title": "The 32 best photo spots in Nuremberg",
+  "final_title": "Nuremberg's Picture-Perfect Discoveries",
+  "from_cache": false,
+  "counts": {
+    "meta": 32,
+    "blocks": 32,
+    "merged": 32,
+    "accepted_before_trim": 22,
+    "rejected": 10,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 28,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "1009",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\germany_20251003_0018\\nuremberg_photo-spots_160520.json",
+    "report_json": "publish_playlist\\germany_20251003_0018\\nuremberg_photo-spots_160520.report.json"
+  },
+  "created_ts": 1759435762
+}

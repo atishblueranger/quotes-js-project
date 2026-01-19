@@ -1,0 +1,62 @@
+{
+  "playlistTitle": "Fiji Beach Bliss",
+  "placeName": "Fiji",
+  "country": "Fiji",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-in-fiji/"
+  ],
+  "description": "Drift into turquoise calm with mellow island beats—your Fiji Beach Bliss soundtrack for sunlit escape.",
+  "items": [
+    {
+      "name": "Natadola Beach",
+      "description": "",
+      "location_hint": "Natadola Beach, Fiji",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Liku Beach",
+      "description": "",
+      "location_hint": "Malolo Island, Malolo",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Vomo Island Beach",
+      "description": "",
+      "location_hint": "Vomo Island, Mamanuca Group of Islands, Vomo",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Seagrass Bay",
+      "description": "",
+      "location_hint": "Laucala Island, Fiji",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Horseshoe Bay",
+      "description": "",
+      "location_hint": "Matangi Private Island Resort, Fiji",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Koro Levu Island",
+      "description": "",
+      "location_hint": "Koro Island, Fiji",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

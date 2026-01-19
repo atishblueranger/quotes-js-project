@@ -1,0 +1,97 @@
+{
+  "playlistTitle": "French Village Escapade",
+  "placeName": "France",
+  "country": "France",
+  "category": "Travel",
+  "subtype": "destination",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/villages-in-france/"
+  ],
+  "description": "Wander cobbled lanes and sip café au lait—soundtrack for sunlit plazas and secret Provençal corners.",
+  "items": [
+    {
+      "name": "Chamonix",
+      "description": "",
+      "location_hint": "Haute-Savoie department, Auvergne-Rhone Alpes region, Southeastern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Annecy",
+      "description": "",
+      "location_hint": "Haute-Savoie department, Auvergne-Rhone Alpes region, Southeastern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "La Grave",
+      "description": "",
+      "location_hint": "Hautes-Alpes department, Southeastern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Les Gets",
+      "description": "",
+      "location_hint": "In the Haute-Savoie department, Auvergne-Rhone-Alpes Region, France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Eguisheim",
+      "description": "",
+      "location_hint": "Haut-Rhin department, Grand Est Region, Northeastern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Rocamadour",
+      "description": "",
+      "location_hint": "Lot department, Occitanie region, Southwestern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Gordes",
+      "description": "",
+      "location_hint": "Vaucluse department, Provence-Alpes-Cote d'Azur region, Southeastern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Saint-Paul-de-Vence",
+      "description": "",
+      "location_hint": "Alpes-Maritimes department, Provence-Alpes-Cote d'Azur region, Southeastern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Beynac-et-Cazenac",
+      "description": "",
+      "location_hint": "Dordogne department, Nouvelle-Aquitaine region, Southwestern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Saint Emilion",
+      "description": "",
+      "location_hint": "Gironde department, Nouvelle Aquitaine region, Southwestern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Veules les Roses",
+      "description": "",
+      "location_hint": "Seine-Maritime department, Normandy region, Northern France",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

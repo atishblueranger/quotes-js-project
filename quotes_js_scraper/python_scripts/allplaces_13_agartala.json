@@ -1,0 +1,132 @@
+{
+  "_id": "909",
+  "city_name": "Agartala",
+  "is_searchable": true,
+  "place_id": 909,
+  "country_name": "India",
+  "city_name_search": "agartala",
+  "longitude": 91.29324,
+  "parent_id": 87037,
+  "popularity": 831,
+  "manual_description": null,
+  "subcategory": "city",
+  "state_name": "Tripura",
+  "bounds": [
+    91.22734,
+    23.77564,
+    91.36136,
+    23.92654
+  ],
+  "position": {
+    "geohash": "wh0ztkmwq",
+    "geopoint": {
+      "latitude": 23.84281,
+      "longitude": 91.29324
+    }
+  },
+  "latitude": 23.84281,
+  "image_key": "q6UB0nlCCN9m6HdcV2xR45MjqX9EMLLP",
+  "depth": 4,
+  "place_description": "Agartala is the capital city of Tripura, a northeast Indian state. The huge, white Ujjayanta Palace, built in 1901 by Maharaja Radha Kishore Manikya, has Mughal-style gardens with fountains. It houses the Tripura Government Museum, where displays include 9th-century sculptures. Nearby, ornate columns and pointed domes mark the Hindu temple Jagannath Bari. North, Rabindra Kanan park has flowerbeds and a puppet house.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "India"
+      },
+      {
+        "_id": "87038",
+        "subcategory": "state",
+        "parentId": 86661,
+        "countryName": "India",
+        "id": 87038,
+        "longitude": 91.29324,
+        "bounds": [
+          91.14968,
+          22.93731,
+          92.336,
+          24.53198
+        ],
+        "latitude": 23.84281,
+        "depth": 2,
+        "stateName": null,
+        "popularity": 0,
+        "name": "Tripura"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "283",
+        "subcategory": "city",
+        "parentId": 86850,
+        "countryName": "Bangladesh",
+        "id": 283,
+        "longitude": 90.40077,
+        "bounds": [
+          90.32955,
+          23.66127,
+          90.5091,
+          23.9
+        ],
+        "latitude": 23.711224,
+        "depth": 3,
+        "stateName": "Dhaka Division",
+        "popularity": 4693,
+        "name": "Dhaka City"
+      },
+      {
+        "_id": "86851",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86851,
+        "longitude": 90.22033,
+        "bounds": [
+          88.00861,
+          20.3794,
+          92.68012,
+          26.63391
+        ],
+        "latitude": 24.189028,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "Bangladesh"
+      },
+      {
+        "_id": "87038",
+        "subcategory": "state",
+        "parentId": 86661,
+        "countryName": "India",
+        "id": 87038,
+        "longitude": 91.29324,
+        "bounds": [
+          91.14968,
+          22.93731,
+          92.336,
+          24.53198
+        ],
+        "latitude": 23.84281,
+        "depth": 2,
+        "stateName": null,
+        "popularity": 0,
+        "name": "Tripura"
+      }
+    ]
+  }
+}

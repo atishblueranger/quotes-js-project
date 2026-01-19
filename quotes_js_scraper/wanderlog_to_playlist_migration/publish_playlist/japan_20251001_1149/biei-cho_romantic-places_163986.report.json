@@ -1,0 +1,35 @@
+{
+  "job_index": 62,
+  "city": "Biei-cho",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/163986",
+  "title": "The 2 most romantic places in Biei-cho",
+  "final_title": "Whispers of Love in Biei-cho",
+  "from_cache": false,
+  "counts": {
+    "meta": 2,
+    "blocks": 2,
+    "merged": 2,
+    "accepted_before_trim": 2,
+    "rejected": 0,
+    "accepted_final": 2
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\japan_20251001_1149\\biei-cho_romantic-places_163986.json",
+    "report_json": "publish_playlist\\japan_20251001_1149\\biei-cho_romantic-places_163986.report.json"
+  },
+  "created_ts": 1759310336
+}

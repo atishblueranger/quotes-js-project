@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Iceland Beach Bliss",
+  "placeName": "Iceland",
+  "country": "Iceland",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-in-iceland/"
+  ],
+  "description": "Drift on cold sand and basalt rhythms—sonic tides for midnight sun walks along Icelandic shores.",
+  "items": [
+    {
+      "name": "Black Sand Beach",
+      "description": "",
+      "location_hint": "Reynisfjara",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Diamond Beach",
+      "description": "",
+      "location_hint": "Jökulsárlón Glacier Lagoon, South-East Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Nautholsvik Beach",
+      "description": "",
+      "location_hint": "Reykjavik (Greater Reykjavik Area)",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Solheimasandur Beach",
+      "description": "",
+      "location_hint": "Solheimasandur, Iceland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Stokksnes Beach",
+      "description": "",
+      "location_hint": "Vestrahorn",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Dyrholaey Beach",
+      "description": "",
+      "location_hint": "Vik",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ytri-Tunga Beach",
+      "description": "",
+      "location_hint": "Snæfellsness",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Djúpalónssandur Beach",
+      "description": "",
+      "location_hint": "Snæfellsness",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Rauðisandur Beach",
+      "description": "",
+      "location_hint": "Westfjords",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Búðir Beach",
+      "description": "",
+      "location_hint": "Snæfellsness Peninsula",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

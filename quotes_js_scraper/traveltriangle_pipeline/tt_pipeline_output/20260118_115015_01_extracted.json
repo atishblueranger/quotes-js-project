@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Quezon City Museum Hop",
+  "placeName": "Quezon-city",
+  "country": "Philippines",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-quezon-city/"
+  ],
+  "description": "Wander Quezon City's museum trail—soundtrack for sunny galleries, hidden histories, and late coffee stops.",
+  "items": [
+    {
+      "name": "The Mind Museum",
+      "description": "",
+      "location_hint": "The Mind Museum, JY Campos Park, 3rd Ave, Taguig, 1634 Metro Manila, Philippines",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Art In Island",
+      "description": "This museum has photo ops and 3D illustrations that let you interact with the art displayed in the museum. The Art In Island has opened doors for an interactive platform that lets you dwell into the art and take pictures with it, you can touch, interact, take photos and videos at this museum without anybody stopping you to. Become on with art and enjoy this experience at this full 3D museum.",
+      "location_hint": "Art In Island, 175 15th Ave, Cubao, Quezon City, 1109 Metro Manila, Philippines",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Quezon City Experience (QCX)",
+      "description": "",
+      "location_hint": "Quezon City Experience (QCX), Quezon Memorial Circle, Diliman, Quezon City, Metro Manila, Philippines",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Arts Above",
+      "description": "",
+      "location_hint": "Arts Above, 112 West Ave, Quezon City, Metro Manila, Philippines",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Jorge B. Vargas Museum and Filipiniana Research Center",
+      "description": "",
+      "location_hint": "Jorge B. Vargas Museum and Filipiniana Research Center, Roxas Ave, Diliman, Quezon City, Metro Manila, Philippines",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Armed Forces of the Philippines Museum",
+      "description": "",
+      "location_hint": "Armed Forces of the Philippines Museum. General Arturo Building, Capinpin Ave, Lungsod Quezon, Kalakhang Maynila, Philippines",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Philippine Science Centrum",
+      "description": "",
+      "location_hint": "Philippine Science Centrum, E-Com Building, Riverbanks Center, Barangka, Marikina City",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Marikina Shoe Museum",
+      "description": "",
+      "location_hint": "Marikina Shoe Museum, J.P. Rizal St., San Roque, Marikina City",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

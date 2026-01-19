@@ -1,0 +1,35 @@
+{
+  "job_index": 31,
+  "city": "Ravello",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160977",
+  "title": "The 21 best photo spots in Ravello",
+  "final_title": "Capturing Ravello: A Photographic Journey",
+  "from_cache": false,
+  "counts": {
+    "meta": 21,
+    "blocks": 21,
+    "merged": 21,
+    "accepted_before_trim": 10,
+    "rejected": 11,
+    "accepted_final": 6
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 18,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\italy_20251001_2051\\ravello_photo-spots_160977.json",
+    "report_json": "publish_playlist\\italy_20251001_2051\\ravello_photo-spots_160977.report.json"
+  },
+  "created_ts": 1759337733
+}

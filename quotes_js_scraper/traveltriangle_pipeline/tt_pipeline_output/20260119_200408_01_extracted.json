@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Chicago's Secret Spots",
+  "placeName": "Chicago",
+  "country": "USA",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hidden-gems-in-chicago/"
+  ],
+  "description": "A soundtrack for Chicago's hidden rooftops, lakefront alleys, late-night jazz and secret corners.",
+  "items": [
+    {
+      "name": "Alfred Caldwell Lily Pool",
+      "description": "",
+      "location_hint": "125 W Fullerton Pkwy, Chicago, IL 60614, USA",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "The 606",
+      "description": "",
+      "location_hint": "1805 N Ridgeway Ave, Chicago, IL 60647, USA",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Chicago Riverwalk",
+      "description": "",
+      "location_hint": "22 E Wacker Dr, Chicago, IL 60601, USA",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "The Secret Mermaid Sculpture",
+      "description": "",
+      "location_hint": "Chicago, IL 60653, USA",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Harold Washington Library Center’s Winter Garden",
+      "description": "",
+      "location_hint": "400 S State St, Chicago, IL 60605, USA",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "BAPS Shri Swaminarayan Mandir",
+      "description": "",
+      "location_hint": "1851 Pramukh Swami Maharaj Rd, Bartlett, IL 60103, USA",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Garfield Park Conservatory",
+      "description": "",
+      "location_hint": "300 N Central Park Ave, Chicago, IL 60624, USA",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Montrose Point Bird Sanctuary",
+      "description": "",
+      "location_hint": "Chicago, IL 60640, United States",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

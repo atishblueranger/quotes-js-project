@@ -1,0 +1,1678 @@
+[
+    {
+        "placeId": "ChIJhbKKRJgEyIkRQKX60MnK3dU",
+        "website": "https://thewalters.org/",
+        "index": 1,
+        "utcOffset": -240,
+        "longitude": -76.616498,
+        "latitude": 39.296425,
+        "rating": 4.8,
+        "excerpt": "Historic 3-building gallery with paintings & artifacts from ancient times to the present.",
+        "detail_description": "The Walters Art Museum is a historic gallery in Baltimore, known for its diverse collection of paintings and artifacts spanning from ancient times to the present. Once considered a blue-collar town with a gritty reputation, Baltimore has undergone a transformation into a vibrant cultural hub. The city now offers contemporary museums, sophisticated dining options, and a reimagined Inner Harbor that attracts art enthusiasts, outdoor lovers, and history buffs.",
+        "imageKeys": [
+            "IznBygWA5dD8YshWT2UUfQ5fuGaKDygB",
+            "XpGcZfAUUkfY2LzoIKTtkK7osVcnUVHL",
+            "U0rgYRbxgiJSFkEHqGFLbBvFEQkVY9Cq",
+            "L68WoSiRarpazXBC7ZWexdxcpJnZUPaQ",
+            "HfnZrJlDn5jQ8N8qyklO82RzKparYqdp"
+        ],
+        "ratingCount": 3560,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "The Walters Art Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 547-9000",
+        "address": "600 N Charles St, Baltimore, MD 21201, USA",
+        "types": [
+            "Art museum",
+            "Museums",
+            "Non-profit organization"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 19,
+                "2": 20,
+                "3": 66,
+                "4": 453,
+                "5": 3025
+            }
+        }
+    },
+    {
+        "placeId": "ChIJXVZn5GIDyIkRjn58fGGo8Mc",
+        "website": "https://aqua.org/",
+        "index": 2,
+        "utcOffset": -240,
+        "longitude": -76.608398,
+        "latitude": 39.285393,
+        "rating": 4.6,
+        "excerpt": "Iconic landmark offering marine-life exhibits, a dolphin show, shark tank & walk-through rainforest.",
+        "detail_description": "The National Aquarium is a must-visit landmark featuring captivating marine-life exhibits, an exciting dolphin show, and a thrilling shark tank. Visitors can also explore a walk-through rainforest for an immersive experience. Located near the World Trade Center, visitors are required to follow specific traffic patterns for safe entry and exit. Health measures such as wearing face coverings and completing screening questionnaires are in place. Additionally, one-way traffic flow and social distancing measures are enforced throughout the building.",
+        "imageKeys": [
+            "hHOqhasDnEDkBFh9xMW1pF9pIrm2XVG7",
+            "KUv3eS9q63W6L4IEDMKdNGLGa43zwoJX",
+            "FTgDpOIx829WG31zclUB2XxWU9PiGPJq",
+            "WEUvFePqyThIkY8p66BIiLWKoAtwRG4K",
+            "bbTv5glcxayZ2ileQml9TzVRSkWxMksm"
+        ],
+        "ratingCount": 31443,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "National Aquarium",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 576-3800",
+        "address": "501 E Pratt St, Baltimore, MD 21202, USA",
+        "types": [
+            "Aquarium",
+            "Zoos & Aquariums",
+            "Museum",
+            "Museum of zoology"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 583,
+                "2": 544,
+                "3": 1771,
+                "4": 6099,
+                "5": 22580
+            }
+        }
+    },
+    {
+        "placeId": "ChIJYTEkFN4EyIkRIYUo1e89jY4",
+        "website": "https://artbma.org/",
+        "index": 3,
+        "utcOffset": -240,
+        "longitude": -76.619344,
+        "latitude": 39.326167,
+        "rating": 4.7,
+        "excerpt": "The collection of Matisses & Picassos, Impressionist works & a sculpture garden are some highlights.",
+        "detail_description": "The Baltimore Museum of Art is a cultural gem in the revitalized city of Baltimore, offering a vibrant collection that includes Matisses, Picassos, and Impressionist works. The museum also features a captivating sculpture garden. Once known for its blue-collar roots and crime rate, Baltimore has transformed into a dynamic East Coast destination with contemporary museums and a thriving dining scene. The city's reimagined Inner Harbor attracts art enthusiasts, outdoor lovers, and history buffs alike.",
+        "imageKeys": [
+            "atvpWgEnS6OR7XbIUCNZZFu3fW2xzsnB",
+            "fBNmkDB9a09mLNmGyPy6VwGEUCRueD4x",
+            "9VSnjolQw6NiHXq5Cs03PQV4ChXpzYaQ",
+            "3QlXRQOXR7OopSpYWmdZx8haVfxPDzF4",
+            "3Vjw9qh6rkGWmFBQUZSi2kFVNeGbCVIc"
+        ],
+        "ratingCount": 2465,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Baltimore Museum of Art",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(443) 573-1700",
+        "address": "10 Art Museum Dr, Baltimore, MD 21218, USA",
+        "types": [
+            "Art museum",
+            "Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 34,
+                "2": 10,
+                "3": 55,
+                "4": 380,
+                "5": 2002
+            }
+        }
+    },
+    {
+        "placeId": "ChIJbw6sK5wEyIkR5EoCp380H40",
+        "website": "http://www.borail.org/",
+        "index": 4,
+        "utcOffset": -240,
+        "longitude": -76.632612,
+        "latitude": 39.285468,
+        "rating": 4.6,
+        "excerpt": "National Historic Landmark highlighting nearly 200 locomotives, a model train display & train rides.",
+        "detail_description": "The B&O Railroad Museum, a National Historic Landmark, is a significant site in U.S. railroad history. It showcases nearly 200 locomotives and features a model train display as well as offering train rides. The museum originated from the planning of the first commercial long-distance train track in the United States by Baltimore businessmen and engineers in 1829.",
+        "imageKeys": [
+            "Cpls2Nqwhu9JnSTbHrVLgt63idlQ2KTG",
+            "TE1Wlvs3JqxjgEKW20OvyJupxRALjO8B",
+            "TqGt0E8hoThf6a3tn8O5DSb3nXcsJiej",
+            "QoyXGSBRpbkWtbOZxuSL7h3pCx3dYywP"
+        ],
+        "ratingCount": 3120,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "B&O Railroad Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 752-2490",
+        "address": "901 W Pratt St, Baltimore, MD 21223, USA",
+        "types": [
+            "Rail museum",
+            "Museums",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 68,
+                "2": 33,
+                "3": 112,
+                "4": 538,
+                "5": 2381
+            }
+        }
+    },
+    {
+        "placeId": "ChIJz2yfIJgDyIkREhJ4NEghTeo",
+        "website": "https://www.nps.gov/fomc/index.htm",
+        "index": 5,
+        "utcOffset": -240,
+        "longitude": -76.580641,
+        "latitude": 39.264101,
+        "rating": 4.8,
+        "excerpt": "Fort whose War of 1812 victory inspired \"The Star-Spangled Banner,\" the U.S. national anthem.",
+        "detail_description": "Fort McHenry National Monument and Historic Shrine is a significant site that played a pivotal role in the War of 1812, inspiring the writing of 'The Star-Spangled Banner,' the U.S. national anthem. Visitors to Baltimore can immerse themselves in its rich history by exploring this iconic fort, along with other historical landmarks like Inner Harbor and Federal Hill Park. Additionally, they can savor freshly caught blue crabs seasoned with Old Bay seasoning for an authentic Baltimore experience.",
+        "imageKeys": [
+            "KPjF9RzFppGBWWJaBcdMhGh21g6N8ydX",
+            "W8hIUqG97s4n38a7PPULtvCEpubwEzr4",
+            "Zn6ov4TjygkxvyGVBYewDu5sDlSTgl1U",
+            "MMT7yhMp78Jvj05igfSJdj5w4xozELYU",
+            "DAUiDNkQ9YXBN90hBMMs1h5AKLMPIPVv"
+        ],
+        "ratingCount": 6387,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Fort McHenry National Monument and Historic Shrine",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 962-4290",
+        "address": "2400 E Fort Ave, Baltimore, MD 21230, USA",
+        "types": [
+            "Historical landmark",
+            "Sights & Landmarks",
+            "Hiking area",
+            "Historical place",
+            "Monument",
+            "Picnic ground",
+            "Historic Sites",
+            "Missions",
+            "Monuments & Statues",
+            "National Parks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 34,
+                "2": 20,
+                "3": 168,
+                "4": 970,
+                "5": 5229
+            }
+        }
+    },
+    {
+        "placeId": "ChIJJSgkzWQDyIkRt-l143HvRh4",
+        "website": "https://www.avam.org/",
+        "index": 6,
+        "utcOffset": -240,
+        "longitude": -76.606895,
+        "latitude": 39.280421,
+        "rating": 4.7,
+        "excerpt": "Small museum with unusual rotating exhibits by self-taught artists, plus sculptures & a garden.",
+        "detail_description": "The American Visionary Art Museum in Baltimore offers a unique museum experience with rotating exhibits by self-taught artists, showcasing works from individuals such as farmers, mathematicians, and prison inmates. The museum challenges traditional notions of professional artistry and features an unconventional architectural layout with curved hallways and rounded gallery walls. Visitors can explore a diverse range of artwork including embroidery, graffiti, sculpture, and film created from unusual mediums like toothpicks and household condiments.",
+        "imageKeys": [
+            "U0MtzJX5Xng8x0TrPYrY3aSBlUboH3Fd",
+            "RUJbxnGXkB2LpdQtfn8qwRtLsQ1RyqcS",
+            "eEhTiTMWoJ7ekXx9HL1YUJIyXm4NgSza",
+            "uciuKKEBfR6SYXb0h1ZnCdGG7rlOGTrM",
+            "vvTXCWI0rUdiwqJVWNSr2vDtR1pduoSs"
+        ],
+        "ratingCount": 2991,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "American Visionary Art Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 244-1900",
+        "address": "800 Key Hwy, Baltimore, MD 21230, USA",
+        "types": [
+            "Art museum",
+            "Museums",
+            "Wedding venue",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 35,
+                "2": 36,
+                "3": 107,
+                "4": 457,
+                "5": 2366
+            }
+        }
+    },
+    {
+        "placeId": "ChIJuYSYp2MDyIkRLUHH3Ksi2jk",
+        "website": null,
+        "index": 7,
+        "utcOffset": -240,
+        "longitude": -76.610005,
+        "latitude": 39.286665,
+        "rating": null,
+        "excerpt": "Inner Harbor is a sightseeing hub, home to Maryland Science Center with a planetarium and observatory, and the National Aquarium, featuring giant turtles, dolphins and electric eels. The Top of the World Observation Level offers sweeping views of the city, while a collection of historic warships is docked below. Power Plant Live! is a complex of bars, eateries and music venues in a former power station.",
+        "detail_description": "Inner Harbor in Baltimore is a bustling hub of sightseeing and entertainment. It's home to the Maryland Science Center, National Aquarium, and Top of the World Observation Level offering panoramic city views. Visitors can explore historic warships docked in the harbor and enjoy the lively Power Plant Live! complex with its bars, eateries, and music venues. The area also boasts Lebanese Taverna, a family restaurant serving authentic Lebanese cuisine with modern flair and waterfront views.",
+        "imageKeys": [
+            "UZj4ocWId1DZrh9gKdWGtka1iWqESVwx",
+            "0ZYNRURw7xqeiR56DDojJtFfDofm7PNU",
+            "ORTralYFv41qPBprMRhYLLJpFLKJQ2cd",
+            "GOJavbleEcOWR496P90Q8eQqltT8ri4U",
+            "0fTBVmsyYw0RsBW8NdGKkyDbykJ6dwTT"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Inner Harbor",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Baltimore, MD, USA",
+        "types": [
+            "Sights & Landmarks",
+            "Neighborhoods",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJrzovrmYDyIkR890eAQG1Xpo",
+        "website": "http://www.mdsci.org/",
+        "index": 8,
+        "utcOffset": -240,
+        "longitude": -76.611917,
+        "latitude": 39.281415,
+        "rating": 4.5,
+        "excerpt": "Interactive exhibits at this museum featuring an IMAX theater, planetarium & rooftop observatory.",
+        "detail_description": "Situated in the heart of Inner Harbor, Maryland Science Center is a captivating museum that offers an array of interactive exhibits and activities for both children and adults. The center features a planetarium, IMAX theater, rooftop observatory, and numerous hands-on programs.",
+        "imageKeys": [
+            "F2m1Al8iJ6KOt0e9ZtiZ8yzvnJuSF2wR",
+            "AUp7Fm0QKMBlGeO5fNKP7Eix7ulqrMgd",
+            "wKIyyW6i4H8Ttod0M5mtdBd7bjnVyPs9"
+        ],
+        "ratingCount": 900,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Maryland Science Center",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 685-2370",
+        "address": "601 Light St, Baltimore, MD 21230, USA",
+        "types": [
+            "Science museum",
+            "Museums",
+            "Children's museum",
+            "Education center",
+            "Educational institution",
+            "Planetarium",
+            "Summer camp organizer"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 43,
+                "2": 30,
+                "3": 40,
+                "4": 151,
+                "5": 640
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ7exAOYADyIkRGs4qjmDpqSQ",
+        "website": null,
+        "index": 9,
+        "utcOffset": -240,
+        "longitude": -76.593556,
+        "latitude": 39.283552,
+        "rating": null,
+        "excerpt": "Waterside Fells Point is known for its hip pubs and taverns, many with live music, as well as seafood joints serving Chesapeake Bay crab and oysters. Small galleries, record stores, fashion boutiques and eclectic restaurants line the cobblestone streets along the harbor and main square. The Frederick Douglass-Isaac Myers Maritime Park Museum explores African-American nautical history in a former industrial building.",
+        "detail_description": "Fells Point is a vibrant waterfront area known for its lively pubs, seafood eateries, and live music venues. The neighborhood's cobblestone streets are lined with an array of small galleries, fashion boutiques, and diverse dining options. Visitors can explore the Frederick Douglass-Isaac Myers Maritime Park Museum to delve into African-American nautical history. The historic charm of Fells Point is evident in its old buildings that now house various shops and businesses.",
+        "imageKeys": [
+            "aUM2FrQgqKboiicbQ8ho3aTApbZqlEez",
+            "FAq57PtoMyhhNrAyYorTMQ4tk5R8n85i",
+            "HZVkwAfHOAd3tvIDpwXpLR9xSAbW0HDS",
+            "pX5QDGIFZp8uTcALd0yLgfiyJf61fZjo",
+            "AhqBkyzZdOTF7zJ71kbr2ycAW0I2jj21"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Fells Point",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Baltimore, MD 21231, USA",
+        "types": [
+            "Sights & Landmarks",
+            "Historic Walking Areas",
+            "Neighborhoods"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJgYfJyakEyIkRCf--NuzDhr8",
+        "website": "http://www.poebaltimore.org/",
+        "index": 10,
+        "utcOffset": -240,
+        "longitude": -76.633061,
+        "latitude": 39.291463,
+        "rating": 4.4,
+        "excerpt": "Compact preserved site & museum featuring historic Edgar Allan Poe memorabilia & events.",
+        "detail_description": "Immerse yourself in the mysterious world of Edgar Allan Poe at the Edgar Allan Poe House & Museum, a compact and well-preserved site showcasing historic memorabilia and artifacts related to the renowned writer. Explore the 1830s home where Poe wrote many of his legendary works, including his writing desk and chair. Take a stroll through the same streets that inspired his gothic poems and stories, and pay homage to the author at his graveside in Westminster Burial Ground nearby.",
+        "imageKeys": [
+            "PoefPBCVBUvTpJoosjzliYdQRzvZiLB0",
+            "xsOa3uXANF12mgbLXpQW3jx34PxD6QDo",
+            "MwysL6X924zMIrRe4BGejNOsXjybYy14",
+            "MGPbAP4A57sgHi9cCzKXuGgiQTfMR3wQ",
+            "b8qcOvm6znHrNKbLa9wxqiODWSfd2ja0"
+        ],
+        "ratingCount": 1029,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "Edgar Allan Poe House & Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 462-1763",
+        "address": "203 N Amity St, Baltimore, MD 21223, USA",
+        "types": [
+            "Museum",
+            "Historical landmark",
+            "History Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 35,
+                "2": 31,
+                "3": 98,
+                "4": 217,
+                "5": 655
+            }
+        }
+    },
+    {
+        "placeId": "ChIJs9R4hF4DyIkRBvCl_sfiKYs",
+        "website": "http://www.oriolepark.com/",
+        "index": 11,
+        "utcOffset": -240,
+        "longitude": -76.621828,
+        "latitude": 39.285037,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "Camden Yards is a must-visit attraction in Baltimore, offering an exciting experience for both leisure and business travelers. Located near downtown Baltimore, this iconic stadium hosts Orioles games and provides a fun-filled environment for families. Kids can enjoy the Orioles Kids Corner with interactive activities and kid-friendly snacks. The Kids Cheer Free initiative allows young fans to attend games at no cost, making it a popular choice for families.",
+        "imageKeys": [
+            "le59lInhQ218aYVxDfutmjbSKoEgA0yN",
+            "J2zU3TJdRFvnyGZumY8f5VAD5FDfADZ1",
+            "RMfOLMs7NAErrf1TMdv6sxYeG1Oh0VAk",
+            "du1JgmziF9tBTVrkicE614EToIGFRU5W"
+        ],
+        "ratingCount": 4943,
+        "openingPeriods": null,
+        "name": "Camden Yards",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 547-6234",
+        "address": "333 W Camden St, Baltimore, MD 21201, USA",
+        "types": [
+            "Stadium"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 55,
+                "2": 40,
+                "3": 119,
+                "4": 580,
+                "5": 4136
+            }
+        }
+    },
+    {
+        "placeId": "ChIJHWi0zzEbyIkRVxIG6AR2xEk",
+        "website": "https://www.marylandzoo.org/",
+        "index": 12,
+        "utcOffset": -240,
+        "longitude": -76.64981,
+        "latitude": 39.322707,
+        "rating": 4.4,
+        "excerpt": "More than 1,500 birds, mammals, amphibians & reptiles at this zoo in Druid Hill Park since 1876.",
+        "detail_description": "The Maryland Zoo in Baltimore, also known as The Maryland Zoo, is a 135-acre park located in Druid Hill Park. Established in 1876, it is the third oldest zoo in the United States and houses over 1,500 birds, mammals, amphibians, and reptiles. The zoo's mission is to inspire and educate people about wildlife conservation.",
+        "imageKeys": [
+            "EuUdiju4xGMDF2eIgrhl39ReaCWc6BHi",
+            "FIiqeypptlpwRxnqmX8jUgAenqv2JcOo",
+            "sCdiT3SISet40rANQ022lqDurhTapbo9",
+            "U5lddOTu088V9ouQV6zOUaJ5E1BVFqOD",
+            "ZkJawJHQYKoiIkI1alYEhc2BCECkF7B9"
+        ],
+        "ratingCount": 8019,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1600"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1600"
+                }
+            }
+        ],
+        "name": "The Maryland Zoo in Baltimore",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 396-7102",
+        "address": "1 Safari Pl, Baltimore, MD 21217, USA",
+        "types": [
+            "Zoo",
+            "Zoos & Aquariums",
+            "Non-profit organization"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 271,
+                "2": 232,
+                "3": 711,
+                "4": 1938,
+                "5": 4891
+            }
+        }
+    },
+    {
+        "placeId": "ChIJA5fW330DyIkRtj3ggbL0Gpw",
+        "website": null,
+        "index": 13,
+        "utcOffset": -240,
+        "longitude": -76.600768,
+        "latitude": 39.286723,
+        "rating": null,
+        "excerpt": "Little Italy is a neighborhood located in southeastern Baltimore, Maryland. The neighborhood is known for its strong Italian-American heritage and identity. The neighborhood is still mostly populated by the descendants of Italian-American immigrants and remains a closely knit ethnic enclave. Wikipedia.",
+        "detail_description": "Little Italy is a charming neighborhood situated in the southeastern part of Baltimore, Maryland. It has a rich Italian-American heritage and is predominantly inhabited by the descendants of Italian immigrants. The area maintains its close-knit ethnic identity, making it a unique and culturally significant enclave within the city.",
+        "imageKeys": [
+            "XgnfIRLmOoVE3mps36fup9Khk9DOybMW",
+            "oZ8PZdEDGS6376gBbSIsYnnod2JUG59K",
+            "69HIzLpqIaiPiqpGJq6nqVl9YpvQTccz",
+            "GR9nBBREFNqfHCfyynSlIcCa0ijtuLRB",
+            "PM1TCnMdH27NZUz8y7McDF4tBq5twpk7"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Little Italy",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Baltimore, MD, USA",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJqY0dOGIDyIkR262qU0Rj868",
+        "website": "http://historicships.org/",
+        "index": 14,
+        "utcOffset": -240,
+        "longitude": -76.611005,
+        "latitude": 39.285605,
+        "rating": 4.7,
+        "excerpt": "Maritime museum with 1850s sloop-of-war & lighthouse, plus a submarine, Coast Guard cutter & more.",
+        "detail_description": "Historic Ships in Baltimore is a fascinating maritime museum that offers a unique glimpse into Maryland's rich history. Visitors can explore four significant ships, including the Sloop-of-War Constellation, Submarine Torsk, Coast Guard Cutter Taney, and Lightship 116 Chesapeake. The museum provides an immersive experience with hands-on learning opportunities and an audio tour for added enjoyment. This attraction showcases Baltimore's maritime heritage and American naval power through its docked vessels and restored lighthouse.",
+        "imageKeys": [
+            "mffFHPmR7izYOBu0c4oTRxsPoV3Mlh9C",
+            "UUmQKu6X2IFCETNeAPUTi5NP4W8j2ZlG",
+            "bqVUkT4cYfoiLdm0bxaRV2n2hQHkwIOh",
+            "wv1UZetJ9FKtO4hVWufbBAW49zeg6Jvm"
+        ],
+        "ratingCount": 1057,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1630"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1630"
+                }
+            }
+        ],
+        "name": "Historic Ships in Baltimore",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 539-1797",
+        "address": "301 E Pratt St, Baltimore, MD 21202, USA",
+        "types": [
+            "Maritime museum",
+            "Sights & Landmarks",
+            "History museum",
+            "Ships",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 10,
+                "2": 9,
+                "3": 33,
+                "4": 212,
+                "5": 794
+            }
+        }
+    },
+    {
+        "placeId": "ChIJRUHhc_YEyIkR-oT9HfR-xZ8",
+        "website": "https://www.greatblacksinwax.org/",
+        "index": 15,
+        "utcOffset": -240,
+        "longitude": -76.59682,
+        "latitude": 39.311767,
+        "rating": 4.4,
+        "excerpt": "Venue with wax depictions of notable African Americans, from famous athletes to a U.S. president.",
+        "detail_description": "This museum is dedicated to showcasing the history and culture of African Americans. There are life-sized wax figures of famous people from all walks of life, which allow you to experience what it was like during key moments in African-American history.",
+        "imageKeys": [
+            "fc8xeuvifDlOYYdVbSNUA8uMGrDL2stF",
+            "3cN1njPgcHYVblyikrv6l5e4Nc25JPi3",
+            "HKP9erHVmuHNhnZxCb9m0oUXUEWKvaRu"
+        ],
+        "ratingCount": 1254,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "The National Great Blacks In Wax Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 563-3404",
+        "address": "1601-03 E North Ave, Baltimore, MD 21213, USA",
+        "types": [
+            "Wax museum",
+            "Museums",
+            "History Museums",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 42,
+                "2": 22,
+                "3": 108,
+                "4": 263,
+                "5": 828
+            }
+        }
+    },
+    {
+        "placeId": "ChIJdbB3OVkDyIkRJzRKD7xcpYY",
+        "website": "http://baberuthmuseum.org/",
+        "index": 16,
+        "utcOffset": -240,
+        "longitude": -76.624827,
+        "latitude": 39.285583,
+        "rating": 4.5,
+        "excerpt": "Famed slugger's birthplace houses baseball memorabilia & other sports-related exhibits.",
+        "detail_description": "Nestled just a few blocks from the iconic Oriole Park at Camden Yards, the Babe Ruth Birthplace and Museum is a must-visit for baseball enthusiasts and history buffs alike. This unassuming brick row house marks the birthplace of George Herman Ruth, affectionately known as \"the Bambino.\" Although his family resided nearby rather than in this house, it has been transformed into a tribute to his remarkable life and career.",
+        "imageKeys": [
+            "7VhmVFwmLhfdBJI74t5sDEnL9qZPBwxN",
+            "kRFV07QnhmpSWUWwJmzStDBGJv3PITau",
+            "2TbS16rW4o1OApwTmsIxSIxE8qYPYI1t",
+            "SKQOzj4yFXuYksu8VKTg4t1PlS5huXos"
+        ],
+        "ratingCount": 674,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Babe Ruth Birthplace and Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 727-1539",
+        "address": "216 Emory St, Baltimore, MD 21230, USA",
+        "types": [
+            "Historical place museum",
+            "Museums",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 12,
+                "2": 9,
+                "3": 39,
+                "4": 155,
+                "5": 466
+            }
+        }
+    },
+    {
+        "placeId": "ChIJv9hPlw0DyIkR-waa3ezw1eM",
+        "website": "https://sagamorespirit.com/",
+        "index": 17,
+        "utcOffset": -240,
+        "longitude": -76.606311,
+        "latitude": 39.26363,
+        "rating": 4.8,
+        "excerpt": null,
+        "detail_description": "On your second day in Baltimore, start with a hearty breakfast at Blue Moon Cafe or HandleBar Cafe. Then, head to Sagamore Spirit Distillery, the largest distillery in Baltimore known for its premium rye whiskey. The distillery offers tours of its 22,000-square-foot facility where you can learn about the history of Maryland rye whiskey and even taste some samples.",
+        "imageKeys": [
+            "2EotwqNmOauGz1ECDAqp4XKJqe0yReT1",
+            "HDG3lAJM2bZiB4vm2AZ7Abc6nmQgZXAi",
+            "0FGzQunDuK4JNkylpNHpZ15e6DIAtztG",
+            "GtNCzmiUxLBdNaGuPF9O5KB85LcpS9CE",
+            "k48tSdOjfSwjAf9i8TjPSP5jQlchzwmf"
+        ],
+        "ratingCount": 538,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Sagamore Spirit Distillery",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 624-7488",
+        "address": "301 E Cromwell St, Baltimore, MD 21230, USA",
+        "types": [
+            "Distillery",
+            "Food & Drink",
+            "Gift shop"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 5,
+                "2": 3,
+                "3": 14,
+                "4": 36,
+                "5": 485
+            }
+        }
+    },
+    {
+        "placeId": "ChIJSW3IyYwDyIkRF_xbDB2PCKU",
+        "website": "https://bcrp.baltimorecity.gov/parks/cantonwaterfrontpark",
+        "index": 18,
+        "utcOffset": -240,
+        "longitude": -76.573085,
+        "latitude": 39.277272,
+        "rating": 4.6,
+        "excerpt": "Picturesque waterfront park is home to the Korean War Memorial & provides views of Fort McHenry.",
+        "detail_description": "Canton Waterfront Park is a stunning oasis nestled along the Baltimore Harbor, offering an 8-acre retreat for those looking to unwind amidst nature. This picturesque park not only boasts breathtaking views of Fort McHenry and the Patapsco River but also serves as a vibrant community hub. Visitors can enjoy leisurely strolls or jogs while taking in the sight of sailboats dancing on the water and experiencing lively events like WTMD's First Thursday concerts.",
+        "imageKeys": [
+            "uUVi4fSyNfzUMtQoLY4RYmLdxUGAqVEU",
+            "XSCLgIse6aUAsniNXe5WZFncvy1MOYvE",
+            "aMR7C1U39A70eaZJQEuMD5Kh45J9rbk9",
+            "r2qDel5dNfrMVuG3ea8AoNM0VOmBrp7J"
+        ],
+        "ratingCount": 2774,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Canton Waterfront Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(410) 396-7931",
+        "address": "3001 Boston St, Baltimore, MD 21224, USA",
+        "types": [
+            "City park",
+            "Nature & Parks",
+            "Boat ramp",
+            "Park"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 42,
+                "2": 37,
+                "3": 161,
+                "4": 595,
+                "5": 1950
+            }
+        }
+    },
+    {
+        "placeId": "ChIJw8_LAaEEyIkRPBllZ1PBhi0",
+        "website": "http://www.lexingtonmarket.com/",
+        "index": 19,
+        "utcOffset": -240,
+        "longitude": -76.621686,
+        "latitude": 39.291072,
+        "rating": 3.8,
+        "excerpt": "Huge indoor market established in 1782, with food stands & produce, meat & seafood purveyors.",
+        "detail_description": "Lexington Market is a historic indoor market in Baltimore, established in 1782 and currently undergoing expansion and renovation. It is part of the Baltimore Public Markets system, which includes five markets. The market offers a wide variety of food stands, produce, meat, seafood purveyors, and exotic groceries. Visitors can enjoy soul food, deli sandwiches, Maryland crab chowder, burgers, hot dogs, cookies from Bergers Bakery, poke bowls, jerk chicken and stuffed potatoes.",
+        "imageKeys": [
+            "j2kcowq92T2Sc4AJRscsijgE0UqtDeMg",
+            "Fr1vWMeOFqE6arLBW9EkGvIXpBRkTvUj",
+            "5KdgvZoniTZUf1nUG7PSHrX9qESAp0YA",
+            "1ByiftxHGjbNT90I8gcerwKmZ9LB8Tot",
+            "Ds6cYIB8Cch5NEfcq3RHDUhoyBuMo2Tv"
+        ],
+        "ratingCount": 11162,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Lexington Market",
+        "permanentlyClosed": false,
+        "priceLevel": 1,
+        "phone": "(410) 685-6169",
+        "address": "112 N Eutaw St, Baltimore, MD 21201, USA",
+        "types": [
+            "Market",
+            "Shopping",
+            "Bakery",
+            "Grocery store",
+            "Seafood restaurant",
+            "Antique Stores",
+            "Flea & Street Markets",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 953,
+                "2": 806,
+                "3": 1998,
+                "4": 2701,
+                "5": 4736
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ9ej01ZcDyIkRjuokUHCKKZI",
+        "website": null,
+        "index": 20,
+        "utcOffset": -240,
+        "longitude": -76.579887,
+        "latitude": 39.264115,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Experience the historic Fort McHenry, where Francis Scott Key was inspired to write The Star-Spangled Banner during the Battle of Baltimore in 1814. Explore the star-shaped citadel with a guide in period costume, watch an informative film, and view a replica of the 15-starred American flag that flew over the fort. Immerse yourself in this significant piece of American history and gain insight into its role in shaping the nation's identity.",
+        "imageKeys": [
+            "3wFXTefnlSpOJjZNoKPZ8HY9lP49GHvY",
+            "BcVnTl7LF6SaOpE5zSKAqQtomEuTnrhW",
+            "q2d2H6H6SUjLBTW1jd2haOzu7sg2dsDB",
+            "jHkbFr5pnLITVOVXgkpenXJuGc6ljJeE"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Fort McHenry",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Baltimore, MD 21230, USA",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    }
+]

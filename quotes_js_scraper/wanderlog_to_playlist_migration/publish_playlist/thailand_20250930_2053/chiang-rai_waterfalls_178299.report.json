@@ -1,0 +1,35 @@
+{
+  "job_index": 27,
+  "city": "Chiang Rai",
+  "category_used": "waterfalls",
+  "url": "https://wanderlog.com/list/geoCategory/178299",
+  "title": "The 15 best waterfalls near Chiang Rai",
+  "final_title": "Chasing Cascades: Waterfall Wonders of Chiang Rai",
+  "from_cache": false,
+  "counts": {
+    "meta": 15,
+    "blocks": 15,
+    "merged": 15,
+    "accepted_before_trim": 2,
+    "rejected": 13,
+    "accepted_final": 2
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 3,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-rai_waterfalls_178299.json",
+    "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-rai_waterfalls_178299.report.json"
+  },
+  "created_ts": 1759252230
+}

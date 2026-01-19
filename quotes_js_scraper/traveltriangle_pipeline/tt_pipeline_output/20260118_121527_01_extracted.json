@@ -1,0 +1,83 @@
+{
+  "playlistTitle": "Sacred Lisbon Sights",
+  "placeName": "Lisbon",
+  "country": "Portugal",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/churches-in-lisbon/"
+  ],
+  "description": "A hushed soundtrack for wandering Lisbon's sacred corners — churches, cloisters and golden light.",
+  "items": [
+    {
+      "name": "Sé de Lisboa",
+      "description": "",
+      "location_hint": "Largo da Sé, 1100-585 Lisboa, Portugal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Igreja de São Roque",
+      "description": "",
+      "location_hint": "Largo Trindade Coelho, 1200-470 Lisboa, Portugal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Mosteiro dos Jerónimos",
+      "description": "",
+      "location_hint": "Praça do Império 1400-206 Lisboa, Portugal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Convento da Ordem do Carmo",
+      "description": "",
+      "location_hint": "Largo do Carmo, 1200-092 Lisboa, Portugal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Igreja de Santa Engrácia",
+      "description": "",
+      "location_hint": "Campo de Santa Clara, 1100-471 Lisboa, Portugal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Igreja de Santa Catarina",
+      "description": "",
+      "location_hint": "Calçada do Combro 82, 1200-452 Lisboa, Portugal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Igreja do Convento dos Cardaes",
+      "description": "",
+      "location_hint": "Rua de O Século 123, 1200-434 Lisboa, Portugal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Igreja do Menino Deus",
+      "description": "",
+      "location_hint": "129, Calçada do Menino de Deus 27, Lisboa, Portugal",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Igreja dos Anjos",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "20251124_205740",
+  "args": {
+    "url": "https://traveltriangle.com/blog/15-romantic-beaches-in-sydney/",
+    "batch": null,
+    "city": "Sydney",
+    "state": "New South Wales",
+    "country": "Australia",
+    "category": "Travel",
+    "subtype": "poi",
+    "optimize_ai": true,
+    "title_mode": "catchy",
+    "min_confidence": 0.75,
+    "keep_ratio": 0.8,
+    "refresh_photos": false,
+    "require_photo": false,
+    "dry_run": false,
+    "skip_upload": false,
+    "output_dir": "tt_pipeline_output"
+  },
+  "results": [
+    {
+      "url": "https://traveltriangle.com/blog/15-romantic-beaches-in-sydney/",
+      "basename": "playlist",
+      "success": true,
+      "steps_completed": [
+        "extract",
+        "adapt",
+        "resolve",
+        "upload"
+      ],
+      "extracted_file": "tt_pipeline_output\\20251124_205740_01_extracted.json",
+      "resolved_file": "tt_pipeline_output\\20251124_205740_03_resolved.json",
+      "report_file": "tt_pipeline_output\\20251124_205740_03_report.json"
+    }
+  ]
+}

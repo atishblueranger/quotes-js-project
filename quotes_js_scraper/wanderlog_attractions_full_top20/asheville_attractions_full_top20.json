@@ -1,0 +1,1609 @@
+[
+    {
+        "placeId": "ChIJudqQa4yMWYgRwkTNXMd6Cz0",
+        "website": null,
+        "index": 1,
+        "utcOffset": -240,
+        "longitude": -82.598676,
+        "latitude": 35.582831,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Blue Ridge Ave is home to the Blue Ridge Artisanal Buffet, situated within the iconic Omni Grove Park Inn. This buffet offers an extensive selection of breakfast, lunch, and dinner options every day. On Fridays, indulge in a seafood spread, while Saturdays feature a delectable Prime Rib buffet. Sundays are perfect for a Champagne brunch. The variety and quality of dishes at this buffet exceed expectations, making it a must-visit dining destination.",
+        "imageKeys": [],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Blue Ridge Ave",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Asheville, NC 28806, USA",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ045tczXzWYgRXHmCdMGmziY",
+        "website": null,
+        "index": 2,
+        "utcOffset": -240,
+        "longitude": -82.564993,
+        "latitude": 35.584688,
+        "rating": null,
+        "excerpt": "The River Arts District, or RAD, is a creative hub along the French Broad River. Former warehouses and mills, many with colorful exterior murals, contain glassblowing, pottery, and other artisan studios, plus indie art galleries. The buzzing dining and nightlife scene encompasses hip cafes, BBQ restaurants, craft breweries, and cozy, chilled-out music venues like the long-running Grey Eagle.",
+        "detail_description": "The River Arts District, known as RAD, is a vibrant and creative neighborhood in Asheville located along the French Broad River. It has repurposed former warehouses and mills into a thriving hub for art studios, galleries, glassblowing, pottery classes, and colorful murals. The area also offers trendy cafes, BBQ restaurants, craft breweries, and live music venues like the Grey Eagle. Beyond art and dining experiences, visitors can explore miles of trails for biking and hiking.",
+        "imageKeys": [
+            "0a8ld9PP5yDSpm4Qar7Wg7PBuus4ocDU",
+            "9hwxNXOQJw2S2JCO3ojrNp3ACg2CKSJ7",
+            "kXt088I1BFnl8BF2yq3Vleb1Ga4Fd66x",
+            "sGnxNdLzpSJxAgYDOY7oc8IhKJxyf8KY",
+            "olFGwyI5W4y7zvt8aaCDrcKRmGq3qbyN"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "River Arts District",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Asheville, NC, USA",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJOwpm7o-SWYgRa5_CUqHDhUU",
+        "website": "http://www.ncarboretum.org/",
+        "index": 3,
+        "utcOffset": -240,
+        "longitude": -82.605223,
+        "latitude": 35.495852,
+        "rating": 4.8,
+        "excerpt": "Arboretum in a forest with mountain views, gardens & a bonsai exhibit, plus hiking & biking paths.",
+        "detail_description": "The North Carolina Arboretum is a public garden located in the Blue Ridge Mountains near the Western North Carolina town of Asheville. The arboretum contains more than 60 acres of carefully cultivated gardens, including one of the most extensive bonsai collections in the United States. The gardens also showcase a variety of flora, including one of the most extensive ericaceous (acid soil-loving) plant collections in the United States.",
+        "imageKeys": [
+            "gTkSsTjToMHD7HeFWJcy5OkHHf49nR0L",
+            "rAvra1AahD5F5ZFj7vsjdguWIGhV0pLy",
+            "CwPFgMuk1lBVdp1CnuP4mfZAekJUWw75",
+            "yDcShVZl47on2LJ9xQWiQkBAviIdUfQZ",
+            "9xZvsV08Lq3sZjFxAPavpyPEuBSr9Tpr"
+        ],
+        "ratingCount": 7023,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0800"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "The North Carolina Arboretum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 665-2492",
+        "address": "20 Frederick Law Olmsted Way, Asheville, NC 28806, USA",
+        "types": [
+            "Arboretum",
+            "Nature & Parks",
+            "Botanical garden",
+            "Garden",
+            "Hiking area",
+            "Nature preserve",
+            "National Parks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 53,
+                "2": 47,
+                "3": 162,
+                "4": 834,
+                "5": 5956
+            }
+        }
+    },
+    {
+        "placeId": "ChIJO-o_vfjzWYgR92qhrWFbh7g",
+        "website": "http://www.craftguild.org/",
+        "index": 4,
+        "utcOffset": -240,
+        "longitude": -82.48204,
+        "latitude": 35.593466,
+        "rating": 4.7,
+        "excerpt": "Galleries of traditional & modern Southern Appalachian crafts, with a library & gift shop.",
+        "detail_description": "The Southern Highland Craft Guild, Folk Art Center is a must-visit destination for those interested in traditional and modern Southern Appalachian crafts. Located on the Blue Ridge Parkway, it serves as part museum, organizational headquarters, and living art workshop. Visitors can explore museum-style exhibitions showcasing various artworks and crafted items while also enjoying live art demonstrations by members of the Southern Highland Craft Guild. Additionally, there's a library and gift shop offering unique handmade items for sale.",
+        "imageKeys": [
+            "AwgBAeyjFBRiePY72Cb8B3CaJ904Z3ml",
+            "aJbZaTHQ8vhAPQGMxLjimzxpEye3qaWb",
+            "af1Rprg0MFqY45IrPe3QsmcIUDSGexnW",
+            "qhTCTqOptSAZBpR0YCiYML7iCUDNb4Ob",
+            "ifO7pzKh1v11CIeYxidtfzaDJ9AuOXvN"
+        ],
+        "ratingCount": 521,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Southern Highland Craft Guild, Folk Art Center",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 298-7928",
+        "address": "382 Blue Rdg Pkwy, Asheville, NC 28805, USA",
+        "types": [
+            "Art center",
+            "Museums",
+            "Art gallery",
+            "Art museum",
+            "Arts organization",
+            "Library",
+            "Educational sites",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 8,
+                "2": 9,
+                "3": 24,
+                "4": 58,
+                "5": 423
+            }
+        }
+    },
+    {
+        "placeId": "ChIJs183vc_yWYgRddbMMm8FVZI",
+        "website": "https://www.biltmore.com/",
+        "index": 5,
+        "utcOffset": -240,
+        "longitude": -82.56369,
+        "latitude": 35.552751,
+        "rating": 4.7,
+        "excerpt": "George W. Vanderbilt’s iconic French Renaissance château features 250 rooms, lavish gardens & tours.",
+        "detail_description": "Biltmore, an iconic French Renaissance château built by George W. Vanderbilt, boasts 250 rooms and lavish gardens that replicate a working French estate. The estate is a popular attraction, drawing in around 3.8 million visitors annually including well-known figures like Edith Wharton and several U.S. presidents.",
+        "imageKeys": [
+            "wrBrsgssGNA1b8XiJ8dn92sWQNGVchtl",
+            "Us2sSd0cV85TtvgsCq2xB12JzXOqUgAZ",
+            "gwxgdB5Cje0QPPD6lFTrpCUsL2bTm031",
+            "A8GP8aej3FQvkNDSfJZAYMwspVvg3E4U",
+            "2RhrMzDstPMjggujXJ70EILFORhVQRrb"
+        ],
+        "ratingCount": 36782,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Biltmore",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(800) 411-3812",
+        "address": "Asheville, NC 28803, USA",
+        "types": [
+            "Historical place",
+            "Historical landmark",
+            "Museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 670,
+                "2": 432,
+                "3": 1161,
+                "4": 4247,
+                "5": 30403
+            }
+        }
+    },
+    {
+        "placeId": "ChIJdYSHqgDzWYgRWMCb6ozHxxY",
+        "website": "https://www.biltmore.com/",
+        "index": 6,
+        "utcOffset": -240,
+        "longitude": -82.56369,
+        "latitude": 35.552751,
+        "rating": 4.7,
+        "excerpt": "George W. Vanderbilt’s iconic French Renaissance château features 250 rooms, lavish gardens & tours.",
+        "detail_description": "The Biltmore Estate is a sprawling 8,000-acre property that offers a glimpse into the era before income tax. The estate features stunning art, decor, and manicured gardens, as well as 22 miles of pet-friendly walking trails. Visitors can spend days exploring the property's shops and restaurants while admiring its attention to detail. Despite some ongoing renovations like scaffolding in the banquet hall, touring the interior design and learning about the family history make for an enriching experience.",
+        "imageKeys": [
+            "gJZmEXlUdoWPhYiaeC1nCtlg6zIm5RHa",
+            "ksw9j2MCPrwzI2KN4XeN12eYuGbszptu",
+            "k1Bo8s8cn5j0YGJuZ93ZyJHgc92wJnYG",
+            "w7bz8cDmfJfPtgLRc79OXQLX44TQqEFi",
+            "IiZdUr89mEkQxvK4vZcxWki3ZyWVnJHh"
+        ],
+        "ratingCount": 36752,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Biltmore",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(800) 411-3812",
+        "address": "Asheville, NC 28803, USA",
+        "types": [
+            "Historical place",
+            "Historical landmark",
+            "Museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 674,
+                "2": 434,
+                "3": 1162,
+                "4": 4253,
+                "5": 30454
+            }
+        }
+    },
+    {
+        "placeId": "ChIJf_WS21XzWYgRzNK3TkVqrc0",
+        "website": "http://ashevillepinball.com/",
+        "index": 7,
+        "utcOffset": -240,
+        "longitude": -82.556658,
+        "latitude": 35.596404,
+        "rating": 4.8,
+        "excerpt": "All-you-can-play arcade featuring 75+ pinball machines & classic video games, plus beer & soda.",
+        "detail_description": "Step back in time and immerse yourself in a nostalgic arcade experience at the Asheville Pinball Museum. This unique museum offers an all-you-can-play opportunity with over 75 pinball machines and classic video games, creating a throwback to the arcades of yesteryear. For a set admission fee, visitors can enjoy unlimited gaming on vintage machines, some of which are for display only due to their age.",
+        "imageKeys": [
+            "ZA2KwDLoWIgBoSIn9dthQLeKyQNkfa1b",
+            "JsiHkuEop2lxcG7DSGTk38QxKI524UOn",
+            "XPfDuaroOTzEkmutQHrhoY4esFwmvkb9",
+            "KxKyEqDqMVFZev9FSNssaZD5SRkNxoTO",
+            "wfA8oL5QbldysAK5kseKjseNF8MUWpkU"
+        ],
+        "ratingCount": 2795,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1200"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Asheville Pinball Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 776-5671",
+        "address": "1 Battle Square Ste 1b, Asheville, NC 28801, USA",
+        "types": [
+            "Museum",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 22,
+                "2": 16,
+                "3": 73,
+                "4": 298,
+                "5": 2402
+            }
+        }
+    },
+    {
+        "placeId": "ChIJn83oqVfzWYgRHZcckV2BfrE",
+        "website": null,
+        "index": 8,
+        "utcOffset": -240,
+        "longitude": -82.554043,
+        "latitude": 35.594628,
+        "rating": null,
+        "excerpt": "A busy commercial hub, Downtown Asheville is filled with indie boutiques, cutting-edge galleries, and specialty food stores, plus artisan shops in the elegant Grove Arcade. Farm-to-table and Southern restaurants dot the area, alongside breweries, chic cocktail bars, and storied music venues. Eclectic attractions include the Asheville Pinball Museum and the Basilica of Saint Lawrence, with its vast domed ceiling.",
+        "detail_description": "Downtown Asheville is a bustling commercial center with a variety of independent shops, art galleries, and specialty food stores. The area is also home to the elegant Grove Arcade, which houses artisan shops. Visitors can enjoy farm-to-table and Southern cuisine at the numerous restaurants and explore the local breweries and cocktail bars. The Asheville Pinball Museum and the Basilica of Saint Lawrence are among the unique attractions in this vibrant district.",
+        "imageKeys": [
+            "Tlva2yTfRGUa8N8zp9jShGhRaTRyENhP",
+            "o8VA1NINPWMtpHcId4yUK1sEZtaWNXG0",
+            "hCGja2n12C4LN5XjM7p1WT7siwIUhB9j",
+            "paQuTHjwqVbHhHMDb4eF5CVJhHSvGkwQ",
+            "6KWwO28m7ef3KnH4O5LwGtDl1erupir9"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Downtown",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Asheville, NC 28801, USA",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJCW8PPKmMWYgRXTo0BsEx75Q",
+        "website": "http://www.ashevillenc.gov/",
+        "index": 9,
+        "utcOffset": -240,
+        "longitude": -82.546056,
+        "latitude": 35.59751,
+        "rating": null,
+        "excerpt": "Asheville is a city in western North Carolina’s Blue Ridge Mountains. It’s known for a vibrant arts scene and historic architecture, including the dome-topped Basilica of Saint Lawrence. The vast 19th-century Biltmore estate displays artwork by masters like Renoir. The Downtown Art District is filled with galleries and museums, and in the nearby River Arts District, former factory buildings house artists' studios.",
+        "detail_description": "Asheville, located in the Blue Ridge Mountains of western North Carolina, is a city renowned for its thriving arts scene and historic architecture. The area is home to the impressive Basilica of Saint Lawrence and the grand Biltmore estate, which showcases masterpieces by artists like Renoir. The Downtown Art District features numerous galleries and museums, while the nearby River Arts District occupies former factory buildings that now serve as artists' studios.",
+        "imageKeys": [
+            "oA4RKqGqZXqR2LnxXOtqp6DYjKKLq7rU",
+            "5izTehNTJwDOILaDO9Pz7rI9DmhuyE4E",
+            "1rSF5TTlGQMcXe6bJyVTlmMZMQqIy13d",
+            "S8gCa18z7YAqUTBkdVYEzO3dBBKoDTrF",
+            "NHbSIhnJBnrzq1eDx5oVYIuOV2RrHlBw"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Asheville",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "North Carolina, USA",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ3TEAAVjzWYgRcv5MKppRF2E",
+        "website": "http://www.wolfememorial.com/",
+        "index": 10,
+        "utcOffset": -240,
+        "longitude": -82.551341,
+        "latitude": 35.597503,
+        "rating": 4.6,
+        "excerpt": "Memorial museum in the childhood home of writer Thomas Wolfe, with exhibits & educational programs.",
+        "detail_description": "The Thomas Wolfe Memorial State Historic Site is a museum located in the childhood home of the renowned writer Thomas Wolfe. The site offers exhibits and educational programs, providing visitors with a glimpse into the life of the author and the era in which he lived. Housed in the Old Kentucky Home boardinghouse where Wolfe grew up, the museum showcases over eight hundred items related to the writer and his literary works.",
+        "imageKeys": [
+            "esR7eWckDS5NvkfLmc7gFoHuMRyoW2YN",
+            "DHAWT1wOVUFjdWqRHv0apTWAzngK0S2T",
+            "rBwOTc9ZadP07kcPxJLmpMmb43P3KgAp",
+            "R9rx0EXaRolnfxwaYIKYEazJTuYoqrse",
+            "c9W5Iipwa3qcyabZlKJNzc46mExsbV2i"
+        ],
+        "ratingCount": 284,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0900"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Thomas Wolfe Memorial State Historic Site",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 253-8304",
+        "address": "52 N Market St, Asheville, NC 28801, USA",
+        "types": [
+            "Historical landmark",
+            "Sights & Landmarks",
+            "Museum",
+            "Historic Sites",
+            "Monuments & Statues",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 3,
+                "2": 5,
+                "3": 24,
+                "4": 52,
+                "5": 205
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ2ZTe1FXzWYgRMJ2sFRCh74w",
+        "website": "https://grovearcade.com/",
+        "index": 11,
+        "utcOffset": -240,
+        "longitude": -82.556656,
+        "latitude": 35.595615,
+        "rating": 4.3,
+        "excerpt": null,
+        "detail_description": "Grove Arcade, a historic building in downtown Asheville, is a must-visit destination for shopping, dining, and exploring. Built almost 100 years ago as the country's first indoor shopping mall, it has been restored to its original grandeur. The first floor houses galleries, restaurants, and shops while the upper floors are home to offices and residences. Throughout its history, Grove Arcade has served various purposes including as a military center during World War II and the National Weather Records Center.",
+        "imageKeys": [
+            "Yuf86Quk8LBHlbyWHTqyAA5hPrOW2U0v",
+            "7HsEqi4JwsPXRxeZEJPI1lPfn3nG0dkX",
+            "Af0LvCvenrpL3q3ZwKK98vDBRoGUOPax",
+            "tX32d1ngBEKA32Mj5WOLLg9A7eCETD8q",
+            "71mXrGBEYnVOkcRExEn7Kv70aLML3Q1i"
+        ],
+        "ratingCount": 754,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2000"
+                }
+            }
+        ],
+        "name": "Grove Arcade",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 252-7799",
+        "address": "1 Page Ave, Asheville, NC 28801, USA",
+        "types": [
+            "Business center",
+            "Sights & Landmarks",
+            "Apartment building",
+            "Historical place museum",
+            "Restaurant",
+            "Architectural Buildings"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 16,
+                "2": 24,
+                "3": 81,
+                "4": 208,
+                "5": 426
+            }
+        }
+    },
+    {
+        "placeId": "ChIJs6F9fFfzWYgRBglywolT2_Q",
+        "website": "http://www.ashevilleart.org/",
+        "index": 12,
+        "utcOffset": -240,
+        "longitude": -82.551283,
+        "latitude": 35.594671,
+        "rating": 4.3,
+        "excerpt": "Collection of American art from the 20th & 21st centuries, plus art-related programs for all ages.",
+        "detail_description": "The Asheville Art Museum, established in 1948 and recently renovated, is a hub for American art from the 20th and 21st centuries. It offers engaging exhibitions throughout the year, providing opportunities for education and enrichment through visual arts. The museum hosts various programs such as classes, workshops, artist talks, and special events. Visitors can explore permanent collections and unique exhibits while learning about western North Carolina's art scene.",
+        "imageKeys": [
+            "GasuQ0vIJmavM8jvgxLqdwIxPyblB14c",
+            "88xqhQzAnDbcooRvRWPJtkUlcA0R1qoy",
+            "CA5J5sMgVD6OfjATvaJJI6oiDWMM8CY5",
+            "z6yOVBw5wKHavok8AZrfiJ8TuLsf07wJ",
+            "wdecZl5InMqIpVJ2TcKKJcvqf74od4IT"
+        ],
+        "ratingCount": 734,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Asheville Art Museum",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 253-3227",
+        "address": "2 S Pack Square, Asheville, NC 28801, USA",
+        "types": [
+            "Art museum",
+            "Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 35,
+                "2": 34,
+                "3": 57,
+                "4": 161,
+                "5": 453
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ-UXHcLhCBYgRGb0vRTjFi_A",
+        "website": "http://www.ashevillenc.gov/",
+        "index": 13,
+        "utcOffset": -240,
+        "longitude": -82.554458,
+        "latitude": 35.594726,
+        "rating": 4.1,
+        "excerpt": "Tree-lined urban park with a water feature & boulders that hosts a lively drum circle every Friday.",
+        "detail_description": "Pritchard Park is a vibrant urban park located in downtown Asheville, known for its tree-lined paths, water feature, and large boulders. One of its main attractions is the lively drum circle that takes place every Friday night from April to October. The drum circle brings together a diverse group of people who come to drum, dance, or simply enjoy the rhythmic atmosphere. Visitors can bring their own drums to join in or simply watch the captivating performances.",
+        "imageKeys": [
+            "cnM4xjbSIHYvz2MujcisL5jPxgERCJzS",
+            "3cfI0YlSqGswxr9aUrTzEwpGwHXSg0NE",
+            "UdrrjWBjyVNnSle7mUmNV2GydnTfxYe5",
+            "cnmT1uUfRoy78IteX8HxkGyMOJEPBv0Q",
+            "AfPz4yxTuTuQmOsozyjL3AmtpBBbUT8p"
+        ],
+        "ratingCount": 711,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0600"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2200"
+                }
+            }
+        ],
+        "name": "Pritchard Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 251-1122",
+        "address": "67 Patton Ave, Asheville, NC 28801, USA",
+        "types": [
+            "Park",
+            "Neighborhoods"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 51,
+                "2": 24,
+                "3": 98,
+                "4": 151,
+                "5": 393
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ27F-BFfzWYgR0vZoQExAk7c",
+        "website": "https://ashevillescience.org/",
+        "index": 14,
+        "utcOffset": -240,
+        "longitude": -82.553396,
+        "latitude": 35.59479,
+        "rating": 4.1,
+        "excerpt": "Small science museum featuring playful, hands-on exhibits, plus various events for children.",
+        "detail_description": "The Asheville Museum of Science, also known as AMOS, is a small yet engaging science museum located in downtown Asheville. It offers hands-on exhibits and various events for children, making it a perfect indoor destination for families, especially during inclement weather or while spending time downtown. The museum features a tree-house-like climbing gym with a fast slide and hiding spots, providing an exciting experience for kids.",
+        "imageKeys": [
+            "Jg37YrKtd3fjbpxOsvRFSwbAJ4mHcBhh",
+            "xUewQWcpekR4l07K6YBQXc0bKTmssW8B",
+            "0nyndHYelG6nBBBAJ0wflxrTZX3E4nGS",
+            "MENTGhXBZTOyLoAWuLejwzI4H4nNk8q5",
+            "UYXxeQsImwUwaYMI0rCZoiFNvHJLDCCO"
+        ],
+        "ratingCount": 877,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1300"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Asheville Museum of Science",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 254-7162",
+        "address": "43 Patton Ave, Asheville, NC 28801, USA",
+        "types": [
+            "Science museum",
+            "Museums",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 59,
+                "2": 58,
+                "3": 128,
+                "4": 170,
+                "5": 469
+            }
+        }
+    },
+    {
+        "placeId": "ChIJD85VCFbzWYgROwRZIM5Gcbg",
+        "website": "http://saintlawrencebasilica.org/",
+        "index": 15,
+        "utcOffset": -240,
+        "longitude": -82.556223,
+        "latitude": 35.597212,
+        "rating": 4.8,
+        "excerpt": "Iconic basilica noted for its domed ceiling, with guided & self-guided architecture tours available.",
+        "detail_description": "The Basilica of Saint Lawrence, Deacon and Martyr is a must-visit in downtown Asheville, North Carolina. This iconic minor basilica showcases stunning and unique architecture designed by a Spanish architect. The basilica offers free tours for those interested in its history and design, including its famous stained glass windows. Completed in 1905, it features a distinctive Catalan style and boasts the tallest freestanding elliptical dome in North America.",
+        "imageKeys": [
+            "GDLFYSzidsjjC25KtlxJWnIricrgJ441",
+            "szaAcq2QOdq0nog8HQTduuUsfU0hjvFZ",
+            "cJW5DGDaH415ZseYic3mFN8XjGD9bu9G",
+            "vua7IKOdKeY2JBH8KStvie5zV1ZIcQDN",
+            "7GkO4Ufc42WARezbrC1msE6WjVLREf0o"
+        ],
+        "ratingCount": 952,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1200"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1700"
+                }
+            }
+        ],
+        "name": "Basilica of Saint Lawrence, Deacon and Martyr",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 252-6042",
+        "address": "97 Haywood St, Asheville, NC 28801, USA",
+        "types": [
+            "Basilica",
+            "Sights & Landmarks",
+            "Catholic church",
+            "Place of worship",
+            "Churches & Cathedrals"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 16,
+                "2": 5,
+                "3": 19,
+                "4": 94,
+                "5": 823
+            }
+        }
+    },
+    {
+        "placeId": "ChIJW-r52bOMWYgRor8JMcQ84mo",
+        "website": "http://www.12bones.com/",
+        "index": 16,
+        "utcOffset": -240,
+        "longitude": -82.566178,
+        "latitude": 35.577697,
+        "rating": 4.5,
+        "excerpt": "Small-chain smokehouse serving sandwiches, platters & BBQ by the pound in a casual setting.",
+        "detail_description": "12 Bones Smokehouse RIVER is a small-chain smokehouse located in Asheville's River Arts District. It's a local favorite known for its no-nonsense approach to serving up smoked meats and classic sides from Monday to Friday until 4 pm. The menu features sandwiches, platters with two sides and cornbread, baby back ribs, beef brisket, pulled pork, smoked turkey, and chicken.",
+        "imageKeys": [
+            "k0hf4myq3F6ZG2nZRW0sFRU24We2nyJX",
+            "R7oI0JWFYT505rQJJxKulKkkvC7ffLlR",
+            "T2vb9NGWRFs2zN5WICIJVRow3mVRNhjM",
+            "kiqTPkIzCuTI7hgeTY4HAyhZ1SdZ8rpL",
+            "XHaVye0k5eESIEnqVxPar7nmnL52ZEGF"
+        ],
+        "ratingCount": 2365,
+        "openingPeriods": [],
+        "name": "12 Bones Smokehouse RIVER",
+        "permanentlyClosed": true,
+        "priceLevel": 2,
+        "phone": "(828) 253-4499",
+        "address": "5 Foundy St #10, Asheville, NC 28801, USA",
+        "types": [
+            "Barbecue restaurant",
+            "Restaurant"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 70,
+                "2": 77,
+                "3": 125,
+                "4": 355,
+                "5": 1738
+            }
+        }
+    },
+    {
+        "placeId": "ChIJT_aRaFfzWYgR963cdjHHQOo",
+        "website": "https://www.mastgeneralstore.com/?utm_source=GMB&utm_medium=organic&utm_campaign=Asheville",
+        "index": 17,
+        "utcOffset": -240,
+        "longitude": -82.55166,
+        "latitude": 35.594036,
+        "rating": 4.6,
+        "excerpt": "Retailer selling a broad selection of goods, including food, apparel & outdoor gear, since 1883.",
+        "detail_description": "Nestled in Asheville, Mast General Store is a historic retailer that has been providing a wide array of goods since 1883. With its charming exterior and extensive selection, it has become a popular tourist destination. The store offers an impressive range of products, including food, apparel, outdoor gear, and sustainable items from local makers like Eagle Nest Outfitters (ENO). Visitors can find everything from retro toys to hand-crafted rocking chairs and barrels of candy.",
+        "imageKeys": [
+            "hisHhomWzyJblLNgKtogouNSdmOZR3kg",
+            "pBYOILMQSjDl5oMtg65bMXShoCCFKG3z",
+            "ZtEsxtc03T8PUd5qTU8w9p3ti4MsNWBf",
+            "vy2AHdhDCCDqqi5BnkT35jJmQJWuspV3",
+            "EE9UmY9nRuNfBSdnTEzjMPxMdTX3y2GV"
+        ],
+        "ratingCount": 2641,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1100"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Mast General Store Asheville",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 232-1883",
+        "address": "15 Biltmore Ave, Asheville, NC 28801, USA",
+        "types": [
+            "General store",
+            "Camping store",
+            "Candy store",
+            "Clothing store",
+            "Hat shop",
+            "Men's clothing store",
+            "Outdoor clothing and equipment shop",
+            "Shoe store",
+            "Women's clothing store"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 14,
+                "2": 26,
+                "3": 139,
+                "4": 576,
+                "5": 1891
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ8R_RSFjzWYgRkeUaQJScqVw",
+        "website": "https://www.nps.gov/nr/travel/asheville/pac.htm",
+        "index": 18,
+        "utcOffset": -240,
+        "longitude": -82.549388,
+        "latitude": 35.595565,
+        "rating": 4.5,
+        "excerpt": "This community green space with a stage & shade trees is popular for festivals & events.",
+        "detail_description": "Pack Square Park is a vibrant community green space in Asheville, popular for hosting festivals and events. The park features a stage, shade trees, and an amphitheater area where live music acts entertain visitors during weekend festivals and craft shows. One of the highlights is the free outdoor concert series called Shindig on the Green. Additionally, Splashville, a fountain area that doubles as a splash pad for kids, provides entertainment for families during live music events.",
+        "imageKeys": [
+            "5akqXahgIayYh2mrPWOesN2UJBXGkMkY",
+            "yz0OCgszQIQ9qyPka2L8V4wVgi58QrGH",
+            "lNVNFjmgTpZR0uiK6tuZx0ZGeRJGPLHD",
+            "PnenfxGoulx3hoFAseeAIbeVU50qJIf5"
+        ],
+        "ratingCount": 1787,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Pack Square Park",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "(828) 259-5800",
+        "address": "80 Court Plaza, Asheville, NC 28801, USA",
+        "types": [
+            "Park",
+            "Sights & Landmarks",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 29,
+                "2": 29,
+                "3": 114,
+                "4": 386,
+                "5": 1230
+            }
+        }
+    },
+    {
+        "placeId": "ChIJXYDlZVfzWYgRaimqe4ND4Vs",
+        "website": "http://www.ashevilleurbantrail.com/",
+        "index": 19,
+        "utcOffset": -240,
+        "longitude": -82.551514,
+        "latitude": 35.594841,
+        "rating": 4,
+        "excerpt": null,
+        "detail_description": "The Asheville Urban Trail offers a unique way to explore the city's history and heritage through a 1.7-mile walking tour. This outdoor museum showcases the remarkable turn-of-the-century architecture that has shaped downtown Asheville, providing a visual feast for visitors. The trail features public art pieces such as the Energy Loop, Deco Gecko, and a bronze statue of Martin Luther King, Jr., among others.",
+        "imageKeys": [
+            "6XLGYhb2qv7yGnCsTOVuAOGxkTy2JUWq",
+            "Vr8QrbUkBGEu5ZpACgC0EVvBrjx5Kzs4",
+            "0WKN8YDutBq4iSvDx5iT6y7NO3YN3qae",
+            "w3mxojCkMRnMuscg6MxbrEJB6DXE3IOM",
+            "ofXtIxAU8Vcsm0xOEUHJjjmi6b3uSAys"
+        ],
+        "ratingCount": 68,
+        "openingPeriods": null,
+        "name": "Urban Trail",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "11 Biltmore Ave, Asheville, NC 28801, USA",
+        "types": [
+            "Hiking area",
+            "Sights & Landmarks",
+            "Historic Walking Areas"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 4,
+                "3": 7,
+                "4": 18,
+                "5": 33
+            }
+        }
+    },
+    {
+        "placeId": "ChIJRybd7KyDWYgRIEvWXk7uj8w",
+        "website": null,
+        "index": 20,
+        "utcOffset": -240,
+        "longitude": -82.625004,
+        "latitude": 35.661359,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "The French Broad River is a popular destination near Asheville, offering a variety of outdoor activities. Within a short drive from downtown, visitors can access the Blue Ridge Mountains, Blue Ridge Parkway, and Pisgah National Forest. The river provides opportunities for tubing, kayaking, and paddleboarding during the warmer months. Additionally, there has been significant riverfront development with restaurants and breweries along its banks. For those who prefer to stay on land, greenways and parks offer recreational options near the water.",
+        "imageKeys": [
+            "esjQe10F3f6D1XSUtaJm9t6t8F8ppfEs",
+            "FzpVjQD0y0mhmGQMeGzbEYV7qGiszqYz",
+            "CN0GXMwoXjXKABCYvGtVih82xkpeRpl1"
+        ],
+        "ratingCount": 319,
+        "openingPeriods": null,
+        "name": "French Broad River",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": null,
+        "types": [
+            "River"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 6,
+                "2": 8,
+                "3": 16,
+                "4": 64,
+                "5": 224
+            }
+        }
+    }
+]

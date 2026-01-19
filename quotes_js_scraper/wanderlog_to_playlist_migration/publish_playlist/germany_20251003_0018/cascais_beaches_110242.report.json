@@ -1,0 +1,35 @@
+{
+  "job_index": 38,
+  "city": "Cascais",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/110242",
+  "title": "The 47 best beaches in and around Cascais",
+  "final_title": "Beaches of Cascais: Sun, Surf, and Serenity",
+  "from_cache": false,
+  "counts": {
+    "meta": 47,
+    "blocks": 47,
+    "merged": 47,
+    "accepted_before_trim": 31,
+    "rejected": 16,
+    "accepted_final": 19
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 23,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "1015",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\germany_20251003_0018\\cascais_beaches_110242.json",
+    "report_json": "publish_playlist\\germany_20251003_0018\\cascais_beaches_110242.report.json"
+  },
+  "created_ts": 1759438064
+}

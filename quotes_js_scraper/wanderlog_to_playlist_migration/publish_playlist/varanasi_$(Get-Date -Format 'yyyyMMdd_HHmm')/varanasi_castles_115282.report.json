@@ -1,0 +1,35 @@
+{
+  "job_index": 1,
+  "city": "Varanasi",
+  "category_used": "castles",
+  "url": "https://wanderlog.com/list/geoCategory/115282",
+  "title": "The 19 best castles in and around Varanasi",
+  "final_title": "The 19 best castles in and around Varanasi",
+  "from_cache": false,
+  "counts": {
+    "meta": 19,
+    "blocks": 19,
+    "merged": 19,
+    "accepted_before_trim": 0,
+    "rejected": 19,
+    "accepted_final": 0
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 12,
+    "title_calls": 0
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\varanasi_$(Get-Date -Format 'yyyyMMdd_HHmm')\\varanasi_castles_115282.json",
+    "report_json": "publish_playlist\\varanasi_$(Get-Date -Format 'yyyyMMdd_HHmm')\\varanasi_castles_115282.report.json"
+  },
+  "created_ts": 1758970778
+}

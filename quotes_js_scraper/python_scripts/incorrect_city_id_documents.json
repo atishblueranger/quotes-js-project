@@ -1,0 +1,204 @@
+{
+  "collection": "playlistsNew",
+  "validation_summary": {
+    "total_documents": 984,
+    "correct_city_id": 960,
+    "incorrect_city_id": 24,
+    "missing_city_id": 0
+  },
+  "documents_with_incorrect_city_id": [
+    {
+      "doc_id": "453",
+      "city_id": "India",
+      "city_id_type": "str",
+      "city": "India",
+      "slug": "road-trips-destinations-around-india-india",
+      "reason": "Cannot convert to integer: 'India'"
+    },
+    {
+      "doc_id": "460",
+      "city_id": "Bangalore",
+      "city_id_type": "str",
+      "city": "Bangalore",
+      "slug": "bangalore-gateway-to-scenic-road-trips-and-monsoon-escapes-bangalore-destination-7d5f51",
+      "reason": "Cannot convert to integer: 'Bangalore'"
+    },
+    {
+      "doc_id": "461",
+      "city_id": "Bangalore",
+      "city_id_type": "str",
+      "city": "Bangalore",
+      "slug": "road-trips-destinations-around-bangalore-bangalore-destination-b4db96",
+      "reason": "Cannot convert to integer: 'Bangalore'"
+    },
+    {
+      "doc_id": "462",
+      "city_id": "Bangalore",
+      "city_id_type": "str",
+      "city": "Bangalore",
+      "slug": "romantic-getaways-from-bangalore-for-a-perfect-escape-bangalore-destination-04ba65",
+      "reason": "Cannot convert to integer: 'Bangalore'"
+    },
+    {
+      "doc_id": "463",
+      "city_id": "Bangalore",
+      "city_id_type": "str",
+      "city": "Bangalore",
+      "slug": "best-stays-in-around-bangalore-bangalore-poi-3c7fdd",
+      "reason": "Cannot convert to integer: 'Bangalore'"
+    },
+    {
+      "doc_id": "464",
+      "city_id": "Bangalore",
+      "city_id_type": "str",
+      "city": "Bangalore",
+      "slug": "beaches-near-bangalore-for-a-perfect-beach-escape-bangalore-poi-2f1d5d",
+      "reason": "Cannot convert to integer: 'Bangalore'"
+    },
+    {
+      "doc_id": "504",
+      "city_id": "Kochi",
+      "city_id_type": "str",
+      "city": "Kochi",
+      "slug": "weekend-getaways-and-attractions-around-kochi-kochi-destination-449593",
+      "reason": "Cannot convert to integer: 'Kochi'"
+    },
+    {
+      "doc_id": "505",
+      "city_id": "Kochi",
+      "city_id_type": "str",
+      "city": "Kochi",
+      "slug": "beaches-for-a-perfect-getaway-in-kochi-kochi-poi-dde6d6",
+      "reason": "Cannot convert to integer: 'Kochi'"
+    },
+    {
+      "doc_id": "506",
+      "city_id": "Kochi",
+      "city_id_type": "str",
+      "city": "Kochi",
+      "slug": "sacred-sites-and-temples-in-kochi-kochi-poi-67c7ba",
+      "reason": "Cannot convert to integer: 'Kochi'"
+    },
+    {
+      "doc_id": "507",
+      "city_id": "Kochi",
+      "city_id_type": "str",
+      "city": "Kochi",
+      "slug": "waterfalls-near-kochi-kochi-poi-89e616",
+      "reason": "Cannot convert to integer: 'Kochi'"
+    },
+    {
+      "doc_id": "514",
+      "city_id": "Kerala",
+      "city_id_type": "str",
+      "city": "Kerala",
+      "slug": "vizags-best-beaches-for-a-relaxing-getaway-kerala-poi-c6ce1e",
+      "reason": "Cannot convert to integer: 'Kerala'"
+    },
+    {
+      "doc_id": "515",
+      "city_id": "Vizag",
+      "city_id_type": "str",
+      "city": "Vizag",
+      "slug": "top-rated-hill-stations-for-a-weekend-getaway-near-vizag-vizag-poi-58b9c1",
+      "reason": "Cannot convert to integer: 'Vizag'"
+    },
+    {
+      "doc_id": "516",
+      "city_id": "Vizag",
+      "city_id_type": "str",
+      "city": "Vizag",
+      "slug": "best-resorts-in-vizag-for-a-relaxing-stay-vizag-poi-31e677",
+      "reason": "Cannot convert to integer: 'Vizag'"
+    },
+    {
+      "doc_id": "517",
+      "city_id": "Vizag",
+      "city_id_type": "str",
+      "city": "Vizag",
+      "slug": "divine-temples-of-visakhapatnam-a-must-visit-guide-vizag-poi-b431ab",
+      "reason": "Cannot convert to integer: 'Vizag'"
+    },
+    {
+      "doc_id": "518",
+      "city_id": "Andaman & Nicobar Islands",
+      "city_id_type": "str",
+      "city": "Andaman & Nicobar Islands",
+      "slug": "sun-kissed-beaches-of-andaman-islands-andaman-nicobar-islands-poi-592468",
+      "reason": "Cannot convert to integer: 'Andaman & Nicobar Islands'"
+    },
+    {
+      "doc_id": "519",
+      "city_id": "Andaman & Nicobar Islands",
+      "city_id_type": "str",
+      "city": "Andaman & Nicobar Islands",
+      "slug": "island-escapes-andaman-nicobar-islands-andaman-nicobar-islands-destination-da9ec7",
+      "reason": "Cannot convert to integer: 'Andaman & Nicobar Islands'"
+    },
+    {
+      "doc_id": "520",
+      "city_id": "Andaman & Nicobar Islands",
+      "city_id_type": "str",
+      "city": "Andaman & Nicobar Islands",
+      "slug": "gorgeous-resorts-and-hotels-in-andaman-islands-andaman-nicobar-islands-poi-bcf145",
+      "reason": "Cannot convert to integer: 'Andaman & Nicobar Islands'"
+    },
+    {
+      "doc_id": "545",
+      "city_id": "India",
+      "city_id_type": "str",
+      "city": "India",
+      "slug": "untitled-india-destination-226f6f",
+      "reason": "Cannot convert to integer: 'India'"
+    },
+    {
+      "doc_id": "574",
+      "city_id": "Mumbai",
+      "city_id_type": "str",
+      "city": "Mumbai",
+      "slug": "architectural-wonders-of-mumbai-unveiled-mumbai-poi-a2d6e9",
+      "reason": "Cannot convert to integer: 'Mumbai'"
+    },
+    {
+      "doc_id": "582",
+      "city_id": "Thiruvananthapuram",
+      "city_id_type": "str",
+      "city": "Thiruvananthapuram",
+      "slug": "architectural-wonders-of-thiruvananthapuram-thiruvananthapuram-poi-2f1a4a",
+      "reason": "Cannot convert to integer: 'Thiruvananthapuram'"
+    },
+    {
+      "doc_id": "631",
+      "city_id": "Chennai",
+      "city_id_type": "str",
+      "city": "Chennai",
+      "slug": "chennais-architectural-wonders-a-journey-through-time-chennai-poi-bfe20c",
+      "reason": "Cannot convert to integer: 'Chennai'"
+    },
+    {
+      "doc_id": "632",
+      "city_id": "Chennai",
+      "city_id_type": "str",
+      "city": "Chennai",
+      "slug": "chennais-coastal-escapes-beach-bliss-awaits-chennai-poi-70e790",
+      "reason": "Cannot convert to integer: 'Chennai'"
+    },
+    {
+      "doc_id": "643",
+      "city_id": "Agra",
+      "city_id_type": "str",
+      "city": "Agra",
+      "slug": "architectural-wonders-of-agra-unveiled-agra-poi-e684e2",
+      "reason": "Cannot convert to integer: 'Agra'"
+    },
+    {
+      "doc_id": "644",
+      "city_id": "Agra",
+      "city_id_type": "str",
+      "city": "Agra",
+      "slug": "agras-iconic-frames-capture-the-magic-agra-poi-458644",
+      "reason": "Cannot convert to integer: 'Agra'"
+    }
+  ],
+  "documents_missing_city_id": []
+}

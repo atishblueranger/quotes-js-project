@@ -1,0 +1,35 @@
+{
+  "job_index": 6,
+  "city": "Madrid",
+  "category_used": "photo spots",
+  "url": "https://wanderlog.com/list/geoCategory/160418",
+  "title": "The 35 best photo spots in Madrid",
+  "final_title": "Capture the Magic of Madrid",
+  "from_cache": false,
+  "counts": {
+    "meta": 35,
+    "blocks": 35,
+    "merged": 35,
+    "accepted_before_trim": 31,
+    "rejected": 4,
+    "accepted_final": 19
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 32,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "974",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\spain_20251002_1031\\madrid_photo-spots_160418.json",
+    "report_json": "publish_playlist\\spain_20251002_1031\\madrid_photo-spots_160418.report.json"
+  },
+  "created_ts": 1759382943
+}

@@ -1,0 +1,145 @@
+{
+  "job_index": 0,
+  "city": "Chennai",
+  "category_used": "waterfalls",
+  "url": "https://wanderlog.com/list/geoCategory/178182",
+  "title": "The 10 best waterfalls near Chennai (Madras)",
+  "final_title": "Chennai's Enchanting Waterfall Escapes",
+  "from_cache": false,
+  "counts": {
+    "meta": 10,
+    "blocks": 10,
+    "merged": 10,
+    "accepted_before_trim": 1,
+    "rejected": 9,
+    "accepted_final": 1
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 5,
+    "title_calls": 1
+  },
+  "decisions": [
+    {
+      "placeId": "ChIJYTN9T-plUjoRM9RjaAunYW4",
+      "name": "Chennai",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "church",
+        "fort",
+        "museum",
+        "temple"
+      ],
+      "context_used_excerpt": "Target category: waterfalls General: Chennai, the vibrant capital of Tamil Nadu, is a city steeped in history and culture along the picturesque Bay of Bengal. Once known as Madras, it boasts significant landmarks like Fo"
+    },
+    {
+      "placeId": "ChIJNYWlz-dcUjoRLx2FG0jgw5Y",
+      "name": "VGP Universal Kingdom",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "theater"
+      ],
+      "context_used_excerpt": "Target category: waterfalls General: VGP Universal Kingdom is a sprawling amusement park located in Chennai, known for its extensive range of entertainment options suitable for all age groups. Established in 1975, this e"
+    },
+    {
+      "placeId": "ChIJd1_1rXyLUjoRuiOTijn7xQo",
+      "name": "Niagara Falls Model",
+      "accepted": true,
+      "decided_by": "heuristic",
+      "reason": "heuristic_pos",
+      "pos_hits": [
+        "falls",
+        "waterfall"
+      ],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: waterfalls General: Niagara Falls Model is a theme park located in Niagara Falls, Ontario. It opened on July 24, 2010 and is the largest indoor theme park in Canada. The park cost $245 million to build a"
+    },
+    {
+      "placeId": "ChIJm0WfhadnUjoRJ4P2a-jB6LE",
+      "name": "Fish Spa Pedicure",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "mall",
+        "market"
+      ],
+      "context_used_excerpt": "Target category: waterfalls General: Fish Spa Pedicure is a unique experience located in the lower ground floor at the end of SPAR supermarket, near the vegetable section. The spa, situated inside the Forum Mall, offers "
+    },
+    {
+      "placeId": "ChIJfQqkmnBnUjoRUCdR_JWGNMo",
+      "name": "Guindy",
+      "accepted": false,
+      "decided_by": "heuristic",
+      "reason": "heuristic_neg",
+      "pos_hits": [],
+      "neg_hits": [
+        "church"
+      ],
+      "context_used_excerpt": "Target category: waterfalls General: Guindy is a diverse district in Chennai, known for its industrial presence and natural attractions. The Guindy National Park is a prominent feature, boasting a tropical forest that ho"
+    },
+    {
+      "placeId": "ChIJMYANK6B8UjoRDWonhFKPvTE",
+      "name": "Red Hills",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: waterfalls General: Sengundram, known in English as Red Hills, is a suburb in the northwestern part of Chennai, Tamil Nadu, India in Thiruvallur District. Wikipedia. Board note: Sengundram, known in Engl"
+    },
+    {
+      "placeId": "ChIJ089FxUZnUjoRRqDZE3xfeF4",
+      "name": "Kathipara Flyover Bridge",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: waterfalls General: The Kathipara Flyover Bridge is a key point on the route that takes you through various landmarks and destinations. Starting from this flyover, the journey includes passing through Ko"
+    },
+    {
+      "placeId": "ChIJf8hRQKxkUjoR97GnDYsuedc",
+      "name": "Puzhal",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: waterfalls General: Pulhal or Pullhal is a Northwestern residential town in Chennai district in the Indian state of Tamil Nadu. Pullhal is located on the banks of Pullhal Lake. The town is known for Pull"
+    },
+    {
+      "placeId": "ChIJxZjIv-hkUjoRm442JICFmiY",
+      "name": "Madhavaram Roundabout",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: waterfalls General: Begin your journey at the Kathipara Flyover and head towards Koyambedu Flyover before reaching the Madhavaram Roundabout. Take a left turn to continue on NH 16, passing through Puzhal"
+    },
+    {
+      "placeId": "ChIJy0FdK71mUjoRr2zpjgbfRlE",
+      "name": "Koyambedu Flyover",
+      "accepted": false,
+      "decided_by": "llm",
+      "reason": "llm_no",
+      "pos_hits": [],
+      "neg_hits": [],
+      "context_used_excerpt": "Target category: waterfalls General: The Koyambedu Flyover is part of a route that takes you through various landmarks and areas in Tamil Nadu and Andra Pradesh. Starting from Kathipara Flyover, the route includes Madhav"
+    }
+  ],
+  "out_files": {
+    "playlist_json": "trial_playlists\\chennai_waterfalls_178182.json",
+    "report_json": "trial_playlists\\chennai_waterfalls_178182.report.json"
+  },
+  "created_ts": 1758855746
+}

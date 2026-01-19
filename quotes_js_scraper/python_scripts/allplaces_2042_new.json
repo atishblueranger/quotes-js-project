@@ -1,0 +1,848 @@
+{
+  "_id": "2042",
+  "city_name": "Aizawl",
+  "is_searchable": true,
+  "place_id": 2042,
+  "country_name": "India",
+  "city_name_search": "aizawl",
+  "longitude": 92.71835,
+  "parent_id": 87377,
+  "popularity": 278,
+  "manual_description": null,
+  "subcategory": "city",
+  "state_name": "Mizoram",
+  "bounds": [
+    92.65509,
+    23.67758,
+    92.76808,
+    23.81117
+  ],
+  "position": {
+    "geohash": "wh1yvz7qy",
+    "geopoint": {
+      "latitude": 23.72753,
+      "longitude": 92.71835
+    }
+  },
+  "latitude": 23.72753,
+  "image_key": "z6giS5XcxTlSVrhGAN1xy92hCJAwjTYu",
+  "depth": 4,
+  "place_description": "Aizawl, formerly known as Aijal, is the capital city and the most populous city of Mizoram, India. It is also the fourth largest city in northeast India, after Agartala and Imphal. It is situated atop a series of ridges, with an average elevation of around 1,132 metres above sea level. Wikipedia.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "86661",
+        "subcategory": "country",
+        "parentId": null,
+        "countryName": null,
+        "id": 86661,
+        "longitude": 77.21989,
+        "bounds": [
+          68.1097,
+          6.4627,
+          97.39536,
+          35.51333
+        ],
+        "latitude": 28.584963,
+        "depth": 0,
+        "stateName": null,
+        "popularity": 0,
+        "name": "India"
+      }
+    ],
+    "top_attractions": [
+      {
+        "_id": "ChIJ0VBuFxDrTTcRa8Sk3Ci99do",
+        "website": null,
+        "index": 3,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 92.727178,
+        "rating": 4.1,
+        "detail_description": "",
+        "imageKeys": [
+          "bEe1IipLCIKAb4fXZuY8hkm2lhXapSn5",
+          "7HIOKmz1hvomT85GRA39lSabj2kbFBkO",
+          "Zk47yn2A6EtsT73eZKtsAECh4J7TqHNE",
+          "bEe1IipLCIKAb4fXZuY8hkm2lhXapSn5",
+          "7HIOKmz1hvomT85GRA39lSabj2kbFBkO",
+          "Zk47yn2A6EtsT73eZKtsAECh4J7TqHNE"
+        ],
+        "ratingCount": 308,
+        "openingPeriods": [],
+        "excerpt": "",
+        "g_image_urls": [],
+        "placeId": "ChIJ0VBuFxDrTTcRa8Sk3Ci99do",
+        "name": "KV Paradise",
+        "reviews": [
+          {
+            "rating": 4,
+            "text": "Nestled in the serene Durtlang Hills near Aizawl, KV Paradise is a place that leaves visitors in awe, not just for its breathtaking location but for the moving story it holds. Known as the “Mizo Taj Mahal,” this three-story mausoleum was built by Khawlhring Varte in memory of his beloved wife, Rosangpuii Varte, who tragically passed away in 2001.\n\nThe structure is a harmonious blend of modern and traditional Mizo architecture. Inside, visitors can explore a gallery filled with photographs, belongings, and heartfelt inscriptions that tell the story of Rosangpuii's life. The ambiance is both peaceful and emotionally stirring, making it a unique experience compared to typical tourist spots.\n\nWhat makes KV Paradise special is its story of undying love and dedication. It's more than just a building; it's a living memory, an expression of a husband's grief turned into an eternal tribute.\n\nThe location itself is stunning, offering panoramic views of the rolling hills and lush greenery of Mizoram. It's an ideal spot for those seeking tranquility and inspiration.\n\nKV Paradise is not just a monument; it's a powerful reminder of love's enduring nature. Whether you're a tourist or a local, this is a place worth visiting.",
+            "author_name": "Nitish Dangoria",
+            "relative_time_description": "",
+            "time": 1738079632,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 1,
+            "text": "Excellent view from here but the monument is not well maintained.",
+            "author_name": "Dr. Arup Kumar",
+            "relative_time_description": "",
+            "time": 1753516560,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "The place is actually a tomb, of a beloved wife and a loving son: KV is their family name. But I felt good that they were allowing people to visit here, maybe with some fee. Though it was not properly maintained, then too worth visiting 👍🏽",
+            "author_name": "Debdoot Soren",
+            "relative_time_description": "",
+            "time": 1707118191,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "QPFG+MVM, Durtlang Rd, mel-5, Zion Veng, Aizawl, Mizoram 796015, India",
+        "latitude": 23.774214,
+        "types": []
+      },
+      {
+        "_id": "ChIJ6UXh2LHsTTcR1ZzUl_zS2bw",
+        "website": "http://www.kohhranthianghlim.org/",
+        "index": 0,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 92.688442,
+        "rating": 4.4,
+        "detail_description": "",
+        "imageKeys": [
+          "dETRs9J44UksLTLs4cgMzgDjmwDSPtCW",
+          "DfkPNrdsbeJ2qUa1owo5sxPTAcHbVXvR",
+          "FGMz8gthxL7choBXVAcdf79H7W7eB9nC",
+          "dETRs9J44UksLTLs4cgMzgDjmwDSPtCW",
+          "DfkPNrdsbeJ2qUa1owo5sxPTAcHbVXvR",
+          "FGMz8gthxL7choBXVAcdf79H7W7eB9nC"
+        ],
+        "ratingCount": 586,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "g_image_urls": [],
+        "placeId": "ChIJ6UXh2LHsTTcR1ZzUl_zS2bw",
+        "name": "Solomon's Temple, Aizawl",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "We visited the temple in the morning hours. It opens at 10:00 AM, and as we entered, the entire place looked absolutely gorgeous and mesmerizing. The pure white structure, the beautiful towers with crowns, and the peaceful surroundings made it a very serene experience.\n\nThe temple is not just an architectural wonder but also radiates a sense of calmness and spiritual positivity. The beautifully maintained open spaces, the grand verandahs, and the natural backdrop make it worth visiting.\n\nIt's definitely a must-visit place in Aizawl, whether for spiritual reasons or to admire its unique architecture. The peaceful morning visit added even more charm to the overall experience.",
+            "author_name": "Haresh Modi",
+            "relative_time_description": "",
+            "time": 1751203503,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "A lovely church set on top of a hill on the outskirts of Aizawl. It was completed recently in 2017 after 21 years of construction, with the external facade made mostly of marble. It cost around USD 3 Million to make which was mostly donated by the members of the congregation of the Kohhran Thianghlim (The Holy Church) - in some cases, with extremely large donations made by some members. A must visit on your next trip to Aizawl.",
+            "author_name": "Bhavesh Bhatia",
+            "relative_time_description": "",
+            "time": 1761028672,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Solomon's Temple in Aizawl is one of the most magnificent and spiritually uplifting landmarks in Mizoram. Situated amidst the serene hills of Chawlhhmun, this architectural marvel stands as a symbol of peace, faith, and devotion. The moment you enter the temple complex, you can feel an overwhelming sense of calm and reverence. The white stone structure gleams beautifully under the sunlight, and the surroundings are kept exceptionally clean and well-maintained by the staff and volunteers.\n\nThe temple's design is truly stunning - the intricate carvings, spacious courtyard, and tall pillars reflect both grandeur and divine inspiration. The entire area is surrounded by lush greenery, offering breathtaking panoramic views of the Aizawl hills. It's not only a religious site but also a peaceful place for meditation, photography, and learning about local culture and faith.\n\nInside, the atmosphere is serene and welcoming to visitors of all backgrounds. Regular services, gospel music, and community gatherings make it a vibrant spiritual center. There is also a small cafeteria and resting area for visitors, which adds to the comfort.\n\nWhether you are a believer or just a traveler, Solomon's Temple is a must-visit destination in Mizoram - a place where spirituality, architecture, and nature beautifully come together to create an unforgettable experience.\n\nDrinking water is available inside the premises at the entrance. Little snacks shop available at outside.",
+            "author_name": "Suman Pradhan",
+            "relative_time_description": "",
+            "time": 1761994431,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 389 233 0007",
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "Chawlhhmun, Aizawl, Mizoram 796009, India",
+        "latitude": 23.748018,
+        "types": [
+          "Christian church",
+          "Sights & Landmarks",
+          "Churches & Cathedrals"
+        ]
+      },
+      {
+        "_id": "ChIJ7VmJyZaNTTcRpyAN0My-bzE",
+        "website": null,
+        "index": 8,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 92.603717,
+        "rating": 4.5,
+        "detail_description": "Reiek mountain peak is a stunning natural wonder located at an altitude of 1,548 meters. This majestic peak boasts numerous hiking trails that offer breathtaking panoramic views of the valley and its surroundings. The summit also features a traditional Mizo village that adds to the charm and authenticity of this scenic location. On clear days, one can even see Bangladesh from the top.\n\n1,548-m. mountain featuring trails, a traditional Mizo village & panoramic views of the valley.",
+        "imageKeys": [
+          "DWLwaQNTsKWl7zudV0jjXDRTKRE3W0Mb",
+          "C5fqgY5o8377mzt9Q6aMNxsr3YEwjyPn",
+          "xhlmDUezbBo1T8tUh1pOSGvAxGxBxPbn",
+          "DWLwaQNTsKWl7zudV0jjXDRTKRE3W0Mb",
+          "C5fqgY5o8377mzt9Q6aMNxsr3YEwjyPn",
+          "xhlmDUezbBo1T8tUh1pOSGvAxGxBxPbn"
+        ],
+        "ratingCount": 168,
+        "openingPeriods": [],
+        "excerpt": "Reiek mountain peak is a stunning natural wonder located at an altitude of 1,548 meters. This majestic peak boasts numerous hiking trails that offer breathtaking panoramic views of the valley and its ",
+        "g_image_urls": [],
+        "placeId": "ChIJ7VmJyZaNTTcRpyAN0My-bzE",
+        "name": "Reiek",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Its a beautiful hiking place just one hour from Aizwal City.\nYou have to walk around one hour to reach the top , road work is under construction to the top.",
+            "author_name": "Be Wild",
+            "relative_time_description": "",
+            "time": 1725556682,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Reiek, located about 30 kilometers from Aizawl, is a serene hill station that beautifully combines natural beauty with cultural heritage. Known for its mesmerizing sunrise, lush greenery, and panoramic views, it's a favorite destination for trekkers and nature lovers. The preserved Mizo heritage village adds a cultural charm, making it an ideal spot for tourists.\n\nPros:\n1. Breathtaking Sunrise View – The sunrise over the misty hills is mesmerizing and a must-see for all visitors.\n\n2. Stunning Panoramic Views – Reiek Peak offers incredible views of the surrounding hills, valleys, and even the Bangladesh plains on clear days.\n\n3. Trekking Experience – The trek to the peak is moderately challenging and enjoyable, surrounded by lush greenery and serene nature.\n\n4. Cultural Heritage – The Mizo heritage village provides a glimpse into traditional Mizo architecture, lifestyle, and customs, adding a cultural touch to your visit.\n\n5. Peaceful Environment – A perfect getaway to unwind and reconnect with nature away from the city's hustle and bustle.\n\nCons:\n1. Road Construction to the Top – The government is building a road that allows vehicles to reach the peak, which diminishes the essence of trekking and the natural adventure experience.\n\n2. Limited Amenities – While the area is beautiful, amenities like restrooms and food stalls could be improved to enhance the visitor experience.",
+            "author_name": "Nitish Dangoria",
+            "relative_time_description": "",
+            "time": 1733951149,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Around 40km away from Awizal.\nOnly option to reach is private vehicle or Booked Taxi or Motorcycle.\nHowever, once you reach here, it's heavenly",
+            "author_name": "Shahrukh Raja",
+            "relative_time_description": "",
+            "time": 1729581703,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "Mizoram 796501, India, USA",
+        "latitude": 23.677661,
+        "types": [
+          "Mountain peak",
+          "Historic Sites",
+          "Neighborhoods"
+        ]
+      },
+      {
+        "_id": "ChIJAQAAABsKTTcR45Ned2G0qlY",
+        "website": null,
+        "index": 4,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 92.7512,
+        "rating": 4.2,
+        "detail_description": "Vantawng Falls is a remarkable natural waterfall located near Themzawl on the Lunglei road. The waterfall cascades from a height of 750 feet and is set amidst steep, forested slopes. Visitors can enjoy breathtaking views of the falls from a new watchtower nearby. A small detour leads to the site, which can be reached by bike or self-drive. The area also offers opportunities for boating and hiking for those looking to explore further.\n\nSignificant, 750-ft. natural waterfall set on steep, wooded slopes with a visitors' watchtower.",
+        "imageKeys": [
+          "ZBsvXukZeTlDaIty3Bb8e1NqPR5oKWoM",
+          "MDYa9IRbLrBW7YNH7m8TXX1YjN7veoA5",
+          "3gVSMKu1chx9rdRgDWhSCtSaIQ7NgulN",
+          "6O04Vb5TyUuJSPAm5KDsuW4RF7oEDeUp",
+          "ZBsvXukZeTlDaIty3Bb8e1NqPR5oKWoM",
+          "MDYa9IRbLrBW7YNH7m8TXX1YjN7veoA5",
+          "3gVSMKu1chx9rdRgDWhSCtSaIQ7NgulN",
+          "6O04Vb5TyUuJSPAm5KDsuW4RF7oEDeUp"
+        ],
+        "ratingCount": 213,
+        "openingPeriods": [],
+        "excerpt": "Vantawng Falls is a remarkable natural waterfall located near Themzawl on the Lunglei road. The waterfall cascades from a height of 750 feet and is set amidst steep, forested slopes. Visitors can enjo",
+        "g_image_urls": [],
+        "placeId": "ChIJAQAAABsKTTcR45Ned2G0qlY",
+        "name": "Vantawng Falls",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Must visit place. You will pay the entry price for Rs.30/- and you will enjoy the scenic and lush green atmosphere.",
+            "author_name": "Narendra Hansdah",
+            "relative_time_description": "",
+            "time": 1731805892,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "This is one of the most famous waterfalls in Mizoram but since I was visiting in March there was almost no water. The road wa under construction and it was just about okay from my side. I have need to better waterfalls and even considering the place with heavy flow of water, I would consider this place a bit overrated.",
+            "author_name": "Mannil Mukherjee",
+            "relative_time_description": "",
+            "time": 1743442600,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Vantawng Falls offers an excellent and breathtaking view of the waterfall, surrounded by lush green hills. However, the place is not well maintained, and visitors can only view the falls from the designated viewpoint, which is located at a distance from the waterfall. You cannot go near the falls, but the scenic beauty from the viewpoint itself is worth the visit. A perfect place to enjoy nature and capture stunning photographs.",
+            "author_name": "Haresh Modi",
+            "relative_time_description": "",
+            "time": 1751212575,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "6QM2+PFW, New, Serchhip, Buangpui, Mizoram 796186, India",
+        "latitude": 23.23437,
+        "types": [
+          "Nature & Parks",
+          "Waterfalls"
+        ]
+      },
+      {
+        "_id": "ChIJS9zuhR7ITTcRxZ-1hsWqvxM",
+        "website": null,
+        "index": 6,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 92.952875,
+        "rating": 4.3,
+        "detail_description": "Tam Dil is a picturesque lake that is flanked by woodlands and vacation spots. It presents a host of activities, including boating and swimming. The lake's tranquil surroundings provide an ideal atmosphere for relaxation and rejuvenation. Moreover, the reservoir draws in tourists who are seeking to escape the hustle and bustle of city life.\n\nThis small, scenic reservoir surrounded by trees & resorts offers boating, swimming & more.",
+        "imageKeys": [
+          "D6PySH94fVPl1KZBAqc8QZtxy2J5I3Vn",
+          "c1RJ3qOrNzlEmlPczYy4dJh5G9bnaRem",
+          "D6PySH94fVPl1KZBAqc8QZtxy2J5I3Vn",
+          "c1RJ3qOrNzlEmlPczYy4dJh5G9bnaRem"
+        ],
+        "ratingCount": 128,
+        "openingPeriods": [],
+        "excerpt": "Tam Dil is a picturesque lake that is flanked by woodlands and vacation spots. It presents a host of activities, including boating and swimming. The lake's tranquil surroundings provide an ideal atmos",
+        "g_image_urls": [],
+        "placeId": "ChIJS9zuhR7ITTcRxZ-1hsWqvxM",
+        "name": "Tam Dil",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Absolute serene, beautiful, picturesque place amidst surrounding green hills. The resort by it's bank is a perfect place for 2/3 days spiritual healing. A must visit for Mizoram itinerary.",
+            "author_name": "Abhijit Kumar Das",
+            "relative_time_description": "",
+            "time": 1747826689,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "Must visit at least once since its one of the most famous lake in Mizoram..the place itself serve a relaxing view.",
+            "author_name": "Kti Tonsing",
+            "relative_time_description": "",
+            "time": 1731831306,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 3,
+            "text": "Nature lovers seeking peace and photogenic landscapes.\n\nFamilies looking for simple lakeside relaxation or boating.\n\nEco-enthusiasts curious about rare species and natural habitats.\n\nVisitor tips, bring food and drinks.",
+            "author_name": "Puia Ralte",
+            "relative_time_description": "",
+            "time": 1757414997,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "Mizoram 796261, USA",
+        "latitude": 23.738565,
+        "types": [
+          "Lake"
+        ]
+      },
+      {
+        "_id": "ChIJVw2JYFfsTTcRLg5DDMx6g4s",
+        "website": null,
+        "index": 2,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 92.670797,
+        "rating": 3.9,
+        "detail_description": "",
+        "imageKeys": [
+          "5JW1kghcmLcDawCTr8YhJzVvBnIPFqRv",
+          "QsLAjWHyzNARCP3IuEGycISoVWvFegmc",
+          "g2GNa6oG7ZREov0VIlgd0HnvrxtsBb0C",
+          "5JW1kghcmLcDawCTr8YhJzVvBnIPFqRv",
+          "QsLAjWHyzNARCP3IuEGycISoVWvFegmc",
+          "g2GNa6oG7ZREov0VIlgd0HnvrxtsBb0C"
+        ],
+        "ratingCount": 670,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1600",
+              "day": 1
+            },
+            "open": {
+              "time": "1000",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1600",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "g_image_urls": [],
+        "placeId": "ChIJVw2JYFfsTTcRLg5DDMx6g4s",
+        "name": "Aizawl Zoological Park",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Located at the outskirt of Aizawl, you need to take a cab or use your own vehicle to come to this place. It is spacious enough to hold variety of wildlife in here. This place is so clean that you have to be very careful not to throw any rubbish anywhere. And you better bring a bottle of water with you as you need to walk around this place to see varieties of wild birds and wild animals. But it is so lovely and pleasant to walk down the road shaded by varieties of  beautiful trees. You can expect to see exotic birds and animals as well as rare species of birds, lizards and snake. Ticket is  not costly. I'm sure you won't regret coming here anytime you like.",
+            "author_name": "ma mawii",
+            "relative_time_description": "",
+            "time": 1726667428,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Good Zoo in dense green forest",
+            "author_name": "Sarika Goel",
+            "relative_time_description": "",
+            "time": 1751642198,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "lots of monkeys,lots of exotic birds. This place is good but it needs lots of improvements. No tigers, elephants or any big animal except for himalayan bears(super cute). The place is clean,only problem was there was no proper place to eat",
+            "author_name": "MLS K",
+            "relative_time_description": "",
+            "time": 1638773514,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "NH 44A, Lungverh, Mizoram 796009, India",
+        "latitude": 23.78988,
+        "types": [
+          "Zoo"
+        ]
+      },
+      {
+        "_id": "ChIJW5n8Zqjl-DkRHuaEu2OlO5o",
+        "website": null,
+        "index": 1,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 88.364765,
+        "rating": 4.6,
+        "detail_description": "The Kalna Shiv Mandir is a renowned Hindu temple located in Kalna, known for its breathtaking architecture and historical significance. Built in 1809, the temple features 108 small marble temples arranged in two concentric circles. The centerpiece of the complex is the beautiful 108 Shiv Mandir, which is widely considered one of the most attractive and popular Shiva temples in the area.\n\nBuilt in 1809, these 108 small, marble Hindu temples are arranged as 2 concentric circles.",
+        "imageKeys": [
+          "nVnmAH00BmTGgpXDYdhrBTGkxxo7cSP1",
+          "BqvXbh8FsXBTBeD0UEg0uffzrUorSru2",
+          "VHQwFFEE79tzlqRtm9bYR03OzvYvTBuS",
+          "nVnmAH00BmTGgpXDYdhrBTGkxxo7cSP1",
+          "BqvXbh8FsXBTBeD0UEg0uffzrUorSru2",
+          "VHQwFFEE79tzlqRtm9bYR03OzvYvTBuS"
+        ],
+        "ratingCount": 5101,
+        "openingPeriods": [],
+        "excerpt": "The Kalna Shiv Mandir is a renowned Hindu temple located in Kalna, known for its breathtaking architecture and historical significance. Built in 1809, the temple features 108 small marble temples arra",
+        "g_image_urls": [],
+        "placeId": "ChIJW5n8Zqjl-DkRHuaEu2OlO5o",
+        "name": "Kalna 108 Shiv Mandir",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Kalna's 108 Shiv Mandir, also known as 108 Shiva Temples, is one of the most iconic architectural marvels of West Bengal. Built in 1809 by Maharaja Teja Chandra, the complex is famous for its unique circular and parallel temple formations, housing 108 black and white Shiva lingas. Surrounded by peaceful gardens and intricate terracotta artistry, the site offers a serene spiritual atmosphere and stands as a stunning example of Bengal's temple architecture. It is one of the must-visit attractions in Kalna for both devotees and travelers.",
+            "author_name": "Gaurab Banerji",
+            "relative_time_description": "",
+            "time": 1763529256,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "A beautiful fragment of the rich religious culture of Bengal. The geometry of the arrangement of temples is magnificent. An outer circle of 74 temples surrounding an inner circle of 34 temples housing Shivling. Nature also added to the beauty of the place.\nThough more maintenance is required to keep the place clean, this doesn't lessen the beauty of this art.",
+            "author_name": "Ratnodip Saha",
+            "relative_time_description": "",
+            "time": 1754288525,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Ambika Kalna or Kalna is an old town that  can be easily called the City of Temples. Amongst the many temples, the most famous is the 108 Shiva temple. An architectural marvel, it has a total of 108 small temples dedicated to Lord Shiva and it's laid out in two concentric circles.\n\nThe outer circle has 74 temples and the inner one has 34 temples, total 108 temples housing a Shiva linga in black and white marble.\n\nInterestingly,  the lingas in the inner circle are all white which symbolises good deeds. The outer circle is divided equally in White and Black shiva lingas where black symbolizing our dark thoughts.",
+            "author_name": "Shovan Ghorai",
+            "relative_time_description": "",
+            "time": 1751429002,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "69C7+Q2H, Thakur Para, Kalna, West Bengal 713409, India",
+        "latitude": 23.220409,
+        "types": [
+          "Hindu temple",
+          "Sights & Landmarks",
+          "Sacred & Religious Sites",
+          "Points of Interest & Landmarks"
+        ]
+      },
+      {
+        "_id": "ChIJZyxRttTqTTcRoqlnQKSBUj8",
+        "website": null,
+        "index": 7,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 92.742005,
+        "rating": 4.3,
+        "detail_description": "",
+        "imageKeys": [
+          "aXMfEyfVOP4V4oVi9iV2mRFV10k8qxRd",
+          "keFb8OpZs23dKQ0qsRTqNBcgKKiWTU2R",
+          "aXMfEyfVOP4V4oVi9iV2mRFV10k8qxRd",
+          "keFb8OpZs23dKQ0qsRTqNBcgKKiWTU2R"
+        ],
+        "ratingCount": 112,
+        "openingPeriods": [],
+        "excerpt": "",
+        "g_image_urls": [],
+        "placeId": "ChIJZyxRttTqTTcRoqlnQKSBUj8",
+        "name": "Pushpak Gurudwara",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Very peaceful place. Evening view is so nice.",
+            "author_name": "Unnikuttan K R",
+            "relative_time_description": "",
+            "time": 1672461976,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Peaceful place. Visited while exploring north east.",
+            "author_name": "Dashrath Sangle",
+            "relative_time_description": "",
+            "time": 1679119271,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "Only holy place in aizawl for sikh but can go any one.... Outside city..  bus is easily available... Upto night 7.30pm...",
+            "author_name": "bipin kumar",
+            "relative_time_description": "",
+            "time": 1710292994,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 82589 43163",
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "PPQR+RRC, Aizawl, Mizoram 796017, India",
+        "latitude": 23.739567,
+        "types": [
+          "Gurudwara"
+        ]
+      },
+      {
+        "_id": "ChIJtUWCLLWUTTcRs445fVHdDbA",
+        "website": "http://mizoram.nic.in/",
+        "index": 5,
+        "utcOffset": 330,
+        "source_url": "https://wanderlog.com/list/webPlacesList/291060",
+        "longitude": 92.715758,
+        "rating": 4.1,
+        "detail_description": "",
+        "imageKeys": [
+          "FeplFc4xLObbHMXqmZ1GHsPDpXvmjY9F",
+          "yZMPgCMR3Nn2xau0QIv3JHdsQQrHyX5S",
+          "1ROKO0lh3OPg7gBstjpzHfIQHm7gxiw9",
+          "FeplFc4xLObbHMXqmZ1GHsPDpXvmjY9F",
+          "yZMPgCMR3Nn2xau0QIv3JHdsQQrHyX5S",
+          "1ROKO0lh3OPg7gBstjpzHfIQHm7gxiw9"
+        ],
+        "ratingCount": 728,
+        "openingPeriods": [
+          {
+            "close": {
+              "time": "1630",
+              "day": 1
+            },
+            "open": {
+              "time": "1300",
+              "day": 1
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 2
+            },
+            "open": {
+              "time": "1000",
+              "day": 2
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 3
+            },
+            "open": {
+              "time": "1000",
+              "day": 3
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 4
+            },
+            "open": {
+              "time": "1000",
+              "day": 4
+            }
+          },
+          {
+            "close": {
+              "time": "1630",
+              "day": 5
+            },
+            "open": {
+              "time": "1000",
+              "day": 5
+            }
+          },
+          {
+            "close": {
+              "time": "1400",
+              "day": 6
+            },
+            "open": {
+              "time": "1000",
+              "day": 6
+            }
+          }
+        ],
+        "excerpt": "",
+        "g_image_urls": [],
+        "placeId": "ChIJtUWCLLWUTTcRs445fVHdDbA",
+        "name": "Mizoram State Museum",
+        "reviews": [
+          {
+            "rating": 5,
+            "text": "Kind staff, cheap entry fee (only ₹20 for adults and ₹10 for children) and very well displayed exhibits. A must go for any person wanting to know more about Mizo history or just to see some nice animal displays.\n(You do need to pay an additional ₹20 if you want to take pictures though)",
+            "author_name": "Roid Squawk",
+            "relative_time_description": "",
+            "time": 1732095215,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 4,
+            "text": "The Mizoram State Museum in Aizawl is a must-visit for anyone interested in the rich culture and history of Mizoram. Located in the heart of the city, the museum houses a fascinating collection of traditional Mizo artifacts, textiles, weapons, and historical documents.\n\nThe displays are well-organized, providing deep insights into the indigenous tribes, their lifestyle, and their artistic heritage. The section on Mizo customs, festivals, and ancient tools is especially interesting. The staff is helpful, and the overall atmosphere is calm, making it a great place for learning and exploration.\n\nIf you're visiting Aizawl, this museum is a great stop to understand the unique traditions and history of Mizoram. Highly recommended for history buffs, students, and culture enthusiasts.",
+            "author_name": "Manas Patel",
+            "relative_time_description": "",
+            "time": 1740946791,
+            "profile_photo_url": ""
+          },
+          {
+            "rating": 5,
+            "text": "I strongly recommend all locals and tourists to pay a visit to this historic 'Mizoram State Museum. You'll definitely get to know the roots, history afterall. Even myself I'm amazed with the display and improves knowledge about my roots. It was all dark as there was no electricity at the time of our visit. Yet the receptionist was kind enough to take only Rs 10/- per head and free of charge for the camera. Despite all this, we went through each display one by one and I'm extremely grateful for this amazing opportunity. I would like to come back here in the future with proper lightings🙏💚🎀\nIt's truly a must visit place for everyone!",
+            "author_name": "GyBooLoo Vuite",
+            "relative_time_description": "",
+            "time": 1758602567,
+            "profile_photo_url": ""
+          }
+        ],
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+91 389 234 0936",
+        "g_description": "",
+        "image_url": "",
+        "country": "",
+        "city": "Aizawl",
+        "address": "PPQ8+68R, MacDonald Hill, Zarkawt, Aizawl, Mizoram 796007, India",
+        "latitude": 23.738119,
+        "types": [
+          "Museum",
+          "History Museums"
+        ]
+      }
+    ],
+    "travelInfo": [
+      {
+        "_id": "best_time_to_visit",
+        "seasonal": {
+          "March to May": "These months constitute the pre-monsoon or summer season, characterized by rising temperatures, particularly in northern and central India where it can become quite hot. Southern India remains warm but more bearable. This is a good time to visit hill stations such as Shimla, Manali, and Darjeeling to escape the heat. Tourist crowds tend to be lower except in hill resorts. Travelers can explore desert festivals in Rajasthan, enjoy river cruises, and visit historical sites early in the season before the heat intensifies.",
+          "June to August": "This is the monsoon season, with heavy rainfall across most of India, especially in the western coast, northeastern states, and the Himalayas. The rains rejuvenate the landscape, making it lush and green, ideal for nature lovers and photographers. However, heavy rains can disrupt travel plans and cause flooding in some areas. Tourist crowds are generally low except in regions like Kerala and Goa, which attract visitors for monsoon tourism. Travelers can enjoy Ayurvedic treatments, monsoon festivals, and trekking in less rain-affected areas.",
+          "Travel Tip": "When traveling in India, dress modestly and be prepared for varying climates by packing layers. Stay hydrated and use bottled water to avoid illness. Plan your itinerary according to the season and region to maximize comfort and experience. Booking accommodations and transport in advance during peak seasons is advisable. Embrace local customs and cuisine, and consider hiring local guides for a richer cultural experience. Always check weather forecasts and local advisories, especially during the monsoon season.",
+          "Overview": "India is a vast and diverse country in South Asia, known for its rich cultural heritage, varied landscapes, and vibrant traditions. The climate varies significantly across regions, from the Himalayan cold in the north to tropical heat in the south. Travelers can explore bustling cities, serene temples, majestic palaces, and natural wonders. The best time to visit depends on the region and the activities planned, with each season offering unique experiences.",
+          "December to February": "This period marks the winter season in most parts of India, with pleasant and cool weather, especially in northern and central regions. Temperatures range from mild to chilly, making it ideal for sightseeing in cities like Delhi, Agra, and Jaipur. The Himalayan region experiences cold weather and snow, perfect for winter sports and trekking. Southern India remains warm and comfortable. Tourist crowds are moderate to high, especially around major festivals like Christmas and New Year. Travelers can enjoy cultural festivals, wildlife safaris, and beach visits in the south.",
+          "Regional Highlights": "Northern India offers the majestic Himalayas, historic cities like Delhi and Agra, and the cultural richness of Rajasthan. The south is known for its tropical beaches, backwaters of Kerala, and ancient temples in Tamil Nadu. The east features the Sundarbans mangroves and the cultural heritage of Kolkata, while the west boasts the deserts of Gujarat and vibrant cities like Mumbai. The northeast is famed for its scenic beauty, tribal cultures, and biodiversity. Each region has distinct climates and attractions, making India a year-round destination depending on interests.",
+          "September to November": "Post-monsoon or autumn season brings pleasant weather with clear skies and moderate temperatures. This is considered one of the best times to visit India, as the landscape is refreshed and the climate is comfortable. Tourist destinations across the country see an increase in visitors, especially during festivals like Diwali. Travelers can explore cultural events, wildlife sanctuaries, and embark on trekking and adventure activities. The weather is ideal for visiting the deserts of Rajasthan, the beaches of Goa, and the temples of South India."
+        },
+        "locationContext": "India",
+        "monthlyRatings": {
+          "Apr": 3,
+          "Jun": 1,
+          "Jul": 1,
+          "Dec": 5,
+          "Mar": 4,
+          "Feb": 5,
+          "Aug": 2,
+          "Jan": 5,
+          "May": 2,
+          "Nov": 5,
+          "Oct": 4,
+          "Sep": 3
+        },
+        "label": "Aizawl"
+      },
+      {
+        "_id": "top_things_to_do",
+        "🕌 Exploring Old Delhi": "Old Delhi is a bustling maze of narrow lanes, historic mosques, and vibrant markets. Visiting landmarks like Jama Masjid and sampling local delicacies in the area provides an immersive cultural experience, best done early in the day to avoid crowds.",
+        "Conclusion": "India’s rich diversity and warm hospitality promise a journey full of discovery and wonder. Embrace the adventure and let the country’s timeless charm leave a lasting impression on your heart.",
+        "🏞️ Trekking in the Himalayas": "The Indian Himalayas offer breathtaking trekking routes with panoramic mountain views and tranquil nature. Popular trails like the Valley of Flowers or Markha Valley are ideal during the summer months for clear skies and vibrant flora.",
+        "🌿 Kerala Backwaters": "The tranquil backwaters of Kerala offer a peaceful retreat with houseboat cruises through lush landscapes and traditional villages. The best time to visit is from November to February when the weather is cool and dry, perfect for relaxation and nature watching.",
+        "Introduction": "India is a vibrant tapestry of colors, cultures, and traditions that captivate every traveler. From bustling cities to serene landscapes, it offers an unforgettable journey filled with diverse experiences.",
+        "🎨 Jaipur’s Pink City": "Jaipur, known as the Pink City, dazzles with its historic forts, palaces, and vibrant bazaars. Exploring the Amber Fort and local markets offers a glimpse into Rajasthan’s royal heritage and colorful crafts, best experienced in the cooler winter months.",
+        "🏰 Taj Mahal Visit": "The Taj Mahal in Agra is an iconic symbol of love and one of the New Seven Wonders of the World. Its stunning white marble architecture and intricate craftsmanship make it a must-see, best visited at sunrise for magical views and fewer crowds.",
+        "🛕 Khajuraho Temples": "The Khajuraho Group of Monuments showcases exquisite medieval Hindu and Jain temple architecture adorned with intricate sculptures. Visiting during the annual dance festival in February highlights the cultural richness and artistic heritage of the region.",
+        "🚂 Ride the Palace on Wheels": "The Palace on Wheels is a luxury train journey through Rajasthan’s royal cities, combining comfort with cultural exploration. This unique experience offers a glimpse into India’s regal past, best booked in advance during the cooler months.",
+        "🌅 Sunrise at Varanasi Ghats": "Witnessing the sunrise over the sacred Ganges River in Varanasi is a spiritual experience like no other. The early morning boat rides along the ghats reveal ancient rituals and a serene atmosphere, perfect for reflection and photography.",
+        "🌊 Beaches of Goa": "Goa’s beaches are famous for their golden sands, lively nightlife, and laid-back atmosphere. Whether you prefer quiet shores or vibrant beach parties, visiting between November and February offers pleasant weather and festive vibes.",
+        "🍛 Street Food in Delhi": "Delhi's street food scene is a culinary adventure offering everything from spicy chaat to rich kebabs. Exploring markets like Chandni Chowk provides authentic flavors and a lively vibe, best enjoyed with an adventurous palate and a sense of curiosity.",
+        "🎉 Attend a Festival": "India’s festivals are vibrant celebrations of culture, religion, and community, from Diwali’s lights to Holi’s colors. Timing your visit to coincide with a major festival provides an unforgettable, immersive experience filled with joy and tradition."
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1758984455,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\hyderabad_20250927_2017\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Hyderabad",
+      "category_used": "castles",
+      "url": "https://wanderlog.com/list/geoCategory/115250",
+      "title": "The 31 best castles in and around Hyderabad",
+      "final_title": "Hyderabad's Enchanted Castle Quest",
+      "from_cache": false,
+      "counts": {
+        "meta": 31,
+        "blocks": 31,
+        "merged": 31,
+        "accepted_before_trim": 3,
+        "rejected": 28,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\hyderabad_20250927_2017\\hyderabad_castles_115250.json",
+        "report_json": "publish_playlist\\hyderabad_20250927_2017\\hyderabad_castles_115250.report.json"
+      },
+      "created_ts": 1758984515
+    },
+    {
+      "job_index": 2,
+      "city": "Hyderabad",
+      "category_used": "architecture",
+      "url": "https://wanderlog.com/list/geoCategory/97260",
+      "title": "The 33 best architecture in Hyderabad",
+      "final_title": "Hyderabad's Architectural Wonders Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 33,
+        "blocks": 33,
+        "merged": 33,
+        "accepted_before_trim": 33,
+        "rejected": 0,
+        "accepted_final": 24
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "602",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\hyderabad_20250927_2017\\hyderabad_architecture_97260.json",
+        "report_json": "publish_playlist\\hyderabad_20250927_2017\\hyderabad_architecture_97260.report.json"
+      },
+      "created_ts": 1758985457
+    },
+    {
+      "job_index": 1,
+      "city": "Hyderabad",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160225",
+      "title": "The 49 best photo spots in Hyderabad",
+      "final_title": "Capturing Hyderabad: Iconic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 42,
+        "rejected": 7,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 46,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "603",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\hyderabad_20250927_2017\\hyderabad_photo-spots_160225.json",
+        "report_json": "publish_playlist\\hyderabad_20250927_2017\\hyderabad_photo-spots_160225.report.json"
+      },
+      "created_ts": 1758986804
+    }
+  ],
+  "end_ts": 1758986804,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 67,
+    "llm_title_calls": 3,
+    "google_places_calls": 48,
+    "cache_hits": 6,
+    "cache_misses": 121
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 67,
+    "llm_title_cache": 3,
+    "google_places_cache": 48,
+    "mobx_data_cache": 3
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "playlistTitle": "Secret Paris Spots",
+  "placeName": "Paris",
+  "country": "France",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hidden-gems-in-paris/"
+  ],
+  "description": "Warm twilight in hidden courtyards, secret cafés and riverside strolls—soundtrack for wandering Paris.",
+  "items": [
+    {
+      "name": "Canal St Martin",
+      "description": "",
+      "location_hint": "47 Quai de Valmy, 75010 Paris, France",
+      "opening_hours_text": "",
+      "entry_fee_text": "22 Euros for adults and 14 Euros for children"
+    },
+    {
+      "name": "Wall Of Love",
+      "description": "",
+      "location_hint": "Square Jehan Rictus, Pl. des Abbesses, 75018 Paris, France",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Balloon de Paris",
+      "description": "",
+      "location_hint": "Parc André Citroën, 75015 Paris, France",
+      "opening_hours_text": "",
+      "entry_fee_text": "18 Euros for adults and 12 Euros for children"
+    },
+    {
+      "name": "Pont Alexandre III Bridge",
+      "description": "",
+      "location_hint": "Pont Alexandre III, 75008 Paris, France",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Musee De Cluny",
+      "description": "",
+      "location_hint": "28 Rue du Sommerard, 75005 Paris, France",
+      "opening_hours_text": "",
+      "entry_fee_text": "9 Euros"
+    },
+    {
+      "name": "Rue Crémieux",
+      "description": "",
+      "location_hint": "Rue Crémieux, 75012 Paris, France",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    },
+    {
+      "name": "Paris Statue of Liberty",
+      "description": "",
+      "location_hint": "Pont de Grenelle, Paris, 75015 France",
+      "opening_hours_text": "",
+      "entry_fee_text": "NA"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

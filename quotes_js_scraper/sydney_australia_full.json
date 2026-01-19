@@ -1,0 +1,251 @@
+{
+  "_id": "82574",
+  "city_name": "Sydney",
+  "place_id": 82574,
+  "country_name": "Australia",
+  "city_name_search": "sydney",
+  "longitude": 151.20955,
+  "parent_id": 91388,
+  "popularity": 217882,
+  "manual_description": "As Australia's largest city, Sydney is known for its unique mix of modern and historic architecture, beautiful nature, and pristine beaches. Many of the city's most popular attractions are located along the magnificent Sydney Harbor, which surrounds the famous Sydney Opera House and the iconic Sydney Harbour Bridge.",
+  "subcategory": "municipality",
+  "state_name": "New South Wales",
+  "bounds": [
+    150.52093,
+    -34.11835,
+    151.34302,
+    -33.57814
+  ],
+  "image_url": [
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/82574/imagen_1.png",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/82574/imagen_2.png",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/82574/imagen_3.png",
+    "https://storage.googleapis.com/mycasavsc.appspot.com/places/82574.jpg"
+  ],
+  "position": {
+    "geohash": "r3gx2f5kt",
+    "geopoint": {
+      "latitude": -33.870037,
+      "longitude": 151.20955
+    }
+  },
+  "latitude": -33.870037,
+  "image_key": "dUeAJjvqPip8b0TkGUO8PjNZQgOU7nu1",
+  "depth": 3,
+  "place_description": "Sydney, capital of New South Wales and one of Australia's largest cities, is best known for its harbourfront Sydney Opera House, with a distinctive sail-like design. Massive Darling Harbour and the smaller Circular Quay port are hubs of waterside life, with the arched Harbour Bridge and esteemed Royal Botanic Garden nearby. Sydney Tower's outdoor platform, the Skywalk, offers 360-degree views of the city and suburbs.",
+  "subcollections": {
+    "ancestors": [
+      {
+        "_id": "91387",
+        "subcategory": "country",
+        "stateName": null,
+        "countryName": null,
+        "id": 91387,
+        "longitude": 149.12656,
+        "bounds": [
+          100.09111,
+          -51.66332,
+          166.74292,
+          -0.69113
+        ],
+        "latitude": -35.30655,
+        "popularity": 0,
+        "parentId": null,
+        "depth": 0,
+        "name": "Australia"
+      }
+    ],
+    "nearby": [
+      {
+        "_id": "82630",
+        "subcategory": "municipality",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 82630,
+        "longitude": 151.20761,
+        "bounds": [
+          151.20054,
+          -33.84515,
+          151.21863,
+          -33.82808
+        ],
+        "latitude": -33.838394,
+        "popularity": 2319,
+        "parentId": 91429,
+        "depth": 4,
+        "name": "North Sydney"
+      },
+      {
+        "_id": "82634",
+        "subcategory": "municipality",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 82634,
+        "longitude": 151.28716,
+        "bounds": [
+          151.2747,
+          -33.82387,
+          151.30746,
+          -33.78282
+        ],
+        "latitude": -33.796898,
+        "popularity": 2829,
+        "parentId": 91429,
+        "depth": 4,
+        "name": "Manly"
+      },
+      {
+        "_id": "82638",
+        "subcategory": "municipality",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 82638,
+        "longitude": 151.20695,
+        "bounds": [
+          151.93586,
+          -32.74702,
+          152.20471,
+          -32.64611
+        ],
+        "latitude": -33.8696,
+        "popularity": 4428,
+        "parentId": 91407,
+        "depth": 4,
+        "name": "Port Stephens"
+      },
+      {
+        "_id": "82640",
+        "subcategory": "municipality",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 82640,
+        "longitude": 151.20695,
+        "bounds": [
+          151.23193,
+          -33.89087,
+          151.25638,
+          -33.8806
+        ],
+        "latitude": -33.8696,
+        "popularity": 884,
+        "parentId": 82574,
+        "depth": 4,
+        "name": "Woollahra"
+      },
+      {
+        "_id": "82657",
+        "subcategory": "municipality",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 82657,
+        "longitude": 151.2366,
+        "bounds": [
+          151.22531,
+          -33.93424,
+          151.25498,
+          -33.90243
+        ],
+        "latitude": -33.91439,
+        "popularity": 707,
+        "parentId": 91429,
+        "depth": 4,
+        "name": "Randwick"
+      },
+      {
+        "_id": "82669",
+        "subcategory": "city",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 82669,
+        "longitude": 151.26826,
+        "bounds": [
+          151.25805,
+          -33.89823,
+          151.27585,
+          -33.88794
+        ],
+        "latitude": -33.895325,
+        "popularity": 754,
+        "parentId": 91429,
+        "depth": 4,
+        "name": "Bondi"
+      },
+      {
+        "_id": "82782",
+        "subcategory": "municipality",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 82782,
+        "longitude": 151.20695,
+        "bounds": [
+          151.07968,
+          -33.71639,
+          151.1215,
+          -33.6783
+        ],
+        "latitude": -33.8696,
+        "popularity": 233,
+        "parentId": 91429,
+        "depth": 4,
+        "name": "Hornsby"
+      },
+      {
+        "_id": "82819",
+        "subcategory": "municipality",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 82819,
+        "longitude": 151.20695,
+        "bounds": [
+          151.2283681,
+          -33.8533265,
+          151.2688683,
+          -33.8033407
+        ],
+        "latitude": -33.8696,
+        "popularity": 7117,
+        "parentId": 91429,
+        "depth": 4,
+        "name": "Mosman"
+      },
+      {
+        "_id": "83069",
+        "subcategory": "city",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 83069,
+        "longitude": 151.26894,
+        "bounds": [
+          151.2525,
+          -33.88516,
+          151.27886,
+          -33.86315
+        ],
+        "latitude": -33.87022,
+        "popularity": 672,
+        "parentId": 91429,
+        "depth": 4,
+        "name": "Rose Bay"
+      },
+      {
+        "_id": "91429",
+        "subcategory": "district",
+        "stateName": "New South Wales",
+        "countryName": "Australia",
+        "id": 91429,
+        "longitude": 151.21234,
+        "bounds": [
+          150.58839,
+          -34.04561,
+          150.96689,
+          -33.54566
+        ],
+        "latitude": -33.870884,
+        "popularity": 24768,
+        "parentId": 91388,
+        "depth": 3,
+        "name": "Greater Sydney"
+      }
+    ]
+  }
+}

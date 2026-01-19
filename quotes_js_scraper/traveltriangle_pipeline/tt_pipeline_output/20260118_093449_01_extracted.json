@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "New Zealand Beach Escapes",
+  "placeName": "New-zealand",
+  "country": "New Zealand",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/new-zealand-beach-resorts/"
+  ],
+  "description": "Sunlit bays, windswept dunes and chilled beats for coastal drives from Piha to Abel Tasman.",
+  "items": [
+    {
+      "name": "Beachside Resort Whitianga",
+      "description": "",
+      "location_hint": "20 Eyre St, Whitianga 3510, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "VR Rotura Lake Resort",
+      "description": "",
+      "location_hint": "366, Rotorua, State Highway 33, Mourea 3074, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Papamoa Beach Resort",
+      "description": "",
+      "location_hint": "535 Papamoa Beach Rd, Papamoa Beach, Papamoa 3118, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Punakaiki Resort",
+      "description": "",
+      "location_hint": "State Highway 6, Punakaiki 8252, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The White Morph Heritage Collection",
+      "description": "",
+      "location_hint": "92 Esplanade, Kaikoura, 7300, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ramada Resort Reia Taipa Beach",
+      "description": "",
+      "location_hint": "22 Taipa Point Rd, Taipa 0420, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Oceanside Resort and Twin Towers",
+      "description": "",
+      "location_hint": "1 Maunganui Rd, Mount Maunganui, Mount Maunganui, Tauranga 3116, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Paihia Beach Resort and Spa",
+      "description": "",
+      "location_hint": "130 Marsden Rd, Bay Of Islands, Paihia 0200, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Beachfront Resort",
+      "description": "",
+      "location_hint": "113 Buffalo Beach Rd, Whitianga 3510, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Lodge at Kauri Cliffs",
+      "description": "",
+      "location_hint": "Matauri Bay Rd, Matauri Bay, New Zealand",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

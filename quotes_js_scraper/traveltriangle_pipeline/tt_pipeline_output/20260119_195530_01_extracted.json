@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "London Castle Crawl",
+  "placeName": "London",
+  "country": "the-united-kingdom",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/castles-in-london/"
+  ],
+  "description": "A soundtrack for wandering London's ancient fortresses and hidden courtyards, from dawn to dusk.",
+  "items": [
+    {
+      "name": "Hampton Court Palace",
+      "description": "",
+      "location_hint": "Molesey, East Molesey KT8 9AU, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "The Tower of London",
+      "description": "",
+      "location_hint": "St. Katharine's & Wapping, London EC3N 4AB, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kensington Palace",
+      "description": "",
+      "location_hint": "Kensington Gardens, London W8 4PX, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Buckingham Palace",
+      "description": "",
+      "location_hint": "Westminster, London SW1A 1AA, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Hever Castle",
+      "description": "",
+      "location_hint": "Hever Road, Hever, Edenbridge, TN8 7NG, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Leeds Castle",
+      "description": "",
+      "location_hint": "Maidstone ME17 1PL, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Highclere Castle",
+      "description": "",
+      "location_hint": "Highclere Park, Highclere, Newbury RG20 9RN, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Windsor Castle",
+      "description": "",
+      "location_hint": "Windsor SL4 1NJ, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Clearwell Castle",
+      "description": "",
+      "location_hint": "Clearwell, Coleford GL 16 8LG, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Pendennis Castle – Cornwall",
+      "description": "",
+      "location_hint": "Castle Dr, Falmouth TR11 4LP, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Singapore Green Escapes",
+  "placeName": "Singapore",
+  "country": "Singapore",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/national-parks-in-singapore/"
+  ],
+  "description": "Healing city beats for walks through Singapore's parks and hidden green corners, calm and bright.",
+  "items": [
+    {
+      "name": "Bukit Timah Nature Reserve",
+      "description": "",
+      "location_hint": "Hindhede Dr, Singapore 589318",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Singapore Botanic Gardens",
+      "description": "",
+      "location_hint": "1 Cluny Rd, Singapore 259569",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sungei Buloh Wetland Reserve",
+      "description": "",
+      "location_hint": "301 Neo Tiew Cres, Singapore 718925",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Labrador Nature Reserve",
+      "description": "",
+      "location_hint": "Labrador Villa Road, Singapore 119187",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "East Coast Park",
+      "description": "",
+      "location_hint": "E Coast Park Service Rd, Singapore 449876",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Bukit Batok Nature Park",
+      "description": "",
+      "location_hint": "' Bukit Batok East Avenue 2 and Bukit Batok East Avenue 6, Singapore 659761",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Pasir Ris Park",
+      "description": "",
+      "location_hint": "98 Pasir Ris Central, Singapore 519639",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Chestnut Nature Park",
+      "description": "",
+      "location_hint": "Chestnut Avenue, Singapore 679514",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Dairy Farm Nature Park",
+      "description": "",
+      "location_hint": "100 Dairy Farm Rd, Singapore 679057",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Fort Canning Park",
+      "description": "",
+      "location_hint": "River Valley Rd, Singapore 179037",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

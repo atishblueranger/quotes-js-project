@@ -1,0 +1,76 @@
+{
+  "playlistTitle": "Hidden Swiss Treasures",
+  "placeName": "Switzerland",
+  "country": "Switzerland",
+  "category": "Travel",
+  "subtype": "destination",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/hidden-gems-in-switzerland/"
+  ],
+  "description": "A soundtrack for wandering alpine trails, quiet lakesides and secret village corners across Switzerland.",
+  "items": [
+    {
+      "name": "Wengen",
+      "description": "",
+      "location_hint": "Wengen, 3823 Lauterbrunnen, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lauterbrunnen Valley",
+      "description": "",
+      "location_hint": "Lauterbrunnen, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "La Gruyere",
+      "description": "",
+      "location_hint": "Gruyère District, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Lucerne",
+      "description": "",
+      "location_hint": "Lake Lucerne, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lugano",
+      "description": "",
+      "location_hint": "Lugano, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Ascona",
+      "description": "",
+      "location_hint": "Ascona, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Grindelwald",
+      "description": "",
+      "location_hint": "Grindelwald, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Weggis",
+      "description": "",
+      "location_hint": "Weggis, Switzerland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

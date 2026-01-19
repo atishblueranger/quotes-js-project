@@ -1,0 +1,35 @@
+{
+  "job_index": 21,
+  "city": "Stuttgart",
+  "category_used": "backpacking trails",
+  "url": "https://wanderlog.com/list/geoCategory/106548",
+  "title": "The 49 best backpacking trails near Stuttgart",
+  "final_title": "The 49 best backpacking trails near Stuttgart",
+  "from_cache": false,
+  "counts": {
+    "meta": 49,
+    "blocks": 49,
+    "merged": 49,
+    "accepted_before_trim": 0,
+    "rejected": 49,
+    "accepted_final": 0
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 32,
+    "title_calls": 0
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\germany_20251003_0018\\stuttgart_beaches_106548.json",
+    "report_json": "publish_playlist\\germany_20251003_0018\\stuttgart_beaches_106548.report.json"
+  },
+  "created_ts": 1759441923
+}

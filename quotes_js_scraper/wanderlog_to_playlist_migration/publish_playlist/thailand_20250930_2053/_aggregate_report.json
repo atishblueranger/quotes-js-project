@@ -1,0 +1,1289 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759245824,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\thailand_20250930_2053\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 3,
+      "city": "Bangkok",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109788",
+      "title": "The 17 best beaches in and around Bangkok",
+      "final_title": "Bangkok's Hidden Beach Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 1,
+        "rejected": 16,
+        "accepted_final": 1
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 8,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\bangkok_beaches_109788.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\bangkok_beaches_109788.report.json"
+      },
+      "created_ts": 1759245849
+    },
+    {
+      "job_index": 6,
+      "city": "Chiang Mai",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160173",
+      "title": "The 42 best photo spots in Chiang Mai",
+      "final_title": "Chiang Mai's Picture-Perfect Paradises",
+      "from_cache": false,
+      "counts": {
+        "meta": 42,
+        "blocks": 42,
+        "merged": 42,
+        "accepted_before_trim": 29,
+        "rejected": 13,
+        "accepted_final": 21
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 40,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "682",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_photo-spots_160173.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_photo-spots_160173.report.json"
+      },
+      "created_ts": 1759246288
+    },
+    {
+      "job_index": 0,
+      "city": "Bangkok",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163758",
+      "title": "The 46 most romantic places in Bangkok",
+      "final_title": "Enchanting Escapes: Love in Bangkok",
+      "from_cache": false,
+      "counts": {
+        "meta": 46,
+        "blocks": 46,
+        "merged": 46,
+        "accepted_before_trim": 43,
+        "rejected": 3,
+        "accepted_final": 31
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "683",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\bangkok_romantic-places_163758.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\bangkok_romantic-places_163758.report.json"
+      },
+      "created_ts": 1759246770
+    },
+    {
+      "job_index": 2,
+      "city": "Bangkok",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/140371",
+      "title": "The 49 best malls in Bangkok",
+      "final_title": "Bangkok's Mall Marvels: A Shopper's Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 44,
+        "rejected": 5,
+        "accepted_final": 31
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 14,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "684",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\bangkok_malls_140371.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\bangkok_malls_140371.report.json"
+      },
+      "created_ts": 1759247297
+    },
+    {
+      "job_index": 21,
+      "city": "Hua Hin",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163859",
+      "title": "The 40 most romantic places in Hua Hin",
+      "final_title": "Whispers of Love in Hua Hin",
+      "from_cache": false,
+      "counts": {
+        "meta": 40,
+        "blocks": 40,
+        "merged": 40,
+        "accepted_before_trim": 40,
+        "rejected": 0,
+        "accepted_final": 28
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "685",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\hua-hin_romantic-places_163859.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\hua-hin_romantic-places_163859.report.json"
+      },
+      "created_ts": 1759247737
+    },
+    {
+      "job_index": 19,
+      "city": "Bophut",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160240",
+      "title": "The 21 best photo spots in Bophut",
+      "final_title": "Bophut's Picture-Perfect Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 17,
+        "rejected": 4,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "686",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\bophut_photo-spots_160240.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\bophut_photo-spots_160240.report.json"
+      },
+      "created_ts": 1759247971
+    },
+    {
+      "job_index": 22,
+      "city": "Hua Hin",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160261",
+      "title": "The 41 best photo spots in Hua Hin",
+      "final_title": "Capture Hua Hin: Scenic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 41,
+        "blocks": 41,
+        "merged": 41,
+        "accepted_before_trim": 24,
+        "rejected": 17,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 34,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "687",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\hua-hin_photo-spots_160261.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\hua-hin_photo-spots_160261.report.json"
+      },
+      "created_ts": 1759248312
+    },
+    {
+      "job_index": 20,
+      "city": "Bophut",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109868",
+      "title": "The 29 best beaches in and around Bophut",
+      "final_title": "Bophut Bliss: Beaches to Discover",
+      "from_cache": false,
+      "counts": {
+        "meta": 29,
+        "blocks": 29,
+        "merged": 29,
+        "accepted_before_trim": 21,
+        "rejected": 8,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 8,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "688",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\bophut_beaches_109868.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\bophut_beaches_109868.report.json"
+      },
+      "created_ts": 1759248565
+    },
+    {
+      "job_index": 39,
+      "city": "Mae Rim",
+      "category_used": "waterfalls",
+      "url": "https://wanderlog.com/list/geoCategory/178370",
+      "title": "The 16 best waterfalls near Mae Rim",
+      "final_title": "Chasing Cascades: Mae Rim's Waterfall Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 4,
+        "rejected": 12,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 10,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_waterfalls_178370.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_waterfalls_178370.report.json"
+      },
+      "created_ts": 1759248598
+    },
+    {
+      "job_index": 40,
+      "city": "Mae Rim",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160380",
+      "title": "The 20 best photo spots in Mae Rim",
+      "final_title": "Capturing Mae Rim's Scenic Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 15,
+        "rejected": 5,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 18,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "690",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_photo-spots_160380.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_photo-spots_160380.report.json"
+      },
+      "created_ts": 1759248815
+    },
+    {
+      "job_index": 38,
+      "city": "Mae Rim",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163978",
+      "title": "The 18 most romantic places in Mae Rim",
+      "final_title": "Whispers of Love in Mae Rim",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 18,
+        "rejected": 0,
+        "accepted_final": 13
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "691",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_romantic-places_163978.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_romantic-places_163978.report.json"
+      },
+      "created_ts": 1759249018
+    },
+    {
+      "job_index": 42,
+      "city": "Chalong",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/165496",
+      "title": "The 20 most romantic places in Chalong",
+      "final_title": "Enchanting Escapes: Romance in Chalong",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 20,
+        "rejected": 0,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "692",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chalong_romantic-places_165496.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chalong_romantic-places_165496.report.json"
+      },
+      "created_ts": 1759249237
+    },
+    {
+      "job_index": 41,
+      "city": "Mae Rim",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/140591",
+      "title": "The 31 best malls in Mae Rim",
+      "final_title": "Mae Rim Mall Adventures Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 31,
+        "blocks": 31,
+        "merged": 31,
+        "accepted_before_trim": 14,
+        "rejected": 17,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "693",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_malls_140591.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\mae-rim_malls_140591.report.json"
+      },
+      "created_ts": 1759249431
+    },
+    {
+      "job_index": 44,
+      "city": "Chalong",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/111526",
+      "title": "The 21 best beaches in and around Chalong",
+      "final_title": "Chalong's Coastal Escapes: Beach Bliss Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 13,
+        "rejected": 8,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 5,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "694",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chalong_beaches_111526.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chalong_beaches_111526.report.json"
+      },
+      "created_ts": 1759249637
+    },
+    {
+      "job_index": 46,
+      "city": "Patong",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/165498",
+      "title": "The 30 most romantic places in Patong",
+      "final_title": "Romantic Escapes in Patong Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 30,
+        "rejected": 0,
+        "accepted_final": 21
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "695",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\patong_romantic-places_165498.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\patong_romantic-places_165498.report.json"
+      },
+      "created_ts": 1759249983
+    },
+    {
+      "job_index": 5,
+      "city": "Chiang Mai",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129590",
+      "title": "The 27 best free attractions in Chiang Mai",
+      "final_title": "Chiang Mai's Hidden Gems: Free Adventures Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 2,
+        "rejected": 25,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 12,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_beaches_129590.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_beaches_129590.report.json"
+      },
+      "created_ts": 1759250021
+    },
+    {
+      "job_index": 60,
+      "city": "Kata Beach",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/111532",
+      "title": "The 24 best beaches in and around Kata Beach",
+      "final_title": "Beaches of Bliss: Discover Kata's Coastal Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 21,
+        "rejected": 3,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "697",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\kata-beach_beaches_111532.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\kata-beach_beaches_111532.report.json"
+      },
+      "created_ts": 1759250267
+    },
+    {
+      "job_index": 9,
+      "city": "Phuket Town",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/140413",
+      "title": "The 27 best malls in Phuket Town",
+      "final_title": "Phuket Town's Malls: A Shopper's Paradise",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 15,
+        "rejected": 12,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 17,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "698",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\phuket-town_malls_140413.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\phuket-town_malls_140413.report.json"
+      },
+      "created_ts": 1759250461
+    },
+    {
+      "job_index": 8,
+      "city": "Phuket Town",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160202",
+      "title": "The 33 best photo spots in Phuket Town",
+      "final_title": "Picture-Perfect Phuket Town Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 33,
+        "blocks": 33,
+        "merged": 33,
+        "accepted_before_trim": 17,
+        "rejected": 16,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 27,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "699",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\phuket-town_photo-spots_160202.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\phuket-town_photo-spots_160202.report.json"
+      },
+      "created_ts": 1759250711
+    },
+    {
+      "job_index": 11,
+      "city": "Kathu",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160204",
+      "title": "The 26 best photo spots in Kathu",
+      "final_title": "Kathu's Captivating Clicks: Discover Photo Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 11,
+        "rejected": 15,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 23,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "700",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\kathu_photo-spots_160204.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\kathu_photo-spots_160204.report.json"
+      },
+      "created_ts": 1759250919
+    },
+    {
+      "job_index": 7,
+      "city": "Chiang Mai",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/140384",
+      "title": "The 49 best malls in Chiang Mai",
+      "final_title": "Charming Malls of Chiang Mai Adventure",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 27,
+        "rejected": 22,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 21,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "701",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_malls_140384.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_malls_140384.report.json"
+      },
+      "created_ts": 1759251245
+    },
+    {
+      "job_index": 1,
+      "city": "Bangkok",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129577",
+      "title": "The 48 best free attractions in Bangkok",
+      "final_title": "Discover Bangkok's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 48,
+        "blocks": 48,
+        "merged": 48,
+        "accepted_before_trim": 3,
+        "rejected": 45,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\bangkok_beaches_129577.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\bangkok_beaches_129577.report.json"
+      },
+      "created_ts": 1759251272
+    },
+    {
+      "job_index": 10,
+      "city": "Kathu",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163802",
+      "title": "The 23 most romantic places in Kathu",
+      "final_title": "Romantic Escapes in Enchanting Kathu",
+      "from_cache": false,
+      "counts": {
+        "meta": 23,
+        "blocks": 23,
+        "merged": 23,
+        "accepted_before_trim": 23,
+        "rejected": 0,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "703",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\kathu_romantic-places_163802.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\kathu_romantic-places_163802.report.json"
+      },
+      "created_ts": 1759251528
+    },
+    {
+      "job_index": 4,
+      "city": "Chiang Mai",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163771",
+      "title": "The 48 most romantic places in Chiang Mai",
+      "final_title": "Romantic Escapes in Enchanting Chiang Mai",
+      "from_cache": false,
+      "counts": {
+        "meta": 48,
+        "blocks": 48,
+        "merged": 48,
+        "accepted_before_trim": 48,
+        "rejected": 0,
+        "accepted_final": 34
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "704",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_romantic-places_163771.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-mai_romantic-places_163771.report.json"
+      },
+      "created_ts": 1759252034
+    },
+    {
+      "job_index": 29,
+      "city": "Rawai",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163909",
+      "title": "The 16 most romantic places in Rawai",
+      "final_title": "Romantic Escapes in Rawai's Hidden Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 16,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "705",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\rawai_romantic-places_163909.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\rawai_romantic-places_163909.report.json"
+      },
+      "created_ts": 1759252219
+    },
+    {
+      "job_index": 27,
+      "city": "Chiang Rai",
+      "category_used": "waterfalls",
+      "url": "https://wanderlog.com/list/geoCategory/178299",
+      "title": "The 15 best waterfalls near Chiang Rai",
+      "final_title": "Chasing Cascades: Waterfall Wonders of Chiang Rai",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 2,
+        "rejected": 13,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 3,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-rai_waterfalls_178299.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-rai_waterfalls_178299.report.json"
+      },
+      "created_ts": 1759252230
+    },
+    {
+      "job_index": 25,
+      "city": "Khao Lak",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109908",
+      "title": "The 22 best beaches in and around Khao Lak",
+      "final_title": "Sun-Kissed Shores of Khao Lak",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 17,
+        "rejected": 5,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "707",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\khao-lak_beaches_109908.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\khao-lak_beaches_109908.report.json"
+      },
+      "created_ts": 1759252428
+    },
+    {
+      "job_index": 28,
+      "city": "Chiang Rai",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160309",
+      "title": "The 24 best photo spots in Chiang Rai",
+      "final_title": "Capturing Chiang Rai's Hidden Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 17,
+        "rejected": 7,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 23,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "708",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chiang-rai_photo-spots_160309.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chiang-rai_photo-spots_160309.report.json"
+      },
+      "created_ts": 1759252688
+    },
+    {
+      "job_index": 30,
+      "city": "Rawai",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160311",
+      "title": "The 19 best photo spots in Rawai",
+      "final_title": "Capturing Rawai: Scenic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 19,
+        "blocks": 19,
+        "merged": 19,
+        "accepted_before_trim": 6,
+        "rejected": 13,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\rawai_photo-spots_160311.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\rawai_photo-spots_160311.report.json"
+      },
+      "created_ts": 1759252723
+    },
+    {
+      "job_index": 13,
+      "city": "Pattaya",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129644",
+      "title": "The 22 best free attractions in Pattaya",
+      "final_title": "Discover Pattaya's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 7,
+        "rejected": 15,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 8,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\pattaya_beaches_129644.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\pattaya_beaches_129644.report.json"
+      },
+      "created_ts": 1759252747
+    },
+    {
+      "job_index": 15,
+      "city": "Pattaya",
+      "category_used": "malls",
+      "url": "https://wanderlog.com/list/geoCategory/140438",
+      "title": "The 36 best malls in Pattaya",
+      "final_title": "Shopping Adventures in Vibrant Pattaya",
+      "from_cache": false,
+      "counts": {
+        "meta": 36,
+        "blocks": 36,
+        "merged": 36,
+        "accepted_before_trim": 15,
+        "rejected": 21,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 19,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "711",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\pattaya_malls_140438.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\pattaya_malls_140438.report.json"
+      },
+      "created_ts": 1759252953
+    },
+    {
+      "job_index": 24,
+      "city": "Khao Lak",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163878",
+      "title": "The 16 most romantic places in Khao Lak",
+      "final_title": "Romantic Escapes in Khao Lak",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 16,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "712",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\khao-lak_romantic-places_163878.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\khao-lak_romantic-places_163878.report.json"
+      },
+      "created_ts": 1759253133
+    },
+    {
+      "job_index": 16,
+      "city": "Pattaya",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109855",
+      "title": "The 21 best beaches in and around Pattaya",
+      "final_title": "Sun-Kissed Shores of Pattaya",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 17,
+        "rejected": 4,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "713",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\pattaya_beaches_109855.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\pattaya_beaches_109855.report.json"
+      },
+      "created_ts": 1759253338
+    },
+    {
+      "job_index": 17,
+      "city": "Bophut",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/163838",
+      "title": "The 27 most romantic places in Bophut",
+      "final_title": "Enchanting Escapes: Romance in Bophut",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 27,
+        "rejected": 0,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "714",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\bophut_romantic-places_163838.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\bophut_romantic-places_163838.report.json"
+      },
+      "created_ts": 1759253645
+    },
+    {
+      "job_index": 14,
+      "city": "Pattaya",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160227",
+      "title": "The 49 best photo spots in Pattaya",
+      "final_title": "Pattaya's Picture-Perfect Paradises",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 33,
+        "rejected": 16,
+        "accepted_final": 24
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 46,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "715",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\pattaya_photo-spots_160227.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\pattaya_photo-spots_160227.report.json"
+      },
+      "created_ts": 1759254120
+    },
+    {
+      "job_index": 59,
+      "city": "Chaweng",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/111531",
+      "title": "The 32 best beaches in and around Chaweng",
+      "final_title": "Chaweng's Coastal Escapes: Beach Bliss",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 15,
+        "rejected": 17,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 16,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "716",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\thailand_20250930_2053\\chaweng_beaches_111531.json",
+        "report_json": "publish_playlist\\thailand_20250930_2053\\chaweng_beaches_111531.report.json"
+      },
+      "created_ts": 1759254330
+    }
+  ],
+  "end_ts": 1759254331,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 432,
+    "llm_title_calls": 36,
+    "google_places_calls": 384,
+    "cache_hits": 91,
+    "cache_misses": 913
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 432,
+    "llm_title_cache": 36,
+    "google_places_cache": 384,
+    "mobx_data_cache": 36
+  }
+}

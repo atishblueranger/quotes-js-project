@@ -1,0 +1,37 @@
+{
+  "timestamp": "20251125_164241",
+  "args": {
+    "url": "https://traveltriangle.com/blog/hiking-in-phuket/",
+    "batch": null,
+    "city": "Phuket",
+    "state": "Phuket",
+    "country": "Thailand",
+    "category": "Travel",
+    "subtype": "poi",
+    "optimize_ai": true,
+    "title_mode": "catchy",
+    "min_confidence": 0.75,
+    "keep_ratio": 0.9,
+    "refresh_photos": false,
+    "require_photo": false,
+    "dry_run": false,
+    "skip_upload": false,
+    "output_dir": "tt_pipeline_output"
+  },
+  "results": [
+    {
+      "url": "https://traveltriangle.com/blog/hiking-in-phuket/",
+      "basename": "playlist",
+      "success": true,
+      "steps_completed": [
+        "extract",
+        "adapt",
+        "resolve",
+        "upload"
+      ],
+      "extracted_file": "tt_pipeline_output\\20251125_164241_01_extracted.json",
+      "resolved_file": "tt_pipeline_output\\20251125_164241_03_resolved.json",
+      "report_file": "tt_pipeline_output\\20251125_164241_03_report.json"
+    }
+  ]
+}

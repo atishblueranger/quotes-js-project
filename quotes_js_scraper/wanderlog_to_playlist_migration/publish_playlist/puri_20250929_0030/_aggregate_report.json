@@ -1,0 +1,64 @@
+{
+  "script_version": "1.2.1",
+  "start_ts": 1759086055,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\puri_20250929_0030\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Puri",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110018",
+      "title": "The 26 best beaches in and around Puri",
+      "final_title": "Sun-Kissed Shores of Puri",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 9,
+        "rejected": 17,
+        "accepted_final": 7
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 14,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "640",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\puri_20250929_0030\\puri_beaches_110018.json",
+        "report_json": "publish_playlist\\puri_20250929_0030\\puri_beaches_110018.report.json"
+      },
+      "created_ts": 1759086476
+    }
+  ],
+  "end_ts": 1759086476,
+  "finish_reason": "finished",
+  "cache_stats": {
+    "llm_validation_calls": 14,
+    "llm_title_calls": 1,
+    "google_places_calls": 7,
+    "cache_hits": 0,
+    "cache_misses": 23
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 14,
+    "llm_title_cache": 1,
+    "google_places_cache": 7,
+    "mobx_data_cache": 1
+  }
+}

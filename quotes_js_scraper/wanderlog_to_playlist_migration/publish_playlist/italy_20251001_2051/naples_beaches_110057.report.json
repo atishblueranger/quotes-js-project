@@ -1,0 +1,35 @@
+{
+  "job_index": 16,
+  "city": "Naples",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/110057",
+  "title": "The 19 best beaches in and around Naples",
+  "final_title": "Naples' Coastal Escapes: Sun-Kissed Shores",
+  "from_cache": false,
+  "counts": {
+    "meta": 19,
+    "blocks": 19,
+    "merged": 19,
+    "accepted_before_trim": 17,
+    "rejected": 2,
+    "accepted_final": 11
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 5,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "917",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\italy_20251001_2051\\naples_beaches_110057.json",
+    "report_json": "publish_playlist\\italy_20251001_2051\\naples_beaches_110057.report.json"
+  },
+  "created_ts": 1759339910
+}

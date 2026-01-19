@@ -1,0 +1,1222 @@
+{
+  "script_version": "1.3.0",
+  "start_ts": 1759345777,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\netherlands_20251002_0039\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Amsterdam",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110050",
+      "title": "The 25 best beaches in and around Amsterdam",
+      "final_title": "Amsterdam's Hidden Beach Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 14,
+        "rejected": 11,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 9,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "923",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\amsterdam_beaches_110050.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\amsterdam_beaches_110050.report.json"
+      },
+      "created_ts": 1759346003
+    },
+    {
+      "job_index": 3,
+      "city": "Rotterdam",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164099",
+      "title": "The 41 most romantic places in Rotterdam",
+      "final_title": "Romantic Rotterdam: Love in Every Corner",
+      "from_cache": false,
+      "counts": {
+        "meta": 41,
+        "blocks": 41,
+        "merged": 41,
+        "accepted_before_trim": 39,
+        "rejected": 2,
+        "accepted_final": 24
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "924",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\rotterdam_romantic-places_164099.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\rotterdam_romantic-places_164099.report.json"
+      },
+      "created_ts": 1759346451
+    },
+    {
+      "job_index": 5,
+      "city": "The Hague",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164105",
+      "title": "The 28 most romantic places in The Hague",
+      "final_title": "Romantic Escapes in The Hague",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 27,
+        "rejected": 1,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "925",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\the-hague_romantic-places_164105.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\the-hague_romantic-places_164105.report.json"
+      },
+      "created_ts": 1759346758
+    },
+    {
+      "job_index": 7,
+      "city": "Paris",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160412",
+      "title": "The 50 best photo spots in Paris",
+      "final_title": "Picture-Perfect Paris: Capture the City of Light",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 45,
+        "rejected": 5,
+        "accepted_final": 27
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 46,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "926",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\paris_photo-spots_160412.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\paris_photo-spots_160412.report.json"
+      },
+      "created_ts": 1759347363
+    },
+    {
+      "job_index": 9,
+      "city": "Nice",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160462",
+      "title": "The 16 best photo spots in Nice",
+      "final_title": "Picture-Perfect Moments in Nice",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 14,
+        "rejected": 2,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 14,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "927",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\nice_photo-spots_160462.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\nice_photo-spots_160462.report.json"
+      },
+      "created_ts": 1759347564
+    },
+    {
+      "job_index": 11,
+      "city": "Nice",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129879",
+      "title": "The 32 best free attractions in Nice",
+      "final_title": "Discover Nice: Free Wonders Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 14,
+        "rejected": 18,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "928",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\nice_beaches_129879.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\nice_beaches_129879.report.json"
+      },
+      "created_ts": 1759347774
+    },
+    {
+      "job_index": 14,
+      "city": "Lyon",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129876",
+      "title": "The 38 best free attractions in Lyon",
+      "final_title": "Discover Lyon's Hidden Free Treasures",
+      "from_cache": false,
+      "counts": {
+        "meta": 38,
+        "blocks": 38,
+        "merged": 38,
+        "accepted_before_trim": 12,
+        "rejected": 26,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "929",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\lyon_beaches_129876.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\lyon_beaches_129876.report.json"
+      },
+      "created_ts": 1759347973
+    },
+    {
+      "job_index": 16,
+      "city": "Strasbourg",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160531",
+      "title": "The 29 best photo spots in Strasbourg",
+      "final_title": "Strasbourg Snapshots: Capture the Charm",
+      "from_cache": false,
+      "counts": {
+        "meta": 29,
+        "blocks": 29,
+        "merged": 29,
+        "accepted_before_trim": 20,
+        "rejected": 9,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 25,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "930",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_photo-spots_160531.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_photo-spots_160531.report.json"
+      },
+      "created_ts": 1759348277
+    },
+    {
+      "job_index": 18,
+      "city": "Chamonix",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164302",
+      "title": "The 24 most romantic places in Chamonix",
+      "final_title": "Enchanting Escapes: Romance in Chamonix",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 24,
+        "rejected": 0,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "931",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\chamonix_romantic-places_164302.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\chamonix_romantic-places_164302.report.json"
+      },
+      "created_ts": 1759348543
+    },
+    {
+      "job_index": 20,
+      "city": "Cannes",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164188",
+      "title": "The 25 most romantic places in Cannes",
+      "final_title": "Cannes: A Romantic Journey Through Enchantment",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 25,
+        "rejected": 0,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "932",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\cannes_romantic-places_164188.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\cannes_romantic-places_164188.report.json"
+      },
+      "created_ts": 1759348811
+    },
+    {
+      "job_index": 22,
+      "city": "Cannes",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110218",
+      "title": "The 44 best beaches in and around Cannes",
+      "final_title": "Cannes Coastal Vibes: Beach Bliss Playlist",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 35,
+        "rejected": 9,
+        "accepted_final": 21
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "933",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\cannes_beaches_110218.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\cannes_beaches_110218.report.json"
+      },
+      "created_ts": 1759349192
+    },
+    {
+      "job_index": 24,
+      "city": "Avignon",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160658",
+      "title": "The 32 best photo spots in Avignon",
+      "final_title": "Capturing Avignon: Iconic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 23,
+        "rejected": 9,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 31,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "934",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\avignon_photo-spots_160658.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\avignon_photo-spots_160658.report.json"
+      },
+      "created_ts": 1759349551
+    },
+    {
+      "job_index": 26,
+      "city": "Bordeaux",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160453",
+      "title": "The 34 best photo spots in Bordeaux",
+      "final_title": "Bordeaux's Picture-Perfect Hidden Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 34,
+        "blocks": 34,
+        "merged": 34,
+        "accepted_before_trim": 23,
+        "rejected": 11,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 31,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "935",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\bordeaux_photo-spots_160453.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\bordeaux_photo-spots_160453.report.json"
+      },
+      "created_ts": 1759349889
+    },
+    {
+      "job_index": 28,
+      "city": "Marseille",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164061",
+      "title": "The 30 most romantic places in Marseille",
+      "final_title": "Romantic Escapes in Enchanting Marseille",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 30,
+        "rejected": 0,
+        "accepted_final": 18
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "936",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\marseille_romantic-places_164061.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\marseille_romantic-places_164061.report.json"
+      },
+      "created_ts": 1759350235
+    },
+    {
+      "job_index": 30,
+      "city": "Marseille",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110091",
+      "title": "The 50 best beaches in and around Marseille",
+      "final_title": "Marseille's Coastal Escapes: Beach Bliss Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 50,
+        "blocks": 50,
+        "merged": 50,
+        "accepted_before_trim": 44,
+        "rejected": 6,
+        "accepted_final": 27
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "937",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\marseille_beaches_110091.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\marseille_beaches_110091.report.json"
+      },
+      "created_ts": 1759350720
+    },
+    {
+      "job_index": 32,
+      "city": "Annecy",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164364",
+      "title": "The 30 most romantic places in Annecy",
+      "final_title": "Whispers of Love in Annecy",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 29,
+        "rejected": 1,
+        "accepted_final": 18
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "938",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\annecy_romantic-places_164364.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\annecy_romantic-places_164364.report.json"
+      },
+      "created_ts": 1759351042
+    },
+    {
+      "job_index": 34,
+      "city": "Colmar",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164394",
+      "title": "The 31 most romantic places in Colmar",
+      "final_title": "Whispers of Romance in Colmar",
+      "from_cache": false,
+      "counts": {
+        "meta": 31,
+        "blocks": 31,
+        "merged": 31,
+        "accepted_before_trim": 31,
+        "rejected": 0,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "939",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\colmar_romantic-places_164394.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\colmar_romantic-places_164394.report.json"
+      },
+      "created_ts": 1759351381
+    },
+    {
+      "job_index": 36,
+      "city": "Toulouse",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164090",
+      "title": "The 29 most romantic places in Toulouse",
+      "final_title": "Whispers of Love in Toulouse",
+      "from_cache": false,
+      "counts": {
+        "meta": 29,
+        "blocks": 29,
+        "merged": 29,
+        "accepted_before_trim": 29,
+        "rejected": 0,
+        "accepted_final": 18
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "940",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\toulouse_romantic-places_164090.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\toulouse_romantic-places_164090.report.json"
+      },
+      "created_ts": 1759351705
+    },
+    {
+      "job_index": 38,
+      "city": "Toulouse",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129909",
+      "title": "The 25 best free attractions in Toulouse",
+      "final_title": "Discover Toulouse: Free Wonders Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 25,
+        "blocks": 25,
+        "merged": 25,
+        "accepted_before_trim": 11,
+        "rejected": 14,
+        "accepted_final": 7
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 12,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "941",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\toulouse_beaches_129909.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\toulouse_beaches_129909.report.json"
+      },
+      "created_ts": 1759351883
+    },
+    {
+      "job_index": 40,
+      "city": "Aix-en-Provence",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160550",
+      "title": "The 20 best photo spots in Aix-en-Provence",
+      "final_title": "Picture-Perfect Moments in Aix-en-Provence",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 15,
+        "rejected": 5,
+        "accepted_final": 9
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "942",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\aix-en-provence_photo-spots_160550.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\aix-en-provence_photo-spots_160550.report.json"
+      },
+      "created_ts": 1759352103
+    },
+    {
+      "job_index": 2,
+      "city": "Rotterdam",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110129",
+      "title": "The 17 best beaches in and around Rotterdam",
+      "final_title": "Sun-Kissed Shores of Rotterdam",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 6,
+        "rejected": 11,
+        "accepted_final": 4
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 10,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\rotterdam_beaches_110129.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\rotterdam_beaches_110129.report.json"
+      },
+      "created_ts": 1759352133
+    },
+    {
+      "job_index": 4,
+      "city": "The Hague",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110135",
+      "title": "The 43 best beaches in and around The Hague",
+      "final_title": "Coastal Escapes: Beaches of The Hague",
+      "from_cache": false,
+      "counts": {
+        "meta": 43,
+        "blocks": 43,
+        "merged": 43,
+        "accepted_before_trim": 13,
+        "rejected": 30,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "944",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\the-hague_beaches_110135.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\the-hague_beaches_110135.report.json"
+      },
+      "created_ts": 1759352311
+    },
+    {
+      "job_index": 10,
+      "city": "Nice",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110090",
+      "title": "The 49 best beaches in and around Nice",
+      "final_title": "Sun-Kissed Shores of Nice",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 45,
+        "rejected": 4,
+        "accepted_final": 27
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 8,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "945",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\nice_beaches_110090.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\nice_beaches_110090.report.json"
+      },
+      "created_ts": 1759352818
+    },
+    {
+      "job_index": 13,
+      "city": "Lyon",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160459",
+      "title": "The 35 best photo spots in Lyon",
+      "final_title": "Picture Perfect Lyon: Capture the City",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 30,
+        "rejected": 5,
+        "accepted_final": 18
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 34,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "946",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\lyon_photo-spots_160459.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\lyon_photo-spots_160459.report.json"
+      },
+      "created_ts": 1759353253
+    },
+    {
+      "job_index": 15,
+      "city": "Strasbourg",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164129",
+      "title": "The 34 most romantic places in Strasbourg",
+      "final_title": "Whispers of Love in Strasbourg",
+      "from_cache": false,
+      "counts": {
+        "meta": 34,
+        "blocks": 34,
+        "merged": 34,
+        "accepted_before_trim": 33,
+        "rejected": 1,
+        "accepted_final": 20
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "947",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_romantic-places_164129.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_romantic-places_164129.report.json"
+      },
+      "created_ts": 1759353598
+    },
+    {
+      "job_index": 17,
+      "city": "Strasbourg",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129948",
+      "title": "The 27 best free attractions in Strasbourg",
+      "final_title": "Discover Strasbourg's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 5,
+        "rejected": 22,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 7,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_beaches_129948.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\strasbourg_beaches_129948.report.json"
+      },
+      "created_ts": 1759353627
+    },
+    {
+      "job_index": 19,
+      "city": "Chamonix",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160704",
+      "title": "The 35 best photo spots in Chamonix",
+      "final_title": "Chamonix's Picture-Perfect Peaks",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 28,
+        "rejected": 7,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 27,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "949",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\chamonix_photo-spots_160704.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\chamonix_photo-spots_160704.report.json"
+      },
+      "created_ts": 1759354030
+    },
+    {
+      "job_index": 21,
+      "city": "Cannes",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160590",
+      "title": "The 27 best photo spots in Cannes",
+      "final_title": "Cannes Captured: Iconic Photo Journeys",
+      "from_cache": false,
+      "counts": {
+        "meta": 27,
+        "blocks": 27,
+        "merged": 27,
+        "accepted_before_trim": 25,
+        "rejected": 2,
+        "accepted_final": 15
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 25,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "950",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\cannes_photo-spots_160590.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\cannes_photo-spots_160590.report.json"
+      },
+      "created_ts": 1759354360
+    },
+    {
+      "job_index": 23,
+      "city": "Avignon",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164256",
+      "title": "The 40 most romantic places in Avignon",
+      "final_title": "Whispers of Love in Avignon",
+      "from_cache": false,
+      "counts": {
+        "meta": 40,
+        "blocks": 40,
+        "merged": 40,
+        "accepted_before_trim": 39,
+        "rejected": 1,
+        "accepted_final": 24
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "951",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\avignon_romantic-places_164256.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\avignon_romantic-places_164256.report.json"
+      },
+      "created_ts": 1759354765
+    },
+    {
+      "job_index": 27,
+      "city": "Bordeaux",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129870",
+      "title": "The 31 best free attractions in Bordeaux",
+      "final_title": "Discover Bordeaux's Hidden Free Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 31,
+        "blocks": 31,
+        "merged": 31,
+        "accepted_before_trim": 12,
+        "rejected": 19,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "952",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\bordeaux_beaches_129870.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\bordeaux_beaches_129870.report.json"
+      },
+      "created_ts": 1759354941
+    },
+    {
+      "job_index": 33,
+      "city": "Annecy",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160766",
+      "title": "The 18 best photo spots in Annecy",
+      "final_title": "Picture-Perfect Moments in Annecy",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 16,
+        "rejected": 2,
+        "accepted_final": 10
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 13,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "953",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\annecy_photo-spots_160766.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\annecy_photo-spots_160766.report.json"
+      },
+      "created_ts": 1759355145
+    },
+    {
+      "job_index": 41,
+      "city": "Aix-en-Provence",
+      "category_used": "free attractions",
+      "url": "https://wanderlog.com/list/geoCategory/129967",
+      "title": "The 18 best free attractions in Aix-en-Provence",
+      "final_title": "Discover Aix-en-Provence's Hidden Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 10,
+        "rejected": 8,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\aix-en-provence_beaches_129967.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\aix-en-provence_beaches_129967.report.json"
+      },
+      "created_ts": 1759355180
+    },
+    {
+      "job_index": 35,
+      "city": "Colmar",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160796",
+      "title": "The 28 best photo spots in Colmar",
+      "final_title": "Capturing Colmar: A Photographer's Dream",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 18,
+        "rejected": 10,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 25,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "955",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\colmar_photo-spots_160796.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\colmar_photo-spots_160796.report.json"
+      },
+      "created_ts": 1759355433
+    },
+    {
+      "job_index": 39,
+      "city": "Aix-en-Provence",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164148",
+      "title": "The 17 most romantic places in Aix-en-Provence",
+      "final_title": "Whispers of Love in Aix-en-Provence",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 17,
+        "rejected": 0,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "956",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\netherlands_20251002_0039\\aix-en-provence_romantic-places_164148.json",
+        "report_json": "publish_playlist\\netherlands_20251002_0039\\aix-en-provence_romantic-places_164148.report.json"
+      },
+      "created_ts": 1759355630
+    }
+  ],
+  "end_ts": 1759355631,
+  "finish_reason": "finished",
+  "failures_count": 8,
+  "failures_file": "publish_playlist\\netherlands_20251002_0039\\_failed_jobs.json",
+  "rerun_dataset_file": "publish_playlist\\netherlands_20251002_0039\\_rerun_dataset.json",
+  "cache_stats": {
+    "llm_validation_calls": 438,
+    "llm_title_calls": 34,
+    "google_places_calls": 433,
+    "cache_hits": 46,
+    "cache_misses": 947
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 438,
+    "llm_title_cache": 34,
+    "google_places_cache": 433,
+    "mobx_data_cache": 34
+  }
+}

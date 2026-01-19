@@ -1,0 +1,99 @@
+{
+  "script_version": "1.2.0",
+  "start_ts": 1758963094,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\mumbai_20250927_1421\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Mumbai",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/109807",
+      "title": "The 30 best beaches in and around Mumbai",
+      "final_title": "Sun-Kissed Shores of Mumbai",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 28,
+        "rejected": 2,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 11,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "573",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\mumbai_20250927_1421\\mumbai_beaches_109807.json",
+        "report_json": "publish_playlist\\mumbai_20250927_1421\\mumbai_beaches_109807.report.json"
+      },
+      "created_ts": 1758963610
+    },
+    {
+      "job_index": 2,
+      "city": "Mumbai",
+      "category_used": "national parks",
+      "url": "https://wanderlog.com/list/geoCategory/143988",
+      "title": "The 47 best national parks around Mumbai",
+      "final_title": "Discover Mumbai's Wild Wonders",
+      "from_cache": false,
+      "counts": {
+        "meta": 47,
+        "blocks": 47,
+        "merged": 47,
+        "accepted_before_trim": 8,
+        "rejected": 39,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 28,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\mumbai_20250927_1421\\mumbai_national-parks_143988.json",
+        "report_json": "publish_playlist\\mumbai_20250927_1421\\mumbai_national-parks_143988.report.json"
+      },
+      "created_ts": 1758963677
+    }
+  ],
+  "end_ts": 1758963677,
+  "finish_reason": "shutdown",
+  "cache_stats": {
+    "llm_validation_calls": 39,
+    "llm_title_calls": 2,
+    "google_places_calls": 17,
+    "cache_hits": 0,
+    "cache_misses": 63
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 39,
+    "llm_title_cache": 2,
+    "google_places_cache": 17,
+    "mobx_data_cache": 2
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "British Beach Bliss",
+  "placeName": "the-united-kingdom",
+  "country": "the-united-kingdom",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/beaches-in-united-kingdom/"
+  ],
+  "description": "Sea-salted indie and sunlit chill for long walks on pebbled shores and tide-kissed afternoons",
+  "items": [
+    {
+      "name": "Pelistry Bay",
+      "description": "",
+      "location_hint": "St. Mary's, Isles of Scilly",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Rhossili Beach",
+      "description": "",
+      "location_hint": "Rhossili village, Wales",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Barafundle Bay",
+      "description": "",
+      "location_hint": "Pembrokeshire, Wales",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Portstewart Strand",
+      "description": "",
+      "location_hint": "County Londonderry, Northern Ireland",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "West Wittering",
+      "description": "",
+      "location_hint": "Sussex, England",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Saunton Sands",
+      "description": "",
+      "location_hint": "Saunton village, England",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Salcombe Bay",
+      "description": "",
+      "location_hint": "Salcombe, East Portlemouth",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Beadnell Beach",
+      "description": "",
+      "location_hint": "Northumberland, East England",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Hunstanton Beach",
+      "description": "",
+      "location_hint": "Hunstanton, England",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Botany Bay",
+      "description": "",
+      "location_hint": "Kent, South East England",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

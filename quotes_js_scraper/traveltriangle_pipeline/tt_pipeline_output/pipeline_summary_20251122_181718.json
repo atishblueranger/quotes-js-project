@@ -1,0 +1,29 @@
+{
+  "timestamp": "20251122_181718",
+  "args": {
+    "url": "1983",
+    "batch": null,
+    "city": "Dwarka",
+    "state": "Gujurat",
+    "country": "India",
+    "category": "Travel",
+    "subtype": "poi",
+    "optimize_ai": true,
+    "title_mode": "catchy",
+    "min_confidence": 0.7,
+    "keep_ratio": 0.9,
+    "refresh_photos": false,
+    "require_photo": false,
+    "dry_run": false,
+    "skip_upload": false,
+    "output_dir": "tt_pipeline_output"
+  },
+  "results": [
+    {
+      "url": "1983",
+      "basename": "1983",
+      "success": false,
+      "steps_completed": []
+    }
+  ]
+}

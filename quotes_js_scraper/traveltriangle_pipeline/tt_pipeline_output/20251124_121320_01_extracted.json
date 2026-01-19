@@ -1,0 +1,69 @@
+{
+  "playlistTitle": "Baku Highlights",
+  "placeName": "Baku",
+  "country": "Azerbaijan",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/places-to-visit-in-baku/"
+  ],
+  "description": "Sunlit promenades, flame towers and Caspian breezes - a playlist for wandering Baku's highlights.",
+  "items": [
+    {
+      "name": "Museum of Miniature Books",
+      "description": "",
+      "location_hint": "28 Kichik Qala, Baku, Azerbaijan",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Nizami Street",
+      "description": "",
+      "location_hint": "Tarqovi, Baku City, Azerbaijan",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Azerbaijan National Carpet Museum",
+      "description": "",
+      "location_hint": "Mikayil Huseynov Street 28, Baku, Azerbaijan",
+      "opening_hours_text": "",
+      "entry_fee_text": "AZN 3 for schoolchildren & students, AZN 7 for adults, AZN 12 for guided tours"
+    },
+    {
+      "name": "Highland Park",
+      "description": "",
+      "location_hint": "UN 50th Anniversary street 3, Baku, Baku Ekonomic Zone",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Palace of Shirvanshahs",
+      "description": "",
+      "location_hint": "Muslum Maqomaye dongə 76, Baku, Contiguous Azerbaijan",
+      "opening_hours_text": "",
+      "entry_fee_text": "AZN 10 for foreigners and AZN 2 for locals"
+    },
+    {
+      "name": "Central Botanical Garden",
+      "description": "",
+      "location_hint": "Mikayil Mushfig St., 103, Baku 1004",
+      "opening_hours_text": "",
+      "entry_fee_text": "Free"
+    },
+    {
+      "name": "Baku Eye",
+      "description": "",
+      "location_hint": "Neftyanikov Ave., Baku",
+      "opening_hours_text": "",
+      "entry_fee_text": "AZN 5 for kids and AZN 10 for adults"
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "London Museum Trail",
+  "placeName": "London",
+  "country": "the-united-kingdom",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/museums-in-london/"
+  ],
+  "description": "Wander museum halls and hidden galleries across London — a soundtrack for curious footsteps.",
+  "items": [
+    {
+      "name": "Museum of London – True reflection of social history of London",
+      "description": "",
+      "location_hint": "150 London Wall, London EC2Y 5HN, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Natural History Museum – Evolution and history of mankind",
+      "description": "Location: Cromwell Rd, Kensington, London SW7 5BD, UK",
+      "location_hint": "Cromwell Rd, Kensington, London SW7 5BD, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Victoria and Albert Museum – A great portrayal of art and design",
+      "description": "Location: Cromwell Rd, Knightsbridge, London SW7 2RL, UK",
+      "location_hint": "Cromwell Rd, Knightsbridge, London SW7 2RL, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "British Museum – To experience the interesting history of mankind",
+      "description": "Location: Great Russell St, Bloomsbury, London WC1B 3DG, UK",
+      "location_hint": "Great Russell St, Bloomsbury, London WC1B 3DG, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Madame Tussauds – Meet your favourite super star",
+      "description": "Suggested Read: 10 Free Things To Do In London We Bet You Never Knew!",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Museum of Happiness – Just be happy",
+      "description": "",
+      "location_hint": "Arlington House, 220 Arlington Rd, Camden Town, London NW1 7HE, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Freud Museum – A must-visit attraction in London",
+      "description": "Location: 20 Maresfield Gardens, London NW3 5SX, UK",
+      "location_hint": "20 Maresfield Gardens, London NW3 5SX, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sherlock Holmes Museum – Where fiction comes live",
+      "description": "Suggested Read: London Nightlife: 15 Exhilarating Experiences For A Night Out In The City",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Churchill War Rooms – A tribute to war Churchill life and victories",
+      "description": "Location: Clive Steps, King Charles St, Westminster, London SW1A 2AQ, UK",
+      "location_hint": "Clive Steps, King Charles St, Westminster, London SW1A 2AQ, UK",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Science Museum London",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "playlistTitle": "Temples of Tranquility",
+  "placeName": "Japan",
+  "country": "Japan",
+  "category": "Travel",
+  "subtype": "destination",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/japanese-temples/"
+  ],
+  "description": "Soft bells and pine-scented air guide you through moonlit temple gardens across Japan.",
+  "items": [
+    {
+      "name": "Kiyomizu-dera",
+      "description": "",
+      "location_hint": "Kyoto",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Tōdai-ji",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Sensō-ji",
+      "description": "",
+      "location_hint": "",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kinkaku-ji",
+      "description": "",
+      "location_hint": "Kyoto",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Toji",
+      "description": "",
+      "location_hint": "Kyoto",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Kōtoku-in",
+      "description": "Also known by the name of Taiizan Kotokuin Shojosenji, this is a Buddhist Japanese temple in the city of Kamakura. The temple is one of the most popular places in Japan owing to its famous outdoor statue of Buddha. This bronze statue is also one of the most famous icons in Japan. According to the records of the temple, the statue dates back to 1252 and one can still find traces of gold leaf near the ears of this elegant statue.",
+      "location_hint": "Kamakura",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Byōdō-in",
+      "description": "",
+      "location_hint": "Uji",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

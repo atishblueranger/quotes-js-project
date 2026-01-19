@@ -1,0 +1,35 @@
+{
+  "job_index": 36,
+  "city": "Kanazawa",
+  "category_used": "free attractions",
+  "url": "https://wanderlog.com/list/geoCategory/129630",
+  "title": "The 15 best free attractions in Kanazawa",
+  "final_title": "Discover Kanazawa's Hidden Free Gems",
+  "from_cache": false,
+  "counts": {
+    "meta": 15,
+    "blocks": 15,
+    "merged": 15,
+    "accepted_before_trim": 4,
+    "rejected": 11,
+    "accepted_final": 3
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 5,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": false,
+    "firestore_doc_id": null,
+    "bucket": null
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\japan_20251001_1149\\kanazawa_beaches_129630.json",
+    "report_json": "publish_playlist\\japan_20251001_1149\\kanazawa_beaches_129630.report.json"
+  },
+  "created_ts": 1759305111
+}

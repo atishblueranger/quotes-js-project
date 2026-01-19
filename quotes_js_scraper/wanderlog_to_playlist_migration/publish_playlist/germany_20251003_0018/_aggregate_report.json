@@ -1,0 +1,1572 @@
+{
+  "script_version": "1.3.0",
+  "start_ts": 1759430912,
+  "llm_enabled_flag": true,
+  "llm_client_loaded": true,
+  "model": "gpt-4o-mini",
+  "cache_directory": "publish_playlist\\germany_20251003_0018\\cache",
+  "publish_enabled": true,
+  "min_items": 7,
+  "gcs_bucket": "mycasavsc.appspot.com",
+  "collection": "playlistsNew",
+  "jobs": [
+    {
+      "job_index": 0,
+      "city": "Berlin",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110048",
+      "title": "The 49 best beaches in and around Berlin",
+      "final_title": "Berlin's Hidden Beach Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 31,
+        "rejected": 18,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 25,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "994",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\berlin_beaches_110048.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\berlin_beaches_110048.report.json"
+      },
+      "created_ts": 1759431352
+    },
+    {
+      "job_index": 3,
+      "city": "Berlin",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106450",
+      "title": "The 46 best backpacking trails near Berlin",
+      "final_title": "Berlin's Hidden Trails: Nature Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 46,
+        "blocks": 46,
+        "merged": 46,
+        "accepted_before_trim": 11,
+        "rejected": 35,
+        "accepted_final": 7
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 24,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "995",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\berlin_beaches_106450.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\berlin_beaches_106450.report.json"
+      },
+      "created_ts": 1759431546
+    },
+    {
+      "job_index": 5,
+      "city": "Munich",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160437",
+      "title": "The 44 best photo spots in Munich",
+      "final_title": "Capture Munich: Iconic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 44,
+        "blocks": 44,
+        "merged": 44,
+        "accepted_before_trim": 36,
+        "rejected": 8,
+        "accepted_final": 22
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 40,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "996",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\munich_photo-spots_160437.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\munich_photo-spots_160437.report.json"
+      },
+      "created_ts": 1759432106
+    },
+    {
+      "job_index": 7,
+      "city": "Frankfurt",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160446",
+      "title": "The 39 best photo spots in Frankfurt",
+      "final_title": "Frankfurt's Picture-Perfect Gems Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 39,
+        "blocks": 39,
+        "merged": 39,
+        "accepted_before_trim": 28,
+        "rejected": 11,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 34,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "997",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\frankfurt_photo-spots_160446.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\frankfurt_photo-spots_160446.report.json"
+      },
+      "created_ts": 1759432528
+    },
+    {
+      "job_index": 9,
+      "city": "Hamburg",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160439",
+      "title": "The 46 best photo spots in Hamburg",
+      "final_title": "Capture Hamburg: Iconic Views Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 46,
+        "blocks": 46,
+        "merged": 46,
+        "accepted_before_trim": 37,
+        "rejected": 9,
+        "accepted_final": 23
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 37,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "998",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\hamburg_photo-spots_160439.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\hamburg_photo-spots_160439.report.json"
+      },
+      "created_ts": 1759433052
+    },
+    {
+      "job_index": 12,
+      "city": "Cologne",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110097",
+      "title": "The 29 best beaches in and around Cologne",
+      "final_title": "Cologne's Hidden Beach Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 29,
+        "blocks": 29,
+        "merged": 29,
+        "accepted_before_trim": 12,
+        "rejected": 17,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 14,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "999",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\cologne_beaches_110097.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\cologne_beaches_110097.report.json"
+      },
+      "created_ts": 1759433246
+    },
+    {
+      "job_index": 14,
+      "city": "Cologne",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164067",
+      "title": "The 40 most romantic places in Cologne",
+      "final_title": "Romantic Escapes in Enchanting Cologne",
+      "from_cache": false,
+      "counts": {
+        "meta": 40,
+        "blocks": 40,
+        "merged": 40,
+        "accepted_before_trim": 39,
+        "rejected": 1,
+        "accepted_final": 24
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 3,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1000",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\cologne_romantic-places_164067.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\cologne_romantic-places_164067.report.json"
+      },
+      "created_ts": 1759433711
+    },
+    {
+      "job_index": 16,
+      "city": "Heidelberg",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160678",
+      "title": "The 18 best photo spots in Heidelberg",
+      "final_title": "Heidelberg's Picture-Perfect Perspectives",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 13,
+        "rejected": 5,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 14,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1001",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\heidelberg_photo-spots_160678.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\heidelberg_photo-spots_160678.report.json"
+      },
+      "created_ts": 1759433919
+    },
+    {
+      "job_index": 18,
+      "city": "Heidelberg",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106708",
+      "title": "The 22 best backpacking trails near Heidelberg",
+      "final_title": "Trails of Discovery: Heidelberg's Hidden Heights",
+      "from_cache": false,
+      "counts": {
+        "meta": 22,
+        "blocks": 22,
+        "merged": 22,
+        "accepted_before_trim": 3,
+        "rejected": 19,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 10,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\heidelberg_beaches_106708.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\heidelberg_beaches_106708.report.json"
+      },
+      "created_ts": 1759433954
+    },
+    {
+      "job_index": 19,
+      "city": "Stuttgart",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160518",
+      "title": "The 41 best photo spots in Stuttgart",
+      "final_title": "Stuttgart Snapshots: Capturing the City’s Essence",
+      "from_cache": false,
+      "counts": {
+        "meta": 41,
+        "blocks": 41,
+        "merged": 41,
+        "accepted_before_trim": 34,
+        "rejected": 7,
+        "accepted_final": 21
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 35,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1003",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\stuttgart_photo-spots_160518.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\stuttgart_photo-spots_160518.report.json"
+      },
+      "created_ts": 1759434460
+    },
+    {
+      "job_index": 22,
+      "city": "Dusseldorf",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110147",
+      "title": "The 35 best beaches in and around Dusseldorf",
+      "final_title": "Beautiful Beaches of Dusseldorf",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 7,
+        "rejected": 28,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 26,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\dusseldorf_beaches_110147.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\dusseldorf_beaches_110147.report.json"
+      },
+      "created_ts": 1759434536
+    },
+    {
+      "job_index": 23,
+      "city": "Dusseldorf",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160519",
+      "title": "The 41 best photo spots in Dusseldorf",
+      "final_title": "Capturing Düsseldorf: A Photogenic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 41,
+        "blocks": 41,
+        "merged": 41,
+        "accepted_before_trim": 28,
+        "rejected": 13,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 33,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1005",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\dusseldorf_photo-spots_160519.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\dusseldorf_photo-spots_160519.report.json"
+      },
+      "created_ts": 1759434973
+    },
+    {
+      "job_index": 25,
+      "city": "Dusseldorf",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106549",
+      "title": "The 24 best backpacking trails near Dusseldorf",
+      "final_title": "The 24 best backpacking trails near Dusseldorf",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 0,
+        "rejected": 24,
+        "accepted_final": 0
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 20,
+        "title_calls": 0
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\dusseldorf_beaches_106549.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\dusseldorf_beaches_106549.report.json"
+      },
+      "created_ts": 1759435033
+    },
+    {
+      "job_index": 26,
+      "city": "Dresden",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160500",
+      "title": "The 41 best photo spots in Dresden",
+      "final_title": "Capturing Dresden: A Photographer's Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 41,
+        "blocks": 41,
+        "merged": 41,
+        "accepted_before_trim": 23,
+        "rejected": 18,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 34,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1007",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\dresden_photo-spots_160500.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\dresden_photo-spots_160500.report.json"
+      },
+      "created_ts": 1759435365
+    },
+    {
+      "job_index": 28,
+      "city": "Dresden",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106530",
+      "title": "The 46 best backpacking trails near Dresden",
+      "final_title": "Discover Dresden's Hidden Backpacking Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 46,
+        "blocks": 46,
+        "merged": 46,
+        "accepted_before_trim": 2,
+        "rejected": 44,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 29,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\dresden_beaches_106530.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\dresden_beaches_106530.report.json"
+      },
+      "created_ts": 1759435436
+    },
+    {
+      "job_index": 29,
+      "city": "Nuremberg",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160520",
+      "title": "The 32 best photo spots in Nuremberg",
+      "final_title": "Nuremberg's Picture-Perfect Discoveries",
+      "from_cache": false,
+      "counts": {
+        "meta": 32,
+        "blocks": 32,
+        "merged": 32,
+        "accepted_before_trim": 22,
+        "rejected": 10,
+        "accepted_final": 14
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 28,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1009",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\nuremberg_photo-spots_160520.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\nuremberg_photo-spots_160520.report.json"
+      },
+      "created_ts": 1759435762
+    },
+    {
+      "job_index": 30,
+      "city": "Nuremberg",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164118",
+      "title": "The 19 most romantic places in Nuremberg",
+      "final_title": "Whispers of Romance in Nuremberg",
+      "from_cache": false,
+      "counts": {
+        "meta": 19,
+        "blocks": 19,
+        "merged": 19,
+        "accepted_before_trim": 19,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1010",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\nuremberg_romantic-places_164118.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\nuremberg_romantic-places_164118.report.json"
+      },
+      "created_ts": 1759435978
+    },
+    {
+      "job_index": 31,
+      "city": "Lisbon",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164021",
+      "title": "The 49 most romantic places in Lisbon",
+      "final_title": "Whispers of Love in Lisbon's Charm",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 49,
+        "rejected": 0,
+        "accepted_final": 30
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1011",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\lisbon_romantic-places_164021.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\lisbon_romantic-places_164021.report.json"
+      },
+      "created_ts": 1759436522
+    },
+    {
+      "job_index": 32,
+      "city": "Lisbon",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160423",
+      "title": "The 49 best photo spots in Lisbon",
+      "final_title": "Lisbon's Picture-Perfect Vistas Await",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 41,
+        "rejected": 8,
+        "accepted_final": 25
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 40,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1012",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\lisbon_photo-spots_160423.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\lisbon_photo-spots_160423.report.json"
+      },
+      "created_ts": 1759437061
+    },
+    {
+      "job_index": 34,
+      "city": "Sintra",
+      "category_used": "waterfalls",
+      "url": "https://wanderlog.com/list/geoCategory/178646",
+      "title": "The 15 best waterfalls near Sintra",
+      "final_title": "Chasing Cascades: Waterfalls of Sintra",
+      "from_cache": false,
+      "counts": {
+        "meta": 15,
+        "blocks": 15,
+        "merged": 15,
+        "accepted_before_trim": 3,
+        "rejected": 12,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 7,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\sintra_waterfalls_178646.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\sintra_waterfalls_178646.report.json"
+      },
+      "created_ts": 1759437084
+    },
+    {
+      "job_index": 36,
+      "city": "Porto",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160444",
+      "title": "The 46 best photo spots in Porto",
+      "final_title": "Picture-Perfect Porto: Capture the Charm",
+      "from_cache": false,
+      "counts": {
+        "meta": 46,
+        "blocks": 46,
+        "merged": 46,
+        "accepted_before_trim": 42,
+        "rejected": 4,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 36,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1014",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\porto_photo-spots_160444.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\porto_photo-spots_160444.report.json"
+      },
+      "created_ts": 1759437661
+    },
+    {
+      "job_index": 38,
+      "city": "Cascais",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110242",
+      "title": "The 47 best beaches in and around Cascais",
+      "final_title": "Beaches of Cascais: Sun, Surf, and Serenity",
+      "from_cache": false,
+      "counts": {
+        "meta": 47,
+        "blocks": 47,
+        "merged": 47,
+        "accepted_before_trim": 31,
+        "rejected": 16,
+        "accepted_final": 19
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 23,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1015",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\cascais_beaches_110242.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\cascais_beaches_110242.report.json"
+      },
+      "created_ts": 1759438064
+    },
+    {
+      "job_index": 39,
+      "city": "Cascais",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160614",
+      "title": "The 9 best photo spots in Cascais",
+      "final_title": "Cascais Captured: Picture-Perfect Moments",
+      "from_cache": false,
+      "counts": {
+        "meta": 9,
+        "blocks": 9,
+        "merged": 9,
+        "accepted_before_trim": 7,
+        "rejected": 2,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 8,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\cascais_photo-spots_160614.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\cascais_photo-spots_160614.report.json"
+      },
+      "created_ts": 1759438089
+    },
+    {
+      "job_index": 40,
+      "city": "Faro",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110280",
+      "title": "The 17 best beaches in and around Faro",
+      "final_title": "Faro's Coastal Escapes: Beach Bliss Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 17,
+        "blocks": 17,
+        "merged": 17,
+        "accepted_before_trim": 12,
+        "rejected": 5,
+        "accepted_final": 8
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1017",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\faro_beaches_110280.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\faro_beaches_110280.report.json"
+      },
+      "created_ts": 1759438246
+    },
+    {
+      "job_index": 41,
+      "city": "Albufeira",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164139",
+      "title": "The 33 most romantic places in Albufeira",
+      "final_title": "Romantic Escapes in Albufeira's Embrace",
+      "from_cache": false,
+      "counts": {
+        "meta": 33,
+        "blocks": 33,
+        "merged": 33,
+        "accepted_before_trim": 32,
+        "rejected": 1,
+        "accepted_final": 20
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1018",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\albufeira_romantic-places_164139.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\albufeira_romantic-places_164139.report.json"
+      },
+      "created_ts": 1759438634
+    },
+    {
+      "job_index": 42,
+      "city": "Albufeira",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110169",
+      "title": "The 28 best beaches in and around Albufeira",
+      "final_title": "Albufeira's Coastal Bliss: Beachside Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 28,
+        "blocks": 28,
+        "merged": 28,
+        "accepted_before_trim": 27,
+        "rejected": 1,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1019",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\albufeira_beaches_110169.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\albufeira_beaches_110169.report.json"
+      },
+      "created_ts": 1759438937
+    },
+    {
+      "job_index": 43,
+      "city": "Albufeira",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160541",
+      "title": "The 18 best photo spots in Albufeira",
+      "final_title": "Capture Albufeira: A Photogenic Journey",
+      "from_cache": false,
+      "counts": {
+        "meta": 18,
+        "blocks": 18,
+        "merged": 18,
+        "accepted_before_trim": 10,
+        "rejected": 8,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 14,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\albufeira_photo-spots_160541.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\albufeira_photo-spots_160541.report.json"
+      },
+      "created_ts": 1759438986
+    },
+    {
+      "job_index": 45,
+      "city": "Lagos",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160592",
+      "title": "The 16 best photo spots in Lagos",
+      "final_title": "Lagos: Capture the Coastal Magic",
+      "from_cache": false,
+      "counts": {
+        "meta": 16,
+        "blocks": 16,
+        "merged": 16,
+        "accepted_before_trim": 9,
+        "rejected": 7,
+        "accepted_final": 6
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 15,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\lagos_photo-spots_160592.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\lagos_photo-spots_160592.report.json"
+      },
+      "created_ts": 1759439026
+    },
+    {
+      "job_index": 44,
+      "city": "Lagos",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110220",
+      "title": "The 21 best beaches in and around Lagos",
+      "final_title": "Sun-Kissed Shores of Lagos",
+      "from_cache": false,
+      "counts": {
+        "meta": 21,
+        "blocks": 21,
+        "merged": 21,
+        "accepted_before_trim": 19,
+        "rejected": 2,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 4,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1022",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\lagos_beaches_110220.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\lagos_beaches_110220.report.json"
+      },
+      "created_ts": 1759439266
+    },
+    {
+      "job_index": 47,
+      "city": "Funchal",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164114",
+      "title": "The 20 most romantic places in Funchal",
+      "final_title": "Romantic Escapes in Funchal's Gardens",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 20,
+        "rejected": 0,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1023",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\funchal_romantic-places_164114.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\funchal_romantic-places_164114.report.json"
+      },
+      "created_ts": 1759439488
+    },
+    {
+      "job_index": 46,
+      "city": "Portimao",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110250",
+      "title": "The 26 best beaches in and around Portimao",
+      "final_title": "Beach Bliss: Discover Portimao's Coastal Gems",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 20,
+        "rejected": 6,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 6,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1024",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\portimao_beaches_110250.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\portimao_beaches_110250.report.json"
+      },
+      "created_ts": 1759439741
+    },
+    {
+      "job_index": 2,
+      "city": "Berlin",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164018",
+      "title": "The 47 most romantic places in Berlin",
+      "final_title": "Whispers of Love in Berlin",
+      "from_cache": false,
+      "counts": {
+        "meta": 47,
+        "blocks": 47,
+        "merged": 47,
+        "accepted_before_trim": 45,
+        "rejected": 2,
+        "accepted_final": 27
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1025",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\berlin_romantic-places_164018.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\berlin_romantic-places_164018.report.json"
+      },
+      "created_ts": 1759440236
+    },
+    {
+      "job_index": 4,
+      "city": "Munich",
+      "category_used": "beaches",
+      "url": "https://wanderlog.com/list/geoCategory/110065",
+      "title": "The 24 best beaches in and around Munich",
+      "final_title": "Munich's Hidden Beach Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 24,
+        "blocks": 24,
+        "merged": 24,
+        "accepted_before_trim": 7,
+        "rejected": 17,
+        "accepted_final": 5
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 18,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\munich_beaches_110065.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\munich_beaches_110065.report.json"
+      },
+      "created_ts": 1759440300
+    },
+    {
+      "job_index": 6,
+      "city": "Munich",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164037",
+      "title": "The 30 most romantic places in Hamburg",
+      "final_title": "Whispers of Love in Munich's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 30,
+        "blocks": 30,
+        "merged": 30,
+        "accepted_before_trim": 28,
+        "rejected": 2,
+        "accepted_final": 17
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1027",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\munich_romantic-places_164037.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\munich_romantic-places_164037.report.json"
+      },
+      "created_ts": 1759440601
+    },
+    {
+      "job_index": 8,
+      "city": "Frankfurt",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164044",
+      "title": "The 35 most romantic places in Frankfurt",
+      "final_title": "Whispers of Love in Frankfurt",
+      "from_cache": false,
+      "counts": {
+        "meta": 35,
+        "blocks": 35,
+        "merged": 35,
+        "accepted_before_trim": 34,
+        "rejected": 1,
+        "accepted_final": 21
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1028",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\frankfurt_romantic-places_164044.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\frankfurt_romantic-places_164044.report.json"
+      },
+      "created_ts": 1759440992
+    },
+    {
+      "job_index": 11,
+      "city": "Hamburg",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106469",
+      "title": "The 47 best backpacking trails near Hamburg",
+      "final_title": "Backpacking Hamburg: Trails of Discovery",
+      "from_cache": false,
+      "counts": {
+        "meta": 47,
+        "blocks": 47,
+        "merged": 47,
+        "accepted_before_trim": 5,
+        "rejected": 42,
+        "accepted_final": 3
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 33,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\hamburg_beaches_106469.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\hamburg_beaches_106469.report.json"
+      },
+      "created_ts": 1759441078
+    },
+    {
+      "job_index": 13,
+      "city": "Cologne",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160469",
+      "title": "The 26 best photo spots in Cologne",
+      "final_title": "Capturing Cologne: Iconic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 20,
+        "rejected": 6,
+        "accepted_final": 12
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 22,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1030",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\cologne_photo-spots_160469.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\cologne_photo-spots_160469.report.json"
+      },
+      "created_ts": 1759441356
+    },
+    {
+      "job_index": 15,
+      "city": "Cologne",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106499",
+      "title": "The 26 best backpacking trails near Cologne",
+      "final_title": "Cologne's Hidden Trails: Nature Awaits",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 3,
+        "rejected": 23,
+        "accepted_final": 2
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 19,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\cologne_beaches_106499.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\cologne_beaches_106499.report.json"
+      },
+      "created_ts": 1759441410
+    },
+    {
+      "job_index": 20,
+      "city": "Stuttgart",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164116",
+      "title": "The 43 most romantic places in Stuttgart",
+      "final_title": "Stuttgart's Love Journey: Romantic Escapes",
+      "from_cache": false,
+      "counts": {
+        "meta": 43,
+        "blocks": 43,
+        "merged": 43,
+        "accepted_before_trim": 42,
+        "rejected": 1,
+        "accepted_final": 26
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1032",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\stuttgart_romantic-places_164116.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\stuttgart_romantic-places_164116.report.json"
+      },
+      "created_ts": 1759441849
+    },
+    {
+      "job_index": 21,
+      "city": "Stuttgart",
+      "category_used": "backpacking trails",
+      "url": "https://wanderlog.com/list/geoCategory/106548",
+      "title": "The 49 best backpacking trails near Stuttgart",
+      "final_title": "The 49 best backpacking trails near Stuttgart",
+      "from_cache": false,
+      "counts": {
+        "meta": 49,
+        "blocks": 49,
+        "merged": 49,
+        "accepted_before_trim": 0,
+        "rejected": 49,
+        "accepted_final": 0
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 32,
+        "title_calls": 0
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": false,
+        "firestore_doc_id": null,
+        "bucket": null
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\stuttgart_beaches_106548.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\stuttgart_beaches_106548.report.json"
+      },
+      "created_ts": 1759441923
+    },
+    {
+      "job_index": 24,
+      "city": "Dusseldorf",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164117",
+      "title": "The 26 most romantic places in Dusseldorf",
+      "final_title": "Romantic Escapes in Düsseldorf's Heart",
+      "from_cache": false,
+      "counts": {
+        "meta": 26,
+        "blocks": 26,
+        "merged": 26,
+        "accepted_before_trim": 26,
+        "rejected": 0,
+        "accepted_final": 16
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 1,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1034",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\dusseldorf_romantic-places_164117.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\dusseldorf_romantic-places_164117.report.json"
+      },
+      "created_ts": 1759442236
+    },
+    {
+      "job_index": 33,
+      "city": "Sintra",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164254",
+      "title": "The 34 most romantic places in Sintra",
+      "final_title": "Whispers of Romance in Sintra",
+      "from_cache": false,
+      "counts": {
+        "meta": 34,
+        "blocks": 34,
+        "merged": 34,
+        "accepted_before_trim": 32,
+        "rejected": 2,
+        "accepted_final": 20
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 2,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1035",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\sintra_romantic-places_164254.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\sintra_romantic-places_164254.report.json"
+      },
+      "created_ts": 1759442599
+    },
+    {
+      "job_index": 37,
+      "city": "Cascais",
+      "category_used": "romantic places",
+      "url": "https://wanderlog.com/list/geoCategory/164212",
+      "title": "The 40 most romantic places in Cascais",
+      "final_title": "Whispers of Love in Cascais",
+      "from_cache": false,
+      "counts": {
+        "meta": 40,
+        "blocks": 40,
+        "merged": 40,
+        "accepted_before_trim": 40,
+        "rejected": 0,
+        "accepted_final": 24
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 0,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1036",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\cascais_romantic-places_164212.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\cascais_romantic-places_164212.report.json"
+      },
+      "created_ts": 1759442996
+    },
+    {
+      "job_index": 48,
+      "city": "Funchal",
+      "category_used": "photo spots",
+      "url": "https://wanderlog.com/list/geoCategory/160516",
+      "title": "The 20 best photo spots in Funchal",
+      "final_title": "Capturing Funchal: Scenic Photo Adventures",
+      "from_cache": false,
+      "counts": {
+        "meta": 20,
+        "blocks": 20,
+        "merged": 20,
+        "accepted_before_trim": 18,
+        "rejected": 2,
+        "accepted_final": 11
+      },
+      "llm": {
+        "enabled": true,
+        "model": "gpt-4o-mini",
+        "validation_calls": 16,
+        "title_calls": 1
+      },
+      "publish": {
+        "enabled": true,
+        "min_items": 7,
+        "published": true,
+        "firestore_doc_id": "1037",
+        "bucket": "mycasavsc.appspot.com"
+      },
+      "out_files": {
+        "playlist_json": "publish_playlist\\germany_20251003_0018\\funchal_photo-spots_160516.json",
+        "report_json": "publish_playlist\\germany_20251003_0018\\funchal_photo-spots_160516.report.json"
+      },
+      "created_ts": 1759443235
+    }
+  ],
+  "end_ts": 1759443236,
+  "finish_reason": "finished",
+  "failures_count": 4,
+  "failures_file": "publish_playlist\\germany_20251003_0018\\_failed_jobs.json",
+  "rerun_dataset_file": "publish_playlist\\germany_20251003_0018\\_rerun_dataset.json",
+  "cache_stats": {
+    "llm_validation_calls": 715,
+    "llm_title_calls": 42,
+    "google_places_calls": 487,
+    "cache_hits": 74,
+    "cache_misses": 1293
+  },
+  "cache_sizes": {
+    "llm_validation_cache": 715,
+    "llm_title_cache": 42,
+    "google_places_cache": 487,
+    "mobx_data_cache": 44
+  }
+}

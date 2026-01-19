@@ -1,0 +1,56 @@
+[
+  {
+    "job_index": null,
+    "city": "Rome",
+    "category": "romantic places",
+    "title": "The 49 most romantic places in Rome",
+    "url": "https://wanderlog.com/list/geoCategory/164012",
+    "stage": "parse",
+    "error": "mobx_regex_no_match"
+  },
+  {
+    "job_index": null,
+    "city": "Venice",
+    "category": "beaches",
+    "title": "The 41 best beaches in and around Venice",
+    "url": "https://wanderlog.com/list/geoCategory/110056",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Venice",
+    "category": "romantic places",
+    "title": "The 49 most romantic places in Venice",
+    "url": "https://wanderlog.com/list/geoCategory/164026",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Florence",
+    "category": "castles",
+    "title": "The 18 best castles in and around Florence",
+    "url": "https://wanderlog.com/list/geoCategory/115450",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Vatican City",
+    "category": "photo spots",
+    "title": "The 46 best photo spots in Vatican City",
+    "url": "https://wanderlog.com/list/geoCategory/160955",
+    "stage": "parse",
+    "error": "mobx_script_not_found"
+  },
+  {
+    "job_index": null,
+    "city": "Turin",
+    "category": "photo spots",
+    "title": "The 46 best photo spots in Turin",
+    "url": "https://wanderlog.com/list/geoCategory/160441",
+    "stage": "parse",
+    "error": "mobx_regex_no_match"
+  }
+]

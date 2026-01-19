@@ -1,0 +1,35 @@
+{
+  "job_index": 2,
+  "city": "Varanasi",
+  "category_used": "architecture",
+  "url": "https://wanderlog.com/list/geoCategory/97292",
+  "title": "The 23 best architecture in Varanasi",
+  "final_title": "Architectural Wonders of Varanasi",
+  "from_cache": false,
+  "counts": {
+    "meta": 23,
+    "blocks": 23,
+    "merged": 23,
+    "accepted_before_trim": 23,
+    "rejected": 0,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "580",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\varanasi_$(Get-Date -Format 'yyyyMMdd_HHmm')\\varanasi_architecture_97292.json",
+    "report_json": "publish_playlist\\varanasi_$(Get-Date -Format 'yyyyMMdd_HHmm')\\varanasi_architecture_97292.report.json"
+  },
+  "created_ts": 1758970746
+}

@@ -1,0 +1,35 @@
+{
+  "job_index": 0,
+  "city": "Chennai",
+  "category_used": "beaches",
+  "url": "https://wanderlog.com/list/geoCategory/109820",
+  "title": "The 50 best beaches in and around Chennai (Madras)",
+  "final_title": "Chennai's Coastal Escapes: Beach Bliss Awaits",
+  "from_cache": false,
+  "counts": {
+    "meta": 50,
+    "blocks": 50,
+    "merged": 50,
+    "accepted_before_trim": 20,
+    "rejected": 30,
+    "accepted_final": 14
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 24,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "632",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\chennai_20250928_2118\\chennai_beaches_109820.json",
+    "report_json": "publish_playlist\\chennai_20250928_2118\\chennai_beaches_109820.report.json"
+  },
+  "created_ts": 1759076554
+}

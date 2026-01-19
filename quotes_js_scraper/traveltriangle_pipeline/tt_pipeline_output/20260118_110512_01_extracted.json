@@ -1,0 +1,62 @@
+{
+  "playlistTitle": "Oman Beach Bliss",
+  "placeName": "Oman",
+  "country": "Oman",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/oman-beaches/"
+  ],
+  "description": "Sunlit waves and warm sand—Oman Beach Bliss soundtrack for golden hour walks along Muscat shores.",
+  "items": [
+    {
+      "name": "Turtle Beach",
+      "description": "",
+      "location_hint": "Al Hadd",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Al Qurum Beach",
+      "description": "",
+      "location_hint": "Muscat city",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Salalah Beach",
+      "description": "",
+      "location_hint": "Salalah",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Bandar Jissah Beach",
+      "description": "",
+      "location_hint": "25kms from Muscat city",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Al Sawadi Beach",
+      "description": "",
+      "location_hint": "75kms from Muscat, near Barka",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Tiwi Beach",
+      "description": "",
+      "location_hint": "lies in between Muscat and Sur",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}

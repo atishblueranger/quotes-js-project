@@ -1,0 +1,35 @@
+{
+  "job_index": 9,
+  "city": "Zadar",
+  "category_used": "romantic places",
+  "url": "https://wanderlog.com/list/geoCategory/164246",
+  "title": "The 25 most romantic places in Zadar",
+  "final_title": "Whispers of Love in Zadar",
+  "from_cache": false,
+  "counts": {
+    "meta": 25,
+    "blocks": 25,
+    "merged": 25,
+    "accepted_before_trim": 25,
+    "rejected": 0,
+    "accepted_final": 15
+  },
+  "llm": {
+    "enabled": true,
+    "model": "gpt-4o-mini",
+    "validation_calls": 0,
+    "title_calls": 1
+  },
+  "publish": {
+    "enabled": true,
+    "min_items": 7,
+    "published": true,
+    "firestore_doc_id": "1048",
+    "bucket": "mycasavsc.appspot.com"
+  },
+  "out_files": {
+    "playlist_json": "publish_playlist\\croatia_20251004_2022\\zadar_romantic-places_164246.json",
+    "report_json": "publish_playlist\\croatia_20251004_2022\\zadar_romantic-places_164246.report.json"
+  },
+  "created_ts": 1759590971
+}

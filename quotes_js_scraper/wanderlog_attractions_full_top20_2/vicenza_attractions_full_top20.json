@@ -1,0 +1,1496 @@
+[
+    {
+        "placeId": "ChIJBdAGJtYzf0cR1cVgUVb4Cps",
+        "website": null,
+        "index": 1,
+        "utcOffset": 120,
+        "longitude": 11.545083,
+        "latitude": 45.5477,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Corso Andrea Palladio is the bustling main street of Vicenza, located just northwest of Piazza dei Signori. The street is adorned with magnificent palaces, many of which were designed by the renowned architect Andrea Palladio. One notable landmark along this thoroughfare is the Palazzo del Comune, a splendid building crafted by Vincenzo Scamozzi in the early 1600s.",
+        "imageKeys": [
+            "g01TyBRxIA7qlIvf7YCP8HsN8yxcHMe2",
+            "TF6WS7B0upk2AQZnW05O6GIUuqxZXeAC",
+            "aIj33JBDQ3czHt3Ht7uBU5CodSKUk5oR",
+            "CMdGisv3sQUnAOtYJwSpnjRH6khcBJ2K"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Corso Andrea Palladio",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "36100 Vicenza VI, Italy",
+        "types": [
+            "Sights & Landmarks",
+            "Historic Walking Areas",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJQYW5M9Qzf0cR5tJXDUmLpbI",
+        "website": null,
+        "index": 2,
+        "utcOffset": 120,
+        "longitude": 11.549203,
+        "latitude": 45.54953,
+        "rating": 5,
+        "excerpt": null,
+        "detail_description": "Residences Teatro Olimpico is a historic building opposite the Museo Civico, originally designed by Palladio and completed by Vincenzo Scamozzi. The Renaissance-style theater is made of wood and stucco, resembling ancient theaters. The location in the historic center offers comfortable apartments with all amenities, providing a homely feel for guests. Visitors can enjoy the warm hospitality of Mrs. Caterina and experience five-star treatment with attention to detail.",
+        "imageKeys": [
+            "Sut0asi16HL3NQufutqIwK98mHhIiOen",
+            "edhlzIXIXMncYzWvE1C97Lh2UFWw4TJt",
+            "yDausWUYwU2lNHrqKSTyDvWjU4eJkmqU",
+            "RE2bs5ypXXXHcMvLWrDAKQOb92Ot8dbs"
+        ],
+        "ratingCount": 5,
+        "openingPeriods": null,
+        "name": "Residences Teatro Olimpico",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Piazza Matteotti, 1, 36100 Vicenza VI, Italy",
+        "types": [
+            "Furnished apartment building",
+            "Apartment complex",
+            "Serviced accommodation"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 5
+            }
+        }
+    },
+    {
+        "placeId": "ChIJPd1DytUzf0cRYRGqD0EpJQ8",
+        "website": "https://www.museicivicivicenza.it/it/",
+        "index": 3,
+        "utcOffset": 120,
+        "longitude": 11.549395,
+        "latitude": 45.5491,
+        "rating": 4.5,
+        "excerpt": "Museum of art and sculpture from the 13th to 20th centuries, in a 16th-century palladium building.",
+        "detail_description": "Palazzo Chiericati is a 16th-century Palladian building that houses a museum of art and sculpture spanning from the 13th to the 20th centuries. Designed by Palladio, it features an imposing facade and is considered one of his finest works. The Civic Art Gallery inside showcases original collections of Venetian works of art, including pieces by Tintoretto, Veronese, Sansovino, and others.",
+        "imageKeys": [
+            "FdbK9nbRjfPHcJvtAm2vkGKxZqbGLBaM",
+            "Adt78hgOy4y1rf8ubjBDkiOImuitMk5F",
+            "FHfI9GpSNb5KFZ6drZeXgzIkqL0kcnU0",
+            "z9XnwI8n6X3uYR7IMIvNz2UWm6ts4J9V"
+        ],
+        "ratingCount": 1839,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Palazzo Chiericati",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0444 222811",
+        "address": "Piazza Matteotti, 37/39, 36100 Vicenza VI, Italy",
+        "types": [
+            "Art museum",
+            "Museums",
+            "Heritage museum",
+            "Architectural Buildings",
+            "History Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 29,
+                "2": 18,
+                "3": 114,
+                "4": 471,
+                "5": 1211
+            }
+        }
+    },
+    {
+        "placeId": "ChIJA2mZS9Qzf0cRuKrj40_aZZs",
+        "website": "https://www.comune.vicenza.it/vicenza/turismo.php/scopri_vicenza/chiesa_di_santa_corona",
+        "index": 4,
+        "utcOffset": 120,
+        "longitude": 11.547736,
+        "latitude": 45.549295,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "In the heart of Vicenza's historic old town stands the Chiesa di Santa Corona, a 13th-century Gothic church known for housing a precious relic - a thorn from Christ's Crown of Thorns. The interior boasts remarkable paintings such as Giovanni Bellini's Baptism of Christ and Veronese's Adoration of the Magi. One of its main attractions is the Cappella Valmarana, believed to be designed by renowned architect Andrea Palladio.",
+        "imageKeys": [
+            "2HsirjTZMYaj8e50H9K8VmKJ2oyK1fgU",
+            "HO3tyCASDrbxdIuJjovNSFzWWHNZerIr",
+            "axYZCbs8K7yaZb4DBzxVeCwX6fKZHkwe"
+        ],
+        "ratingCount": 637,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Chiesa di Santa Corona",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "Contrà Santa Corona, 2, 36100 Vicenza VI, Italy",
+        "types": [
+            "Catholic church",
+            "Sights & Landmarks",
+            "Church",
+            "Points of Interest & Landmarks",
+            "Churches & Cathedrals"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 9,
+                "2": 6,
+                "3": 24,
+                "4": 135,
+                "5": 468
+            }
+        }
+    },
+    {
+        "placeId": "ChIJB8fg7NYzf0cRRmJogffED70",
+        "website": "https://www.gallerieditalia.com/it/vicenza/",
+        "index": 5,
+        "utcOffset": 120,
+        "longitude": 11.546724,
+        "latitude": 45.550152,
+        "rating": 4.7,
+        "excerpt": "Baroque palace from 1676, plus a museum with ancient ceramics, Russian icons & 1700s Venetian art.",
+        "detail_description": "Palazzo Leoni Montanari is a late Baroque palace in Vicenza, standing out from the city's predominantly Palladian Renaissance style. Lavishly decorated interiors feature cherubs, mythological characters, and intricate details like dragons and giants. The museum within showcases ancient Greek ceramics, 20th-century modernist works, and Venetian art from the 1700s. Notable pieces include an entire hall of paintings by Pietro Longhi.",
+        "imageKeys": [
+            "lWMNk2Au4YZIyQ2rVtT09S2PzQEjCCCf",
+            "5VCMWYUp7dKDxN7qIihnMcgi8Nh2W3ur",
+            "apfQs1QpHntP0782uPGfuRh0mXokEETo"
+        ],
+        "ratingCount": 1677,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Palazzo Leoni Montanari",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 800 167 619",
+        "address": "Contrà Santa Corona, 25, 36100 Vicenza VI, Italy",
+        "types": [
+            "Museum",
+            "Art museum"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 10,
+                "2": 5,
+                "3": 52,
+                "4": 344,
+                "5": 1269
+            }
+        }
+    },
+    {
+        "placeId": "ChIJh7FZ_5kxf0cRdUHiFcj9Z2I",
+        "website": "https://www.villalarotonda.it/",
+        "index": 6,
+        "utcOffset": 120,
+        "longitude": 11.56027,
+        "latitude": 45.531525,
+        "rating": 4.5,
+        "excerpt": "16th-century hilltop villa built by Andrea Palladio, now used for cultural & corporate events.",
+        "detail_description": "Villa la Rotonda is a 16th-century hilltop villa designed by Andrea Palladio, known for hosting cultural and corporate events. It is featured in the Four Books of Architecture as a suburban residence with service rooms in the basement and a grand circular hall on the main floor. The surrounding romantic park offers stunning views of the cultivated land.",
+        "imageKeys": [
+            "HUYcsTii5YluZEMSM1jUeAyiEwZNj07D",
+            "mFTE13OqD7Ofsipfh0bQAx0BHA6Y7HPA",
+            "NEtoqnnWOM3NPwbTZhl7RSl0ZWQ1NEou",
+            "MWxslDjYPQkMch3hi1FQ9qiW2h6MdQxk"
+        ],
+        "ratingCount": 3403,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1200"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1200"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1200"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1500"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Villa la Rotonda",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0444 321793",
+        "address": "Via della Rotonda, 45, 36100 Vicenza VI, Italy",
+        "types": [
+            "Villa",
+            "Sights & Landmarks",
+            "Art museum",
+            "Architectural Buildings"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 104,
+                "2": 68,
+                "3": 202,
+                "4": 547,
+                "5": 2497
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ94Vnrycxf0cRIS3wqMuoxTU",
+        "website": "http://palazzina.villavalmarana.com/",
+        "index": 7,
+        "utcOffset": 120,
+        "longitude": 11.556497,
+        "latitude": 45.535436,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "When visiting Vicenza, don't miss out on the charming Palazzina di Villa Valmarana ai Nani. This must-see attraction boasts precious 14th-century frescoes and stunning statuary set amidst beautiful little gardens. The villa and its lovely landscaping offer a delightful setting to enjoy a cup of coffee while admiring the historical artwork. It's definitely worth a visit for those who appreciate art, history, and picturesque surroundings in Vicenza.",
+        "imageKeys": [
+            "LR54vnP4pRDyV8ZVDJdp3QbjnWWMxSRR",
+            "oZnrwkGf9NboQB1CVlCHPJ5pwgVRi8bS",
+            "dbLWxyElsoHutJRUvgRYaKH9YeRn0ksB"
+        ],
+        "ratingCount": 660,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Palazzina di Villa Valmarana ai Nani",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 351 532 6867",
+        "address": "Via dei Nani, 2, 36100 Vicenza VI, Italy",
+        "types": [
+            "Museum",
+            "Event planner"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 14,
+                "3": 26,
+                "4": 146,
+                "5": 470
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ1XviC9Ezf0cRjJVxjc046gA",
+        "website": null,
+        "index": 8,
+        "utcOffset": 120,
+        "longitude": 11.547779,
+        "latitude": 45.553894,
+        "rating": 4.5,
+        "excerpt": "Peaceful green space with paths & statuary, plus a pavilion on a circular island in a manmade lake.",
+        "detail_description": "Parco Querini, located in the north-eastern part of Vicenza's old town center, offers a peaceful retreat with its lush greenery and charming features. The park is bordered by the river Bacchiglione and the Astichello tributary, as well as the Venetian walls along Viale Rodolfi. It derives its name from Palazzo Querini and features eighteenth-century statues and sculptures.",
+        "imageKeys": [
+            "qf3XPqQDuXR18QCe2ys8pGvYLDGNpBDq",
+            "ATs0VUYD53UtrvcmQHM9sYidBBKqUr5k",
+            "29ZEhn6ZGe585MSN2DD22JIqfqldQDUl",
+            "F247wlUGZ9yFtWedHnCYxp9mwhTm5SaK"
+        ],
+        "ratingCount": 3833,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "2100"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0700"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "2100"
+                }
+            }
+        ],
+        "name": "Parco Querini",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0444 221111",
+        "address": "Viale Mariano Rumor, 36100 Vicenza VI, Italy",
+        "types": [
+            "Park",
+            "Nature & Parks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 57,
+                "2": 60,
+                "3": 280,
+                "4": 1003,
+                "5": 2441
+            }
+        }
+    },
+    {
+        "placeId": "ChIJOUqb9n0xf0cReXG__SixTho",
+        "website": null,
+        "index": 9,
+        "utcOffset": 120,
+        "longitude": 11.546055,
+        "latitude": 45.54725,
+        "rating": 4.7,
+        "excerpt": "Former 16th-century palace with ornate balconies & rich stucco decorations portraying battle scenes.",
+        "detail_description": "In the heart of Vicenza lies the Loggia del Capitaniato, a 16th-century palace adorned with intricate balconies and elaborate stucco decorations depicting historical battle scenes. This majestic building is part of the UNESCO World Heritage Site that encompasses the city and its surrounding Palladian villas.",
+        "imageKeys": [
+            "ksPkED2ZoVOPrXcD7Yj4R8YqDeBIlPFi",
+            "W8iEgb6St27RTvzCd9dOjgbxuJ4FWwR2"
+        ],
+        "ratingCount": 151,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Loggia del Capitaniato",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0444 221111",
+        "address": "Piazza dei Signori, 1, 36100 Vicenza VI, Italy",
+        "types": [
+            "Historical landmark",
+            "Sights & Landmarks",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 1,
+                "3": 5,
+                "4": 34,
+                "5": 110
+            }
+        }
+    },
+    {
+        "placeId": "ChIJb1HS5H0xf0cRvECEC5PAjmo",
+        "website": null,
+        "index": 10,
+        "utcOffset": 120,
+        "longitude": 11.541378,
+        "latitude": 45.546181,
+        "rating": null,
+        "excerpt": "Vicenza is a city in the Veneto region of northeast Italy. It’s known for the elegant buildings designed by the 16th-century architect Andrea Palladio. These include the Palladian Basilica and the Palazzo Chiericati, now home to an art gallery. Nearby, also by Palladio, the Teatro Olimpico replicates a classic outdoor theater, indoors. On the outskirts of town, the hilltop Villa La Rotonda has 4 identical facades.",
+        "detail_description": "Vicenza, located in the Veneto region of Italy, is renowned for its exquisite architecture designed by the 16th-century architect Andrea Palladio. The city boasts elegant buildings such as the Palladian Basilica, Palazzo Chiericati which now houses an art gallery, and the indoor replica of a classic outdoor theater called Teatro Olimpico. Additionally, on the outskirts of Vicenza sits Villa La Rotonda with its four identical facades.",
+        "imageKeys": [
+            "tcxnqvJfgM2pBJVzebNz4YdE3VibR2hZ",
+            "uYFvGJDb1DySUX4LRumAS40we7I3TuJF",
+            "XFCfHMz0Anzb9MOuJ8SDSLULBthx56YW",
+            "Ixl22uxhfHCqjnGyuV47v2d8IkBw7qZf",
+            "2BWCmTuagFQDFi3Dj808PDvu54H10wG5"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Vicenza",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "36100 Province of Vicenza, Italy",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJlXECA9Yzf0cRMhL0fPPiwJ0",
+        "website": null,
+        "index": 11,
+        "utcOffset": 120,
+        "longitude": 11.546656,
+        "latitude": 45.54735,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "Piazza dei Signori is a must-visit in Vicenza, offering a rich atmosphere for all tastes. It is located near Corso Palladio, the main street where you can find everything you need for a magical experience in Vicenza. The square is also home to the Basilica Palladiana, making it a significant point of reference for art lovers and anyone who enjoys being amazed by beautiful architecture.",
+        "imageKeys": [
+            "z7TbSvWDysUpkgAGR7sXgwmdtTspH0P7",
+            "BKnwTzO6mAXvUtDILwBL4snIgMBHTmHA"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Piazza dei Signori",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "36100 Vicenza VI, Italy",
+        "types": [
+            "Town square"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJS6Ou8X0xf0cR-8mlaEHj0h0",
+        "website": null,
+        "index": 12,
+        "utcOffset": 120,
+        "longitude": 11.545944,
+        "latitude": 45.546969,
+        "rating": null,
+        "excerpt": null,
+        "detail_description": "When in Vicenza, a visit to Piazza dei Signori is a must. This main square is an essential stop for any visitor to the city. It's surrounded by historic buildings and offers a charming atmosphere that captures the essence of Vicenza.",
+        "imageKeys": [
+            "CsxDMsPbRfZJX60VaMuMNi0q0P9cNoXX",
+            "tNXbo92pV8Dk8TCBXdoObD5pH6liSskI",
+            "1W0ILkE35evp56ZFcQgPSnG1MFCcbjrV",
+            "pUJEhF4xZPYo9Nya1Spulh0ERr0KDi50",
+            "Zmab9YFvYGpwZ92suykTSD5AoL2LyrPq"
+        ],
+        "ratingCount": null,
+        "openingPeriods": null,
+        "name": "Piazza dei Signori",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "36100 Vicenza VI, Italy",
+        "types": [],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0
+            }
+        }
+    },
+    {
+        "placeId": "ChIJSaOf930xf0cRFkF7aPArmFs",
+        "website": null,
+        "index": 13,
+        "utcOffset": 120,
+        "longitude": 11.546638,
+        "latitude": 45.547302,
+        "rating": 4.7,
+        "excerpt": "Piazza with elegant palaces, grand columns topped with statues & an imposing Renaissance basilica.",
+        "detail_description": "Piazza dei Signori is a stunning square that showcases the architectural brilliance of Andrea Palladio, featuring elegant palaces and grand columns adorned with statues. The imposing Renaissance basilica at its heart serves as a remarkable public space rather than just a church, housing traditional shops and cafes beneath its porticoes. Visitors can also admire the Teatro Olimpico, an unfinished masterpiece by Palladio, along with other exquisite buildings lining Contra Porti.",
+        "imageKeys": [
+            "4b6BDPGYPgO6lyPZXPZ7OcAYm5HQ3TVW",
+            "aNPMzdsVG7v5beUQ79bgdarQ9mGslMQA",
+            "hHdOYqG9ZnfDih95CH23Gmx2B4qYurBd"
+        ],
+        "ratingCount": 11918,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0000"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "0000"
+                }
+            }
+        ],
+        "name": "Piazza dei Signori",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "36100 Vicenza VI, Italy",
+        "types": [
+            "Historical landmark",
+            "Sights & Landmarks",
+            "Scenic spot",
+            "Historic Walking Areas",
+            "Monuments & Statues",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 126,
+                "2": 54,
+                "3": 404,
+                "4": 2290,
+                "5": 9049
+            }
+        }
+    },
+    {
+        "placeId": "ChIJYz7_9n0xf0cR1T_Cqs9jPsY",
+        "website": "https://www.museicivicivicenza.it/it/bp/basilica-palladiana/info.php",
+        "index": 14,
+        "utcOffset": 120,
+        "longitude": 11.54672,
+        "latitude": 45.546986,
+        "rating": 4.7,
+        "excerpt": "Iconic 16th-century building designed by famous architect Palladio housing cultural exhibitions.",
+        "detail_description": "The Palladian Basilica, a 16th-century masterpiece designed by the renowned architect Palladio, is a cultural hub in Vicenza. The building underwent renovations in 2012 and is surrounded by grand aristocratic palaces like Loggia del Capitaniato and Palazzo Chiericati. Visitors can explore the nearby Casa Pigafetta and the iconic Rotonda villa, both designed by Palladio.",
+        "imageKeys": [
+            "WOX1BSYfDsFyb4GYPXNuMvJR7IaRRFtx",
+            "R2AV8LPGffTTC4ppbHNYtBC9ZOkCRSiR",
+            "02YdrMTJzY53bL7udgHZtXipPmLmibZW",
+            "qGt3ajcUftpFNDGrxfOPObN6dXWsdF5f",
+            "4DFQiIayZQu71go9wa7KWkUgHf44O5Vv"
+        ],
+        "ratingCount": 7594,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Palladian Basilica",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0444 222850",
+        "address": "Piazza dei Signori, 36100 Vicenza VI, Italy",
+        "types": [
+            "Art museum",
+            "Sights & Landmarks",
+            "Architectural Buildings",
+            "Historic Sites",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 77,
+                "2": 48,
+                "3": 272,
+                "4": 1336,
+                "5": 5890
+            }
+        }
+    },
+    {
+        "placeId": "ChIJHa5yoX0xf0cR6-wv3nJvxXk",
+        "website": "http://www.archeoveneto.it/portale/wp-content/filemaker/stampa_scheda_estesa.php?recid=97",
+        "index": 15,
+        "utcOffset": 120,
+        "longitude": 11.544201,
+        "latitude": 45.545586,
+        "rating": 4.6,
+        "excerpt": null,
+        "detail_description": "The Roman Cryptoporticus in Vicenza is a fascinating archaeological site dating back to the first century BC. This underground structure, located beneath the Palazzetto Proti and the Cathedral of Vicenza, is one of the few remaining examples of its kind. Originally used by the inhabitants to seek relief from summer heat, it was later covered entirely. The site offers a glimpse into the original town's architecture and historical significance.",
+        "imageKeys": [
+            "UPuRjt6cARu9dEPdt1MDBZRlp1fdMBuc",
+            "d1Dry6T6AuoaH8xfaNXkjxq84GjvjJny",
+            "HyxIVelkVZr7zRcsa3EG9ik14QunFf2D",
+            "uL1BzZ3X9BxUwGojMlJg306gZyH8qyH7"
+        ],
+        "ratingCount": 79,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "0930"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1130"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1030"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1300"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1400"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Roman cryptoporticus",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0444 226400",
+        "address": "Piazza del Duomo, 6, 36100 Vicenza VI, Italy",
+        "types": [
+            "Historical landmark",
+            "Museums",
+            "Ancient Ruins",
+            "Historic Walking Areas",
+            "History Museums",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 1,
+                "2": 0,
+                "3": 5,
+                "4": 16,
+                "5": 57
+            }
+        }
+    },
+    {
+        "placeId": "ChIJqUZl19czf0cR6JHDmayGFiM",
+        "website": "http://www.palazzovalmaranabraga.it/",
+        "index": 16,
+        "utcOffset": 120,
+        "longitude": 11.543691,
+        "latitude": 45.547762,
+        "rating": 4.5,
+        "excerpt": null,
+        "detail_description": "Palazzo Valmarana Braga is a stunning civilian residence designed by Palladio, now housing the Vicenza Town Museum. The museum boasts an impressive art collection, including significant works from the sixteenth century. Visitors can take a guided tour of the palace to learn about its historical significance and then embark on a comfortable Palladian E-bike journey to reach Villa La Rotonda, another iconic work by the renowned architect.",
+        "imageKeys": [
+            "BqLgNuDtL2hS4aK4FPLQRvXBQSpE89Mg",
+            "q2vKx7McC9aPFTUUnY5S1PweLnKFNbnS",
+            "xeYcIl1UlXkeYQBOoWTwffVahGA7cGxR",
+            "xwfd6Y4PP75YcPKhxYRUoEIgIKfv95kp"
+        ],
+        "ratingCount": 136,
+        "openingPeriods": null,
+        "name": "Palazzo Valmarana Braga",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 347 720 4658",
+        "address": "Corso Antonio Fogazzaro, 16, 36100 Vicenza VI, Italy",
+        "types": [
+            "Holiday apartment",
+            "Sights & Landmarks",
+            "Architectural Buildings",
+            "Historic Sites",
+            "Points of Interest & Landmarks"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 4,
+                "2": 3,
+                "3": 9,
+                "4": 26,
+                "5": 94
+            }
+        }
+    },
+    {
+        "placeId": "ChIJqZeoPAAxf0cRo5OFkho8naY",
+        "website": null,
+        "index": 17,
+        "utcOffset": 120,
+        "longitude": 11.541378,
+        "latitude": 45.546181,
+        "rating": 5,
+        "excerpt": null,
+        "detail_description": "Il Giardino del Teatro Olimpico is a hidden gem that transports you back in time. Accessible through a charming 17th-century door flanked by grand columns, this intimate green oasis is adorned with various statues and remnants from the Roman era, creating an enchanting atmosphere. Visitors can also appreciate the quaint loggia of Palazzo del Territorio nestled within the garden. While some maintenance work may be ongoing, it doesn't detract from the serene beauty and historical significance of this lovely space.",
+        "imageKeys": [
+            "OpJoMOML696A3O5xEfEttrsnOfrSs8I1",
+            "2kDixHwzwgNM6GN4OpSKiRMQSKWkYczu",
+            "cs8FksqOoeP2Ad4Igx7QTIHznWMAiuNm",
+            "HfZkD9zMdUyA6dCHLHDyREls5vpbRcnl"
+        ],
+        "ratingCount": 1,
+        "openingPeriods": null,
+        "name": "Il Giardino del Teatro Olimpico",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": null,
+        "address": "36100 Vicenza VI, Italy",
+        "types": [
+            "Community garden"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            }
+        }
+    },
+    {
+        "placeId": "ChIJW5YmfNYzf0cRw6XGJMsTifM",
+        "website": "http://www.museicivicivicenza.it/it/mna/index.php",
+        "index": 18,
+        "utcOffset": 120,
+        "longitude": 11.547494,
+        "latitude": 45.549662,
+        "rating": 4.1,
+        "excerpt": null,
+        "detail_description": "The Museo di Santa Corona is an archaeological museum that holds historical significance as the original burial site of Andrea Palladio. However, its main claim to fame lies in housing a thorn from the crown of thorns worn by Jesus. This precious artifact was gifted by Louis IX of France to Bishop Bartolomeo di Breganze. The museum is divided into two sections, one dedicated to natural history and the other showcasing various exhibits.",
+        "imageKeys": [
+            "IQtDPY0ufuHw1ZrbChOJRj9TAFZr9IHF",
+            "26ihgblnEmxK4X8INQjiILz1oF7TQC0s",
+            "Da4A2CWH9fYylqXfUq6Cge4vRNSDa5XH"
+        ],
+        "ratingCount": 214,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 3,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 3,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 4,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 4,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1800"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1800"
+                }
+            }
+        ],
+        "name": "Museo di Santa Corona",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0444 222815",
+        "address": "Contrà Santa Corona, 4, 36100 Vicenza VI, Italy",
+        "types": [
+            "Archaeological museum",
+            "Museums",
+            "Specialty Museums"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 11,
+                "2": 4,
+                "3": 40,
+                "4": 59,
+                "5": 101
+            }
+        }
+    },
+    {
+        "placeId": "ChIJ9wq5M9Qzf0cRWF6p_NtKqH8",
+        "website": "https://www.teatroolimpico.vicenza.it/it/",
+        "index": 19,
+        "utcOffset": 120,
+        "longitude": 11.549321,
+        "latitude": 45.550151,
+        "rating": 4.8,
+        "excerpt": "The first covered theater anywhere in Europe, built in the 16th century & still hosting productions.",
+        "detail_description": "The Olympic Theater, also known as Teatro Olimpico, is a historic landmark in Vicenza, Europe's first covered theater built in the 16th century. Commissioned by the Olympic Academy, it was designed to host performances and intellectual debates. The theater consists of three rooms with impressive frescoes dating back to 1647 and original oil lamps from 1585 on display.",
+        "imageKeys": [
+            "IYS5CT5wiCk28UjQWcjgfHe6MKV66myw",
+            "oCzLiPTteJhCabyqd2mXbiXuaejNMHuH",
+            "38gASL4G8bxP6eR85Ql9SMECF8SWM0uB",
+            "qGjIMJ206W1XMkMEsVhyC0DRgHNsZm4k",
+            "ISQwjZhjBjj6fQP0jByx7x2nxfSdBiJI"
+        ],
+        "ratingCount": 8908,
+        "openingPeriods": null,
+        "name": "Olympic Theater",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0444 320854",
+        "address": "Piazza Matteotti, 11, 36100 Vicenza VI, Italy",
+        "types": [
+            "Performing arts theater",
+            "Concerts & Shows",
+            "Art museum",
+            "Cultural center",
+            "Heritage museum",
+            "Live music venue",
+            "Museum",
+            "Theaters"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 108,
+                "2": 50,
+                "3": 178,
+                "4": 896,
+                "5": 7701
+            }
+        }
+    },
+    {
+        "placeId": "ChIJQ3u3LDExf0cR7wqm8qaTYMU",
+        "website": "https://www.vicenzaoro.com/",
+        "index": 20,
+        "utcOffset": 120,
+        "longitude": 11.507264,
+        "latitude": 45.528567,
+        "rating": 4.4,
+        "excerpt": null,
+        "detail_description": "Vicenzaoro is a premier jewelry trade fair that stands out as one of the largest and most significant events in the industry, held in the charming city of Vicenza. Known for its rich historical and cultural backdrop, this event showcases Italy's renowned craftsmanship in jewelry design. Attendees can explore an impressive array of exhibitors, from brands to manufacturers, alongside engaging workshops and insightful discussions led by industry experts. The Design Room has become a highlight for many visitors, blending contemporary aesthetics with haute couture elegance.",
+        "imageKeys": [
+            "0ct7T8UdMdeWYnXjNRJoPvNXKIWBNsgx",
+            "GSe5VtT5kp65CdTThaVHhxS0Jvi9ms8z",
+            "waRcWKOEvF3XQYg3oWxFU909DJygmVy0"
+        ],
+        "ratingCount": 1867,
+        "openingPeriods": [
+            {
+                "open": {
+                    "day": 0,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 0,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 1,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 1,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 2,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 2,
+                    "time": "1700"
+                }
+            },
+            {
+                "open": {
+                    "day": 5,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 5,
+                    "time": "1830"
+                }
+            },
+            {
+                "open": {
+                    "day": 6,
+                    "time": "1000"
+                },
+                "close": {
+                    "day": 6,
+                    "time": "1830"
+                }
+            }
+        ],
+        "name": "Vicenzaoro",
+        "permanentlyClosed": false,
+        "priceLevel": null,
+        "phone": "+39 0541 744555",
+        "address": "Quartiere Fieristico di Vicenza, Via Oreficeria, 16, 36100 Vicenza VI, Italy",
+        "types": [
+            "Event planner",
+            "Exhibition and trade centre"
+        ],
+        "ratingDistribution": {
+            "Google": {
+                "1": 57,
+                "2": 36,
+                "3": 177,
+                "4": 501,
+                "5": 1096
+            }
+        }
+    }
+]

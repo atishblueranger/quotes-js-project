@@ -1,0 +1,90 @@
+{
+  "playlistTitle": "Tanzanian Lake Dreams",
+  "placeName": "Tanzania",
+  "country": "Tanzania",
+  "category": "Travel",
+  "subtype": "poi",
+  "source": "traveltriangle",
+  "source_urls": [
+    "https://traveltriangle.com/blog/lakes-in-tanzania/"
+  ],
+  "description": "Tanzanian Lake Dreams - lull of ripples and sunset drums, a lakeside soundtrack for wandering.",
+  "items": [
+    {
+      "name": "Lake Victoria",
+      "description": "",
+      "location_hint": "African Great Lakes",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Tanganyika",
+      "description": "",
+      "location_hint": "African Great Lakes",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Malawi",
+      "description": "",
+      "location_hint": "East African Rift",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Rukwa",
+      "description": "",
+      "location_hint": "Southwestern part of Tanzania",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Natron",
+      "description": "",
+      "location_hint": "Northern part of Tanzania",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Manyara",
+      "description": "",
+      "location_hint": "Natron-Manyara-Babangida branch of the East African Rift.",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Burigi",
+      "description": "",
+      "location_hint": "Karagwe district, Kagera Region of Tanzania.",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Jipe",
+      "description": "",
+      "location_hint": "Border of Kenya and Tanzania.",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Chala",
+      "description": "",
+      "location_hint": "Border of Kenya and Tanzania.",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    },
+    {
+      "name": "Lake Babati",
+      "description": "",
+      "location_hint": "Babati Urban District of Manyara Region.",
+      "opening_hours_text": "",
+      "entry_fee_text": ""
+    }
+  ],
+  "ai_metadata": {
+    "title_mode": "catchy",
+    "title_confidence": 0.9,
+    "desc_style": "AI",
+    "desc_confidence": 0.9
+  }
+}
