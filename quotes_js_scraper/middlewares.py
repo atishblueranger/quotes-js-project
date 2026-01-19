@@ -4,10 +4,12 @@
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
-
-# useful for handling different item types with a single interface
+from scrapy.http import HtmlResponse
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 from itemadapter import is_item, ItemAdapter
-
 
 class QuotesJsScraperSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
@@ -101,3 +103,34 @@ class QuotesJsScraperDownloaderMiddleware:
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+class CustomSeleniumMiddleware:
+    def __init__(self):
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-gpu")
+        chrome_options.add_argument("--no-sandbox")
+        service = Service(ChromeDriverManager().install())
+        self.driver = webdriver.Chrome(service=service, options=chrome_options)
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        s = cls()
+        crawler.signals.connect(s.spider_closed, signal=signals.spider_closed)
+        return s
+
+    def process_request(self, request, spider):
+        if request.meta.get('screenshot', False):
+            spider.logger.info("Screenshot requested.")
+            self.driver.get(request.url)
+            screenshot = self.driver.get_screenshot_as_png()
+            request.meta['screenshot'] = screenshot
+            return HtmlResponse(url=request.url, body=self.driver.page_source, encoding='utf-8', request=request)
+        else:
+            self.driver.get(request.url)
+            return HtmlResponse(url=request.url, body=self.driver.page_source, encoding='utf-8', request=request)
+
+
+    def spider_closed(self, spider):
+        self.driver.quit()

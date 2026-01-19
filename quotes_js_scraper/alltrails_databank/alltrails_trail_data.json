@@ -1,0 +1,230 @@
+[
+    {
+        "id": "11087507",
+        "name": "Avelgem",
+        "overview": "Head out on this 10.0-km loop trail near Avelgem, West Flanders. Generally considered a moderately challenging route, it takes an average of 1 h 59 min to complete. This trail is great for hiking and running, and it's unlikely you'll encounter many other people while exploring. Dogs are welcome and may be off-leash in some areas.",
+        "routeType": "Loop",
+        "popularity": 53.5638,
+        "location": {
+            "postalCode": null,
+            "city_id": 99390,
+            "city": "Avelgem",
+            "region": null,
+            "regionName": "West Flanders",
+            "country": "BE",
+            "country_name": "Belgium",
+            "latitude": 50.77462,
+            "longitude": 3.44831
+        },
+        "attributes": {
+            "activities": [
+                {
+                    "description": "",
+                    "name": "Hiking",
+                    "uid": "hiking",
+                    "bitfieldPosition": 7,
+                    "displayPriority": 11,
+                    "type": "activity"
+                },
+                {
+                    "description": "",
+                    "name": "Running",
+                    "uid": "trail-running",
+                    "bitfieldPosition": 20,
+                    "displayPriority": 11,
+                    "type": "activity"
+                }
+            ],
+            "features": [
+                {
+                    "description": "",
+                    "name": "Dog-friendly",
+                    "uid": "dogs",
+                    "bitfieldPosition": 3,
+                    "displayPriority": 5,
+                    "type": "trail-feature"
+                },
+                {
+                    "description": "",
+                    "name": "Forest",
+                    "uid": "forest",
+                    "bitfieldPosition": 5,
+                    "displayPriority": 10,
+                    "type": "trail-feature"
+                },
+                {
+                    "description": "",
+                    "name": "Views",
+                    "uid": "views",
+                    "bitfieldPosition": 10,
+                    "displayPriority": 10,
+                    "type": "trail-feature"
+                },
+                {
+                    "description": "",
+                    "name": "Wildflowers",
+                    "uid": "wild-flowers",
+                    "bitfieldPosition": 12,
+                    "displayPriority": 10,
+                    "type": "trail-feature"
+                },
+                {
+                    "description": "",
+                    "name": "Historic site",
+                    "uid": "historic-site",
+                    "bitfieldPosition": 15,
+                    "displayPriority": 10,
+                    "type": "trail-feature"
+                }
+            ],
+            "obstacles": []
+        },
+        "defaultActivityStats": {
+            "activity": "default",
+            "rating": 4.1,
+            "difficulty": 3,
+            "visitorUsage": 1,
+            "seasonStart": -1,
+            "seasonEnd": -1
+        },
+        "groupedTags": [
+            {
+                "groupName": "Trail info",
+                "id": 3,
+                "tags": [
+                    {
+                        "description": "",
+                        "name": "Dog-friendly",
+                        "uid": "dogs"
+                    }
+                ]
+            },
+            {
+                "groupName": "Activities",
+                "id": 1,
+                "tags": [
+                    {
+                        "description": "",
+                        "name": "Hiking",
+                        "uid": "hiking"
+                    },
+                    {
+                        "description": "",
+                        "name": "Running",
+                        "uid": "trail-running"
+                    }
+                ]
+            },
+            {
+                "groupName": "Features",
+                "id": 2,
+                "tags": [
+                    {
+                        "description": "",
+                        "name": "Forests",
+                        "uid": "forest"
+                    },
+                    {
+                        "description": "",
+                        "name": "Views",
+                        "uid": "views"
+                    },
+                    {
+                        "description": "",
+                        "name": "Wildflowers",
+                        "uid": "wild-flowers"
+                    },
+                    {
+                        "description": "",
+                        "name": "Historic sites",
+                        "uid": "historic-site"
+                    }
+                ]
+            }
+        ],
+        "trailGeoStats": {
+            "length": 9977.908,
+            "elevationStart": 14.9352,
+            "elevationGain": 65.8368,
+            "elevationMax": 22.86,
+            "durationMinutes": "119.0",
+            "durationFormatted": "1 h 59 min",
+            "averageTimeToComplete": {
+                "value": "2-2.5",
+                "unit": "hr"
+            }
+        },
+        "defaultPhoto": {
+            "id": 35220865,
+            "title": null,
+            "description": null,
+            "likeCount": 0,
+            "photoHash": "ed5d76d3e1871bec558ee08b2d215f76",
+            "dataUid": null,
+            "trailId": 10762759,
+            "trailIds": [
+                10762759,
+                11087507
+            ],
+            "location": {
+                "postalCode": null,
+                "city": null,
+                "region": null,
+                "country": null,
+                "latitude": 50.7697706,
+                "longitude": 3.4536619
+            },
+            "user": {
+                "id": 35127305,
+                "private": null,
+                "username": "hannah-david-9",
+                "firstName": "Hannah",
+                "lastName": "David",
+                "slug": "hannah-david-9",
+                "admin": false,
+                "permissions": null,
+                "metric": true,
+                "displaySpeed": false,
+                "profilePhoto": null,
+                "pro": false,
+                "isPromoEligible": true,
+                "marketingLangPreference": "fr",
+                "location": {
+                    "city": "Arlon",
+                    "regionName": "Luxembourg",
+                    "countryName": "Belgium",
+                    "country": "BE"
+                },
+                "email_none": false,
+                "created": "2021-02-19T10:35:29Z",
+                "garminConnected": false
+            },
+            "metadata": {
+                "created": "2021-04-08T10:54:08Z",
+                "updated": "2023-12-07T01:48:34Z",
+                "status": "A"
+            }
+        },
+        "avgRating": 4.1,
+        "ratingsBreakdown": {
+            "3": 3,
+            "4": 2,
+            "5": 4
+        },
+        "source": 1033,
+        "trailCounts": {
+            "reviewCount": 9,
+            "photoCount": 34,
+            "trackCount": 18,
+            "completedCount": 17
+        },
+        "description": "The starting point of this walking route can be found at Saint Martin's Church in Avelgem. This village to the southeast of Kortrijk is known, among other things, for the youngest mill in Flanders. This part of the province of West Flanders is also known for the many routes for walking and cycling in Zandlemig Flanders and in the valley of the Scheldt.",
+        "description_html": "<p>Het startpunt van deze wandelroute is te vinden bij de Saint Martin's Church in Avelgem. Dit dorp te zuidoosten van Kortrijk staat onder andere bekend van de jongste molen van Vlaanderen. Dit gedeelte van de provincie West Vlaanderen staat ook bekend om de vele routes om te wandelen en te fietsen in  Zandlemig Vlaanderen en in de vallei van de Schelde.</p>",
+        "metadata": {
+            "created": "2022-04-29T20:11:11Z",
+            "updated": "2024-10-07T05:16:29Z",
+            "status": "A"
+        },
+        "alerts": []
+    }
+]
