@@ -1,0 +1,461 @@
+[
+  {
+    "id": "afternoon_tea",
+    "name": "Afternoon tea",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 1,
+    "short_description": "Originating in England, afternoon tea offers a delightful pause with fragrant brews paired with dainty sandwiches, scones slathered in clotted cream, and exquisite pastries. Each bite celebrates a rich tradition of indulgence.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2eb1fb2ff12d45fbbe34ae6429409f42.jpg?mw=660",
+    "most_iconic_place": "The Park Room",
+    "most_iconic_location": "Westminster",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fish_and_chips",
+    "name": "Fish and chips",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 2,
+    "short_description": "Crispy battered fish fillets paired with golden, fluffy chips create a quintessential British comfort food experience. Served hot and often enjoyed with malt vinegar or tartar sauce, it's a delightful seaside treat.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/952be31521114ce89c8525996e17dbce.jpg?mw=660",
+    "most_iconic_place": "Poppies Fish and Chips Spitalfields",
+    "most_iconic_location": "Tower Hamlets",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "english_breakfast",
+    "name": "English breakfast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 3,
+    "short_description": "A hearty start to the day, the English breakfast features perfectly fried eggs, savory Lincolnshire and Cumberland sausages, and rich black pudding, all served with a side of baked beans. This traditional feast reflects England's culinary heritage, satisfying every appetite with its bold flavors and comforting warmth.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b92a3d74b4cf48c28abba34197798049.jpg?mw=660",
+    "most_iconic_place": "E Pellicci",
+    "most_iconic_location": "Tower Hamlets",
+    "ingredients": [
+      "Eggs",
+      "Lincolnshire sausage",
+      "Traditional Cumberland sausage",
+      "Black pudding",
+      "Canned Beans",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "trifle",
+    "name": "Trifle",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 4,
+    "short_description": "Layers of spongy cake, tart strawberries, and rich egg custard define this quintessential British treat. Soaked in sherry, each spoonful offers a delightful balance of sweetness and fruitiness.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b172565360774655ade40b05803a5855.jpg?mw=660",
+    "most_iconic_place": "Benedicts Norwich",
+    "most_iconic_location": "Norwich",
+    "ingredients": [
+      "Eggs",
+      "Strawberries",
+      "Raspberries",
+      "Jam",
+      "Corn Starch",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yorkshire_pudding",
+    "name": "Yorkshire pudding",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 5,
+    "short_description": "Originating from England, Yorkshire pudding features a light, airy texture with a crispy exterior. Perfectly baked in hot oil, it complements Sunday roasts with its savory, comforting flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fffce3fb5f384300b150edac3b9c0f0c.jpg?mw=660",
+    "most_iconic_place": "The Crooked Billet Inn",
+    "most_iconic_location": "Saxton",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Milk",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "english_muffin",
+    "name": "English muffin",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 6,
+    "short_description": "Originating from England, these small, round breads feature a golden crust and soft, airy interior. Griddled to perfection, they offer a delightful chew, perfect for toasting and slathering with butter or jam.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/25f0becd1a7d48ad936715e1113eb3ca.jpg?mw=660",
+    "most_iconic_place": "Lantana Cafe",
+    "most_iconic_location": "Camden",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hot_cross_buns",
+    "name": "Hot cross buns",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 7,
+    "short_description": "Traditionally enjoyed on Good Friday, these subtly sweet spiced buns feature a rich yeast dough filled with sultana raisins and currants. Topped with a signature cross, they are a delightful treat.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b03c087d90154e838245f104ca8d73fa.jpg?mw=660",
+    "most_iconic_place": "Gail's Bakery",
+    "most_iconic_location": "Islington",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sultana Raisins",
+      "Currants",
+      "Eggs",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "beef_wellington",
+    "name": "Beef Wellington",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 8,
+    "short_description": "Originating from England, tender beef filets are enveloped in rich mushroom duxelles and luxurious foie gras, all wrapped in flaky puff pastry for a show-stopping centerpiece bursting with flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/10af79aa36f244c5a38408bccf570ec6.jpg?mw=660",
+    "most_iconic_place": "Bob Bob Ricard",
+    "most_iconic_location": "Westminster",
+    "ingredients": [
+      "Beef",
+      "Mushrooms",
+      "Foie gras",
+      "Shallots",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "flapjack",
+    "name": "Flapjack",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 9,
+    "short_description": "Originating from England, flapjack features a heavenly blend of chewy oats, rich butter, and sweet golden syrup, baked to perfection. A hint of salt enhances its comforting, indulgent flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/633d77134cd24cd29a2da256434c0851.jpg?mw=660",
+    "most_iconic_place": "Joe's Cafe",
+    "most_iconic_location": "Studland",
+    "ingredients": [
+      "Oats",
+      "Butter",
+      "Golden Syrup",
+      "Brown Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lemon_drizzle_cake",
+    "name": "Lemon drizzle cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 10,
+    "short_description": "A beloved staple of English afternoon tea, this moist cake bursts with zesty lemon flavor and is topped with a sweet, tangy drizzle. Its origins trace back to a Jewish baker named Evelyn, bringing sunshine to every slice.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1a994d4c0c7b455fb4b924b44a469afa.jpg?mw=660",
+    "most_iconic_place": "Gluttons For Nourishment",
+    "most_iconic_location": "Wolverhampton",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Lemon Zest",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "banoffee_pie",
+    "name": "Banoffee pie",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 11,
+    "short_description": "Originating from England, banoffee pie delights with its luscious layers of creamy toffee, ripe bananas, and a buttery biscuit base. Each bite offers a harmonious blend of sweetness and texture, making it a beloved classic.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c365cd4067074859a4ecbceb0fe347bd.jpg?mw=660",
+    "most_iconic_place": "Haché Burgers Camden",
+    "most_iconic_location": "Camden",
+    "ingredients": [
+      "Wheat Flour",
+      "Bananas",
+      "Biscuit",
+      "Eggs",
+      "Butter",
+      "Whipped Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "eton_mess",
+    "name": "Eton mess",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Fresh strawberries mingle with crunchy meringue and rich double cream in this classic English dessert, originating from Eton College. Sweet, creamy, and utterly delightful, it’s a summer favorite!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/dbd844291f0040fe9b0785aa9ff37c3e.jpg?mw=660",
+    "most_iconic_place": "Bob Bob Ricard",
+    "most_iconic_location": "Westminster",
+    "ingredients": [
+      "Strawberries",
+      "Eggs",
+      "Double Cream",
+      "Sugar",
+      "Powdered Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cauliflower_cheese",
+    "name": "Cauliflower cheese",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 13,
+    "short_description": "Originating in England, tender cauliflower florets swim in a creamy blend of sharp cheddar and a hint of nutmeg. Baked to golden perfection, it’s a comforting classic that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1eba32bd327046f1b5aef4c11eefdf44.jpg?mw=660",
+    "most_iconic_place": "Wahaca",
+    "most_iconic_location": "Liverpool",
+    "ingredients": [
+      "Cauliflower",
+      "Cheddar",
+      "Butter",
+      "Nutmeg",
+      "Wheat Flour",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sticky_toffee_pudding",
+    "name": "Sticky toffee pudding",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 14,
+    "short_description": "Originating from England, this indulgent dessert features a moist date sponge cake drenched in luscious sticky toffee sauce, often paired with creamy custard or a scoop of vanilla ice cream. It’s a comforting classic that delights the senses.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/011a311d6e254603ba92316750121768.jpg?mw=660",
+    "most_iconic_place": "Hawksmoor Seven Dials",
+    "most_iconic_location": "Westminster",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Dates",
+      "Butter",
+      "Sugar",
+      "Molasses"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "steak_and_ale_pie",
+    "name": "Steak and ale pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 15,
+    "short_description": "A beloved staple of British pub fare, tender chunks of braised beef mingle with sweet carrots and onions, all enveloped in a flaky pastry shell, enriched by the deep flavors of dark ale.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/56f62de4ef474888b8fa743fcc3bb74d.jpg?mw=660",
+    "most_iconic_place": "The Draft House  Birdcage",
+    "most_iconic_location": "Tower Hamlets",
+    "ingredients": [
+      "Beef",
+      "Carrot",
+      "Onion",
+      "Bacon",
+      "Lard",
+      "Tomato Purée"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "roast_beef",
+    "name": "Roast beef",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 16,
+    "short_description": "Tender cuts of beef are seasoned with salt and black pepper, then roasted to perfection, creating a flavorful centerpiece for England's beloved Sunday roast tradition. Enjoy the rich, savory flavors that evoke comfort and nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/20a257b5043c44ea8759a3f51dc80696.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Vegetable Oil",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shepherds_pie",
+    "name": "Shepherd's pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 17,
+    "short_description": "Originating from England, this hearty classic layers savory minced lamb or mutton beneath a fluffy, golden potato topping. Each spoonful is a comforting embrace of rich flavors and nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ba1114cafe034472b3a3cbdf5175f477.jpg?mw=660",
+    "most_iconic_place": "The Ivy",
+    "most_iconic_location": "Camden",
+    "ingredients": [
+      "Ground Mutton",
+      "Ground Lamb",
+      "Potatoes",
+      "Carrot",
+      "Peas",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pie_and_mash",
+    "name": "Pie and mash",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 18,
+    "short_description": "Originating from London's East End, savory pie and mash features rich ground beef encased in a flaky crust, complemented by creamy mashed potatoes and a hint of mustard for a comforting bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c55929f26ca548149469074b0c56d4a6.jpg?mw=660",
+    "most_iconic_place": "Goddards at Greenwich",
+    "most_iconic_location": "Greenwich",
+    "ingredients": [
+      "Ground Beef",
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Mustard",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mince_pie",
+    "name": "Mince pie",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 19,
+    "short_description": "A beloved Christmas treat in England, these crumbly pastry shells are generously filled with spiced dried fruits, offering a warm blend of nutmeg, cloves, and allspice that delights the senses.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9d392b0a65f2444ba60a9cb3f4bf7478.jpg?mw=660",
+    "most_iconic_place": "Riverford Field Kitchen - Organic Restaurant",
+    "most_iconic_location": "Buckfastleigh",
+    "ingredients": [
+      "Wheat Flour",
+      "Dried Fruit",
+      "Nutmeg",
+      "Cloves",
+      "Allspice",
+      "Mace"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "victoria_sponge",
+    "name": "Victoria sponge",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 20,
+    "short_description": "An iconic English delight, this light and airy layer cake features a luscious blend of raspberry and strawberry jams, creating a perfect sweet balance. A royal favorite since the 19th century!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a5b7b94d16b24f9ca4f7875ed72474f6.jpg?mw=660",
+    "most_iconic_place": "The English Tea Room at Brown's Hotel",
+    "most_iconic_location": "Westminster",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Raspberry Jam",
+      "Strawberry Jam",
+      "Baking Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "blt_sandwich",
+    "name": "BLT Sandwich",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 21,
+    "short_description": "Crispy bacon pairs perfectly with juicy tomatoes and chilled lettuce, all slathered in creamy mayonnaise and nestled between toasted bread. A classic English favorite that celebrates simple, bold flavors!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3f4736feb0a54cf59cba5ef99aef5a17.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bread",
+      "Bacon",
+      "Lettuce",
+      "Tomato",
+      "Mayonnaise"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cream_tea",
+    "name": "Cream tea",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 22,
+    "short_description": "Originating from the West Country of England, cream tea features freshly baked scones slathered with rich clotted cream and sweet jam, paired perfectly with a steaming cup of tea. Indulge in this quintessential afternoon delight!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9e05537ee60e4bfe81dece2813077197.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Devon",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Milk",
+      "Cornish clotted cream",
+      "Clotted cream",
+      "Strawberry Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "egg_sandwich",
+    "name": "Egg sandwich",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 23,
+    "short_description": "Savory layers of fluffy eggs, melted cheese, and hearty cooked sausage or wet-cured ham nestle between toasted bread, creating a quintessential English breakfast delight that fuels your day.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dd12496ac0df40b7b67895fe01a1746e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "London",
+    "ingredients": [
+      "Bread",
+      "Eggs",
+      "Cheese",
+      "Cooked Sausage",
+      "Wet-cured Ham",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "apple_sauce",
+    "name": "Apple sauce",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 24,
+    "short_description": "Rich and velvety, this traditional English apple sauce blends sweet apples with butter, cinnamon, and cloves, creating a warm, spiced complement to savory dishes, especially pork. A timeless favorite!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/54886a2430474d6ca2b9b0891e5a357c.jpg?mw=660",
+    "most_iconic_place": "The Pig - near Bath",
+    "most_iconic_location": "Hunstrete",
+    "ingredients": [
+      "Apples",
+      "Butter",
+      "Cinnamon",
+      "Cloves",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

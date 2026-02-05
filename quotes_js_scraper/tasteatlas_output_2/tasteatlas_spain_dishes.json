@@ -1,0 +1,414 @@
+[
+  {
+    "id": "paella",
+    "name": "Paella",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Widely acclaimed as the most popular Spanish dish, paella is a one-pot specialty that is based on saffron-flavored rice, while the additional ingredients may include meat, seafood, or vegetables. Alth...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/92eb3b4d4f0448319940081f4a10b707.jpg?mw=660",
+    "most_iconic_place": "7 Portes",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "churros",
+    "name": "Churros",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 2,
+    "short_description": "Elongated, crispy, crunchy and intensely fragrant, churros consist of deep-fried yeast dough encrusted with sugar. Although some may argue against consuming these sweet treats, warning others about th...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/517281fb6bea456f9d302f774657e9b3.jpg?mw=660",
+    "most_iconic_place": "Chocolatería San Ginés",
+    "most_iconic_location": "Madrid",
+    "ingredients": [
+      "Flour",
+      "Olive Oil",
+      "Salt",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chorizo",
+    "name": "Chorizo",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 3,
+    "short_description": "Chorizo is a Spanish sausage consisting of chopped pork meat and fat that is seasoned with paprika, and sometimes garlic. The combination of these ingredients is then stuffed into a natural casing. Ch...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5c1f3d5983594f4cad2f0e20fe445afb.jpg?mw=660",
+    "most_iconic_place": "Sensi",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bocadillos",
+    "name": "Bocadillos",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 4,
+    "short_description": "Bocadillos or bocatas are Spanish sandwiches made with Spanish-style baguettes known as barra de pan, unlike regular sandwiches which are made with modern white bread, known as pan de molde in Spain. ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f5e5c1c03f314ac88ea280c6102d7d09.jpg?mw=660",
+    "most_iconic_place": "La Xampanyeria",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "croquetas",
+    "name": "Croquetas",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 5,
+    "short_description": "These traditional Spanish fritters are usually prepared with a buttery béchamel base that is well chilled and formed into round or cylindrical patties, which are then coated in egg wash and breadcrumb...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b033d24deb024cffb94fdaaa837c9496.jpg?mw=660",
+    "most_iconic_place": "Casa Labra",
+    "most_iconic_location": "Madrid",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Béchamel",
+      "Jamón Serrano",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "migas",
+    "name": "Migas",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 6,
+    "short_description": "Migas is a traditional, ancient dish in Spanish and Portuguese cuisine. At its base, it is made from softened bread cooked in fat. Its name, migas, is literally translated to crumbs, referring to its ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/461ea0ae8a8b45cf834c0747962b48d0.jpg?mw=660",
+    "most_iconic_place": "La Miguería",
+    "most_iconic_location": "Zaragoza",
+    "ingredients": [
+      "Bread",
+      "Lard",
+      "Olive Oil",
+      "Salt",
+      "Garlic",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rosquillas",
+    "name": "Rosquillas",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 7,
+    "short_description": "Rosquillas are traditional Spanish deep-fried donuts, characterized by their fluffy texture and a hole in the middle. They are typically prepared during the Holy Week festivities. Although there are m...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4bbb29f3ccb04b8a991107d57b458e46.jpg?mw=660",
+    "most_iconic_place": "Pasteleria Nunos",
+    "most_iconic_location": "Madrid",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Lemon Zest",
+      "Anisette",
+      "Baking Powder",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "merienda",
+    "name": "Merienda",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 8,
+    "short_description": "Merienda is a typical late-afternoon light snack in Spain, consumed between 5:00 and 6:30 PM. It is especially important for children, so the meal can be anything from sweet breads, pastries, fruits, ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f9fa974ad43f4d478a93557b01b0a94b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tortilla_de_patata",
+    "name": "Tortilla de patata",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 9,
+    "short_description": "Tortilla de patata, often called Spanish omelette, is a dish from Spain made with little more than potatoes, eggs, olive oil and salt, sometimes enriched with onions depending on preference. It is one...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9f97f71d4af84228bf7290556613ecec.jpg?mw=660",
+    "most_iconic_place": "Bar Nestor",
+    "most_iconic_location": "San Sebastián",
+    "ingredients": [
+      "Eggs",
+      "Potatoes",
+      "Olive Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "salmorejo",
+    "name": "Salmorejo",
+    "local_name": null,
+    "category": "BREAD SOUP",
+    "rank": 10,
+    "short_description": "Salmorejo is a refreshing Andalusian soup that is traditionally served cold. It is especially popular during the warm, summer days. The soup consists of puréed tomatoes, bread, garlic, oil, and vinega...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/495938c20a474ecca4f06f87c1f43f7a.jpg?mw=660",
+    "most_iconic_place": "Garum 2.1",
+    "most_iconic_location": "Córdoba",
+    "ingredients": [
+      "Tomato",
+      "Bread",
+      "Garlic",
+      "Olive Oil",
+      "Vinegar",
+      "Jamón Serrano"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crema_catalana",
+    "name": "Crema Catalana",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 11,
+    "short_description": "Crema Catalana is a popular Spanish dessert made by baking a custard consisting of milk, cornstarch, and eggs in an oven. After baking and cooling, the dessert is sprinkled with sugar and broiled or b...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/53ac245138324b64b6e49d95d8960934.jpg?mw=660",
+    "most_iconic_place": "Granja M. Viader",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [
+      "Milk",
+      "Corn Starch",
+      "Eggs",
+      "Cinnamon",
+      "Lemon",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gazpacho",
+    "name": "Gazpacho",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 12,
+    "short_description": "A perfect remedy for a hot summer day called gazpacho is a cold soup consisting of crushed tomatoes, finely chopped cucumbers, onions, peppers, croutons, vinegar, and olive oil. With the same level of...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fdad974a90b54222b63832a53845a867.jpg?mw=660",
+    "most_iconic_place": "Juanito",
+    "most_iconic_location": "Baeza",
+    "ingredients": [
+      "Bread",
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Garlic",
+      "Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cochinillo",
+    "name": "Cochinillo",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 13,
+    "short_description": "Cochinillo is a Spanish dish consisting of a roasted suckling pig with succulent meat, tender and crispy skin, and a very thin layer of fat. The meat is so tender that it practically falls apart when ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0248d8a008364be2943bbd09842292e8.jpg?mw=660",
+    "most_iconic_place": "Meson de Cándido",
+    "most_iconic_location": "Segovia",
+    "ingredients": [
+      "Pork"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paella_valenciana",
+    "name": "Paella Valenciana",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 14,
+    "short_description": "Often referred to as the original paella, this Valencian classic traditionally consists of rice that is cooked alongside chicken thighs, rabbit, three types of beans, tomatoes, and snails. Valenciana ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d1e0a757c03e4bff97a8c20f9ce31931.jpg?mw=660",
+    "most_iconic_place": "Casa Roberto",
+    "most_iconic_location": "Valencia",
+    "ingredients": [
+      "Calasparra",
+      "Arroz Bomba",
+      "Bahia Rice",
+      "Senia Rice",
+      "Chicken",
+      "Rabbit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paella_de_mariscos",
+    "name": "Paella de mariscos",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 15,
+    "short_description": "Seafood paella is one of the most popular paella varieties, not only in Valencia, but also in Andalusia and all along the Spanish coast. Due to the abundance of fresh fish and seafood, this dish is an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/73c3b9baac5c433bb27400ad46b3b13d.jpg?mw=660",
+    "most_iconic_place": "La Pepica",
+    "most_iconic_location": "Valencia",
+    "ingredients": [
+      "Arroz Bomba",
+      "Shrimps",
+      "Mussels",
+      "Clams",
+      "Squid",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "romesco",
+    "name": "Romesco",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 16,
+    "short_description": "Romesco is a savory Spanish sauce consisting of red peppers, tomatoes, onions, and a variety of roasted or raw nuts such as pine nuts, hazelnuts, and almonds. The sauce is extremely versatile, so it c...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d7bc4cc65bf54558a333dcfb87c4acf1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tarragona",
+    "ingredients": [
+      "Hot Peppers",
+      "Tomato",
+      "Onion",
+      "Pine Nuts",
+      "Almonds",
+      "Hazelnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "magdalenas",
+    "name": "Magdalenas",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 17,
+    "short_description": "Magdalenas are sweet, light, and fluffy Spanish cakes that are typically made with a combination of eggs, sugar, butter, flour, baking powder, milk, and lemon zest or vanilla essence for flavoring. Vi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/274fa1276ca245af875e701edb899fc7.jpg?mw=660",
+    "most_iconic_place": "Cal Tuset",
+    "most_iconic_location": "Castellfollit de la Roca",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "empanadas",
+    "name": "Empanadas",
+    "local_name": null,
+    "category": "PASTRY",
+    "rank": 18,
+    "short_description": "Best described as little pockets with hot fillings; empanadas are crescent-shaped, flaky pastry dough pies found throughout Latin America that are easy to prepare, inexpensive, and convenient. The nam...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/88e011050e5841438de1086e33295b19.jpg?mw=660",
+    "most_iconic_place": "La Fabrica",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lechazo",
+    "name": "Lechazo",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 19,
+    "short_description": "Lechazo is a Spanish dish consisting of a roasted suckling lamb. In order for the lamb to classify as lechazo, it must weigh between 5 and 7 kg and its age cannot be more than 20 to 30 days. The lamb ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f100a89e5b614491a18e6ee361d8f821.jpg?mw=660",
+    "most_iconic_place": "La Parrilla De San Lorenzo",
+    "most_iconic_location": "Valladolid",
+    "ingredients": [
+      "Lamb",
+      "Lard",
+      "Butter",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bocadillo_de_jamón",
+    "name": "Bocadillo de jamón",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 20,
+    "short_description": "Bocadillo de jamón is a sandwich that is made with Spanish bread and slices of Spanish ham such as jamón Serrano (Serrano ham) or jamón Iberico (Iberian ham). It usually consists of a Spanish-style ba...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/84858c087e6f4e368fa0cf717472c6a4.jpg?mw=660",
+    "most_iconic_place": "Bar Costa",
+    "most_iconic_location": "Santa Gertrudis de Fruitera",
+    "ingredients": [
+      "Pan de barra",
+      "Jamón Serrano",
+      "Olive Oil",
+      "Tomato",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "montadito",
+    "name": "Montadito",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 21,
+    "short_description": "Montaditos are open-faced sandwiches and an essential tapa in Spain. Although there is no set list of ingredients, montaditos are always made with bread slices, typically from a thin elongated bread s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/794b3f25ed8b4ae3b1aa5d6dca5c5e1e.jpg?mw=660",
+    "most_iconic_place": "Quimet y Quimet",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pulpo_a_la_gallega",
+    "name": "Pulpo a la gallega",
+    "local_name": null,
+    "category": "OCTOPUS DISH",
+    "rank": 22,
+    "short_description": "Polbo á feira (a.k.a. pulpo a la gallega) is a traditional Galician dish made by cooking octopus, potatoes, and pimentón in copper cauldrons. The cauldrons impart a unique flavor to the dish, and it i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fc51183d03244e488eab89a10a5826dc.jpg?mw=660",
+    "most_iconic_place": "Bodegón Os Concheiros",
+    "most_iconic_location": "Santiago de Compostela",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gambas_al_ajillo",
+    "name": "Gambas al ajillo",
+    "local_name": null,
+    "category": "SHRIMP/PRAWN DISH",
+    "rank": 23,
+    "short_description": "Gambas al ajillo is a popular Spanish appetizer consisting of shrimps that are sautéed in a pan with minced garlic, lemon juice, paprika, and olive oil. The dish is usually consumed as a tapa. It is r...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b5ee089cc7ac4c19b56efba5e6364115.jpg?mw=660",
+    "most_iconic_place": "La Casa del Abuelo",
+    "most_iconic_location": "Madrid",
+    "ingredients": [
+      "Shrimps",
+      "Garlic",
+      "Lemon Juice",
+      "Hot Peppers",
+      "Olive Oil",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pollo_al_ajillo",
+    "name": "Pollo al ajillo",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 24,
+    "short_description": "This simple Spanish dish known as pollo al ajillo consists of chicken pieces drenched in garlic sauce. The sauce is usually made with white wine, stock, garlic, and herbs such as bay leaves, thyme, an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/345785c771924346a3e0878c5ff85f5b.jpg?mw=660",
+    "most_iconic_place": "Restaurante Otelo",
+    "most_iconic_location": "Adeje",
+    "ingredients": [
+      "Chicken",
+      "White Wine",
+      "Stock",
+      "Garlic",
+      "Bay Leaves",
+      "Thyme"
+    ],
+    "is_active": true
+  }
+]

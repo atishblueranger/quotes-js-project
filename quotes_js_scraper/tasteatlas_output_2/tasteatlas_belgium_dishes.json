@@ -1,0 +1,699 @@
+[
+  {
+    "id": "gaufre",
+    "name": "Gaufre",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 1,
+    "short_description": "Delicious and fragrant waffles are the most famous Belgian culinary trademark. Made with thick dough or thin batter, the cakes are baked in a specially designed waffle iron which creates an unusual ch...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e45454b9d6be4a63aac8c0fc0e717f79.jpg?mw=660",
+    "most_iconic_place": "Maison Dandoy",
+    "most_iconic_location": "Brussels",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "moules_frites",
+    "name": "Moules-frites",
+    "local_name": null,
+    "category": "MUSSEL DISH",
+    "rank": 2,
+    "short_description": "Moules-frites is a traditional comfort food item consisting of mussels paired with Belgian fries on the side. The dish is commonly found in Belgium, the Netherlands, and northern France. The condiment...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6e904a48e5684d3b858ff5f89e3ce739.jpg?mw=660",
+    "most_iconic_place": "Chez Leon",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Mussels",
+      "Potatoes",
+      "Butter",
+      "Garlic",
+      "Onion",
+      "Shallots"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carbonnade",
+    "name": "Carbonnade",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Carbonnade is a traditional stew made with beef and dark beer. Often referred to as carbonade flamande or stoverij, it features simple ingredients, but results in a rich and hearty dish. Although beef...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/efdcd01aea154b30a8a07f7b9353e36c.jpg?mw=660",
+    "most_iconic_place": "Fin de Siècle",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Beef",
+      "Trappist Beer",
+      "Onion",
+      "Garlic",
+      "Carrot",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "liège_waffle",
+    "name": "Liège Waffle",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 4,
+    "short_description": "Liège waffles are one of the two most popular waffle varieties in Belgium. These unevenly shaped, chewy treats are made with a thick, brioche-like dough which is sweetened with pearl sugar and baked i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/24da79c00d8e4153b251bbd8dfe246dc.jpg?mw=660",
+    "most_iconic_place": "Maison Dandoy",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Milk",
+      "Eggs",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "frikandel",
+    "name": "Frikandel",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 5,
+    "short_description": "This unique, skinless, deep-fried sausage is a popular snack that is mostly consumed in Belgium and the Netherlands. There has been a long dispute whether frikandel is originally Belgian or Dutch, and...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ba5b0803dcf547c28be928367f145983.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Ground Chicken",
+      "Allspice",
+      "Nutmeg",
+      "Garlic Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "speculaas",
+    "name": "Speculaas",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 6,
+    "short_description": "Speculaas are spiced cookies mainly made in Belgium and the Netherlands, although they are also popular in Germany (Rhineland and Westphalia), Luxembourg and northern France. With an intense fragrance...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1caa965cd23b435e80886ae51a8d3f85.jpg?mw=660",
+    "most_iconic_place": "Maison Dandoy",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Brown Sugar",
+      "Baking Powder",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "brussels_waffles",
+    "name": "Brussels Waffles",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 7,
+    "short_description": "Brussels waffle is one of the two Belgian waffle varieties, a delicious cake enjoying the status of Belgium's national dessert. The waffle is made from a thin, yeasted batter that is baked in a specia...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/99ad391b2a944eafb433525f1ec96d6a.jpg?mw=660",
+    "most_iconic_place": "Mokafé",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Powder",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "waterzooi",
+    "name": "Waterzooi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 8,
+    "short_description": "Waterzooi is a traditional seafood stew with a creamy consistency. It incorporates julienne-sliced vegetables, an egg, and a cream-based soup. The dish originated in the city of Ghent, and according t...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/857ae8e049ed4cd081a2f28bc8ba3f99.jpg?mw=660",
+    "most_iconic_place": "'t Klokhuys",
+    "most_iconic_location": "Ghent",
+    "ingredients": [
+      "Chicken",
+      "Potatoes",
+      "Onion",
+      "Carrot",
+      "Celery",
+      "Leek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mitraillette",
+    "name": "Mitraillette",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 9,
+    "short_description": "Mitraillette is a Belgian sandwich that's believed to originate from either Brussels or Wallonia, the French-speaking part of the country near the French border. The sandwich consists of a long baguet...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c1a787fbbd0a408d97d18573fbcab7a9.jpg?mw=660",
+    "most_iconic_place": "Fritland",
+    "most_iconic_location": "Brussels",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chicon_au_gratin",
+    "name": "Chicon au gratin",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 10,
+    "short_description": "Chicon au gratin is a classic Belgian dish consisting of braised endives that are rolled in ham slices, then covered with Gruyère cheese and white sauce. The dish is a true representative of comfort f...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ab5860bf1f7b4dacb4ccbbeb0b889080.jpg?mw=660",
+    "most_iconic_place": "Chez Leon",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Belgian Endive",
+      "Bacon",
+      "Olive Oil",
+      "Butter",
+      "Wheat Flour",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boulets_sauce_lapin_à_la_liègeoise",
+    "name": "Boulets sauce lapin à la Liègeoise",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 11,
+    "short_description": "This popular Belgian dish known as boulets liégeoise consists of beef and pork meatballs that are simmered in a gravy made with onions, flour, beef broth, and sirop de Liége. Sultanas are often added ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/830ff4da552d49c5bd440dac381aa3e3.jpg?mw=660",
+    "most_iconic_place": "Café Lequet",
+    "most_iconic_location": "Liège",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Breadcrumbs",
+      "Onion",
+      "Eggs",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stoemp",
+    "name": "Stoemp",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 12,
+    "short_description": "One of the most popular meals in Belgium is a potato-based side dish known as stoemp. It consists of mashed potatoes enhanced by the addition of other vegetables such as carrots and leeks. They are bo...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6967842b897745e7a766e23004400569.jpg?mw=660",
+    "most_iconic_place": "Fin de Siècle",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Potatoes",
+      "Leek",
+      "Cabbage",
+      "Brussels Sprout",
+      "Carrot",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "filet_americain",
+    "name": "Filet Americain",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 13,
+    "short_description": "Although it is sometimes confused with a steak due to its unusual name, filet Américain is a spread made with raw beef. This popular dish is a close cousin to the more famous steak tartare, but the di...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/81b95eebb42e464286e881a158767b89.jpg?mw=660",
+    "most_iconic_place": "Au Vieux Saint Martin",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Ground Beef",
+      "Worcestershire sauce",
+      "Onion",
+      "Eggs",
+      "Capers",
+      "Dijon mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sneeuwballen",
+    "name": "Sneeuwballen",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 14,
+    "short_description": "Available only from September to March, sneeuwballen (lit. snowballs) are traditional Belgian sweet treats consisting of a vanilla cloud that is coated with dark Belgian chocolate and sprinkled with i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8adc1b6311af431aa8dfb48c71fe3181.jpg?mw=660",
+    "most_iconic_place": "Larmuseau",
+    "most_iconic_location": "Ghent",
+    "ingredients": [
+      "Chocolate",
+      "Cocoa Powder",
+      "Butter",
+      "Eggs",
+      "Powdered Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bicky_burger",
+    "name": "Bicky Burger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 15,
+    "short_description": "Bicky burger is a unique Belgian hamburger that is also popular in the Netherlands, consisting of a sesame seed-topped bun filled with a deep-fried patty made from a combination of pork, chicken, and ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8ed620259724f08ab757d72a5b6c32f.jpg?mw=660",
+    "most_iconic_place": "'t Blauw Kotje",
+    "most_iconic_location": "Ghent",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Chicken",
+      "Ground Horse",
+      "Burger Bun",
+      "Sesame Seeds",
+      "Pickled Cucumbers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cougnou",
+    "name": "Cougnou",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 16,
+    "short_description": "This sweet brioche-like bread is prepared with a yeasted dough that is often enriched with raisins, chocolate chips, and occasionally comes topped with pearl sugar. The usual shape of the bread is rem...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cc8aa469486f41daa7cab2ef59f859bb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Hainaut Province",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Raisins"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "preisoep",
+    "name": "Preisoep",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 17,
+    "short_description": "Flemish leek soup is one of Belgium's national dishes and a favorite during the cold and rainy winter months. To make this thick, nutritious and heartwarming dish, leeks are cooked with potatoes in a ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8433051938f6431295a59b8ccd3f0121.jpg?mw=660",
+    "most_iconic_place": "Soup",
+    "most_iconic_location": "Bruges",
+    "ingredients": [
+      "Potatoes",
+      "Leek",
+      "Garlic",
+      "Beef Stock",
+      "Vegetable Stock",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "antwerpse_handjes",
+    "name": "Antwerpse handjes",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 18,
+    "short_description": "Antwerpse handjes are traditional Belgian hand-shaped cookies originating from Antwerp. The cookies date back to 1934 and they're made with a combination of flour, eggs, butter, sugar, and almonds. Th...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/45752f024424401db6c96bd9560ebb16.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Antwerp",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Almonds",
+      "Eggs",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "la_dame_blanche",
+    "name": "La dame blanche",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 19,
+    "short_description": "La dame blanche is a sweet dessert from Belgium, consisting of vanilla ice cream, whipped cream, and a warm chocolate fudge made with chocolate, milk and vanilla extract. The dessert, which shares its...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3cde43edd7a64af0a4cb6d14bb93bb09.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Gelato alla vaniglia",
+      "Whipped Cream",
+      "Milk",
+      "Chocolate",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gaufres_à_la_flamande",
+    "name": "Gaufres à la flamande",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 20,
+    "short_description": "Flemish waffle is a traditional product consisting of flour, yeast, butter, milk, eggs, salt, and vanilla sugar. Unlike Brussels and Liège waffle, the Flemish variety is usually consumed without any t...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/795f8405528a407d845b6076e109392c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Flanders",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "geraardsbergse_mattentaart",
+    "name": "Geraardsbergse mattentaart",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 21,
+    "short_description": "A typical dessert of the East Flanders, mattentaart is a small puff pastry pie with a tender, almond-flavored cheese curd filling called mattenbrij. These delicious Flemish pies are traditionally made...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a0845ba6e4ea4ba7b4c7b1193e5da4c0.jpg?mw=660",
+    "most_iconic_place": "Broodhuis",
+    "most_iconic_location": "Geraardsbergen",
+    "ingredients": [
+      "Milk",
+      "Buttermilk",
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Powdered Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lacquemant_wafel",
+    "name": "Lacquemant wafel",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 22,
+    "short_description": "Lacquemant is a Belgian waffle originating from Liege. This thin waffle is made with wheat flour, cut horizontally in half, then filled and topped with sugar syrup flavored with orange blossom. The in...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9bbf9e199c56440aabf64a5b7868c88b.jpg?mw=660",
+    "most_iconic_place": "Désiré de Lille",
+    "most_iconic_location": "Antwerp",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "croquettes_de_crevettes",
+    "name": "Croquettes de crevettes",
+    "local_name": null,
+    "category": "DEEP-FRIED DISH",
+    "rank": 23,
+    "short_description": "Croquettes de crevettes are Belgian shrimp croquettes made from a dense béchamel-like mixture enriched with North Sea brown shrimp and coated in breadcrumbs before being fried to achieve a crisp exter...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Shrimps",
+      "Milk",
+      "Eggs",
+      "Fish Stock",
+      "Seafood Stock",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paling_in_t_groen",
+    "name": "Paling in 't groen",
+    "local_name": null,
+    "category": "EEL DISH",
+    "rank": 24,
+    "short_description": "Paling in 't groen is a Flemish specialty dish consisting of chopped eel in a unique green sauce made from white wine, parsley, spinach, mint, tarragon, sage, dill, and lemon juice. It is believed tha...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fc8a21c65578434ca04980a5970137dd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Flanders",
+    "ingredients": [
+      "Eel",
+      "Butter",
+      "Shallots",
+      "Spinach",
+      "Sage",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vitoulet",
+    "name": "Vitoulet",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 25,
+    "short_description": "Vitoulet is a Belgian meatball that is typically made with a combination of ground pork, ground veal, bread, milk, eggs, shallots, and parsley. The meat mixture is usually seasoned with salt, pepper, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1569dff911d748328cce379f623fd947.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Charleroi",
+    "ingredients": [
+      "Ground Veal",
+      "Ground Pork",
+      "Breadcrumbs",
+      "Milk",
+      "Eggs",
+      "Shallots"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "moules_parquées",
+    "name": "Moules parquées",
+    "local_name": null,
+    "category": "MUSSEL DISH",
+    "rank": 26,
+    "short_description": "Moules parquées is a traditional dish originating from Brussels. The dish consists of raw mussels that are served on the half-shell. They are usually served with a sauce consisting of lemon juice, mus...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ffd9ead754564c22b56b039bd81d3886.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Mussels",
+      "Lemon Juice",
+      "Mustard",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "asperges_á_la_flamande",
+    "name": "Asperges á la Flamande",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 27,
+    "short_description": "Asparagus a la Flamande is a Flemish dish consisting of cooked white asparagus topped with a combination of mashed hard-boiled eggs, butter, lemon juice, and parsley. There are other variations on the...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4221232a76c244529c71398e7d54be22.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Flanders",
+    "ingredients": [
+      "White Asparagus",
+      "Eggs",
+      "Butter",
+      "Lemon Juice",
+      "Parsley",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kramiek",
+    "name": "Kramiek",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 28,
+    "short_description": "Kramiek, also known as \"cramique\" in French, is a traditional bread enriched with raisins. It is a type of sweet bread that is often enjoyed as a breakfast treat or a snack. The dough is similar to br...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cc94a1fce21e4c3088f9ddb7f4fcefc0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Raisins",
+      "Milk",
+      "Butter",
+      "Eggs",
+      "Yeast"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tarte_al_djote",
+    "name": "Tarte al d'jote",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 29,
+    "short_description": "Tarte al djote is a traditional dish originating from the city of Nivelles. This savory pie is prepared with a combination of cow's milk cheese, chard, butter, onions, eggs, parsley, and pepper. The b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a418a14a6fc34a4992d58a5faf4d05c4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Nivelles",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Boulette d'Avesnes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tomate_crevette",
+    "name": "Tomate crevette",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 30,
+    "short_description": "Tomate crevette is a Belgian specialty dish consisting of an uncooked tomato stuffed with a combination of shrimps, mayonnaise, lemon juice, parsley, and tomato juice. It is believed that this appetiz...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3e66aa5959004e5eb0324781ae7646e6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Bruges",
+    "ingredients": [
+      "Tomato",
+      "Nordseekrabben",
+      "Mayonnaise",
+      "Lemon Juice",
+      "Parsley",
+      "Tomato Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lapin_á_la_kriek",
+    "name": "Lapin á la Kriek",
+    "local_name": null,
+    "category": "RABBIT DISH",
+    "rank": 31,
+    "short_description": "Lapin á la Kriek is a traditional dish consisting of lean rabbit meat that's served in a sauce made with Kriek, a sour lambic beer flavored with cherries. The rich flavors of the meat are a great matc...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/349d8ff5f9d1422d9fbb216f586bec29.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rabbit",
+      "Kriek lambic",
+      "Cinnamon",
+      "Shallots",
+      "Cherries",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "potjevleesch",
+    "name": "Potjevleesch",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 32,
+    "short_description": "Potjevleesch is a Flemish dish consisting of onions, wine, vinegar, fresh herbs, and sheep, chicken, pig, rabbit, and cow meat, slowly simmered in a crock pot. The dish dates back to the 14th century,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2331df9d036145cf91df5cd4fb23b7bf.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Flanders",
+    "ingredients": [
+      "Mutton",
+      "Lamb",
+      "Pork",
+      "Beef",
+      "Veal",
+      "Chicken"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "couque_de_dinant",
+    "name": "Couque de Dinant",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 33,
+    "short_description": "Couque de Dinant are traditional Belgian cookies, famous for their extra-hard texture, so much that they are traditionally given to babies to suck on while they are teething. Their tooth-cracking text...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3f491f763b284b2d80744a16609cd530.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Dinant",
+    "ingredients": [
+      "Wheat Flour",
+      "Honey"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boudin_blanc_de_liège",
+    "name": "Boudin blanc de Liège",
+    "local_name": null,
+    "category": "WHITE SAUSAGE",
+    "rank": 34,
+    "short_description": "Boudin blanc de Liège is a Belgian white sausage made from pork shoulder and belly, crumbled white bread, onions, cream, and milk. All of the ingredients are combined, stuffed in casings, and cooked i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c4654c42858e49c7800fb8e4a1a2d39e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Liège",
+    "ingredients": [
+      "Ground Pork",
+      "Bread",
+      "Onion",
+      "Cream",
+      "Milk",
+      "Nutmeg"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "galettes_campinoises",
+    "name": "Galettes Campinoises",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 35,
+    "short_description": "Also known as Kempense galetten, these flavorful waffles are mostly popular in Belgium. They are characterized by a hard and crunchy texture. Upon consumption, the waffles become crumbly and buttery i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/78f9adf3371d4ac5abe81d0a5721395f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Brown Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "côte_de_porc_à_lberdouille",
+    "name": "Côte de porc à l'berdouille",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 36,
+    "short_description": "Côte de porc à l'berdouille (lit. pork chop in mud) is a traditional dish originating from Mons. The dish is made with a combination of pork chops, dry white wine, butter, shallots, cream, Dijon musta...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mons",
+    "ingredients": [
+      "Pork",
+      "Shallots",
+      "Onion",
+      "Cream",
+      "Dijon mustard",
+      "Butter"
+    ],
+    "is_active": true
+  }
+]

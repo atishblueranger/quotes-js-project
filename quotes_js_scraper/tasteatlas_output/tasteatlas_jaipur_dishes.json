@@ -1,0 +1,473 @@
+[
+  {
+    "id": "kachori",
+    "name": "Kachori",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 1,
+    "short_description": "Kachori is a spicy Indian snack shaped like a round flattened ball, consisting of a flour-based shell with different fillings. The most popular filling consists of yellow moong dal, besan flour, peppe...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/07272c50684d428b8b034e7c97a4f87e.jpg?mw=660",
+    "most_iconic_place": "Rawat Misthan Bhandar",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "churma",
+    "name": "Churma",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 2,
+    "short_description": "Churma is a north Indian dish that is mainly prepared with various types of crumbled bread. It is especially popular in Rajasthan where it is made with baati (bati) bread, and Haryana, where the local...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9814fb175d4d4042a398d98c4fc082bb.jpg?mw=660",
+    "most_iconic_place": "Chokhi Dhani Village",
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Baati",
+      "Roti",
+      "Paratha",
+      "Puri",
+      "Ghee",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vada_pav",
+    "name": "Vada pav",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 3,
+    "short_description": "Vada pav is one of Mumbai's favorite sandwiches, its name referring to the key ingredients: vada, or spicy mashed potatoes that are deep-fried in chickpea batter, and pav, or white bread rolls. This i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/951728fa0ae74174a2602aaece17368c.jpg?mw=660",
+    "most_iconic_place": "Tapri",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Pav",
+      "Potatoes",
+      "Gram Flour",
+      "Garlic",
+      "Hot Peppers",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tikka",
+    "name": "Tikka",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 4,
+    "short_description": "Indian tikka is a dish consisting of boneless meat, usually chicken, that is cut into smaller pieces and marinated in yogurt and traditional Indian spices such as turmeric, cumin, coriander, cayenne p...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/86a6a97ee81c40f8adc25066215a62d1.jpg?mw=660",
+    "most_iconic_place": "Suvarna Mahal",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "idli",
+    "name": "Idli",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 5,
+    "short_description": "Idli is a traditional, savory Indian cake that is a popular breakfast item in numerous South Indian households, although it can be found throughout the country. It is made with a batter consisting of ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7389072b562f4dd6b08608b2692b4728.jpg?mw=660",
+    "most_iconic_place": "Tapri",
+    "most_iconic_location": "Southern India",
+    "ingredients": [
+      "Black Grams",
+      "Rice",
+      "Fenugreek Seeds",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khakhra",
+    "name": "Khakhra",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 6,
+    "short_description": "Khakhra is a popular, crispy flatbread originating from the Indian state of Gujarat. Made with wheat flour, moth bean, and oil, the crackers are typically consumed for breakfast, providing a healthy s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/19ab448be9384b9d8b0151126c2b8755.jpg?mw=660",
+    "most_iconic_place": "Tapri",
+    "most_iconic_location": "Gujarat",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Moth Beans",
+      "Ajwain",
+      "Ghee",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "panipuri",
+    "name": "Panipuri",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "Panipuri is a street snack that is extremely popular in India, Bangladesh, Pakistan, and Nepal. Small in size, it consists of a hollow puri that is fried until crispy, then stuffed with a combination ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b01fa4c9920d42df9ef472fd4f8e6fda.jpg?mw=660",
+    "most_iconic_place": "Tapri",
+    "most_iconic_location": "India",
+    "ingredients": [
+      "Semolina",
+      "Maida Flour",
+      "Potatoes",
+      "Chickpeas",
+      "Onion",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "laal_maas",
+    "name": "Laal maas",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 8,
+    "short_description": "Laal maas is a traditional curry variety originating from Rajasthan. This curry is prepared with mutton (often marinated in kachari cucumbers), yogurt, and Mathania red chili peppers. Other common ing...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4b653d04e3a4440eb822e424cbcf4424.jpg?mw=660",
+    "most_iconic_place": "1135 AD",
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Mutton",
+      "Dahi",
+      "Ghee",
+      "Hot Peppers",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paratha",
+    "name": "Paratha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 9,
+    "short_description": "Golden-brown in color, flaky and layered, paratha is a type of Indian bread that is typically consumed for breakfast. The name comes from a combination of words parat and atta (flour), referring to th...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7053f1036e63478db68ce8ba7583b39e.jpg?mw=660",
+    "most_iconic_place": "Tapri",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "samosa",
+    "name": "Samosa",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 10,
+    "short_description": "Due to their crunchy texture and a variety of different flavors, samosas provide a perfect introduction to the world of Indian cuisine for newcomers. These deep-fried, triangular pastries are filled w...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e668e32ae1a3423c95fbd4d77f8c940c.jpg?mw=660",
+    "most_iconic_place": "Tapri",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "aloo_paratha",
+    "name": "Aloo paratha",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 11,
+    "short_description": "Aloo paratha is one of the most popular breakfast foods in northern India, a flatbread stuffed with a spicy potato mixture. Its name is derived from aloo, denoting a potato, parat, denoting layers, an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/68a0b958e4ec47d7bfc0f5554b5bb746.jpg?mw=660",
+    "most_iconic_place": "Tapri",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Potatoes",
+      "Ghee",
+      "Ginger",
+      "Hot Peppers",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "roshmalai",
+    "name": "Roshmalai",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 12,
+    "short_description": "Roshmalai or ras malai is a popular Bengali and Indian dessert consisting of milk, sugar and cardamom-flavored paneer cheese known as chhana. Almonds, cashews, and saffron are often added to the desse...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b53ee1a62b704a36b63361822681ed47.jpg?mw=660",
+    "most_iconic_place": "Suvarna Mahal",
+    "most_iconic_location": "Bangladesh",
+    "ingredients": [
+      "Milk",
+      "Cardamom",
+      "Sugar",
+      "Saffron",
+      "Almonds",
+      "Pistachios"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kadhi",
+    "name": "Kadhi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 13,
+    "short_description": "The term kadhi encompasses a broad group of Indian dishes that use yogurt or buttermilk as a base and are typically thickened with gram flour (besan). Though kadhi is popular throughout India, most re...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ed4b71cd5e8c4ba091ac261fa6537cac.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "baati",
+    "name": "Baati",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 14,
+    "short_description": "Baati is a hard, unleavened Indian bread that is typically prepared in the desert areas of Rajasthan, Uttar Pradesh, and Madhya Pradesh. Traditionally, baati is baked over the ambers of dried cow-dung...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a0f80468aa0f43e1a0cd3b3faef40e00.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Wheat Flour",
+      "Salt",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boondi",
+    "name": "Boondi",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 15,
+    "short_description": "Boondi are small deep-fried round balls made from besan (gram flour). They come in a sweet or savor version. The process of making boondi starts with a thick besan batter that is poured through a siev...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b26c9290e7974fe0905dbc9cf262a132.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bikaneri_bhujia",
+    "name": "Bikaneri bhujia",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 16,
+    "short_description": "The city of Bikaner in the Indian state of Rajasthan is most famous for its bhujia, a popular, crispy snack made with flour and a variety of spices. It is characterized by its intense yellow color. Al...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f21fb751071b4c3bacef5f98e0544889.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Bikaner",
+    "ingredients": [
+      "Gram Flour",
+      "Moth Beans",
+      "Ajwain",
+      "Black Pepper",
+      "Red Chilli Powder",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ghevar",
+    "name": "Ghevar",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 17,
+    "short_description": "This traditional Rajasthani sweet delicacy is made with a batter of flour, ghee, and cold water that is carefully poured into piping hot oil or ghee to fry, yielding a round, disc-shaped dessert with ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/90427167bb8c4a72bab25584436acb58.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Maida Flour",
+      "Ghee",
+      "Almonds",
+      "Pistachios",
+      "Cardamom",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "panchmel_dal",
+    "name": "Panchmel dal",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 18,
+    "short_description": "Panchmel dal is a traditional lentil-based dish originating from Rajasthan. The word panch means five, referring to five types of lentils used for the curry – mung dal (split green lentils), masoor da...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3e1546a83f6d45daa0f3fba67731b58b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Mung beans",
+      "Pigeon Peas",
+      "Bengal Gram",
+      "Black Grams",
+      "Red Lentils",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "amrood_ki_sabzi",
+    "name": "Amrood ki sabzi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 19,
+    "short_description": "Amrood ki sabzi is a traditional curry originating from Rajasthan. The curry is usually made with a combination of guava, salt, sugar, lime juice, garlic, cumin, oil, turmeric, chili powder, and coria...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/54160ebe9bcd4633b0e41aa1379bb47b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Guava",
+      "Tomato",
+      "Hot Peppers",
+      "Ginger",
+      "Garlic",
+      "Cumin Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gatte_ki_sabzi",
+    "name": "Gatte ki sabzi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 20,
+    "short_description": "Gatta curry is a traditional curry originating from Rajasthan. Also known as besan ke gatte ki sabzi, the dish consists of chickpea flour dumplings that are cooked in a tangy and spicy dahi sauce. The...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f93d5b79c5f4c38b01a5fe49f701284.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Chickpea Flour",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Red Chilli Powder",
+      "Turmeric",
+      "Garam masala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "okra_in_yogurt_curry_bhindi_kadhi",
+    "name": "Okra in yogurt curry (Bhindi kadhi)",
+    "local_name": null,
+    "category": "VEGETARIAN DISH",
+    "rank": 21,
+    "short_description": "Bhindi kadhi is a traditional dish originating from North India. In Rajasthan, the dish is made with a combination of okra, yogurt, chickpea flour, vegetable oil, mustard seeds, curry leaves, ginger, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8ccdf55cd6f344b6b3cc84385100d2d3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Okra",
+      "Dahi",
+      "Gram Flour",
+      "Ginger",
+      "Garlic",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jhajariya",
+    "name": "Jhajariya",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 22,
+    "short_description": "Jhajariya is a traditional dessert originating from Rajasthan. The dessert is made with a combination of corn, ghee, sugar, milk, and nuts such as almonds. In order to prepare it, the sweet corn shoul...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Corn",
+      "Ghee",
+      "Almonds",
+      "Cardamom",
+      "Saffron",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pitod_ka_saag",
+    "name": "Pitod ka saag",
+    "local_name": null,
+    "category": "VEGETARIAN DISH",
+    "rank": 23,
+    "short_description": "Pitod ka saag is a traditional dish originating from Rajasthan and consisting of gram flour dumplings in yogurt sauce. The dumplings are made with a combination of chickpea flour, dahi, turmeric, salt...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Gram Flour",
+      "Dahi",
+      "Hot Peppers",
+      "Ginger-garlic paste",
+      "Red Chilli Powder",
+      "Garam masala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "methi_kishmish",
+    "name": "Methi kishmish",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 24,
+    "short_description": "Methi kishmish is a traditional dish originating from Rajasthan. It's usually made with a combination of fenugreek seeds, raisins, amchur, asafoetida, coriander, chili powder, turmeric, oil, and salt....",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Fenugreek Seeds",
+      "Raisins",
+      "Hot Peppers",
+      "Amchur",
+      "Ginger",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thandai",
+    "name": "Thandai",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 1,
+    "short_description": "Thandai is a North Indian milk-based beverage that incorporates nuts, seeds, and various spices. The preparation starts with a thick paste that is usually made with a different combination of nuts and...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/58fe57034ec74b1aaf0a8db92848598d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Milk",
+      "Almonds",
+      "Cashews",
+      "Pistachios",
+      "Saffron",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhang_lassi",
+    "name": "Bhang Lassi",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 2,
+    "short_description": "WARNING: It should be noted that bhang lassi is a potent beverage and that there are several claims that its consumption can lead to psychosis and hallucinations, or cause psychosis-like symptoms. It ...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/bddab1ca410944e29dc685b28efa0169.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Cannabis",
+      "Dahi",
+      "Cardamom",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  }
+]

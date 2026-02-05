@@ -1,0 +1,391 @@
+[
+  {
+    "id": "pavlova",
+    "name": "Pavlova",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 1,
+    "short_description": "Delicate meringue, named after a famed ballerina, cradles luscious whipped cream and vibrant fresh fruits. A classic New Zealand dessert, it delights with airy sweetness and summer charm.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/99a63337e1144e71baa0a8c3a4cba28d.jpg?mw=660",
+    "most_iconic_place": "Cibo",
+    "most_iconic_location": "Auckland",
+    "ingredients": [
+      "Eggs",
+      "Sugar",
+      "Vanilla",
+      "Whipped Cream",
+      "Corn Flour",
+      "Peach"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "meat_pie",
+    "name": "Meat Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 2,
+    "short_description": "Flaky pastry envelops a hearty blend of minced meat and rich gravy, capturing the essence of New Zealand's beloved comfort food. Each bite bursts with savory goodness, showcasing local culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/250788f498dc4599866235704848bf1d.jpg?mw=660",
+    "most_iconic_place": "Miles Better Pies",
+    "most_iconic_location": "Te Anau",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "anzac_biscuits",
+    "name": "Anzac Biscuits",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 3,
+    "short_description": "Sweet and chewy, these traditional cookies blend oats, coconut, and brown sugar, creating a delightful texture. Originating from New Zealand and Australia, they celebrate ANZAC Day with their rich, nostalgic flavors.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7cf73932a034428f8622cff9df7594c6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Oats",
+      "Brown Sugar",
+      "Coconut",
+      "Butter",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "new_zealand_fish_and_chips",
+    "name": "New Zealand Fish and Chips",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 4,
+    "short_description": "Crispy battered Blue Warehou, Elephant Shark, and Cod are served alongside golden, crunchy potatoes, embodying New Zealand's beloved twist on the classic British fish and chips. A must-try for flavor seekers!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7f8c5562ba0545e39bcaae9aaabfb326.jpg?mw=660",
+    "most_iconic_place": "Bobby's Fresh Fish Market",
+    "most_iconic_location": "Tauranga",
+    "ingredients": [
+      "Blue Warehou",
+      "Elephant Shark",
+      "Cod",
+      "Potatoes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bacon_and_egg_pie",
+    "name": "Bacon and Egg Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 5,
+    "short_description": "Flaky pastry envelops a savory blend of rich egg yolks and crispy bacon in this beloved New Zealand classic. Perfect for picnics, its comforting flavors delight locals and visitors alike.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6bdb570979b3495c91d2d0310c9430d4.jpg?mw=660",
+    "most_iconic_place": "Mairangi Bay Bakery",
+    "most_iconic_location": "Auckland",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "māori_boil_up",
+    "name": "Māori Boil-Up",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 6,
+    "short_description": "Flavorful meats like lamb, pork, and chicken simmer together in a communal pot, embodying Māori tradition. The hearty broth melds rich flavors, served with seasonal vegetables for a comforting feast.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/14cd95c21ad842beacfc62916e2fadc7.jpg?mw=660",
+    "most_iconic_place": "The Hangi Shop",
+    "most_iconic_location": "Auckland",
+    "ingredients": [
+      "Lamb",
+      "Pork",
+      "Beef",
+      "Chicken",
+      "Goat",
+      "Watercress"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cheese_roll",
+    "name": "Cheese Roll",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "Originating from New Zealand, these crispy cheese rolls feature crustless white bread stuffed with savory cheddar and onions, grilled to perfection and finished with a buttery topping. A beloved snack that’s irresistible!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cd9aa39f292f45e88f26a67af0019a65.jpg?mw=660",
+    "most_iconic_place": "Rata Dining",
+    "most_iconic_location": "Queenstown",
+    "ingredients": [
+      "Bread",
+      "Cheddar",
+      "Onion",
+      "Milk",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hokey_pokey_ice_cream",
+    "name": "Hokey Pokey Ice Cream",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 8,
+    "short_description": "Vanilla ice cream swirled with crunchy honeycomb toffee, Hokey Pokey is a beloved New Zealand treat that perfectly balances creamy and sweet textures. A must-try for any dessert lover!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6b242797f9744607ad03f843bab6f12f.jpg?mw=660",
+    "most_iconic_place": "Giapo",
+    "most_iconic_location": "Auckland",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "krispie",
+    "name": "Krispie",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 9,
+    "short_description": "A beloved treat from New Zealand, these toasted biscuits blend wheat flour, sugar, and coconut for a delightful crunch. Perfectly sweet and subtly nutty, they evoke a taste of Kiwi nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ff4a4097f2994886ad088cfbb3a844e5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sausage_sizzle",
+    "name": "Sausage Sizzle",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 10,
+    "short_description": "Grilled to perfection, juicy sausages nestle in soft bread, topped with caramelized onions and a drizzle of ketchup. A beloved staple at New Zealand barbecues and community events, each bite bursts with flavor and camaraderie.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/08e60b5bfb864a739aacfab2a080f7c6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cooked Sausage",
+      "Bread",
+      "Onion",
+      "Butter",
+      "Ketchup",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pikelets",
+    "name": "Pikelets",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 11,
+    "short_description": "Fluffy and golden, these bite-sized pancakes, originating from Australia and popular in New Zealand, are made with a simple blend of flour, eggs, and milk. Perfectly sweetened, they’re often enjoyed warm with butter and jam.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4b685669ddfb4cbfb068674995903794.jpg?mw=660",
+    "most_iconic_place": "Joe's Garage Queenstown",
+    "most_iconic_location": "Queenstown",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Wheat Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jaffas",
+    "name": "Jaffas",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Round, chocolatey delights coated in a vibrant red-orange shell, Jaffas burst with citrusy sweetness. A beloved treat from New Zealand and Australia, they offer a nostalgic taste of local confectionery culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cdef77fe1da94b1b8287c92e94ef778b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chocolate_fish",
+    "name": "Chocolate Fish",
+    "local_name": null,
+    "category": "CHOCOLATE DESSERT",
+    "rank": 13,
+    "short_description": "Originating from New Zealand, these delightful chocolate-covered fish feature a fluffy marshmallow center, offering a sweet bite that’s beloved by kids and adults alike.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ed1aa082f5da41ffb944898640508061.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chocolate",
+      "Marshmallow"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mince_and_cheese_pie",
+    "name": "Mince and Cheese Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 14,
+    "short_description": "A beloved Kiwi comfort food, this savory pie features a flaky shortcrust shell filled with seasoned mince, aromatic onions, and gooey cheese. It's a hearty delight that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f7f064efdadd4512b672b925e999a454.jpg?mw=660",
+    "most_iconic_place": "Fergbaker",
+    "most_iconic_location": "Queenstown",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "whitebait_fritters",
+    "name": "Whitebait Fritters",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 15,
+    "short_description": "Crispy and golden, these New Zealand delicacies showcase tender whitebait mixed with a light batter, delivering a delightful crunch and ocean-fresh flavor in every bite. Perfectly paired with a squeeze of lemon!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ef9be41ad336429aa2686b5e3b99d2dc.jpg?mw=660",
+    "most_iconic_place": "Curly Tree Whitebait",
+    "most_iconic_location": "Haast",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "jelly_slice",
+    "name": "Jelly Slice",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "A beloved treat in New Zealand and Australia, this vibrant dessert features a buttery cookie base layered with rich custard and glossy jelly. Each bite offers a delightful balance of sweetness and creamy texture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03f0d6e103554516b709187a7ccde086.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lolly_cake",
+    "name": "Lolly Cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 17,
+    "short_description": "A beloved Kiwi treat, this no-bake dessert combines crushed malt biscuits, vibrant marshmallows, rich butter, and sweet condensed milk, all topped with coconut for a delightful finish.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eb927181cd224805bbca286c7d0e82cc.jpg?mw=660",
+    "most_iconic_place": "Coffee Therapy",
+    "most_iconic_location": "Christchurch",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kiwiburger",
+    "name": "KiwiBurger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 18,
+    "short_description": "A quintessential Kiwi favorite, this hearty burger features a juicy beef patty topped with a perfectly fried egg, earthy beetroot, and fresh tomato, all nestled in a toasted bun. Enjoy a taste of New Zealand's culinary heritage!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6e31ec701bbc47b9b1524f24e9b2ff28.jpg?mw=660",
+    "most_iconic_place": "Fergburger",
+    "most_iconic_location": "Queenstown",
+    "ingredients": [
+      "Ground Beef",
+      "Burger Bun",
+      "Eggs",
+      "Beet",
+      "Tomato",
+      "Lettuce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hāngi",
+    "name": "Hāngi",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 19,
+    "short_description": "In New Zealand, Hāngi cooks tender meats and vegetables in an underground oven, infusing them with earthy flavors and smoky aromas. This ancient Māori technique creates a communal feast rich in tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bbdf79d042334871aefb6eb2dd70cbb6.jpg?mw=660",
+    "most_iconic_place": "Karaka Cafe",
+    "most_iconic_location": "Wellington",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "afghan_biscuit",
+    "name": "Afghan Biscuit",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 20,
+    "short_description": "Crispy and rich, these New Zealand cookies blend crunchy cornflakes with buttery goodness and a hint of cocoa. A beloved classic since 1955, they offer a delightful bite of nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a8d8047958994fd38e0d07e02b843ea0.jpg?mw=660",
+    "most_iconic_place": "Fidel's Cafe",
+    "most_iconic_location": "Wellington",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "neenish_tart",
+    "name": "Neenish Tart",
+    "local_name": null,
+    "category": "TART",
+    "rank": 21,
+    "short_description": "Delight in the Neenish Tart, a beloved Kiwi treat featuring buttery pastry shells filled with creamy custard and topped with vibrant icing. Each half bursts with sweet flavor and nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a05f23fe97be4c9b889ec577846ff0e9.jpg?mw=660",
+    "most_iconic_place": "Darfield Bakery",
+    "most_iconic_location": "Darfield",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Milk",
+      "Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "takihi",
+    "name": "Takihi",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 22,
+    "short_description": "Baked to perfection, this South Pacific delight layers thinly sliced taro and sweet papaya, enveloped in rich coconut cream. The flavors meld beautifully, creating a comforting, creamy casserole.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Niue",
+    "ingredients": [
+      "Taro",
+      "Papaya",
+      "Coconut Cream",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spaghetti_on_toast",
+    "name": "Spaghetti on toast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 23,
+    "short_description": "Canned spaghetti smothers crispy toast, creating a delightful breakfast favorite across New Zealand. It's a comforting blend of savory tomato sauce and soft pasta, perfect for starting the day.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/41b14fc3b9b2419a9c02b65c00d4546b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Canned Spaghetti",
+      "Toast"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "colonial_goose",
+    "name": "Colonial Goose",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 24,
+    "short_description": "Originating from 19th-century New Zealand, this hearty lamb dish features tender meat infused with sweet honey and apricot, all enveloped in crispy breadcrumbs and sautéed onions. A nostalgic nod to British culinary roots!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d96576645cdc411ea57e045506775851.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Honey",
+      "Apricot",
+      "Breadcrumbs",
+      "Onion",
+      "Parsley"
+    ],
+    "is_active": true
+  }
+]

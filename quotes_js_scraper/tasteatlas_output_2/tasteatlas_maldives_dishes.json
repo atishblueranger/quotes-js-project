@@ -1,0 +1,345 @@
+[
+  {
+    "id": "gulha",
+    "name": "Gulha",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 1,
+    "short_description": "Gulha is the national dish of Maldives, a deep-fried pastry ball filled with smoked fish such as Maldive fish or tuna, along with desiccated coconut and onions. The snacks are usually sold at small ca...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8f71bd9305714311bf02382be936908e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mas_huni",
+    "name": "Mas huni",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 2,
+    "short_description": "Mas huni is a traditional breakfast. It's made with a combination of tuna, onions, shredded coconut, and hot chili peppers. The ingredients are simply mixed in a bowl and seasoned with salt and pepper...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "garudihya",
+    "name": "Garudihya",
+    "local_name": null,
+    "category": "FISH SOUP",
+    "rank": 3,
+    "short_description": "This nourishing fish soup is one of the staple Maldivian dishes. In its basic form, it is usually prepared with chunks of tuna that are slowly simmered in water, while the additions may include curry ...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kulhimas",
+    "name": "Kulhimas",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 4,
+    "short_description": "Kulhimas is a traditional dish originating from the Maldives. The dish consists of spiced tuna and it's usually made with a combination of tuna, onions, curry leaves, hot peppers, garlic, ginger, grat...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Coconut",
+      "Hot Peppers",
+      "Garlic",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "maldivian_fish_curry_mas_riha",
+    "name": "Maldivian Fish Curry (Mas riha)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "Mas riha is a rich fish curry originating from the Maldives. The curry is based on three Maldivian staples – fish, starch, and coconut. The ingredients used for the preparation of mas riha usually inc...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Swordfish",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kukulku_riha",
+    "name": "Kukulku riha",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "Kukulku riha is a traditional curry originating from the Maldives. It's usually made with a combination of chicken, onions, garlic, ginger, curry leaves, pandan leaves, chili peppers, cumin, coriander...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Ghee",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "masroshi",
+    "name": "Masroshi",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "Masroshi is a traditional snack consisting of stuffed and fried dough. The dough is made with flour, oil, warm water, and salt, while the filling includes smoked tuna, grated coconut, hot peppers, oni...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fb586165085a496ebdbc0a5fcf7fd602.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "huni_roshi",
+    "name": "Huni roshi",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 8,
+    "short_description": "Huni roshi is a traditional flatbread hailing from the Maldives. The flatbread is usually made with a combination of flour, grated coconut, lukewarm water, oil, and salt. Once the soft (but not too st...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Coconut",
+      "Oil and Animal Fat",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "keemiyaa",
+    "name": "Keemiyaa",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 9,
+    "short_description": "Keemiyaa is a traditional dish originating from the Maldives. The dish is usually made with a combination of tuna, curry leaves, onions, garlic, ginger, peas, Scotch Bonnet peppers, lemon juice, musta...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Flour",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Peas"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kavaabu",
+    "name": "Kavaabu",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 10,
+    "short_description": "Kavaabu is a traditional snack originating from the Maldives. These fish fritters are usually made with a combination of smoked tuna, onions, ginger, grated coconut, hot peppers, lime juice, rice, cur...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Ginger",
+      "Coconut",
+      "Rice",
+      "Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tuna_curry_dhon_riha",
+    "name": "Tuna Curry (Dhon riha)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 11,
+    "short_description": "Dhon riha is a traditional tuna curry originating from the Maldives. The dish is usually made with a combination of coconut milk, fresh tuna, onions, oil, coconut, curry leaves, ginger, garlic, cinnam...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Coconut Milk",
+      "Coconut",
+      "Ginger",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "miruhulee_boava",
+    "name": "Miruhulee boava",
+    "local_name": null,
+    "category": "OCTOPUS DISH",
+    "rank": 12,
+    "short_description": "Miruhulee boava is a traditional dish originating from the Maldives. The dish consists of octopus tentacles that are braised in a combination of onions, garlic, cumin, curry leaves, chili peppers, pep...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Octopus",
+      "Onion",
+      "Garlic",
+      "Curry leaves",
+      "Hot Peppers",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dhonkeyo_kajuru",
+    "name": "Dhonkeyo kajuru",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 13,
+    "short_description": "Dhonkeyo kajuru is a traditional snack originating from the Maldives. These fritters are made with a combination of ripe bananas, grated coconut, sugar, flour, baking powder, vanilla, and oil. The ban...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bananas",
+      "Coconut",
+      "Sugar",
+      "Flour",
+      "Baking Powder",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "havaadhulee_bis",
+    "name": "Havaadhulee bis",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 14,
+    "short_description": "Havaadhulee bis is a traditional dish originating from the Maldives. These curried tuna dumplings consist of the dough, the filling, and curry sauce. The dough is made with a combination of flour, sal...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Tuna",
+      "Coconut",
+      "Coconut Milk",
+      "Onion",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bis_riha",
+    "name": "Bis riha",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Bis riha is a traditional stew originating from the Maldives. This curry is usually made with a combination of eggs, onions, garlic, coconut milk, dried fish, hot peppers, cumin, turmeric, dill, cinna...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Onion",
+      "Garlic",
+      "Coconut Milk",
+      "Dried Fish",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "riha_folhi",
+    "name": "Riha folhi",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 16,
+    "short_description": "Riha folhi is a traditional stuffed crepe originating from the Maldives. The batter for the crepe is made with flour, water, salt, and turmeric. Once prepared, the crepe is stuffed with a simmered com...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Turmeric",
+      "Tuna",
+      "Onion",
+      "Curry Powder",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rihaakuru_dhiya",
+    "name": "Rihaakuru dhiya",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 17,
+    "short_description": "Rihaakuru dhiya is a traditional soup originating from the Maldives. The soup is usually made with a combination of coconut milk, onions, curry leaves, lemon juice, Scotch Bonnet peppers, and rihaakur...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "aluvi_hiki_riha",
+    "name": "Aluvi hiki riha",
+    "local_name": null,
+    "category": "POTATO DISH",
+    "rank": 18,
+    "short_description": "Aluvi hiki riha is a traditional potato-based dish originating from the Maldives. The dish is usually made with a combination of potatoes, onions, ginger, garlic, mustard seeds, Scotch Bonnet peppers,...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Mustard Seeds",
+      "Scotch Bonnet pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fuhjehi_kavaabu",
+    "name": "Fuhjehi kavaabu",
+    "local_name": null,
+    "category": "DEEP-FRIED DISH",
+    "rank": 19,
+    "short_description": "Fuhjehi kavaabu are traditional fritters originating from the Maldives. The two main components of these fritters are the batter and the tuna mixture. The batter is made with flour, eggs, salt, baking...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Potatoes",
+      "Onion",
+      "Ginger",
+      "Scotch Bonnet pepper",
+      "Turmeric"
+    ],
+    "is_active": true
+  }
+]

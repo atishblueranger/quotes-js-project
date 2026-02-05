@@ -1,0 +1,468 @@
+[
+  {
+    "id": "poutine",
+    "name": "Poutine",
+    "local_name": null,
+    "category": "POTATO DISH",
+    "rank": 1,
+    "short_description": "Even though its name stems from the French boudin—a word that usually refers to the pudding-like fillings of sausages—this soppy treat originating from the French Canadian province of Quebec consists ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8cb5894ea6fb4a48825b435f0bcab90e.jpg?mw=660",
+    "most_iconic_place": "Casse-Croute La Banquise",
+    "most_iconic_location": "Montreal",
+    "ingredients": [
+      "Idaho potatoes",
+      "Cheese Curds",
+      "Canola Oil",
+      "Corn Starch",
+      "Butter",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_pot_pie",
+    "name": "Chicken Pot Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 2,
+    "short_description": "Comforting and hearty, chicken pot pie is an American and Canadian savory pie that has a top crust made with flaky pastry and a filling of chicken and vegetables such as peas, potatoes, onions, and ca...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/62e8a5dd3d824b5292c72defc3470e2f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Wheat Flour",
+      "Butter",
+      "Onion",
+      "Peas",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hawaiian_pizza",
+    "name": "Hawaiian pizza",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 3,
+    "short_description": "Despite its name, Hawaiian pizza is a Canadian invention, a classic American-style pie topped with cheese, ham, and pineapple chunks. It was originally created by Sam Panopoulos in Chatham, Ontario in...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0c232387a1064e27bd5b3a098a87acd9.jpg?mw=660",
+    "most_iconic_place": "Pizzeria Barbarella",
+    "most_iconic_location": "Vancouver",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Pineapple",
+      "Mozzarella",
+      "Wet-cured Ham",
+      "Tomato Sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pancakes_with_maple_syrup",
+    "name": "Pancakes with maple syrup",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 4,
+    "short_description": "Pancakes are traditionally consumed across North America and Canada, made from a starchy batter, eggs, milk, and butter. Their origin is probably German, with the traditional Pfannkuchen recipe being ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0b1a070027d1471196bbcdd8365df552.jpg?mw=660",
+    "most_iconic_place": "Mildred's Temple Kitchen",
+    "most_iconic_location": "Toronto",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Milk",
+      "Eggs",
+      "Baking Powder",
+      "Maple syrup"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "uramaki",
+    "name": "Uramaki",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 5,
+    "short_description": "Uramaki, California roll, or upside-down sushi is a unique sushi variety which has its origins disputed between Los Angeles and Vancouver, although most people claim that it was invented in California...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0e1987353e3e4f218d3169c71e6d7591.jpg?mw=660",
+    "most_iconic_place": "Tojo’s Restaurant",
+    "most_iconic_location": "Vancouver",
+    "ingredients": [
+      "Uruchimai",
+      "Rice Vinegar",
+      "Nori",
+      "Tuna",
+      "Salmon",
+      "Cucumber"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kraft_dinner",
+    "name": "Kraft dinner",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 6,
+    "short_description": "Kraft Dinner is Canada's national dish and the most popular grocery item in the country. These inexpensive blue-yellow boxes of macaroni and cheese started to rise in popularity in 1937, during the Gr...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/183eeac9a18547a2a5465f788eb0274f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Macaroni",
+      "Cheese"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "montreal_smoked_meat",
+    "name": "Montreal smoked meat",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 7,
+    "short_description": "Montreal smoked meat is a type of deli meat sandwich that originated in Montreal, Canada. It's similar to corned beef and pastrami sandwiches, but the meat used has its own distinct preparation proces...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c379c47f844049459b3eb91be37cab1f.jpg?mw=660",
+    "most_iconic_place": "Schwartz's",
+    "most_iconic_location": "Montreal",
+    "ingredients": [
+      "Montreal-style smoked meat",
+      "Rye Bread",
+      "Yellow mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "garlic_fingers",
+    "name": "Garlic fingers",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 8,
+    "short_description": "Garlic fingers is a popular food item throughout Atlantic Canada. Even though it looks like a pizza, garlic fingers are cut in strips or fingers instead of being cut into slices like a regular pizza. ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f25d57252a224133a289baa315fe6375.jpg?mw=660",
+    "most_iconic_place": "Blowers & Grafton",
+    "most_iconic_location": "Calgary",
+    "ingredients": [
+      "Wheat Flour",
+      "Mozzarella",
+      "Cheddar",
+      "Garlic",
+      "Butter",
+      "Yeast"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "butter_tarts",
+    "name": "Butter tarts",
+    "local_name": null,
+    "category": "TART",
+    "rank": 9,
+    "short_description": "Butter tart is a humble food that achieved iconic status in early 20th-century Canada. The filling is traditionally made with a combination of walnuts, eggs, brown sugar, butter, and white vinegar, an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/83b210cfb6e94046844f1b3c6e3de364.jpg?mw=660",
+    "most_iconic_place": "Doo Doo's Bakery",
+    "most_iconic_location": "Bailieboro",
+    "ingredients": [
+      "Wheat Flour",
+      "Brown Sugar",
+      "Butter",
+      "Raisins",
+      "Walnuts",
+      "Pecans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sugar_pie",
+    "name": "Sugar pie",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 10,
+    "short_description": "Sugar pie is a popular dessert in France, Belgium, the United States of America, and Quebec, Canada. The dessert consists of an open pie without a top crust, filled with a combination of sugar, maple ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/40aadd6adbf341a183ac7fe4d7cab1ad.jpg?mw=660",
+    "most_iconic_place": "Le Cochon Dingue",
+    "most_iconic_location": "Quebec City",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Vanilla",
+      "Brown Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "timbits",
+    "name": "Timbits",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 11,
+    "short_description": "Timbits are bite-sized doughnut holes made from leftover doughnut dough, fried in vegetable oil and available in a number of varieties such as yeast, cake, apple fritter, honey dip, old fashion plain,...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f66b10dc251f4f3680a8c116c7bb2641.jpg?mw=660",
+    "most_iconic_place": "Tim Hortons",
+    "most_iconic_location": "Hamilton",
+    "ingredients": [
+      "Wheat Flour",
+      "Milk",
+      "Baking Powder",
+      "Baking Soda",
+      "Eggs",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cheese_curds",
+    "name": "Cheese Curds",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 12,
+    "short_description": "A local delicacy in the cuisine of the Midwestern United States and Canada, deep-fried cheese curds are made from curds that form before cheeses like cheddar are formed into blocks or wheels and left ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9ce3bf79de2045f2a0dd771117d4a597.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cheese Curds",
+      "Buttermilk",
+      "Wheat Flour",
+      "Baking Soda",
+      "Eggs",
+      "Canola Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cedar_plank_salmon",
+    "name": "Cedar-plank salmon",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 13,
+    "short_description": "Cedar-plank salmon is a fish delicacy that involves cooking salmon on cedar planks, a unique method of cooking which is believed to have been originally practiced by the Native Americans who mostly us...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/56e0e1b5ec91455f8b6592a47f187ba3.jpg?mw=660",
+    "most_iconic_place": "Cardero's Restaurant",
+    "most_iconic_location": "Vancouver",
+    "ingredients": [
+      "Salmon",
+      "Rosemary",
+      "Thyme",
+      "Parsley",
+      "Dill",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ginger_beef",
+    "name": "Ginger beef",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 14,
+    "short_description": "Ginger beef is a Canadian dish influenced by Chinese cuisine. It was invented in the 1970s by George Wong at the Silver Inn restaurant in Calgary. The dish consists of marinated slices of beef that ar...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/515dea8db7a94949b24d531daf7240da.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Calgary",
+    "ingredients": [
+      "Beef",
+      "Ginger",
+      "Onion",
+      "Carrot",
+      "Bell Pepper",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "montréal_hot_dog",
+    "name": "Montréal hot dog",
+    "local_name": null,
+    "category": "HOT DOG",
+    "rank": 15,
+    "short_description": "Montréal hot dog is a Canadian hot dog variety consisting of a steamed sausage in a soft, steamed bun, topped with chopped onions, coleslaw, mustard, and some kind of relish. If the hot dog is steamed...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8b18dcecdacc422fa72e83599fb7c257.jpg?mw=660",
+    "most_iconic_place": "Decarie Hot Dog",
+    "most_iconic_location": "Montreal",
+    "ingredients": [
+      "Vienna Beef Hot Dog",
+      "Hot Dog Bun",
+      "Onion",
+      "Coleslaw",
+      "Mustard",
+      "Relish"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "honey_garlic_sauce",
+    "name": "Honey garlic sauce",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 16,
+    "short_description": "Although not much is known about the history of honey garlic sauce, it is especially popular in Canadian cuisine. This sweet and sour sauce is typically used on a variety of meat dishes such as barbec...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4ad5bb4f38f241f5aa57522c78b55e02.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Honey",
+      "Garlic",
+      "Brown Sugar",
+      "Corn Starch",
+      "Rice Vinegar",
+      "Soy sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sushi_pizza",
+    "name": "Sushi pizza",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 17,
+    "short_description": "Sushi pizza is an unusual spin on sushi that is popular throughout Canada, especially in Toronto. It consists of a fried rice patty topped with salmon, tuna, or crab, avocado slices, spicy mayonnaise,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8d316ec845e44a2698e22c21e19dfd9f.jpg?mw=660",
+    "most_iconic_place": "Sushi Inn",
+    "most_iconic_location": "Toronto",
+    "ingredients": [
+      "Rice",
+      "Crab",
+      "Tuna",
+      "Salmon",
+      "Tobiko",
+      "Avocado"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nanaimo_bars",
+    "name": "Nanaimo bars",
+    "local_name": null,
+    "category": "CHOCOLATE DESSERT",
+    "rank": 18,
+    "short_description": "Nanaimo bars are creamy, chocolatey dessert treats originating from Nanaimo, a city \"so beautiful it's alright to stare\". The same can be said for Nanaimo bars, layered cookies that don't need to be b...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/42136c18cbab42a7b0088392e2a85806.jpg?mw=660",
+    "most_iconic_place": "Bocca Café",
+    "most_iconic_location": "Nanaimo",
+    "ingredients": [
+      "Heavy Cream",
+      "Graham cracker",
+      "Cocoa Powder",
+      "Chocolate",
+      "Almonds",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "beaver_tails",
+    "name": "Beaver tails",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 19,
+    "short_description": "Beaver tails are sweet, flat, and thin Canadian pastries made from whole wheat flour. The dough is hand-stretched and shaped to look like a beaver's tail - unsurprisingly, one of Canada's national sym...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0be4fa35ac254710af2e504465311f02.jpg?mw=660",
+    "most_iconic_place": "BeaverTails Rideau Canal",
+    "most_iconic_location": "Ottawa",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Milk",
+      "Eggs",
+      "Vegetable Oil",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tourtière",
+    "name": "Tourtière",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 20,
+    "short_description": "Tourtière is a traditional spiced meat pie that is often prepared between Christmas and New Year's Eve, but since it is so savory and fragrant, it doesn't stay on the menu for too long. Usually made w...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fa21cf6f11854887841941a02b48ef90.jpg?mw=660",
+    "most_iconic_place": "Aux Anciens Canadiens",
+    "most_iconic_location": "Quebec City",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Beef",
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pâté_chinois",
+    "name": "Pâté chinois",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 21,
+    "short_description": "Pâté chinois is a popular Quebec dish consisting of a layer of ground beef, a layer of whole or creamed corn, and another layer of mashed potatoes on top. This comfort food staple can be found through...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c89eff9add44400a8c7a5517fe7b6c72.jpg?mw=660",
+    "most_iconic_place": "Les Enfants Terribles",
+    "most_iconic_location": "Montreal",
+    "ingredients": [
+      "Ground Beef",
+      "Yukon Gold",
+      "Butter",
+      "Milk",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pizza_cake",
+    "name": "Pizza cake",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 22,
+    "short_description": "The infamous pizza cake came to life in April of 2014 when a Canadian-based chain Boston Pizza started a campaign called Pizza Game Changers, where the public was called in to vote on the next big thi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b7c0895adcf248ff806a9064995c1cac.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Mozzarella",
+      "Pepperoni",
+      "Tomato Sauce",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "matrimonial_cake",
+    "name": "Matrimonial cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 23,
+    "short_description": "This lovingly paired combination of a crumbly oatmeal base and the sweet and chewy date filling supposedly gets its name from an old custom of breaking the cake over the heads of newlyweds. However, m...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5e562212ab6442ba9817e25825cf7035.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Oatmeal",
+      "Dates",
+      "Wheat Flour",
+      "Butter",
+      "Baking Soda",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pemmican",
+    "name": "Pemmican",
+    "local_name": null,
+    "category": "GAME DISH",
+    "rank": 24,
+    "short_description": "Long before beef jerky, there was pemmican, a Native American snack with a high fat content that was originally used as travel food. The word pemmican (pimîhkâ) comes from the Cree tribe and is derive...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e0baf83b3e424a7d847cd9d9ae83a012.jpg?mw=660",
+    "most_iconic_place": "Boralia",
+    "most_iconic_location": "Toronto",
+    "ingredients": [],
+    "is_active": true
+  }
+]

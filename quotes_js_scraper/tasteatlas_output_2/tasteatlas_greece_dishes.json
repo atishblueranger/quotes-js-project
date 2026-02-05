@@ -1,0 +1,714 @@
+[
+  {
+    "id": "gyros",
+    "name": "Gyros",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 1,
+    "short_description": "Gyros is one of the most popular Greek street food dishes, consisting of meat such as pork and chicken (in Greece) or lamb and veal (popular in other countries) cooked on a vertical spit. The meat is ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/254a002208804e0fa92fa354655fdaac.jpg?mw=660",
+    "most_iconic_place": "Pitogyros",
+    "most_iconic_location": "Oia",
+    "ingredients": [
+      "Lamb",
+      "Pork",
+      "Beef",
+      "Chicken",
+      "Pita bread",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "souvlaki",
+    "name": "Souvlaki",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 2,
+    "short_description": "Souvlaki is one of the most popular Greek dishes, consisting of small cubes of skewered and grilled pork, chicken, lamb, or beef. It is a popular fast food item that is usually served in souvladzidika...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/90c413e6606d4c69af350324c8e69835.jpg?mw=660",
+    "most_iconic_place": "Pane e Souvlaki",
+    "most_iconic_location": "Corfu City",
+    "ingredients": [
+      "Beef",
+      "Lamb",
+      "Pork",
+      "Chicken",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "moussaka",
+    "name": "Moussaka",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 3,
+    "short_description": "Moussaka is one of the best known Greek dishes – a baked casserole consisting of ground lamb meat and layers of sliced eggplant, covered with a thick layer of bechamel sauce that gets golden and crust...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d714f264955840a980db8b9cfbf66d3b.jpg?mw=660",
+    "most_iconic_place": "Naoussa",
+    "most_iconic_location": "Fira",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Lamb",
+      "Kefalograviera",
+      "Kefalotyri",
+      "Eggplant",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "greek_salad_horiatiki_salata",
+    "name": "Greek salad (Horiatiki salata)",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 4,
+    "short_description": "Greek salad, also known as village salad or horiatiki is the national dish of Greece, consisting of quartered tomatoes, sliced red onions, and chunky slices of cucumber. Depending on the region, there...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/30d1c817a7f64e4f815d7bfa66a1156c.jpg?mw=660",
+    "most_iconic_place": "Margaro Restaurant",
+    "most_iconic_location": "Piraeus",
+    "ingredients": [
+      "Tomato",
+      "Cucumber",
+      "Bell Pepper",
+      "Red Onion",
+      "Feta",
+      "Eliá Kalamatas"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tzatziki",
+    "name": "Tzatziki",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 5,
+    "short_description": "Tzatziki is a Greek concoction made from yogurt, cucumbers, garlic, and numerous herbs and spices such as dill, mint, or parsley. It is usually served as a sauce accompanying many meat dishes, as a si...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/220986c23b4b452d8b4a749edf1158f5.jpg?mw=660",
+    "most_iconic_place": "O Thanasis",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Greek yogurt",
+      "Cucumber",
+      "Garlic",
+      "Dill",
+      "Mint",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pastitsio",
+    "name": "Pastitsio",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 6,
+    "short_description": "Although the Greeks did not invent pasta, they have been consuming similar foods since ancient times. Actually, some terms we usually associate with Italian food like lasagna and macaroni are thought ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e780cff6efea4b1ab8da70e49426606f.jpg?mw=660",
+    "most_iconic_place": "Rouvas Tavern",
+    "most_iconic_location": "Corfu City",
+    "ingredients": [
+      "Ziti",
+      "Ground Beef",
+      "Ground Lamb",
+      "Kefalotyri",
+      "Feta",
+      "Red Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spanakopita",
+    "name": "Spanakopita",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 7,
+    "short_description": "Spanakopita is a Greek spinach pie consisting of a buttery, flaky phyllo pastry with a filling of cooked spinach, lemon juice, feta cheese, and sometimes dill. It can be served either as a small snack...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/95a200dc7d014c1db1898a020206174b.jpg?mw=660",
+    "most_iconic_place": "Pnyka",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Spinach",
+      "Feta",
+      "Wheat Flour",
+      "Onion",
+      "Dill",
+      "Mint"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "revani",
+    "name": "Revani",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 8,
+    "short_description": "Revani is a classic Greek and Turkish dessert made from semolina, sugar, and flour, with the additions of flavorings such as vanilla, lemon zest, or rose water, depending on the recipe variations. The...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2df62552a21148f9b1e202f4afbf4903.jpg?mw=660",
+    "most_iconic_place": "Taverna Platana",
+    "most_iconic_location": "Sotiras",
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Powder",
+      "Semolina",
+      "Sugar",
+      "Eggs",
+      "Yogurt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yemista",
+    "name": "Yemista",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 9,
+    "short_description": "Yemista or gemista is a Greek dish traditionally consisting of vegetables such as tomatoes and green peppers that are stuffed with rice and vegetables' inner parts. The stuffed vegetables are then bak...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e30084f6f02342249ed507bab4db1a20.jpg?mw=660",
+    "most_iconic_place": "Oasis Restaurant",
+    "most_iconic_location": "Naxos",
+    "ingredients": [
+      "Tomato",
+      "Bell Pepper",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Mint"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "biftekia",
+    "name": "Biftekia",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 10,
+    "short_description": "Biftekia is a traditional dish that’s often described as a cross between burger patties and slightly flattened meatballs. The patties are made with a combination of ground pork, beef, or lamb, and the...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/609de59a96764a28969df98fd8284f7a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Ground Lamb",
+      "Eggs",
+      "Onion",
+      "Breadcrumbs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "horta",
+    "name": "Horta",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 11,
+    "short_description": "Horta is a traditional salad consisting of steamed or boiled greens and weeds that are drizzled with lemon juice and olive oil. The greens usually include dandelion, vleeta, nettles, wild spinach, mus...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cd76cdaa843d4bfeb62785c1210a20fe.jpg?mw=660",
+    "most_iconic_place": "Rakadiko STOAS",
+    "most_iconic_location": "Piraeus",
+    "ingredients": [
+      "Dandelions",
+      "Nettle",
+      "Spinach",
+      "Green Amaranth",
+      "Mustard Greens",
+      "Chicory"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "omeleta",
+    "name": "Omeleta",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 12,
+    "short_description": "Omeleta is a traditional Greek-style omelet made with Mediterranean ingredients, giving it a distinct and flavorful twist compared to classic omelets. Unlike a typical omelet, the Greek omeleta incorp...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eb5491e5ee62424f8e68c8032f933185.jpg?mw=660",
+    "most_iconic_place": "To Antikristo",
+    "most_iconic_location": "Chania City",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mydia",
+    "name": "Mydia",
+    "local_name": null,
+    "category": "MUSSEL DISH",
+    "rank": 13,
+    "short_description": "Mydia or dagnje na crvenu buzaru is a popular Greek and Croatian appetizer consisting of fresh mussels that are steamed in red wine along with fresh herbs, garlic, and a variety of garden vegetables. ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3c52b28591f040ba9f2b7c8da9108192.jpg?mw=660",
+    "most_iconic_place": "Niko's Taverna",
+    "most_iconic_location": "Mykonos",
+    "ingredients": [
+      "Mussels",
+      "Onion",
+      "Tomato",
+      "Carrot",
+      "Parsley",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "keftedakia",
+    "name": "Keftedakia",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 14,
+    "short_description": "Flavorful, fluffy, and tender, keftedakia are Greek meatballs made from a combination of ground pork and beef, eggs, stale bread or breadcrumbs, and seasonings such as dill, pepper, parsley, and orega...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/828ec80aaa6f4774b64a6dc11ca5888b.jpg?mw=660",
+    "most_iconic_place": "Limeri Restaurant",
+    "most_iconic_location": "Kato Korakiana",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Beef",
+      "Eggs",
+      "Onion",
+      "Garlic",
+      "Bread"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "païdakia",
+    "name": "Païdakia",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 15,
+    "short_description": "Grilled lamb chops are a traditional Greek dish that is popular throughout the country and usually enjoyed as the main course. Lamb chops are usually marinated in various combinations of olive oil, le...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/400a808b02d54ead9e3986b1dbc8d824.jpg?mw=660",
+    "most_iconic_place": "To Steki Tou Ilia",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Lamb",
+      "Garlic",
+      "Thyme",
+      "Oregano",
+      "Rosemary",
+      "Peppercorns"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bougatsa",
+    "name": "Bougatsa",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 16,
+    "short_description": "Bougatsa is a traditional, rustic Greek pie consisting of a phyllo pastry layered with a filling of semolina custard, although there are variations with minced meat or cheese. The name of the dish is ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/97c3870c77ff459a8a8d07c26f4f4b87.jpg?mw=660",
+    "most_iconic_place": "Bougatsa Iordanis",
+    "most_iconic_location": "Chania City",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Vanilla",
+      "Sugar",
+      "Powdered Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tiropita",
+    "name": "Tiropita",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 17,
+    "short_description": "Tiropita is a popular Greek snack consisting of sheets of phyllo dough that are filled with a combination of cheese (usually feta) and eggs. The dish is typically wrapped in triangular pieces and brus...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c3833e9e6d0940fbb32c86443cbc6ec7.jpg?mw=660",
+    "most_iconic_place": "Ariston Bakery",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Feta",
+      "Cottage Cheese",
+      "Butter",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tsoureki",
+    "name": "Tsoureki",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 18,
+    "short_description": "Tsoureki is a traditional Easter bread characterized by its braided shape, which can be either circular or elongated like a loaf. Tradition says that tsoureki should be braided in three strands - one ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3aa161d9e3f545b49a606504c2a82157.jpg?mw=660",
+    "most_iconic_place": "Terkenlis",
+    "most_iconic_location": "Thessaloniki",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Butter",
+      "Mahlep",
+      "Orange Zest"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dakos",
+    "name": "Dakos",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 19,
+    "short_description": "Dakos or ntakos is a traditional Cretan dish consisting of a dry barley rusk called paximadi that is topped with crumbled myzithra cheese, chopped ripe tomatoes, whole olives, capers, fresh oregano, a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6a09a7f487d74c98ba33bae299137e73.jpg?mw=660",
+    "most_iconic_place": "Peskesi",
+    "most_iconic_location": "Heraklion",
+    "ingredients": [
+      "Kritiko paximadi",
+      "Tomato",
+      "Myzithra",
+      "Garlic",
+      "Oregano",
+      "Capers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "melomakarona",
+    "name": "Melomakarona",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 20,
+    "short_description": "Though they are thought to have originated in ancient Phoenicia, melomakaronas are nowadays a typical Greek Christmas treat. These delicious semolina cookies are traditionally flavored with honey, ora...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/930ba2678ac24b7f9d7abd492772fdfb.jpg?mw=660",
+    "most_iconic_place": "Aggeliki",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Semolina Flour",
+      "Wheat Flour",
+      "Baking Powder",
+      "Baking Soda",
+      "Honey",
+      "Walnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "avgolemono",
+    "name": "Avgolemono",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 21,
+    "short_description": "Avgolemono is a Greek soup made with whisked eggs and lemon juice that are combined in a broth up to a point when the soup develops a thick consistency, but not longer, as the ingredients would start ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/08f1670d1ce64bdf953576575daaa60d.jpg?mw=660",
+    "most_iconic_place": "Zorbas Restaurant",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Eggs",
+      "Rice",
+      "Carrot",
+      "Celery",
+      "Lemon Juice",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fasolakia",
+    "name": "Fasolakia",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 22,
+    "short_description": "A traditional summer staple in Greece, fasolakia is a simple, one-pot dish consisting of green beans that are simmered in olive oil alongside fresh, ripe tomatoes. It is occasionally enriched with oth...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bc4e00aadc3d400e87b6411377973d88.jpg?mw=660",
+    "most_iconic_place": "Rouvas Tavern",
+    "most_iconic_location": "Corfu City",
+    "ingredients": [
+      "Green Beans",
+      "Tomato",
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bamies",
+    "name": "Bamies",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 23,
+    "short_description": "Braised okra is a Greek classic that is usually enjoyed as a light main course or a side dish. It consists of okra, sautéed onions, and fresh or canned tomatoes. All of the ingredients are braised in ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a2fb86aa37e243ab82a0412824d55bd5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Okra",
+      "Potatoes",
+      "Tomato",
+      "Onion",
+      "Carrot",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "taramasalata",
+    "name": "Taramasalata",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 24,
+    "short_description": "Taramasalata is a Greek and Turkish specialty dish consisting of mashed potatoes or bread (or sometimes breadcrumbs) combined with lemon juice, olive oil, and fish roe, usually from cod, carp, or mull...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/07692150597846bcbaf520d734a906ef.jpg?mw=660",
+    "most_iconic_place": "Ferryman Taverna",
+    "most_iconic_location": "Elounda",
+    "ingredients": [
+      "Bread",
+      "Potatoes",
+      "Breadcrumbs",
+      "Fish Roe",
+      "Tomato",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "saganaki",
+    "name": "Saganaki",
+    "local_name": null,
+    "category": "CHEESE DISH",
+    "rank": 25,
+    "short_description": "Saganaki is a highly popular Greek appetizer where various vegetables, meats, or seafood such as shrimp or mussels are wrapped in cheese, then pan-fried or seared. The cheese can also be prepared on i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/83a49082eeb2493d94bd963b67c53704.jpg?mw=660",
+    "most_iconic_place": "To Tsipouradiko",
+    "most_iconic_location": "Corfu City",
+    "ingredients": [
+      "Graviera Agrafon",
+      "Kasseri",
+      "Kefalotyri",
+      "Wheat Flour",
+      "Lemon Juice",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fava",
+    "name": "Fava",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 26,
+    "short_description": "Though it only uses a few ingredients, Greek fava dip is an incredibly flavorful dish. It consists of yellow split peas that are cooked alongside onions and various spices until they completely disint...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c3e25e479c1e436db79f05df0cd20f9c.jpg?mw=660",
+    "most_iconic_place": "Tavern Klimataria",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Split Peas",
+      "Red Onion",
+      "Scallions",
+      "Garlic",
+      "Olive Oil",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fakes",
+    "name": "Fakes",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 27,
+    "short_description": "This traditional Greek lentil soup is simple in ingredients and preparation, but results in a dish that is packed with flavors. Characterized by its dense texture, next to brown or green lentils, the ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/626441b7935748a2b9fa075f86a1a0be.jpg?mw=660",
+    "most_iconic_place": "Myrtos Hotel",
+    "most_iconic_location": "Myrtos",
+    "ingredients": [
+      "Lentils",
+      "Onion",
+      "Garlic",
+      "Tomato",
+      "Carrot",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "galaktoboureko",
+    "name": "Galaktoboureko",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 28,
+    "short_description": "This traditional Greek dessert consists of numerous phyllo sheets that are sprinkled with melted butter and coupled with a light semolina custard. When baked and well-chilled, the pastry is traditiona...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a5ae61ea000444cfb3c7cc04c605a9f9.jpg?mw=660",
+    "most_iconic_place": "Kosmikon",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Semolina Flour",
+      "Corn Starch",
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kourabiedes",
+    "name": "Kourabiedes",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 29,
+    "short_description": "These crispy and buttery shortbread cookies are a classic Greek dessert. Even though some variations occasionally employ walnuts, they are traditionally prepared with a rich dough that incorporates gr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a8c9d19224984211863342413ea2fa00.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Almonds",
+      "Vanilla",
+      "Baking Powder",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pita",
+    "name": "Pita",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 30,
+    "short_description": "Pita bread is a type of flatbread believed to have originated in the Middle East around 2500 BCE, making it one of the oldest types of bread in the world. Archaeologists have found evidence of flatbre...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f58b9217a09f4c91833027c3e763e2d8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Olive Oil",
+      "Salt",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dolmades",
+    "name": "Dolmades",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 31,
+    "short_description": "Dolma is Türkiye's national dish, and it signifies any sort of vegetable stuffed with a mixture based on rice. For traditional dolma, grape leaves are stuffed with rice and ground meat. Stuffed leaves...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c8d5d2e5fa794c94a69cb801ffd61279.jpg?mw=660",
+    "most_iconic_place": "Erganos",
+    "most_iconic_location": "Heraklion",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Lamb",
+      "Grape Leaves",
+      "Bell Pepper",
+      "Eggplant",
+      "Zucchini"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stifado",
+    "name": "Stifado",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 32,
+    "short_description": "Stifado is a hearty Greek one-pot stew that is ideal for a cold winter's day. Although the ingredients vary from region to region and from cook to cook, the essential ones are large amounts of onions,...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9c321d7f45f94639b97fdbee87375f3a.jpg?mw=660",
+    "most_iconic_place": "Taverna Alekos",
+    "most_iconic_location": "Rethymno City",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Tomato",
+      "Garlic",
+      "Cinnamon",
+      "Cloves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bakaliaros",
+    "name": "Bakaliaros",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 33,
+    "short_description": "Though the term bakaliaros refers to cod fish, Greeks mainly use it to describe golden and crispy cod fritters. Whether it employs salt or fresh cod, the dish can be made with batter-fried pieces of c...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3e10d05c59a7460c8bcc60971583cb7a.jpg?mw=660",
+    "most_iconic_place": "Bakaliarakia tou Aristou",
+    "most_iconic_location": "Thessaloniki",
+    "ingredients": [
+      "Cod",
+      "Wheat Flour",
+      "Yeast",
+      "Beer",
+      "Olive Oil",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kleftiko",
+    "name": "Kleftiko",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 34,
+    "short_description": "Kleftiko is a typical Greek dish that is commonly prepared at festive events and celebrations, consisting of a succulent piece of lamb or goat meat that is wrapped in foil and baked in airtight ovens....",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1c7b5cb1eb6642c9abbf6936cbeea24b.jpg?mw=660",
+    "most_iconic_place": "Strofi Restaurant",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Lamb",
+      "Potatoes",
+      "Garlic",
+      "Oregano",
+      "Rosemary",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kokoretsi",
+    "name": "Kokoretsi",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 35,
+    "short_description": "Kokoretsi is a traditional dish consisting of lamb or goat offal that is chopped into tiny pieces, seasoned with lemon juice, olive oil, salt, and pepper. The offal is then skewered, covered with caul...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5a4c8fa78d144d538fcc7290dc5d7393.jpg?mw=660",
+    "most_iconic_place": "Ziogas",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Goat Offal",
+      "Lamb Offal",
+      "Garlic",
+      "Caul Fat",
+      "Lemon Zest",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "giouvetsi",
+    "name": "Giouvetsi",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 36,
+    "short_description": "This classic Greek casserole consists of a combination of pasta and tomato-braised meat that is prepared as a one-pot oven dish. Although veal is the traditional choice, various types of meat may be e...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c68c717736934af2a1b49973a40c3888.jpg?mw=660",
+    "most_iconic_place": "Lithos Tavern",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Orzo",
+      "Chilopites",
+      "Veal",
+      "Feta",
+      "Kefalotyri",
+      "Red Onion"
+    ],
+    "is_active": true
+  }
+]

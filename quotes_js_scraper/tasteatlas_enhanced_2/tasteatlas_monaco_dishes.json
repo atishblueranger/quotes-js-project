@@ -1,0 +1,81 @@
+[
+  {
+    "id": "barbagiuan",
+    "name": "Barbagiuan",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 1,
+    "short_description": "Deep-fried to golden perfection, these crispy pastries from Monaco are filled with a savory mix of Swiss chard, ricotta, and spices. A beloved appetizer, they offer a delightful taste of Monegasque tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/192f7bd99ede4fa082172599a9da8dfd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Olive Oil",
+      "Salt",
+      "Onion",
+      "Leek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stocafi",
+    "name": "Stocafi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Savor the essence of Monaco with stocafi, a hearty stew of tender dried cod simmered in a rich tomato sauce, infused with garlic, capers, bay leaves, and briny black olives. A true local treasure!",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lou_fassum",
+    "name": "Lou fassum",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 3,
+    "short_description": "Originating from Grasse, Lou fassum features tender cabbage leaves enveloping a savory blend of rice, dry-cured ham, and bacon. Slowly poached in aromatic broth, it offers a rich, comforting flavor that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Grasse",
+    "ingredients": [
+      "Cabbage",
+      "Rice",
+      "Dry-cured Ham",
+      "Bacon",
+      "Salt Pork",
+      "Peas"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tomates_à_la_monegasque",
+    "name": "Tomates à la Monegasque",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 4,
+    "short_description": "Originating from Monaco, these vibrant stuffed tomatoes combine tender fruit with a savory filling of hard-boiled eggs, tuna, mustard, and creamy mayonnaise, offering a refreshing taste of Mediterranean charm.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a4d2055ead0d4327aac25a355b91bc5a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "oignons_monégasque",
+    "name": "Oignons Monégasque",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 5,
+    "short_description": "Sautéed pickling onions shine in this Monégasque delight, paired with tangy wine vinegar and rich tomato paste. A versatile side dish that captures the essence of Monaco's culinary charm!",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

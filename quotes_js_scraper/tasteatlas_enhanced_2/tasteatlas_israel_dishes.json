@@ -1,0 +1,421 @@
+[
+  {
+    "id": "falafel",
+    "name": "Falafel",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 1,
+    "short_description": "Crispy on the outside and tender within, these golden chickpea balls burst with the flavors of garlic, onion, and fresh herbs. A beloved staple of Israeli street food, falafel offers a tasty bite of Middle Eastern culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6a7d870a48e34847b06f1711907ccf8a.jpg?mw=660",
+    "most_iconic_place": "HaKosem",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Chickpeas",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Coriander",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "challah",
+    "name": "Challah",
+    "local_name": null,
+    "category": "BREAD",
+    "rank": 2,
+    "short_description": "Enriched with eggs and a hint of sweetness, this traditional Jewish bread features a braided shape and a golden crust, often topped with sesame or poppy seeds for added crunch. Perfect for celebrations and Shabbat dinners, it embodies the warmth of community and heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3771c4bafea544cebcdb130a146fbb21.jpg?mw=660",
+    "most_iconic_place": "Port Said",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Sesame Seeds",
+      "Poppy Seeds",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "matzah",
+    "name": "Matzah",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 3,
+    "short_description": "Unleavened and crisp, this traditional Israeli flatbread is crafted from just flour and water, embodying the essence of Passover. Its simple flavor makes it a versatile companion to any meal.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/18ae22928bc3466380e2120e851e9cfd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "malabi",
+    "name": "Malabi",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 4,
+    "short_description": "Delicate and creamy, this milk-based pudding hails from the Middle East, combining subtle sweetness with hints of rosewater and a sprinkle of pistachios for a fragrant finish.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6b2a4d24ad8445d19d03df8b5cae3595.jpg?mw=660",
+    "most_iconic_place": "Hamalabiya Allenby",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "rugelach",
+    "name": "Rugelach",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 5,
+    "short_description": "Delight in these flaky, cream cheese-based pastries filled with sweet jam, nuts, or chocolate. A beloved treat from Ashkenazi Jewish roots, rugelach brings a taste of tradition to every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/98b23abb490148f2bd499bd02d6c15f3.jpg?mw=660",
+    "most_iconic_place": "Marzipan Bakery and Pastry",
+    "most_iconic_location": "Jerusalem",
+    "ingredients": [
+      "Wheat Flour",
+      "Cream Cheese",
+      "Sour Cream",
+      "Butter",
+      "Eggs",
+      "Nuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kugel",
+    "name": "Kugel",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 6,
+    "short_description": "Originating from Ashkenazi Jewish cuisine, kugel is a comforting baked casserole of noodles or potatoes, blended with eggs and rich flavors. Its savory and sweet variations delight the senses in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c2ca4328efd448e6947a0fc03e96f679.jpg?mw=660",
+    "most_iconic_place": "Deitsch",
+    "most_iconic_location": "Jerusalem",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "israeli_salad_salat_katzutz",
+    "name": "Israeli salad (Salat katzutz)",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 7,
+    "short_description": "Finely chopped and vibrant, this refreshing salad bursts with the flavors of ripe tomatoes, crisp cucumbers, and zesty onions. A staple in Israeli cuisine, it brings a taste of the Mediterranean to every meal.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1055721463324be9b0056e01adf55d23.jpg?mw=660",
+    "most_iconic_place": "Avi's Restaurant",
+    "most_iconic_location": "Tiberias",
+    "ingredients": [
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Bell Pepper",
+      "Parsley",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 8,
+    "short_description": "Creamy and velvety, this Middle Eastern staple blends chickpeas, tahini, garlic, and cumin with a zesty hint of lemon. Perfect for dipping or spreading, it’s a flavorful celebration of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/45200b7711794dc88cf0bf3bf0988f7e.jpg?mw=660",
+    "most_iconic_place": "Hummus Abu Hassan",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Chickpeas",
+      "Sesame Seeds",
+      "Garlic",
+      "Cumin",
+      "Lemon Juice",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cholent",
+    "name": "Cholent",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 9,
+    "short_description": "Slow-cooked to perfection, this hearty Ashkenazi Jewish stew melds tender beef, savory beans, earthy barley, and root vegetables, creating a rich, comforting dish cherished during the Sabbath.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c30ff429cba145c8b07759da9708232e.jpg?mw=660",
+    "most_iconic_place": "Shmulik Cohen",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Beef",
+      "Potatoes",
+      "Barley",
+      "Beans",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sabich",
+    "name": "Sabich",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 10,
+    "short_description": "Originating from Iraqi Jewish tradition, this vibrant sandwich layers crispy fried eggplant, creamy hummus, and savory hard-boiled eggs in warm pita. Topped with tangy amba and fresh salad, it’s a flavor-packed bite of Israeli street food bliss.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bbdb1674247446149ab38b4bc8fc44ac.jpg?mw=660",
+    "most_iconic_place": "Sabich Frishman",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tahini",
+    "name": "Tahini",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 11,
+    "short_description": "Originating in Israel, this creamy dip blends toasted sesame seeds with zesty lemon juice, garlic, and a drizzle of olive oil. Its nutty flavor and smooth texture make it an irresistible accompaniment to fresh veggies or pita.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7e45878178134a20aaff2d2246fd500c.jpg?mw=660",
+    "most_iconic_place": "Puaa",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Sesame Seeds",
+      "Salt",
+      "Lemon Juice",
+      "Garlic",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shawarma",
+    "name": "Shawarma",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 12,
+    "short_description": "Marinated and spit-roasted, tender lamb, beef, or chicken is wrapped in warm pita or lavash, creating a flavorful bite steeped in rich Ottoman heritage. Perfectly spiced and utterly irresistible!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbc3999873a748a49a7a5d7364a3e8c4.jpg?mw=660",
+    "most_iconic_place": "HaKosem",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Lamb",
+      "Beef",
+      "Chicken",
+      "Pita bread",
+      "Lavash",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "israeli_breakfast",
+    "name": "Israeli breakfast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 13,
+    "short_description": "Savor the vibrant flavors of an Israeli breakfast, featuring creamy labneh, fresh tomatoes, cucumbers, and perfectly cooked eggs. A delightful morning tradition that celebrates communal dining and fresh ingredients.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4a89b18de68c42c2b3093ad5b581ac22.jpg?mw=660",
+    "most_iconic_place": "Manta Ray",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bourekas",
+    "name": "Bourekas",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 14,
+    "short_description": "Savory pastries filled with cheese, potatoes, or spinach, bourekas boast flaky, golden-brown layers that delight the palate. A beloved snack in Israel, they blend tradition with irresistible flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e75cdd476e3a483c8e1d72d21a3ba21f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sufganiyah",
+    "name": "Sufganiyah",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 15,
+    "short_description": "Round and golden, these deep-fried doughnuts burst with sweet jam, embodying the festive spirit of Hanukkah in Israel. A delightful treat that’s crispy outside and soft inside, perfect for indulgence!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b7f7d296dbfa47499e09f7ea5952e2fd.jpg?mw=660",
+    "most_iconic_place": "Roladin",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Jam",
+      "Yeast",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mandelbrot",
+    "name": "Mandelbrot",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 16,
+    "short_description": "Originating from Ashkenazi Jewish cuisine, Mandelbrot delights with its crisp texture and nutty almond flavor. Twice-baked to perfection, it’s a flavorful treat perfect for any occasion.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ac82e271c0254096b941354da1a9c098.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Almonds",
+      "Vanilla",
+      "Baking Powder",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hamantash",
+    "name": "Hamantash",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 17,
+    "short_description": "Delight in the sweet, three-cornered Hamantash, a traditional Jewish pastry filled with poppy seeds, fruit preserves, or chocolate. Celebrated during Purim, each bite offers a rich blend of flavors and festive cheer.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/485c56f8048849ef8860dcca8858e0e6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "malawach",
+    "name": "Malawach",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 18,
+    "short_description": "Laminated and flaky, this Yemenite Jewish flatbread delights with its rich layers of butter and oil. Enjoy it warm, often served with honey or savory dips for a satisfying crunch.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1465ea4dbbd6457d8a29bd606831a97b.jpg?mw=660",
+    "most_iconic_place": "Saluf & Sons",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Wheat Flour",
+      "Vegetable Oil",
+      "Butter",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kunāfah",
+    "name": "Kunāfah",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 19,
+    "short_description": "Layers of crispy kataifi dough cradle a rich, creamy Akkawi cheese filling, infused with orange zest and cardamom, all drizzled with sweet syrup. A beloved Middle Eastern dessert, kunāfah delights with its irresistible crunch and indulgent flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3a6bfc04b0294ab78b16a9af0de5cd75.jpg?mw=660",
+    "most_iconic_place": "Al Aqsa",
+    "most_iconic_location": "Jerusalem",
+    "ingredients": [
+      "Rice Flour",
+      "Akkawi",
+      "Butter",
+      "Pistachios",
+      "Cream",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shakshouka",
+    "name": "Shakshouka",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 20,
+    "short_description": "Poached eggs nestle in a vibrant, spiced tomato and bell pepper sauce, infused with cumin. Originating from North Africa, this Israeli breakfast staple bursts with flavor and warmth.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/16db5759e81b4166a0eb8bccaa211e6a.jpg?mw=660",
+    "most_iconic_place": "Dr. Shakshuka",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Eggs",
+      "Onion",
+      "Tomato",
+      "Bell Pepper",
+      "Cumin",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kreplach",
+    "name": "Kreplach",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 21,
+    "short_description": "Originating from Eastern Europe, these savory dumplings are filled with tender meat and seasoned spices, often served in rich broth. Perfectly comforting, kreplach are a beloved Jewish tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ed94d1e36816473b8fe7a90191366dee.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "jerusalem_mixed_grill_meorav_yerushalmi",
+    "name": "Jerusalem mixed grill (Me'orav Yerushalmi)",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 22,
+    "short_description": "Savor the vibrant flavors of Jerusalem with this street food classic, where succulent chicken livers, hearts, and tender pieces of chicken mingle with aromatic cumin and onions, all grilled to perfection. A true taste of local culture!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0ae7109af45847eb97b3f5ceb56bfe98.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Jerusalem",
+    "ingredients": [
+      "Chicken Liver",
+      "Chicken",
+      "Onion",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "מצה_בריי_matzah_brei",
+    "name": "מצה בריי‎‎ (Matzah brei)",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 23,
+    "short_description": "Broken matzah soaks in water and mingles with beaten eggs, creating a satisfying, savory treat. Traditionally enjoyed during Passover, this Ashkenazi favorite is pan-fried to golden perfection.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ecbd6d54ad6947448a6756711e7157e6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Matzah",
+      "Eggs",
+      "Butter",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tahini_cookie_oogiyot_tahina",
+    "name": "Tahini cookie (Oogiyot tahina)",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 24,
+    "short_description": "Nutty and buttery, these Israeli treats blend rich tahini with a hint of sweetness, creating a melt-in-your-mouth delight. Perfectly baked, they showcase the beloved flavors of the Eastern Mediterranean.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/43d3437bd11a4de8bf147e64d2198bef.jpg?mw=660",
+    "most_iconic_place": "Hadasaar",
+    "most_iconic_location": "Mitzpe Ramon",
+    "ingredients": [
+      "Sesame Seeds",
+      "Butter",
+      "Vegetable Oil",
+      "Salt",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

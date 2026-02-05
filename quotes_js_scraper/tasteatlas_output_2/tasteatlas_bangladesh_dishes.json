@@ -1,0 +1,430 @@
+[
+  {
+    "id": "roshmalai",
+    "name": "Roshmalai",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 1,
+    "short_description": "Roshmalai or ras malai is a popular Bengali and Indian dessert consisting of milk, sugar and cardamom-flavored paneer cheese known as chhana. Almonds, cashews, and saffron are often added to the desse...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b53ee1a62b704a36b63361822681ed47.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Milk",
+      "Cardamom",
+      "Sugar",
+      "Saffron",
+      "Almonds",
+      "Pistachios"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tikka",
+    "name": "Tikka",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 2,
+    "short_description": "Indian tikka is a dish consisting of boneless meat, usually chicken, that is cut into smaller pieces and marinated in yogurt and traditional Indian spices such as turmeric, cumin, coriander, cayenne p...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/86a6a97ee81c40f8adc25066215a62d1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fuchka",
+    "name": "Fuchka",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 3,
+    "short_description": "Panipuri is a street snack that is extremely popular in India, Bangladesh, Pakistan, and Nepal. Small in size, it consists of a hollow puri that is fried until crispy, then stuffed with a combination ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b01fa4c9920d42df9ef472fd4f8e6fda.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Semolina",
+      "Maida Flour",
+      "Potatoes",
+      "Chickpeas",
+      "Onion",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "keema",
+    "name": "Keema",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 4,
+    "short_description": "Keema is a stew that is usually prepared as a curry with ingredients such as minced lamb or chicken meat, green peas, ginger-garlic paste, chili, onions, ghee, and garam masala spices. The name of the...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/aed15b96c6384aef89ce3cefd4e6196d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Mutton",
+      "Ground Chicken",
+      "Green Peas",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sandesh",
+    "name": "Sandesh",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Sandesh is a traditional sweet originating from the Bengal region of the Indian subcontinent. It is typically served as a dessert and consists of milk, chhena or paneer, sugar, and flavorings such as ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2e24738e7ac843adbe7a1fa253449af7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Paneer",
+      "Chhena",
+      "Milk",
+      "Lemon Juice",
+      "Sugar",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_tikka_murgh_tikka",
+    "name": "Chicken tikka (Murgh tikka)",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 6,
+    "short_description": "Murgh tikka is a popular Indian dish made from marinated chicken pieces that are grilled or roasted to perfection. The word \"murgh\" means chicken in Hindi and Urdu, and \"tikka\" refers to small, bonele...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/65f2c860243f480bb0d2f1875d0f72f3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Red Chilli Powder",
+      "Ginger-garlic paste",
+      "Turmeric",
+      "Cumin",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paratha",
+    "name": "Paratha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 7,
+    "short_description": "Golden-brown in color, flaky and layered, paratha is a type of Indian bread that is typically consumed for breakfast. The name comes from a combination of words parat and atta (flour), referring to th...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7053f1036e63478db68ce8ba7583b39e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "papad",
+    "name": "Papad",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 8,
+    "short_description": "Papadum is an Indian snack made with either gram, rice, or chickpea flour that is baked into a thin, crispy cracker bread. It can be consumed on its own, with pickles, or served with other dishes such...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/824335caa36140c6ae24be176b2d2a5e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice Flour",
+      "Chickpea Flour",
+      "Gram Flour",
+      "Cumin Seeds",
+      "Asafoetida",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "beguni",
+    "name": "Beguni",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 9,
+    "short_description": "Beguni is a simple dish consists of deep-fried eggplant slices. The variations may include dipping the slices in batter or coating them with various combination of gram flour and spices. The batter is...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/68da22bdc28d42529d86b05988bc41bc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggplant",
+      "Gram Flour",
+      "Turmeric",
+      "Rice Flour",
+      "Red Chilli Powder",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhorta",
+    "name": "Bhorta",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 10,
+    "short_description": "Bhortas or bhartas are a group of dishes mainly associated with Bangladesh. The group encompasses various combinations of mashed herbs, vegetables, or fish whose base typically combines mustard oil, g...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0b325cd0cd244541be20a0c5e6a32e62.jpg?mw=660",
+    "most_iconic_place": "Kutum Bari",
+    "most_iconic_location": "Sreemangal",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chomchom",
+    "name": "Chomchom",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 11,
+    "short_description": "Chomchom is a traditional sweet from Bangladesh consisting of milk that is cooked in sugar syrup. It is often flavored with lemon juice and cardamom powder. The sweet treat can be served in a few diff...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/71830fdcfe614079b990fc8672603e6b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tangail",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Vinegar",
+      "Lemon Juice",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chotpoti",
+    "name": "Chotpoti",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 12,
+    "short_description": "This traditional Bengali dish consists of chickpeas and diced potatoes that are served in a tamarind-based sauce. Typical additions also include onions, boiled eggs, sliced green chili peppers, and fr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/77b06bb8d756468c8f82dc5832a403af.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chickpeas",
+      "Potatoes",
+      "Eggs",
+      "Onion",
+      "Cucumber",
+      "Chaat masala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ilish_macher_paturi",
+    "name": "Ilish macher paturi",
+    "local_name": null,
+    "category": "FRESHWATER FISH DISH",
+    "rank": 13,
+    "short_description": "Ilish macher paturi is the national dish of Bangladesh. It is made with ilish fish that has been marinated with ground spices before it's wrapped in banana leaves and steamed or roasted. The ingredien...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0c63b3e1d0344772a37f7b88f4f927da.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ilish",
+      "Mustard Seeds",
+      "Black Mustard Seeds",
+      "Hot Peppers",
+      "Turmeric",
+      "Mustard Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "haleem",
+    "name": "Haleem",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 14,
+    "short_description": "A staple during the month of Ramadan in numerous Middle Eastern countries is a plate of jareesh, a satisfying meal which combines coarse wheat and meat. This centuries-old dish probably originated in ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03df132180744560921a1b481675e559.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "jhalmuri",
+    "name": "Jhalmuri",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 15,
+    "short_description": "Jhalmuri is a popular snack from Bangladesh and India prepared by simply tossing the selected ingredients together. A simple translation of the name reveals what it’s all about; jahl means spicy, and ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d613f21d50184b45a9a763dafc4f3e8b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Puffed Rice",
+      "Potatoes",
+      "Onion",
+      "Tomato",
+      "Cucumber",
+      "Peanuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "panta_ilish",
+    "name": "Panta ilish",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 16,
+    "short_description": "Panta ilish is a dish from Bangladesh that combines a bowl of panta bhat—cooked and soaked rice—with fried ilish fish. The combination is traditionally enjoyed in urban areas, and it has become a stap...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/38c0db0f2c4f466f9ad7b62a6d054067.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ilish",
+      "Rice",
+      "Turmeric",
+      "Mustard Oil",
+      "Onion",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "panta_bhat",
+    "name": "Panta bhat",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 17,
+    "short_description": "Panta bhat is a simple rice dish prepared by first cooking the rice, rinsing it, and then soaking it in water overnight. The dish is rich in minerals, and it is believed to have health-beneficial effe...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0bbddbf184e54067848e631f1f95f64e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Hot Peppers",
+      "Onion",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jilapi",
+    "name": "Jilapi",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 18,
+    "short_description": "Zulbia is a sweet confection prepared by deep-frying thin coils of fermented batter and then soaking them in a fragrant sugar syrup. Although it is believed to have its origins in Persia, zulbia or ja...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/85dca6a42c8948f6a861fba0a5442c8f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Ghee",
+      "Yogurt",
+      "Yeast",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shami_kabab",
+    "name": "Shami kabab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 19,
+    "short_description": "Shami kebab is a variety of kebab made by combining minced lamb, mutton, beef or chicken with split bengal grams, onions, chilis, ginger, garlic, and various herbs and spices such as cumin, red chili ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ea0e277841e14f01b852d23fc664d234.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Mutton",
+      "Ground Beef",
+      "Ground Chicken",
+      "Bengal Gram",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "macher_jhol",
+    "name": "Macher jhol",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 20,
+    "short_description": "Macher jhol is a Bengali and Odia spicy fish stew, similar to curry. It consists of chunks or slices of fish that are slowly simmered in a flavorful broth that is usually enriched with onions, turmeri...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ea41a91386e645e889a74867f059eca5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ilish",
+      "Rohu",
+      "Catla",
+      "Potatoes",
+      "Tomato",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shorshe_ilish",
+    "name": "Shorshe ilish",
+    "local_name": null,
+    "category": "FRESHWATER FISH DISH",
+    "rank": 21,
+    "short_description": "Shorshe ilish is a traditional dish that employs ilish fish as its star ingredient. Sliced ilish is slowly simmered in a thick broth consisting of ground mustard seeds and green chili peppers, as well...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4e8aa644e30b42fa81d2cfc63cef1e0a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ilish",
+      "Mustard Seeds",
+      "Poppy Seeds",
+      "Hot Peppers",
+      "Turmeric",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bakarkhani",
+    "name": "Bakarkhani",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 22,
+    "short_description": "Bakarkhani is a popular Mughlai flatbread made from maida flour combined with semolina, sugar, ghee, cardamom, and almonds. The dough is traditionally baked in a tandoor oven, and the bread is often s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5febb90e2cf8407b874aaa7f74539da7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Dhaka",
+    "ingredients": [
+      "Maida Flour",
+      "Semolina",
+      "Ghee",
+      "Cardamom",
+      "Yeast",
+      "Almonds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "handesh",
+    "name": "Handesh",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 23,
+    "short_description": "Handesh is a traditional dessert originating from Sylhet region of Bangladesh and the Indian state of Assam. It’s usually made with a combination of rice flour, wheat flour, molasses, sugar, and veget...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/40ed388130c2473985fa41144c0f427e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Sylhet Division",
+    "ingredients": [
+      "Rice Flour",
+      "Wheat Flour",
+      "Date Molasses",
+      "Sugar",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  }
+]

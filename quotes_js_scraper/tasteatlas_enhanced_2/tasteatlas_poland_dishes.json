@@ -1,0 +1,437 @@
+[
+  {
+    "id": "polish_doughnuts_pączki",
+    "name": "Polish doughnuts (Pączki)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 1,
+    "short_description": "Indulge in the rich, fluffy delight of pączki, Poland's beloved yeast-leavened doughnuts. Filled with sweet fruit preserves or cream and dusted with powdered sugar, they offer a taste of tradition in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7d4e43fd796b4c23a16b4556c6657092.jpg?mw=660",
+    "most_iconic_place": "Pączkarnia",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Sugar",
+      "Yeast",
+      "Butter",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pierogi",
+    "name": "Pierogi",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 2,
+    "short_description": "Originating as a humble peasant dish, these tender dumplings are filled with a savory mix of twaróg, pork, and potatoes. Each bite offers a delightful blend of flavors, showcasing Poland's rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/11be2ebc03d342df8ede1510e1057ecc.jpg?mw=660",
+    "most_iconic_place": "Na Winklu",
+    "most_iconic_location": "Poznań",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Twaróg",
+      "Pork",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gołąbki",
+    "name": "Gołąbki",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 3,
+    "short_description": "Cabbage leaves cradle a savory mix of minced meat and rice, simmered in a rich mushroom or tomato sauce. A beloved Polish comfort food, Gołąbki embodies home-cooked warmth and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/79d86488ac36487e949b294921baf72d.jpg?mw=660",
+    "most_iconic_place": "Jacobsen",
+    "most_iconic_location": "Gdańsk",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sernik",
+    "name": "Sernik",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 4,
+    "short_description": "A beloved Polish cheesecake, Sernik delights with its creamy twaróg curd, buttery richness, and hints of vanilla. Rooted in Christian and Jewish traditions, it offers a taste of history in every slice.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/476aec0126ea488fbfb5b6e5c79cf77d.jpg?mw=660",
+    "most_iconic_place": "Bardzo",
+    "most_iconic_location": "Poznań",
+    "ingredients": [
+      "Twaróg",
+      "Butter",
+      "Sugar",
+      "Eggs",
+      "Vanilla",
+      "Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "babka",
+    "name": "Babka",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 5,
+    "short_description": "A beloved Polish tradition, this sweet, rich bread features layers of buttery dough swirled with raisins and hints of rum. Perfectly baked for Easter, it delights with its irresistible aroma and flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/338035413a404f60873819e4c5b44865.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Yeast",
+      "Butter",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "klopsiki",
+    "name": "Klopsiki",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 6,
+    "short_description": "Traditional Polish klopsiki showcase a delightful blend of beef and pork, enriched with sautéed onions and buttery goodness. These tender meatballs, often served with rich gravy, embody comfort food at its finest.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f65e2f19fcf949f1b4bd03bad9b64d6f.jpg?mw=660",
+    "most_iconic_place": "Bar Mleczny Leniwa Baba",
+    "most_iconic_location": "Gdynia",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Butter",
+      "Eggs",
+      "Breadcrumbs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gulasz",
+    "name": "Gulasz",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 7,
+    "short_description": "Savor the rich flavors of Poland with a hearty gulasz, where tender beef or pork simmers in a paprika-infused broth. This traditional stew warms the soul, embodying the comfort of Slavic cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b308b38e721443a996025b5b82bc399d.jpg?mw=660",
+    "most_iconic_place": "Kuchnia u Doroty",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Paprika",
+      "Onion",
+      "Black Pepper",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "golonka",
+    "name": "Golonka",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 8,
+    "short_description": "Originating from Poland, tender pork hock shines in golonka, where it's seared and slow-cooked in a rich blend of beer, honey, and Dijon mustard, delivering a savory, aromatic experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7e1a62fc3b3c4b9ebf94ad006f4bf9d7.jpg?mw=660",
+    "most_iconic_place": "Starka",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Pork",
+      "Beer",
+      "Honey",
+      "Dijon mustard",
+      "Rosemary",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "szarlotka",
+    "name": "Szarlotka",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 9,
+    "short_description": "A beloved Polish dessert, szarlotka features tender apples spiced with cinnamon, nestled in a buttery shortcrust pastry. Each slice offers a warm embrace of tradition and comfort.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5ba2d6cc1f7645dba77fb1c28795bb00.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "rosół",
+    "name": "Rosół",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 10,
+    "short_description": "Savor the warmth of Poland with comforting rosół, a rich meat soup brimming with tender chicken, hearty noodles, and aromatic vegetables. A staple of Polish cuisine, it’s often enjoyed as a nurturing family dish.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a44d84ac654d4388a190843d4e992884.jpg?mw=660",
+    "most_iconic_place": "Pastela",
+    "most_iconic_location": "Poznań",
+    "ingredients": [
+      "Chicken",
+      "Noodles",
+      "Carrot",
+      "Onion",
+      "Garlic",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zapiekanka",
+    "name": "Zapiekanka",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 11,
+    "short_description": "Originating from the streets of Poland, this open-faced baguette is generously topped with sautéed onions, earthy mushrooms, and melted Edam and Gouda, delivering a warm, savory delight in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/78e421d6dee74675bee50be5925f6686.jpg?mw=660",
+    "most_iconic_place": "Endzior",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Baguette",
+      "Onion",
+      "Mushrooms",
+      "Edam Holland",
+      "Gouda",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mazurek",
+    "name": "Mazurek",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 12,
+    "short_description": "A beloved Polish Easter treat, Mazurek features a delightfully flat base topped with a colorful array of jams, nuts, and icing. Its rich flavors and festive decorations make it a true seasonal favorite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eeda0cdcb03c4212a5b9e79d4443c31c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "ryba_po_grecku",
+    "name": "Ryba po grecku",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 13,
+    "short_description": "Originating from Poland, this delightful dish features a medley of fresh fish fillets, lightly battered and fried, then layered with a tangy tomato and vegetable sauce, offering a burst of savory flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/81286fd0b0a64175a2bd83f11361c425.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Haddock",
+      "Pike",
+      "Tilapia",
+      "Cod",
+      "Perch",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "żurek",
+    "name": "Żurek",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 14,
+    "short_description": "Rich and tangy, this Polish classic features a hearty blend of fermented rye, smoky bacon, savory kielbasa, and tender potatoes, all topped with a perfectly cooked egg. A comforting taste of tradition in every bowl!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/db261d61a3984a8dbcacf51b03e74c87.jpg?mw=660",
+    "most_iconic_place": "Żurownia",
+    "most_iconic_location": "Katowice",
+    "ingredients": [
+      "Bacon",
+      "Kielbasa",
+      "Eggs",
+      "rye flour",
+      "Potatoes",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bigos",
+    "name": "Bigos",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Hearty and comforting, this traditional Polish hunter's stew combines tender pork, savory kielbasa, and tangy sauerkraut, simmered to perfection with smoky bacon and earthy potatoes. A true culinary treasure!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fa1972d3cac4488c9ec72a5b58f62fab.jpg?mw=660",
+    "most_iconic_place": "Polakowski",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Pork",
+      "Sauerkraut",
+      "Potatoes",
+      "Bacon",
+      "Kielbasa",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pasztet",
+    "name": "Pasztet",
+    "local_name": null,
+    "category": "PÂTÉ",
+    "rank": 16,
+    "short_description": "Rich and savory, this traditional Polish pâté combines beef, pork, and offal with aromatic onion and celery. Perfect for festive celebrations, it offers a delightful depth of flavor and a smooth texture.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f6d19d8b72f8428aa44773eef31d9f86.jpg?mw=660",
+    "most_iconic_place": "Hawełka",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Offal",
+      "Onion",
+      "Celery",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "smalec",
+    "name": "Smalec",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 17,
+    "short_description": "Originating from Poland, this rustic spread combines rich rendered pork fat with sautéed onions, sweet apples, and prunes, delivering a savory-sweet flavor that warms the soul. Enjoy it on crusty bread for a hearty taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3eff6a96e3ee451eb0ab40470a845c96.jpg?mw=660",
+    "most_iconic_place": "Stary Dom",
+    "most_iconic_location": "Warsaw",
+    "ingredients": [
+      "Pork Fat",
+      "Onion",
+      "Apples",
+      "Prunes",
+      "Garlic",
+      "Marjoram"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zupa_pomidorowa",
+    "name": "Zupa pomidorowa",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 18,
+    "short_description": "A staple of Polish cuisine, this vibrant tomato soup combines fresh tomatoes, aromatic garlic, and a hint of sweetness from carrots and celery. Savory broth enriches each spoonful with comfort and warmth.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9c79ba9a2b6c4f7d94e83a6932461783.jpg?mw=660",
+    "most_iconic_place": "Bar Bambino",
+    "most_iconic_location": "Warsaw",
+    "ingredients": [
+      "Tomato",
+      "Carrot",
+      "Celery",
+      "Stock",
+      "Garlic",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zrazy",
+    "name": "Zrazy",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 19,
+    "short_description": "Originating from Poland, zrazy features tender pounded cutlets stuffed with a savory mix of mushrooms, onions, and spices. Braised to perfection, each bite bursts with rich, comforting flavors.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e811a211895549ef918fcdded4091cea.jpg?mw=660",
+    "most_iconic_place": "U Kucharzy",
+    "most_iconic_location": "Warsaw",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kotlet_schabowy",
+    "name": "Kotlet schabowy",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 20,
+    "short_description": "A beloved staple of Polish cuisine, this breaded pork cutlet is tender and juicy, seasoned with black pepper, and fried to golden perfection. It's a comforting dish that captures the heart of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7c83f24ab48449c2a6f70784285b8e3f.jpg?mw=660",
+    "most_iconic_place": "Schabowy",
+    "most_iconic_location": "Warsaw",
+    "ingredients": [
+      "Pork",
+      "Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "placki_ziemniaczane",
+    "name": "Placki ziemniaczane",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 21,
+    "short_description": "Crispy on the outside and tender inside, these traditional Polish potato pancakes blend grated potatoes and onions, pan-fried to golden perfection. A beloved comfort food, they evoke warm memories of family meals.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d31bd5094927424d9a25b37da3d81da5.jpg?mw=660",
+    "most_iconic_place": "U Babci Maliny",
+    "most_iconic_location": "Kraków",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "piernik",
+    "name": "Piernik",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 22,
+    "short_description": "A beloved Polish Christmas treat, this honey-spice cake delights with warm flavors of ginger, cinnamon, and cloves. Often adorned with a rich glaze or nuts, it embodies festive cheer and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7fd0fba7de664f9e88dd9b66cd7e510b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Toruń",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mizeria",
+    "name": "Mizeria",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 23,
+    "short_description": "Originating from Poland, this refreshing salad features thinly sliced cucumbers tossed in creamy sour cream and a sprinkle of dill. A perfect balance of tangy and cool, mizeria is a beloved summer staple.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2609f2338b8e49fabb5710d611ef04e6.jpg?mw=660",
+    "most_iconic_place": "Bar Turystyczny",
+    "most_iconic_location": "Gdańsk",
+    "ingredients": [
+      "Cucumber",
+      "Sour Cream",
+      "Dill"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "flaki",
+    "name": "Flaki",
+    "local_name": null,
+    "category": "OFFAL SOUP",
+    "rank": 24,
+    "short_description": "Rich and hearty, this Polish tripe soup blends tender offal with earthy carrots, celery, and parsley root, creating a comforting dish often enjoyed at weddings. A flavorful bowl of tradition!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/924a08797cbc41fb8b8c4840bd832e7e.jpg?mw=660",
+    "most_iconic_place": "Karakter",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Offal",
+      "Carrot",
+      "Celery",
+      "Parsley Root",
+      "Stock",
+      "Marjoram"
+    ],
+    "is_active": true
+  }
+]

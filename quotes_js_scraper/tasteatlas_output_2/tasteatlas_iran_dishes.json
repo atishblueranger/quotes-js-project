@@ -1,0 +1,421 @@
+[
+  {
+    "id": "biryani",
+    "name": "Biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Biryani is a group of classic rice dishes dating back to the Mughal Empire. It combines long-grain rice, usually basmati, with marinated meat, seafood, or vegetables, all cooked together with spices s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8fd2297171484b88be3e3e6815979690.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pilaf",
+    "name": "Pilaf",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "Pilaf is a rice-based dish prepared by cooking grains in seasoned broth, often combined with meat, vegetables, or dried fruits. Its origins are linked to ancient Persia, from where the method spread w...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/49a441aab7b34bc799bd0f4030429c73.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kuku",
+    "name": "Kuku",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 3,
+    "short_description": "Kuku is the universal term for a broad group of Iranian dishes that resemble a thick omelet. It is often compared to a frittata, but the ratio of filling to eggs is much higher, resulting in a dense, ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f6278cc497554c6c9a3b60a00eb7c0c8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chelo_kabab",
+    "name": "Chelo kabab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 4,
+    "short_description": "Chelo kebab is an Iranian dish that combines steamed saffron rice with skewered, grilled meat, most often ground lamb or beef, served alongside accompaniments such as grilled tomatoes, butter, and raw...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/57b0b25828454130af09ee4ac6d92e39.jpg?mw=660",
+    "most_iconic_place": "Alborz Restaurant",
+    "most_iconic_location": "Tehran",
+    "ingredients": [
+      "Basmati",
+      "Ground Beef",
+      "Ground Lamb",
+      "Onion",
+      "Tomato",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kabab_koobideh",
+    "name": "Kabab koobideh",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 5,
+    "short_description": "Kebab koobideh is a type of Iranian minced meat kebab prepared by combining ground lamb, beef, or a blend of both with grated onion and simple seasoning before shaping the mixture onto wide metal skew...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6cf4640bbc5244beb781a011508ad14a.jpg?mw=660",
+    "most_iconic_place": "Shamshiri Restaurant",
+    "most_iconic_location": "Tehran",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Lamb",
+      "Onion",
+      "Turmeric",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "halva",
+    "name": "Halva",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 6,
+    "short_description": "Halva is a category of dense, sweet desserts and confections with its earliest known origin in the medieval Persia. Initially referring to a range of sweet dishes made with dates, nuts, or flour, halv...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b9862131699649049e8e238fcbf7896e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "jujeh_kabab",
+    "name": "Jujeh kabab",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 7,
+    "short_description": "Jujeh kabab is an Iranian dish consisting of pieces of chicken marinated in a mixture of yogurt, onion, saffron, lemon juice, and mild spices before being grilled over hot coals until lightly charred ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c8451f20686247b5a06ccdb1f3fdf63a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Yogurt",
+      "Saffron",
+      "Lemon Juice",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "abgoosht",
+    "name": "Abgoosht",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 8,
+    "short_description": "Abgoosht is an Iranian dish known for combining meat, legumes, and vegetables into a slow-cooked stew. Its name translates literally as “meat juice,” highlighting the importance of the rich broth it p...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2def4f3aa290418ab116f34dcbdf8e1c.jpg?mw=660",
+    "most_iconic_place": "Azari",
+    "most_iconic_location": "Tehran",
+    "ingredients": [
+      "Mutton",
+      "Lamb",
+      "Chickpeas",
+      "White Beans",
+      "Potatoes",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khoresh",
+    "name": "Khoresh",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 9,
+    "short_description": "Khoresh is a Persian term describing a wide range of Iranian stews prepared by slowly simmering meat, vegetables, legumes, and aromatic spices into richly flavored dishes that are always served with r...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4b99b8ebdb1c42ac98055e9e7629dc21.jpg?mw=660",
+    "most_iconic_place": "Shahrzad Restaurant",
+    "most_iconic_location": "Isfahan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "khoresh_gheimeh",
+    "name": "Khoresh gheimeh",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "Khoresh gheimeh is an Iranian stew prepared with yellow split peas, diced meat, tomatoes, and dried limes, usually finished with a topping of fried potato sticks. Its name comes from the Persian word ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/00fa0d16fc40452b808c0fc660a3252e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Beef",
+      "Potatoes",
+      "Split Peas",
+      "Tomato Paste",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lavash",
+    "name": "Lavash",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 11,
+    "short_description": "Lavash is a traditional flatbread claimed by many food specialists to be Armenian in origin, but it is well-known and prepared throughout Western Asia (most noteably Iran and Türkiye) and the Caucasus...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e187e389c5344e0695f9bc24f25d6bac.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Yeast",
+      "Milk",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zulbia",
+    "name": "Zulbia",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 12,
+    "short_description": "Zulbia is a sweet confection prepared by deep-frying thin coils of fermented batter and then soaking them in a fragrant sugar syrup. Although it is believed to have its origins in Persia, zulbia or ja...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/85dca6a42c8948f6a861fba0a5442c8f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Ghee",
+      "Yogurt",
+      "Yeast",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ash",
+    "name": "Ash",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 13,
+    "short_description": "Ash is a category of thick, hearty soups and stews from Iran and Afghanistan that are prepared with a combination of noodles, vegetables, fresh herbs, and grains. Ash is often considered a cornerstone...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c4f7b4f20e88479c86381f1b79a3e555.jpg?mw=660",
+    "most_iconic_place": "Abbasi Teahouse & Traditional Restaurant",
+    "most_iconic_location": "Isfahan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "ghormeh_sabzi",
+    "name": "Ghormeh sabzi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 14,
+    "short_description": "Ghormeh sabzi is an Iranian herb stew that has become one of the country’s most widely prepared and recognized dishes, appreciated for its complex flavor that combines aromatic greens, tender meat, an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b937783340484cdd9a02639a4e64ef39.jpg?mw=660",
+    "most_iconic_place": "Zamin Vegan & Vegetarian Restaurant",
+    "most_iconic_location": "Tehran",
+    "ingredients": [
+      "Lamb",
+      "Beef",
+      "Onion",
+      "Kidney Beans",
+      "Black lemon",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kateh",
+    "name": "Kateh",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 15,
+    "short_description": "Kateh is an Iranian style of rice preparation that is simpler and faster than the elaborate steamed chelo, known for yielding a soft, cohesive texture with a slightly sticky consistency. This method i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/60894d73a8e34a9ca0dbfdf135e11c4e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Gilan Province",
+    "ingredients": [
+      "Basmati",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zereshk_polow",
+    "name": "Zereshk polow",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 16,
+    "short_description": "Zereshk polow is an Iranian rice dish that features tart red barberries layered with saffron-infused rice and often served with pieces of braised or roasted chicken. The name translates directly as “b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/054805fd42f84786a600965d872a1fb1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Basmati",
+      "Saffron",
+      "Vegetable Oil",
+      "Butter",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bastani_sonnati",
+    "name": "Bastani sonnati",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 17,
+    "short_description": "Bastani sonnati is a unique saffron-infused Iranian ice cream that was invented at the beginning of the 20th century by Akbar Mashti, the first ice cream vendor in Tehran. The name “bastani sonnati” m...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/48a8c91e8a94429f943105921a3b6360.jpg?mw=660",
+    "most_iconic_place": "Mansour Ice Cream",
+    "most_iconic_location": "Tehran",
+    "ingredients": [
+      "Salep",
+      "Eggs",
+      "Saffron",
+      "Pistachios",
+      "Cardamom",
+      "Rose Water"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kabab_barg",
+    "name": "Kabab barg",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 18,
+    "short_description": "Kabab barg is an Iranian dish consisting of thin slices of marinated lamb or beef, carefully skewered and grilled over hot coals to achieve a tender, juicy texture with a lightly charred exterior. Its...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/158b62ab83724617a6dad392e5f79ff3.jpg?mw=660",
+    "most_iconic_place": "Nayeb Vozara",
+    "most_iconic_location": "Tehran",
+    "ingredients": [
+      "Lamb",
+      "Beef",
+      "Yogurt",
+      "Onion",
+      "Garlic",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tahchin",
+    "name": "Tahchin",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 19,
+    "short_description": "Tahchin is an Iranian dish that combines fragrant rice with saffron, yogurt, eggs, and pieces of chicken or other fillings, baked together until it forms a golden crust. Its name means “arranged at th...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d937870a9fbd473fa13916a427d7492f.jpg?mw=660",
+    "most_iconic_place": "Moslem Restaurant",
+    "most_iconic_location": "Tehran",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sholeh_zard",
+    "name": "Sholeh zard",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 20,
+    "short_description": "Sholeh zard is a Persian rice pudding known for its vivid golden color and aromatic combination of saffron, rosewater, and cardamom. This dessert is closely associated with Iran, where it is often pre...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/38ec2f3c0d8449e08acdf6bd69e4a983.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Saffron",
+      "Almonds",
+      "Butter",
+      "Rose Water",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "morgh_e_shekam_por",
+    "name": "Morgh-e shekam por",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 21,
+    "short_description": "Morgh-e shekam por is an Iranian dish that consists of a whole chicken stuffed with a richly seasoned mixture of rice, dried fruits, nuts, and aromatic herbs. Its name translates to “stuffed chicken,”...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f90c0ee970bb4450a3cead1de31c5c9d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Almonds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kashk_e_bademjan",
+    "name": "Kashk-e bademjan",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 22,
+    "short_description": "Kashk-e bademjan is an Iranian dish that brings together mashed roasted eggplant with kashk, a fermented dairy product similar to whey, seasoned with fried onions, garlic, and aromatic spices. It orig...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bea238add0dc4386a4cef6a15fb4855f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggplant",
+      "Onion",
+      "Kashk",
+      "Garlic",
+      "Turmeric",
+      "Mint"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sabzi_khordan",
+    "name": "Sabzi khordan",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 23,
+    "short_description": "Sabzi khordan is an assortment of fresh herbs and raw vegetables that comes from Iran and plays an essential role in Persian meals. Rather than being a dish with cooking steps, it is a carefully arran...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/201a2ea22dd84566b5aa446e936227a9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Radish",
+      "Scallions",
+      "Basil",
+      "Mint",
+      "Dill",
+      "Tarragon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tahdig",
+    "name": "Tahdig",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 24,
+    "short_description": "Tahdig is a distinctive technique of Persian cuisine that refers to the crisp, golden crust formed at the bottom of the pot when cooking rice. It comes from Iran, where rice cookery is regarded as bot...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d8902c84d75549e09cd7cf7d4d788750.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

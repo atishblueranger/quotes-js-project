@@ -1,0 +1,478 @@
+[
+  {
+    "id": "lavash",
+    "name": "Lavash",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 1,
+    "short_description": "Delicate and soft, this traditional flatbread is a staple across the Caucasus and Western Asia. Baked in a tandoor, it boasts a slightly smoky flavor, perfect for wrapping savory meats or dips.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e187e389c5344e0695f9bc24f25d6bac.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Yeast",
+      "Milk",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "qutab",
+    "name": "Qutab",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 2,
+    "short_description": "Originating from Azerbaijan, qutab features delicate, paper-thin dough stuffed with savory ground lamb, fresh parsley, and eggs. Baked in a saj, it offers a delightful blend of flavors and textures.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1a069f45c8c1495eb3bbd9e630a0f10f.jpg?mw=660",
+    "most_iconic_place": "Shirvanshah Museum Restaurant",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Wheat Flour",
+      "Vegetable Oil",
+      "Ground Lamb",
+      "Eggs",
+      "Parsley",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yarpaq_dolması",
+    "name": "Yarpaq dolması",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 3,
+    "short_description": "Azerbaijan's national treasure features tender grape leaves wrapped around a savory blend of ground lamb, beef, and fragrant herbs. Each bite bursts with rich flavors, showcasing the country's culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/47d748246fc24dd692592360d18dfe80.jpg?mw=660",
+    "most_iconic_place": "Mugam Club",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Grape Leaves",
+      "Ground Lamb",
+      "Ground Beef",
+      "Rice",
+      "Onion",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lyulya_kebab",
+    "name": "Lyulya kebab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 4,
+    "short_description": "Originating from Azerbaijan, lyulya kebab features succulent ground lamb infused with aromatic onions, parsley, paprika, and cumin. Grilled to perfection, it offers a savory, smoky delight that embodies the region's rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/582c366d8d914eb2b345b25731e03b03.jpg?mw=660",
+    "most_iconic_place": "Mugam Club",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Ground Lamb",
+      "Onion",
+      "Parsley",
+      "Paprika",
+      "Cumin",
+      "Garlic Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "samanu",
+    "name": "Samanu",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 5,
+    "short_description": "A cherished dessert of Azerbaijan, Samanu features a luscious blend of wheat berries, creating a sweet, creamy pudding. Traditionally enjoyed during Nowruz, it symbolizes abundance and renewal.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f57a2a9d71384fc6b37cf28eb46b671d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Berries",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "soyutma",
+    "name": "Soyutma",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 6,
+    "short_description": "Azerbaijan's national treasure, soyutma, features tender lamb or chicken slow-cooked with aromatic onions, turmeric, and saffron, creating a rich, flavorful experience that embodies traditional culinary artistry.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e922629ef1f047379b4c9b98d30e578a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Chicken",
+      "Onion",
+      "Turmeric",
+      "Saffron",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dovga",
+    "name": "Dovga",
+    "local_name": null,
+    "category": "COLD SOUP",
+    "rank": 7,
+    "short_description": "Azerbaijan's beloved national dish, Dovga, combines creamy yogurt with fresh herbs like dill and mint, creating a refreshing cold soup. Lightly cooked with rice and spinach, it’s perfect for summer.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0a7ea2b56972453e8f570a21e172cd37.jpg?mw=660",
+    "most_iconic_place": "Mugam Club",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Yogurt",
+      "Rice",
+      "Wheat Flour",
+      "Eggs",
+      "Spinach",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zulbiya",
+    "name": "Zulbiya",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 8,
+    "short_description": "Delicate coils of fermented batter are deep-fried to a golden crisp and soaked in aromatic sugar syrup, creating a sweet, irresistible treat cherished across Azerbaijan and beyond.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/85dca6a42c8948f6a861fba0a5442c8f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Ghee",
+      "Yogurt",
+      "Yeast",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "baliq_kebab",
+    "name": "Baliq kebab",
+    "local_name": null,
+    "category": "FRESHWATER FISH DISH",
+    "rank": 9,
+    "short_description": "Azerbaijan's baliq kebab features succulent sturgeon, marinated in lemon juice and dill, then grilled to perfection. This savory delicacy captures the essence of Caspian Sea flavors.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/201a4e4b511f421ab7e91a5ea5006d0c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sturgeon",
+      "Dill",
+      "Lemon Juice",
+      "Onion",
+      "Sunflower Oil",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "badambura",
+    "name": "Badambura",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 10,
+    "short_description": "Flaky layers of dough envelop a sweet filling of almonds and fragrant cardamom in this traditional Azerbaijani pastry. Baked to golden perfection, Badambura delights with its rich, nutty flavors.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2c96afe4ac6c46e5ac3dd6650880326d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Almonds",
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Yeast"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "domates_dolmasi",
+    "name": "Domates dolmasi",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 11,
+    "short_description": "Stuffed tomatoes, a beloved staple in Azerbaijani cuisine, fill with savory ground lamb, fragrant rice, and aromatic herbs. Baked to perfection, they offer a delightful burst of flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1219c0c20bb84aec9f35c073da539c32.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tomato",
+      "Ground Lamb",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shah_pilaf",
+    "name": "Shah pilaf",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 12,
+    "short_description": "Azerbaijan's crown pilaf delights with fragrant basmati rice layered with sweet prunes, rich chestnuts, and plump raisins, creating a festive dish that's perfect for weddings or special occasions.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/71440b3e8521401ebd50427c5e29952b.jpg?mw=660",
+    "most_iconic_place": "Shirvanshah Museum Restaurant",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Basmati",
+      "Prunes",
+      "Chestnuts",
+      "Raisins",
+      "Onion",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shaki_piti",
+    "name": "Shaki piti",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 13,
+    "short_description": "Originating from Sheki, Shaki piti is a vibrant stew that combines tender lamb and mutton with chickpeas, sweet plums, and earthy chestnuts, simmered to perfection for a rich, comforting flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/488aca4ea0754e8a8980f11a5bde77c2.jpg?mw=660",
+    "most_iconic_place": "Restoran Qaqarin",
+    "most_iconic_location": "Shaki",
+    "ingredients": [
+      "Lamb",
+      "Mutton",
+      "Chickpeas",
+      "Chestnuts",
+      "Plums",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "çoban_salatası",
+    "name": "Çoban salatası",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 14,
+    "short_description": "Azerbaijan's vibrant Çoban salatası bursts with the freshness of ripe tomatoes, crunchy cucumbers, and zesty onions, all drizzled with lemon. This traditional summer salad embodies the country’s love for simple, wholesome flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3cd84f66f49048048ad0ccd9ba993672.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Bell Pepper",
+      "Lemon",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "buglama",
+    "name": "Buglama",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Tender lamb simmers with vibrant bell peppers, onions, and tomatoes in this beloved Azerbaijani stew. Infused with aromatic spices, it offers a warm, comforting taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7b7e08fbd55c48a09dafd32afb4c7e83.jpg?mw=660",
+    "most_iconic_place": "Sehrli Tandir",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Lamb",
+      "Bell Pepper",
+      "Onion",
+      "Tomato",
+      "Hot Peppers",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "narsharab",
+    "name": "Narsharab",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 16,
+    "short_description": "Originating from Azerbaijan, this rich sauce bursts with the tang of pomegranate, balanced by sweet sugar and earthy spices like basil and cinnamon. Perfect for drizzling over meats or salads, it elevates every dish.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/606952dc94954dfc8bdc5c9bb94f282c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pomegranate",
+      "Sugar",
+      "Basil",
+      "Cinnamon",
+      "Coriander",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tava_kebab",
+    "name": "Tava kebab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 17,
+    "short_description": "Azerbaijan’s Tava kebab combines ground lamb and beef with aromatic herbs, onions, and eggs, all baked to perfection. Each bite offers a savory, hearty flavor, showcasing the region's rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/38930faf52af43b78369d6f6ba879502.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Eggs",
+      "Onion",
+      "Eggplant",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dushbara",
+    "name": "Dushbara",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 18,
+    "short_description": "Savory meat-filled dumplings simmer in a rich lamb broth, capturing the heart of Azerbaijani cuisine. Each bite melds tender beef and lamb with aromatic onions, showcasing a cherished culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0e05f33efa394585824c9fb921fa681d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Lamb",
+      "Wheat Flour",
+      "Onion",
+      "Eggs",
+      "Lamb Stock"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "levengi",
+    "name": "Levengi",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 19,
+    "short_description": "Azerbaijani levengi captivates with its rich stuffing of walnuts, sweet raisins, and tangy cherry plums, all enhanced by aromatic spices. Perfectly complementing roasted meats, it embodies the country's culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/966601d8f08e4f43acf15389ad67c768.jpg?mw=660",
+    "most_iconic_place": "Khan Lankaran",
+    "most_iconic_location": "Lankaran",
+    "ingredients": [
+      "Onion",
+      "Walnuts",
+      "Raisins",
+      "Cherry Plums",
+      "Prunes",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shekarbura",
+    "name": "Shekarbura",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 20,
+    "short_description": "Delicate and buttery, this famous Azerbaijani pastry features a tender shell filled with a sweet blend of walnuts, hazelnuts, and almonds, embodying the country's rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b1f2870a324e481b9ee464336b218d83.jpg?mw=660",
+    "most_iconic_place": "Shirvanshah Museum Restaurant",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Walnuts",
+      "Hazelnuts",
+      "Almonds",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "manqal_salatı",
+    "name": "Manqal salatı",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 21,
+    "short_description": "A refreshing summer staple from Azerbaijan, this vibrant salad features grilled eggplant, juicy tomatoes, and crisp bell peppers, all tossed with zesty hot peppers and onions for a delightful burst of flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fb87de0050564584bfb2ffdebe96706d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggplant",
+      "Tomato",
+      "Bell Pepper",
+      "Hot Peppers",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kufta_bozbash",
+    "name": "Kufta bozbash",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 22,
+    "short_description": "Azerbaijan's culinary treasure, this hearty meatball soup features succulent lamb and beef köfte infused with aromatic onions and dried mint, simmered with tart cherry plums for a delightful tang.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4dcf5b34023a4a2cbba343813fc35f3d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Onion",
+      "Rice",
+      "Cherry Plums",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shirin_plov",
+    "name": "Shirin plov",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 23,
+    "short_description": "Azerbaijan’s shirin plov captures the essence of its rich culture, combining fragrant basmati rice with buttery saffron, sweet apricots, and plump raisins for a delightful harmony of flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f799e54cd8540cdb46b78c513b8b82b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Basmati",
+      "Butter",
+      "Saffron",
+      "Apricot",
+      "Raisins",
+      "Chestnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "guru_khingal",
+    "name": "Guru khingal",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 24,
+    "short_description": "Originating from Azerbaijan, this savory delight features a rich blend of ground lamb and beef sautéed with onions and garlic, all beautifully enveloped in creamy yogurt and buttery goodness.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2db77cebd2644f3d986357c5d26c30c7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Onion",
+      "Butter",
+      "Yogurt",
+      "Garlic"
+    ],
+    "is_active": true
+  }
+]

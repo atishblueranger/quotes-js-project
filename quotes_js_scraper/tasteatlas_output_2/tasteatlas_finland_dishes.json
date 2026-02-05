@@ -1,0 +1,461 @@
+[
+  {
+    "id": "salmon_soup_lohikeitto",
+    "name": "Salmon soup (Lohikeitto)",
+    "local_name": null,
+    "category": "FISH SOUP",
+    "rank": 1,
+    "short_description": "Lohikeitto is a creamy Finish salmon soup, similar to laxsoppa in Sweden. Apart from chunks of salmon fillet, it traditionally incorporates diced potatoes and carrots cooked in a flavorful, buttery br...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/38e5693d7406474aa49c8e346430a9cb.jpg?mw=660",
+    "most_iconic_place": "Restaurant Sea Horse",
+    "most_iconic_location": "Helsinki",
+    "ingredients": [
+      "Salmon",
+      "Potatoes",
+      "Carrot",
+      "Leek",
+      "Butter",
+      "Dill"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "graavilohi",
+    "name": "Graavilohi",
+    "local_name": null,
+    "category": "SALMON DISH",
+    "rank": 2,
+    "short_description": "Gravlax is a Scandinavian dish consisting of raw, salt-cured salmon that is traditionally seasoned with dill. Originally, the dish was made by fishermen who used to bury the salt, sugar, and dill-rubb...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/18000a17cd68426d87d93eed4f290501.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Salmon",
+      "Salt",
+      "Dill",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_meatballs_lihapullat",
+    "name": "Finnish meatballs (Lihapullat)",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 3,
+    "short_description": "The crispy, golden Finnish meatballs are traditionally made with beef, with the occasional addition of ground pork. The meat is frequently seasoned with allspice and combined with a mixture of breadcr...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/287ac1d095ed4dc688d69e3caaf7b0a6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Onion",
+      "Eggs",
+      "Garlic",
+      "Breadcrumbs",
+      "Allspice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_doughnuts_munkki",
+    "name": "Finnish doughnuts (Munkki)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 4,
+    "short_description": "Munkki, translated as monks, are popular Finnish deep-fried doughnuts made with buttery, cardamom-flavored, leavened dough. They are usually shaped into round forms that are occasionally complemented ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/74dbee73c7f34503b610620746e14c2e.jpg?mw=660",
+    "most_iconic_place": "Pyynikin Munkkikahvila",
+    "most_iconic_location": "Tampere",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Cardamom",
+      "Yeast",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mämmi",
+    "name": "Mämmi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Similar to a porridge or a pudding, mämmi is a traditional dish prepared with a combination of rye flour, rye malt, and water. After it has been soaked, it is typically seasoned with dark molasses syr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5213ad8d28b1454d826fc8071080c180.jpg?mw=660",
+    "most_iconic_place": "Liberty or Death",
+    "most_iconic_location": "Helsinki",
+    "ingredients": [
+      "rye flour",
+      "Rye Malt",
+      "Orange Zest",
+      "Molasses",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rieska",
+    "name": "Rieska",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 6,
+    "short_description": "Rieska is a Finnish unleavened flatbread that has been prepared across the country since ancient times. At its simplest, the bread consists of flour, water, and salt, although the ingredients for its ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2162006ea71040fe9e04ca2eeac6eda9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern Finland",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "munavoi",
+    "name": "Munavoi",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 7,
+    "short_description": "Munavoi is a simple Finnish spread consisting of whipped butter combined with mashed hard-boiled eggs. Characterized by a unique coarse texture and a mild, buttery flavor, it is only lightly seasoned ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e29debc29f39464a915efb7111846acc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Butter",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_blueberry_pie_mustikkapiirakka",
+    "name": "Finnish blueberry pie (Mustikkapiirakka)",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 8,
+    "short_description": "Mustikkapiirakka is a traditional blueberry pie originating from Finland. The crust for the pie is usually made with a combination of flour, butter, sugar, eggs, and baking powder. The dough is presse...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/92563938ded0432fa754c8216e6c2ea5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Bilberries",
+      "Blueberries",
+      "Butter",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_fish_soup_kalakeitto",
+    "name": "Finnish fish soup (Kalakeitto)",
+    "local_name": null,
+    "category": "FISH SOUP",
+    "rank": 9,
+    "short_description": "Kalakeitto or fish soup has been a staple of traditional Finnish cuisine for a long time. Although there are numerous ways to prepare this classic Finnish specialty, it typically consists of cleaned a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4e2f55e4763a424c9f6f6ea892521c1f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Fish",
+      "Potatoes",
+      "Carrot",
+      "Onion",
+      "Butter",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_pea_soup_hernekeitto",
+    "name": "Finnish pea soup (Hernekeitto)",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 10,
+    "short_description": "Considered an essential part of the Finnish food culture, hernekeitto is a thick split pea soup cooked with pork that is traditionally prepared and served every Thursday throughout the country. Follow...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1a00c10c7aa74d6db8cefce590d3a742.jpg?mw=660",
+    "most_iconic_place": "Kaskis",
+    "most_iconic_location": "Turku",
+    "ingredients": [
+      "Split Peas",
+      "Wet-cured Ham",
+      "Onion",
+      "Marjoram",
+      "Cloves",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sautéed_reindeer_poronkäristys",
+    "name": "Sautéed reindeer (Poronkäristys)",
+    "local_name": null,
+    "category": "GAME DISH",
+    "rank": 11,
+    "short_description": "Poronkäristys is the traditional dish of Sámi people in Finland, Norway and Sweden, prepared by sautéing reindeer meat. The dish originates from the Arctic Lapland where the semi-nomadic, indigenous p...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4ebf1baa83914a87a142fea7402c7440.jpg?mw=660",
+    "most_iconic_place": "Lappi",
+    "most_iconic_location": "Helsinki",
+    "ingredients": [
+      "Reindeer",
+      "Onion",
+      "Garlic",
+      "Butter",
+      "Lager",
+      "Beef Stock"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rinkeli",
+    "name": "Rinkeli",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 12,
+    "short_description": "Originally a creation of Roman-Catholic monks, and now popular internationally, kringle is a delicious flaky pastry, usually shaped as a pretzel and filled with various ingredients. It was primarily i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4826475677a44a9bb991e4a8d89596ab.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "karelian_pasty_karjalanpiirakka",
+    "name": "Karelian pasty (Karjalanpiirakka)",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 13,
+    "short_description": "Karjalanpiirakka is a traditional pasty consisting of various fillings wrapped in a thin rye crust. It is traditionally formed into an oval shape, and the top is always left open to showcase the cream...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7395ea304a0b45e5ad569b49fedd5d2e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "North Karelia",
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Barley",
+      "Rice",
+      "Potatoes",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_blood_sausage_mustamakkara",
+    "name": "Finnish blood sausage (Mustamakkara)",
+    "local_name": null,
+    "category": "BLOOD SAUSAGE",
+    "rank": 14,
+    "short_description": "Mustamakkara is a blood sausage consisting of pig’s blood, pork meat and fat, crushed rye, and flour. Characterized by its dark color, juicy center, and a crisp casing, it comes in various sizes. Cons...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6b9e336bdf3e41fe97c362f222cc213f.jpg?mw=660",
+    "most_iconic_place": "Lielahden Mustamakkarabaari",
+    "most_iconic_location": "Tampere",
+    "ingredients": [
+      "Ground Pork",
+      "Lard",
+      "Pig’s Blood",
+      "Rye",
+      "rye flour",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kalakukko",
+    "name": "Kalakukko",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 15,
+    "short_description": "Familiar since the Middle Ages, kalakukko is a traditional dish consisting of a fish and bacon or bacon filling that is baked inside a thick rye bread crust. Invented among the working population, it ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/42bf91c1e88044e491801c32e97787b7.jpg?mw=660",
+    "most_iconic_place": "Kalakukkoleipomo Hanna Partanen",
+    "most_iconic_location": "Kuopio",
+    "ingredients": [
+      "Fish",
+      "Pork",
+      "Bacon",
+      "rye flour",
+      "Wheat Flour",
+      "Allspice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "silakat",
+    "name": "Silakat",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 16,
+    "short_description": "Small Baltic herring, called silakka in Finnish, is the key ingredient of this traditional fish specialty hailing from Finland. Silakat is typically made by dredging whole cleaned herrings (or herring...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/51212c315c6144c58b9269cfcc118036.jpg?mw=660",
+    "most_iconic_place": "Kosmos",
+    "most_iconic_location": "Helsinki",
+    "ingredients": [
+      "Baltic herring",
+      "Wheat Flour",
+      "Vegetable Oil",
+      "Butter",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nakki",
+    "name": "Nakki",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 17,
+    "short_description": "Nakki sausages, commonly known as \"nakki\" in Finland, are a popular type of small, pre-cooked sausage enjoyed in Finland and other Nordic countries. These sausages are similar to cocktail sausages or ...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Ground Chicken",
+      "Nutmeg",
+      "Allspice",
+      "Garlic Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaalilaatikko",
+    "name": "Kaalilaatikko",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 18,
+    "short_description": "Kaalilaatikko is a traditional Finish casserole consisting of ground beef or pork, cabbage, and precooked rice. Usually seasoned with dark molasses syrup and a variety of herbs such as marjoram and th...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b7cd7473dc7742c9bfb0e88186ea187f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Cabbage",
+      "Ground Beef",
+      "Ground Pork",
+      "Onion",
+      "Marjoram"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "karjalanpaisti",
+    "name": "Karjalanpaisti",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 19,
+    "short_description": "Karjalanpaisti is a traditional stew consisting of chunks of pork, beef, and mutton, with the occasional addition of potatoes, carrots, and onions. Generously seasoned with peppercorns, allspice, and ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2fa12506449840d7a3a3ee48e41c7006.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "North Karelia",
+    "ingredients": [
+      "Pork",
+      "Beef",
+      "Mutton",
+      "Potatoes",
+      "Carrot",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "joulutorttu",
+    "name": "Joulutorttu",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 20,
+    "short_description": "Translated as Christmas tart, the Finnish joulutorttu is a traditional, crispy pastry that is usually consumed during the Christmas period. It is prepared with thin puff pastry sheets filled with plum...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9f907c8971b94e72a0f45b4e8e3df00d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "plum jam",
+      "Butter",
+      "Powdered Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_carrot_casserole_porkkanalaatikko",
+    "name": "Finnish carrot casserole (Porkkanalaatikko)",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 21,
+    "short_description": "Porkkanalaatikko is a Finnish casserole made with a combination of grated carrots, rice, eggs, cream, butter, and breadcrumbs. The mixture is poured into a casserole dish, topped with breadcrumbs, and...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8f16bd5ffdcf48c7ab23b18e2613c4f0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Carrot",
+      "Rice",
+      "Eggs",
+      "Butter",
+      "Breadcrumbs",
+      "Nutmeg"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_cardamom_bread_pulla",
+    "name": "Finnish cardamom bread (Pulla)",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 22,
+    "short_description": "The soft, cardamom-spiced pulla is a popular Finnish sweet bread made with rich yeasted dough that is usually served sprinkled with coarse sugar, almonds, or walnuts. Whether it is shaped into buns, r...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8872699d4166466581bbecf3a9b7b590.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Cardamom",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "finnish_strawberry_cake_mansikkakakku",
+    "name": "Finnish strawberry cake (Mansikkakakku)",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 23,
+    "short_description": "Mansikkakakku is a traditional cake originating from Finland. The cake is usually made with a combination of strawberries, almonds, sugar, egg whites, salt, heavy cream, and vanilla. The egg whites ar...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5e5e4c1902c9426c8b3f384bdc4bb95b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Strawberries",
+      "Strawberry Jam",
+      "Eggs",
+      "Almonds",
+      "Heavy Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "limppu",
+    "name": "Limppu",
+    "local_name": null,
+    "category": "RYE BREAD",
+    "rank": 24,
+    "short_description": "Limppu is a whole rye bread that is traditionally prepared in eastern Finland. It typically consists of a sourdough starter, whole rye flour, warm water, and salt, and it is allowed to ferment overnig...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3421667ccff34a64b6f8d631b374acde.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Eastern Finland",
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Sourdough Starter",
+      "Yeast",
+      "Molasses",
+      "Salt"
+    ],
+    "is_active": true
+  }
+]

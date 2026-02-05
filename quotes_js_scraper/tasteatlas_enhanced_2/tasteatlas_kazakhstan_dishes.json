@@ -1,0 +1,258 @@
+[
+  {
+    "id": "samsa",
+    "name": "Samsa",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 1,
+    "short_description": "Savory and flaky, these traditional Central Asian pastries are filled with a rich blend of beef, lamb, and onions, encased in golden wheat flour. A beloved staple, samsa embodies the heart of Kazakh cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2085b23786684695867564cae17e4048.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Beef",
+      "Lamb",
+      "Onion",
+      "Tail Fat",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shujyq",
+    "name": "Shujyq",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 2,
+    "short_description": "A beloved staple in Kazakhstan, this cooked sausage combines ground lamb and beef with bold cumin, fiery hot peppers, and aromatic garlic. Enjoy its rich flavors grilled to perfection for a hearty experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e40c52c619d643b8ac96f286f9d2a6ad.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Cumin",
+      "Hot Peppers",
+      "Garlic",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "beshbarmak",
+    "name": "Beshbarmak",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 3,
+    "short_description": "Originating from Kazakhstan, this hearty dish showcases tender horse meat, beef, and mutton, all delicately simmered with onions and a hint of black pepper. Served over flat noodles, it’s a comforting staple rich in cultural significance.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9fe137dbccec4c35ab5aea1bc38ce09d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Horse Meat",
+      "Beef",
+      "Mutton",
+      "Onion",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "baursak",
+    "name": "Baursak",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 4,
+    "short_description": "Golden and fluffy, these delightful fried dough balls are a cherished Kazakh treat, often served at celebrations. Rich with buttery flavor and a hint of sweetness, they make for irresistible snacks or sides.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e922ef5b24a94fb889666121669c24fd.jpg?mw=660",
+    "most_iconic_place": "Gakku",
+    "most_iconic_location": "Almaty",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Milk",
+      "Vegetable Oil",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "qazı",
+    "name": "Qazı",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 5,
+    "short_description": "Savor the rich flavors of Qazı, a traditional Kazakh sausage crafted from succulent horse meat and infused with garlic and black pepper. Celebrated across Central Asia, this delicacy showcases the region's culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9fd3161b13734f7fbadd71c80314bc57.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Horse Meat",
+      "Horse Intestine",
+      "Garlic",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sümelek",
+    "name": "Sümelek",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 6,
+    "short_description": "A sweet, creamy pudding made from wheat berries and flour, Sümelek embodies the spirit of abundance during Nowruz celebrations in Kazakhstan. Its rich, nutty flavor and smooth texture create a delightful treat.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f57a2a9d71384fc6b37cf28eb46b671d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Berries",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tohax",
+    "name": "Tohax",
+    "local_name": null,
+    "category": "BREAD",
+    "rank": 7,
+    "short_description": "Rustic and hearty, this wheat-based bread from rural Kazakhstan features a distinctive indentation, perfect for holding rich spreads. Its simple ingredients create a delightful, comforting flavor, embodying local traditions.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/15d7ec6bce704e3a86c66ba346c2f311.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shelpek",
+    "name": "Shelpek",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 8,
+    "short_description": "Fried to golden perfection, this traditional Kazakh flatbread boasts a soft, airy texture and a subtle, savory flavor. Shelpek is a beloved staple, often enjoyed fresh from the skillet with hearty meals.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bf800a82b6ac40509b83f0f18ff982ea.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shalgam",
+    "name": "Shalgam",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 9,
+    "short_description": "Originating from Kazakhstan, Shalgam delights with a vibrant mix of radish, carrot, bell pepper, and onion, tossed in garlic for a zesty kick. This refreshing salad embodies the region's love for bold flavors and fresh ingredients.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8383fd331aae45c486dfec50f980bf30.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Radish",
+      "Carrot",
+      "Bell Pepper",
+      "Onion",
+      "Garlic",
+      "Red Chili Flakes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lağman",
+    "name": "Lağman",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 10,
+    "short_description": "Hand-pulled wheat noodles cradle tender beef, mutton, and lamb, all simmered with onions and aromatic spices. Lağman, a beloved Uyghur classic, bursts with rich flavors and cultural heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/48140353384b4442a0f161993a62d319.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Mutton",
+      "Lamb",
+      "Noodles",
+      "Onion",
+      "Bell Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kespé_köje",
+    "name": "Kespé köje",
+    "local_name": null,
+    "category": "NOODLE SOUP",
+    "rank": 11,
+    "short_description": "Noodle soup envelops tender beef and lamb in a fragrant broth, enriched with carrots and onions. A beloved staple of Kazakh home cooking, each spoonful warms the soul with rustic comfort.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Lamb",
+      "Carrot",
+      "Onion",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mypalau",
+    "name": "Mypalau",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 12,
+    "short_description": "Originating from Kazakhstan, this hearty dish combines tender mutton and rich sheep’s brain with savory garlic and marrow, simmered in a flavorful broth for a truly indulgent experience.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Mutton",
+      "Garlic",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ulpershek",
+    "name": "Ulpershek",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 13,
+    "short_description": "Savor the rich flavors of Kazakhstan with Ulpershek, a traditional offal dish featuring tender horse heart and aortas, seasoned with black pepper and salt for a hearty, savory experience.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "qarta",
+    "name": "Qarta",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 14,
+    "short_description": "A unique delicacy from Kazakhstan, Qarta features horse offal marinated and pan-fried to perfection. Its rich, savory flavor captures the essence of Central Asian culinary traditions.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  }
+]

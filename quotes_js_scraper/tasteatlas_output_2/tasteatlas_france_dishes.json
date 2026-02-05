@@ -1,0 +1,414 @@
+[
+  {
+    "id": "croissant",
+    "name": "Croissant",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 1,
+    "short_description": "These flaky, golden-colored, crescent-shaped pastries are best made with pure butter and a slightly sweet yeast dough. If made properly, the yellow-white interior should be just the slightest bit elas...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c743bfff128340e5b1a24f1e333f59f2.jpg?mw=660",
+    "most_iconic_place": "Blé Sucré",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Yeast",
+      "Eggs",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "quiche",
+    "name": "Quiche",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 2,
+    "short_description": "This popular French pie consists of a pastry crust filled with eggs, cream, and anything from bacon, cheese, and leek to mushrooms and seafood. Quiche is usually very filling and high in calories, mak...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ec9dfc952dd148a8bbcf43cdbac6569a.jpg?mw=660",
+    "most_iconic_place": "Le Voltigeur",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "crêpes",
+    "name": "Crêpes",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 3,
+    "short_description": "These thin pancakes are made with wheat flour, and have origins in the French region of Brittany. Although they are a French staple and a national dish, crêpes are so popular that they have spread wor...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d28dcc17a420413f8d2d2fae451c1813.jpg?mw=660",
+    "most_iconic_place": "Breizh Café",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "baguette",
+    "name": "Baguette",
+    "local_name": null,
+    "category": "BREAD",
+    "rank": 4,
+    "short_description": "Probably the most iconic image of France, this long, light, airy bread with its characteristically crispy crust dates back to the 19th century, when wheat and white breads were no longer a privilege o...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6ef8ca510bb44884af294128bab03191.jpg?mw=660",
+    "most_iconic_place": "Du Pain et Des Idées",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "macarons",
+    "name": "Macarons",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 5,
+    "short_description": "These small, round, sweet meringue-based cookie sandwiches with filling in the middle are light and crunchy on the outside and chewy in the middle. Macarons, which first appeared in Italy in 1533 (alb...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2aa1a782c0864b25b53ef1a44e0d9683.jpg?mw=660",
+    "most_iconic_place": "Pierre Hermé",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "éclair",
+    "name": "Éclair",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 6,
+    "short_description": "These elongated pastries with an appealing glaze, a crispy exterior, a soft doughy interior, and a sweet, creamy center originated in France at the turn of the 20th century. Most food historians belie...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5af8a479dedb4d53a7718ca752a536eb.jpg?mw=660",
+    "most_iconic_place": "Stohrer",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bisque",
+    "name": "Bisque",
+    "local_name": null,
+    "category": "SEAFOOD SOUP",
+    "rank": 7,
+    "short_description": "This thick, creamy, and rich puréed soup traditionally includes ingredients such as cream, seafood, cognac or wine, and a combination of spices. The origin of its name is still debated – some claim th...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0809873b805340dcbdb18110564779ef.jpg?mw=660",
+    "most_iconic_place": "Ciel de Paris",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Lobster",
+      "Carrot",
+      "Celery",
+      "Onion",
+      "Rice",
+      "Bouquet garni"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "soufflé",
+    "name": "Soufflé",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 8,
+    "short_description": "This wildly popular French dessert is beloved all over the world – known to gourmets for its soft, airy texture, and infamous among chefs for its unforgiving nature, which leaves little to no room for...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/064bd8d6006c46529ec729cf45cd335e.jpg?mw=660",
+    "most_iconic_place": "Le Récamier",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "foie_gras",
+    "name": "Foie gras",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 9,
+    "short_description": "French for fatty liver, this decadent, expensive food product is made by using a controversial force-feeding process known as gavage, in which corn is fed to ducks and geese (primarily to the hybrid m...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d2bb9ce304604df2b8f8789fde694ee0.jpg?mw=660",
+    "most_iconic_place": "Le Comptoir de la Gastronomie",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "crème_brûlée",
+    "name": "Crème brûlée",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 10,
+    "short_description": "This traditional egg custard dessert consists of egg yolks, cream, sugar, and vanilla, with a hard, burnt, toffee crust. The combination is cooked, transferred into ramekins, poached in a bain-marie, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7bcd469c048846999678666b3429db9a.jpg?mw=660",
+    "most_iconic_place": "Le Potager du Père Thierry",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Eggs",
+      "Heavy Cream",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gratin",
+    "name": "Gratin",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 11,
+    "short_description": "The French expression au gratin is an everyday term in the culinary world, denoting a technique for preparing oven-baked dishes. In the 16th century or even earlier, the word gratin referred to the bu...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/315e24e4f20b44a39da9970ab6e3c50b.jpg?mw=660",
+    "most_iconic_place": "Chez Paul",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "brioche",
+    "name": "Brioche",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 12,
+    "short_description": "This baked specialty is a French type of viennoiserie, a cross between a pastry and a bread, with a high butter, milk, and egg content that makes it rich, soft, and flaky. It has been enjoyed for cent...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/19ee4ceab82b478eba60e2e0e5a6358d.jpg?mw=660",
+    "most_iconic_place": "Ladurée",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "châteaubriand",
+    "name": "Châteaubriand",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 13,
+    "short_description": "Contrary to popular belief, the word Châteaubriand does not refer only to a cut of beef, but to a method used to grill or roast a thick cut of beef tenderloin. The steak was originally prepared by a c...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5dd8d8db50b5430482e4da8722c10aea.jpg?mw=660",
+    "most_iconic_place": "Chez Julien",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Beef",
+      "Olive Oil",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ratatouille",
+    "name": "Ratatouille",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 14,
+    "short_description": "This colorful Provençal vegetable ragout is traditionally made with simple, easily accessible ingredients: courgettes, eggplants, green and red peppers, tomatoes, onions, garlic, and parsley. The name...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5a9748c2067c4e00bfbad4334e858518.jpg?mw=660",
+    "most_iconic_place": "Miznon Paris",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Zucchini",
+      "Eggplant",
+      "Bell Pepper",
+      "Tomato",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hollandaise_sauce_sauce_hollandaise",
+    "name": "Hollandaise sauce (Sauce hollandaise)",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 15,
+    "short_description": "This butter and egg emulsion is one of the five mother sauces of French cuisine, and one of the most famous sauces in western cuisine. It consists of an emulsion of egg yolks and melted or clarified b...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/26358df9f0a543609e253a1ab2a41856.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Butter",
+      "Lemon Juice",
+      "White Vinegar",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chocolate_mousse_mousse_au_chocolat",
+    "name": "Chocolate mousse (Mousse au chocolat)",
+    "local_name": null,
+    "category": "CHOCOLATE DESSERT",
+    "rank": 16,
+    "short_description": "This classic French dessert is made with dark chocolate, eggs, butter, and sugar. It is characterized by its foamy, bubbly texture and rich chocolate flavor. Its origins, however, are still relatively...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/89e20319447e4d58933a0764b5a9a345.jpg?mw=660",
+    "most_iconic_place": "Chez Janou",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Dark Chocolate",
+      "Eggs",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "profiteroles",
+    "name": "Profiteroles",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 17,
+    "short_description": "These chocolate-covered puff pastries are filled with either whipped cream, custard, pastry cream, or vanilla ice cream. Many theories exist about the origin of this dessert, but the most likely one t...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/de1fb2902c0443fe87d56ee67792b2ab.jpg?mw=660",
+    "most_iconic_place": "Le Relais de l'Entrecote",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Heavy Cream",
+      "Whipped Cream",
+      "Custard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gaufre",
+    "name": "Gaufre",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 18,
+    "short_description": "Delicious and fragrant waffles are the most famous Belgian culinary trademark. Made with thick dough or thin batter, the cakes are baked in a specially designed waffle iron which creates an unusual ch...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e45454b9d6be4a63aac8c0fc0e717f79.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pepper_steak_steak_au_poivre",
+    "name": "Pepper steak (Steak au poivre)",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 19,
+    "short_description": "Steak au poivre is a French dish consisting of a beef steak that is coated in crushed peppercorns and fried. It is served with a sauce that is made in the same pan that the steak was cooked in. Typica...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0d5c54eb9cd64db6a2832aeb115bb57d.jpg?mw=660",
+    "most_iconic_place": "Bistrot Paul Bert",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Beef",
+      "Butter",
+      "Black Pepper",
+      "Cream",
+      "Cognac",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "croque_monsieur",
+    "name": "Croque-monsieur",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 20,
+    "short_description": "According to Larousse, this classic French hot sandwich consists of a thin slice of ham and melted cheese tucked between two pieces of sliced bread. The original first appeared on Parisian menus in 19...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c64f6a44705e4b6a99974623375afa76.jpg?mw=660",
+    "most_iconic_place": "Le Petit Cler",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Bread",
+      "Gruyère",
+      "Wet-cured Ham",
+      "Butter",
+      "Wheat Flour",
+      "Nutmeg"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pain_perdu",
+    "name": "Pain perdu",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 21,
+    "short_description": "Considered an early version of the famous breakfast fare called french toast, pain perdu is a simple French dish that is based on old, stale bread. The use of stale bread for this dish is even suggest...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/26716764bc414a4699efef6434025831.jpg?mw=660",
+    "most_iconic_place": "Hardware Société",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Bread",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "riz_au_lait",
+    "name": "Riz au lait",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 22,
+    "short_description": "Riz au lait is a traditional dessert based on rice. It's made by slowly cooking rice with sugar, vanilla and milk until the mixture thickens and the rice is fully cooked. Some recipes date back as far...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bded9f61bc424359931994950bc59662.jpg?mw=660",
+    "most_iconic_place": "Les Petits Parisiens",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Rice",
+      "Vanilla",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "consommé",
+    "name": "Consommé",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 23,
+    "short_description": "This clear soup is made from rich, clarified stock. It is a time consuming, luxurious, and expensive dish that results in crystal-clear, full-flavored liquid broth devoid of any trace of fat. It is be...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2bf05544af8149acacce732bd4bb6a2e.jpg?mw=660",
+    "most_iconic_place": "Toyo",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Beef",
+      "Carrot",
+      "Parsnip",
+      "Turnip",
+      "Leek",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "beignets",
+    "name": "Beignets",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 24,
+    "short_description": "These squares of deep-fried pastry dough are sprinkled with powdered sugar and are traditionally served hot. The dish hails from France, and French settlers brought it to the Acadia region of Canada i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/22801c20e79e4fb38a622163248cda0d.jpg?mw=660",
+    "most_iconic_place": "Boulangerie Paul",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

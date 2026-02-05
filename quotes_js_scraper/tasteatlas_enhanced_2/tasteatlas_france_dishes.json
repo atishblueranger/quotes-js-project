@@ -1,0 +1,414 @@
+[
+  {
+    "id": "croissant",
+    "name": "Croissant",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 1,
+    "short_description": "Flaky and golden, these crescent-shaped delights from France boast layers of pure butter and a subtly sweet yeast dough. Each bite offers a tender, slightly elastic interior, perfect for breakfast or a sweet treat.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c743bfff128340e5b1a24f1e333f59f2.jpg?mw=660",
+    "most_iconic_place": "Blé Sucré",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Yeast",
+      "Eggs",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "quiche",
+    "name": "Quiche",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 2,
+    "short_description": "Originating from France, this savory pie features a golden pastry crust brimming with a rich custard of eggs and cream, complemented by savory ingredients like bacon, cheese, and fresh vegetables. Perfectly baked to golden perfection, each slice offers a delightful balance of flavors and textures.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ec9dfc952dd148a8bbcf43cdbac6569a.jpg?mw=660",
+    "most_iconic_place": "Le Voltigeur",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "crêpes",
+    "name": "Crêpes",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 3,
+    "short_description": "Delicate and versatile, these thin pancakes from Brittany are a French culinary icon. Whether filled with sweet fruits or savory cheeses, crêpes delight with each flavorful bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d28dcc17a420413f8d2d2fae451c1813.jpg?mw=660",
+    "most_iconic_place": "Breizh Café",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "baguette",
+    "name": "Baguette",
+    "local_name": null,
+    "category": "BREAD",
+    "rank": 4,
+    "short_description": "French baguettes boast a crispy crust and a light, airy interior, embodying the essence of Parisian bakeries. Enjoy their subtly nutty flavor, perfected through traditional fermentation techniques.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6ef8ca510bb44884af294128bab03191.jpg?mw=660",
+    "most_iconic_place": "Du Pain et Des Idées",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "macarons",
+    "name": "Macarons",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 5,
+    "short_description": "Delicate meringue shells, crisp on the outside and chewy within, embrace luscious fillings like raspberry, pistachio, or chocolate. Originating in Italy, these French treats are a sweet symbol of culinary artistry.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2aa1a782c0864b25b53ef1a44e0d9683.jpg?mw=660",
+    "most_iconic_place": "Pierre Hermé",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "éclair",
+    "name": "Éclair",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 6,
+    "short_description": "Elongated and elegantly glazed, these French pastries feature a crispy exterior enveloping a soft dough, filled with rich, sweet cream. A timeless treat that delights the senses!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5af8a479dedb4d53a7718ca752a536eb.jpg?mw=660",
+    "most_iconic_place": "Stohrer",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bisque",
+    "name": "Bisque",
+    "local_name": null,
+    "category": "SEAFOOD SOUP",
+    "rank": 7,
+    "short_description": "Originating from France, this luxurious seafood bisque captivates with its rich blend of puréed lobster, aromatic vegetables, and a splash of cognac, creating a velvety, indulgent experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0809873b805340dcbdb18110564779ef.jpg?mw=660",
+    "most_iconic_place": "Ciel de Paris",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Lobster",
+      "Carrot",
+      "Celery",
+      "Onion",
+      "Rice",
+      "Bouquet garni"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "soufflé",
+    "name": "Soufflé",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 8,
+    "short_description": "Originating from France, this classic dessert captivates with its light, airy texture and rich flavors, often infused with chocolate or vanilla. Perfectly baked to a golden rise, it’s a must-try indulgence.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/064bd8d6006c46529ec729cf45cd335e.jpg?mw=660",
+    "most_iconic_place": "Le Récamier",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "foie_gras",
+    "name": "Foie gras",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 9,
+    "short_description": "Indulge in the rich, buttery texture of French foie gras, a luxurious delicacy made from the liver of specially fed ducks or geese. Served as a pâté or seared, its savory depth captivates gourmet palates.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d2bb9ce304604df2b8f8789fde694ee0.jpg?mw=660",
+    "most_iconic_place": "Le Comptoir de la Gastronomie",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "crème_brûlée",
+    "name": "Crème brûlée",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 10,
+    "short_description": "A classic French dessert, this silky custard boasts rich vanilla notes beneath a perfectly caramelized sugar crust. Each spoonful offers a delightful contrast of creamy and crunchy textures.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7bcd469c048846999678666b3429db9a.jpg?mw=660",
+    "most_iconic_place": "Le Potager du Père Thierry",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Eggs",
+      "Heavy Cream",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gratin",
+    "name": "Gratin",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 11,
+    "short_description": "Originating in France, au gratin dishes are beautifully baked to perfection, combining creamy layers with a golden, crispy topping. Rich flavors meld in a delightful contrast, making every bite irresistible.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/315e24e4f20b44a39da9970ab6e3c50b.jpg?mw=660",
+    "most_iconic_place": "Chez Paul",
+    "most_iconic_location": "Paris",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "brioche",
+    "name": "Brioche",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 12,
+    "short_description": "Originating from France, brioche delights with its rich, buttery flavor and soft, flaky texture. Perfectly golden and slightly sweet, it's a beloved pastry that elevates any breakfast or dessert.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/19ee4ceab82b478eba60e2e0e5a6358d.jpg?mw=660",
+    "most_iconic_place": "Ladurée",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "châteaubriand",
+    "name": "Châteaubriand",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 13,
+    "short_description": "Originating in France, Châteaubriand features a thick cut of beef tenderloin expertly grilled or roasted to perfection. Seasoned with olive oil, black pepper, and salt, it delivers rich, savory flavors that celebrate classic French cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5dd8d8db50b5430482e4da8722c10aea.jpg?mw=660",
+    "most_iconic_place": "Chez Julien",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Beef",
+      "Olive Oil",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ratatouille",
+    "name": "Ratatouille",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 14,
+    "short_description": "Originating from Provence, this vibrant vegetable ragout features tender zucchini, smoky eggplant, and sweet bell peppers, simmered with ripe tomatoes and fragrant herbs. A celebration of Mediterranean flavors, it's a wholesome taste of French culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5a9748c2067c4e00bfbad4334e858518.jpg?mw=660",
+    "most_iconic_place": "Miznon Paris",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Zucchini",
+      "Eggplant",
+      "Bell Pepper",
+      "Tomato",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hollandaise_sauce_sauce_hollandaise",
+    "name": "Hollandaise sauce (Sauce hollandaise)",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 15,
+    "short_description": "A silky emulsion of egg yolks and rich butter, Hollandaise sauce bursts with zesty lemon and a hint of white vinegar. A classic French mother sauce, it elevates dishes like eggs Benedict to gourmet heights.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/26358df9f0a543609e253a1ab2a41856.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Butter",
+      "Lemon Juice",
+      "White Vinegar",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chocolate_mousse_mousse_au_chocolat",
+    "name": "Chocolate mousse (Mousse au chocolat)",
+    "local_name": null,
+    "category": "CHOCOLATE DESSERT",
+    "rank": 16,
+    "short_description": "Indulge in the airy delight of French chocolate mousse, where rich dark chocolate meets velvety butter and eggs. Celebrated for its luxurious texture and deep flavor, it's a timeless classic that enchants dessert lovers.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/89e20319447e4d58933a0764b5a9a345.jpg?mw=660",
+    "most_iconic_place": "Chez Janou",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Dark Chocolate",
+      "Eggs",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "profiteroles",
+    "name": "Profiteroles",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 17,
+    "short_description": "Chocolate-covered puff pastries burst with creamy delights like whipped cream or vanilla ice cream. Hailing from France, these indulgent treats celebrate culinary artistry in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/de1fb2902c0443fe87d56ee67792b2ab.jpg?mw=660",
+    "most_iconic_place": "Le Relais de l'Entrecote",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Heavy Cream",
+      "Whipped Cream",
+      "Custard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gaufre",
+    "name": "Gaufre",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 18,
+    "short_description": "Delight in the warm, crisp layers of Belgian gaufres, expertly baked in a unique waffle iron. Infused with vanilla and a hint of caramel, these iconic treats are a sweet celebration of Belgian culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e45454b9d6be4a63aac8c0fc0e717f79.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pepper_steak_steak_au_poivre",
+    "name": "Pepper steak (Steak au poivre)",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 19,
+    "short_description": "Coated in a fragrant crust of crushed black peppercorns, tender beef steak sizzles to perfection, crowned with a rich cognac cream sauce. A classic French bistro favorite that delights the senses.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0d5c54eb9cd64db6a2832aeb115bb57d.jpg?mw=660",
+    "most_iconic_place": "Bistrot Paul Bert",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Beef",
+      "Butter",
+      "Black Pepper",
+      "Cream",
+      "Cognac",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "croque_monsieur",
+    "name": "Croque-monsieur",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 20,
+    "short_description": "A Parisian classic, this indulgent hot sandwich layers rich Gruyère and savory wet-cured ham between buttery toasted bread, creating a melty, flavorful delight that captures the essence of French cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c64f6a44705e4b6a99974623375afa76.jpg?mw=660",
+    "most_iconic_place": "Le Petit Cler",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Bread",
+      "Gruyère",
+      "Wet-cured Ham",
+      "Butter",
+      "Wheat Flour",
+      "Nutmeg"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pain_perdu",
+    "name": "Pain perdu",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 21,
+    "short_description": "Originating from France, this delightful breakfast transforms stale bread into a luscious treat, soaked in a rich mixture of eggs, milk, and sugar, then pan-fried to golden perfection. Enjoy the warm, buttery sweetness that celebrates resourceful cooking!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/26716764bc414a4699efef6434025831.jpg?mw=660",
+    "most_iconic_place": "Hardware Société",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Bread",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "riz_au_lait",
+    "name": "Riz au lait",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 22,
+    "short_description": "Creamy and comforting, this French classic features tender rice simmered in sweetened milk infused with fragrant vanilla. A nostalgic treat that celebrates simplicity and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bded9f61bc424359931994950bc59662.jpg?mw=660",
+    "most_iconic_place": "Les Petits Parisiens",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Rice",
+      "Vanilla",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "consommé",
+    "name": "Consommé",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 23,
+    "short_description": "Originating from France, this luxurious clear soup showcases a perfectly clarified beef stock infused with the sweetness of carrots, parsnips, turnips, and leeks, delivering a delicate yet rich flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2bf05544af8149acacce732bd4bb6a2e.jpg?mw=660",
+    "most_iconic_place": "Toyo",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Beef",
+      "Carrot",
+      "Parsnip",
+      "Turnip",
+      "Leek",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "beignets",
+    "name": "Beignets",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 24,
+    "short_description": "Deep-fried squares of dough, dusted with powdered sugar, deliver a warm, fluffy bite of indulgence. Originating from France, these delightful treats embody a sweet taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/22801c20e79e4fb38a622163248cda0d.jpg?mw=660",
+    "most_iconic_place": "Boulangerie Paul",
+    "most_iconic_location": "Paris",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

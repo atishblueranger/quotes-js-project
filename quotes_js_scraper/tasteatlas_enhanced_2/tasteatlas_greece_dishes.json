@@ -1,0 +1,714 @@
+[
+  {
+    "id": "gyros",
+    "name": "Gyros",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 1,
+    "short_description": "Savor the flavors of Greece with tender, marinated meats grilled on a vertical spit, served in warm pita bread. Gyros bursts with spices and is a beloved street food staple, perfect for a quick bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/254a002208804e0fa92fa354655fdaac.jpg?mw=660",
+    "most_iconic_place": "Pitogyros",
+    "most_iconic_location": "Oia",
+    "ingredients": [
+      "Lamb",
+      "Pork",
+      "Beef",
+      "Chicken",
+      "Pita bread",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "souvlaki",
+    "name": "Souvlaki",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 2,
+    "short_description": "Skewered and grilled to perfection, these tender cubes of pork, chicken, lamb, or beef burst with smoky flavor. A beloved Greek street food, souvlaki is often enjoyed with fresh onions and zesty sauces.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/90c413e6606d4c69af350324c8e69835.jpg?mw=660",
+    "most_iconic_place": "Pane e Souvlaki",
+    "most_iconic_location": "Corfu City",
+    "ingredients": [
+      "Beef",
+      "Lamb",
+      "Pork",
+      "Chicken",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "moussaka",
+    "name": "Moussaka",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 3,
+    "short_description": "Originating from Greece, this beloved casserole layers savory ground lamb and beef with tender eggplant, all topped with a creamy, golden bechamel. A rich blend of flavors that captures the essence of Mediterranean comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d714f264955840a980db8b9cfbf66d3b.jpg?mw=660",
+    "most_iconic_place": "Naoussa",
+    "most_iconic_location": "Fira",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Lamb",
+      "Kefalograviera",
+      "Kefalotyri",
+      "Eggplant",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "greek_salad_horiatiki_salata",
+    "name": "Greek salad (Horiatiki salata)",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 4,
+    "short_description": "A vibrant medley of quartered tomatoes, crisp cucumbers, and zesty red onions comes together in this iconic Greek salad, topped with creamy feta. It embodies the fresh flavors of the Mediterranean, perfect for a refreshing bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/30d1c817a7f64e4f815d7bfa66a1156c.jpg?mw=660",
+    "most_iconic_place": "Margaro Restaurant",
+    "most_iconic_location": "Piraeus",
+    "ingredients": [
+      "Tomato",
+      "Cucumber",
+      "Bell Pepper",
+      "Red Onion",
+      "Feta",
+      "Eliá Kalamatas"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tzatziki",
+    "name": "Tzatziki",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 5,
+    "short_description": "Originating from Greece, this creamy dip blends tangy Greek yogurt with refreshing cucumbers, aromatic garlic, and fragrant herbs like dill and mint. Perfect for pairing with grilled meats or pita bread.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/220986c23b4b452d8b4a749edf1158f5.jpg?mw=660",
+    "most_iconic_place": "O Thanasis",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Greek yogurt",
+      "Cucumber",
+      "Garlic",
+      "Dill",
+      "Mint",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pastitsio",
+    "name": "Pastitsio",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 6,
+    "short_description": "Layers of ziti embrace a rich blend of ground beef and lamb, all topped with creamy béchamel and a sprinkle of tangy Kefalotyri and feta. A beloved Greek comfort food, pastitsio delights with its savory depth and hearty texture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e780cff6efea4b1ab8da70e49426606f.jpg?mw=660",
+    "most_iconic_place": "Rouvas Tavern",
+    "most_iconic_location": "Corfu City",
+    "ingredients": [
+      "Ziti",
+      "Ground Beef",
+      "Ground Lamb",
+      "Kefalotyri",
+      "Feta",
+      "Red Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spanakopita",
+    "name": "Spanakopita",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 7,
+    "short_description": "Originating from Greece, this savory delight features layers of buttery phyllo pastry filled with vibrant spinach, tangy feta, and aromatic dill. Perfect as a snack or appetizer, each bite bursts with flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/95a200dc7d014c1db1898a020206174b.jpg?mw=660",
+    "most_iconic_place": "Pnyka",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Spinach",
+      "Feta",
+      "Wheat Flour",
+      "Onion",
+      "Dill",
+      "Mint"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "revani",
+    "name": "Revani",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 8,
+    "short_description": "A beloved staple in Greek and Turkish cuisine, revani features a moist semolina cake soaked in sweet syrup, often infused with zesty lemon or fragrant rose water for a delightful finish.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2df62552a21148f9b1e202f4afbf4903.jpg?mw=660",
+    "most_iconic_place": "Taverna Platana",
+    "most_iconic_location": "Sotiras",
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Powder",
+      "Semolina",
+      "Sugar",
+      "Eggs",
+      "Yogurt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yemista",
+    "name": "Yemista",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 9,
+    "short_description": "Savory tomatoes and bell peppers are generously stuffed with a fragrant mix of rice, onion, and garlic, then baked to perfection. A beloved Greek classic, yemista captures the essence of Mediterranean comfort.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e30084f6f02342249ed507bab4db1a20.jpg?mw=660",
+    "most_iconic_place": "Oasis Restaurant",
+    "most_iconic_location": "Naxos",
+    "ingredients": [
+      "Tomato",
+      "Bell Pepper",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Mint"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "biftekia",
+    "name": "Biftekia",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 10,
+    "short_description": "Juicy and flavorful, these Greek patties blend ground beef, pork, and lamb with onions and eggs, delivering a savory experience. Often grilled or baked, they embody the heart of Greek comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/609de59a96764a28969df98fd8284f7a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Ground Lamb",
+      "Eggs",
+      "Onion",
+      "Breadcrumbs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "horta",
+    "name": "Horta",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 11,
+    "short_description": "Originating from Greece, this vibrant salad features a medley of steamed dandelions, nettles, and spinach, all drizzled with zesty lemon juice and rich olive oil for a refreshing taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cd76cdaa843d4bfeb62785c1210a20fe.jpg?mw=660",
+    "most_iconic_place": "Rakadiko STOAS",
+    "most_iconic_location": "Piraeus",
+    "ingredients": [
+      "Dandelions",
+      "Nettle",
+      "Spinach",
+      "Green Amaranth",
+      "Mustard Greens",
+      "Chicory"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "omeleta",
+    "name": "Omeleta",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 12,
+    "short_description": "A Greek favorite, the omeleta bursts with vibrant Mediterranean flavors, featuring fresh herbs, ripe tomatoes, and creamy feta. Lightly cooked to perfection, it's a delicious twist on the classic breakfast staple.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eb5491e5ee62424f8e68c8032f933185.jpg?mw=660",
+    "most_iconic_place": "To Antikristo",
+    "most_iconic_location": "Chania City",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mydia",
+    "name": "Mydia",
+    "local_name": null,
+    "category": "MUSSEL DISH",
+    "rank": 13,
+    "short_description": "Steamed in red wine, fresh mussels mingle with onions, tomatoes, and carrots, creating a vibrant Greek appetizer. Each bite bursts with herbs and a hint of the sea, celebrating Mediterranean flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3c52b28591f040ba9f2b7c8da9108192.jpg?mw=660",
+    "most_iconic_place": "Niko's Taverna",
+    "most_iconic_location": "Mykonos",
+    "ingredients": [
+      "Mussels",
+      "Onion",
+      "Tomato",
+      "Carrot",
+      "Parsley",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "keftedakia",
+    "name": "Keftedakia",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 14,
+    "short_description": "Flavorful and tender, these Greek meatballs combine ground pork and beef with aromatic herbs like dill and parsley. Perfectly seasoned and lightly fried, they're a beloved comfort food in Greece.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/828ec80aaa6f4774b64a6dc11ca5888b.jpg?mw=660",
+    "most_iconic_place": "Limeri Restaurant",
+    "most_iconic_location": "Kato Korakiana",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Beef",
+      "Eggs",
+      "Onion",
+      "Garlic",
+      "Bread"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "païdakia",
+    "name": "Païdakia",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 15,
+    "short_description": "Grilled to perfection, these tender lamb chops are a Greek classic, infused with garlic, thyme, and rosemary. Each bite bursts with rich flavor, celebrating the country's vibrant culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/400a808b02d54ead9e3986b1dbc8d824.jpg?mw=660",
+    "most_iconic_place": "To Steki Tou Ilia",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Lamb",
+      "Garlic",
+      "Thyme",
+      "Oregano",
+      "Rosemary",
+      "Peppercorns"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bougatsa",
+    "name": "Bougatsa",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 16,
+    "short_description": "Delight in the sweet layers of this traditional Greek pastry, where golden phyllo envelops a creamy semolina custard, kissed with vanilla and sugar. A beloved breakfast treat, it embodies rustic charm and rich flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/97c3870c77ff459a8a8d07c26f4f4b87.jpg?mw=660",
+    "most_iconic_place": "Bougatsa Iordanis",
+    "most_iconic_location": "Chania City",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Vanilla",
+      "Sugar",
+      "Powdered Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tiropita",
+    "name": "Tiropita",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 17,
+    "short_description": "Crispy layers of phyllo embrace a creamy blend of feta and cottage cheese in this cherished Greek snack. Each golden triangle is a savory delight, perfect for any time of day.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c3833e9e6d0940fbb32c86443cbc6ec7.jpg?mw=660",
+    "most_iconic_place": "Ariston Bakery",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Feta",
+      "Cottage Cheese",
+      "Butter",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tsoureki",
+    "name": "Tsoureki",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 18,
+    "short_description": "A beloved Greek Easter tradition, this sweet, braided bread boasts a rich flavor from mahlep and butter. Its fluffy texture and enticing aroma make it a festive delight enjoyed by all.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3aa161d9e3f545b49a606504c2a82157.jpg?mw=660",
+    "most_iconic_place": "Terkenlis",
+    "most_iconic_location": "Thessaloniki",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Butter",
+      "Mahlep",
+      "Orange Zest"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dakos",
+    "name": "Dakos",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 19,
+    "short_description": "Originating from Crete, dakos features a crunchy barley rusk topped with fresh tomatoes, crumbled myzithra cheese, and aromatic oregano. Each bite bursts with Mediterranean flavors, perfect for sharing.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6a09a7f487d74c98ba33bae299137e73.jpg?mw=660",
+    "most_iconic_place": "Peskesi",
+    "most_iconic_location": "Heraklion",
+    "ingredients": [
+      "Kritiko paximadi",
+      "Tomato",
+      "Myzithra",
+      "Garlic",
+      "Oregano",
+      "Capers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "melomakarona",
+    "name": "Melomakarona",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 20,
+    "short_description": "Originating from ancient Phoenicia, these rich Greek Christmas cookies blend semolina and honey, creating a delightful texture and a sweet, aromatic flavor that embodies festive cheer.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/930ba2678ac24b7f9d7abd492772fdfb.jpg?mw=660",
+    "most_iconic_place": "Aggeliki",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Semolina Flour",
+      "Wheat Flour",
+      "Baking Powder",
+      "Baking Soda",
+      "Honey",
+      "Walnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "avgolemono",
+    "name": "Avgolemono",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 21,
+    "short_description": "Whisked eggs and tangy lemon juice create a velvety broth in this traditional Greek soup, enhanced with tender rice, carrots, and celery. A comforting taste of Hellenic heritage in every spoonful.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/08f1670d1ce64bdf953576575daaa60d.jpg?mw=660",
+    "most_iconic_place": "Zorbas Restaurant",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Eggs",
+      "Rice",
+      "Carrot",
+      "Celery",
+      "Lemon Juice",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fasolakia",
+    "name": "Fasolakia",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 22,
+    "short_description": "A beloved summer staple in Greece, tender green beans simmer in fragrant olive oil with ripe tomatoes, potatoes, and garlic, creating a comforting, hearty stew that celebrates simple, fresh flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bc4e00aadc3d400e87b6411377973d88.jpg?mw=660",
+    "most_iconic_place": "Rouvas Tavern",
+    "most_iconic_location": "Corfu City",
+    "ingredients": [
+      "Green Beans",
+      "Tomato",
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bamies",
+    "name": "Bamies",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 23,
+    "short_description": "Braised in a rich tomato sauce, tender okra, potatoes, and vibrant carrots create a comforting Greek dish that celebrates rustic Mediterranean flavors. Perfect as a light main or savory side.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a2fb86aa37e243ab82a0412824d55bd5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Okra",
+      "Potatoes",
+      "Tomato",
+      "Onion",
+      "Carrot",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "taramasalata",
+    "name": "Taramasalata",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 24,
+    "short_description": "A beloved Greek and Turkish dip, taramasalata blends creamy mashed potatoes or bread with zesty lemon and rich fish roe. Its vibrant flavor and smooth texture make it a must-try appetizer.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/07692150597846bcbaf520d734a906ef.jpg?mw=660",
+    "most_iconic_place": "Ferryman Taverna",
+    "most_iconic_location": "Elounda",
+    "ingredients": [
+      "Bread",
+      "Potatoes",
+      "Breadcrumbs",
+      "Fish Roe",
+      "Tomato",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "saganaki",
+    "name": "Saganaki",
+    "local_name": null,
+    "category": "CHEESE DISH",
+    "rank": 25,
+    "short_description": "Golden and crispy, this beloved Greek appetizer features a delicious blend of Graviera, Kasseri, and Kefalotyri cheeses, pan-seared to perfection. A squeeze of fresh lemon elevates each savory bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/83a49082eeb2493d94bd963b67c53704.jpg?mw=660",
+    "most_iconic_place": "To Tsipouradiko",
+    "most_iconic_location": "Corfu City",
+    "ingredients": [
+      "Graviera Agrafon",
+      "Kasseri",
+      "Kefalotyri",
+      "Wheat Flour",
+      "Lemon Juice",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fava",
+    "name": "Fava",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 26,
+    "short_description": "Greek fava dip delights with its creamy texture from yellow split peas, infused with the aromatic essence of garlic, red onion, and a drizzle of rich olive oil. A staple of Mediterranean meze, it’s perfect for sharing.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c3e25e479c1e436db79f05df0cd20f9c.jpg?mw=660",
+    "most_iconic_place": "Tavern Klimataria",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Split Peas",
+      "Red Onion",
+      "Scallions",
+      "Garlic",
+      "Olive Oil",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fakes",
+    "name": "Fakes",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 27,
+    "short_description": "Originating from Greece, this hearty lentil soup combines earthy brown and green lentils with aromatic onion, garlic, and vibrant tomatoes. Each spoonful offers a comforting blend of flavors that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/626441b7935748a2b9fa075f86a1a0be.jpg?mw=660",
+    "most_iconic_place": "Myrtos Hotel",
+    "most_iconic_location": "Myrtos",
+    "ingredients": [
+      "Lentils",
+      "Onion",
+      "Garlic",
+      "Tomato",
+      "Carrot",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "galaktoboureko",
+    "name": "Galaktoboureko",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 28,
+    "short_description": "Layers of flaky phyllo embrace a silky semolina custard, all drenched in buttery goodness. Originating from Greece, this dessert offers a perfect balance of sweetness and texture in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a5ae61ea000444cfb3c7cc04c605a9f9.jpg?mw=660",
+    "most_iconic_place": "Kosmikon",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Semolina Flour",
+      "Corn Starch",
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kourabiedes",
+    "name": "Kourabiedes",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 29,
+    "short_description": "Crispy and buttery, these traditional Greek shortbread cookies are infused with almonds and vanilla, creating a melt-in-your-mouth delight. Often dusted with powdered sugar, they embody the warmth of Greek hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a8c9d19224984211863342413ea2fa00.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Almonds",
+      "Vanilla",
+      "Baking Powder",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pita",
+    "name": "Pita",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 30,
+    "short_description": "Originating from the Middle East, pita bread features a soft, chewy texture and a delightful hint of olive oil. Perfect for dipping or stuffing, it elevates any meal with its warm, comforting flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f58b9217a09f4c91833027c3e763e2d8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Olive Oil",
+      "Salt",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dolmades",
+    "name": "Dolmades",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 31,
+    "short_description": "Grape leaves embrace a savory blend of ground beef and lamb, complemented by tender bell pepper and eggplant. A beloved Greek classic, dolmades offer a delightful burst of flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c8d5d2e5fa794c94a69cb801ffd61279.jpg?mw=660",
+    "most_iconic_place": "Erganos",
+    "most_iconic_location": "Heraklion",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Lamb",
+      "Grape Leaves",
+      "Bell Pepper",
+      "Eggplant",
+      "Zucchini"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stifado",
+    "name": "Stifado",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 32,
+    "short_description": "Hearty and aromatic, this traditional Greek stew features tender beef simmered with sweet onions, ripe tomatoes, and a hint of cinnamon and garlic. Perfect for warming up chilly evenings, Stifado embodies the heart of Greek comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9c321d7f45f94639b97fdbee87375f3a.jpg?mw=660",
+    "most_iconic_place": "Taverna Alekos",
+    "most_iconic_location": "Rethymno City",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Tomato",
+      "Garlic",
+      "Cinnamon",
+      "Cloves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bakaliaros",
+    "name": "Bakaliaros",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 33,
+    "short_description": "Golden and crispy cod fritters delight the palate in Greece, where bakaliaros is a cherished dish. Coated in a light batter made with wheat flour, yeast, and beer, each bite bursts with flavor, perfectly complemented by a drizzle of olive oil.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3e10d05c59a7460c8bcc60971583cb7a.jpg?mw=660",
+    "most_iconic_place": "Bakaliarakia tou Aristou",
+    "most_iconic_location": "Thessaloniki",
+    "ingredients": [
+      "Cod",
+      "Wheat Flour",
+      "Yeast",
+      "Beer",
+      "Olive Oil",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kleftiko",
+    "name": "Kleftiko",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 34,
+    "short_description": "Succulent lamb is slow-cooked with garlic, oregano, and rosemary, then wrapped in foil for a tender, flavorful feast. A festive Greek tradition, Kleftiko brings celebration to every table.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1c7b5cb1eb6642c9abbf6936cbeea24b.jpg?mw=660",
+    "most_iconic_place": "Strofi Restaurant",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Lamb",
+      "Potatoes",
+      "Garlic",
+      "Oregano",
+      "Rosemary",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kokoretsi",
+    "name": "Kokoretsi",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 35,
+    "short_description": "Succulent pieces of goat and lamb offal are expertly seasoned with garlic, lemon zest, and spices, then wrapped in caul fat and grilled to perfection. A cherished Greek delicacy, it's a must-try for adventurous eaters!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5a4c8fa78d144d538fcc7290dc5d7393.jpg?mw=660",
+    "most_iconic_place": "Ziogas",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Goat Offal",
+      "Lamb Offal",
+      "Garlic",
+      "Caul Fat",
+      "Lemon Zest",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "giouvetsi",
+    "name": "Giouvetsi",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 36,
+    "short_description": "A beloved Greek comfort food, this one-pot casserole features tender veal and orzo simmered in a rich tomato sauce, topped with creamy feta and sharp kefalotyri for a delightful finish.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c68c717736934af2a1b49973a40c3888.jpg?mw=660",
+    "most_iconic_place": "Lithos Tavern",
+    "most_iconic_location": "Athens",
+    "ingredients": [
+      "Orzo",
+      "Chilopites",
+      "Veal",
+      "Feta",
+      "Kefalotyri",
+      "Red Onion"
+    ],
+    "is_active": true
+  }
+]

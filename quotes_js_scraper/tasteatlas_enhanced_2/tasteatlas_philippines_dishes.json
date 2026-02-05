@@ -1,0 +1,433 @@
+[
+  {
+    "id": "lechon",
+    "name": "Lechon",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 1,
+    "short_description": "Succulent, slow-roasted suckling pig, infused with lemongrass, garlic, and bay leaves, captures the heart of Filipino celebrations. Its crispy skin and tender meat create an irresistible feast for the senses.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5eb9df1828d84079a850ebe462e28121.jpg?mw=660",
+    "most_iconic_place": "Mesa Filipino Moderne",
+    "most_iconic_location": "Makati",
+    "ingredients": [
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Lemongrass",
+      "Bay Leaves",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pancit",
+    "name": "Pancit",
+    "local_name": null,
+    "category": "STIR-FRY",
+    "rank": 2,
+    "short_description": "A beloved staple of Filipino celebrations, stir-fried noodles dance with savory chicken, succulent pork, and fresh vegetables. Each bite bursts with vibrant flavors, reflecting the warmth of Filipino hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/13c1e096414d4f2cbd996ce3e67e8e7e.jpg?mw=660",
+    "most_iconic_place": "Nanay's Pancit Malabon",
+    "most_iconic_location": "Malabon",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "adobo",
+    "name": "Adobo",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "A beloved staple of Filipino cuisine, this savory stew combines tender chicken, pork, and squid marinated in tangy vinegar and rich soy sauce, creating a symphony of bold flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d5341266285b41e3bc49f9b18795adf9.jpg?mw=660",
+    "most_iconic_place": "Cafe Adriatico",
+    "most_iconic_location": "Manila",
+    "ingredients": [
+      "Chicken",
+      "Pork",
+      "Squid",
+      "Vinegar",
+      "Soy sauce",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lumpia",
+    "name": "Lumpia",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 4,
+    "short_description": "Crispy and savory, these Filipino finger rolls are filled with seasoned ground pork and fresh vegetables, then fried to golden perfection. A beloved snack with Chinese roots, lumpia bursts with flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/af229c4fe92b40268cee8710cdf6a50e.jpg?mw=660",
+    "most_iconic_place": "The Aristocrat",
+    "most_iconic_location": "Manila",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sisig",
+    "name": "Sisig",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 5,
+    "short_description": "Originating from Pampanga, sisig features tender, grilled pork offal tossed with zesty vinegar, onions, and fiery peppers. Each bite delivers a savory, tangy explosion that embodies Filipino comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ed84a09403eb461cbfdc31cf97a49c37.jpg?mw=660",
+    "most_iconic_place": "Aling Lucing's Sisig",
+    "most_iconic_location": "Angeles",
+    "ingredients": [
+      "Pork",
+      "Offal",
+      "Vinegar",
+      "Onion",
+      "Hot Peppers",
+      "Soy sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaldereta",
+    "name": "Kaldereta",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "A rich and savory Filipino stew, Kaldereta features tender beef or goat simmered in a robust tomato sauce, complemented by hearty potatoes and carrots. Often served during celebrations, its bold flavors warm the soul.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/de9021814faf4eea9c38f62d19e09c8a.jpg?mw=660",
+    "most_iconic_place": "Sentro 1771",
+    "most_iconic_location": "Makati",
+    "ingredients": [
+      "Beef",
+      "Goat",
+      "Tomato Sauce",
+      "Potatoes",
+      "Carrot",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sinigang",
+    "name": "Sinigang",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 7,
+    "short_description": "A beloved Filipino comfort food, this vibrant sour soup balances the tang of tamarind with tender meats and fresh vegetables. Each spoonful bursts with rich flavors and heartwarming tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e98d832284c14b9d8308b88d7438be71.jpg?mw=660",
+    "most_iconic_place": "Locavore",
+    "most_iconic_location": "Pasig",
+    "ingredients": [
+      "Guava",
+      "Tamarind",
+      "Chicken",
+      "Beef",
+      "Pork",
+      "Seafood"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "leche_flan",
+    "name": "Leche Flan",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 8,
+    "short_description": "Savory and sweet, this Filipino caramel custard delights with its silky texture and rich flavors of vanilla and condensed milk. A beloved treat, it graces celebrations and family gatherings alike.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f811557b0f4942269a4719f3df635d7f.jpg?mw=660",
+    "most_iconic_place": "Manam Comfort Food",
+    "most_iconic_location": "Manila",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Condensed Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "silog",
+    "name": "Silog",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 9,
+    "short_description": "A beloved Filipino breakfast, Silog features fragrant garlic rice paired with perfectly fried eggs and savory options like marinated tapa or crispy bangus. Each bite offers a delightful blend of flavors that energizes your morning.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b1022825b3054aab9f66230ddb4cf815.jpg?mw=660",
+    "most_iconic_place": "Tapsi ni Vivian",
+    "most_iconic_location": "Marikina",
+    "ingredients": [
+      "Rice",
+      "Eggs",
+      "Garlic",
+      "Bangus",
+      "Tapa (Philippines)",
+      "Hot Dog"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kare_kare",
+    "name": "Kare-kare",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "A beloved Filipino classic, Kare-kare features tender meats like oxtail and goat simmered in a rich, savory peanut sauce, enhanced with annatto seeds and served with a side of shrimp paste for depth.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ebdf34b526f041288e07757db384073d.jpg?mw=660",
+    "most_iconic_place": "Serye Restaurant & Cafe",
+    "most_iconic_location": "Manila",
+    "ingredients": [
+      "Goat",
+      "Pork",
+      "Oxtail",
+      "Chicken",
+      "Peanut Butter",
+      "Peanuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tapa_philippines",
+    "name": "Tapa (Philippines)",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 11,
+    "short_description": "Tender beef sirloin marinates in a vibrant mix of calamansi, soy sauce, garlic, and sugar, embodying the heart of Filipino comfort food. Savory, sweet, and tangy, it's a beloved staple served with rice.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/57211eb630034499a75d611dd21de5a9.jpg?mw=660",
+    "most_iconic_place": "Kanto Freestyle Breakfast",
+    "most_iconic_location": "Pasig",
+    "ingredients": [
+      "Beef",
+      "Lime",
+      "Soy sauce",
+      "Garlic",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "torta",
+    "name": "Torta",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 12,
+    "short_description": "A beloved staple in Filipino cuisine, this hearty omelet bursts with savory ground beef, tender potatoes, and vibrant eggplant. Perfectly seasoned and satisfying, it brings comfort to any meal.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/737def54c31548178020234326cf5b44.jpg?mw=660",
+    "most_iconic_place": "Sarsa Kitchen + Bar",
+    "most_iconic_location": "Makati",
+    "ingredients": [
+      "Eggs",
+      "Beef",
+      "Onion",
+      "Potatoes",
+      "Eggplant",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sorbetes",
+    "name": "Sorbetes",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 13,
+    "short_description": "A beloved Filipino treat, sorbetes combines rich carabao milk with vibrant flavors like mango, ube, and cheese. Served in small scoops, it’s a delightful taste of local culture and creativity.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2b31295457064808a7df8c199d9fd751.jpg?mw=660",
+    "most_iconic_place": "La Fiesta",
+    "most_iconic_location": "Pasay",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "halo_halo",
+    "name": "Halo-Halo",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 14,
+    "short_description": "A beloved Filipino treat, halo-halo combines vibrant layers of ice cream, leche flan, bananas, and durian, all topped with finely crushed ice and sweet milk. Each spoonful offers a refreshing burst of flavors, perfect for warm days.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/40a2ca9de2f44270ab8d9b97d1a21133.jpg?mw=660",
+    "most_iconic_place": "Razon's of Guagua",
+    "most_iconic_location": "Makati",
+    "ingredients": [
+      "Ice Cream",
+      "Leche Flan",
+      "Milk",
+      "Bananas",
+      "Durian",
+      "Mung beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tocino",
+    "name": "Tocino",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 15,
+    "short_description": "Sweet-cured and caramelized, this Filipino favorite features tender pork marinated in a blend of sugar, soy sauce, and rice wine. Often enjoyed for breakfast, it pairs perfectly with steamed rice.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4610fc18d1ac41beb67c6991c646ffcd.jpg?mw=660",
+    "most_iconic_place": "Mila's Tokwa't Baboy",
+    "most_iconic_location": "Angeles",
+    "ingredients": [
+      "Pork",
+      "Sugar",
+      "Salt",
+      "Rice Wine",
+      "Soy sauce",
+      "Pineapple Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "turon",
+    "name": "Turon",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 16,
+    "short_description": "Crispy on the outside and sweet within, these deep-fried rolls showcase the rich flavors of saba plantains and durian, caramelized in brown sugar. A beloved Filipino street treat, they deliver an irresistible tropical delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0b99318e13914ba084ab8197aafa4e23.jpg?mw=660",
+    "most_iconic_place": "Locavore",
+    "most_iconic_location": "Pasig",
+    "ingredients": [
+      "Plantain",
+      "Durian",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lechon_kawali",
+    "name": "Lechon kawali",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 17,
+    "short_description": "Crispy on the outside and tender within, this Filipino favorite features succulent chunks of pork belly boiled and deep-fried to perfection, delivering a savory crunch with every bite. A celebration of flavor and texture in every serving!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b4a340ad5ba04439b096e507ae1f0f50.jpg?mw=660",
+    "most_iconic_place": "Victorino's Restaurant",
+    "most_iconic_location": "Quezon City",
+    "ingredients": [
+      "Pork Belly",
+      "Salt",
+      "Peppercorns"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "balut",
+    "name": "Balut",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 18,
+    "short_description": "A beloved Filipino street food, balut features a seasoned duck egg that reveals a delicate embryo, often enjoyed with a sprinkle of salt or vinegar. Its rich, savory flavors celebrate local culinary traditions.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4a4f080ec5a84f048d41e64ba81ec0f6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "inasal_na_manok",
+    "name": "Inasal na manok",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 19,
+    "short_description": "Originating from Western Visayas, this Filipino grilled chicken delights with a tangy marinade of vinegar, lemongrass, garlic, and ginger. Each bite bursts with smoky flavor, embodying the region's culinary spirit.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a093a8930f4f4e8e8bb7237998a54957.jpg?mw=660",
+    "most_iconic_place": "Aida's Manokan",
+    "most_iconic_location": "Bacolod",
+    "ingredients": [
+      "Chicken",
+      "Vinegar",
+      "Lemongrass",
+      "Garlic",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bulalô",
+    "name": "Bulalô",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 20,
+    "short_description": "A comforting Filipino classic, this hearty beef soup simmers shanks and marrow bones, infusing the broth with rich flavors. Enhanced with fish sauce, onions, and sweet corn, it warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/79722271aa7f431689f7e9fd0e8511a6.jpg?mw=660",
+    "most_iconic_place": "Leslie's",
+    "most_iconic_location": "Tagaytay",
+    "ingredients": [
+      "Beef",
+      "Bone Marrow",
+      "Fish Sauce",
+      "Onion",
+      "Corn",
+      "Green Beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crispy_pata",
+    "name": "Crispy Pata",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 21,
+    "short_description": "A beloved Filipino delicacy, a whole pork leg is simmered with bay leaves and peppercorns, then deep-fried to achieve a mouthwatering golden crisp. Perfect for celebrations, it tantalizes with its savory crunch!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/80751d6a223a4a26bbbaaf0f44864c45.jpg?mw=660",
+    "most_iconic_place": "Livestock Restaurant Bar",
+    "most_iconic_location": "Quezon City",
+    "ingredients": [
+      "Pork",
+      "Bay Leaves",
+      "Peppercorns",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "daing",
+    "name": "Daing",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 22,
+    "short_description": "Originating from the Philippines, daing features marinated, sun-dried fish that bursts with savory umami flavors. Each region offers its twist, making every bite a unique taste of local tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2f413827852545788405018fbf911c79.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pinangat",
+    "name": "Pinangat",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 23,
+    "short_description": "A beloved stew from the Bicol region, this creamy delight combines tender tuna, sardines, and pork simmered in rich coconut milk with zesty ginger. It's a perfect balance of savory and sour, embodying Filipino comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3d934b2f72a246d8b24e1df289708c4d.jpg?mw=660",
+    "most_iconic_place": "Geewan",
+    "most_iconic_location": "Naga",
+    "ingredients": [
+      "Tuna",
+      "Sardines",
+      "Pork",
+      "Coconut Milk",
+      "Ginger",
+      "Taro"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "taho",
+    "name": "Taho",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 24,
+    "short_description": "Fresh soft tofu is bathed in rich arnibal syrup and topped with chewy sago pearls in this beloved Filipino treat. A daily street food delight, Taho offers a sweet, comforting taste of Filipino culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/819f34773f0349b3a2531091556d18ce.jpg?mw=660",
+    "most_iconic_place": "Mr. Bean",
+    "most_iconic_location": "Quezon City",
+    "ingredients": [
+      "Tofu",
+      "Tapioca",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "zhur",
+    "name": "Zhur",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 1,
+    "short_description": "A beloved staple of Belarus, this hearty soup combines the tangy depth of fermented rye with savory bacon and kielbasa. Tender potatoes and a hint of egg add comfort to each spoonful.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/db261d61a3984a8dbcacf51b03e74c87.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bacon",
+      "Kielbasa",
+      "Eggs",
+      "rye flour",
+      "Potatoes",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "draniki",
+    "name": "Draniki",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 2,
+    "short_description": "Belarusian comfort food at its best, these crispy potato pancakes blend earthy flavors of garlic and onion. Fried to golden perfection, they are a beloved staple in every home.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/17e34674e6384bbb8b7186ac871a9de3.jpg?mw=660",
+    "most_iconic_place": "Kamyanitsa",
+    "most_iconic_location": "Minsk",
+    "ingredients": [
+      "Potatoes",
+      "Wheat Flour",
+      "Eggs",
+      "Onion",
+      "Garlic",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khaladnik",
+    "name": "Khaladnik",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 3,
+    "short_description": "Originating from Belarus, this vibrant cold beet soup combines tangy kefir with crisp cucumbers, fresh scallions, and fragrant dill. Its refreshing flavors make it a perfect summer delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b16ac8031a644140ba0e341557041437.jpg?mw=660",
+    "most_iconic_place": "Vasilki",
+    "most_iconic_location": "Minsk",
+    "ingredients": [
+      "Beet",
+      "Kefir",
+      "Cucumber",
+      "Scallions",
+      "Dill",
+      "Sour Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "syrniki",
+    "name": "Syrniki",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 4,
+    "short_description": "Fried to golden perfection, these cottage cheese pancakes are a beloved Belarusian treat. Topped with honey or fruit jam, they offer a delightful blend of sweetness and warmth, perfect for any time of day.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/562019a30c794a4e81209548787ca8a7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tvorog",
+      "Wheat Flour",
+      "Eggs",
+      "Sugar",
+      "Salt",
+      "Oil and Animal Fat"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "machanka",
+    "name": "Machanka",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "Rich and hearty, this traditional Belarusian stew blends tender pork with creamy sour cream and savory beef stock. Often enjoyed with bread, it embodies the warmth of Eastern European comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/144a90a774f94c37af5a268be93e352c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Sour Cream",
+      "Beef Stock",
+      "Wheat Flour",
+      "Butter",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vereshchaka",
+    "name": "Vereshchaka",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "A hearty traditional stew from Belarus, Vereshchaka blends savory cooked sausage and crispy bacon with aromatic onions, thickened with rye flour and enriched with beer for a robust flavor.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": "Kuhmistr",
+    "most_iconic_location": "Minsk",
+    "ingredients": [
+      "Cooked Sausage",
+      "Bacon",
+      "Onion",
+      "rye flour",
+      "Beer",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lazanki",
+    "name": "Lazanki",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 7,
+    "short_description": "A beloved dish in Belarusian cuisine, lazanki features tender pasta tossed with savory kielbasa, smoky bacon, and sweet cabbage, all sautéed with onions for a hearty, comforting meal.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/13fb9ed533b44e7dbb92ecdeea44de97.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Łazanki",
+      "Kielbasa",
+      "Cabbage",
+      "Bacon",
+      "Onion",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pyachysta",
+    "name": "Pyachysta",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 8,
+    "short_description": "Belarusian Pyachysta showcases tender stewed or roasted meats, often featuring chicken or pork, infused with rich spices and herbs. A festive favorite, it's a centerpiece for celebrations and gatherings.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "poliŭka",
+    "name": "Poliŭka",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 9,
+    "short_description": "Originating from Belarus, Poliŭka embodies the heart of local cuisine with its rich, hearty broths. Loaded with seasonal vegetables and tender meats, each bowl warms the soul with every savory sip.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bankucha",
+    "name": "Bankucha",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 10,
+    "short_description": "A beloved treat in Belarusian culture, bankucha features layers of rich, buttery cake baked to perfection. Infused with vanilla and crafted from a thick batter, it delights with its unique tree-like appearance and flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3967544e24b54255af9bf438945e52e7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Sugar",
+      "Vanilla",
+      "Corn Starch"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kalduny",
+    "name": "Kalduny",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 11,
+    "short_description": "Belarusian kalduny are delectable dumplings filled with a savory mix of minced pork and beef, wrapped in tender wheat dough. Boiled to perfection, they offer a comforting taste of regional heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2a422b7260f24b41bde0e2840bc95bcc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Pancetta",
+      "Ground Pork",
+      "Ground Beef",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kutsia",
+    "name": "Kutsia",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 12,
+    "short_description": "A beloved festive dish in Belarus, Kutsia combines nutty wheat, aromatic poppy seeds, sweet raisins, and crunchy walnuts, all gently sweetened with honey for a comforting, celebratory pudding.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/534bcf9a9035425795e945c83c34bf91.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat",
+      "Poppy Seeds",
+      "Walnuts",
+      "Raisins",
+      "Honey"
+    ],
+    "is_active": true
+  }
+]

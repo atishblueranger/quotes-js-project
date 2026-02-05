@@ -1,0 +1,433 @@
+[
+  {
+    "id": "bryndzové_halušky",
+    "name": "Bryndzové halušky",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 1,
+    "short_description": "Bryndzové halušky is a modest and simple meal consisting of three elements: halušky, bryndza, and bacon. Halušky is a traditional name for a type of dumpling made with grated raw potatoes and flour. T...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/977c0c68c35d4991bcc39db2bb5fac4c.jpg?mw=660",
+    "most_iconic_place": "Slovak Pub",
+    "most_iconic_location": "Bratislava",
+    "ingredients": [
+      "Halušky",
+      "Slovenská Bryndza",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "guláš",
+    "name": "Guláš",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Traditional guláš is a hearty meat stew served with a dark red sauce that is heavily seasoned with paprika. Through history, this dish with Hungarian origins has become one of the most common meals in...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ac9575707133493f984feb3f97619e48.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Caraway",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "šišky",
+    "name": "Šišky",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 3,
+    "short_description": "Krapfen was probably the first European-style doughnut to appear, followed by similar varieties in other countries. These pastries are traditionally prepared with leavened dough that is deep-fried unt...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5d7bb143eccb46dcba3e9a5f08c4e150.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kapustnica",
+    "name": "Kapustnica",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 4,
+    "short_description": "This Slovakian sauerkraut soup is a hearty wintertime dish with a rich flavor, coming from a variety of added smoked pork products, sausages, and dried mushrooms. Kapustnica is related to a number of ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/465a3e35ad064f1bb5d4048d5e26b16d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sauerkraut",
+      "Salami",
+      "Cured Meat",
+      "Mushrooms",
+      "Lard",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "koláče",
+    "name": "Koláče",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 5,
+    "short_description": "Koláče or kolache (plural: kolaches) is a sweet pastry roll that is traditionally topped with plums or plum jam, cheese, or poppy seeds. Modern toppings might include fruit such as apricots, blueberri...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/318a93f09682496793856dfa06198829.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Pineapple",
+      "Poppy Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vianočka",
+    "name": "Vianočka",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 6,
+    "short_description": "Traditionally prepared for Christmastime, vánočka is a braided brioche-like bread that is typically flavored with rum and lemon zest, although it is often made with the addition of raisins and almonds...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1fd01e5246c240d5805f027f5365619f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Butter",
+      "Raisins",
+      "Almonds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zemiakové_placky",
+    "name": "Zemiakové placky",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "These rustic, crispy potato pancakes belong to the traditional Slovak cuisine. They consist of a thick batter made with grated potatoes, eggs, flour, and a variety of spices. Pan-fried for a short per...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/32662c5f52804b95b052727956960cdc.jpg?mw=660",
+    "most_iconic_place": "U Hromadov",
+    "most_iconic_location": "Rajecká Lesná",
+    "ingredients": [
+      "Potatoes",
+      "Eggs",
+      "Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "skalický_trdelník",
+    "name": "Skalický trdelník",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 8,
+    "short_description": "Skalický trdelník is a hollow, cylindrical pastry product made by winding the soft dough on a roller called 'trdlo'. This unusually shaped pastry is produced in the northwestern part of the Slovak Rep...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fced210908944357b969b197533b0e31.jpg?mw=660",
+    "most_iconic_place": "Vínotéka u františkánov",
+    "most_iconic_location": "Skalica",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "makovník",
+    "name": "Makovník",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 9,
+    "short_description": "Makowiec is the Polish name for poppy seed roll, a traditional cake where poppy seed paste is placed between layers of dough. Raisins, almonds, honey, and orange peel can be added to the cake in order...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3417b26bde8040c7990f2a20474ec16a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Poppy Seeds",
+      "Wheat Flour",
+      "Yeast",
+      "Eggs",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "laskonky",
+    "name": "Laskonky",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 10,
+    "short_description": "Laskonky are popular Slovak and Czech cookies consisting of two crispy meringues combined with various buttercream fillings. The meringues occasionally contain ground walnuts or coconut and are usuall...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a6e427fe6210445cae6f2399281e2b02.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "rýžový_nákyp",
+    "name": "Rýžový nákyp",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 11,
+    "short_description": "Rýžový nákyp is a traditional and Slovak rice pudding that is often served as the main course. It consists or rice cooked in milk that is chilled and combined with egg yolks, sugar, butter, vanilla, a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1d39bb37a39b4f029c02c1e5ccbeb1a3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Plums",
+      "Cherries",
+      "Peach",
+      "Eggs",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bratislavský_rožok",
+    "name": "Bratislavský rožok",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 12,
+    "short_description": "Bratislavský rožok is a traditional Slovakian pastry that has a centuries-long tradition. It comes in two different varieties – the crescent-shaped pastry filled with poppy seeds or the C-shaped varie...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e26fbb6f6b5045d69064036e3a0304ff.jpg?mw=660",
+    "most_iconic_place": "Café Mayer",
+    "most_iconic_location": "Bratislava",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lokše",
+    "name": "Lokše",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 13,
+    "short_description": "These thin, crispy potato pancakes are traditional Slovak snacks that are usually enjoyed during the Christmas festivities and Lent. They are made with a soft potato dough which is rolled into flat ci...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5562191453954daa8ab2193544abe71b.jpg?mw=660",
+    "most_iconic_place": "Gurmánsky Grob",
+    "most_iconic_location": "Slovenský Grob",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "liptauer",
+    "name": "Liptauer",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 14,
+    "short_description": "Described as a simple, paprika-spiced cheese spread, liptauer is one of the classic dishes that usually consists of different type of fresh or cream cheeses, blended with ground paprika and a variety ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6fd4d466e7944ff28e4bc9aa29cacd66.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Žilina Region",
+    "ingredients": [
+      "Cream Cheese",
+      "Butter",
+      "Garlic",
+      "Onion",
+      "Capers",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bryndzové_pirohy",
+    "name": "Bryndzové pirohy",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 15,
+    "short_description": "The Slovak version of the famous Polish pierogi consists of a thin potato dough that is wrapped around a combination of grated potatoes and a traditional sheep cheese known as bryndza. These crescent-...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/898bbdc343924de5999c7f543853c9e4.jpg?mw=660",
+    "most_iconic_place": "Slovak Pub",
+    "most_iconic_location": "Bratislava",
+    "ingredients": [
+      "Flour",
+      "Potatoes",
+      "Slovenská Bryndza",
+      "Bacon",
+      "Chives"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "žemlovka",
+    "name": "Žemlovka",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "Žemlovka is a traditional and Slovak baked dessert consisting of sliced bread that is layered with various fruits. It is usually made with soft white bread rolls or bread (most often veka), which are ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5ffc7b775a754bb8a9f84a9546f7bf33.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bread Roll",
+      "Veka",
+      "Eggs",
+      "Apples",
+      "Cinnamon",
+      "Raisins"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "treska",
+    "name": "Treska",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 17,
+    "short_description": "Treska is a traditional salad made with a combination of cod, mayonnaise, onions, carrots, vinegar, mustard, and seasonings. The cod is cooked in a mixture of vinegar, water, and bay leaves. It's then...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/053487fb2c8447c89327b9c80009d10b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cod",
+      "Mayonnaise",
+      "Onion",
+      "Carrot",
+      "Vinegar",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spišské_párky",
+    "name": "Spišské párky",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 18,
+    "short_description": "Spišské párky is a smoked sausage that comes in sheep intestine casings which have been separated by twisting. It has been produced for more than a century in the Slovak Republic and was first made du...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/600805068ede48e99c3b06aef1fe4d60.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Spišské Podhradie",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "strapačky",
+    "name": "Strapačky",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 19,
+    "short_description": "This simple, rustic Slovak dish consists of a combination of traditional halušky dumplings and tangy sauerkraut. The soft and small halušky are a unique variety of potato dumplings, incorporated in va...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9224a192bf904294ba760344f3cafbe9.jpg?mw=660",
+    "most_iconic_place": "Koliba Starý Smokovec",
+    "most_iconic_location": "Vysoké Tatry",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "karbanátky",
+    "name": "Karbanátky",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 20,
+    "short_description": "Karbanátky is a universal term which refers to a broad group of traditional Czech and Slovak patties. Although they are predominately made with minced pork, beef, or chicken, they can also be based on...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a671f86a21e54a19a43500c7fcf69253.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Eggs",
+      "Breadcrumbs",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kokosové_ježe",
+    "name": "Kokosové ježe",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 21,
+    "short_description": "Čupavci are traditional Croatian cakes that are also popular in Poland, Slovakia, Hungary, and throughout the Balkans under different names. They consist of a sponge cake that is dipped in chocolate a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/76a660abb0574afda3ff0d19381d369f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Coconut Flakes",
+      "Dark Chocolate"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "parené_buchty",
+    "name": "Parené buchty",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 22,
+    "short_description": "Parené buchty are Slovakian soft, pillow-shaped dumplings made from enriched yeast dough containing flour, milk, eggs, butter, sugar, and yeast, cooked entirely by steam so they remain pale and moist ...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Sugar",
+      "plum jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "smotanová_nátierka",
+    "name": "Smotanová nátierka",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 23,
+    "short_description": "This creamy spread is made with sour cream and a combination of powdered milk and buttermilk. It is enjoyed throughout the Czech Republic and Slovakia. The spread is traditionally flavored with variou...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/573412ef71df440aa801d371b3b6acb2.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Butter",
+      "Sour Cream",
+      "Chives",
+      "Parsley",
+      "Garlic",
+      "Wet-cured Ham"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fliačky_s_kapustou",
+    "name": "Fliačky s kapustou",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 24,
+    "short_description": "Krautfleckerl is an Austrian pasta dish with Bohemian (Czech Republic) origins that has handmade pasta squares fleckerl and white cabbage as main ingredients. The preparation starts with sauteeing oni...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a71faf07257a4a138101811acec30fa7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Fleckerl",
+      "Cabbage",
+      "Onion",
+      "Butter",
+      "Caraway",
+      "Beef Stock"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "id": "samosa",
+    "name": "Samosa",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 1,
+    "short_description": "Crunchy and golden, these triangular pastries are a beloved staple in Saudi Arabian and Indian cuisine. Filled with spiced potatoes, peas, or meat, they offer a delightful burst of flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e668e32ae1a3423c95fbd4d77f8c940c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kabsa",
+    "name": "Kabsa",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "A fragrant blend of basmati rice, tender chicken, and succulent lamb, Kabsa is a beloved Saudi dish, infused with spices and simmered to perfection, reflecting the rich culinary heritage of the Arabian Peninsula.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": "Najd Village",
+    "most_iconic_location": "Riyadh",
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "basbousa",
+    "name": "Basbousa",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 3,
+    "short_description": "A beloved Middle Eastern treat, Basbousa features a moist semolina base sweetened with sugar and often infused with fragrant rose water. Baked to golden perfection, it’s a delightful end to any meal.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2df62552a21148f9b1e202f4afbf4903.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Powder",
+      "Semolina",
+      "Sugar",
+      "Eggs",
+      "Yogurt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "luqaimat",
+    "name": "Luqaimat",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 4,
+    "short_description": "Delight in these golden, bite-sized dumplings, crisp on the outside and fluffy within, drizzled with syrup or honey. A beloved Saudi Arabian treat, Luqaimat is a festive favorite, perfect for sharing.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/12f04b3d12fd475aba18b0a6ca9bf97f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ful_medames",
+    "name": "Ful medames",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "Originating from ancient Egypt, this hearty stew features slowly simmered fava beans infused with garlic, tomatoes, and a kick of hot peppers, finished with fresh parsley and a drizzle of olive oil. A vibrant breakfast staple that warms the soul!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cb822eedfd8b4695ae4c0a237dfab6ba.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Fava Beans",
+      "Tomato",
+      "Garlic",
+      "Hot Peppers",
+      "Parsley",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shawarma",
+    "name": "Shawarma",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 6,
+    "short_description": "Marinated meats—lamb, beef, or chicken—are expertly spit-roasted, then wrapped in warm pita or lavash. A street food staple with Ottoman roots, shawarma bursts with savory spices and tantalizing flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbc3999873a748a49a7a5d7364a3e8c4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Beef",
+      "Chicken",
+      "Pita bread",
+      "Lavash",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "qatayef",
+    "name": "Qatayef",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 7,
+    "short_description": "Delight in the crispy, deep-fried sweetness of Qatayef, a beloved Arabian dessert often enjoyed during Ramadan. Filled with rich Akkawi cheese or a nutty blend of pistachios, almonds, and walnuts, each bite offers a perfect balance of textures and flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0ef92fd751f44b4497211a531c006bdc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Akkawi",
+      "Pistachios",
+      "Almonds",
+      "Walnuts",
+      "Hazelnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kunafa",
+    "name": "Kunafa",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 8,
+    "short_description": "Originating from Saudi Arabia, kunafa features crispy layers of buttery kataifi dough enveloping a rich cheese cream, enhanced with orange zest and cardamom, then soaked in sweet syrup. Topped with crunchy pistachios, it’s a must-try indulgence!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3a6bfc04b0294ab78b16a9af0de5cd75.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice Flour",
+      "Akkawi",
+      "Butter",
+      "Pistachios",
+      "Cream",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hareesh",
+    "name": "Hareesh",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 9,
+    "short_description": "A beloved Ramadan staple, hareesh features tender meat simmered with coarse wheat, creating a hearty and comforting porridge. Its rich, savory flavors make it a perfect communal dish for breaking fast.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03df132180744560921a1b481675e559.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "haneeth",
+    "name": "Haneeth",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 10,
+    "short_description": "Slow-roasted lamb, infused with aromatic spices, pairs perfectly with fragrant rice and the sweetness of jujube. A cherished dish from Saudi Arabia's Asir region, Haneeth embodies rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5c394b13edb44ebb9559a922713364e0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "'Asir",
+    "ingredients": [
+      "Lamb",
+      "Rice",
+      "Jujube",
+      "Scallions",
+      "Chives",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mandi",
+    "name": "Mandi",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 11,
+    "short_description": "Originating from Yemen and beloved in Saudi Arabia, Mandi features tender lamb or chicken slow-cooked with aromatic spices, served atop fluffy basmati rice infused with rich ghee.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b193475abd95466891777508f68b8542.jpg?mw=660",
+    "most_iconic_place": "Qatif Hospitality Palace",
+    "most_iconic_location": "Qatif",
+    "ingredients": [
+      "Lamb",
+      "Chicken",
+      "Rice",
+      "Onion",
+      "Ghee",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gursan",
+    "name": "Gursan",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 12,
+    "short_description": "Originating from Saudi Arabia, Gursan features delicate, paper-thin bread layered over tender meat and vegetables, simmered in a rich broth. Each bite bursts with savory flavors, soaking up the delicious juices.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c60781267dee40bda29b15a5ab8a9915.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "al_margaouq",
+    "name": "Al-Margaouq",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 13,
+    "short_description": "Hailing from Riyadh, this ancient stew blends tender mutton and beef with flavorful eggplant, pumpkin, and zucchini. Whole wheat pasta pieces soak up the rich, savory broth for a comforting meal.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bdc6c8626a1d4b45ada25c0f42027dd2.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Riyadh Region",
+    "ingredients": [
+      "Mutton",
+      "Beef",
+      "Eggplant",
+      "Pumpkin",
+      "Zucchini",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kleija",
+    "name": "Kleija",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 14,
+    "short_description": "Originating from al-Qassim, Kleija features a delightful blend of whole-wheat flour and ghee, infused with the tangy essence of black lemon and sweet date molasses. Its intricately patterned exterior encloses a rich, nutty flavor, making each bite a treasured taste of Saudi heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e10639fcd195489abdf248b51bc07de3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Al-Qassim",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Ghee",
+      "Black lemon",
+      "Date Molasses",
+      "Sesame Seeds",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "laddu",
+    "name": "Laddu",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 15,
+    "short_description": "Delight in the sweet, nutty flavors of laddu, a cherished Indian dessert that combines various flours, sugar, and rich ghee into indulgent, bite-sized balls. Perfect for celebrations, each laddu offers a taste of tradition and joy.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d4f7f668d05c402bb592b3747d2a58ea.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "hininy",
+    "name": "Hininy",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "A beloved Saudi Arabian dessert, Hininy blends rich dates and creamy butter with toasted brown bread, all elevated by aromatic saffron and cardamom. Indulge in this warm, spiced delight that embodies Arabian hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9a6c6defd84d4c1d8eb5d8e8cacb1517.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Najd",
+    "ingredients": [
+      "Dates",
+      "Butter",
+      "Bread",
+      "Saffron",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tharıd",
+    "name": "Tharıd",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 17,
+    "short_description": "A fragrant lamb stew, Tharıd blends tender meat with aromatic cloves, garlic, and ginger, served over barley bread. Rooted in Saudi tradition, it warms hearts and brings families together.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/adc07828c28e476485271cb02a081add.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Cloves",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 18,
+    "short_description": "Creamy and rich, this Middle Eastern staple blends cooked chickpeas with tahini, garlic, and a splash of lemon juice, creating a savory dip that bursts with flavor and tradition. Perfect with fresh bread!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/45200b7711794dc88cf0bf3bf0988f7e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chickpeas",
+      "Sesame Seeds",
+      "Garlic",
+      "Cumin",
+      "Lemon Juice",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sayadiah",
+    "name": "Sayadiah",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 19,
+    "short_description": "Originating from Saudi Arabia, Sayadiah features succulent white fish like sea bass or red snapper paired with fragrant rice infused with spices. The fish is expertly fried or baked, creating a deliciously harmonious blend of flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/459e5b58c64b4f9d85e5b4da8c0ae9ad.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tabuk Region",
+    "ingredients": [
+      "White Fish",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Bell Pepper",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mansaf",
+    "name": "Mansaf",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 20,
+    "short_description": "Slow-cooked meats—goat, lamb, beef, and chicken—simmer in rich jameed, a tangy fermented yogurt, creating a savory, aromatic delight. A cornerstone of Jordanian celebrations, it embodies hospitality and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1227c0c6ef75488895a61d4d22ec3988.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tabuk Region",
+    "ingredients": [
+      "Goat",
+      "Lamb",
+      "Beef",
+      "Chicken",
+      "Jameed",
+      "Rice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "balilah",
+    "name": "Balilah",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 21,
+    "short_description": "A beloved Saudi snack, this vibrant salad features tender chickpeas tossed with refreshing cucumber, earthy beet, zesty garlic, and fresh parsley, delivering a burst of Middle Eastern flavors in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/375aaba3db124b2ab4e7c1cf49a7fec8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Hejaz",
+    "ingredients": [
+      "Chickpeas",
+      "Cucumber",
+      "Beet",
+      "Garlic",
+      "Parsley",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "masoub",
+    "name": "Masoub",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 22,
+    "short_description": "A cherished dessert from Yemen, Masoub features creamy mashed bananas blended with buttery bread, spiced delicately and drizzled with honey. It's a warm, comforting treat that embodies Arabian hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b6e0d7208ac145beac7ba87faa2d22e9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "zarb",
+    "name": "Zarb",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 23,
+    "short_description": "A traditional dish from Saudi Arabia, Zarb features tender meat and vibrant vegetables slow-cooked in an underground pit, infusing rich, smoky flavors that echo the desert's essence.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cb6c4ebd2f504076970cba71b276f2f1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "stuffed_dates_tamr_mahshi",
+    "name": "Stuffed dates (Tamr mahshi)",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 24,
+    "short_description": "Pitted dates are generously stuffed with a luscious mix of nuts, clotted cream, and candied fruit, creating a sweet, chewy delight. A beloved treat in Saudi Arabia, they pair perfectly with tea and coffee.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/364d11db260141e9a7e55a2c6f9ae729.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Dates",
+      "Clotted cream",
+      "Nuts",
+      "Candied Fruit"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "id": "lavash",
+    "name": "Lavash",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 1,
+    "short_description": "Lavash is a traditional flatbread claimed by many food specialists to be Armenian in origin, but it is well-known and prepared throughout Western Asia (most noteably Iran and Türkiye) and the Caucasus...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e187e389c5344e0695f9bc24f25d6bac.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Yeast",
+      "Milk",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "qutab",
+    "name": "Qutab",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 2,
+    "short_description": "Qutab is one of the most famous dishes in Azerbaijan. Similar in shape to a quesadilla, qutab is made with paper-thin dough, stuffed with a variety of ingredients, folded, and usually baked in saj, a ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1a069f45c8c1495eb3bbd9e630a0f10f.jpg?mw=660",
+    "most_iconic_place": "Shirvanshah Museum Restaurant",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Wheat Flour",
+      "Vegetable Oil",
+      "Ground Lamb",
+      "Eggs",
+      "Parsley",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yarpaq_dolması",
+    "name": "Yarpaq dolması",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 3,
+    "short_description": "Azerbaijan's national dish is called yarpaq dolmasi, a savory meal consisting of vine leaves stuffed with chopped meat, onions, rice, salt, pepper, butter, and fresh herbs such as coriander, dill and ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/47d748246fc24dd692592360d18dfe80.jpg?mw=660",
+    "most_iconic_place": "Mugam Club",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Grape Leaves",
+      "Ground Lamb",
+      "Ground Beef",
+      "Rice",
+      "Onion",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lyulya_kebab",
+    "name": "Lyulya kebab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 4,
+    "short_description": "Lyulya kebab is a unique kebab variety popular throughout the Caucasus region. It typically consists of ground lamb combined with finely chopped onions. The mixture is seasoned with salt and black pep...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/582c366d8d914eb2b345b25731e03b03.jpg?mw=660",
+    "most_iconic_place": "Mugam Club",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Ground Lamb",
+      "Onion",
+      "Parsley",
+      "Paprika",
+      "Cumin",
+      "Garlic Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "samanu",
+    "name": "Samanu",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 5,
+    "short_description": "Samanu is a sweet dessert made from wheat germ, akin to pudding, commonly prepared in Iran, Afghanistan, and Central Asian countries, especially during Nowruz (Persian New Year). It symbolizes abundan...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f57a2a9d71384fc6b37cf28eb46b671d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Berries",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "soyutma",
+    "name": "Soyutma",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 6,
+    "short_description": "Azerbaijan's national dish is called soyutma, meaning long and slow-cooked meat. There are two versions of the dish in Azerbaijani cuisine - one is prepared with lamb, the other one with chicken meat....",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e922629ef1f047379b4c9b98d30e578a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Chicken",
+      "Onion",
+      "Turmeric",
+      "Saffron",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dovga",
+    "name": "Dovga",
+    "local_name": null,
+    "category": "COLD SOUP",
+    "rank": 7,
+    "short_description": "Dovga is a soup made by cooking yogurt with a variety of fresh herbs such as dill, mint, and coriander. It is the national dish of Azerbaijan and can be served either cold in the summer as a refreshme...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0a7ea2b56972453e8f570a21e172cd37.jpg?mw=660",
+    "most_iconic_place": "Mugam Club",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Yogurt",
+      "Rice",
+      "Wheat Flour",
+      "Eggs",
+      "Spinach",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zulbiya",
+    "name": "Zulbiya",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 8,
+    "short_description": "Zulbia is a sweet confection prepared by deep-frying thin coils of fermented batter and then soaking them in a fragrant sugar syrup. Although it is believed to have its origins in Persia, zulbia or ja...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/85dca6a42c8948f6a861fba0a5442c8f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Ghee",
+      "Yogurt",
+      "Yeast",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "baliq_kebab",
+    "name": "Baliq kebab",
+    "local_name": null,
+    "category": "FRESHWATER FISH DISH",
+    "rank": 9,
+    "short_description": "Baliq is a popular Azerbaijani kebab consisting of any firm, rich fish that is marinated, skewered, and grilled. In Azerbaijan, sturgeon from the Caspian Sea is the most common choice for baliq. The f...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/201a4e4b511f421ab7e91a5ea5006d0c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sturgeon",
+      "Dill",
+      "Lemon Juice",
+      "Onion",
+      "Sunflower Oil",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "badambura",
+    "name": "Badambura",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 10,
+    "short_description": "Badambura is a popular Azerbaijani pastry consisting of several layers of flaky dough filled with almonds, sugar, and ground cardamom. It is usually brushed with egg wash and baked until it develops a...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2c96afe4ac6c46e5ac3dd6650880326d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Almonds",
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Yeast"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "domates_dolmasi",
+    "name": "Domates dolmasi",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 11,
+    "short_description": "Domates dolmasi is a traditional dish that's also popular in Azerbaijan. It consists of stuffed and cooked tomatoes. The tomatoes are stuffed with a combination of ground lamb, rice, onions, parsley, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1219c0c20bb84aec9f35c073da539c32.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tomato",
+      "Ground Lamb",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shah_pilaf",
+    "name": "Shah pilaf",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 12,
+    "short_description": "A dish worthy of a king - or perhaps simply the main course of a wedding ceremony - shah pilaf (translated as crown pilaf) is a traditional meal infused with a medley of local aromas. It goes through ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/71440b3e8521401ebd50427c5e29952b.jpg?mw=660",
+    "most_iconic_place": "Shirvanshah Museum Restaurant",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Basmati",
+      "Prunes",
+      "Chestnuts",
+      "Raisins",
+      "Onion",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shaki_piti",
+    "name": "Shaki piti",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 13,
+    "short_description": "When seeking genuinely authentic and traditional Azerbaijani cuisine, piti is undoubtedly the first dish that locals will recommend. Originating in the northern city of Sheki, this hearty stew owes it...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/488aca4ea0754e8a8980f11a5bde77c2.jpg?mw=660",
+    "most_iconic_place": "Restoran Qaqarin",
+    "most_iconic_location": "Shaki",
+    "ingredients": [
+      "Lamb",
+      "Mutton",
+      "Chickpeas",
+      "Chestnuts",
+      "Plums",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "çoban_salatası",
+    "name": "Çoban salatası",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 14,
+    "short_description": "Çoban salatası or shepherd's salad is a traditional salad that can be found throughout the country, especially during summer. It's also popular in Azerbaijanai cuisine. The salad is made with a combin...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3cd84f66f49048048ad0ccd9ba993672.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Bell Pepper",
+      "Lemon",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "buglama",
+    "name": "Buglama",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Buglama is a popular Azerbaijani and Georgian dish consisting of lamb pieces that are stewed with onions, tomatoes, peppers, a variety of spices including black pepper and bay leaves, and a small amou...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7b7e08fbd55c48a09dafd32afb4c7e83.jpg?mw=660",
+    "most_iconic_place": "Sehrli Tandir",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Lamb",
+      "Bell Pepper",
+      "Onion",
+      "Tomato",
+      "Hot Peppers",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "narsharab",
+    "name": "Narsharab",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 16,
+    "short_description": "Narsharab is a unique Azerbaijani sauce consisting of evaporated pomegranate juice that is combined with sugar and spices such as basil, cinnamon, coriander, salt, and ground black pepper. Its flavor ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/606952dc94954dfc8bdc5c9bb94f282c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pomegranate",
+      "Sugar",
+      "Basil",
+      "Cinnamon",
+      "Coriander",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tava_kebab",
+    "name": "Tava kebab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 17,
+    "short_description": "Tava kebab is an Azerbaijani variety of the world-famous meat dish, made with local herbs, vegetables, and eggs. The most common version starts by mixing the minced mutton (or beef) with finely choppe...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/38930faf52af43b78369d6f6ba879502.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Eggs",
+      "Onion",
+      "Eggplant",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dushbara",
+    "name": "Dushbara",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 18,
+    "short_description": "Dushbara is a traditional dish consisting of meat-filled dumplings cooked in a flavorful lamb broth. According to local customs, every woman in the country needs to know how to make the dumplings as s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0e05f33efa394585824c9fb921fa681d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Lamb",
+      "Wheat Flour",
+      "Onion",
+      "Eggs",
+      "Lamb Stock"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "levengi",
+    "name": "Levengi",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 19,
+    "short_description": "Levengi is a traditional stuffing made with walnuts, onions, and dried fruits such as raisins. The stuffing is typically additionally flavored with albukhara and alcha seasonings. It is often used in ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/966601d8f08e4f43acf15389ad67c768.jpg?mw=660",
+    "most_iconic_place": "Khan Lankaran",
+    "most_iconic_location": "Lankaran",
+    "ingredients": [
+      "Onion",
+      "Walnuts",
+      "Raisins",
+      "Cherry Plums",
+      "Prunes",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shekarbura",
+    "name": "Shekarbura",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 20,
+    "short_description": "Shekerbura is a simple and delicate sweet pastry, enjoying the status of one of the most famous Azerbaijani desserts. The tender pastry shell is made with a simple butter-based dough, which is then fi...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b1f2870a324e481b9ee464336b218d83.jpg?mw=660",
+    "most_iconic_place": "Shirvanshah Museum Restaurant",
+    "most_iconic_location": "Baku",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Walnuts",
+      "Hazelnuts",
+      "Almonds",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "manqal_salatı",
+    "name": "Manqal salatı",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 21,
+    "short_description": "Manqal salatı is a refreshing Azerbaijani salad that is especially popular during summer. It consists of eggplants, tomatoes, bell peppers, hot peppers, and onions. The vegetables are traditionally gr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fb87de0050564584bfb2ffdebe96706d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggplant",
+      "Tomato",
+      "Bell Pepper",
+      "Hot Peppers",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kufta_bozbash",
+    "name": "Kufta bozbash",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 22,
+    "short_description": "Kufta bozbash is a traditional meatball soup. The essence of this soup is in the flavor of the köfte (meatballs). Ground meat (usually lamb) is mixed with finely chopped onions, rice, dried mint, and ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4dcf5b34023a4a2cbba343813fc35f3d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Onion",
+      "Rice",
+      "Cherry Plums",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shirin_plov",
+    "name": "Shirin plov",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 23,
+    "short_description": "Azerbaijan is a country with a rich tapestry of culture, with many different influences - and no dish does more justice to its history than the sweet rice dish shirin plov. Believed to have been creat...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f799e54cd8540cdb46b78c513b8b82b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Basmati",
+      "Butter",
+      "Saffron",
+      "Apricot",
+      "Raisins",
+      "Chestnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "guru_khingal",
+    "name": "Guru khingal",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 24,
+    "short_description": "Guru khingal is a traditional ground meat dish originating from Azerbaijan. The dish is usually made with a combination of ground meat (lamb or beef), onions, butter, salt, pepper, yogurt, garlic, and...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2db77cebd2644f3d986357c5d26c30c7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Onion",
+      "Butter",
+      "Yogurt",
+      "Garlic"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "gulyás",
+    "name": "Gulyás",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 1,
+    "short_description": "This Hungarian specialty is prepared with meat, traditionally beef, that is simmered in a rich paprika-infused broth, usually alongside onions, bell peppers, root vegetables, various spices, and occas...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c248dc8942e1454f92e8e140141d02e7.jpg?mw=660",
+    "most_iconic_place": "Kiado Kocsma",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Beef",
+      "Tomato",
+      "Bell Pepper",
+      "Potatoes",
+      "Carrot",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "krémes",
+    "name": "Krémes",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 2,
+    "short_description": "The Hungarian version of the famous cremeschnitte goes under the name krémes, meaning creamy. It combines two layers of puff pastry held together with a generous amount of smooth pastry cream. Though ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3a50c3d19f014dab8720930f7fe381d8.jpg?mw=660",
+    "most_iconic_place": "Ruszwurm Cukrászda",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Vanilla",
+      "Gelatin",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_paprikash_paprikás_csirke",
+    "name": "Chicken paprikash (Paprikás csirke)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Hungarian chicken paprikás originated as a rustic stew that was cooked in a large cauldron over an open fire. It is traditionally prepared with chicken thighs and legs that are braised alongside onion...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/82bf238da3e6442ea67427a3ec6efe49.jpg?mw=660",
+    "most_iconic_place": "Pest-Buda Bistro",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Chicken",
+      "Wheat Flour",
+      "Eggs",
+      "Onion",
+      "Paprika",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pörkölt",
+    "name": "Pörkölt",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 4,
+    "short_description": "Pörkölt is Hungary's national stew, its name derived from the word pörkölni, meaning to roast or singe. The stew is made from meat such as beef, lamb, pork, or chicken, simmered in a red sauce with lo...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5a7168ff459d4104bbfc5e8ec378abab.jpg?mw=660",
+    "most_iconic_place": "Gettó Gulyás",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Lamb",
+      "Chicken",
+      "Pork",
+      "Beef",
+      "Bell Pepper",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lecsó",
+    "name": "Lecsó",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 5,
+    "short_description": "This hearty Hungarian vegetable ragout is made with a base of rendered lard or bacon fat, fried Hungarian wax peppers, tomatoes, onions, ground paprika, salt, and sometimes garlic. Lecsó can be eaten ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b35f960d1caa4239a0cf7af9a76b0823.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tomato",
+      "Bell Pepper",
+      "Onion",
+      "Lard",
+      "Paprika",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pogácsa",
+    "name": "Pogácsa",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 6,
+    "short_description": "Pogácsa is a popular Hungarian snack consisting of a small, bite-sized pastry that can be either sweet or savory. Preferably, it should be eaten while still hot. Although there are differences in size...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/83a95efa02ed4f65934e3bd47c1a9fb7.jpg?mw=660",
+    "most_iconic_place": "Ruszwurm Cukrászda",
+    "most_iconic_location": "Budapest",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lángos",
+    "name": "Lángos",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "Lángos is a Hungarian specialty made by deep-frying a basic dough consisting of water, flour, yeast, sugar, and salt until it develops a golden-brown color. Sour cream, milk, or yogurt can all be used...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0384c4118bdf4bc687dc766b3c4beca0.jpg?mw=660",
+    "most_iconic_place": "Drum Cafe",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Milk",
+      "Vegetable Oil",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dobostorta",
+    "name": "Dobostorta",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 8,
+    "short_description": "Dobostorta is a round cake consisting of six thin sponge cake layers and five layers of chocolate buttercream. As an attempt to make a cake that would be able to keep longer than usual, the Hungarian ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/189316872d5e472fa2c4c464a7e083e4.jpg?mw=660",
+    "most_iconic_place": "Café Gerbeaud",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Chocolate",
+      "Cocoa Butter",
+      "Vanilla Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spit_cake_kürtőskalács",
+    "name": "Spit cake (Kürtőskalács)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 9,
+    "short_description": "This Hungarian tube-shaped pastry popularly known as chimney cake traces its origin to the medieval era Székely Land—back then a part of the Kingdom of Hungary. The first known recipe titled Kürtős ka...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b17fce3105f54e74864d7de485513231.jpg?mw=660",
+    "most_iconic_place": "Molnár's Kürtőskalács",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Cinnamon",
+      "Vanilla Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kifli",
+    "name": "Kifli",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 10,
+    "short_description": "Kifli are crescent-shaped yeast rolls that can either be consumed plain, sprinkled with poppy, sesame, or caraway seeds, or topped with fruit jam or honey. Although not much is known about the origin ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/efc333fbe54e4a1fbca9ce8c6e431355.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Poppy Seeds",
+      "Caraway Seeds",
+      "Sesame Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "töltött_kaposzta",
+    "name": "Töltött kaposzta",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 11,
+    "short_description": "Hungarian stuffed cabbage consists of blanched fresh or sour cabbage leaves that are stuffed with a flavorful mixture of minced pork, onions, rice, and seasonings. Neatly tucked rolls are layered with...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9544306e814c4b7dbedc62dc9336517a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Sauerkraut",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "esterházy_torta",
+    "name": "Esterházy torta",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 12,
+    "short_description": "This decadent Hungarian dessert is said to have been invented by Budapest confectioners in the 19th century. It is named after a member of the Esterházy dynasty, Prince Paul III Anton Esterházy de Gal...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d4df0b54e1df41d784f364cf0428baea.jpg?mw=660",
+    "most_iconic_place": "Café Gerbeaud",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Almonds",
+      "Vanilla",
+      "Cocoa Powder",
+      "Apricot Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hurka",
+    "name": "Hurka",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 13,
+    "short_description": "Hurka is a popular Hungarian sausage consisting of ground pork and pork liver, rice, and onions. There are two main varieties: májas hurka, made with liver and rice, and véres hurka, made with blood, ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a9381667e2e248ce9e483d1734569a0a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Pork Liver",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "húsleves",
+    "name": "Húsleves",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 14,
+    "short_description": "Traditionally prepared with beef or chicken, this hearty Hungarian soup is a staple restaurant dish as well as a common home-cooked meal. Besides meat, it usually incorporates noodles, root vegetables...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/37b287673cd2463a925db1ed046a053b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Chicken",
+      "Noodles",
+      "Carrot",
+      "Parsley Root",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "főzelék",
+    "name": "Főzelék",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Főzelék is a thick vegetable stew originating from Hungary. Although it can be prepared with most vegetables, it's usually made with peas, spinach, lentils, potatoes, or cabbage as the main ingredient...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1f4ac5ee69cc4192add7d9088d387b10.jpg?mw=660",
+    "most_iconic_place": "Café Kör",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Cabbage",
+      "Green Peas",
+      "Spinach",
+      "Lentils",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "halászlé",
+    "name": "Halászlé",
+    "local_name": null,
+    "category": "FISH SOUP",
+    "rank": 16,
+    "short_description": "Halászlé or fisherman's soup is made with mixed river fish cooked in a broth that is heavily spiced with hot paprika. The fish—mainly carp, catfish, perch, or pike—is locally sourced from the Tisza an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/aaf7314d372245fe8c4f2ce3d718d184.jpeg?mw=660",
+    "most_iconic_place": "Kiskőrössy Halászcsárda",
+    "most_iconic_location": "Szeged",
+    "ingredients": [
+      "Catfish",
+      "Pike",
+      "Carp",
+      "Onion",
+      "Tomato",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zserbó",
+    "name": "Zserbó",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 17,
+    "short_description": "This layered, chocolate-topped apricot and walnut cake was invented by a Swiss chocolatier named Émile Gerbeaud—pronounced zserbó in Hungarian, hence the name—who moved to Budapest in 1884 to take cha...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2dd4654ecc9848518ac5f59420dc73a5.jpg?mw=660",
+    "most_iconic_place": "Café Gerbeaud",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Apricot Jam",
+      "Walnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rakott_krumpli",
+    "name": "Rakott krumpli",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 18,
+    "short_description": "Often described as the ultimate comfort food, this traditional casserole is one the most popular Hungarian dishes. Even though it is incredibly versatile, it usually consists of multiple layers of sli...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7fcf0e6e0c55405e825385db1f1caac7.jpg?mw=660",
+    "most_iconic_place": "Stand25 Bisztró",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Potatoes",
+      "Csabai kolbász",
+      "Bacon",
+      "Eggs",
+      "Sour Cream",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kalács",
+    "name": "Kalács",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 19,
+    "short_description": "Kalács is a traditional sweet bread consisting of flour, butter, eggs, sugar, yeast, and milk. It is so popular that almost every family in Hungary has their own recipe and variation on the bread. Som...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6f88e893b7f44bc6a581a0e1031d1338.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Yeast",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "túrógombóc",
+    "name": "Túrógombóc",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 20,
+    "short_description": "Túrógombóc (or topfenknödel in German) are traditional Hungarian and Austrian dumplings of Bohemian origin that are made with fresh cottage cheese (túró cheese in Hungary)...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/78ff5aa2eab04f32bd7dd1a5605b7060.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cottage Cheese",
+      "Semolina",
+      "Eggs",
+      "Butter",
+      "Breadcrumbs",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "meggyleves",
+    "name": "Meggyleves",
+    "local_name": null,
+    "category": "SWEET SOUP",
+    "rank": 21,
+    "short_description": "This sweet chilled soup made with sour cherries and sour cream is a traditional summertime dish. Also known as hideg meggyleves, meggykeszőce or cseresznyeleves, it is prepared throughout the country ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a56d40284ddd4604aa842abe4d046ad7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sour Cherries",
+      "Sour Cream",
+      "Wheat Flour",
+      "Cloves",
+      "Star Anise",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "somlói_galuska",
+    "name": "Somlói galuska",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 22,
+    "short_description": "Even though its name translates to somló dumpling, this classic Hungarian dessert is actually a trifle cake made of several layers of sponge and custard cream, studded with raisins soaked either in ru...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d88a00d4bb7e43a79987d0e18463657c.jpg?mw=660",
+    "most_iconic_place": "Café Kör",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Baking Powder",
+      "Cocoa Powder",
+      "Dark Chocolate",
+      "Walnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "túrós_csusza",
+    "name": "Túrós csusza",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 23,
+    "short_description": "This Hungarian classic combines pasta, traditional túró cheese, and crispy bacon bits. It can be prepared with different pasta varieties, but the tradition suggests using rolled, flat egg pasta that i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ddb9f08d2c7045e392c379ad54da3189.jpg?mw=660",
+    "most_iconic_place": "Kakukk Vendéglő",
+    "most_iconic_location": "Budapest",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gesztenyepüré",
+    "name": "Gesztenyepüré",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 24,
+    "short_description": "Gesztenyepüré is a sweet treat consisting of puréed, sweetened chestnuts topped with whipped cream. It is very popular in Hungary, but it was first discovered in an Italian cookbook from 1475. This di...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8bb3716f67674aa289e4476157e3bac2.jpg?mw=660",
+    "most_iconic_place": "Café Kör",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Chestnuts",
+      "Rum",
+      "Vanilla",
+      "Sugar",
+      "Whipped Cream"
+    ],
+    "is_active": true
+  }
+]

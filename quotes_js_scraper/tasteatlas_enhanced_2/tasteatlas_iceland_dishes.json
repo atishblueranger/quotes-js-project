@@ -1,0 +1,269 @@
+[
+  {
+    "id": "svið",
+    "name": "Svið",
+    "local_name": null,
+    "category": "MUTTON DISH",
+    "rank": 1,
+    "short_description": "Singed and halved, sheep's head is cooked to perfection in Icelandic tradition, showcasing a bold flavor profile. Svið offers a truly unique taste of Viking heritage, served with a sprinkle of salt.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a8d1744fcf754a9e8e905874be2767a4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sheep's Head",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "icelandic_fish_and_chips_fiskur_og_franskar",
+    "name": "Icelandic fish and chips (Fiskur og franskar)",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 2,
+    "short_description": "Crisp spelt flour batter envelops fresh saltwater fish, creating a deliciously light crunch. Paired with golden fries, this Icelandic twist on a classic comfort dish showcases the island's rich maritime heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d253e4f6996e475780637877a78f6e25.jpg?mw=660",
+    "most_iconic_place": "Mia's Country Van",
+    "most_iconic_location": "Skógar",
+    "ingredients": [
+      "Saltwater Fish",
+      "Spelt Flour",
+      "Eggs",
+      "Baking Powder",
+      "Potatoes",
+      "Sparkling Mineral Water"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kjötsúpa",
+    "name": "Kjötsúpa",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 3,
+    "short_description": "Hearty and comforting, this traditional Icelandic lamb soup combines tender meat with earthy vegetables like rutabaga and cabbage, simmered to perfection with fragrant herbs. A true taste of Iceland's rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ae50e83a7669487ba94dc399e4e81a4b.jpg?mw=660",
+    "most_iconic_place": "Cafe Loki",
+    "most_iconic_location": "Reykjavík",
+    "ingredients": [
+      "Lamb",
+      "Potatoes",
+      "Carrot",
+      "Cabbage",
+      "Rutabaga",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "icelandic_hot_dog_pylsa",
+    "name": "Icelandic hot dog (Pylsa)",
+    "local_name": null,
+    "category": "HOT DOG",
+    "rank": 4,
+    "short_description": "Savor the iconic Icelandic hot dog, featuring a juicy lamb sausage nestled in a warm steamed bun. Topped with fried onions, tangy ketchup, and sweet mustard, it's a beloved street food delight!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/21114e9ae42c4983bb64a213b674386b.jpg?mw=660",
+    "most_iconic_place": "Bæjarins Beztu Pylsur",
+    "most_iconic_location": "Reykjavík",
+    "ingredients": [
+      "Pylsur",
+      "Hot Dog Bun",
+      "Ketchup",
+      "Mustard",
+      "Mayonnaise",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rúgbrauð",
+    "name": "Rúgbrauð",
+    "local_name": null,
+    "category": "RYE BREAD",
+    "rank": 5,
+    "short_description": "Steamed in underground pits, this dense, dark brown Icelandic rye bread boasts rich flavors of molasses and honey. A staple of Nordic cuisine, it's perfect for pairing with smoked fish or butter.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4274d36a265a40faabd6f18d106bde11.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "rye flour",
+      "Baking Powder",
+      "Baking Soda",
+      "Molasses",
+      "Honey",
+      "Buttermilk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "graflax",
+    "name": "Graflax",
+    "local_name": null,
+    "category": "SALMON DISH",
+    "rank": 6,
+    "short_description": "Originating from Scandinavian fishermen, this delightful dish features raw salmon cured with salt, sugar, and fresh dill. Its harmonious balance of flavors makes it a must-try Icelandic delicacy.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/18000a17cd68426d87d93eed4f290501.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Salmon",
+      "Salt",
+      "Dill",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pylsur",
+    "name": "Pylsur",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 7,
+    "short_description": "Iceland’s beloved pylsur combines ground lamb, beef, and pork with a hint of nutmeg and garlic, creating a uniquely savory hot dog experience. A must-try street food, it embodies the country’s culinary pride.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a3185e7b52824cb08531859861ea67f9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Ground Pork",
+      "Nutmeg",
+      "Garlic Powder",
+      "Onion Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vínarterta",
+    "name": "Vínarterta",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 8,
+    "short_description": "Layered with rich prunes and a buttery dough, this traditional Icelandic treat delights with its unique texture and sweet flavor. Celebrated during holidays, vínarterta embodies a cherished cultural heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ebc693c1fc5f4c63809645aaf0ce1057.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Prunes",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "flatkaka",
+    "name": "Flatkaka",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 9,
+    "short_description": "Originating from Iceland, this traditional flatbread combines earthy rye and wheat flour, resulting in a hearty, savory taste. Unleavened and pan-baked, it's perfect for pairing with rich toppings or enjoying on its own.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b59ad1d4e79a4ef3b4e3f1a56d9a925e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Baking Soda",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "laufabrauð",
+    "name": "Laufabrauð",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 10,
+    "short_description": "Leaf bread, a cherished Icelandic Christmas tradition since 1736, features a delicate, crispy texture with hints of buttery sweetness. Each piece is intricately patterned and lightly fried, perfect for festive feasts.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/abd87f94c22f4b088c39bacebd6dea93.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Powder",
+      "Butter",
+      "Sugar",
+      "Milk",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "oven_cheese_broddur",
+    "name": "Oven cheese (Broddur)",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 11,
+    "short_description": "Rich and creamy, this traditional Icelandic dessert combines colostrum and milk, gently baked with a hint of cinnamon and sugar. Each bite offers a warm, comforting sweetness steeped in local heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/61fb20e322cd47b28047f993ac73d892.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Colostrum",
+      "Milk",
+      "Cinnamon",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thorramatur",
+    "name": "Thorramatur",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 12,
+    "short_description": "A vibrant assortment of Icelandic delicacies, Thorramatur features cured delights like hákarl (fermented shark) and hangikjöt (smoked lamb). Celebrated during Þorri, it offers a bold taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1bffdfaa3437428fad6d5a5e5eeebe56.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Svið",
+      "Hákarl",
+      "Harðfiskur",
+      "Hangikjöt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ábrystir",
+    "name": "Ábrystir",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 13,
+    "short_description": "Rich and creamy, this traditional Icelandic pudding showcases colostrum for a luxurious texture, reminiscent of crème brûlée. Sweetened with sugar and blended with skyr, it’s a local delicacy steeped in heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1b3b7122775e432a958ac04dbada2863.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Colostrum",
+      "Skyr",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "skyronnes",
+    "name": "Skyronnes",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 14,
+    "short_description": "Originating from Iceland, this creamy dip combines tangy skyr with garlic, dill, parsley, and chives for a fresh, herbaceous flavor. Perfect for spreading or dipping, it embodies Icelandic culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/01f96e898b20413d96d673456b650d47.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Skyr",
+      "Garlic",
+      "Dill",
+      "Parsley",
+      "Chives",
+      "Olive Oil"
+    ],
+    "is_active": true
+  }
+]

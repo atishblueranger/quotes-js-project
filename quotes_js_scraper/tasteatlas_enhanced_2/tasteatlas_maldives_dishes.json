@@ -1,0 +1,345 @@
+[
+  {
+    "id": "gulha",
+    "name": "Gulha",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 1,
+    "short_description": "Originating from the Maldives, these golden, deep-fried pastry balls burst with the flavors of smoky fish, sweet coconut, and savory onions. A beloved snack enjoyed at local cafés!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8f71bd9305714311bf02382be936908e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mas_huni",
+    "name": "Mas huni",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 2,
+    "short_description": "A beloved Maldivian breakfast, this vibrant dish combines fresh tuna, zesty onions, and creamy shredded coconut, all brought together with a kick of chili. Simple yet bursting with flavor!",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "garudihya",
+    "name": "Garudihya",
+    "local_name": null,
+    "category": "FISH SOUP",
+    "rank": 3,
+    "short_description": "Nourishing and vibrant, this Maldivian fish soup features tender tuna simmered to perfection in a savory broth, enhanced with aromatic spices and curry. A comforting staple that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kulhimas",
+    "name": "Kulhimas",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 4,
+    "short_description": "Originating from the Maldives, spiced tuna in Kulhimas bursts with flavor from onions, garlic, and fiery hot peppers. Each bite offers a taste of the islands' rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Coconut",
+      "Hot Peppers",
+      "Garlic",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "maldivian_fish_curry_mas_riha",
+    "name": "Maldivian Fish Curry (Mas riha)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "Originating from the Maldives, this rich fish curry combines tender chunks of tuna and swordfish simmered in a fragrant blend of onion, garlic, and ginger, all enveloped in creamy coconut goodness.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Swordfish",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kukulku_riha",
+    "name": "Kukulku riha",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "A Maldivian classic, this chicken stew blends aromatic spices like ginger and garlic with rich ghee, creating a flavorful curry that warms the soul and celebrates local culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Ghee",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "masroshi",
+    "name": "Masroshi",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "A beloved Maldivian snack, Masroshi features golden, fried dough filled with smoky tuna, fresh coconut, and a kick of hot peppers. Each bite offers a perfect blend of savory and spicy, celebrating island flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fb586165085a496ebdbc0a5fcf7fd602.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "huni_roshi",
+    "name": "Huni roshi",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 8,
+    "short_description": "Originating from the Maldives, this traditional flatbread features a delightful blend of flour and grated coconut, cooked to golden perfection. Enjoy its soft, slightly chewy texture and subtle richness, perfect for pairing with savory dishes.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Coconut",
+      "Oil and Animal Fat",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "keemiyaa",
+    "name": "Keemiyaa",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 9,
+    "short_description": "Originating from the Maldives, Keemiyaa features a savory blend of fresh tuna, fragrant spices, and zesty lemon, all encased in a golden, crispy shell. A beloved snack that bursts with flavor!",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Flour",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Peas"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kavaabu",
+    "name": "Kavaabu",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 10,
+    "short_description": "Originating from the Maldives, Kavaabu features crispy fritters made with smoked tuna, zesty ginger, and fresh coconut. Bursting with flavor, these savory bites are perfect for snacking anytime.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Ginger",
+      "Coconut",
+      "Rice",
+      "Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tuna_curry_dhon_riha",
+    "name": "Tuna Curry (Dhon riha)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 11,
+    "short_description": "Originating from the Maldives, this traditional tuna curry combines tender fresh tuna with rich coconut milk, aromatic ginger, and a hint of cinnamon. Each spoonful bursts with tropical flavors, reflecting the island's culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Coconut Milk",
+      "Coconut",
+      "Ginger",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "miruhulee_boava",
+    "name": "Miruhulee boava",
+    "local_name": null,
+    "category": "OCTOPUS DISH",
+    "rank": 12,
+    "short_description": "Originating from the Maldives, tender octopus tentacles are braised with aromatic onions, garlic, and vibrant curry leaves, offering a spicy kick from hot peppers. A true taste of island tradition!",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Octopus",
+      "Onion",
+      "Garlic",
+      "Curry leaves",
+      "Hot Peppers",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dhonkeyo_kajuru",
+    "name": "Dhonkeyo kajuru",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 13,
+    "short_description": "Originating from the Maldives, these deep-fried fritters combine ripe bananas and grated coconut for a sweet, crispy delight. Golden and fragrant, they are a beloved snack enjoyed by locals and visitors alike.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bananas",
+      "Coconut",
+      "Sugar",
+      "Flour",
+      "Baking Powder",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "havaadhulee_bis",
+    "name": "Havaadhulee bis",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 14,
+    "short_description": "Originating from the Maldives, curried tuna dumplings are a delightful blend of tender flour dough filled with spiced tuna and simmered in rich coconut milk, offering a taste of island comfort.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Tuna",
+      "Coconut",
+      "Coconut Milk",
+      "Onion",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bis_riha",
+    "name": "Bis riha",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Originating from the Maldives, this fragrant stew combines eggs, dried fish, and rich coconut milk, simmered with aromatic spices like cumin and turmeric for a delightful taste of island culture.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Onion",
+      "Garlic",
+      "Coconut Milk",
+      "Dried Fish",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "riha_folhi",
+    "name": "Riha folhi",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 16,
+    "short_description": "Originating from the Maldives, these vibrant turmeric-infused crepes are lovingly stuffed with flavorful tuna, onions, and a hint of curry powder, offering a delightful taste of island tradition.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Turmeric",
+      "Tuna",
+      "Onion",
+      "Curry Powder",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rihaakuru_dhiya",
+    "name": "Rihaakuru dhiya",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 17,
+    "short_description": "A beloved Maldivian staple, this rich soup blends creamy coconut milk with zesty lemon, aromatic curry leaves, and fiery Scotch Bonnet peppers, creating a warm, comforting bowl full of island flavors.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "aluvi_hiki_riha",
+    "name": "Aluvi hiki riha",
+    "local_name": null,
+    "category": "POTATO DISH",
+    "rank": 18,
+    "short_description": "A beloved Maldivian comfort dish, tender potatoes are sautéed with aromatic onions, garlic, and ginger, then spiced with mustard seeds and Scotch Bonnet peppers, creating a flavorful, vibrant experience.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Mustard Seeds",
+      "Scotch Bonnet pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fuhjehi_kavaabu",
+    "name": "Fuhjehi kavaabu",
+    "local_name": null,
+    "category": "DEEP-FRIED DISH",
+    "rank": 19,
+    "short_description": "Crispy Maldivian fritters blend fresh tuna, vibrant Scotch Bonnet pepper, and tender potatoes, all enveloped in a golden batter. A beloved snack, they pack a punch of flavor in every bite!",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tuna",
+      "Potatoes",
+      "Onion",
+      "Ginger",
+      "Scotch Bonnet pepper",
+      "Turmeric"
+    ],
+    "is_active": true
+  }
+]

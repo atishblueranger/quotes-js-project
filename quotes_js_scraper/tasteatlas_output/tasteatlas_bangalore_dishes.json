@@ -1,0 +1,711 @@
+[
+  {
+    "id": "rava_idli",
+    "name": "Rava idli",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 1,
+    "short_description": "Rava idli is a popular steamed semolina cake invented during World War II by the popular restaurant chain Mavalli Tiffin Rooms (MTR) in Bangalore, India. During the war, there was a shortage of rice, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0541939265624f3bb85b075eaa2343cf.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Semolina",
+      "Ghee",
+      "Dahi",
+      "Cashews",
+      "Hot Peppers",
+      "Curry leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dosa",
+    "name": "Dosa",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 1,
+    "short_description": "The thin pancake known as dosa is one of the most famous Indian dishes. It is made with soaked rice and black gram beans, which are ground into a paste and mixed to create a thick batter, usually left...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b1e9054ebc86490ebef27f3e791ccee4.jpg?mw=660",
+    "most_iconic_place": "Central Tiffin Room",
+    "most_iconic_location": "Tamil Nadu",
+    "ingredients": [
+      "Rice",
+      "Black Grams",
+      "Ghee",
+      "Fenugreek Seeds",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "masala_dosa",
+    "name": "Masala dosa",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 2,
+    "short_description": "A traditional southern Indian dish known as masala dosa is popular throughout the country, made from a batter of soaked rice and lentils that is baked into a thin pancake and usually stuffed with pota...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ba7bab747c7e41769dbc895a84626a23.jpg?mw=660",
+    "most_iconic_place": "Central Tiffin Room",
+    "most_iconic_location": "Southern India",
+    "ingredients": [
+      "Rice",
+      "Black Grams",
+      "Potatoes",
+      "Onion",
+      "Fenugreek Seeds",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "idli",
+    "name": "Idli",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 3,
+    "short_description": "Idli is a traditional, savory Indian cake that is a popular breakfast item in numerous South Indian households, although it can be found throughout the country. It is made with a batter consisting of ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7389072b562f4dd6b08608b2692b4728.jpg?mw=660",
+    "most_iconic_place": "Veena Stores",
+    "most_iconic_location": "Southern India",
+    "ingredients": [
+      "Black Grams",
+      "Rice",
+      "Fenugreek Seeds",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "upma",
+    "name": "Upma",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 4,
+    "short_description": "Upma is a wholesome Indian dish made with dry semolina, cooked into a thick porridge. Traditionally served hot for breakfast, its taste is slightly bland, so various nuts, beans, and spices such as tu...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e4e3193046014f5bb9d0b6dc838d0f53.jpg?mw=660",
+    "most_iconic_place": "Brahmin's Coffee Bar",
+    "most_iconic_location": "Southern India",
+    "ingredients": [
+      "Semolina",
+      "Ghee",
+      "Mustard Seeds",
+      "Cumin Seeds",
+      "Black Grams",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bisi_bele_bath",
+    "name": "Bisi bele bath",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 5,
+    "short_description": "Bisi bele bath, translated to hot lentil rice, is an aromatic and spicy dish originating from the Indian state of Karnataka. Moist rice and lentils are combined with ghee butter, tamarind, curry leave...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/aa4f2eb13796465e96a0ea39a5663943.jpg?mw=660",
+    "most_iconic_place": "Mavalli Tiffin Rooms",
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Rice",
+      "Pigeon Peas",
+      "Turmeric",
+      "Carrot",
+      "Beans",
+      "Green Peas"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mysore_pak",
+    "name": "Mysore pak",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 6,
+    "short_description": "Mysore pak was invented in 1935 at the Mysore Palace by the royal chef Madappa. As the King Krishna Raja Wodeyar was ready to have his lunch, the chef began experimenting with a sweet dish, combining ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a16024033f59415ea574750ac003b15c.jpg?mw=660",
+    "most_iconic_place": "Sri Venkateshwara Sweet Meat Stall",
+    "most_iconic_location": "Mysore",
+    "ingredients": [
+      "Gram Flour",
+      "Ghee",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chutney",
+    "name": "Chutney",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 7,
+    "short_description": "Whether Indians are enjoying tandoori chicken or aloo paratha, no meal is complete without the flavorful chutneys - India's national condiments. These fresh homemade relishes consist of pickled or ste...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/90ddab16279f486ba3c8dea223ab1231.jpg?mw=660",
+    "most_iconic_place": "Brahmin's Coffee Bar",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "coconut_chutney_nariyal_chutney",
+    "name": "Coconut chutney (Nariyal chutney)",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 8,
+    "short_description": "Coconut chutney is a popular South Indian condiment or side dish, consisting of a coconut stew that is combined with shallots, tamarind, ginger, chiles, and curry leaves. It is a specialty of the Nort...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/95eb97a4ccfc458bbc63fd4f15cbba78.jpg?mw=660",
+    "most_iconic_place": "Brahmin's Coffee Bar",
+    "most_iconic_location": "Kerala",
+    "ingredients": [
+      "Coconut",
+      "Black Grams",
+      "Shallots",
+      "Tamarind",
+      "Ginger",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kulfi",
+    "name": "Kulfi",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 9,
+    "short_description": "Kulfi is a traditional ice cream made with slowly simmered whole milk. Although the long-simmering process results in a loss of volume, it makes up for it with a delicious, nutty, caramelized flavor. ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4f3d4d079fce4c2ebda620d8717ae358.jpg?mw=660",
+    "most_iconic_place": "Barbeque Nation",
+    "most_iconic_location": "Delhi",
+    "ingredients": [
+      "Milk",
+      "Mango",
+      "Pistachios",
+      "Rose Water",
+      "Saffron",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "roti",
+    "name": "Roti",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 10,
+    "short_description": "Roti is a flat and unleavened bread made with wholemeal flour. It is traditionally cooked on an iron griddle called tava, an important vessel in the Indian cuisine. In Indian cuisine, roti is as essen...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1bd5e63b79b344ef9b56cc6480470dba.jpg?mw=660",
+    "most_iconic_place": "Halli Mane",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "akki_rotti",
+    "name": "Akki rotti",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 11,
+    "short_description": "Akki rotti is a dish that is especially popular in the Indian region of Karnataka, consisting of griddle-baked rice flour that is shaped like a pancake or a flatbread. It is commonly consumed either f...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4657b38443554474a2de387ff320990e.jpg?mw=660",
+    "most_iconic_place": "Halli Mane",
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Rice Flour",
+      "Onion",
+      "Carrot",
+      "Coriander",
+      "Hot Peppers",
+      "Curry leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vada_pav",
+    "name": "Vada pav",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 12,
+    "short_description": "Vada pav is one of Mumbai's favorite sandwiches, its name referring to the key ingredients: vada, or spicy mashed potatoes that are deep-fried in chickpea batter, and pav, or white bread rolls. This i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/951728fa0ae74174a2602aaece17368c.jpg?mw=660",
+    "most_iconic_place": "Soda Bottle Opener Wala",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Pav",
+      "Potatoes",
+      "Gram Flour",
+      "Garlic",
+      "Hot Peppers",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "medu_vada",
+    "name": "Medu vada",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 13,
+    "short_description": "Medu vada is an Indian snack that is visually similar to a doughnut, consisting of a deep-fried batter made from black lentils and seasonings such as fenugreek, cumin, pepper, chili, and ginger. The f...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d69c2f9b128a49299056a0bb9eca8a45.jpg?mw=660",
+    "most_iconic_place": "Veena Stores",
+    "most_iconic_location": "Maddur",
+    "ingredients": [
+      "Black Grams",
+      "Hot Peppers",
+      "Onion",
+      "Ginger",
+      "Curry leaves",
+      "Fenugreek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "patrode",
+    "name": "Patrode",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 14,
+    "short_description": "Patrode is a savory vegetarian dish from Malvani and Maharashtrian cuisine. Basic ingredients are the same throughout the entire region - taro (colocasia) leaves stuffed (or chopped up) with a mixture...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f0a30d373ee6437f8068dc9997be8701.jpg?mw=660",
+    "most_iconic_place": "Karavalli",
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Taro Leaves",
+      "Gram Flour",
+      "Tamarind",
+      "Jaggery",
+      "Curry leaves",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kachori",
+    "name": "Kachori",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 15,
+    "short_description": "Kachori is a spicy Indian snack shaped like a round flattened ball, consisting of a flour-based shell with different fillings. The most popular filling consists of yellow moong dal, besan flour, peppe...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/07272c50684d428b8b034e7c97a4f87e.jpg?mw=660",
+    "most_iconic_place": "Kota Kachori",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "boti_kebab",
+    "name": "Boti kebab",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 16,
+    "short_description": "Boti kebab is a variety of Indian kebab consisting of chunks of meat (lamb, mutton, chicken) that are soaked in a mixture of yogurt, ginger-garlic paste, chilis, papaya paste, and spices such as garam...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3409b3561e6e4fb59458628d63c352b0.jpg?mw=660",
+    "most_iconic_place": "Barbeque Nation",
+    "most_iconic_location": "Lucknow",
+    "ingredients": [
+      "Lamb",
+      "Mutton",
+      "Chicken",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Raw papaya paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kulfi_falooda",
+    "name": "Kulfi falooda",
+    "local_name": null,
+    "category": "FROZEN DESSERT",
+    "rank": 17,
+    "short_description": "Usually associated with northern Indian regions, this refreshing treat combines thin falooda noodles and kulfi, a traditional Indian ice cream made with slowly simmered whole milk that is flavored wit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/73ded2160e50461084343b595d93738b.jpg?mw=660",
+    "most_iconic_place": "Barbeque Nation",
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Falooda sev",
+      "Milk",
+      "Cardamom",
+      "Almonds",
+      "Pistachios",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sarson_ka_saag",
+    "name": "Sarson ka saag",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 18,
+    "short_description": "Sarson da saag (also sarson ka saag or mustard greens) is a popular Punjabi vegetarian dish consisting of leaves of the mustard plant, spinach, green chilli, fenugreek, ginger and salt. The dish is sl...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ee2a4728c9d84df3af8e11719c0dfca8.jpg?mw=660",
+    "most_iconic_place": "Punjab Grill",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Mustard Greens",
+      "Spinach",
+      "Onion",
+      "Garlic",
+      "Hot Peppers",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "biryani",
+    "name": "Biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 19,
+    "short_description": "Biryani is a group of classic rice dishes dating back to the Mughal Empire. It combines long-grain rice, usually basmati, with marinated meat, seafood, or vegetables, all cooked together with spices s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8fd2297171484b88be3e3e6815979690.jpg?mw=660",
+    "most_iconic_place": "Nagarjuna",
+    "most_iconic_location": "Iran",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "barfi",
+    "name": "Barfi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 20,
+    "short_description": "Even though its name originates from Persia, barfi is an original Indian dessert which resembles a fudge. It belongs to a wider group of Indian sweets united under the name mithai. In Persian and Urdu...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fde987b6024d4c5ab3c2bc4caf860e31.jpg?mw=660",
+    "most_iconic_place": "Anand Sweets",
+    "most_iconic_location": "India",
+    "ingredients": [
+      "Ghee",
+      "Mawa",
+      "Pistachios",
+      "Peanuts",
+      "Cashews",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "appam",
+    "name": "Appam",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 21,
+    "short_description": "Appam is a popular Indian bowl-shaped pancake made from a batter of rice and coconut milk. Typically consumed for breakfast or dinner, appam is most popular in Tamil Nadu, Sri Lanka, and Kerala, where...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7de2a201d16e44b18e983b2e402b3737.jpg?mw=660",
+    "most_iconic_place": "Karavalli",
+    "most_iconic_location": "Kerala",
+    "ingredients": [
+      "Rice",
+      "Coconut",
+      "Coconut Milk",
+      "Yeast",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rasam",
+    "name": "Rasam",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 22,
+    "short_description": "Rasam is a South Indian soup made with a base of tamarind juice and added ingredients such as pepper, cumin, chili, lemon, lentils, and tomatoes, resulting in a tangy and sour flavor of the dish. The ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4ff368c7e0794e12a9e06a8589f8c408.jpg?mw=660",
+    "most_iconic_place": "Karavalli",
+    "most_iconic_location": "Southern India",
+    "ingredients": [
+      "Tomato",
+      "Tamarind",
+      "Turmeric",
+      "Ghee",
+      "Garlic",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "korma",
+    "name": "Korma",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 23,
+    "short_description": "Korma is a rich and aromatic braised dish that comes from the Indian subcontinent, particularly associated with Mughlai cuisine in northern India, Pakistan and Iran. It typically consists of meat or v...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8bf6e58d3a1545f6abd1dabe49dffa8d.jpg?mw=660",
+    "most_iconic_place": "Tunday Kababi",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chicken_65",
+    "name": "Chicken 65",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 24,
+    "short_description": "Chicken 65 is a classic poultry dish with origins in Chennai, India. It consists of deep-fried chicken that is marinated in ginger, lemon, red chiles, and a variety of other spices. There are a few th...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/55f00ba4fe8746a68b8ad62b24226e3b.jpg?mw=660",
+    "most_iconic_place": "Bheema's",
+    "most_iconic_location": "Chennai",
+    "ingredients": [
+      "Chicken",
+      "Eggs",
+      "Corn Flour",
+      "Rice Flour",
+      "Dahi",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hyderabadi_biryani",
+    "name": "Hyderabadi biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 25,
+    "short_description": "Hyderabadi biryani is a South Indian dish consisting of basmati rice, goat, mutton, or chicken meat, lemon, yogurt, onions, and saffron. There are two main varieties of the dish – kachchi (raw) and pa...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3bd6dfaf53e244dfb7f3ee390447a2f8.jpg?mw=660",
+    "most_iconic_place": "Barbeque Nation",
+    "most_iconic_location": "Hyderabad",
+    "ingredients": [
+      "Basmati",
+      "Chicken",
+      "Mutton",
+      "Goat",
+      "Yogurt",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "avial",
+    "name": "Avial",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 26,
+    "short_description": "Avial is an Indian dish with origins in the Kerala region, although it is equally popular in Tamil Nadu and Udupi. Its name means to be cooked, and the dish consists of a combination of vegetables, co...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/88bc784f4cf84d9b94c7e49c86acae84.jpg?mw=660",
+    "most_iconic_place": "Vembanad",
+    "most_iconic_location": "Kerala",
+    "ingredients": [
+      "Yam",
+      "Winter Melon",
+      "Carrot",
+      "Green Beans",
+      "Plantain",
+      "Moringa"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rava_dosa",
+    "name": "Rava dosa",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 27,
+    "short_description": "Rava dosa is one of the most popular variations of dosa - the South Indian pancake. Rava denotes the semolina batter used to make this variety of dosa and it can be identified by its crisp and netted ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9ce97118c0524e1fad4ab342a98581f4.jpg?mw=660",
+    "most_iconic_place": "Mavalli Tiffin Rooms",
+    "most_iconic_location": "India",
+    "ingredients": [
+      "Semolina",
+      "Rice Flour",
+      "Maida Flour",
+      "Cumin Seeds",
+      "Ghee",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "neer_dosa",
+    "name": "Neer dosa",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 28,
+    "short_description": "This Indian crêpe is made with a very thin batter of rice flour, water, and salt. Unlike other Indian dosas which call for much thicker, and fermented batter, this version uses an unfermented and runn...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ef6b907aff634ed6bee07742947c36d0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Rice Flour",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kosambari",
+    "name": "Kosambari",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 29,
+    "short_description": "Kosambari is the most popular salad from the Indian state of Karnataka. The salad is made with split legumes such as bengal gram and green gram, and it is additionally seasoned with mustard seeds. The...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ca05cba338fa4eea8a6372dd39d7dc02.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Mung beans",
+      "Bengal Gram",
+      "Cucumber",
+      "Mustard Seeds",
+      "Hot Peppers",
+      "Coconut Flakes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ananas_gojju",
+    "name": "Ananas gojju",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 30,
+    "short_description": "Pineapple gojju is a traditional curry originating from Karnataka. Tangy, sweet, and spicy, the curry is usually made with a combination of chopped pineapple, hot chili peppers, mustard seeds, curry l...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0903daef208d41b7b650f5c12cd673db.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Pineapple",
+      "Coconut",
+      "Hot Peppers",
+      "Black Grams",
+      "Mustard Seeds",
+      "Coriander Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bendekaayi_gojju",
+    "name": "Bendekaayi gojju",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 31,
+    "short_description": "Bendekaayi gojju is a traditional curry originating from Karnataka. Tangy, spicy, and sweet, the curry is made with a combination of chopped okra, grated coconut, roasted lentils, hot chili peppers, t...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2b257be5359d452b8bd9113eae12a2f9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Okra",
+      "Coconut",
+      "Hot Peppers",
+      "Lentils",
+      "Red Chilli Powder",
+      "Tamarind"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tomato_gojju",
+    "name": "Tomato gojju",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 32,
+    "short_description": "Tomato gojju is a traditional curry originating from Karnataka. Sour, sweet, and spicy, the curry is made with a combination of tomatoes, curry leaves, turmeric, mustard seeds, cumin, asafoetida, oil,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cf38b6f9100f467282f1edbc660eb5fc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Tomato",
+      "Onion",
+      "Curry leaves",
+      "Hot Peppers",
+      "Black Grams",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chavde",
+    "name": "Chavde",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 33,
+    "short_description": "Chavde is a crispy, deep-fried Indian dessert that's traditionally prepared during the festival of Ganesh Chaturthi. It consists of thinly-rolled, round-shaped dough and a fragrant mixture of roasted ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ac0c21fbd84745809bd9abc8e20adc5d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Rice Flour",
+      "Coconut",
+      "Ghee",
+      "Cardamom",
+      "Sesame Seeds",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rasa_kayi",
+    "name": "Rasa kayi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 34,
+    "short_description": "Rasa kayi is a traditional mixed vegetable curry originating from South India, and it's especially popular in Karnataka. The dish is usually made with a combination of onions, hot peppers, carrots, po...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Carrot",
+      "Green Beans",
+      "Potatoes",
+      "Cauliflower",
+      "Onion",
+      "Coconut"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rava_bonda",
+    "name": "Rava bonda",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 35,
+    "short_description": "Rava bonda is a traditional snack originating from Karnataka. It's usually prepared with a combination of semolina, sour yogurt, hot chili peppers, asafoetida, ginger, cashews, coriander, oil, and sal...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Semolina",
+      "Dahi",
+      "Onion",
+      "Cashews",
+      "Hot Peppers",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bafat",
+    "name": "Bafat",
+    "local_name": null,
+    "category": "SPICE BLEND AND SEASONING",
+    "rank": 1,
+    "short_description": "Bafat is a traditional Mangalorean blend of ground spices such as red chilis, cumin seeds, coriander seeds, peppercorns, mustard seeds, and turmeric. Each spice is dry-roasted separately until fragran...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/df6dfd728eaa452497d661bab2ef520a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mangalore",
+    "ingredients": [
+      "Hot Peppers",
+      "Coriander Seeds",
+      "Cumin Seeds",
+      "Mustard Seeds",
+      "Peppercorns",
+      "Turmeric"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "byadgi_mirch",
+    "name": "Byadgi mirch",
+    "local_name": null,
+    "category": "HOT PEPPER",
+    "rank": 2,
+    "short_description": "Byadgi mirch is a variety of dried red chili from the Byadgi region in Karnataka, India. It is widely celebrated for its vibrant red color, mild heat (5,000 - 15,000 SHU), and slightly smoky aroma, ma...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [],
+    "is_active": true
+  }
+]

@@ -1,0 +1,453 @@
+[
+  {
+    "id": "irish_stew",
+    "name": "Irish stew",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 1,
+    "short_description": "A hearty dish rooted in 19th-century Ireland, this comforting stew features tender mutton and lamb simmered with vibrant potatoes, carrots, and onions, creating a rich, savory experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fe32bd8639c349b4823d4faca4ea2321.jpg?mw=660",
+    "most_iconic_place": "The Boxty House",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Mutton",
+      "Lamb",
+      "Potatoes",
+      "Carrot",
+      "Onion",
+      "Parsnip"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bacon_and_cabbage",
+    "name": "Bacon and cabbage",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 2,
+    "short_description": "Cured pork pairs beautifully with tender cabbage and buttery potatoes in this beloved Irish staple, reflecting the country’s rich farming heritage and hearty flavors. A true comfort dish!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7ebf3274c4184f9f9367f427c9d31e99.jpg?mw=660",
+    "most_iconic_place": "The Stag's Head",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Cabbage",
+      "Potatoes",
+      "Carrot",
+      "Onion",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "colcannon",
+    "name": "Colcannon",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 3,
+    "short_description": "Creamy mashed potatoes blend with tender kale or cabbage, enriched by butter and scallions in this traditional Irish comfort food. A hearty taste of rural heritage, perfect for any meal.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/126938dd5bb34caf91d7d16002d5ee32.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Potatoes",
+      "Kale",
+      "Cabbage",
+      "Scallions",
+      "Onion",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "soda_bread",
+    "name": "Soda bread",
+    "local_name": null,
+    "category": "SODA BREAD",
+    "rank": 4,
+    "short_description": "Originating from Ireland, soda bread boasts a rustic charm with its tender crumb and slightly tangy flavor from buttermilk. Baked to a golden crust, it’s perfect for slathering with butter or enjoying alongside hearty stews.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9b722487b60045868975824dea99f3c4.jpg?mw=660",
+    "most_iconic_place": "Moran's Oyster Cottage",
+    "most_iconic_location": "Kilcolgan",
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Soda",
+      "Buttermilk",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "irish_breakfast",
+    "name": "Irish breakfast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 5,
+    "short_description": "A hearty tradition from Ireland, this breakfast features perfectly fried eggs, crispy bacon, savory sausages, and rich black and white puddings, all served with golden, sautéed potatoes. Each bite bursts with flavor, embodying the warmth of Irish hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1e5990fa16cd4b549cdeb81f9e4bb154.jpg?mw=660",
+    "most_iconic_place": "Hatch and Sons",
+    "most_iconic_location": "Dublin",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "beef_and_guinness_stew",
+    "name": "Beef and Guinness stew",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "Slow-cooked to perfection, tender beef simmers in rich Guinness Draught, complemented by earthy potatoes, sweet carrots, and aromatic onions. A comforting taste of Irish heritage in every bowl.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0ad5926ff6414c18b19c9a635f2dfcea.jpg?mw=660",
+    "most_iconic_place": "The Brazen Head",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Beef",
+      "Guinness Draught",
+      "Potatoes",
+      "Onion",
+      "Carrot",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boxty",
+    "name": "Boxty",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 7,
+    "short_description": "Originating from Ireland's northern and midland counties, these savory potato pancakes blend creamy buttermilk with earthy potatoes. Crispy on the outside and tender inside, they offer a delicious taste of Irish tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8940621f31644ae7ab4ae0bc24e6b9e3.jpg?mw=660",
+    "most_iconic_place": "The Boxty House",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Potatoes",
+      "Wheat Flour",
+      "Buttermilk",
+      "Baking Soda",
+      "Butter",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "white_pudding",
+    "name": "White pudding",
+    "local_name": null,
+    "category": "WHITE SAUSAGE",
+    "rank": 8,
+    "short_description": "Originating from Ireland, this creamy white sausage blends ground pork, hearty oatmeal, and aromatic nutmeg, delivering a savory bite that pairs perfectly with a traditional breakfast.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0e15da264eb74c32abd5a73c2c7f51b2.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Oatmeal",
+      "Breadcrumbs",
+      "Onion",
+      "Nutmeg",
+      "Suet"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "putóg_dhubh",
+    "name": "Putóg dhubh",
+    "local_name": null,
+    "category": "BLOOD SAUSAGE",
+    "rank": 9,
+    "short_description": "Originating from Ireland, this rich black pudding combines pig’s blood with hearty oats, savory onions, and a hint of allspice. Its indulgent, smoky flavor makes it a breakfast staple that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/eaf3beb88ea948409201c58475b5fb8f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pig’s Blood",
+      "Oats",
+      "Onion",
+      "Lard",
+      "Allspice",
+      "Coriander Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "breakfast_roll",
+    "name": "Breakfast roll",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 10,
+    "short_description": "A beloved Irish staple, the breakfast roll packs a hearty mix of sausages, bacon, eggs, and black pudding into a soft baguette-style bap, creating a satisfying start to any day.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a3d5c1930fa1416b8b1b193c66c11eb6.jpg?mw=660",
+    "most_iconic_place": "Ger's Deli",
+    "most_iconic_location": "Dublin",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "beef_and_guinness_pie",
+    "name": "Beef and Guinness pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 11,
+    "short_description": "Slow-cooked beef melds with sweet onions and carrots in a rich Guinness stout sauce, all encased in a flaky pastry. This Irish classic warms the heart and soul with every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fdd85eac172344e3af7aaa9ae5cdce83.jpg?mw=660",
+    "most_iconic_place": "The Ginger Man",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Beef",
+      "Guinness Draught",
+      "Onion",
+      "Carrot",
+      "Bay Leaves",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "irish_brown_bread",
+    "name": "Irish brown bread",
+    "local_name": null,
+    "category": "SODA BREAD",
+    "rank": 12,
+    "short_description": "Originating from Ireland, traditional brown soda bread features a hearty blend of whole-wheat and white flours, leavened with baking soda. Its dense texture and nutty flavor make it a beloved accompaniment to hearty meals.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/138bea90e95040f4a9ddb3c185eca44f.jpg?mw=660",
+    "most_iconic_place": "Moran's Oyster Cottage",
+    "most_iconic_location": "Kilcolgan",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Wheat Flour",
+      "Baking Soda",
+      "Salt",
+      "Butter",
+      "Buttermilk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "irish_seafood_chowder",
+    "name": "Irish seafood chowder",
+    "local_name": null,
+    "category": "CHOWDER",
+    "rank": 13,
+    "short_description": "Hearty and comforting, this chowder showcases the freshest white fish and shellfish from Ireland's Atlantic coast, blended with tender potatoes, onions, and leeks for a rich, flavorful experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8f1d76f15bd1467c840d26cdfe0c4e60.jpg?mw=660",
+    "most_iconic_place": "O'Dowd's Seafood Bar and Restaurant",
+    "most_iconic_location": "Roundstone",
+    "ingredients": [
+      "White Fish",
+      "Shellfish",
+      "Potatoes",
+      "Onion",
+      "Leek",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stout_and_raw_oysters",
+    "name": "Stout and raw oysters",
+    "local_name": null,
+    "category": "OYSTER DISH",
+    "rank": 14,
+    "short_description": "Rich, roasted stout complements the briny freshness of raw oysters in a beloved Irish tradition. This exquisite pairing captures the essence of coastal flavors, making every bite a taste of Ireland.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/52a3fce2b35f4542a2b38920ce0402c2.jpg?mw=660",
+    "most_iconic_place": "1837 Bar & Brasserie",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Oysters",
+      "Stout"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mussels_in_cream",
+    "name": "Mussels in cream",
+    "local_name": null,
+    "category": "MUSSEL DISH",
+    "rank": 15,
+    "short_description": "Succulent Irish mussels are gently simmered in a rich blend of heavy cream, shallots, and garlic, creating a luxurious dish that celebrates the coastal flavors of Galway Bay. A true taste of Ireland's maritime heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/08e4d279c0be41a0b1a7f10467b6d978.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Mussels",
+      "Heavy Cream",
+      "Shallots",
+      "Garlic",
+      "Butter",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "goody",
+    "name": "Goody",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "Rich and comforting, this traditional Irish dessert combines bread, milk, sugar, and a hint of cinnamon. Born from humble beginnings, it brings warmth and nostalgia to every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/48a6e6cde5214eec9eb6f581a17fa333.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bread",
+      "Cinnamon",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dublin_coddle",
+    "name": "Dublin coddle",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 17,
+    "short_description": "Originating from Dublin, this traditional stew layers savory sausages, crispy bacon, and tender potatoes, simmered in rich beef and chicken stock for a comforting, hearty meal.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/37538eeb9dce4b3791381bbabcadfc4a.jpg?mw=660",
+    "most_iconic_place": "John Kavanagh - The Gravediggers",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Cooked Sausage",
+      "Potatoes",
+      "Onion",
+      "Beef Stock",
+      "Chicken Stock"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "barmbrack",
+    "name": "Barmbrack",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 18,
+    "short_description": "A cherished Irish fruit loaf, Barmbrack blends rich wheat flour and eggs with a medley of dried fruits, steeped in black tea for depth. Traditionally enjoyed during Halloween, it offers a warm, festive flavor that evokes cozy autumn gatherings.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8fb7c030d6d249b7b0a2217e2abd8a6e.jpg?mw=660",
+    "most_iconic_place": "Hickeys Bakery",
+    "most_iconic_location": "Clonmel",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Dried Fruit",
+      "Black tea",
+      "Baking Powder",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spice_bag",
+    "name": "Spice bag",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 19,
+    "short_description": "Fried chicken and crispy chips mingle with vibrant onions and bell peppers, all enveloped in a bold spice blend. Originating in Dublin, the spice bag packs a flavorful punch in every bite, served piping hot in a paper bag.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d4460cccab654dae983d02d981625603.jpg?mw=660",
+    "most_iconic_place": "Sunflower Chinese Takeaway",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Chicken",
+      "Potatoes",
+      "Onion",
+      "Bell Pepper",
+      "Hot Peppers",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "skate_in_brown_butter",
+    "name": "Skate in brown butter",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 20,
+    "short_description": "Tender skate wings sizzle in rich brown butter, enhanced by zesty capers and aromatic bay leaves. A cherished coastal classic, it captures the essence of Ireland’s vibrant fishing heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7b03d7c001db49b9ad9323bf53cf39f1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Skate",
+      "Onion",
+      "Capers",
+      "Parsley",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "potato_leek_and_chicken_pie",
+    "name": "Potato, leek, and chicken pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 21,
+    "short_description": "Savory and comforting, this Irish pie combines tender chicken, creamy leeks, and hearty potatoes, all enveloped in a flaky buttery crust. A beloved staple, it embodies the warmth of home-cooked tradition.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Potatoes",
+      "Leek",
+      "Wheat Flour",
+      "Butter",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "waterford_blaa",
+    "name": "Waterford blaa",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 22,
+    "short_description": "Soft and pillowy, these flour-dusted rolls from Waterford boast a slightly chewy interior, showcasing Ireland's rich baking heritage. Perfect for sandwiches or enjoyed warm with butter.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4bbe99f553f244f9a87b1b047ee6755d.jpg?mw=660",
+    "most_iconic_place": "No. 9 Café",
+    "most_iconic_location": "Waterford",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "corned_beef_boxty",
+    "name": "Corned beef boxty",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 23,
+    "short_description": "Showcases Ireland’s culinary heritage, blending crispy potato pancakes with savory, tender corned beef. Each bite delivers a hearty, comforting taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": "The Boxty House",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Potatoes",
+      "Corned Beef",
+      "Wheat Flour",
+      "Baking Powder",
+      "Butter",
+      "Buttermilk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gur_cake",
+    "name": "Gur cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 24,
+    "short_description": "Originating from Dublin, this spiced fruit slice features a rich, dark filling of dried fruits and spices, sandwiched between buttery shortcrust pastry. Perfect with a cup of tea!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/50fc5e2491764f35921eb033adcf3456.jpg?mw=660",
+    "most_iconic_place": "Barron's Bakery & Coffee House",
+    "most_iconic_location": "Cappoquin",
+    "ingredients": [
+      "Bread",
+      "Dried Fruit",
+      "Wheat Flour",
+      "Butter",
+      "Tea"
+    ],
+    "is_active": true
+  }
+]

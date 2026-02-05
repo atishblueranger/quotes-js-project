@@ -1,0 +1,128 @@
+[
+  {
+    "id": "kathi_roll",
+    "name": "Kathi roll",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 1,
+    "short_description": "Kathi roll is an Indian street food dish hailing from Kolkata. It consists of skewered and roasted kebab meat that is wrapped in paratha flatbread. Some say that the dish was invented because the Brit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4084edd56bb14f4eb991e95713c913a3.jpg?mw=660",
+    "most_iconic_place": "Kusum Roll's",
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gobi_manchurian",
+    "name": "Gobi manchurian",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 2,
+    "short_description": "Gobi manchurian is a traditional Indo-Chinese dish consisting of fried cauliflower (gobi) that’s tossed in a sweet and spicy sauce (manchurian). There are two versions of the dish – dry and in gravy. ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cba6279ae21445539df7e5f35b063bcb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cauliflower",
+      "Corn Starch",
+      "Maida Flour",
+      "Corn Flour",
+      "Red Chilli Powder",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paneer_kathi_roll",
+    "name": "Paneer kathi roll",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 3,
+    "short_description": "Kathi roll is a popular Indian street food consisting of flatbreads filled with meat, vegetables, or both. This version of a kathi roll features paneer or Indian cottage cheese. The cheese is cut into...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6133faae599349bb8fb6f978a6833596.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Paneer",
+      "Onion",
+      "Bell Pepper",
+      "Ginger-garlic paste",
+      "Dahi",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_kathi_roll",
+    "name": "Chicken kathi roll",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 4,
+    "short_description": "Chicken kathi roll is a variety of kathi roll prepared with chicken as the key ingredient. It's a typical street food originating from Kolkata, consisting of flatbreads such as roti or paratha that ar...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8fb92a5f577244d298e3f90446253c09.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Onion",
+      "Cucumber",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rasgulla",
+    "name": "Rasgulla",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 1,
+    "short_description": "Rasgulla is a traditional sweet that is usually served at the end of a meal, like many other Indian milk-based desserts. It is prepared from chhena paneer dumplings and semolina dough, cooked together...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/728691b02df3490bbbecdea8422530d1.jpg?mw=660",
+    "most_iconic_place": "K.C. Das",
+    "most_iconic_location": "West Bengal",
+    "ingredients": [
+      "Chhena",
+      "Semolina",
+      "Saffron",
+      "Cardamom",
+      "Rose Water",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pongal",
+    "name": "Pongal",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 2,
+    "short_description": "Pongal is a rice pudding that is usually eaten during special or ceremonial occasions in Southern India and Sri Lanka. It is usually cooked in a clay pot over an open fire. Milk and water are boiled f...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a4a2780dee054e0c9e764bb7ad1ae820.jpg?mw=660",
+    "most_iconic_place": "Banana Leaf",
+    "most_iconic_location": "Tamil Nadu",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sakkarai_pongal",
+    "name": "Sakkarai pongal",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 3,
+    "short_description": "This sweet, buttery dish is made with freshly harvested new rice, jaggery and ghee (clarified butter), with the addition of dried coconut, sesame seeds, raisins, milk, and cashew nuts. Sakkarai pongal...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7d896d23a7604c43b2221a1805a0fd10.jpg?mw=660",
+    "most_iconic_place": "Banana Leaf",
+    "most_iconic_location": "Tamil Nadu",
+    "ingredients": [
+      "Rice",
+      "Mung beans",
+      "Ghee",
+      "Jaggery",
+      "Cashews",
+      "Raisins"
+    ],
+    "is_active": true
+  }
+]

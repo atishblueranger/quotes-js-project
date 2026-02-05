@@ -1,0 +1,433 @@
+[
+  {
+    "id": "bryndzové_halušky",
+    "name": "Bryndzové halušky",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 1,
+    "short_description": "Halušky, tender potato dumplings, are generously coated in creamy Slovenská bryndza cheese and topped with crispy bacon. A beloved Slovak comfort food, it's a hearty blend of flavors that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/977c0c68c35d4991bcc39db2bb5fac4c.jpg?mw=660",
+    "most_iconic_place": "Slovak Pub",
+    "most_iconic_location": "Bratislava",
+    "ingredients": [
+      "Halušky",
+      "Slovenská Bryndza",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "guláš",
+    "name": "Guláš",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "A comforting blend of beef and pork simmers in a rich, dark red paprika sauce, infused with onions, garlic, and caraway seeds. This traditional Slovak guláš celebrates its Hungarian roots with every hearty bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ac9575707133493f984feb3f97619e48.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Caraway",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "šišky",
+    "name": "Šišky",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 3,
+    "short_description": "Originating from Slovakia, these delectable deep-fried pastries boast a light, fluffy texture. Their sweet, buttery flavor makes them a beloved treat, perfect for satisfying any sweet tooth.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5d7bb143eccb46dcba3e9a5f08c4e150.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kapustnica",
+    "name": "Kapustnica",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 4,
+    "short_description": "Hearty and warming, this traditional Slovakian sauerkraut soup bursts with smoky flavors from cured meats and salami, complemented by earthy mushrooms. Perfect for winter gatherings, it's a beloved comfort food steeped in local culture.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/465a3e35ad064f1bb5d4048d5e26b16d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sauerkraut",
+      "Salami",
+      "Cured Meat",
+      "Mushrooms",
+      "Lard",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "koláče",
+    "name": "Koláče",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 5,
+    "short_description": "Originating from Slovakia, these delightful sweet pastries feature a soft, buttery dough filled with luscious pineapple or traditional fruits like plums and apricots, offering a perfect balance of sweetness and richness.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/318a93f09682496793856dfa06198829.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Pineapple",
+      "Poppy Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vianočka",
+    "name": "Vianočka",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 6,
+    "short_description": "Traditionally enjoyed during Christmas in Slovakia, this braided brioche-like sweet bread delights with hints of rum and lemon zest, studded with plump raisins and almonds for a festive touch.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1fd01e5246c240d5805f027f5365619f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Butter",
+      "Raisins",
+      "Almonds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zemiakové_placky",
+    "name": "Zemiakové placky",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "Crispy and golden, these traditional Slovak potato pancakes blend grated potatoes, eggs, and spices, pan-fried to perfection. A beloved snack that captures the heart of Slovak cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/32662c5f52804b95b052727956960cdc.jpg?mw=660",
+    "most_iconic_place": "U Hromadov",
+    "most_iconic_location": "Rajecká Lesná",
+    "ingredients": [
+      "Potatoes",
+      "Eggs",
+      "Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "skalický_trdelník",
+    "name": "Skalický trdelník",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 8,
+    "short_description": "Hailing from northwestern Slovakia, Skalický trdelník features soft, sweet dough spiraled around a wooden roller, creating a golden, crispy exterior. Often dusted with sugar and cinnamon, it’s a delightful treat enjoyed by locals and visitors alike.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fced210908944357b969b197533b0e31.jpg?mw=660",
+    "most_iconic_place": "Vínotéka u františkánov",
+    "most_iconic_location": "Skalica",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "makovník",
+    "name": "Makovník",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 9,
+    "short_description": "A cherished Slovak sweet bread, this indulgent roll features a rich filling of nutty poppy seeds layered between soft, buttery dough. Often enhanced with raisins and a hint of citrus, it embodies festive tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3417b26bde8040c7990f2a20474ec16a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Poppy Seeds",
+      "Wheat Flour",
+      "Yeast",
+      "Eggs",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "laskonky",
+    "name": "Laskonky",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 10,
+    "short_description": "Crispy meringues sandwich rich buttercream in these beloved Slovak treats, often enhanced with ground walnuts or coconut. A perfect balance of sweetness and crunch, Laskonky are a delightful indulgence.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a6e427fe6210445cae6f2399281e2b02.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "rýžový_nákyp",
+    "name": "Rýžový nákyp",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 11,
+    "short_description": "Traditional Slovak rice pudding delights with a creamy blend of rice, eggs, and vanilla, enriched by sweet plums, cherries, and peaches. Served warm, it’s a comforting staple that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1d39bb37a39b4f029c02c1e5ccbeb1a3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Plums",
+      "Cherries",
+      "Peach",
+      "Eggs",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bratislavský_rožok",
+    "name": "Bratislavský rožok",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 12,
+    "short_description": "Originating from Slovakia, this delightful crescent-shaped pastry features a rich filling of poppy seeds or nuts. Its flaky texture and sweet essence make it a cherished treat in Slovak culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e26fbb6f6b5045d69064036e3a0304ff.jpg?mw=660",
+    "most_iconic_place": "Café Mayer",
+    "most_iconic_location": "Bratislava",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lokše",
+    "name": "Lokše",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 13,
+    "short_description": "Thin and crispy, these traditional Slovak potato pancakes offer a delightful crunch with every bite. Often enjoyed during Christmas and Lent, they embody the heart of Slovak comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5562191453954daa8ab2193544abe71b.jpg?mw=660",
+    "most_iconic_place": "Gurmánsky Grob",
+    "most_iconic_location": "Slovenský Grob",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "liptauer",
+    "name": "Liptauer",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 14,
+    "short_description": "Originating from Slovakia, this creamy spread combines rich cream cheese and butter with garlic, onion, and zesty capers, all spiced with vibrant paprika for a delightful burst of flavor. Perfect for slathering on fresh bread!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6fd4d466e7944ff28e4bc9aa29cacd66.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Žilina Region",
+    "ingredients": [
+      "Cream Cheese",
+      "Butter",
+      "Garlic",
+      "Onion",
+      "Capers",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bryndzové_pirohy",
+    "name": "Bryndzové pirohy",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 15,
+    "short_description": "Crescent-shaped dumplings from Slovakia showcase a delicate potato dough filled with creamy Slovenská bryndza and tender potatoes, all topped with crispy bacon and fresh chives for an irresistible flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/898bbdc343924de5999c7f543853c9e4.jpg?mw=660",
+    "most_iconic_place": "Slovak Pub",
+    "most_iconic_location": "Bratislava",
+    "ingredients": [
+      "Flour",
+      "Potatoes",
+      "Slovenská Bryndza",
+      "Bacon",
+      "Chives"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "žemlovka",
+    "name": "Žemlovka",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "Layered with tender apples and a sprinkle of cinnamon, this traditional Slovak dessert features soft bread rolls soaked in egg custard, creating a warm, comforting treat that celebrates home-cooked nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5ffc7b775a754bb8a9f84a9546f7bf33.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bread Roll",
+      "Veka",
+      "Eggs",
+      "Apples",
+      "Cinnamon",
+      "Raisins"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "treska",
+    "name": "Treska",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 17,
+    "short_description": "Originating from Slovakia, this delightful salad features tender cod mixed with creamy mayonnaise, crisp onions, and sweet carrots, all brightened by a tangy vinegar dressing. A festive favorite, it’s perfect for gatherings!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/053487fb2c8447c89327b9c80009d10b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cod",
+      "Mayonnaise",
+      "Onion",
+      "Carrot",
+      "Vinegar",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spišské_párky",
+    "name": "Spišské párky",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 18,
+    "short_description": "Smoky and savory, these twisted sausages bring over a century of Slovak tradition to your plate. Crafted in sheep intestine casings, they offer a bold flavor perfect for grilling or enjoying with mustard.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/600805068ede48e99c3b06aef1fe4d60.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Spišské Podhradie",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "strapačky",
+    "name": "Strapačky",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 19,
+    "short_description": "Rustic Slovak strapačky features delicate potato dumplings tossed with tangy sauerkraut, creating a comforting blend of flavors. A beloved dish, it embodies the heart of traditional Slovak cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9224a192bf904294ba760344f3cafbe9.jpg?mw=660",
+    "most_iconic_place": "Koliba Starý Smokovec",
+    "most_iconic_location": "Vysoké Tatry",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "karbanátky",
+    "name": "Karbanátky",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 20,
+    "short_description": "Originating from Slovak kitchens, these savory patties blend ground beef and pork with eggs, onions, and breadcrumbs, creating a hearty and flavorful dish enjoyed across generations. Perfectly pan-fried for a crispy exterior!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a671f86a21e54a19a43500c7fcf69253.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Eggs",
+      "Breadcrumbs",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kokosové_ježe",
+    "name": "Kokosové ježe",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 21,
+    "short_description": "Delight in these Slovak coconut-covered sponge cakes, known as Kokosové ježe. They feature a rich chocolate dip and are generously rolled in coconut flakes, offering a sweet, tropical crunch.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/76a660abb0574afda3ff0d19381d369f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Coconut Flakes",
+      "Dark Chocolate"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "parené_buchty",
+    "name": "Parené buchty",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 22,
+    "short_description": "Silky, steamed dumplings from Slovakia, these pillow-like treats feature a rich blend of flour, milk, and eggs. Sweet and moist, they embody the heart of Slovak comfort food.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Sugar",
+      "plum jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "smotanová_nátierka",
+    "name": "Smotanová nátierka",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 23,
+    "short_description": "Creamy and tangy, this Slovak spread combines rich butter and sour cream with fresh chives, parsley, and a hint of garlic. A beloved staple, it’s perfect on bread or as a dip, celebrating local flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/573412ef71df440aa801d371b3b6acb2.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Butter",
+      "Sour Cream",
+      "Chives",
+      "Parsley",
+      "Garlic",
+      "Wet-cured Ham"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fliačky_s_kapustou",
+    "name": "Fliačky s kapustou",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 24,
+    "short_description": "Handmade fleckerl pasta meets tender cabbage in this Slovak classic, sautéed with onions and fragrant caraway seeds. Rich butter adds a luscious finish, celebrating hearty, homestyle flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a71faf07257a4a138101811acec30fa7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Fleckerl",
+      "Cabbage",
+      "Onion",
+      "Butter",
+      "Caraway",
+      "Beef Stock"
+    ],
+    "is_active": true
+  }
+]

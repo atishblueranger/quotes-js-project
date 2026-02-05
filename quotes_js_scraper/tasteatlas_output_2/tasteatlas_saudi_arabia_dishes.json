@@ -1,0 +1,436 @@
+[
+  {
+    "id": "samosa",
+    "name": "Samosa",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 1,
+    "short_description": "Due to their crunchy texture and a variety of different flavors, samosas provide a perfect introduction to the world of Indian cuisine for newcomers. These deep-fried, triangular pastries are filled w...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e668e32ae1a3423c95fbd4d77f8c940c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kabsa",
+    "name": "Kabsa",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "Kabsa is a rice dish that is enjoyed throughout the Gulf States of the Arabian Peninsula. Heavily influenced by Persian and Indian biryanis, kabsa makes use of the water that was used for cooking fish...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": "Najd Village",
+    "most_iconic_location": "Riyadh",
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "basbousa",
+    "name": "Basbousa",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 3,
+    "short_description": "Revani is a classic Greek and Turkish dessert made from semolina, sugar, and flour, with the additions of flavorings such as vanilla, lemon zest, or rose water, depending on the recipe variations. The...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2df62552a21148f9b1e202f4afbf4903.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Powder",
+      "Semolina",
+      "Sugar",
+      "Eggs",
+      "Yogurt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "luqaimat",
+    "name": "Luqaimat",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 4,
+    "short_description": "This internationally known, decadent, and sugar-packed dessert is usually made with a mixture of flour, sugar, yeast, and salt, which is deep-fried and then bathed in syrup or honey. The origin of lok...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/12f04b3d12fd475aba18b0a6ca9bf97f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ful_medames",
+    "name": "Ful medames",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "Ful medames is an ancient, pre-Ottoman and pre-Islamic national dish of Egypt, a traditional breakfast food consisting of slowly simmered fava beans seasoned with a squeeze of lemon juice, olive oil, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cb822eedfd8b4695ae4c0a237dfab6ba.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Fava Beans",
+      "Tomato",
+      "Garlic",
+      "Hot Peppers",
+      "Parsley",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shawarma",
+    "name": "Shawarma",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 6,
+    "short_description": "Marinated and spit-roasted, shawarma is a delicious Middle Eastern meat treat whose origins can be traced back to the Ottoman Empire era, while its name stems from the Arabic pronunciation of the Turk...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbc3999873a748a49a7a5d7364a3e8c4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Beef",
+      "Chicken",
+      "Pita bread",
+      "Lavash",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "qatayef",
+    "name": "Qatayef",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 7,
+    "short_description": "Qatayef is an Arabian dessert and a staple of the Ramadan holiday feast. It is a sweet pancake that is usually filled with cheese or nuts such as walnuts, almonds, pistachios, or hazelnuts. Qatayef ca...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0ef92fd751f44b4497211a531c006bdc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Akkawi",
+      "Pistachios",
+      "Almonds",
+      "Walnuts",
+      "Hazelnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kunafa",
+    "name": "Kunafa",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 8,
+    "short_description": "Kunāfah consists of two crunchy layers of shredded and buttered kataifi or knefe dough, filled with a luscious cheese cream that's often flavored with orange zest and cardamom, then drenched in a suga...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3a6bfc04b0294ab78b16a9af0de5cd75.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice Flour",
+      "Akkawi",
+      "Butter",
+      "Pistachios",
+      "Cream",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hareesh",
+    "name": "Hareesh",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 9,
+    "short_description": "A staple during the month of Ramadan in numerous Middle Eastern countries is a plate of jareesh, a satisfying meal which combines coarse wheat and meat. This centuries-old dish probably originated in ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03df132180744560921a1b481675e559.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "haneeth",
+    "name": "Haneeth",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 10,
+    "short_description": "Haneeth is a traditional dish from the Asir region of Saudi Arabia and Shabwah/Hadramout region of Yemen, popular across the Arabian Peninsula. It features slow-roasted, spice-rubbed lamb, typically c...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5c394b13edb44ebb9559a922713364e0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "'Asir",
+    "ingredients": [
+      "Lamb",
+      "Rice",
+      "Jujube",
+      "Scallions",
+      "Chives",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mandi",
+    "name": "Mandi",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 11,
+    "short_description": "Mandi is Yemen's national dish (also popular in Saudi Arabia), consisting of lamb or chicken meat, fragrant basmati rice and a mixture of various spices. If lamb is used in the dish, it should be smal...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b193475abd95466891777508f68b8542.jpg?mw=660",
+    "most_iconic_place": "Qatif Hospitality Palace",
+    "most_iconic_location": "Qatif",
+    "ingredients": [
+      "Lamb",
+      "Chicken",
+      "Rice",
+      "Onion",
+      "Ghee",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gursan",
+    "name": "Gursan",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 12,
+    "short_description": "Gursan is one of Saudi Arabian national dishes made by placing dry, paper-thin sheets of bread atop meat and vegetables in a broth until the bread pieces soak up all of the flavorful juices. The final...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c60781267dee40bda29b15a5ab8a9915.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "al_margaouq",
+    "name": "Al-Margaouq",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 13,
+    "short_description": "Al-Margaouq is a meat, pasta, and vegetable stew typical of the Riyadh Province, with roots dating back to antiquity. This dish is crafted from whole wheat dough, rolled into thin, round pieces, and c...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bdc6c8626a1d4b45ada25c0f42027dd2.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Riyadh Region",
+    "ingredients": [
+      "Mutton",
+      "Beef",
+      "Eggplant",
+      "Pumpkin",
+      "Zucchini",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kleija",
+    "name": "Kleija",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 14,
+    "short_description": "Kleija is a traditional Arabian pastry from the region of al-Qassim. It is typically round or oval with a slightly domed shape, often adorned with intricate patterns pressed into the dough before baki...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e10639fcd195489abdf248b51bc07de3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Al-Qassim",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Ghee",
+      "Black lemon",
+      "Date Molasses",
+      "Sesame Seeds",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "laddu",
+    "name": "Laddu",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 15,
+    "short_description": "This traditional Indian dessert is made with different types of flour that are mixed with sugar and shortening, then shaped into balls. Like many other dishes in India, laddu appears in numerous varie...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d4f7f668d05c402bb592b3747d2a58ea.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "hininy",
+    "name": "Hininy",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "Hininy is a traditional Arabian dish consisting of dates, butter, and brown bread. The whole concoction is then additionally flavored with spices such as saffron and cardamom. The dish is a specialty ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9a6c6defd84d4c1d8eb5d8e8cacb1517.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Najd",
+    "ingredients": [
+      "Dates",
+      "Butter",
+      "Bread",
+      "Saffron",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tharıd",
+    "name": "Tharıd",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 17,
+    "short_description": "This traditional Arabian dish is most often described as a spicy lamb stew thickened with barley bread, though the word tharīd also refers to a large earthenware bowl. According to legend and several ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/adc07828c28e476485271cb02a081add.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Cloves",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 18,
+    "short_description": "Hummus is a creamy dip made primarily from cooked and mashed chickpeas blended with tahini, olive oil, lemon juice, and garlic. It originates from the Middle East, where it has been a dietary staple f...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/45200b7711794dc88cf0bf3bf0988f7e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chickpeas",
+      "Sesame Seeds",
+      "Garlic",
+      "Cumin",
+      "Lemon Juice",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sayadiah",
+    "name": "Sayadiah",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 19,
+    "short_description": "This traditional combination of rice and fish is typically prepared with white fish such as sea bass or red snapper. The fish is fried or baked separately, while the rice is cooked in a special fish b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/459e5b58c64b4f9d85e5b4da8c0ae9ad.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tabuk Region",
+    "ingredients": [
+      "White Fish",
+      "Rice",
+      "Onion",
+      "Tomato",
+      "Bell Pepper",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mansaf",
+    "name": "Mansaf",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 20,
+    "short_description": "Mansaf is the national dish of Jordan that plays a key role in all celebrations and festivals in the country. The meat is slowly cooked in fermented, yogurt-like goat's milk called jameed, resulting i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1227c0c6ef75488895a61d4d22ec3988.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tabuk Region",
+    "ingredients": [
+      "Goat",
+      "Lamb",
+      "Beef",
+      "Chicken",
+      "Jameed",
+      "Rice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "balilah",
+    "name": "Balilah",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 21,
+    "short_description": "Balilah is a traditional Middle Eastern salad, particularly popular in Saudi Arabia and Syria. It is a simple and healthy snack made primarily from cooked chickpeas. The chickpeas are typically served...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/375aaba3db124b2ab4e7c1cf49a7fec8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Hejaz",
+    "ingredients": [
+      "Chickpeas",
+      "Cucumber",
+      "Beet",
+      "Garlic",
+      "Parsley",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "masoub",
+    "name": "Masoub",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 22,
+    "short_description": "Masoub is a Yemeni dessert that is popular throughout the Arabian peninsula. In its basic form, the dish consists of mashed bananas and bread that are usually enriched with butter, cream, spices, hone...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b6e0d7208ac145beac7ba87faa2d22e9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "zarb",
+    "name": "Zarb",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 23,
+    "short_description": "Zarb is a meat-and-vegetable dish prepared in the desert regions of Jordan, cooked underground using a sealed pit where food is exposed to retained heat rather tha...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cb6c4ebd2f504076970cba71b276f2f1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "stuffed_dates_tamr_mahshi",
+    "name": "Stuffed dates (Tamr mahshi)",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 24,
+    "short_description": "Tamr mahshi is a Middle Eastern sweet made of dates that are pitted and stuffed with nuts or other fillings, often served as a festive treat or alongside tea and coffee. It comes from regions where da...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/364d11db260141e9a7e55a2c6f9ae729.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Dates",
+      "Clotted cream",
+      "Nuts",
+      "Candied Fruit"
+    ],
+    "is_active": true
+  }
+]

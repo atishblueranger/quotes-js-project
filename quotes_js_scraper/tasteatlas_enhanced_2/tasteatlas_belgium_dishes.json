@@ -1,0 +1,699 @@
+[
+  {
+    "id": "gaufre",
+    "name": "Gaufre",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 1,
+    "short_description": "Deliciously fragrant, Belgian gaufres are iconic waffles crafted from thick dough, resulting in a crispy exterior and fluffy interior. Enjoy them warm, dusted with powdered sugar or topped with fresh fruit.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e45454b9d6be4a63aac8c0fc0e717f79.jpg?mw=660",
+    "most_iconic_place": "Maison Dandoy",
+    "most_iconic_location": "Brussels",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "moules_frites",
+    "name": "Moules-frites",
+    "local_name": null,
+    "category": "MUSSEL DISH",
+    "rank": 2,
+    "short_description": "Savory mussels, steamed to perfection with garlic and onions, are served alongside crispy Belgian fries. A beloved comfort food in Belgium, it's a must-try for seafood lovers!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6e904a48e5684d3b858ff5f89e3ce739.jpg?mw=660",
+    "most_iconic_place": "Chez Leon",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Mussels",
+      "Potatoes",
+      "Butter",
+      "Garlic",
+      "Onion",
+      "Shallots"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carbonnade",
+    "name": "Carbonnade",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "A Belgian classic, this hearty beef stew simmers slowly in rich Trappist beer, infusing tender meat with deep flavors of onion, garlic, and carrot. Perfect for warming up on cold days!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/efdcd01aea154b30a8a07f7b9353e36c.jpg?mw=660",
+    "most_iconic_place": "Fin de Siècle",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Beef",
+      "Trappist Beer",
+      "Onion",
+      "Garlic",
+      "Carrot",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "liège_waffle",
+    "name": "Liège Waffle",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 4,
+    "short_description": "Originating from Belgium, Liège waffles feature a rich, brioche-like dough studded with crunchy pearl sugar that caramelizes as they bake. Each bite offers a delightful chewiness and sweet, buttery flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/24da79c00d8e4153b251bbd8dfe246dc.jpg?mw=660",
+    "most_iconic_place": "Maison Dandoy",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Milk",
+      "Eggs",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "frikandel",
+    "name": "Frikandel",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 5,
+    "short_description": "Skinless and deep-fried, this beloved snack bursts with flavors of ground beef, pork, and chicken, accented by warm allspice and nutmeg. A culinary icon of Belgium, it sparks friendly debate with its Dutch counterpart.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ba5b0803dcf547c28be928367f145983.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Ground Chicken",
+      "Allspice",
+      "Nutmeg",
+      "Garlic Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "speculaas",
+    "name": "Speculaas",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 6,
+    "short_description": "Spiced and aromatic, these traditional Belgian cookies blend wheat flour, butter, and brown sugar for a warm, crunchy treat. Perfect with coffee, they invoke the festive spirit of the season.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1caa965cd23b435e80886ae51a8d3f85.jpg?mw=660",
+    "most_iconic_place": "Maison Dandoy",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Brown Sugar",
+      "Baking Powder",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "brussels_waffles",
+    "name": "Brussels Waffles",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 7,
+    "short_description": "Light and airy, these yeasted delights capture the essence of Belgium’s culinary heritage. Golden-brown and crisp, they pair perfectly with fresh toppings like whipped cream or fruit, making every bite a sweet indulgence.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/99ad391b2a944eafb433525f1ec96d6a.jpg?mw=660",
+    "most_iconic_place": "Mokafé",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Powder",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "waterzooi",
+    "name": "Waterzooi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 8,
+    "short_description": "Originating from Ghent, this creamy Belgian stew combines tender chicken with vibrant vegetables like potatoes, carrots, and celery. Slow-cooked to perfection, it delivers a comforting, rich flavor in every spoonful.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/857ae8e049ed4cd081a2f28bc8ba3f99.jpg?mw=660",
+    "most_iconic_place": "'t Klokhuys",
+    "most_iconic_location": "Ghent",
+    "ingredients": [
+      "Chicken",
+      "Potatoes",
+      "Onion",
+      "Carrot",
+      "Celery",
+      "Leek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mitraillette",
+    "name": "Mitraillette",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 9,
+    "short_description": "Originating from Brussels or Wallonia, this hearty sandwich features a crusty baguette stuffed with succulent fries, savory meats, and zesty sauces, capturing the essence of Belgian street food culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c1a787fbbd0a408d97d18573fbcab7a9.jpg?mw=660",
+    "most_iconic_place": "Fritland",
+    "most_iconic_location": "Brussels",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chicon_au_gratin",
+    "name": "Chicon au gratin",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 10,
+    "short_description": "Braised Belgian endives are wrapped in savory ham, smothered in creamy white sauce, and baked to perfection with a golden Gruyère crust. A cozy classic that embodies Belgium’s love for rich flavors!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ab5860bf1f7b4dacb4ccbbeb0b889080.jpg?mw=660",
+    "most_iconic_place": "Chez Leon",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Belgian Endive",
+      "Bacon",
+      "Olive Oil",
+      "Butter",
+      "Wheat Flour",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boulets_sauce_lapin_à_la_liègeoise",
+    "name": "Boulets sauce lapin à la Liègeoise",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 11,
+    "short_description": "Belgium's beloved boulets sauce lapin à la Liègeoise features tender beef and pork meatballs simmered in a rich, flavorful gravy with sweet sirop de Liège and sultanas, offering a comforting taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/830ff4da552d49c5bd440dac381aa3e3.jpg?mw=660",
+    "most_iconic_place": "Café Lequet",
+    "most_iconic_location": "Liège",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Breadcrumbs",
+      "Onion",
+      "Eggs",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stoemp",
+    "name": "Stoemp",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 12,
+    "short_description": "A beloved Belgian side dish, stoemp features creamy mashed potatoes blended with vibrant vegetables like leeks, carrots, and Brussels sprouts. Its comforting flavors make it a perfect accompaniment to hearty meats.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6967842b897745e7a766e23004400569.jpg?mw=660",
+    "most_iconic_place": "Fin de Siècle",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Potatoes",
+      "Leek",
+      "Cabbage",
+      "Brussels Sprout",
+      "Carrot",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "filet_americain",
+    "name": "Filet Americain",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 13,
+    "short_description": "Originating from Belgium, this savory spread features finely ground raw beef mixed with Worcestershire sauce, onions, and capers. It's a flavorful twist on steak tartare, perfect for adventurous palates.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/81b95eebb42e464286e881a158767b89.jpg?mw=660",
+    "most_iconic_place": "Au Vieux Saint Martin",
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Ground Beef",
+      "Worcestershire sauce",
+      "Onion",
+      "Eggs",
+      "Capers",
+      "Dijon mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sneeuwballen",
+    "name": "Sneeuwballen",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 14,
+    "short_description": "Indulge in these seasonal Belgian delights, featuring a fluffy vanilla core wrapped in rich dark chocolate and dusted with cocoa. A perfect blend of creaminess and decadence, they are a must-try from September to March!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8adc1b6311af431aa8dfb48c71fe3181.jpg?mw=660",
+    "most_iconic_place": "Larmuseau",
+    "most_iconic_location": "Ghent",
+    "ingredients": [
+      "Chocolate",
+      "Cocoa Powder",
+      "Butter",
+      "Eggs",
+      "Powdered Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bicky_burger",
+    "name": "Bicky Burger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 15,
+    "short_description": "A beloved Belgian classic, the Bicky Burger features a crispy, deep-fried patty of pork, chicken, and horse meat, all nestled in a sesame seed bun. Its savory blend of flavors and satisfying crunch make it a must-try street food delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8ed620259724f08ab757d72a5b6c32f.jpg?mw=660",
+    "most_iconic_place": "'t Blauw Kotje",
+    "most_iconic_location": "Ghent",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Chicken",
+      "Ground Horse",
+      "Burger Bun",
+      "Sesame Seeds",
+      "Pickled Cucumbers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cougnou",
+    "name": "Cougnou",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 16,
+    "short_description": "Originating from Belgium, this sweet, brioche-like bread features a rich, yeasted dough often studded with raisins or chocolate chips and topped with crunchy pearl sugar. Perfect for festive occasions, each bite is a delightful blend of warmth and sweetness.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cc8aa469486f41daa7cab2ef59f859bb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Hainaut Province",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Raisins"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "preisoep",
+    "name": "Preisoep",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 17,
+    "short_description": "Belgium's beloved Flemish leek soup warms hearts with its creamy blend of tender leeks and potatoes, simmered in rich beef and vegetable stock, perfect for chilly days. Enjoy a bowl of comfort!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8433051938f6431295a59b8ccd3f0121.jpg?mw=660",
+    "most_iconic_place": "Soup",
+    "most_iconic_location": "Bruges",
+    "ingredients": [
+      "Potatoes",
+      "Leek",
+      "Garlic",
+      "Beef Stock",
+      "Vegetable Stock",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "antwerpse_handjes",
+    "name": "Antwerpse handjes",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 18,
+    "short_description": "Originating from Antwerp in 1934, these delightful hand-shaped cookies blend rich butter, sweet sugar, and nutty almonds for a melt-in-your-mouth experience. Perfect with coffee or as a sweet souvenir!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/45752f024424401db6c96bd9560ebb16.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Antwerp",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Almonds",
+      "Eggs",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "la_dame_blanche",
+    "name": "La dame blanche",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 19,
+    "short_description": "Originating from Belgium, this delightful dessert layers creamy vanilla gelato with fluffy whipped cream, all drizzled in rich, warm chocolate fudge for a decadent treat.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3cde43edd7a64af0a4cb6d14bb93bb09.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Gelato alla vaniglia",
+      "Whipped Cream",
+      "Milk",
+      "Chocolate",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gaufres_à_la_flamande",
+    "name": "Gaufres à la flamande",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 20,
+    "short_description": "Indulge in the rich, buttery essence of Flemish waffles, a beloved Belgian treat. Lightly crisped and subtly sweet, they shine in their simplicity, making them a perfect snack any time of day.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/795f8405528a407d845b6076e109392c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Flanders",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "geraardsbergse_mattentaart",
+    "name": "Geraardsbergse mattentaart",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 21,
+    "short_description": "Originating from East Flanders, this delightful sweet pie features a flaky puff pastry enveloping a creamy, almond-infused cheese curd filling. Each bite offers a perfect balance of richness and sweetness.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a0845ba6e4ea4ba7b4c7b1193e5da4c0.jpg?mw=660",
+    "most_iconic_place": "Broodhuis",
+    "most_iconic_location": "Geraardsbergen",
+    "ingredients": [
+      "Milk",
+      "Buttermilk",
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Powdered Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lacquemant_wafel",
+    "name": "Lacquemant wafel",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 22,
+    "short_description": "Originating from Liège, the Lacquemant wafel delights with its thin, buttery exterior, filled with a fragrant orange blossom sugar syrup. A true Belgian treat that's perfect for indulgence!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9bbf9e199c56440aabf64a5b7868c88b.jpg?mw=660",
+    "most_iconic_place": "Désiré de Lille",
+    "most_iconic_location": "Antwerp",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "croquettes_de_crevettes",
+    "name": "Croquettes de crevettes",
+    "local_name": null,
+    "category": "DEEP-FRIED DISH",
+    "rank": 23,
+    "short_description": "Belgian croquettes de crevettes deliver a delightful crunch, encasing a creamy blend of North Sea brown shrimp in crispy breadcrumbs. A beloved local treat, they capture the essence of seaside flavors.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Shrimps",
+      "Milk",
+      "Eggs",
+      "Fish Stock",
+      "Seafood Stock",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paling_in_t_groen",
+    "name": "Paling in 't groen",
+    "local_name": null,
+    "category": "EEL DISH",
+    "rank": 24,
+    "short_description": "Chopped eel simmers in a vibrant green sauce of herbs and white wine, delivering a fresh, savory taste that embodies Flemish culinary tradition. Rich butter and shallots enhance each bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fc8a21c65578434ca04980a5970137dd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Flanders",
+    "ingredients": [
+      "Eel",
+      "Butter",
+      "Shallots",
+      "Spinach",
+      "Sage",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vitoulet",
+    "name": "Vitoulet",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 25,
+    "short_description": "Belgian Vitoulet delights with a blend of ground veal and pork, enriched with breadcrumbs and a hint of shallots. Savory and tender, these meatballs are a cherished comfort food, perfect for any occasion.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1569dff911d748328cce379f623fd947.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Charleroi",
+    "ingredients": [
+      "Ground Veal",
+      "Ground Pork",
+      "Breadcrumbs",
+      "Milk",
+      "Eggs",
+      "Shallots"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "moules_parquées",
+    "name": "Moules parquées",
+    "local_name": null,
+    "category": "MUSSEL DISH",
+    "rank": 26,
+    "short_description": "Originating from Brussels, these raw mussels on the half-shell are a delightful treat. Dressed with zesty lemon juice, tangy mustard, and a hint of black pepper, they offer a refreshing taste of Belgium's culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ffd9ead754564c22b56b039bd81d3886.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Brussels",
+    "ingredients": [
+      "Mussels",
+      "Lemon Juice",
+      "Mustard",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "asperges_á_la_flamande",
+    "name": "Asperges á la Flamande",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 27,
+    "short_description": "Cooked white asparagus is elegantly topped with a rich blend of mashed hard-boiled eggs, creamy butter, zesty lemon juice, and fresh parsley. A beloved Flemish classic, it celebrates spring's bounty.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4221232a76c244529c71398e7d54be22.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Flanders",
+    "ingredients": [
+      "White Asparagus",
+      "Eggs",
+      "Butter",
+      "Lemon Juice",
+      "Parsley",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kramiek",
+    "name": "Kramiek",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 28,
+    "short_description": "Originating from Belgium, this delightful sweet bread features a soft, buttery dough studded with plump raisins. Perfect for breakfast or a snack, it offers a comforting blend of sweetness and warmth.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cc94a1fce21e4c3088f9ddb7f4fcefc0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Raisins",
+      "Milk",
+      "Butter",
+      "Eggs",
+      "Yeast"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tarte_al_djote",
+    "name": "Tarte al d'jote",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 29,
+    "short_description": "Originating from Nivelles, Tarte al d'jote blends creamy cow's milk cheese with vibrant chard and savory onions. Baked to golden perfection, it offers a rich, comforting taste of Belgian tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a418a14a6fc34a4992d58a5faf4d05c4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Nivelles",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Boulette d'Avesnes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tomate_crevette",
+    "name": "Tomate crevette",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 30,
+    "short_description": "A classic Belgian appetizer, an uncooked tomato bursts with flavor, filled with tender Nordseekrabben, creamy mayonnaise, zesty lemon juice, and fresh parsley. Perfectly refreshing!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3e66aa5959004e5eb0324781ae7646e6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Bruges",
+    "ingredients": [
+      "Tomato",
+      "Nordseekrabben",
+      "Mayonnaise",
+      "Lemon Juice",
+      "Parsley",
+      "Tomato Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lapin_á_la_kriek",
+    "name": "Lapin á la Kriek",
+    "local_name": null,
+    "category": "RABBIT DISH",
+    "rank": 31,
+    "short_description": "Tender rabbit simmers in a luscious sauce of Kriek lambic beer and sweet cherries, elevated with a hint of cinnamon and shallots. A classic Belgian dish that embodies hearty, rustic flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/349d8ff5f9d1422d9fbb216f586bec29.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rabbit",
+      "Kriek lambic",
+      "Cinnamon",
+      "Shallots",
+      "Cherries",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "potjevleesch",
+    "name": "Potjevleesch",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 32,
+    "short_description": "A beloved Flemish classic, this hearty meat dish features a savory blend of mutton, lamb, pork, beef, and veal, slow-simmered with onions, wine, and fresh herbs for rich, comforting flavors. Perfect for sharing, it connects diners to Belgium's rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2331df9d036145cf91df5cd4fb23b7bf.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Flanders",
+    "ingredients": [
+      "Mutton",
+      "Lamb",
+      "Pork",
+      "Beef",
+      "Veal",
+      "Chicken"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "couque_de_dinant",
+    "name": "Couque de Dinant",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 33,
+    "short_description": "Originating from the picturesque town of Dinant, these traditional Belgian cookies are crafted from wheat flour and honey, offering a delightful sweetness. Their signature hard texture makes them a unique treat, enjoyed by all ages.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3f491f763b284b2d80744a16609cd530.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Dinant",
+    "ingredients": [
+      "Wheat Flour",
+      "Honey"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boudin_blanc_de_liège",
+    "name": "Boudin blanc de Liège",
+    "local_name": null,
+    "category": "WHITE SAUSAGE",
+    "rank": 34,
+    "short_description": "Savor the rich flavors of Liège's boudin blanc, a traditional Belgian white sausage blending tender pork, creamy milk, and onions. Stuffed in casings and gently cooked, it offers a delightful, savory bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c4654c42858e49c7800fb8e4a1a2d39e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Liège",
+    "ingredients": [
+      "Ground Pork",
+      "Bread",
+      "Onion",
+      "Cream",
+      "Milk",
+      "Nutmeg"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "galettes_campinoises",
+    "name": "Galettes Campinoises",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 35,
+    "short_description": "Originating from the Kempen region of Belgium, these delightful galettes feature a crunchy exterior that crumbles into a buttery, vanilla-infused bite, perfect for pairing with coffee or tea.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/78f9adf3371d4ac5abe81d0a5721395f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Brown Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "côte_de_porc_à_lberdouille",
+    "name": "Côte de porc à l'berdouille",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 36,
+    "short_description": "Originating from Mons, Côte de porc à l'berdouille features succulent pork chops simmered in a rich sauce of cream, shallots, and tangy Dijon mustard, creating a comforting, flavor-packed delight.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mons",
+    "ingredients": [
+      "Pork",
+      "Shallots",
+      "Onion",
+      "Cream",
+      "Dijon mustard",
+      "Butter"
+    ],
+    "is_active": true
+  }
+]

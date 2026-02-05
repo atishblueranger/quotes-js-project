@@ -1,0 +1,163 @@
+[
+  {
+    "id": "kabsa",
+    "name": "Kabsa",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Kabsa is a rice dish that is enjoyed throughout the Gulf States of the Arabian Peninsula. Heavily influenced by Persian and Indian biryanis, kabsa makes use of the water that was used for cooking fish...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": "Al Khayma Heritage Restaurant",
+    "most_iconic_location": "Dubai",
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "luqaimat",
+    "name": "Luqaimat",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 2,
+    "short_description": "This internationally known, decadent, and sugar-packed dessert is usually made with a mixture of flour, sugar, yeast, and salt, which is deep-fried and then bathed in syrup or honey. The origin of lok...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/12f04b3d12fd475aba18b0a6ca9bf97f.jpg?mw=660",
+    "most_iconic_place": "Al Fanar Restaurant & Cafe",
+    "most_iconic_location": "Dubai",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "saloona",
+    "name": "Saloona",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Saloona or salona is a classic Arabian stew that is usually enjoyed as an everyday, home cooked meal. The most common variety is prepared with chicken (dejaj), but vegetables, other types of meat such...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4823c34df331411cb850863dd09b8f1c.jpg?mw=660",
+    "most_iconic_place": "Al Khayma Heritage Restaurant",
+    "most_iconic_location": "Dubai",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "balaleet",
+    "name": "Balaleet",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 4,
+    "short_description": "The sweet and savory balaleet is a breakfast dish that can be found in the Arab states of the Persian Gulf. It is typically made with vermicelli, eggs, cardamom, saffron, butter, and water, but it can...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/939a416a53a5484fa45904f166cf8776.jpg?mw=660",
+    "most_iconic_place": "Al Khayma Heritage Restaurant",
+    "most_iconic_location": "Dubai",
+    "ingredients": [
+      "Vermicelli",
+      "Eggs",
+      "Butter",
+      "Cardamom",
+      "Saffron",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stuffed_dates_tamr_mahshi",
+    "name": "Stuffed dates (Tamr mahshi)",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Tamr mahshi is a Middle Eastern sweet made of dates that are pitted and stuffed with nuts or other fillings, often served as a festive treat or alongside tea and coffee. It comes from regions where da...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/364d11db260141e9a7e55a2c6f9ae729.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Dates",
+      "Clotted cream",
+      "Nuts",
+      "Candied Fruit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khanfaroosh",
+    "name": "Khanfaroosh",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 6,
+    "short_description": "Khanfaroosh is a deep-fried dessert similar to doughnuts popular in Gulf countries, namely Qatar, Bahrain, Kuwait, and the Emirates. It’s made with wheat flour, rice flour, eggs, sugar baking powder, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7a072070103a42babeac630b60adb258.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Rice Flour",
+      "Eggs",
+      "Sugar",
+      "Baking Powder",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stuffed_camel",
+    "name": "Stuffed Camel",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 7,
+    "short_description": "Stuffed camel is a traditional Bedouin dish and a wedding tradition in the United Arab Emirates. In order to prepare it, the camel is skinned, trimmed, and cleaned. A few chickens, a lamb, and eggs ar...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "maamoul",
+    "name": "Ma'amoul",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 8,
+    "short_description": "Ma’amoul is a filled baked pastry made from a short dough of semolina or flour and fat, shaped into small rounds or domes and filled with dates, walnuts, or pistachios, widely prepared across the east...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/71a0cf58a927471da8e62bc1f09cf9cb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Semolina",
+      "Wheat Flour",
+      "Yeast",
+      "Ghee",
+      "Walnuts",
+      "Pistachios"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sago_halawa",
+    "name": "Sago Halawa",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 9,
+    "short_description": "Sago halawa is a Qatari sweet pudding made with sago pearls, sugar, water, and butter (or ghee). It is flavored with cardamom, saffron, and rosewater and often garnished with walnuts or other nuts. Th...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e614a52f30c742c394048d4fa47f825e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sago Pearls",
+      "Sugar",
+      "Ghee",
+      "Butter"
+    ],
+    "is_active": true
+  }
+]

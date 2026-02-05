@@ -1,0 +1,163 @@
+[
+  {
+    "id": "kabsa",
+    "name": "Kabsa",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Savor the rich flavors of Kabsa, a beloved Gulf dish featuring tender chicken or lamb, fragrant basmati rice, and aromatic spices. Its Persian and Indian influences create a delightful, hearty meal.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": "Al Khayma Heritage Restaurant",
+    "most_iconic_location": "Dubai",
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "luqaimat",
+    "name": "Luqaimat",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 2,
+    "short_description": "Indulge in golden, crispy bites of sweet pastry, deep-fried to perfection and drizzled with syrup or honey. Originating from the UAE, Luqaimat embodies the spirit of celebration and hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/12f04b3d12fd475aba18b0a6ca9bf97f.jpg?mw=660",
+    "most_iconic_place": "Al Fanar Restaurant & Cafe",
+    "most_iconic_location": "Dubai",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "saloona",
+    "name": "Saloona",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "A beloved staple in UAE households, Saloona features tender chicken simmered with vibrant vegetables and aromatic spices. Its hearty, comforting flavors make it a perfect everyday meal.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4823c34df331411cb850863dd09b8f1c.jpg?mw=660",
+    "most_iconic_place": "Al Khayma Heritage Restaurant",
+    "most_iconic_location": "Dubai",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "balaleet",
+    "name": "Balaleet",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 4,
+    "short_description": "A beloved breakfast in the UAE, balaleet features sweet vermicelli infused with fragrant cardamom and saffron, topped with buttery scrambled eggs for a delightful sweet-savory experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/939a416a53a5484fa45904f166cf8776.jpg?mw=660",
+    "most_iconic_place": "Al Khayma Heritage Restaurant",
+    "most_iconic_location": "Dubai",
+    "ingredients": [
+      "Vermicelli",
+      "Eggs",
+      "Butter",
+      "Cardamom",
+      "Saffron",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stuffed_dates_tamr_mahshi",
+    "name": "Stuffed dates (Tamr mahshi)",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Pitted dates are generously stuffed with a luscious blend of clotted cream, nuts, and candied fruit, creating a delightful Middle Eastern treat. Often enjoyed with tea, these festive bites celebrate the rich flavors of the UAE.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/364d11db260141e9a7e55a2c6f9ae729.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Dates",
+      "Clotted cream",
+      "Nuts",
+      "Candied Fruit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khanfaroosh",
+    "name": "Khanfaroosh",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 6,
+    "short_description": "A beloved treat in the Gulf, Khanfaroosh features a delightful blend of wheat and rice flour, eggs, and sugar, deep-fried to golden perfection. Its light, airy texture and subtle sweetness make it a must-try indulgence.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7a072070103a42babeac630b60adb258.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Rice Flour",
+      "Eggs",
+      "Sugar",
+      "Baking Powder",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stuffed_camel",
+    "name": "Stuffed Camel",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 7,
+    "short_description": "A grand Bedouin tradition, this wedding dish features a whole camel stuffed with tender chickens, lamb, and eggs, slow-cooked to perfection, offering a rich blend of flavors and cultural heritage.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "maamoul",
+    "name": "Ma'amoul",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 8,
+    "short_description": "Delicate and crumbly, these traditional Emirati cookies feature a rich filling of walnuts, nestled in a buttery semolina dough. A beloved treat during festive occasions, they embody Middle Eastern hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/71a0cf58a927471da8e62bc1f09cf9cb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Semolina",
+      "Wheat Flour",
+      "Yeast",
+      "Ghee",
+      "Walnuts",
+      "Pistachios"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sago_halawa",
+    "name": "Sago Halawa",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 9,
+    "short_description": "Delight in the creamy richness of this Qatari pudding, where sago pearls blend seamlessly with ghee and sugar. Infused with aromatic cardamom and saffron, it’s a fragrant treat often garnished with crunchy walnuts.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e614a52f30c742c394048d4fa47f825e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sago Pearls",
+      "Sugar",
+      "Ghee",
+      "Butter"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "khaja",
+    "name": "Khaja",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 1,
+    "short_description": "Khaja is a traditional dessert consisting of flour, sugar, and ghee-based dough that is deep-fried in oil until golden and crispy. After the preparation, khaja is sometimes soaked in sugar syrup, depe...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7c239718f9404b2b82d38832422c3763.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Maida Flour",
+      "Ghee",
+      "Cardamom",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bihari_kebab",
+    "name": "Bihari kebab",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 2,
+    "short_description": "Bihari kebab is a traditional Indian-Pakistani dish that's unique for its marinade, infused with mustard oil, dahi, poppy seeds, nutmeg, garam masala, and papaya paste. The dish is prepared with thinl...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/be12768bc0964246a4c8343fd1a2e61d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Raw papaya paste",
+      "Poppy Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "champaran_meat_ahuna",
+    "name": "Champaran meat (Ahuna)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Champaran meat is a famous mutton stew from West Champaran, a district in the Indian state of Bihar. It is prepared in a special clay pot known as handi, which is why this dish is sometimes called han...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/718637937f1d4aac9e6306ed9fa42f98.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "West Champaran",
+    "ingredients": [
+      "Mutton",
+      "Tomato",
+      "Onion",
+      "Dahi",
+      "Hot Peppers",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "litti_chokha",
+    "name": "Litti chokha",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 4,
+    "short_description": "This Indian specialty hails from Bihar, but it is also enjoyed in Jharkhand. One part of the dish consists of litti—small balls prepared with whole wheat flour and filled with a combination of spices ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5394b5fe61bf4501aba6124366f098cc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Sattu",
+      "Eggplant",
+      "Tomato",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dhuska",
+    "name": "Dhuska",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 5,
+    "short_description": "Dhuska is a traditional dish from the Indian states of Jharkhand and Bihar. It is a popular snack or breakfast item made from a batter of rice and chana dal (bengal grams). The batter is seasoned with...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d8468aaa4ccb4191b892e36530b89a8a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Bengal Gram",
+      "Black Grams",
+      "Hot Peppers",
+      "Ginger",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thekua",
+    "name": "Thekua",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 6,
+    "short_description": "Thekua is a flavorful, crispy Nepalese dessert consisting of whole wheat flour, jaggery, and grated coconut. The dough is traditionally deep-fried in ghee until it develops a reddish-brown color. This...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3d81c1ed8747470ea80b2618eccde20a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Coconut",
+      "Ghee",
+      "Cardamom",
+      "Fennel Seeds",
+      "Jaggery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "aloo_chokha",
+    "name": "Aloo chokha",
+    "local_name": null,
+    "category": "POTATO DISH",
+    "rank": 7,
+    "short_description": "Aloo chokha is a traditional dish originating from Bihar and Jharkhand. The dish is usually made with a combination of potatoes, garlic, mustard oil, onions, coriander, lemon juice, hot peppers, salt,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/16724cbc024142fea9286a43e9a5b727.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Potatoes",
+      "Onion",
+      "Hot Peppers",
+      "Garlic",
+      "Coriander",
+      "Mustard Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "naan_qalia",
+    "name": "Naan qalia",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 8,
+    "short_description": "Naan qalia is a traditional, royal, and historic Indian dish originating from Aurangabad, dating back to the era of Emperor Aurangzeb. It consists of naan flatbread and qalia, often a mixture of mutto...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8973d8b7e3d34a2491f2d630a7a6dc29.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Aurangabad",
+    "ingredients": [
+      "Mutton",
+      "Onion",
+      "Ginger-garlic paste",
+      "Coconut",
+      "Dahi",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  }
+]

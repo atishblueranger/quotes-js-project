@@ -1,0 +1,287 @@
+[
+  {
+    "id": "vada_pav",
+    "name": "Vada pav",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 1,
+    "short_description": "Vada pav is one of Mumbai's favorite sandwiches, its name referring to the key ingredients: vada, or spicy mashed potatoes that are deep-fried in chickpea batter, and pav, or white bread rolls. This i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/951728fa0ae74174a2602aaece17368c.jpg?mw=660",
+    "most_iconic_place": "Ashok Vada Pav",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Pav",
+      "Potatoes",
+      "Gram Flour",
+      "Garlic",
+      "Hot Peppers",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "misal",
+    "name": "Misal",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Misal is a specialty dish of the Indian state of Maharashtra, its name literally translated to a mixture of everything, so the ingredients vary from cook to cook. However, a combination of these ingre...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/181106e0dc5249ac8f8089098048cc02.jpg?mw=660",
+    "most_iconic_place": "Bedekar Misal",
+    "most_iconic_location": "Pune",
+    "ingredients": [
+      "Moth Beans",
+      "Potatoes",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Dahi"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pav_bhaji",
+    "name": "Pav bhaji",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Pav bhaji is a popular street snack originating from the Indian state of Maharashtra. It consists of a vegetable curry that is typically served with a soft bread roll known as pav. The dish was invent...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f77866f0f5474fc0b41d316f885edcc3.jpg?mw=660",
+    "most_iconic_place": "Sardar Pav Bhaji",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Potatoes",
+      "Peas",
+      "Carrot",
+      "Cauliflower",
+      "Bell Pepper",
+      "Pav"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "misal_pav",
+    "name": "Misal pav",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 4,
+    "short_description": "Misal pav is a traditional dish originating from Maharashtra. Its two main components are misal – a curry made with sprouted moth beans, usually topped with chivda, onions, chilis, and potatoes – and ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/31581c6651644769875834e8dc60bec0.jpg?mw=660",
+    "most_iconic_place": "Aaswad",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Pav",
+      "Moth Beans",
+      "Potatoes",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "modak",
+    "name": "Modak",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 5,
+    "short_description": "Modak is an Indian sweet dumpling believed to have originated in the state of Maharashtra. In India, modak is prepared in a variety of ways, and it is known under various names. Depending on the regio...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a46f5298ed7141b0a8763c3ca2333b8f.jpg?mw=660",
+    "most_iconic_place": "Modakam",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bhelpuri",
+    "name": "Bhelpuri",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 6,
+    "short_description": "Bhelpuri (also spelled bhel puri) is a type of chaat - a savory snack that is commonly served in cafés and street carts throughout India. There is a lot of debate about what should go in a bhelpuri, b...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e5e261d8a0004f2097dca3fefad53c59.jpg?mw=660",
+    "most_iconic_place": "Sea Lounge",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Puffed Rice",
+      "Potatoes",
+      "Nuts",
+      "Tomato",
+      "Onion",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bombay_sandwich",
+    "name": "Bombay sandwich",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 7,
+    "short_description": "Bombay sandwich is a traditional sandwich originating from Mumbai, hence the name. In order to prepare it, green chutney is spread on a slice of crustless white sandwich bread, while butter is spread ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0ca59d8f8e594480ab990d8b78063053.jpg?mw=660",
+    "most_iconic_place": "Vasu’s Laxmi Balaji Fast Food",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Bread",
+      "Potatoes",
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shrikhand",
+    "name": "Shrikhand",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 8,
+    "short_description": "Shrikhand is a popular Indian yogurt-based dessert, combined with sugar and nuts in order to develop a rich, creamy texture and sweet flavor. In North India, it is usually served for breakfast, while ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b40366bbc02a4ad583c12a036f44e69a.jpg?mw=660",
+    "most_iconic_place": "Shree Thaker Bhojanalay",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Dahi",
+      "Pistachios",
+      "Almonds",
+      "Saffron",
+      "Cardamom",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "patrode",
+    "name": "Patrode",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 9,
+    "short_description": "Patrode is a savory vegetarian dish from Malvani and Maharashtrian cuisine. Basic ingredients are the same throughout the entire region - taro (colocasia) leaves stuffed (or chopped up) with a mixture...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f0a30d373ee6437f8068dc9997be8701.jpg?mw=660",
+    "most_iconic_place": "Prakash Shakahari Upahar Kendra",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Taro Leaves",
+      "Gram Flour",
+      "Tamarind",
+      "Jaggery",
+      "Curry leaves",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "basundi",
+    "name": "Basundi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 10,
+    "short_description": "Basundi is a popular Indian dessert consisting of sweetened, thickened milk with the addition of chopped nuts such as almonds, cashews, and pistachios. The dessert is usually flavored with cardamom an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/05bbdd5b64894a929b6ba0a557ffcc4b.jpg?mw=660",
+    "most_iconic_place": "Maharaja Bhog",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Milk",
+      "Almonds",
+      "Pistachios",
+      "Cashews",
+      "Cardamom",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhakri",
+    "name": "Bhakri",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 11,
+    "short_description": "Bhakri is a popular Indian unleavened flatbread native to the Indian state of Maharashtra, although it is commonly found throughout Gujarat, Goa, and Rajasthan. It can be made with jowar, ragi, sorghu...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9dbd66882cea4e3789a71ffbb77ef2bd.jpg?mw=660",
+    "most_iconic_place": "Shree Thaker Bhojanalay",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Rice Flour",
+      "Sorghum Flour",
+      "Pearl Millet Flour",
+      "Ghee",
+      "Sesame Seeds",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dahi_puri",
+    "name": "Dahi puri",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 12,
+    "short_description": "Hailing from Maharashtra, dahi puri consists of a puri shell that is hollowed out, then stuffed with potatoes, chaat masala, onions, and a variety of chutneys before it is finished with beaten yogurt,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bb8d66ccb459436da4b69770c9d8db86.jpg?mw=660",
+    "most_iconic_place": "Sea Lounge",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Wheat Flour",
+      "Ghee",
+      "Potatoes",
+      "Chickpeas",
+      "Bean Sprouts",
+      "Dahi"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pav_bhaji_masala",
+    "name": "Pav bhaji masala",
+    "local_name": null,
+    "category": "SPICE BLEND AND SEASONING",
+    "rank": 1,
+    "short_description": "Pav bhaji masala is a special spice blend used to make pav bhaji, a popular Indian street food. It is a mix of aromatic spices that provide the characteristic flavor and aroma of the dish. This masala...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/1624bd74d015466ca8edf2a90c94e6d8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Coriander Seeds",
+      "Cumin Seeds",
+      "Fennel Seeds",
+      "Fenugreek",
+      "Turmeric",
+      "Cloves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bombay_duck_bombil",
+    "name": "Bombay duck (Bombil)",
+    "local_name": null,
+    "category": "WHITE FISH",
+    "rank": 2,
+    "short_description": "Bombay duck (lat. Harpadon nehereus), despite its name, is not a duck but a type of fish. It is a soft, fleshy lizardfish found in the waters of the Arabian Sea, particularly along the western coast o...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/4a7739b56cbd438e9eb286ae3322ab27.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mango_mastani",
+    "name": "Mango mastani",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 1,
+    "short_description": "Mango mastani is a local beverage hailing from Pune that blends mangoes and chilled milk. It can be made with fresh mangoes or mango puree. The drink is typically garnished with slivered nuts and ofte...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/c1aa43e9330b49229756c84c1d35308a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Pune",
+    "ingredients": [
+      "Mango",
+      "Ice Cream",
+      "Nuts",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

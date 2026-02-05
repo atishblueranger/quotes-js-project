@@ -1,0 +1,522 @@
+[
+  {
+    "id": "burger",
+    "name": "Burger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 1,
+    "short_description": "A quintessential American food, burger evolved from the German Deutsches beefsteak, according to the New York Times food critic Mimi Sheraton. Its other name (hamburger) is a result of the fact that m...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/223d2928b1e04701854f387c30d940f0.jpg?mw=660",
+    "most_iconic_place": "Emily",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Beef",
+      "Burger Bun",
+      "Onion",
+      "Ketchup",
+      "Mustard",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cheeseburger",
+    "name": "Cheeseburger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 2,
+    "short_description": "Cheeseburger is a natural evolution of the beloved hamburger, the only difference between the two being that the cheeseburger has a slice of cheese added on top of the meat patty. Although American ch...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/df459d9fe5ad400e8bf69e4f25d9cf12.jpg?mw=660",
+    "most_iconic_place": "Emily",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Ground Beef",
+      "Cheese",
+      "Burger Bun",
+      "Tomato",
+      "Pickled Cucumbers",
+      "Lettuce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "barbecue",
+    "name": "Barbecue",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 3,
+    "short_description": "Modern American barbecue stems directly from barbacoa, the tradition of smoke-cooking meat which Caribbean natives were doing long before the colonists arrived. Today, the centuries-old technique of s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/912c358d19fd418cb7f0ff15c1e6d8f1.jpg?mw=660",
+    "most_iconic_place": "Central BBQ",
+    "most_iconic_location": "Memphis",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "cupcake",
+    "name": "Cupcake",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 4,
+    "short_description": "A cupcake is a tiny cake that is baked in a thin paper mold or an aluminum cup. One cupcake should typically serve one person. The first mention of a cupcake can be traced back to a 1796 cookbook call...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3021765eda914b4cb253e72f5565a101.jpg?mw=660",
+    "most_iconic_place": "Molly's Cupcakes",
+    "most_iconic_location": "Chicago",
+    "ingredients": [
+      "Butter",
+      "Flour",
+      "Eggs",
+      "Milk",
+      "Sugar",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fried_chicken",
+    "name": "Fried Chicken",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 5,
+    "short_description": "The most popular food of the Southern cuisine, fried chicken is the theme of many arguments where everyone involved seems to have a favorite, be it what their mothers used to make, a cult roadside eat...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a5ee5bdd724f42e79bc6884cd64d7f6c.jpg?mw=660",
+    "most_iconic_place": "Prince's Hot Chicken Shack",
+    "most_iconic_location": "Nashville",
+    "ingredients": [
+      "Chicken",
+      "Buttermilk",
+      "Flour",
+      "Lard",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "brownies",
+    "name": "Brownies",
+    "local_name": null,
+    "category": "CHOCOLATE DESSERT",
+    "rank": 6,
+    "short_description": "Deliciously chewy, dense and fudgy with a rich chocolate flavor, the beloved brownies are one of the most popular American desserts. Some claim that Bertha Palmer, wife of the owner of Palmer House Ho...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f1048106dd449fd9c7a2e592d59ca32.jpg?mw=660",
+    "most_iconic_place": "Baked",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Chocolate",
+      "Butter",
+      "Eggs",
+      "Vanilla",
+      "Flour",
+      "Cocoa Beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mac_and_cheese",
+    "name": "Mac and Cheese",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 7,
+    "short_description": "Mac and cheese—a seemingly simple combination of macaroni and melted cheese—is one of the most popular dishes in the United States. The preferred American combination consists of curved macaroni pasta...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/43b9fc3a33314d2cb2d25bd73bb5a046.jpg?mw=660",
+    "most_iconic_place": "The Eagle OTR",
+    "most_iconic_location": "Cincinnati",
+    "ingredients": [
+      "Macaroni",
+      "Breadcrumbs",
+      "Sauce Mornay"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "burrito",
+    "name": "Burrito",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 8,
+    "short_description": "Burrito is a dish consisting of a wheat flour tortilla that is wrapped in such a way that it is possible to fully enclose the flavorful filling on the interior. The filling consists of a combination o...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f4291f3e82f84c33a5997f801e8fb24f.jpg?mw=660",
+    "most_iconic_place": "La Taqueria",
+    "most_iconic_location": "San Francisco",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chocolate_chip_cookie",
+    "name": "Chocolate chip cookie",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 9,
+    "short_description": "Usually accompanied by a glass of milk or a cup of hot tea or coffee, chocolate chip cookies are well balanced between salty and sweet in flavor, tenderly chewy in texture, and filled with small melti...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/99c88d81724442cd96126b8cc74eefd5.jpg?mw=660",
+    "most_iconic_place": "Levain Bakery",
+    "most_iconic_location": "Manhattan",
+    "ingredients": [
+      "Flour",
+      "Chocolate Chips",
+      "Butter",
+      "Sugar",
+      "Brown Sugar",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "doughnut",
+    "name": "Doughnut",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 10,
+    "short_description": "Although archaeologists had found some petrified remains of fried cakes with holes in the center, it is still unclear how could the early Native Americans prepare these delicious fried dough desserts ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e64c8b5fab4b436f8297e4b8962f1900.jpg?mw=660",
+    "most_iconic_place": "District Donuts Sliders Brew",
+    "most_iconic_location": "New Orleans",
+    "ingredients": [
+      "Flour",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fajitas",
+    "name": "Fajitas",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 11,
+    "short_description": "Fajitas is a popular Tex-Mex dish made from marinated, grilled skirt steak that is served in a wheat flour tortilla. The earliest printed mention of the word fajita referring to food appeared in 1971,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/950cac1a6e1f4e6682ce70788c279910.jpg?mw=660",
+    "most_iconic_place": "The Original Ninfa’s on Navigation",
+    "most_iconic_location": "Houston",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Onion",
+      "Guacamole",
+      "Garlic",
+      "Pico de gallo"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "milkshake",
+    "name": "Milkshake",
+    "local_name": null,
+    "category": "FROZEN DESSERT",
+    "rank": 12,
+    "short_description": "Milkshakes are usually described as flavored milk and ice cream beverages, usually lavishly decorated and served cold. The first written mention, dating from 1885, was somewhat different, and the word...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5291b5f2fcee42849cd84a03bff55e0a.jpg?mw=660",
+    "most_iconic_place": "Edzo’s Burger Shop",
+    "most_iconic_location": "Evanston",
+    "ingredients": [
+      "Milk",
+      "Ice Cream",
+      "Syrup"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "grilled_cheese",
+    "name": "Grilled Cheese",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 13,
+    "short_description": "Grilled cheese is a classic American sandwich that is usually prepared with one or more cheese varieties that are placed between two slices of bread. The slices are buttered from the outside, and the ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fbefddd4e4de4f6ab8d43d6fda3dc21f.jpg?mw=660",
+    "most_iconic_place": "Beecher's Handmade Cheese",
+    "most_iconic_location": "Seattle",
+    "ingredients": [
+      "Bread",
+      "Cheddar",
+      "Monterey Jack",
+      "Butter",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sundae",
+    "name": "Sundae",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 14,
+    "short_description": "Along with Banana Split, sundae is one of the most served ice cream-based desserts in the United States of America. A sundae is ice cream topped with a sauce or syrup, typically served in a bowl. The ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/39d1a4212e7f49ecbb94c4d336cc770b.jpg?mw=660",
+    "most_iconic_place": "Sweet Republic",
+    "most_iconic_location": "Scottsdale",
+    "ingredients": [
+      "Gelato alla vaniglia",
+      "Heavy Cream",
+      "Sugar",
+      "Cherries",
+      "Kirschwasser",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pulled_pork",
+    "name": "Pulled Pork",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 15,
+    "short_description": "Pulled pork is an American barbecue technique of cooking pork meat slowly over low heat, resulting in tender meat that can easily be pulled into small pieces. It is a specialty that originates from th...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/77c0b1d19f8a49509278bde67c1d6cb7.jpg?mw=660",
+    "most_iconic_place": "Pecan Lodge",
+    "most_iconic_location": "Dallas",
+    "ingredients": [
+      "Pork",
+      "Vinegar",
+      "Black Pepper",
+      "Tomato Sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "frozen_yogurt",
+    "name": "Frozen Yogurt",
+    "local_name": null,
+    "category": "FROZEN DESSERT",
+    "rank": 16,
+    "short_description": "Frozen yogurt is a frozen dessert treat made with yogurt and (sometimes) other dairy products and flavorings. It is lower in fat than ice cream due to the use of milk instead of cream. Frozen yogurt i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/25d6f8f98c57444c973971d33a538bde.jpg?mw=660",
+    "most_iconic_place": "Pinkberry",
+    "most_iconic_location": "Manhattan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fudge",
+    "name": "Fudge",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 17,
+    "short_description": "Fudge is a creamy American confectionery made with milk, sugar, butter, and various toppings and flavorings. It is created by boiling milk, butter, and sugar to a degree of 240 °F/116 °C, and then bea...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a80d58e4be1647aa944959fbe888bd2f.jpg?mw=660",
+    "most_iconic_place": "JoAnn’s Fudge",
+    "most_iconic_location": "Mackinac Island",
+    "ingredients": [
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "apple_pie",
+    "name": "Apple Pie",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 18,
+    "short_description": "Although England has a long history of making meat and fruit pies, and it was the inspiration for the American versions, there is nothing that is more synonymous with American desserts than the apple ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ca6ef74dca69400991b6723caa3a1f0b.jpg?mw=660",
+    "most_iconic_place": "18th & Vine",
+    "most_iconic_location": "Dallas",
+    "ingredients": [
+      "Granny Smith apples",
+      "Rhode Island Greening apples",
+      "Cinnamon",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "blt_sandwich",
+    "name": "BLT sandwich",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 19,
+    "short_description": "Crispy, crunchy and salty bacon, fresh, slightly acidic tomatoes, chilled lettuce, mayonnaise, and toast - there is little, if no excuses for error while making a BLT sandwich. However, there are stri...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3f4736feb0a54cf59cba5ef99aef5a17.jpg?mw=660",
+    "most_iconic_place": "Crown Candy Kitchen",
+    "most_iconic_location": "St. Louis",
+    "ingredients": [
+      "Bread",
+      "Bacon",
+      "Lettuce",
+      "Tomato",
+      "Mayonnaise"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "smore",
+    "name": "S'more",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 20,
+    "short_description": "A traditional campfire classic consisting of a roasted marshmallow and a layer of chocolate placed between two graham crackers - that's s'more, its name derived from a contraction of the phrase \"some ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d0c95ae97ff144bdad0e8a205cbc11dc.jpg?mw=660",
+    "most_iconic_place": "Emily",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Marshmallow",
+      "Graham cracker",
+      "Milk Chocolate"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crab_cake",
+    "name": "Crab Cake",
+    "local_name": null,
+    "category": "CRAB DISH",
+    "rank": 21,
+    "short_description": "Crab cake is a popular American type of fishcake consisting of shellfish meat, breadcrumbs, eggs, and flavorings such as mustard, Worcestershire sauce, and fresh herbs. The concept of minced fish meat...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/75b4fd6ec3b44ecdb24aaabc3843e36a.jpg?mw=660",
+    "most_iconic_place": "82 Queen",
+    "most_iconic_location": "Charleston",
+    "ingredients": [
+      "Crab",
+      "Breadcrumbs",
+      "Eggs",
+      "Mayonnaise",
+      "Dijon mustard",
+      "Worcestershire sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "coleslaw",
+    "name": "Coleslaw",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 22,
+    "short_description": "Originating from the Dutch term koolsla, meaning cabbage salad, coleslaw is nowadays a true American staple and a side dish that's often served with barbecued meat or fried chicken. Originally, it was...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cc12f50bd4744ceb8e874cc78bf76363.jpg?mw=660",
+    "most_iconic_place": "Paia Fish Market",
+    "most_iconic_location": "Paia",
+    "ingredients": [
+      "Cabbage",
+      "Carrot",
+      "Mayonnaise",
+      "Sour Cream",
+      "Buttermilk",
+      "Vinegar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_nuggets",
+    "name": "Chicken Nuggets",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 23,
+    "short_description": "Chicken nuggets are chicken products made from meat slurry that is breaded or battered, then baked or deep-fried. Although the dish is highly caloric, it used to be considered a healthy alternative to...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ababa03e411f4568a68b012779be5976.jpg?mw=660",
+    "most_iconic_place": "Callahan Barbecue",
+    "most_iconic_location": "Callahan",
+    "ingredients": [
+      "Chicken",
+      "Eggs",
+      "Flour",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chili_con_carne",
+    "name": "Chili con Carne",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 24,
+    "short_description": "Although some may think that chili con carne is an authentic Mexican dish, it is actually an original American dish, made only in a few places in Mexico in order to cater to the tourists. If the dish ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5c3188d4c3ad465cb38a5770c328a723.jpg?mw=660",
+    "most_iconic_place": "Woodyard Bar-B-Q",
+    "most_iconic_location": "Kansas City",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thanksgiving_dinner",
+    "name": "Thanksgiving Dinner",
+    "local_name": null,
+    "category": "FEAST",
+    "rank": 25,
+    "short_description": "For most Americans, the Thanksgiving dinner usually includes seasonal dishes such as stuffed roasted turkey and side dishes such as mashed potatoes, a rich cranberry sauce, and pumpkin pie, among othe...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/df79ea14ada7419b80d2a9418855d7ae.jpg?mw=660",
+    "most_iconic_place": "Old Ebbitt Grill",
+    "most_iconic_location": "Washington, D.C.",
+    "ingredients": [
+      "Turkey",
+      "Potatoes",
+      "Pumpkin",
+      "Cranberries",
+      "Celery",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "poke",
+    "name": "Poke",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 26,
+    "short_description": "Poke is a traditional Hawaiian dish that is made with small pieces of fresh and raw fish or seafood, which are combined with finely chopped vegetables, herbs, condiments, and seasonings. Although trad...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/44c6efa57bc34d24b5eca48a4f8cd94e.jpg?mw=660",
+    "most_iconic_place": "Da Poke Shack",
+    "most_iconic_location": "Kailua-Kona",
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Scallions",
+      "Sesame Seeds",
+      "Hot Peppers",
+      "Soy sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gumbo",
+    "name": "Gumbo",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 27,
+    "short_description": "There is nothing better to represent a true taste of New Orleans than gumbo, a filling soup that is usually prepared in large, black, iron pots. A cultural and gastronomical symbol of Louisiana, it ca...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6eb46d0e684042bf90883b55029a24c9.jpg?mw=660",
+    "most_iconic_place": "Mr. B's Bistro",
+    "most_iconic_location": "New Orleans",
+    "ingredients": [
+      "Chicken",
+      "Turkey",
+      "Rabbit",
+      "Beef",
+      "Veal",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "american_pancakes",
+    "name": "American pancakes",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 28,
+    "short_description": "American pancakes are made from a thick batter consisting of eggs, flour, milk, and baking powder. Additionally, fruit such as apples, strawberries, and blueberries can also be added to the batter, al...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5c03843d68e7408f9da6c739b4871a80.jpg?mw=660",
+    "most_iconic_place": "Clinton St. Baking Co.",
+    "most_iconic_location": "Manhattan",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  }
+]

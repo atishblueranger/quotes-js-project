@@ -1,0 +1,437 @@
+[
+  {
+    "id": "polish_doughnuts_pączki",
+    "name": "Polish doughnuts (Pączki)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 1,
+    "short_description": "Pączki are traditional Polish doughnuts are made from yeast-leavened dough that's rich in eggs, sugar, milk, and fats. A touch of spirit, such as rum, is often added to the dough for pączki to prevent...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7d4e43fd796b4c23a16b4556c6657092.jpg?mw=660",
+    "most_iconic_place": "Pączkarnia",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Sugar",
+      "Yeast",
+      "Butter",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pierogi",
+    "name": "Pierogi",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 2,
+    "short_description": "These stuffed dumplings derived their name from the Polish word for filled dumpling: pieróg. This former peasant food evolved into one of Poland's favorite dishes. Every family has their own version o...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/11be2ebc03d342df8ede1510e1057ecc.jpg?mw=660",
+    "most_iconic_place": "Na Winklu",
+    "most_iconic_location": "Poznań",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Twaróg",
+      "Pork",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gołąbki",
+    "name": "Gołąbki",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 3,
+    "short_description": "Gołąbki is a traditional dish consisting of cabbage leaves stuffed with a combination of minced meat and rice. The whole concoction is then rolled and cooked in a mushroom or tomato-based sauce. Gołąb...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/79d86488ac36487e949b294921baf72d.jpg?mw=660",
+    "most_iconic_place": "Jacobsen",
+    "most_iconic_location": "Gdańsk",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sernik",
+    "name": "Sernik",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 4,
+    "short_description": "Sernik is a cheesecake from Poland, stemming from old Christian and Jewish traditions. It is made with eggs, sugar, and twaróg - a type of curd cheese that has been used in desserts for hundreds of ye...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/476aec0126ea488fbfb5b6e5c79cf77d.jpg?mw=660",
+    "most_iconic_place": "Bardzo",
+    "most_iconic_location": "Poznań",
+    "ingredients": [
+      "Twaróg",
+      "Butter",
+      "Sugar",
+      "Eggs",
+      "Vanilla",
+      "Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "babka",
+    "name": "Babka",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 5,
+    "short_description": "Babka is a sweet, rich bread that is traditionally served on Easter Sunday in Poland and other Central and Eastern European countries. The cake usually contains raisins and rum for flavoring, and it i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/338035413a404f60873819e4c5b44865.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Yeast",
+      "Butter",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "klopsiki",
+    "name": "Klopsiki",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 6,
+    "short_description": "Klopsiki are traditional Polish meatballs that are usually made with ground pork or beef, occasionally ground chicken or game, eggs, breadcrumbs or soaked bread, and a variety of spices and herbs. The...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f65e2f19fcf949f1b4bd03bad9b64d6f.jpg?mw=660",
+    "most_iconic_place": "Bar Mleczny Leniwa Baba",
+    "most_iconic_location": "Gdynia",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Butter",
+      "Eggs",
+      "Breadcrumbs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gulasz",
+    "name": "Gulasz",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 7,
+    "short_description": "This traditional Polish variety of the acclaimed Hungarian goulash is prepared with beef or pork that is slowly simmered alongside onions in a rich, paprika-spiced broth. It is often complemented by v...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b308b38e721443a996025b5b82bc399d.jpg?mw=660",
+    "most_iconic_place": "Kuchnia u Doroty",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Paprika",
+      "Onion",
+      "Black Pepper",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "golonka",
+    "name": "Golonka",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 8,
+    "short_description": "The name golonka refers to the pork hock, or pork knuckle, which is usually seared and slowly cooked until tender. Alternatively, it can also be grilled or braised in the oven. The dish comes in many ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7e1a62fc3b3c4b9ebf94ad006f4bf9d7.jpg?mw=660",
+    "most_iconic_place": "Starka",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Pork",
+      "Beer",
+      "Honey",
+      "Dijon mustard",
+      "Rosemary",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "szarlotka",
+    "name": "Szarlotka",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 9,
+    "short_description": "Szarlotka is a traditional apple pie that is hugely popular in all of Poland. There are countless ways of making it, but typically, it's made with shortcrust pastry or semi-shortcrust pastry and cooke...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5ba2d6cc1f7645dba77fb1c28795bb00.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "rosół",
+    "name": "Rosół",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 10,
+    "short_description": "Comforting rosół is a traditional meat soup. Even though the chicken version, called rosół z kury, is the most famous variety–beef, veal, turkey, or mixed meat broths are also quite frequently prepare...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a44d84ac654d4388a190843d4e992884.jpg?mw=660",
+    "most_iconic_place": "Pastela",
+    "most_iconic_location": "Poznań",
+    "ingredients": [
+      "Chicken",
+      "Noodles",
+      "Carrot",
+      "Onion",
+      "Garlic",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zapiekanka",
+    "name": "Zapiekanka",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 11,
+    "short_description": "One of Poland's favorite fast foods is this unique open-faced sandwich. The scrumptious Polish zapiekanka is made with a plain white baguette cut lengthwise, topped with a variety of tasty ingredients...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/78e421d6dee74675bee50be5925f6686.jpg?mw=660",
+    "most_iconic_place": "Endzior",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Baguette",
+      "Onion",
+      "Mushrooms",
+      "Edam Holland",
+      "Gouda",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mazurek",
+    "name": "Mazurek",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 12,
+    "short_description": "Mazurek is a flat cake with various bases and toppings, originating from Poland. It is traditionally baked for Easter, and is characterized by its low height of only 1 or 2 centimeters. Although not m...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eeda0cdcb03c4212a5b9e79d4443c31c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "ryba_po_grecku",
+    "name": "Ryba po grecku",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 13,
+    "short_description": "Ryba po grecku is a traditional fish dish originating from Poland. Although there are variations, the dish is usually made with a combination of fish fillets (cod, haddock, tilapia, perch, pike, etc.)...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/81286fd0b0a64175a2bd83f11361c425.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Haddock",
+      "Pike",
+      "Tilapia",
+      "Cod",
+      "Perch",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "żurek",
+    "name": "Żurek",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 14,
+    "short_description": "Żurek is a traditional soup characterized by its distinctively sour taste, which comes from sour leavening, or the fermentation of bread and rye flour. The soup also contains meats such as sausages, b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/db261d61a3984a8dbcacf51b03e74c87.jpg?mw=660",
+    "most_iconic_place": "Żurownia",
+    "most_iconic_location": "Katowice",
+    "ingredients": [
+      "Bacon",
+      "Kielbasa",
+      "Eggs",
+      "rye flour",
+      "Potatoes",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bigos",
+    "name": "Bigos",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Polish cuisine prides itself in hearty and comforting dishes, and bigos–a traditional Polish stew–is one of the classic representatives of their culinary tradition. Also known as hunter’s stew, bigos ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fa1972d3cac4488c9ec72a5b58f62fab.jpg?mw=660",
+    "most_iconic_place": "Polakowski",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Pork",
+      "Sauerkraut",
+      "Potatoes",
+      "Bacon",
+      "Kielbasa",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pasztet",
+    "name": "Pasztet",
+    "local_name": null,
+    "category": "PÂTÉ",
+    "rank": 16,
+    "short_description": "Pasztet is a unique Polish dish that is traditionally served at special, festive occasions such as Christmas and Easter. It is characterized by its texture and flavor, and unlike other, spreadable pât...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f6d19d8b72f8428aa44773eef31d9f86.jpg?mw=660",
+    "most_iconic_place": "Hawełka",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Offal",
+      "Onion",
+      "Celery",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "smalec",
+    "name": "Smalec",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 17,
+    "short_description": "Smalec is a traditional spread originating from Poland. The spread is based on rendered pork fat, onions, and spices. For centuries, it was a hearty and inexpensive meal for the working class, and ove...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3eff6a96e3ee451eb0ab40470a845c96.jpg?mw=660",
+    "most_iconic_place": "Stary Dom",
+    "most_iconic_location": "Warsaw",
+    "ingredients": [
+      "Pork Fat",
+      "Onion",
+      "Apples",
+      "Prunes",
+      "Garlic",
+      "Marjoram"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zupa_pomidorowa",
+    "name": "Zupa pomidorowa",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 18,
+    "short_description": "This flavorful tomato soup is one of the classic dishes of traditional Polish cuisine. It is usually prepared with a combination of fresh tomatoes or tomato paste and various meat or vegetable broths....",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9c79ba9a2b6c4f7d94e83a6932461783.jpg?mw=660",
+    "most_iconic_place": "Bar Bambino",
+    "most_iconic_location": "Warsaw",
+    "ingredients": [
+      "Tomato",
+      "Carrot",
+      "Celery",
+      "Stock",
+      "Garlic",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zrazy",
+    "name": "Zrazy",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 19,
+    "short_description": "The term zrazy encompasses a wide variety of traditional Polish meat dishes. It may refer to pounded and braised cutlets, but nowadays the name is used almost interchangeably for various types of stuf...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e811a211895549ef918fcdded4091cea.jpg?mw=660",
+    "most_iconic_place": "U Kucharzy",
+    "most_iconic_location": "Warsaw",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kotlet_schabowy",
+    "name": "Kotlet schabowy",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 20,
+    "short_description": "Considered to be a variation of the more famous Wiener schnitzel, the breaded pork cutlet known as kotlet Schabowy is one of the most popular Polish dishes. Even though it appeared in the 19th century...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7c83f24ab48449c2a6f70784285b8e3f.jpg?mw=660",
+    "most_iconic_place": "Schabowy",
+    "most_iconic_location": "Warsaw",
+    "ingredients": [
+      "Pork",
+      "Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "placki_ziemniaczane",
+    "name": "Placki ziemniaczane",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 21,
+    "short_description": "Placki ziemniaczane are the well-known potato pancakes, a common and straightforward dish enjoyed in all parts of Poland. The combination of grated potatoes and onions, incorporated with eggs and occa...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d31bd5094927424d9a25b37da3d81da5.jpg?mw=660",
+    "most_iconic_place": "U Babci Maliny",
+    "most_iconic_location": "Kraków",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "piernik",
+    "name": "Piernik",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 22,
+    "short_description": "Although it is known as a gingerbread, piernik is better described as a traditional Polish honey-spice cake that is mainly enjoyed as a popular Christmas treat. It appears in numerous varieties, but i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7fd0fba7de664f9e88dd9b66cd7e510b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Toruń",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mizeria",
+    "name": "Mizeria",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 23,
+    "short_description": "Refreshing and easy to make, mizeria is one of the most famous Polish salads. It consists of thinly sliced cucumbers that are seasoned with salt and pepper, then mixed with creamy sour cream or yogurt...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2609f2338b8e49fabb5710d611ef04e6.jpg?mw=660",
+    "most_iconic_place": "Bar Turystyczny",
+    "most_iconic_location": "Gdańsk",
+    "ingredients": [
+      "Cucumber",
+      "Sour Cream",
+      "Dill"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "flaki",
+    "name": "Flaki",
+    "local_name": null,
+    "category": "OFFAL SOUP",
+    "rank": 24,
+    "short_description": "Flaki or flaczki is a traditional tripe soup. Dense and meaty, the soup is traditionally served during Polish weddings as a part of the hot courses of the festivity. The dish is often served with a fr...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/924a08797cbc41fb8b8c4840bd832e7e.jpg?mw=660",
+    "most_iconic_place": "Karakter",
+    "most_iconic_location": "Kraków",
+    "ingredients": [
+      "Offal",
+      "Carrot",
+      "Celery",
+      "Parsley Root",
+      "Stock",
+      "Marjoram"
+    ],
+    "is_active": true
+  }
+]

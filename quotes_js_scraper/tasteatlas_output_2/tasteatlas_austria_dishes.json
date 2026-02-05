@@ -1,0 +1,474 @@
+[
+  {
+    "id": "wiener_schnitzel",
+    "name": "Wiener Schnitzel",
+    "local_name": null,
+    "category": "VEAL DISH",
+    "rank": 1,
+    "short_description": "One of the best-known dishes of Austrian cuisine, the Wiener schnitzel is a thinned, breaded, and pan-fried veal cutlet that is traditionally served with a dollop of lingonberry jam, lemon wedges, and...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8d2c1ee3e754487aa207ff5d3ceae03.jpg?mw=660",
+    "most_iconic_place": "Figlmüller",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Veal",
+      "Breadcrumbs",
+      "Wheat Flour",
+      "Lard",
+      "Butter",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cremeschnitte",
+    "name": "Cremeschnitte",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 2,
+    "short_description": "Cremeschnitte is a vanilla-flavored custard cream cake and an absolute classic among central and eastern European desserts. It is known by many names, most of which have stemmed from the German cremes...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/507936ee7d0147e48694598dda086632.jpg?mw=660",
+    "most_iconic_place": "Berghaus Tirol",
+    "most_iconic_location": "Kitzbühel",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Corn Starch",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sacher_torte",
+    "name": "Sacher-Torte",
+    "local_name": null,
+    "category": "CHOCOLATE CAKE",
+    "rank": 3,
+    "short_description": "The original Sacher-Torte is the most famous Austrian cake. It is a classic, layered chocolate sponge cake that is thinly coated with high-quality apricot jam and topped with chocolate icing. Sacher-T...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4621a49b7d544148975c04373b7d1420.jpg?mw=660",
+    "most_iconic_place": "Café Sacher Wien",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Dark Chocolate",
+      "Apricot Jam",
+      "Butter",
+      "Vanilla",
+      "Eggs",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "apfelstrudel",
+    "name": "Apfelstrudel",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 4,
+    "short_description": "A traditional pastry dessert with a rich and vivid history, apfelstrudel (apple strudel) is one of Austria's most popular delicacies. This sweet treat consists of thin layers of dough filled with a fl...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e3ea8cb9b1724a869e776d1b84c11730.jpg?mw=660",
+    "most_iconic_place": "Café Landtmann",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Apples",
+      "Raisins",
+      "Hazelnuts",
+      "Breadcrumbs",
+      "Rum",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "krapfen",
+    "name": "Krapfen",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 5,
+    "short_description": "Krapfen was probably the first European-style doughnut to appear, followed by similar varieties in other countries. These pastries are traditionally prepared with leavened dough that is deep-fried unt...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5d7bb143eccb46dcba3e9a5f08c4e150.jpg?mw=660",
+    "most_iconic_place": "Groissböck",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaiserschmarrn",
+    "name": "Kaiserschmarrn",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 6,
+    "short_description": "Also known as the Emperor's mess, this Austrian dessert can be described as a fluffy, lightly caramelized, scrambled pancake. Legend has it that kaiserschmarrn was the favorite dessert of Kaiser Franz...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/566f349a56ec46008e55aed46a3cd897.jpg?mw=660",
+    "most_iconic_place": "Café Landtmann",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Wheat Flour",
+      "Sugar",
+      "Raisins",
+      "Rum"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vanillekipferl",
+    "name": "Vanillekipferl",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 7,
+    "short_description": "Commonly found throughout Austria, Hungary, and Germany, vanillekipferl are traditional, sweet, crescent-shaped cookies consisting of flour, sugar, butter, and vanilla. The cookies often contain groun...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c02242d751524f1bbddc34733b51b982.jpg?mw=660",
+    "most_iconic_place": "Chocolaterie Pâtisserie Fruth",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Wheat Flour",
+      "Vanilla",
+      "Walnuts",
+      "Eggs",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "linzer_torte",
+    "name": "Linzer Torte",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 8,
+    "short_description": "Named after the Austrian city of Linz, Linzertorte is a short cake with a crumbly, buttery pastry shell that is accentuated by lemon juice, cinnamon, and either almonds, walnuts, or hazelnuts. It's al...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6c64bc07b8c14173a55662adb5e6535e.jpg?mw=660",
+    "most_iconic_place": "Kuk Hofbackerei",
+    "most_iconic_location": "Linz",
+    "ingredients": [
+      "Hazelnuts",
+      "Almonds",
+      "Walnuts",
+      "Butter",
+      "Redcurrant Jam",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tafelspitz",
+    "name": "Tafelspitz",
+    "local_name": null,
+    "category": "VEAL DISH",
+    "rank": 9,
+    "short_description": "Even though tafelspitz is today one of the most popular Austrian dishes, this succulent boiled veal dish was once reserved only for the ruling class, and it was the favorite dish of Emperor Franz Jose...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/26ca74855a3043e1a4f3dd65870e7904.jpg?mw=660",
+    "most_iconic_place": "Plachuttas Gasthaus zur Oper",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Veal",
+      "Carrot",
+      "Radish",
+      "Parsnip",
+      "Celery",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "wiener_würstchen",
+    "name": "Wiener Würstchen",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 10,
+    "short_description": "Considered a variation on the traditional frankfurter würstchen (frankfurter sausage), wiener würstchen is the name of an Austrian sausage that is typically prepared with a mixture of pork and beef. T...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/976eb563cd82455b80299a178652d540.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Beef",
+      "Garlic",
+      "Mace",
+      "Coriander",
+      "White Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "germknödel",
+    "name": "Germknödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 11,
+    "short_description": "Germknödel is a famous Austrian steamed yeast dumpling. It consists of soft dough which is filled with rum-spiced plum jam. Before serving, the dumpling is generously doused with melted butter or vani...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a2d03c2e1df14bb18ed4281c8c450532.jpg?mw=660",
+    "most_iconic_place": "Restaurant Sunnseit",
+    "most_iconic_location": "Mittersill",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Milk",
+      "Eggs",
+      "plum jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaisersemmel",
+    "name": "Kaisersemmel",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 12,
+    "short_description": "Kaisersemmel is a traditional bread roll originating from Austria. Also known as kaiser roll, it's usually made with a combination of flour, yeast, salt, sugar, and sometimes butter. The dough is shap...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/225208ec89644fc09f637a8cbb30e27d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Salt",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rindsgulasch",
+    "name": "Rindsgulasch",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 13,
+    "short_description": "Rindsgoulasch is an Austrian and German take on the Hungarian goulash that is considered a staple of Viennese cuisine. It is typically prepared with beef, onions, garlic, powdered paprika, tomato past...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/874a43cca2d847068ce5f827ca91aa3a.jpg?mw=660",
+    "most_iconic_place": "Gasthaus zum Sieg",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Garlic",
+      "Paprika",
+      "Tomato Paste",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "käsekrainer",
+    "name": "Käsekrainer",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 14,
+    "short_description": "Käsekrainer is a quintessential Austrian gourmet delicacy, a type of sausage filled with small chunks of cheese. It is usually prepared with pork or a mixture of pork, beef, and a variety of spices, w...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/892ec9e7a5de4d77a033bb15d1608816.jpg?mw=660",
+    "most_iconic_place": "Bitzinger Würstelstand",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Pork",
+      "Pork Fat",
+      "Beef",
+      "Cheese",
+      "Garlic",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tiroler_knödel",
+    "name": "Tiroler Knödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 15,
+    "short_description": "Tiroler knödel are traditional dumplings from the Tyrol region of Austria that are hearty and rustic, reflecting the mountainous region they come from. The dumplings are typically made from stale brea...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/662c450df2504ea889fd1d6171c8119f.jpg?mw=660",
+    "most_iconic_place": "Figlmüller",
+    "most_iconic_location": "Vienna",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "topfenknödel",
+    "name": "Topfenknödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 16,
+    "short_description": "Túrógombóc (or topfenknödel in German) are traditional Hungarian and Austrian dumplings of Bohemian origin that are made with fresh cottage cheese (túró cheese in Hungary)...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/78ff5aa2eab04f32bd7dd1a5605b7060.jpg?mw=660",
+    "most_iconic_place": "Café Landtmann",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Cottage Cheese",
+      "Semolina",
+      "Eggs",
+      "Butter",
+      "Breadcrumbs",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "schnitzel_wiener_art",
+    "name": "Schnitzel Wiener Art",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 17,
+    "short_description": "Schnitzel Wiener Art is a take on the classic of Austrian cuisine, the Wiener schnitzel, a breaded and fried veal cutlet. But unlike the traditional Wiener schnitzel, the schnitzel Wiener Art is made ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1a4d2b1269f642f992ed212c77393f50.jpg?mw=660",
+    "most_iconic_place": "Figlmüller",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Pork",
+      "Wheat Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Milk",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zimtsterne",
+    "name": "Zimtsterne",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 18,
+    "short_description": "Zimtsterne are crispy star-shaped German and Austrian cookies. They are made with a combination of whipped egg whites that are mixed with sugar, cinnamon, ground nuts—traditionally almonds with the oc...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fe20a460c6294b7aa6ca729f6eae8b3e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Almonds",
+      "Hazelnuts",
+      "Cinnamon",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "donauwelle",
+    "name": "Donauwelle",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 19,
+    "short_description": "Donauwelle is a German and Austrian sheet cake. It consists of two pound cakes, one on the bottom, flavored with vanilla, and one on top of it, flavored with chocolate. Cherries, buttercream, and choc...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/77d7ae4a8b59481bb918a9fc9b599e40.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Baking Powder",
+      "Cherries",
+      "Chocolate",
+      "Cocoa Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "speckknödel",
+    "name": "Speckknödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 20,
+    "short_description": "These bacon dumplings originate from the Austrian Tyrol and Italian South Tyrol but are known throughout the entire Alpine region of Europe. Speckknödeln are made by mixing stale bread with eggs, saut...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cad05ecc11c54d8db3d40754cbd95095.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tyrol",
+    "ingredients": [
+      "Bread",
+      "Tiroler Speck",
+      "Eggs",
+      "Onion",
+      "Wheat Flour",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "speckknödelsuppe",
+    "name": "Speckknödelsuppe",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 21,
+    "short_description": "Speckknödelsuppe is a soup from the Austrian province of Tyrol. It's also popular in the Italian South Tyrol region, where it's called canederli con speck in brodo. The soup features dumplings made fr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6a4720717eda4b9b91808c91aacfda94.jpg?mw=660",
+    "most_iconic_place": "Kögele Hütte",
+    "most_iconic_location": "Berwang",
+    "ingredients": [
+      "Bread",
+      "Tiroler Speck",
+      "Eggs",
+      "Onion",
+      "Wheat Flour",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "backhendl",
+    "name": "Backhendl",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 22,
+    "short_description": "The Viennese version of fried-chicken initially appeared in the 18th century and was especially esteemed during the Biedermeier period. The dish consists of a whole chicken, preferably smaller in size...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9022983ab0fe4eb8b544a81ff5a9abe4.jpg?mw=660",
+    "most_iconic_place": "Der Steirer",
+    "most_iconic_location": "Graz",
+    "ingredients": [
+      "Chicken",
+      "Wheat Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Parsley",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zwiebelrostbraten",
+    "name": "Zwiebelrostbraten",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 23,
+    "short_description": "Zwiebelrostbraten is a traditional dish that's served in most German and Austrian restaurants in Bavaria and Vienna, respectively. The dish is usually made with a combination of beef (sirloin steak), ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f2b3eaeaa76d49b7bcfac59cb6e58eff.jpg?mw=660",
+    "most_iconic_place": "Sixta",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Wheat Flour",
+      "Butter",
+      "Paprika",
+      "Dijon mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "krautfleckerl",
+    "name": "Krautfleckerl",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 24,
+    "short_description": "Krautfleckerl is an Austrian pasta dish with Bohemian (Czech Republic) origins that has handmade pasta squares fleckerl and white cabbage as main ingredients. The preparation starts with sauteeing oni...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a71faf07257a4a138101811acec30fa7.jpg?mw=660",
+    "most_iconic_place": "Gasthaus Grünauer",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Fleckerl",
+      "Cabbage",
+      "Onion",
+      "Butter",
+      "Caraway",
+      "Beef Stock"
+    ],
+    "is_active": true
+  }
+]

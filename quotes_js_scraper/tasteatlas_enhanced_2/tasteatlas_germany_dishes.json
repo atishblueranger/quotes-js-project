@@ -1,0 +1,455 @@
+[
+  {
+    "id": "pretzel_brezel",
+    "name": "Pretzel (Brezel)",
+    "local_name": null,
+    "category": "BREAD",
+    "rank": 1,
+    "short_description": "An iconic German snack, the pretzel boasts a golden-brown, crispy exterior and a soft, chewy center. Its rich flavor comes from a unique baking soda bath, making it a beloved treat at festivals and beer gardens.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a3d9f03625f14029a24dcadc88910171.jpg?mw=660",
+    "most_iconic_place": "Augustiner-Keller",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Baking Soda",
+      "Butter",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bratwurst",
+    "name": "Bratwurst",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 2,
+    "short_description": "Originating in Germany, bratwurst features finely ground pork blended with aromatic spices like allspice and marjoram. Grilled to perfection, it offers a savory, juicy bite that delights at every festival.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/de9c2d8d21c5438580ee42ed9dfa41e4.jpg?mw=660",
+    "most_iconic_place": "Bratwursthäusle",
+    "most_iconic_location": "Nuremberg",
+    "ingredients": [
+      "Ground Pork",
+      "Allspice",
+      "Marjoram",
+      "Mace",
+      "Coriander Seeds",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "schwarzwälder_kirschtorte",
+    "name": "Schwarzwälder Kirschtorte",
+    "local_name": null,
+    "category": "CHOCOLATE CAKE",
+    "rank": 3,
+    "short_description": "Indulge in a classic German delight where rich chocolate sponges embrace luscious whipped cream and tart kirschwasser-soaked cherries, creating a perfect balance of sweetness and depth.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b19aebb29acd4062b729913ed0af1692.jpg?mw=660",
+    "most_iconic_place": "Café König",
+    "most_iconic_location": "Baden-Baden",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Baking Powder",
+      "Cocoa Powder",
+      "Chocolate",
+      "Sour Cherries"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lebkuchen",
+    "name": "Lebkuchen",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 4,
+    "short_description": "Originating from Germany, these festive ginger-spiced cookies blend honey, nuts, and aromatic spices for a warm, sweet treat. Often decorated with icing, they capture the essence of holiday cheer.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/51106e1227fd4e3e8189cbfce83eaf67.jpg?mw=660",
+    "most_iconic_place": "Café Simon",
+    "most_iconic_location": "Passau",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "stollen",
+    "name": "Stollen",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 5,
+    "short_description": "A beloved German Christmas classic, stollen features a rich, buttery yeast dough infused with warm spices and zesty lemon, studded with dried fruits and nuts for a festive treat.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fe327fabf2724f6da2d19e605c335787.jpg?mw=660",
+    "most_iconic_place": "Café Kreutzkamm",
+    "most_iconic_location": "Munich",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sauerbraten",
+    "name": "Sauerbraten",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 6,
+    "short_description": "A cherished German classic, this pot roast features marinated beef slow-cooked with onions, sultana raisins, and fragrant cloves, resulting in a beautifully tender and flavorful dish. Enjoy the rich, tangy depth that reflects centuries of culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/79dceb1607db46a7af6a42e2f84417a9.jpg?mw=660",
+    "most_iconic_place": "Lutter & Wegner",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Sultana Raisins",
+      "Carrot",
+      "Cloves",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "currywurst",
+    "name": "Currywurst",
+    "local_name": null,
+    "category": "SAUSAGE DISH",
+    "rank": 7,
+    "short_description": "Boiled and grilled bratwurst meets a vibrant blend of tangy tomato sauce and aromatic curry powder, creating a beloved German street snack. Each bite bursts with savory warmth and cultural heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/092c3f75df9b4d14ad7ef84308fc8dd2.jpg?mw=660",
+    "most_iconic_place": "Curry 36",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Bratwurst",
+      "Tomato Sauce",
+      "Curry Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "schweinebraten",
+    "name": "Schweinebraten",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 8,
+    "short_description": "A beloved Bavarian classic, this succulent pork roast is slow-cooked to perfection with aromatic garlic, onions, and mustard. Served with rich gravy and fluffy semmelknödel, it's a comforting Sunday feast.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4435dc86e7e148e9b5d688df24caff8f.jpg?mw=660",
+    "most_iconic_place": "Görreshof",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Mustard",
+      "Bay Leaves",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "leberkäse",
+    "name": "Leberkäse",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 9,
+    "short_description": "Originating from Germany, this savory meatloaf blends ground beef, pork, bacon, onions, and garlic into a hearty delight. Its crispy crust gives way to a tender, flavorful center, perfect for sandwiches or enjoyed on its own.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ce6226bba9e049638de9401a82af9aea.jpg?mw=660",
+    "most_iconic_place": "Fidelisbäck",
+    "most_iconic_location": "Wangen im Allgäu",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Bacon",
+      "Onion",
+      "Garlic",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "weißwürste",
+    "name": "Weißwürste",
+    "local_name": null,
+    "category": "WHITE SAUSAGE",
+    "rank": 10,
+    "short_description": "Originating from Munich, Weißwürste are delicate, hand-crafted white sausages made from ground veal and pork, seasoned with mace and mustard seeds. Traditionally served with sweet mustard and fresh pretzels, they embody Bavarian culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8f16bdd6f6d74fa5bbe443e8f69654c7.jpg?mw=660",
+    "most_iconic_place": "Schneider Bräuhaus",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Ground Veal",
+      "Ground Pork",
+      "Mace",
+      "Mustard Seeds",
+      "Parsley",
+      "Lemon Zest"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rouladen",
+    "name": "Rouladen",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 11,
+    "short_description": "Traditional to Germany, these tender beef rolls are expertly stuffed with crispy bacon, tangy pickles, and onions, then simmered to perfection in a rich, creamy sauce. A comforting classic!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6f874852480a4f60904e15574ef35ff4.jpg?mw=660",
+    "most_iconic_place": "Auerbachs Keller",
+    "most_iconic_location": "Leipzig",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bavarian_cream_bayrisch_creme",
+    "name": "Bavarian cream (Bayrisch Creme)",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 12,
+    "short_description": "Originating from Bavaria, this luxurious custard combines rich cream, eggs, and vanilla, thickened with gelatin for a silky texture. Served chilled, it delights with fresh fruit or a sweet drizzle.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9db4d4d5949f4601a19096527573729d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Bavaria",
+    "ingredients": [
+      "Heavy Cream",
+      "Eggs",
+      "Gelatin",
+      "Vanilla",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "leberwurst",
+    "name": "Leberwurst",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 13,
+    "short_description": "A savory German specialty, Leberwurst blends rich pork liver and ground pork with aromatic onions, marjoram, and thyme. Often enjoyed with sauerkraut or as a spread, it’s a hearty taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4acd80f21d9e4bc2b78a8d3a3a772156.jpg?mw=660",
+    "most_iconic_place": "Rogacki",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Pork Liver",
+      "Ground Pork",
+      "Onion",
+      "Marjoram",
+      "Thyme",
+      "Mace"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "käsespätzle",
+    "name": "Käsespätzle",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 14,
+    "short_description": "Nestled in the heart of Germany, Käsespätzle features tender spätzle noodles smothered in a rich blend of Edam, Gruyère, and Fontina cheeses. A comforting, cheesy delight, it captures the essence of German comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/93bc192b0e8245059ed76aa1b63bf055.jpg?mw=660",
+    "most_iconic_place": "Weinstube Fröhlich",
+    "most_iconic_location": "Stuttgart",
+    "ingredients": [
+      "Spätzle",
+      "Edam Holland",
+      "Gruyère",
+      "Fontina",
+      "Emmentaler",
+      "Appenzeller"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "schweinshaxe",
+    "name": "Schweinshaxe",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 15,
+    "short_description": "Roasted to perfection, this Bavarian specialty features tender pork knuckle infused with the bold flavors of garlic, onion, and caraway seeds. Crispy on the outside, succulent within, it’s a hearty celebration of German tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ebf8e4badee44a368889800d17db953c.jpg?mw=660",
+    "most_iconic_place": "Augustiner Bräustuben",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Pork Knuckle",
+      "Onion",
+      "Garlic",
+      "Caraway Seeds",
+      "Mustard Seeds",
+      "Beer"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pumpernickel",
+    "name": "Pumpernickel",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 16,
+    "short_description": "Rich and slightly sweet, this German rye bread features a hearty blend of coarsely ground rye and a tangy sourdough starter. Perfectly paired with cheeses or enjoyed fresh, it embodies rustic tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/65eb5fb2075a4075a3e29c39cce6a1a6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "North Rhine-Westphalia",
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Rye",
+      "Sourdough Starter",
+      "Butter",
+      "Cocoa Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "obazda",
+    "name": "Obazda",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 17,
+    "short_description": "Originating in Bavaria, this creamy cheese spread blends rich Camembert, Brie, and bold Limburger with zesty onions and a hint of paprika, creating a delightful, savory treat perfect for pairing with fresh bread.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e919188787ad41fea097b44b6325eb8b.jpg?mw=660",
+    "most_iconic_place": "Hofbräuhaus München",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Camembert de Normandie",
+      "Brie de Meaux",
+      "Limburger",
+      "Romadur",
+      "Onion",
+      "Shallots"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "semmelknödel",
+    "name": "Semmelknödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 18,
+    "short_description": "Originating from Bavaria, these hearty bread dumplings blend toasted bread, rich butter, and savory onions, creating a delightful, fluffy texture. Perfectly seasoned with parsley, they elevate any German meal.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2da488aec06a4d11a1f0428fad45f678.jpg?mw=660",
+    "most_iconic_place": "Schneider Bräuhaus",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Bread",
+      "Butter",
+      "Onion",
+      "Eggs",
+      "Parsley",
+      "Nutmeg"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jägerschnitzel",
+    "name": "Jägerschnitzel",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 19,
+    "short_description": "Tender, breaded veal or pork is generously topped with a rich, savory Jägersoße, or hunter's sauce, reflecting Germany's rustic culinary heritage. Each bite is a hearty blend of flavors, perfect for meat lovers.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4d27fc7631314b6587c4728506032c6d.jpg?mw=660",
+    "most_iconic_place": "Apfelwein Wagner",
+    "most_iconic_location": "Frankfurt am Main",
+    "ingredients": [
+      "Veal",
+      "Pork",
+      "Venison",
+      "Wild Boar",
+      "Wheat Flour",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kartoffelsuppe",
+    "name": "Kartoffelsuppe",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 20,
+    "short_description": "A comforting German classic, Kartoffelsuppe blends creamy potatoes, sweet carrots, and aromatic leeks into a hearty, velvety soup. Perfect for warming up on chilly days, it's a beloved staple in homes across Germany.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/43e8f633984649249e2ee16725540607.jpg?mw=660",
+    "most_iconic_place": "Ratskeller München",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Potatoes",
+      "Carrot",
+      "Celery",
+      "Leek",
+      "Onion",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "käsekuchen",
+    "name": "Käsekuchen",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 21,
+    "short_description": "Rich and creamy, this German cheesecake features a delicate shortcrust pastry base topped with a smooth blend of quark cheese and eggs, often enhanced with a hint of vanilla. A beloved tradition, it offers a delightful balance of sweetness and tang.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a45421ef162c4b2684d5221a1b67642c.jpg?mw=660",
+    "most_iconic_place": "Princess Cheesecake",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Wheat Flour",
+      "Quark",
+      "Eggs",
+      "Butter",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "wiesn_hendl",
+    "name": "Wiesn Hendl",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 22,
+    "short_description": "Bavarian tradition comes alive with succulent roasted chicken, seasoned simply with salt and garnished with fresh parsley. Grilled to perfection, it's a must-try at Oktoberfest for its smoky, savory flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1b2b1189b32f479db77ccfa6197a21be.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Bavaria",
+    "ingredients": [
+      "Chicken",
+      "Butter",
+      "Parsley",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spaghettieis",
+    "name": "Spaghettieis",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 23,
+    "short_description": "Invented in Mannheim in 1969, this playful dessert features creamy ice cream expertly piped to resemble spaghetti, topped with luscious strawberry syrup and a sprinkle of white chocolate. A delightful and whimsical treat!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/544b44ea4ccd40d187270937a6e11041.jpg?mw=660",
+    "most_iconic_place": "Eis Fontanella",
+    "most_iconic_location": "Mannheim",
+    "ingredients": [
+      "Ice Cream",
+      "Whipped Cream",
+      "White Chocolate",
+      "Strawberry Syrup"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "blutwurst",
+    "name": "Blutwurst",
+    "local_name": null,
+    "category": "BLOOD SAUSAGE",
+    "rank": 24,
+    "short_description": "Rich and savory, this iconic German blood sausage combines ground pork, pig’s blood, and spices like ginger and cloves, offering a deep, complex flavor. Each region boasts its own unique twist, making it a beloved comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/db4c0b7e5da04a05be1d70fa5d99d440.jpg?mw=660",
+    "most_iconic_place": "Rogacki",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Ground Pork",
+      "Pig’s Blood",
+      "Onion",
+      "Ginger",
+      "Cloves",
+      "Black Pepper"
+    ],
+    "is_active": true
+  }
+]

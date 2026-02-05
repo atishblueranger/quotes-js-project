@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ema_datshi",
+    "name": "Ema datshi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 1,
+    "short_description": "Ema datsi is an exotic, intensely flavorful and spicy national dish of Bhutan. It is simplicity itself, focusing on two main ingredients - hot chilis (ema) and cheese (datshi). Bhutanese cuisine is no...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/68be2f903971404cad636d776c41f59f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Hot Peppers",
+      "Datshi",
+      "Onion",
+      "Tomato",
+      "Garlic",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kewa_datshi",
+    "name": "Kewa datshi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Easy to prepare, yet extremely nourishing, kewa datsi is a traditional dish consisting of potatoes stewed with cheese, onions, and chilis. It is usually served with rice or flatbreads such as puri. Th...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Hot Peppers",
+      "Datshi",
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jasha_maroo",
+    "name": "Jasha maroo",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Jasha maroo is a traditional dish consisting of diced chicken that is cooked with garlic, ginger, chiles, and tomato sauce. This combination of ingredients is usually served on top of red or brown ric...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/258d432285e54730857bdca91e5c2ace.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Shallots",
+      "Leek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "phaksha_paa",
+    "name": "Phaksha paa",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 4,
+    "short_description": "Phaksha paa is a Bhutanese dish consisting of dried pork cooked with a variety of hot red chilis. There are many versions of the dish, most often incorporating ingredients such as spinach, radish, and...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Hot Peppers",
+      "Radish",
+      "Spinach",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shamu_datshi",
+    "name": "Shamu datshi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "Shamu datshi is a flavorful Bhutanese stew consisting of various types of mushrooms stewed in a combination of water, oil, and green chilis. Cheese is added in the end and left to melt slowly with oth...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Datshi",
+      "Hot Peppers",
+      "Mushrooms",
+      "Tomato",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "datshi",
+    "name": "Datshi",
+    "local_name": null,
+    "category": "CHEESE",
+    "rank": 1,
+    "short_description": "Dathsi is a traditional cottage cheese made from cow's or yak's milk. The process of making Datshi cheese consists of several steps, the first being the preparation of dahi (a type of curd) from raw m...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "rasgulla",
+    "name": "Rasgulla",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 1,
+    "short_description": "Rasgulla is a traditional sweet that is usually served at the end of a meal, like many other Indian milk-based desserts. It is prepared from chhena paneer dumplings and semolina dough, cooked together...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/728691b02df3490bbbecdea8422530d1.jpg?mw=660",
+    "most_iconic_place": "K.C. Das",
+    "most_iconic_location": "Kolkata",
+    "ingredients": [
+      "Chhena",
+      "Semolina",
+      "Saffron",
+      "Cardamom",
+      "Rose Water",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ras_malai",
+    "name": "Ras malai",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 2,
+    "short_description": "Roshmalai or ras malai is a popular Bengali and Indian dessert consisting of milk, sugar and cardamom-flavored paneer cheese known as chhana. Almonds, cashews, and saffron are often added to the desse...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b53ee1a62b704a36b63361822681ed47.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Milk",
+      "Cardamom",
+      "Sugar",
+      "Saffron",
+      "Almonds",
+      "Pistachios"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gobi_manchurian",
+    "name": "Gobi manchurian",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 3,
+    "short_description": "Gobi manchurian is a traditional Indo-Chinese dish consisting of fried cauliflower (gobi) that’s tossed in a sweet and spicy sauce (manchurian). There are two versions of the dish – dry and in gravy. ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cba6279ae21445539df7e5f35b063bcb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Kolkata",
+    "ingredients": [
+      "Cauliflower",
+      "Corn Starch",
+      "Maida Flour",
+      "Corn Flour",
+      "Red Chilli Powder",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kathi_roll",
+    "name": "Kathi roll",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 4,
+    "short_description": "Kathi roll is an Indian street food dish hailing from Kolkata. It consists of skewered and roasted kebab meat that is wrapped in paratha flatbread. Some say that the dish was invented because the Brit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4084edd56bb14f4eb991e95713c913a3.jpg?mw=660",
+    "most_iconic_place": "Kusum Roll's",
+    "most_iconic_location": "Kolkata",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sandesh",
+    "name": "Sandesh",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Sandesh is a traditional sweet originating from the Bengal region of the Indian subcontinent. It is typically served as a dessert and consists of milk, chhena or paneer, sugar, and flavorings such as ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2e24738e7ac843adbe7a1fa253449af7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Paneer",
+      "Chhena",
+      "Milk",
+      "Lemon Juice",
+      "Sugar",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mishti_doi",
+    "name": "Mishti doi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 6,
+    "short_description": "Mishti doi is a Bengali dessert that combines fermented doi curd—usually made from cow, buffalo, or goat milk—and sugar or jaggery (cane sugar). The process of making mishti doi involves cooking sweet...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c9c82b98b95e41d9858dc85328343538.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Dahi",
+      "Milk",
+      "Jaggery",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chingri_malai_curry",
+    "name": "Chingri Malai curry",
+    "local_name": null,
+    "category": "SHRIMP/PRAWN DISH",
+    "rank": 7,
+    "short_description": "Chingri Malai curry is a traditional curry originating from the Bengal region. It’s made with a base of coconut milk and prawns that are seasoned with garam masala spices and fried in ghee or mustard ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d1d5addd4ebe4c3099fe059912b558e1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Prawns",
+      "Coconut Milk",
+      "Tomato",
+      "Onion",
+      "Hot Peppers",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paneer_kathi_roll",
+    "name": "Paneer kathi roll",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 8,
+    "short_description": "Kathi roll is a popular Indian street food consisting of flatbreads filled with meat, vegetables, or both. This version of a kathi roll features paneer or Indian cottage cheese. The cheese is cut into...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6133faae599349bb8fb6f978a6833596.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Kolkata",
+    "ingredients": [
+      "Paneer",
+      "Onion",
+      "Bell Pepper",
+      "Ginger-garlic paste",
+      "Dahi",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pantua",
+    "name": "Pantua",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 9,
+    "short_description": "Originating in Bengal, pantua is a soft, spherical dessert that is entirely drenched in cardamom-and-saffron-flavored sugar syrup. A dough of khoa (dried evaporated milk solids), chhena (Indian cottag...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5515d9f1570b49b588e2fcc34162a243.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chhena",
+      "Mawa",
+      "Maida Flour",
+      "Semolina",
+      "Baking Soda",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_rezala_murgh_rezala",
+    "name": "Chicken rezala (Murgh rezala)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "Murgh rezala is a traditional curry originating from East India, and it’s especially popular in Bengal. This aromatic and rich curry is usually made with a combination of chicken, dahi, oil, ghee, cas...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/144615ec3ea34b35ace5544b8b3887d8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Dahi",
+      "Onion",
+      "Hot Peppers",
+      "Cashews",
+      "Poppy Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_kathi_roll",
+    "name": "Chicken kathi roll",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 11,
+    "short_description": "Chicken kathi roll is a variety of kathi roll prepared with chicken as the key ingredient. It's a typical street food originating from Kolkata, consisting of flatbreads such as roti or paratha that ar...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8fb92a5f577244d298e3f90446253c09.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Kolkata",
+    "ingredients": [
+      "Chicken",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Onion",
+      "Cucumber",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rajbhog",
+    "name": "Rajbhog",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Rajbhog is a traditional dessert based on Indian cottage cheese that is filled with a mixture of nuts such as almonds and pistachios, green cardamom powder, saffron, and, sometimes, mawa (dried milk s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3be11f7e640c4cc6b54189b3dc5ab123.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chhena",
+      "Almonds",
+      "Pistachios",
+      "Cashews",
+      "Cardamom",
+      "Saffron"
+    ],
+    "is_active": true
+  }
+]

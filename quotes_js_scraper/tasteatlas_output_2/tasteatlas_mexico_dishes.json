@@ -1,0 +1,436 @@
+[
+  {
+    "id": "tacos",
+    "name": "Tacos",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 1,
+    "short_description": "Tacos are the national dish of Mexico, dating back to the Mexican silver mines of the 18th century, when the word taco referred to gunpowder that was wrapped in a piece of paper and inserted into rock...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/967fe03b58464dad9f82d91650d98824.jpg?mw=660",
+    "most_iconic_place": "Mariscos el Mazateño",
+    "most_iconic_location": "Tijuana",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Pork",
+      "Chicken",
+      "Cod",
+      "Shrimps"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tortilla",
+    "name": "Tortilla",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 2,
+    "short_description": "Tortilla, originally a corn flatbread, is one of the essential bread varieties that has been present in Mexican culture for thousands of years. The first tortilla was created out of the staple ingredi...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c5e1d353b92a4ef2ae7114a4b51d2192.jpg?mw=660",
+    "most_iconic_place": "Taquería El Califa de León",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Masa Harina",
+      "Wheat Flour",
+      "Lard",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nachos",
+    "name": "Nachos",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 3,
+    "short_description": "The first, original plate of nachos consisting of tortilla chips, melted cheese, and jalapeños was made for a group of military officers' wives in 1943 in Piedras Negras, Mexico. The ladies of the US ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/eafb6093ae6c45e892134d37318077b4.jpg?mw=660",
+    "most_iconic_place": "Taco Queto",
+    "most_iconic_location": "Holbox",
+    "ingredients": [
+      "Tortilla",
+      "Cheddar",
+      "Colby",
+      "Monterey Jack",
+      "Jalapeños",
+      "Canola Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "burrito",
+    "name": "Burrito",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 4,
+    "short_description": "Burrito is a dish consisting of a wheat flour tortilla that is wrapped in such a way that it is possible to fully enclose the flavorful filling on the interior. The filling consists of a combination o...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f4291f3e82f84c33a5997f801e8fb24f.jpg?mw=660",
+    "most_iconic_place": "The Surfin Burrito",
+    "most_iconic_location": "Cancún",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "guacamole",
+    "name": "Guacamole",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 5,
+    "short_description": "Guacamole is a world-famous buttery delicacy dating back all the way to the Aztec empire of the 1500s. It’s a healthy blend of ripe, mashed avocados, onions, chiles, optional tomatillos and selected s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1c79ac0beb2242419a445ae0a51d3acc.jpg?mw=660",
+    "most_iconic_place": "Nicos",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Avocado",
+      "Lime",
+      "Onion",
+      "Tlaola Serrano chili pepper",
+      "Coriander",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "quesadilla",
+    "name": "Quesadilla",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 6,
+    "short_description": "Quesadilla is a simple Mexican snack consisting of a flour or corn tortilla filled with cheese that melts well. It is commonly folded in half and consumed. A quesadilla can also have some other ingred...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cde29cfce09c43b0acc43e19a77b845b.jpg?mw=660",
+    "most_iconic_place": "El Sacromonte",
+    "most_iconic_location": "Guadalajara",
+    "ingredients": [
+      "Tortilla",
+      "Cheese"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tamal",
+    "name": "Tamal",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 7,
+    "short_description": "Tamal is a Mexican dish dating back to the Aztecs, consisting of corn masa dough with a filling that can be either savory or sweet, steamed and wrapped in corn husks, leaves, or banana leaves. The tam...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/afffce27019140a1a911db7b6ad96022.jpg?mw=660",
+    "most_iconic_place": "Doña Mary",
+    "most_iconic_location": "Playa del Carmen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fajitas",
+    "name": "Fajitas",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 8,
+    "short_description": "Fajitas is a popular Tex-Mex dish made from marinated, grilled skirt steak that is served in a wheat flour tortilla. The earliest printed mention of the word fajita referring to food appeared in 1971,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/950cac1a6e1f4e6682ce70788c279910.jpg?mw=660",
+    "most_iconic_place": "La Parrilla Mexican Grill",
+    "most_iconic_location": "Playa del Carmen",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Onion",
+      "Guacamole",
+      "Garlic",
+      "Pico de gallo"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mole",
+    "name": "Mole",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 9,
+    "short_description": "Mole is a family of rich Mexican sauces and the national dish of the country. The base usually contains Mexican chile peppers which are ground in molcajete - a traditional mortar and pestle made of st...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6cf3a2149f3a4f01948105efe6072946.jpg?mw=660",
+    "most_iconic_place": "La Choza Cozumel",
+    "most_iconic_location": "San Miguel de Cozumel",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "barbacoa",
+    "name": "Barbacoa",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 10,
+    "short_description": "Barbacoa is a term that is mostly associated with Mexico and refers to an ancient technique of cooking meat in underground ovens. There are numerous regional varieties, which usually differ in the typ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/775dba1d6233461fbfdc38c58e79d16a.jpg?mw=660",
+    "most_iconic_place": "El Hidalguense",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tortas",
+    "name": "Tortas",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 11,
+    "short_description": "Mexican tortas are luscious traditional sandwiches filled with delicious, mostly authentic Mexican ingredients. They are a unique Mexican creation, considering they are served in bread rolls, an ingre...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8d98268af18b4d2ba5c2c6b21cc272ce.jpg?mw=660",
+    "most_iconic_place": "Taquería El Turix",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Beef",
+      "Chicken",
+      "Pork",
+      "Bolillo",
+      "Beans",
+      "Avocado"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "enchiladas",
+    "name": "Enchiladas",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 12,
+    "short_description": "Enchiladas consist of a tortilla that is usually dipped in a chile-based sauce, then stuffed with various fillings such as cheese, meat, or fish. Then it is rolled up, baked, and topped with sauces, o...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f680f84957414ec1b8d7def52e988594.jpg?mw=660",
+    "most_iconic_place": "Café de Tacuba",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "caesar_salad",
+    "name": "Caesar salad",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 13,
+    "short_description": "The iconic Caesar salad was named after its creator Cesare (Caesar) Cardini, an Italian immigrant who lived in San Diego but, circumventing Prohibition laws in the United States, operated a popular re...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/af13409aa53b49a9baa9aeeb69df73d0.jpg?mw=660",
+    "most_iconic_place": "Caesar's",
+    "most_iconic_location": "Tijuana",
+    "ingredients": [
+      "Lettuce",
+      "Croutons",
+      "Parmigiano Reggiano",
+      "Eggs",
+      "Garlic",
+      "Lemon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pico_de_gallo",
+    "name": "Pico de gallo",
+    "local_name": null,
+    "category": "SALSA",
+    "rank": 14,
+    "short_description": "Unlike most other types of salsa, pico de gallo is of solid consistency, made with a combination of coriander, onions, tomatoes, and hot peppers such as serranos or jalapeños. Pico de gallo is very po...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/828da35e84b0458487373241648c6723.jpg?mw=660",
+    "most_iconic_place": "La Floresta",
+    "most_iconic_location": "Playa del Carmen",
+    "ingredients": [
+      "Tomato",
+      "Tlaola Serrano chili pepper",
+      "Jalapeños",
+      "Lime",
+      "Onion",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carnitas",
+    "name": "Carnitas",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 15,
+    "short_description": "Originating from the Mexican state of Michoacán, carnitas is a flavorful dish made from pork (usually front sections or pork shoulder) that is braised, roasted, or slow-cooked in its own fat for a lon...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f5ed674b87a47158bb9b206fd36a50f.jpg?mw=660",
+    "most_iconic_place": "Los Panchos",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Pork",
+      "Lard",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tacos_al_pastor",
+    "name": "Tacos al pastor",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 16,
+    "short_description": "Tacos al pastor is a Mexican dish consisting of thin slices of shaved pork from a rotating spit, placed on a tortilla and topped with onions, chopped coriander, pineapple chunks, chili, and salsa. The...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c83a9146efbc4e08901a81f608cf1c1c.jpg?mw=660",
+    "most_iconic_place": "Taqueria Franc",
+    "most_iconic_location": "Tijuana",
+    "ingredients": [
+      "Tortilla",
+      "Pork",
+      "Onion",
+      "Coriander",
+      "Pineapple",
+      "Salsa"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "taquitos",
+    "name": "Taquitos",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 17,
+    "short_description": "Taquito is a Mexican-American dish consisting of a small, rolled, crisp-fried corn tortilla filled with various ingredients such as shredded chicken, beef, cheese, and vegetables. Although most people...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/76f623c95815465b827b4b95b8c7bfc4.jpg?mw=660",
+    "most_iconic_place": "Flautas Magos",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Tortilla",
+      "Chicken",
+      "Beef",
+      "Cheese",
+      "Guacamole",
+      "Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pozole",
+    "name": "Pozole",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 18,
+    "short_description": "Pozole is a soupy and aromatic one-bowl stew from Mexico, usually served to crowds on special occasions and celebrations such as Christmas, weddings, or birthdays. Its main ingredient is nixtamal or h...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2d40db0a0c5c4a15891256b41696e179.jpg?mw=660",
+    "most_iconic_place": "La Chata",
+    "most_iconic_location": "Guadalajara",
+    "ingredients": [
+      "Pork",
+      "Chicken",
+      "Seafood",
+      "Hominy",
+      "Lettuce",
+      "Oregano"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carne_asada_tacos",
+    "name": "Carne asada tacos",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 19,
+    "short_description": "Carne asada tacos are the first tacos in history. It is believed that the first tacos appeared in the 1500s, made with thin slices of meat cooked over hot coals. The meat was placed in a corn tortilla...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/481dc5467e104a9da9eba68e1d52c40b.jpg?mw=660",
+    "most_iconic_place": "Tacos el Yaqui",
+    "most_iconic_location": "Rosarito",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Salsa verde",
+      "Guacamole",
+      "Onion",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gringas",
+    "name": "Gringas",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 20,
+    "short_description": "Gringas is a typical Mexican dish made with flour tortillas filled with al pastor marinated pork meat, cheese, and, most commonly, pineapple slices, although onions, chili sauce, and coriander can all...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eb2bc9843115415481aeaeb5fe2274e8.jpg?mw=660",
+    "most_iconic_place": "El Vilsito",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Tortilla",
+      "Pork",
+      "Oaxaca cheese",
+      "Pineapple",
+      "Onion",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "birria",
+    "name": "Birria",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 21,
+    "short_description": "Birria is a traditional, slow-cooked goat (although it can also be made with beef, lamb, mutton, or chicken) stew originating from the Mexican state of Jalisco. Colloquially, birria means mess, used i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fc17eae18b1144e59daba6e38b6fa8ee.jpg?mw=660",
+    "most_iconic_place": "Birreria Las 9 Esquinas",
+    "most_iconic_location": "Guadalajara",
+    "ingredients": [
+      "Goat",
+      "Hot Peppers",
+      "Cumin",
+      "Garlic",
+      "Bay Leaves",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mollete_mexico",
+    "name": "Mollete (Mexico)",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 22,
+    "short_description": "Mollete is a traditional sandwich from northern Mexico consisting of a halved bolillo bread roll that is topped with refried beans, cheese, and tomato salsa. It can be found throughout Mexico in numer...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2de42fb54b1946d48cebce83e24b1a1c.jpg?mw=660",
+    "most_iconic_place": "Eno",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Bolillo",
+      "Salsa",
+      "Cheese",
+      "Beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "caldo_de_pollo",
+    "name": "Caldo de pollo",
+    "local_name": null,
+    "category": "CHICKEN SOUP",
+    "rank": 23,
+    "short_description": "Caldo de pollo is a traditional version of chicken soup, with a few tweaks. The soup, literally translated to chicken broth, makes use of typical Mexican spices such as chili powder and coriander, alo...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/51214658a10c44a581a5511809ca7f17.jpg?mw=660",
+    "most_iconic_place": "Doña Mary",
+    "most_iconic_location": "Playa del Carmen",
+    "ingredients": [
+      "Chicken",
+      "Celery",
+      "Zucchini",
+      "Carrot",
+      "Jalapeños",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tostada",
+    "name": "Tostada",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 24,
+    "short_description": "Tostada is a Mexican dish consisting of toasted tortillas (hence the name) filled with various meats and vegetables. The dish is often topped with melted cheese, although there are numerous variations...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d132f79831b649738a6f8583ccc5e459.jpg?mw=660",
+    "most_iconic_place": "Contramar",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Pork",
+      "Chicken",
+      "Shrimps",
+      "Tomato"
+    ],
+    "is_active": true
+  }
+]

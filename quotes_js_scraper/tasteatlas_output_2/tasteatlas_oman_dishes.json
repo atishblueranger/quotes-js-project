@@ -1,0 +1,203 @@
+[
+  {
+    "id": "harees",
+    "name": "Harees",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 1,
+    "short_description": "A staple during the month of Ramadan in numerous Middle Eastern countries is a plate of jareesh, a satisfying meal which combines coarse wheat and meat. This centuries-old dish probably originated in ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03df132180744560921a1b481675e559.jpg?mw=660",
+    "most_iconic_place": "Bait Al Luban",
+    "most_iconic_location": "Muscat",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "luqaimat",
+    "name": "Luqaimat",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 2,
+    "short_description": "This internationally known, decadent, and sugar-packed dessert is usually made with a mixture of flour, sugar, yeast, and salt, which is deep-fried and then bathed in syrup or honey. The origin of lok...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/12f04b3d12fd475aba18b0a6ca9bf97f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shuwa",
+    "name": "Shuwa",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 3,
+    "short_description": "Often dubbed as the national dish of Oman, shuwa is usually prepared with bone-in cuts of lamb or goat meat, or occasionally beef or camel. The meat is coated in a spice blend that typically combines ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1be2371a05804f55b5a4b31134289d3a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "majboos",
+    "name": "Majboos",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 4,
+    "short_description": "Kabsa is a rice dish that is enjoyed throughout the Gulf States of the Arabian Peninsula. Heavily influenced by Persian and Indian biryanis, kabsa makes use of the water that was used for cooking fish...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "omani_halwa",
+    "name": "Omani halwa",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Omani halwa is a gelatinous and sticky sweet that is commonly served at weddings, birthdays, festivities, and during the holy week of Ramadan. The ingredients vary from one halwa-maker to another, but...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8f99d3bcd5aa4378accc2fce0eded665.jpg?mw=660",
+    "most_iconic_place": "Al Hosni Omani Sweets",
+    "most_iconic_location": "Sohar",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "omani_chicken_biryani",
+    "name": "Omani Chicken Biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 6,
+    "short_description": "This rice dish is an Omani take on traditional Indian and Persian chicken biryanis. Just like other chicken biryanis, this one also consists of basmati rice mixed with chicken parts (legs or breasts)....",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/656fe00e60d349249a9c4ee1ad9edff8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Basmati",
+      "Chicken",
+      "Lime",
+      "Onion",
+      "Ginger",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mishkak",
+    "name": "Mishkak",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 7,
+    "short_description": "Hailing from Oman, mishkak is a popular street snack consisting of beef, chicken, or mutton that is marinated, skewered, and grilled to perfection. The meat is cut into bite-sized cubes, which are the...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2b2ab378af6640e68fa39608b1f648b0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mashuai",
+    "name": "Mashuai",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 8,
+    "short_description": "Mashuai is a traditional fish specialty made by spit-roasting a whole fish which has been rubbed with oil and spices. Traditionally, this dish is prepared with kingfish, known locally as kanad, which ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9906a240b12046969383d94c969e6045.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chicken_kabouli",
+    "name": "Chicken kabouli",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 9,
+    "short_description": "Chicken kabouli, kabuli, or qabooli is a traditional rice dish that is similar to a biryani. It consists of basmati rice that is flavored with an Omani masala blend of whole or ground spices such as c...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/deac240584f94406888ef6df2fa7ffb5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Basmati",
+      "Cardamom",
+      "Coriander",
+      "Cloves",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "madrouba",
+    "name": "Madrouba",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 10,
+    "short_description": "Madrouba is a spicy and comforting Omani and Qatari porridge made with chicken, overcooked rice, and a plethora of flavorings such as turmeric, cumin, cardamom, ginger, cloves, cinnamon, garlic, and b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/41aaf364a58046ce98b2d92d540fdcad.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lokhemat",
+    "name": "Lokhemat",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 11,
+    "short_description": "Lokhemat is a traditional sweet originating from Oman. It's made with a mixture of flour and yeast that's flavored with cardamom. The dough is shaped into balls that are deep-fried in hot oil until go...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8bed0afe08364417907681b88ced88d9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Yeast",
+      "Cardamom",
+      "Oil and Animal Fat"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "halawet_ahmad",
+    "name": "Halawet Ahmad",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Halawet Ahmad is a traditional dessert, meaning Ahmad dessert or Ahmad sweets. It is made by combining roasted vermicelli, condensed milk, sugar, butter, almond powder, and desiccated coconut. The mix...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3d388f884c754ec19f46379f7ae5a29f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "khabeesa",
+    "name": "Khabeesa",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 13,
+    "short_description": "Khabeesa is a popular Omani dish consisting of milk, semolina, and butter. The dish is additionally flavored with rose water, saffron, and cardamom. It is often topped with fried cashews. Khabeesa is ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/08efdf5741d54c74a5ed9b4af329a10a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

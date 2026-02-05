@@ -1,0 +1,443 @@
+[
+  {
+    "id": "smørrebrød",
+    "name": "Smørrebrød",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 1,
+    "short_description": "Smørrebrød is a traditional open-faced sandwich consisting of buttered rye bread that is topped with numerous ingredients and typically accompanied by vegetables, herbs, and salads. Toppings include i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/38f732904c25404e969194da16fe3aed.jpg?mw=660",
+    "most_iconic_place": "Restaurant Schoennemann",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "danish_cookies_småkager",
+    "name": "Danish cookies (Småkager)",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 2,
+    "short_description": "Various types of Danish cookies are all united under the name småkager. This broad group incorporates traditional and modern varieties which differ in ingredients, shape, and consistency. Today, they ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2b562ba1927543b19db32ff52564db51.jpg?mw=660",
+    "most_iconic_place": "Conditori La Glace",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "danish_pastry_wienerbrød",
+    "name": "Danish pastry (Wienerbrød)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 3,
+    "short_description": "The epitome of a cozy Sunday breakfast in Denmark is a crispy sweet treat known as Danish pastry. It is made with laminated dough, where the dough is repeatedly covered with butter and folded over its...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/51a44b52b30c4d8eb0306fb944e261d1.jpg?mw=660",
+    "most_iconic_place": "Andersen Bakery",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "frikadeller",
+    "name": "Frikadeller",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 4,
+    "short_description": "Frikadeller are popular Danish and German meatballs that are usually made with ground pork, with the occasional addition of ground veal. These small meatballs have been prepared and consumed in that p...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1221a2d90d004c21bc37d6c0573829cf.jpg?mw=660",
+    "most_iconic_place": "Restaurant Klubben",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Veal",
+      "Onion",
+      "Garlic",
+      "Eggs",
+      "Breadcrumbs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pølser",
+    "name": "Pølser",
+    "local_name": null,
+    "category": "HOT DOG",
+    "rank": 5,
+    "short_description": "This famous snack is often referred to as the rød pølser, and it is the most common fast food eaten in Denmark. In fact, nothing is considered to be more Danish than eating freshly prepared pølser fol...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f3d6a801f5274d489c7712ef78bf2743.jpg?mw=660",
+    "most_iconic_place": "John's Hotdog Deli",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Red sausage",
+      "Hot Dog Bun",
+      "Onion",
+      "Pickled Cucumbers",
+      "Ketchup",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crispy_pork_with_parsley_sauce_stegt_flæsk",
+    "name": "Crispy pork with parsley sauce (Stegt flæsk)",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 6,
+    "short_description": "Stegt flæsk is a quintessential Danish dish which consists of fried, grilled, or oven-roasted pork belly. Thick and crispy pork belly slices are traditionally served alongside boiled potatoes and a fl...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/23be659637384b36a383bcb72d1370fe.jpg?mw=660",
+    "most_iconic_place": "Restaurant Klubben",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Pork Belly",
+      "Potatoes",
+      "Butter",
+      "Parsley",
+      "Cream",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gravlaks",
+    "name": "Gravlaks",
+    "local_name": null,
+    "category": "SALMON DISH",
+    "rank": 7,
+    "short_description": "Gravlax is a Scandinavian dish consisting of raw, salt-cured salmon that is traditionally seasoned with dill. Originally, the dish was made by fishermen who used to bury the salt, sugar, and dill-rubb...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/18000a17cd68426d87d93eed4f290501.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Salmon",
+      "Salt",
+      "Dill",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kringle",
+    "name": "Kringle",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 8,
+    "short_description": "Originally a creation of Roman-Catholic monks, and now popular internationally, kringle is a delicious flaky pastry, usually shaped as a pretzel and filled with various ingredients. It was primarily i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4826475677a44a9bb991e4a8d89596ab.jpg?mw=660",
+    "most_iconic_place": "Lagkagehuset",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "æbleskiver",
+    "name": "Æbleskiver",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 9,
+    "short_description": "These light, small-sized Danish pancakes are prepared with a leavened egg batter that is poured and baked in specially designed hollowed pans. Even though they were initially prepared with apples – he...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/981bd4e0ce474faea94acb697366b6c7.jpg?mw=660",
+    "most_iconic_place": "Vaffelbageriet",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Baking Powder",
+      "Baking Soda",
+      "Butter",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_rye_bread_rugbrød",
+    "name": "Danish rye bread (Rugbrød)",
+    "local_name": null,
+    "category": "RYE BREAD",
+    "rank": 10,
+    "short_description": "Rugbrød is a brown rye bread from Denmark, typically used as a base for popular Danish open sandwiches. Usually, it is sliced thinly, buttered, and topped with ingredients such as smoked fish, shrimp,...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/00cb2aa07c87445a94e0beb25b82f1c0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Rye",
+      "Yeast",
+      "Flax Seeds",
+      "Sunflower Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_layer_cake_lagkage",
+    "name": "Danish layer cake (Lagkage)",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 11,
+    "short_description": "Danish lagkage is a type of round layered cake that is usually served on special occasions. It consists of at least three layers of sponge intertwined with pastry creams, fresh fruit, or fruit preserv...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/cd276b9fad0541c4bf1cd11c30fd5044.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Potato Flour",
+      "Blackberries",
+      "Raspberries",
+      "Strawberries"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_rice_pudding_risengrød",
+    "name": "Danish rice pudding (Risengrød)",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 12,
+    "short_description": "Danish risengrød is a luscious and sweet rice pudding, an ancient dessert considered a luxurious and rare treat that is reserved for Christmas. It consists of short-grained rice cooked in a mixture of...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/21f31723b1fe492191f9baf75df278c7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Butter",
+      "Cinnamon",
+      "Sugar",
+      "Milk",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_pork_roast_flæskesteg",
+    "name": "Danish pork roast (Flæskesteg)",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 13,
+    "short_description": "Flæskesteg is a traditional pork roast characterized by a crispy rind. It is usually accompanied by classic Danish sides such as braised red cabbage and caramelized or boiled potatoes. The dish is tra...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/db2890c6d5a5422d9c832e8e0b0e68e5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Bay Leaves",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "buttermilk_soup_koldskål",
+    "name": "Buttermilk soup (Koldskål)",
+    "local_name": null,
+    "category": "SWEET SOUP",
+    "rank": 14,
+    "short_description": "Koldskål is a popular Danish buttermilk dessert that is also occasionally enjoyed as a creamy drink. Even though there are numerous regional varieties, most of them combine buttermilk with yogurt, sug...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/56c0134b33ce475fb5410149e7d23a6a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Buttermilk",
+      "Lemon Juice",
+      "Yogurt",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vaniljekranse",
+    "name": "Vaniljekranse",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 15,
+    "short_description": "Vaniljekranse are one of the most famous Danish cookies. They consist of a simple buttery dough which is extruded into long strips and then formed into small circles. These traditional cookies are dis...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5ee184527a7244ffbd36d41179f4ac36.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Almond Flour",
+      "Eggs",
+      "Butter",
+      "Almonds",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sweet_and_sour_red_cabbage_rødkål",
+    "name": "Sweet and sour red cabbage (Rødkål)",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 16,
+    "short_description": "Rødkål is a Danish dish consisting of shredded red cabbage that is shortly simmered with red currant juice, vinegar, sugar, and various spices. Quick and easy to prepare, this dish is often enriched w...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8c21030151e74962815aa344ee7d1d00.jpg?mw=660",
+    "most_iconic_place": "Det Lille Apotek",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "red cabbage",
+      "Redcurrant Juice",
+      "Elderberry Juice",
+      "Cloves",
+      "Star Anise",
+      "Apple Cider Vinegar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stjerneskud",
+    "name": "Stjerneskud",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 17,
+    "short_description": "Stjerneskud is a popular Danish type of open-faced sandwich, part of the traditional Danish cuisine known as \"smørrebrød.\" The dish typically consists of a buttered piece of rye bread topped with vari...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8578738bee3e4da1abcf8fa6d2ad996d.jpg?mw=660",
+    "most_iconic_place": "Frk. Barners Kælder",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Danish rye bread",
+      "Plaice",
+      "Shrimps",
+      "Caviar",
+      "Salmon",
+      "Asparagus"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tarteletter",
+    "name": "Tarteletter",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 18,
+    "short_description": "Danish tarteletter are crispy, pre-baked puff pastry shells used as containers for various fillings. They initially appeared in the late 19th century as a sophisticated dish which slowly became popula...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7def78aec0114e5f86c218eda7e6127b.jpg?mw=660",
+    "most_iconic_place": "Restaurant Schoennemann",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "danish_apple_cake_æblekage",
+    "name": "Danish apple cake (Æblekage)",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 19,
+    "short_description": "Although the name æblekage can be translated as apple cake, this traditional Danish dessert is a sweet treat that has more in common with a trifle or a crumble. It consists of a creamy, cinnamon-spice...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4fcccddf77a048769522181d8dabd306.jpg?mw=660",
+    "most_iconic_place": "Fru Petersens Café",
+    "most_iconic_location": "Østermarie",
+    "ingredients": [
+      "Apples",
+      "Breadcrumbs",
+      "Butter",
+      "Vanilla",
+      "Sugar",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_fish_cakes_fiskefrikadeller",
+    "name": "Danish fish cakes (Fiskefrikadeller)",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 20,
+    "short_description": "Danish fiskefrikadeller are traditional pan-fried fish patties. They are made with a creamy mixture of ground white fish fillets, eggs, milk, onions, and various spices and fresh herbs. Some varieties...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/76f480de716b474c9cf3664ae8a0f68e.jpg?mw=660",
+    "most_iconic_place": "Restaurant Schoennemann",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "White Fish",
+      "Eggs",
+      "Onion",
+      "Breadcrumbs",
+      "Butter",
+      "Heavy Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_liver_pâté_leverpostej",
+    "name": "Danish liver pâté (Leverpostej)",
+    "local_name": null,
+    "category": "PÂTÉ",
+    "rank": 21,
+    "short_description": "This versatile liver pâté is one of the most common Danish spreads known as leverpostej. Since it is incredibly popular throughout the country, it appears in numerous varieties which differ in ingredi...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7110e2cda30141cc832ee1cd5bc12592.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Pork Liver",
+      "Beef Liver",
+      "Onion",
+      "Eggs",
+      "Lard",
+      "Allspice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dream_cake_drømmekage",
+    "name": "Dream cake (Drømmekage)",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 22,
+    "short_description": "Drømmekage (lit. Dream cake) is a traditional cake originating from Hjallerup in Jutland. The cake is made with a combination of flour, sugar, butter, eggs, milk, baking powder, and vanilla. Once prep...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2160b343c05f43c4969beb30139a9a08.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Hjallerup",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Coconut Flakes",
+      "Vanilla",
+      "Baking Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kammerjunker",
+    "name": "Kammerjunker",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 23,
+    "short_description": "Kammerjunker are popular Danish double-baked cookies. Made with wheat flour and butter, the dough is primarily rolled into a log and baked, then sliced and baked again until crispy. The cookies are us...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e82477a399b64f4da3e99a41fa6b0b63.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Lemon Zest",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "meatballs_in_curry_sauce_boller_i_karry",
+    "name": "Meatballs in curry sauce (Boller i karry)",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 24,
+    "short_description": "Boller i karry is a traditional dish that was invented around the 1840s, when the first curry powder mix was introduced to the country. It consists of pork meatballs that are doused in a creamy curry ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/70c173587d4646ca9dc517f0669ec694.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Curry Powder",
+      "Eggs",
+      "Onion",
+      "Butter",
+      "Cumin"
+    ],
+    "is_active": true
+  }
+]

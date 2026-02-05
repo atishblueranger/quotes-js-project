@@ -1,0 +1,431 @@
+[
+  {
+    "id": "mititei",
+    "name": "Mititei",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 1,
+    "short_description": "Mititei is the closest thing to Romanian street food – a dish consisting of grilled ground meat rolls made from a combination of lamb, pork, beef, and seasonings such as thyme, anise, black pepper, an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2d276af47fb142398959a5140cc07e03.jpg?mw=660",
+    "most_iconic_place": "Terasa Obor",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Lamb",
+      "Pork",
+      "Beef",
+      "Garlic",
+      "Thyme",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cozonac",
+    "name": "Cozonac",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 2,
+    "short_description": "Cozonac is a traditional type of sweet bread that is usually consumed during festive events such as Christmas and Easter. Although it visually looks like a loaf of bread, it is considered a cake, and ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/798bfa90842746ce844512afdf261690.jpg?mw=660",
+    "most_iconic_place": "Chocolat",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Wheat Flour",
+      "Milk",
+      "Eggs",
+      "Cocoa Powder",
+      "Almonds",
+      "Walnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_fasole",
+    "name": "Ciorbă de fasole",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 3,
+    "short_description": "Ciorbă de fasole is a type of traditional Romanian sour soup made with dry beans and vegetables such as onions, red peppers, parsley root, and celery root. The soup is typically seasoned with salt, pe...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7add6124590c42f2b06369bd7c4b7ece.jpg?mw=660",
+    "most_iconic_place": "Caru' cu Bere",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Beans",
+      "Onion",
+      "Peppers",
+      "Parsley",
+      "Celery",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "borș",
+    "name": "Borș",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 4,
+    "short_description": "Even though its name is derived from the Slavic borscht, the Romanian borș refers to an entirely different dish and has no connection to the clear beetroot soup that is commonly prepared in Eastern Eu...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c6aa63c590d5442f819ec883d8cc7413.jpg?mw=660",
+    "most_iconic_place": "Hanul Păstrăvarului",
+    "most_iconic_location": "Pojorâta",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mămăligă",
+    "name": "Mămăligă",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 5,
+    "short_description": "Mămăligă is a traditional porridge and the country's national dish that is often confused with polenta. It is an extremely simple dish of boiled cornmeal that was cooked mostly by peasants in the past...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/790793902f2841ec9422c4e0f09000c3.jpg?mw=660",
+    "most_iconic_place": "Caru' cu Bere",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pască",
+    "name": "Pască",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 6,
+    "short_description": "This Romanian sweet bread derives its name from the Latin word for Easter. With its round shape, golden crust, and yellow center, pască is said to resemble the Sun and symbolize the rebirth of nature ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fb717497b8044fda8310ce523567e1e5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "plăcintă",
+    "name": "Plăcintă",
+    "local_name": null,
+    "category": "PASTRY",
+    "rank": 7,
+    "short_description": "Plăcintă, from the Latin word placenta which means flat cake, is a traditional fried pastry or a thin cake consisting of flour, water, eggs, milk, yeast, and a pinch of salt. This fried or deep-fried ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7f1c72c24abc4f0b94c941358b9f1cda.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Salt",
+      "Eggs",
+      "Yeast",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chiftele",
+    "name": "Chiftele",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 8,
+    "short_description": "Chiftele are crispy, deep-fried Romanian meatballs traditionally made from minced pork or chicken, bread crumbs, and mashed potatoes, flavored abundantly with onions, garlic, lovage, and parsley leave...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a61b042e4dba42e1a63479ecedb4b9cc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Chicken",
+      "Breadcrumbs",
+      "Potatoes",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_burtă",
+    "name": "Ciorbă de burtă",
+    "local_name": null,
+    "category": "OFFAL SOUP",
+    "rank": 9,
+    "short_description": "Ciorbă de burtă is a creamy, sour and garlicky, yellow-colored Romanian soup containing strips of beef tripe and slices of red pepper. Although considered a rare delicacy and an acquired taste due to ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/985bbe868cdd4d40985bff4eef471f19.jpg?mw=660",
+    "most_iconic_place": "Fair Play",
+    "most_iconic_location": "Cluj-Napoca",
+    "ingredients": [
+      "Beef",
+      "Mujdei",
+      "Vinegar",
+      "Sour Cream",
+      "Hot Peppers",
+      "Cloves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "amandine",
+    "name": "Amandine",
+    "local_name": null,
+    "category": "CHOCOLATE CAKE",
+    "rank": 10,
+    "short_description": "Amandine is a traditional chocolate cake that's filled either with chocolate or almond cream. The cake has four components – the sponge cake, the syrup, the filling, and the glaze. The sponge cake is ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8c5129d78e99465dbc26c1719cdb95ea.jpg?mw=660",
+    "most_iconic_place": "Cofetariile Delice",
+    "most_iconic_location": "Ploiești",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "ghiveci",
+    "name": "Ghiveci",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 11,
+    "short_description": "One of the most popular traditional Romanian dishes is a thick vegetable stew known as ghiveci. It is prepared throughout the year, but due to the availability of ingredients, it is usually divided in...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2a4375f8e95e4b6592da4dfdecabea22.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Carrot",
+      "Celery",
+      "Cauliflower",
+      "Cabbage",
+      "Zucchini",
+      "Eggplant"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ardei_umpluţi",
+    "name": "Ardei umpluţi",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 12,
+    "short_description": "Ardei umpluţi is a Romanian version of stuffed peppers, made with yellow bell peppers that are stuffed with minced pork and white rice, then flavored with herbs and garlic. Other versions are made wit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e8cd9c3f182042f79c057b34c661a0c0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Peppers",
+      "Pork",
+      "Rice",
+      "Onion",
+      "Eggs",
+      "Dill"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bulz",
+    "name": "Bulz",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 13,
+    "short_description": "Bulz is a traditional dish created with cooked polenta that is shaped into balls and filled with a creamy stuffing. Subsequently, polenta balls are grilled, pan-fried, or baked until a crunchy, slight...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/79204e3d0c364d1996099c2dad3e6c87.jpg?mw=660",
+    "most_iconic_place": "Restaurant Sergiana",
+    "most_iconic_location": "Brașov",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "covrigi",
+    "name": "Covrigi",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 14,
+    "short_description": "Often dubbed as Romanian pretzels, covrigi are prepared with leavened dough that is twisted into the shape of a pretzel. Before they are baked, covrigi are usually sprinkled with salt, sesame, or popp...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/975a836ebf5b4ff4a9c222d29acafd37.jpg?mw=660",
+    "most_iconic_place": "Simigeria Luca",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "salată_de_vinete",
+    "name": "Salată de vinete",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 15,
+    "short_description": "Salată de vinete is a traditional summer dish that involves roasting or grilling eggplants until charred, chopping them until they form a smooth purée, and finally mixing the eggplants with sunflower ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e593128c3ca34de490acfbf1d94ab350.jpg?mw=660",
+    "most_iconic_place": "Caru' cu Bere",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Eggplant",
+      "Sunflower Oil",
+      "Lemon Juice",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_pui",
+    "name": "Ciorbă de pui",
+    "local_name": null,
+    "category": "CHICKEN SOUP",
+    "rank": 16,
+    "short_description": "Ciorbă de pui is a sour Romanian version of chicken soup. It consists of chicken meat and lots of vegetables such as carrots, potatoes, onions, peppers, parsnip, and tomatoes. The soup is seasoned wit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4638f792fc4a40a8a8a8a3655c62e70f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Carrot",
+      "Potatoes",
+      "Onion",
+      "Peppers",
+      "Parsnip"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "salată_de_roșii",
+    "name": "Salată de roșii",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 17,
+    "short_description": "Salată de roșii or tomato salad is a simple dish that is characteristical for Romanian cuisine. The preparation is relatively simple as it consists of cutting tomatoes into pieces and mixing them with...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2b54cc31d0da4a9fb58174ede3e824c6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Vinegar",
+      "Olive Oil",
+      "Basil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mujdei",
+    "name": "Mujdei",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 18,
+    "short_description": "Mujdei is the Romanian version of garlic sauce. It consists of garlic cloves, sunflower oil, pepper, and water. The cloves are mashed with other ingredients, and the sauce is then typically served wit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d28a84adf141407aa8346fcb87bedc82.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Garlic",
+      "Sunflower Oil",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_perişoare",
+    "name": "Ciorbă de Perişoare",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 19,
+    "short_description": "Ciorbă de perişoare is a traditional sour soup with meatballs consisting of pork and rice. The perişoare are boiled alongside onions, carrots, red peppers, and celery root. They are seasoned with pars...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9c3edddecaa64674a814674e2cf6d179.jpg?mw=660",
+    "most_iconic_place": "Ciorbarie",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Pork",
+      "Rice",
+      "Onion",
+      "Carrot",
+      "Peppers",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "drob_de_miel",
+    "name": "Drob de miel",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 20,
+    "short_description": "Although the ingredients and the methods of preparation may vary, drob de miel usually consists of a mixture of ground lamb offal, bread dipped in milk, chopped herbs, hard-boiled eggs, and vegetables...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a0ae01f58c2d4d4fa3b792e56b88a5c3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Offal",
+      "Eggs",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Lovage Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tocană",
+    "name": "Tocană",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 21,
+    "short_description": "Tocană or tocăniță is a hearty Romanian stew that may consist of different vegetables and various types of meat, preferably fattier cuts of lamb or pork, although chicken or veal may also be used. Sai...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d1623aba445741bfb8e0452a21b9ac1a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Pork",
+      "Chicken",
+      "Veal",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jumări",
+    "name": "Jumări",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 22,
+    "short_description": "Jumări are Romanian-style pork cracklings that are made by frying pieces of pork belly or pork rinds with fat and meat attached to them. The slightly crispy and oozy pork pieces are typically seasoned...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a471b4461dfe4f489913e0ec51250519.jpg?mw=660",
+    "most_iconic_place": "Restaurant Sergiana",
+    "most_iconic_location": "Brașov",
+    "ingredients": [
+      "Pork Belly",
+      "Paprika",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorba_radauteana",
+    "name": "Ciorba Radauteana",
+    "local_name": null,
+    "category": "CHICKEN SOUP",
+    "rank": 23,
+    "short_description": "Ciorba Radauteana is a traditional soup. It's made with a combination of chicken, onions, sweet red pepper, celery, carrots, lemon juice, garlic, parsley, and sour cream. The ingredients are simmered ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6d2d8d15addd47e696771ebdad30df72.jpg?mw=660",
+    "most_iconic_place": "Restaurant Naţional",
+    "most_iconic_location": "Rădăuți",
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Celery",
+      "Peppers",
+      "Carrot",
+      "Parsnip"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_văcuţă",
+    "name": "Ciorbă de văcuţă",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 24,
+    "short_description": "Tangy and comforting, this beef soup, or ciorbă de văcuţă in Romanian, is a representative dish of traditional Romanian cuisine. Apart from beef, the soup usually contains a variety of vegetables such...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b38800c3591244f68b2db3428ee412a7.jpg?mw=660",
+    "most_iconic_place": "Roata Norocului",
+    "most_iconic_location": "Brașov",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Potatoes",
+      "Bell Pepper",
+      "Cauliflower",
+      "Zucchini"
+    ],
+    "is_active": true
+  }
+]

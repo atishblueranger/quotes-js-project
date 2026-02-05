@@ -1,0 +1,474 @@
+[
+  {
+    "id": "wiener_schnitzel",
+    "name": "Wiener Schnitzel",
+    "local_name": null,
+    "category": "VEAL DISH",
+    "rank": 1,
+    "short_description": "Austrian cuisine shines with a crispy, golden-brown veal cutlet, expertly breaded and pan-fried to perfection. Served alongside zesty lemon wedges and sweet lingonberry jam, it’s a delightful harmony of flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8d2c1ee3e754487aa207ff5d3ceae03.jpg?mw=660",
+    "most_iconic_place": "Figlmüller",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Veal",
+      "Breadcrumbs",
+      "Wheat Flour",
+      "Lard",
+      "Butter",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cremeschnitte",
+    "name": "Cremeschnitte",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 2,
+    "short_description": "A beloved staple of Central and Eastern European cuisine, this delicate custard cream cake features layers of buttery pastry filled with rich vanilla-flavored cream, offering a sublime taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/507936ee7d0147e48694598dda086632.jpg?mw=660",
+    "most_iconic_place": "Berghaus Tirol",
+    "most_iconic_location": "Kitzbühel",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Corn Starch",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sacher_torte",
+    "name": "Sacher-Torte",
+    "local_name": null,
+    "category": "CHOCOLATE CAKE",
+    "rank": 3,
+    "short_description": "Originating from Vienna, the Sacher-Torte features rich layers of dark chocolate sponge, a luscious apricot jam filling, and a glossy chocolate glaze. Indulge in its perfect balance of sweetness and decadence.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4621a49b7d544148975c04373b7d1420.jpg?mw=660",
+    "most_iconic_place": "Café Sacher Wien",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Dark Chocolate",
+      "Apricot Jam",
+      "Butter",
+      "Vanilla",
+      "Eggs",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "apfelstrudel",
+    "name": "Apfelstrudel",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 4,
+    "short_description": "Thin, flaky layers cradle a warm filling of spiced apples, plump raisins, and crunchy hazelnuts, all enriched with a splash of rum. Enjoy this classic Austrian dessert, steeped in tradition and flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e3ea8cb9b1724a869e776d1b84c11730.jpg?mw=660",
+    "most_iconic_place": "Café Landtmann",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Apples",
+      "Raisins",
+      "Hazelnuts",
+      "Breadcrumbs",
+      "Rum",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "krapfen",
+    "name": "Krapfen",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 5,
+    "short_description": "Originating in Austria, Krapfen delights with its fluffy, deep-fried dough, filled with sweet fruit preserves or creamy custard. Each bite offers a perfect balance of crispy exterior and soft, indulgent center.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5d7bb143eccb46dcba3e9a5f08c4e150.jpg?mw=660",
+    "most_iconic_place": "Groissböck",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaiserschmarrn",
+    "name": "Kaiserschmarrn",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 6,
+    "short_description": "Fluffy and caramelized, this Austrian delight features scrambled pancakes studded with raisins. A beloved favorite of Kaiser Franz, it offers a sweet, comforting taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/566f349a56ec46008e55aed46a3cd897.jpg?mw=660",
+    "most_iconic_place": "Café Landtmann",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Wheat Flour",
+      "Sugar",
+      "Raisins",
+      "Rum"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vanillekipferl",
+    "name": "Vanillekipferl",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 7,
+    "short_description": "Soft and buttery crescent-shaped cookies, vanillekipferl are a beloved Austrian treat, infused with aromatic vanilla and crushed walnuts. Perfectly dusted with powdered sugar, they melt in your mouth.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c02242d751524f1bbddc34733b51b982.jpg?mw=660",
+    "most_iconic_place": "Chocolaterie Pâtisserie Fruth",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Wheat Flour",
+      "Vanilla",
+      "Walnuts",
+      "Eggs",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "linzer_torte",
+    "name": "Linzer Torte",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 8,
+    "short_description": "Originating from the Austrian city of Linz, this delightful tart features a crumbly, buttery pastry filled with tangy redcurrant jam and a fragrant blend of hazelnuts, almonds, and walnuts. Each bite offers a perfect balance of sweetness and spice, making it a timeless treat.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6c64bc07b8c14173a55662adb5e6535e.jpg?mw=660",
+    "most_iconic_place": "Kuk Hofbackerei",
+    "most_iconic_location": "Linz",
+    "ingredients": [
+      "Hazelnuts",
+      "Almonds",
+      "Walnuts",
+      "Butter",
+      "Redcurrant Jam",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tafelspitz",
+    "name": "Tafelspitz",
+    "local_name": null,
+    "category": "VEAL DISH",
+    "rank": 9,
+    "short_description": "Succulent boiled veal, once a royal delight favored by Emperor Franz Joseph, combines tender meat with vibrant carrots, radish, parsnip, and celery for a rich, comforting experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/26ca74855a3043e1a4f3dd65870e7904.jpg?mw=660",
+    "most_iconic_place": "Plachuttas Gasthaus zur Oper",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Veal",
+      "Carrot",
+      "Radish",
+      "Parsnip",
+      "Celery",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "wiener_würstchen",
+    "name": "Wiener Würstchen",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 10,
+    "short_description": "Originating from Austria, these savory sausages blend ground pork and beef with hints of garlic, mace, and coriander. Grilled or boiled, they deliver a deliciously rich flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/976eb563cd82455b80299a178652d540.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Beef",
+      "Garlic",
+      "Mace",
+      "Coriander",
+      "White Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "germknödel",
+    "name": "Germknödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 11,
+    "short_description": "Austrian tradition comes alive with these soft, steamed yeast dumplings filled with rum-spiced plum jam. Finished with a drizzle of melted butter or vanilla sauce, they offer a delightful burst of flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a2d03c2e1df14bb18ed4281c8c450532.jpg?mw=660",
+    "most_iconic_place": "Restaurant Sunnseit",
+    "most_iconic_location": "Mittersill",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Milk",
+      "Eggs",
+      "plum jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaisersemmel",
+    "name": "Kaisersemmel",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 12,
+    "short_description": "Originating from Austria, the Kaisersemmel is a crisp, golden bread roll with a soft, fluffy interior. Its delicate balance of yeast and butter creates a rich flavor, perfect for sandwiches or enjoyed fresh.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/225208ec89644fc09f637a8cbb30e27d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Salt",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rindsgulasch",
+    "name": "Rindsgulasch",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 13,
+    "short_description": "Originating from Austria, this hearty stew features tender beef simmered with onions, garlic, and rich paprika, creating a comforting blend of flavors that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/874a43cca2d847068ce5f827ca91aa3a.jpg?mw=660",
+    "most_iconic_place": "Gasthaus zum Sieg",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Garlic",
+      "Paprika",
+      "Tomato Paste",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "käsekrainer",
+    "name": "Käsekrainer",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 14,
+    "short_description": "Austrian Käsekrainer boasts a flavorful blend of pork, beef, and garlic, infused with melting cheese chunks that create a savory delight. Grilled to perfection, it’s a must-try street food experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/892ec9e7a5de4d77a033bb15d1608816.jpg?mw=660",
+    "most_iconic_place": "Bitzinger Würstelstand",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Pork",
+      "Pork Fat",
+      "Beef",
+      "Cheese",
+      "Garlic",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tiroler_knödel",
+    "name": "Tiroler Knödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 15,
+    "short_description": "Hearty and rustic, these traditional Tyrolean dumplings blend stale bread with savory ingredients, creating a satisfying bite that echoes the rugged charm of Austria's mountainous landscape. Perfectly paired with rich gravies or stews, they embody the warmth of alpine comfort food.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/662c450df2504ea889fd1d6171c8119f.jpg?mw=660",
+    "most_iconic_place": "Figlmüller",
+    "most_iconic_location": "Vienna",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "topfenknödel",
+    "name": "Topfenknödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 16,
+    "short_description": "Delicate dumplings, these Austrian topfenknödel feature a creamy cottage cheese filling, blended with semolina and butter, then rolled in crispy breadcrumbs. A delightful nod to Bohemian heritage!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/78ff5aa2eab04f32bd7dd1a5605b7060.jpg?mw=660",
+    "most_iconic_place": "Café Landtmann",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Cottage Cheese",
+      "Semolina",
+      "Eggs",
+      "Butter",
+      "Breadcrumbs",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "schnitzel_wiener_art",
+    "name": "Schnitzel Wiener Art",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 17,
+    "short_description": "Austrian culture comes alive with this crispy, breaded pork cutlet, expertly coated in wheat flour, eggs, and breadcrumbs. Fried to golden perfection, it offers a delightful crunch and savory flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1a4d2b1269f642f992ed212c77393f50.jpg?mw=660",
+    "most_iconic_place": "Figlmüller",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Pork",
+      "Wheat Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Milk",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zimtsterne",
+    "name": "Zimtsterne",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 18,
+    "short_description": "Crispy star-shaped cookies from Austria, Zimtsterne burst with the warm flavors of cinnamon and vanilla, complemented by a nutty blend of almonds and hazelnuts. Light and festive, they are a holiday favorite!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fe20a460c6294b7aa6ca729f6eae8b3e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Almonds",
+      "Hazelnuts",
+      "Cinnamon",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "donauwelle",
+    "name": "Donauwelle",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 19,
+    "short_description": "Originating from Germany and Austria, this delightful sheet cake features layers of vanilla and chocolate pound cake, studded with tart cherries, and layered with rich buttercream. Each bite harmonizes sweet and fruity flavors, making it a beloved treat for any occasion.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/77d7ae4a8b59481bb918a9fc9b599e40.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Baking Powder",
+      "Cherries",
+      "Chocolate",
+      "Cocoa Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "speckknödel",
+    "name": "Speckknödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 20,
+    "short_description": "Originating from the Austrian Tyrol, these savory dumplings combine hearty stale bread with rich Tiroler speck, eggs, and onions. Each bite offers a delightful blend of smoky and savory flavors, perfect for a cozy meal.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cad05ecc11c54d8db3d40754cbd95095.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tyrol",
+    "ingredients": [
+      "Bread",
+      "Tiroler Speck",
+      "Eggs",
+      "Onion",
+      "Wheat Flour",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "speckknödelsuppe",
+    "name": "Speckknödelsuppe",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 21,
+    "short_description": "Originating from the Tyrol region, this hearty soup features tender dumplings crafted from bread, rich Tiroler speck, and savory onions, all simmered in a flavorful broth for a comforting taste of Alpine tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6a4720717eda4b9b91808c91aacfda94.jpg?mw=660",
+    "most_iconic_place": "Kögele Hütte",
+    "most_iconic_location": "Berwang",
+    "ingredients": [
+      "Bread",
+      "Tiroler Speck",
+      "Eggs",
+      "Onion",
+      "Wheat Flour",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "backhendl",
+    "name": "Backhendl",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 22,
+    "short_description": "Originating from 18th-century Vienna, this crispy fried chicken features tender, golden-brown pieces encrusted in seasoned breadcrumbs and served with a sprinkle of fresh parsley. A beloved classic!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9022983ab0fe4eb8b544a81ff5a9abe4.jpg?mw=660",
+    "most_iconic_place": "Der Steirer",
+    "most_iconic_location": "Graz",
+    "ingredients": [
+      "Chicken",
+      "Wheat Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Parsley",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zwiebelrostbraten",
+    "name": "Zwiebelrostbraten",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 23,
+    "short_description": "A beloved staple in Austrian and Bavarian cuisine, tender sirloin steak is seared to perfection and topped with caramelized onions, creating a savory, rich flavor. Finished with a hint of paprika, it’s a hearty delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f2b3eaeaa76d49b7bcfac59cb6e58eff.jpg?mw=660",
+    "most_iconic_place": "Sixta",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Wheat Flour",
+      "Butter",
+      "Paprika",
+      "Dijon mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "krautfleckerl",
+    "name": "Krautfleckerl",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 24,
+    "short_description": "Originating from Bohemia, handmade fleckerl pasta meets tender white cabbage in this comforting Austrian dish. Sautéed onions and fragrant caraway add depth, making each bite a warm embrace.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a71faf07257a4a138101811acec30fa7.jpg?mw=660",
+    "most_iconic_place": "Gasthaus Grünauer",
+    "most_iconic_location": "Vienna",
+    "ingredients": [
+      "Fleckerl",
+      "Cabbage",
+      "Onion",
+      "Butter",
+      "Caraway",
+      "Beef Stock"
+    ],
+    "is_active": true
+  }
+]

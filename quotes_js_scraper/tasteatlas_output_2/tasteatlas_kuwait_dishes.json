@@ -1,0 +1,74 @@
+[
+  {
+    "id": "machboos_laham",
+    "name": "Machboos laham",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 1,
+    "short_description": "Considered the national dish of Kuwait, machboos laham combines basmati rice and meat with a mixture of fried onions, raisins, and yellow split peas. The dish is typically made with pieces of lamb, ch...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/162b4b024bd64ab1a2f6fe6cc4c85944.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mumawwash",
+    "name": "Mumawwash",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "This classic dish from Kuwait combines rice and mung bean legumes. Mung beans are sautéed alongside onions and a variety of dried spices such as cinnamon, turmeric, coriander, saffron, and dried lemon...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3effddac5b194c6c9283bd747b2c7f30.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gers_ogaily",
+    "name": "Gers ogaily",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 3,
+    "short_description": "Gers ogaily is a Kuwaiti sponge cake that is typically baked in large bundt pans. It is prepared with a simple egg batter that is flavored with saffron, cardamom, and rose water. The cake is occasiona...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/daaffc6764444bd7b53f9025426ce269.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "khanfaroosh",
+    "name": "Khanfaroosh",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 4,
+    "short_description": "Khanfaroosh is a deep-fried dessert similar to doughnuts popular in Gulf countries, namely Qatar, Bahrain, Kuwait, and the Emirates. It’s made with wheat flour, rice flour, eggs, sugar baking powder, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7a072070103a42babeac630b60adb258.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Rice Flour",
+      "Eggs",
+      "Sugar",
+      "Baking Powder",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mutabbaq_samak",
+    "name": "Mutabbaq samak",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 5,
+    "short_description": "This traditional Kuwaiti dish consists of fried fish that is served on a bed of rice. The most common fish used in the dish is pomfret (zubaidi), which is seasoned, occasionally boiled, and then coate...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fef321c586d642569bc86b9918b37406.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

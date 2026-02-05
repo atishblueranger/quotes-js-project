@@ -1,0 +1,522 @@
+[
+  {
+    "id": "burger",
+    "name": "Burger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 1,
+    "short_description": "Quintessentially American, the beef burger features a juicy patty nestled in a soft bun, topped with zesty onions, tangy ketchup, and mustard. A delicious evolution from Germany’s beefsteak, it’s a must-try classic!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/223d2928b1e04701854f387c30d940f0.jpg?mw=660",
+    "most_iconic_place": "Emily",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Beef",
+      "Burger Bun",
+      "Onion",
+      "Ketchup",
+      "Mustard",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cheeseburger",
+    "name": "Cheeseburger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 2,
+    "short_description": "Originating in the USA, the cheeseburger features a juicy ground beef patty topped with melted cheese, crisp tomato, and tangy pickles, all nestled in a soft burger bun. It's a classic comfort food that never fails to satisfy.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/df459d9fe5ad400e8bf69e4f25d9cf12.jpg?mw=660",
+    "most_iconic_place": "Emily",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Ground Beef",
+      "Cheese",
+      "Burger Bun",
+      "Tomato",
+      "Pickled Cucumbers",
+      "Lettuce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "barbecue",
+    "name": "Barbecue",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 3,
+    "short_description": "Modern American barbecue, rooted in the ancient Caribbean tradition of barbacoa, features tender, smoke-infused meats kissed by rich, tangy sauces. Each bite bursts with deep, savory flavors, celebrating centuries of culinary craft.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/912c358d19fd418cb7f0ff15c1e6d8f1.jpg?mw=660",
+    "most_iconic_place": "Central BBQ",
+    "most_iconic_location": "Memphis",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "cupcake",
+    "name": "Cupcake",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 4,
+    "short_description": "Delight in a fluffy, moist treat that hails from 18th-century America. Each cupcake bursts with buttery sweetness, perfectly balanced with a light, airy texture, making it a charming individual indulgence.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3021765eda914b4cb253e72f5565a101.jpg?mw=660",
+    "most_iconic_place": "Molly's Cupcakes",
+    "most_iconic_location": "Chicago",
+    "ingredients": [
+      "Butter",
+      "Flour",
+      "Eggs",
+      "Milk",
+      "Sugar",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fried_chicken",
+    "name": "Fried Chicken",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 5,
+    "short_description": "Crispy, golden-brown chicken, marinated in buttermilk and coated in seasoned flour, embodies the heart of Southern cuisine. Each bite delivers a savory crunch, often sparking friendly debates over family recipes.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a5ee5bdd724f42e79bc6884cd64d7f6c.jpg?mw=660",
+    "most_iconic_place": "Prince's Hot Chicken Shack",
+    "most_iconic_location": "Nashville",
+    "ingredients": [
+      "Chicken",
+      "Buttermilk",
+      "Flour",
+      "Lard",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "brownies",
+    "name": "Brownies",
+    "local_name": null,
+    "category": "CHOCOLATE DESSERT",
+    "rank": 6,
+    "short_description": "Deliciously chewy and fudgy, these American brownies boast a rich chocolate flavor, often thought to have originated from the Palmer House Hotel. Perfectly baked for a melt-in-your-mouth experience!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f1048106dd449fd9c7a2e592d59ca32.jpg?mw=660",
+    "most_iconic_place": "Baked",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Chocolate",
+      "Butter",
+      "Eggs",
+      "Vanilla",
+      "Flour",
+      "Cocoa Beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mac_and_cheese",
+    "name": "Mac and Cheese",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 7,
+    "short_description": "Curved macaroni bakes in a rich Sauce Mornay, topped with golden breadcrumbs for a crunchy finish. A beloved American classic, it delivers creamy comfort with every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/43b9fc3a33314d2cb2d25bd73bb5a046.jpg?mw=660",
+    "most_iconic_place": "The Eagle OTR",
+    "most_iconic_location": "Cincinnati",
+    "ingredients": [
+      "Macaroni",
+      "Breadcrumbs",
+      "Sauce Mornay"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "burrito",
+    "name": "Burrito",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 8,
+    "short_description": "A delicious staple of Mexican-American cuisine, a burrito features a warm, soft tortilla enveloping savory fillings like seasoned meats, beans, and fresh vegetables, creating a satisfying flavor explosion. Perfectly portable and endlessly customizable, it’s a must-try for food lovers on the go!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f4291f3e82f84c33a5997f801e8fb24f.jpg?mw=660",
+    "most_iconic_place": "La Taqueria",
+    "most_iconic_location": "San Francisco",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chocolate_chip_cookie",
+    "name": "Chocolate chip cookie",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 9,
+    "short_description": "Warm from the oven, these classic American treats blend rich chocolate chips with a perfect balance of sweet and salty flavors. Chewy and buttery, they’re best enjoyed with a glass of milk or a cozy cup of coffee.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/99c88d81724442cd96126b8cc74eefd5.jpg?mw=660",
+    "most_iconic_place": "Levain Bakery",
+    "most_iconic_location": "Manhattan",
+    "ingredients": [
+      "Flour",
+      "Chocolate Chips",
+      "Butter",
+      "Sugar",
+      "Brown Sugar",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "doughnut",
+    "name": "Doughnut",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 10,
+    "short_description": "Fried to golden perfection, these sweet pastries delight with their fluffy texture and sugary glaze. Rooted in American culture, each bite offers a rich blend of butter and sweetness.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e64c8b5fab4b436f8297e4b8962f1900.jpg?mw=660",
+    "most_iconic_place": "District Donuts Sliders Brew",
+    "most_iconic_location": "New Orleans",
+    "ingredients": [
+      "Flour",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fajitas",
+    "name": "Fajitas",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 11,
+    "short_description": "Marinated skirt steak sizzles alongside bell peppers and onions, wrapped in warm flour tortillas. Topped with creamy guacamole and garlic, these Tex-Mex favorites deliver bold, savory flavors in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/950cac1a6e1f4e6682ce70788c279910.jpg?mw=660",
+    "most_iconic_place": "The Original Ninfa’s on Navigation",
+    "most_iconic_location": "Houston",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Onion",
+      "Guacamole",
+      "Garlic",
+      "Pico de gallo"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "milkshake",
+    "name": "Milkshake",
+    "local_name": null,
+    "category": "FROZEN DESSERT",
+    "rank": 12,
+    "short_description": "Creamy and indulgent, American milkshakes blend rich ice cream with milk and syrup for a frosty treat. Often topped with whipped cream and sprinkles, they evoke nostalgia with every sip.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5291b5f2fcee42849cd84a03bff55e0a.jpg?mw=660",
+    "most_iconic_place": "Edzo’s Burger Shop",
+    "most_iconic_location": "Evanston",
+    "ingredients": [
+      "Milk",
+      "Ice Cream",
+      "Syrup"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "grilled_cheese",
+    "name": "Grilled Cheese",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 13,
+    "short_description": "Crispy, buttery bread envelops a melty blend of sharp Cheddar and creamy Monterey Jack, creating a quintessential American comfort food that delights with every bite. Perfectly golden and irresistibly gooey!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fbefddd4e4de4f6ab8d43d6fda3dc21f.jpg?mw=660",
+    "most_iconic_place": "Beecher's Handmade Cheese",
+    "most_iconic_location": "Seattle",
+    "ingredients": [
+      "Bread",
+      "Cheddar",
+      "Monterey Jack",
+      "Butter",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sundae",
+    "name": "Sundae",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 14,
+    "short_description": "Originating in the U.S., a classic sundae delights with creamy vanilla gelato, rich heavy cream, and a splash of kirschwasser, crowned with luscious cherries. Each spoonful offers a perfect blend of sweet nostalgia and indulgence.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/39d1a4212e7f49ecbb94c4d336cc770b.jpg?mw=660",
+    "most_iconic_place": "Sweet Republic",
+    "most_iconic_location": "Scottsdale",
+    "ingredients": [
+      "Gelato alla vaniglia",
+      "Heavy Cream",
+      "Sugar",
+      "Cherries",
+      "Kirschwasser",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pulled_pork",
+    "name": "Pulled Pork",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 15,
+    "short_description": "Slow-cooked to perfection, this American barbecue favorite features tender, shredded pork infused with tangy vinegar and rich tomato sauce, delivering a smoky, savory flavor that’s irresistible.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/77c0b1d19f8a49509278bde67c1d6cb7.jpg?mw=660",
+    "most_iconic_place": "Pecan Lodge",
+    "most_iconic_location": "Dallas",
+    "ingredients": [
+      "Pork",
+      "Vinegar",
+      "Black Pepper",
+      "Tomato Sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "frozen_yogurt",
+    "name": "Frozen Yogurt",
+    "local_name": null,
+    "category": "FROZEN DESSERT",
+    "rank": 16,
+    "short_description": "Creamy and tangy, frozen yogurt hails from the U.S. as a lighter alternative to ice cream. Swirled with vibrant flavors like tart raspberry or indulgent chocolate, it's a refreshing treat perfect for warm days.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/25d6f8f98c57444c973971d33a538bde.jpg?mw=660",
+    "most_iconic_place": "Pinkberry",
+    "most_iconic_location": "Manhattan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fudge",
+    "name": "Fudge",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 17,
+    "short_description": "Indulge in a rich American classic where creamy butter, sweet milk, and sugar harmonize into a luscious fudge. Often enhanced with vanilla and delightful toppings, it’s a beloved treat perfect for sharing.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a80d58e4be1647aa944959fbe888bd2f.jpg?mw=660",
+    "most_iconic_place": "JoAnn’s Fudge",
+    "most_iconic_location": "Mackinac Island",
+    "ingredients": [
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "apple_pie",
+    "name": "Apple Pie",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 18,
+    "short_description": "Originating from English traditions, this quintessential American dessert features tart Granny Smith and Rhode Island Greening apples, spiced with cinnamon and enveloped in a buttery, flaky crust. Each slice delivers a warm, comforting taste of nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ca6ef74dca69400991b6723caa3a1f0b.jpg?mw=660",
+    "most_iconic_place": "18th & Vine",
+    "most_iconic_location": "Dallas",
+    "ingredients": [
+      "Granny Smith apples",
+      "Rhode Island Greening apples",
+      "Cinnamon",
+      "Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "blt_sandwich",
+    "name": "BLT sandwich",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 19,
+    "short_description": "Crispy bacon, ripe tomatoes, and cool lettuce come together in this quintessential American classic. Layered between toasted bread and slathered with creamy mayonnaise, each bite bursts with savory goodness.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3f4736feb0a54cf59cba5ef99aef5a17.jpg?mw=660",
+    "most_iconic_place": "Crown Candy Kitchen",
+    "most_iconic_location": "St. Louis",
+    "ingredients": [
+      "Bread",
+      "Bacon",
+      "Lettuce",
+      "Tomato",
+      "Mayonnaise"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "smore",
+    "name": "S'more",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 20,
+    "short_description": "Roasted marshmallows meld with creamy milk chocolate, sandwiched between crunchy graham crackers in this iconic American treat. Perfect for campfire gatherings, it’s a sweet bite of nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d0c95ae97ff144bdad0e8a205cbc11dc.jpg?mw=660",
+    "most_iconic_place": "Emily",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Marshmallow",
+      "Graham cracker",
+      "Milk Chocolate"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crab_cake",
+    "name": "Crab Cake",
+    "local_name": null,
+    "category": "CRAB DISH",
+    "rank": 21,
+    "short_description": "Crispy on the outside and tender within, these American crab cakes feature sweet crab meat blended with breadcrumbs, zesty Dijon, and a hint of mayo. A coastal classic that celebrates fresh seafood flavors!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/75b4fd6ec3b44ecdb24aaabc3843e36a.jpg?mw=660",
+    "most_iconic_place": "82 Queen",
+    "most_iconic_location": "Charleston",
+    "ingredients": [
+      "Crab",
+      "Breadcrumbs",
+      "Eggs",
+      "Mayonnaise",
+      "Dijon mustard",
+      "Worcestershire sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "coleslaw",
+    "name": "Coleslaw",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 22,
+    "short_description": "Originating from the Dutch word for cabbage salad, coleslaw combines crunchy cabbage and carrots with a creamy blend of mayonnaise, sour cream, and buttermilk. It's a tangy, refreshing side that perfectly complements barbecued meats and fried chicken.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cc12f50bd4744ceb8e874cc78bf76363.jpg?mw=660",
+    "most_iconic_place": "Paia Fish Market",
+    "most_iconic_location": "Paia",
+    "ingredients": [
+      "Cabbage",
+      "Carrot",
+      "Mayonnaise",
+      "Sour Cream",
+      "Buttermilk",
+      "Vinegar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_nuggets",
+    "name": "Chicken Nuggets",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 23,
+    "short_description": "Crispy and golden, these American favorites feature tender chicken coated in a seasoned breading and fried to perfection. Enjoy their savory crunch paired with a tangy dipping sauce for the ultimate comfort food experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ababa03e411f4568a68b012779be5976.jpg?mw=660",
+    "most_iconic_place": "Callahan Barbecue",
+    "most_iconic_location": "Callahan",
+    "ingredients": [
+      "Chicken",
+      "Eggs",
+      "Flour",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chili_con_carne",
+    "name": "Chili con Carne",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 24,
+    "short_description": "Originating in the American Southwest, this hearty stew combines tender beef and pork with zesty onions, garlic, and fiery hot peppers. Each spoonful delivers a rich, spicy warmth that warms the soul.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5c3188d4c3ad465cb38a5770c328a723.jpg?mw=660",
+    "most_iconic_place": "Woodyard Bar-B-Q",
+    "most_iconic_location": "Kansas City",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thanksgiving_dinner",
+    "name": "Thanksgiving Dinner",
+    "local_name": null,
+    "category": "FEAST",
+    "rank": 25,
+    "short_description": "Celebrated each November, the Thanksgiving dinner features succulent roasted turkey, creamy mashed potatoes, zesty cranberry sauce, and spiced pumpkin pie, creating a feast of comforting flavors.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/df79ea14ada7419b80d2a9418855d7ae.jpg?mw=660",
+    "most_iconic_place": "Old Ebbitt Grill",
+    "most_iconic_location": "Washington, D.C.",
+    "ingredients": [
+      "Turkey",
+      "Potatoes",
+      "Pumpkin",
+      "Cranberries",
+      "Celery",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "poke",
+    "name": "Poke",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 26,
+    "short_description": "Originating from Hawaii, poke features succulent tuna tossed with fresh scallions, zesty hot peppers, and a sprinkle of sesame seeds. Each bite bursts with vibrant flavors and island spirit.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/44c6efa57bc34d24b5eca48a4f8cd94e.jpg?mw=660",
+    "most_iconic_place": "Da Poke Shack",
+    "most_iconic_location": "Kailua-Kona",
+    "ingredients": [
+      "Tuna",
+      "Onion",
+      "Scallions",
+      "Sesame Seeds",
+      "Hot Peppers",
+      "Soy sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gumbo",
+    "name": "Gumbo",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 27,
+    "short_description": "Rich and hearty, gumbo is a quintessential New Orleans stew, simmered to perfection in cast-iron pots. Featuring a savory blend of chicken, turkey, rabbit, beef, and veal, it embodies Louisiana's vibrant culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6eb46d0e684042bf90883b55029a24c9.jpg?mw=660",
+    "most_iconic_place": "Mr. B's Bistro",
+    "most_iconic_location": "New Orleans",
+    "ingredients": [
+      "Chicken",
+      "Turkey",
+      "Rabbit",
+      "Beef",
+      "Veal",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "american_pancakes",
+    "name": "American pancakes",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 28,
+    "short_description": "Fluffy and golden, these thick American pancakes are a breakfast staple, often served with maple syrup and fresh fruit. The rich buttery flavor and light texture make every bite a morning delight.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5c03843d68e7408f9da6c739b4871a80.jpg?mw=660",
+    "most_iconic_place": "Clinton St. Baking Co.",
+    "most_iconic_location": "Manhattan",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  }
+]

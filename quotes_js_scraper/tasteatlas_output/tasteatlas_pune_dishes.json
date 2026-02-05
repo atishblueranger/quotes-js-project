@@ -1,0 +1,746 @@
+[
+  {
+    "id": "mango_mastani",
+    "name": "Mango mastani",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 1,
+    "short_description": "Mango mastani is a local beverage hailing from Pune that blends mangoes and chilled milk. It can be made with fresh mangoes or mango puree. The drink is typically garnished with slivered nuts and ofte...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/c1aa43e9330b49229756c84c1d35308a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Mango",
+      "Ice Cream",
+      "Nuts",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vada_pav",
+    "name": "Vada pav",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 1,
+    "short_description": "Vada pav is one of Mumbai's favorite sandwiches, its name referring to the key ingredients: vada, or spicy mashed potatoes that are deep-fried in chickpea batter, and pav, or white bread rolls. This i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/951728fa0ae74174a2602aaece17368c.jpg?mw=660",
+    "most_iconic_place": "JJ Garden Vada Pav",
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Pav",
+      "Potatoes",
+      "Gram Flour",
+      "Garlic",
+      "Hot Peppers",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "misal",
+    "name": "Misal",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Misal is a specialty dish of the Indian state of Maharashtra, its name literally translated to a mixture of everything, so the ingredients vary from cook to cook. However, a combination of these ingre...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/181106e0dc5249ac8f8089098048cc02.jpg?mw=660",
+    "most_iconic_place": "Bedekar Misal",
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Moth Beans",
+      "Potatoes",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Dahi"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thalipeeth",
+    "name": "Thalipeeth",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 3,
+    "short_description": "Thalipeeth is a pancake-like bread belonging to the Maharashtrian cuisine of India. The batter is prepared with a base of Bhajani multi-grain flour, while cumin, chilies, coriander, turmeric, and onio...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/85f72b39106c4fe3a0eb91a58f0dbd0d.jpg?mw=660",
+    "most_iconic_place": "Shabree",
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Sorghum Flour",
+      "Pearl Millet Flour",
+      "Wheat Flour",
+      "Rice Flour",
+      "Gram Flour",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "barfi",
+    "name": "Barfi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 4,
+    "short_description": "Even though its name originates from Persia, barfi is an original Indian dessert which resembles a fudge. It belongs to a wider group of Indian sweets united under the name mithai. In Persian and Urdu...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fde987b6024d4c5ab3c2bc4caf860e31.jpg?mw=660",
+    "most_iconic_place": "Chitale Bandhu Mithaiwale",
+    "most_iconic_location": "India",
+    "ingredients": [
+      "Ghee",
+      "Mawa",
+      "Pistachios",
+      "Peanuts",
+      "Cashews",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "biryani",
+    "name": "Biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 5,
+    "short_description": "Biryani is a group of classic rice dishes dating back to the Mughal Empire. It combines long-grain rice, usually basmati, with marinated meat, seafood, or vegetables, all cooked together with spices s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8fd2297171484b88be3e3e6815979690.jpg?mw=660",
+    "most_iconic_place": "Blue Nile",
+    "most_iconic_location": "Iran",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "roti",
+    "name": "Roti",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 6,
+    "short_description": "Roti is a flat and unleavened bread made with wholemeal flour. It is traditionally cooked on an iron griddle called tava, an important vessel in the Indian cuisine. In Indian cuisine, roti is as essen...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1bd5e63b79b344ef9b56cc6480470dba.jpg?mw=660",
+    "most_iconic_place": "Shabree",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "shrikhand",
+    "name": "Shrikhand",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 7,
+    "short_description": "Shrikhand is a popular Indian yogurt-based dessert, combined with sugar and nuts in order to develop a rich, creamy texture and sweet flavor. In North India, it is usually served for breakfast, while ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b40366bbc02a4ad583c12a036f44e69a.jpg?mw=660",
+    "most_iconic_place": "Chitale Bandhu Mithaiwale",
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Dahi",
+      "Pistachios",
+      "Almonds",
+      "Saffron",
+      "Cardamom",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhakri",
+    "name": "Bhakri",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 8,
+    "short_description": "Bhakri is a popular Indian unleavened flatbread native to the Indian state of Maharashtra, although it is commonly found throughout Gujarat, Goa, and Rajasthan. It can be made with jowar, ragi, sorghu...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9dbd66882cea4e3789a71ffbb77ef2bd.jpg?mw=660",
+    "most_iconic_place": "Shabree",
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Rice Flour",
+      "Sorghum Flour",
+      "Pearl Millet Flour",
+      "Ghee",
+      "Sesame Seeds",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sabudana_vada",
+    "name": "Sabudana vada",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 9,
+    "short_description": "These crispy Indian fritters consist of a combination of soaked tapioca pearls, mashed potatoes, roasted and crushed peanuts, and a variety of spices such as turmeric, chili, ginger, and fresh coriand...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5a84f0743dc2474d8d0cb1c404cabe55.jpg?mw=660",
+    "most_iconic_place": "Hindavi Swaraj",
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Tapioca Pearls",
+      "Potatoes",
+      "Peanuts",
+      "Hot Peppers",
+      "Ginger",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tandoori",
+    "name": "Tandoori",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 10,
+    "short_description": "The most popular Indian dishes are those cooked over a blazing fire in the so-called tandoor, a cylindrical open-top clay oven fueled by wood or charcoal. The tandoori technique evolved from an old Mi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7f5792f3a5fa48daa65c345f236b34d1.jpg?mw=660",
+    "most_iconic_place": "Blue Nile",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tandoori_chicken_tandoori_murgh",
+    "name": "Tandoori chicken (Tandoori murgh)",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 11,
+    "short_description": "Tandoori chicken or tandoori murgh is one of the most popular dishes in Indian cuisine, its name derived from the Persian word tannur, meaning fire. The dish consists of chicken meat that is marinated...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/bdab2e7920f0409188d0b3646826893a.jpg?mw=660",
+    "most_iconic_place": "Blue Nile",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Chicken",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Garam masala",
+      "Cumin",
+      "Turmeric"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "panipuri",
+    "name": "Panipuri",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 12,
+    "short_description": "Panipuri is a street snack that is extremely popular in India, Bangladesh, Pakistan, and Nepal. Small in size, it consists of a hollow puri that is fried until crispy, then stuffed with a combination ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b01fa4c9920d42df9ef472fd4f8e6fda.jpg?mw=660",
+    "most_iconic_place": "Jaishankar Pani Puri",
+    "most_iconic_location": "India",
+    "ingredients": [
+      "Semolina",
+      "Maida Flour",
+      "Potatoes",
+      "Chickpeas",
+      "Onion",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "medu_vada",
+    "name": "Medu vada",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 13,
+    "short_description": "Medu vada is an Indian snack that is visually similar to a doughnut, consisting of a deep-fried batter made from black lentils and seasonings such as fenugreek, cumin, pepper, chili, and ginger. The f...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d69c2f9b128a49299056a0bb9eca8a45.jpg?mw=660",
+    "most_iconic_place": "Vaishali",
+    "most_iconic_location": "Maddur",
+    "ingredients": [
+      "Black Grams",
+      "Hot Peppers",
+      "Onion",
+      "Ginger",
+      "Curry leaves",
+      "Fenugreek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "puran_poli",
+    "name": "Puran poli",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 14,
+    "short_description": "Puran poli is a sweet flatbread that is traditionally made during Ganesha Chaturthi, a Hindu festival celebrating the birthday of Lord Ganesha, son of Shiva and Parvati. Originating from the state of ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4346bd4e3d9e406da2a27e4aa31659e9.jpg?mw=660",
+    "most_iconic_place": "Shabree",
+    "most_iconic_location": "India",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Maida Flour",
+      "Black Grams",
+      "Ghee",
+      "Cardamom",
+      "Jaggery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mughlai_biryani",
+    "name": "Mughlai biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 15,
+    "short_description": "Mughlai biryani is a variety of Indian biryani that is believed to have been savored by the Mughal Emperors in the past. The dish is made with flavored rice, chunks of spiced and browned meat (usually...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/550488d5b9c749bcb3994925c4b354d5.jpg?mw=660",
+    "most_iconic_place": "Chingari",
+    "most_iconic_location": "Delhi",
+    "ingredients": [
+      "Basmati",
+      "Lamb",
+      "Mutton",
+      "Chicken",
+      "Tomato",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kulfi_falooda",
+    "name": "Kulfi falooda",
+    "local_name": null,
+    "category": "FROZEN DESSERT",
+    "rank": 16,
+    "short_description": "Usually associated with northern Indian regions, this refreshing treat combines thin falooda noodles and kulfi, a traditional Indian ice cream made with slowly simmered whole milk that is flavored wit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/73ded2160e50461084343b595d93738b.jpg?mw=660",
+    "most_iconic_place": "Blue Nile",
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Falooda sev",
+      "Milk",
+      "Cardamom",
+      "Almonds",
+      "Pistachios",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sabudana_khichadi",
+    "name": "Sabudana khichadi",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 17,
+    "short_description": "Sabudana khichadi is an Indian dish consisting of soaked tapioca that is fried with spices such as cumin, red chili powder, and salt. The dish is popular throughout Western India, especially in Gujara...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d96b9ceea8c94586869fd67ecc31c072.jpg?mw=660",
+    "most_iconic_place": "Bipin Snacks",
+    "most_iconic_location": "Gujarat",
+    "ingredients": [
+      "Tapioca Pearls",
+      "Peanuts",
+      "Red Chilli Powder",
+      "Cumin Seeds",
+      "Ghee",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hyderabadi_biryani",
+    "name": "Hyderabadi biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 18,
+    "short_description": "Hyderabadi biryani is a South Indian dish consisting of basmati rice, goat, mutton, or chicken meat, lemon, yogurt, onions, and saffron. There are two main varieties of the dish – kachchi (raw) and pa...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3bd6dfaf53e244dfb7f3ee390447a2f8.jpg?mw=660",
+    "most_iconic_place": "Tiranga Bhuvan Kothrud",
+    "most_iconic_location": "Hyderabad",
+    "ingredients": [
+      "Basmati",
+      "Chicken",
+      "Mutton",
+      "Goat",
+      "Yogurt",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "misal_pav",
+    "name": "Misal pav",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 19,
+    "short_description": "Misal pav is a traditional dish originating from Maharashtra. Its two main components are misal – a curry made with sprouted moth beans, usually topped with chivda, onions, chilis, and potatoes – and ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/31581c6651644769875834e8dc60bec0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Pav",
+      "Moth Beans",
+      "Potatoes",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "modak",
+    "name": "Modak",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 20,
+    "short_description": "Modak is an Indian sweet dumpling believed to have originated in the state of Maharashtra. In India, modak is prepared in a variety of ways, and it is known under various names. Depending on the regio...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a46f5298ed7141b0a8763c3ca2333b8f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bhelpuri",
+    "name": "Bhelpuri",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 21,
+    "short_description": "Bhelpuri (also spelled bhel puri) is a type of chaat - a savory snack that is commonly served in cafés and street carts throughout India. There is a lot of debate about what should go in a bhelpuri, b...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e5e261d8a0004f2097dca3fefad53c59.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Puffed Rice",
+      "Potatoes",
+      "Nuts",
+      "Tomato",
+      "Onion",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bombay_sandwich",
+    "name": "Bombay sandwich",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 22,
+    "short_description": "Bombay sandwich is a traditional sandwich originating from Mumbai, hence the name. In order to prepare it, green chutney is spread on a slice of crustless white sandwich bread, while butter is spread ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0ca59d8f8e594480ab990d8b78063053.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Bread",
+      "Potatoes",
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "patrode",
+    "name": "Patrode",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 23,
+    "short_description": "Patrode is a savory vegetarian dish from Malvani and Maharashtrian cuisine. Basic ingredients are the same throughout the entire region - taro (colocasia) leaves stuffed (or chopped up) with a mixture...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f0a30d373ee6437f8068dc9997be8701.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Taro Leaves",
+      "Gram Flour",
+      "Tamarind",
+      "Jaggery",
+      "Curry leaves",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "basundi",
+    "name": "Basundi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 24,
+    "short_description": "Basundi is a popular Indian dessert consisting of sweetened, thickened milk with the addition of chopped nuts such as almonds, cashews, and pistachios. The dessert is usually flavored with cardamom an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/05bbdd5b64894a929b6ba0a557ffcc4b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Milk",
+      "Almonds",
+      "Pistachios",
+      "Cashews",
+      "Cardamom",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dahi_puri",
+    "name": "Dahi puri",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 25,
+    "short_description": "Hailing from Maharashtra, dahi puri consists of a puri shell that is hollowed out, then stuffed with potatoes, chaat masala, onions, and a variety of chutneys before it is finished with beaten yogurt,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bb8d66ccb459436da4b69770c9d8db86.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Wheat Flour",
+      "Ghee",
+      "Potatoes",
+      "Chickpeas",
+      "Bean Sprouts",
+      "Dahi"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bombay_biryani",
+    "name": "Bombay biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 26,
+    "short_description": "Bombay biryani is a variety of Indian biryani, consisting of layers of flavored basmati rice, potatoes, chunks of chicken or mutton, alongside some fried onions, mint leaves, and dried plums. Rice is ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bfa5558ba02f4ff490bb73d2e7a45932.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Basmati",
+      "Chicken",
+      "Mutton",
+      "Potatoes",
+      "Tomato",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "usal",
+    "name": "Usal",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 27,
+    "short_description": "Usal is a traditional dish originating from Maharashtra. The dish can be prepared with sprouted beans, dried beans, or lentils as the main ingredient, but in Maharashtra it's usually made with sproute...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bade79a2b40440b9a9bfdcf59750a6ca.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Moth Beans",
+      "Tomato",
+      "Onion",
+      "Hot Peppers",
+      "Ginger-garlic paste",
+      "Curry leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "batata_vada",
+    "name": "Batata vada",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 28,
+    "short_description": "Batata vada is a popular vegetarian street food item that was invented in the Indian state of Maharashtra. It is a potato fritter made with a combination of mashed potatoes and spices that is shaped i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/43941cdeca9e4ac28c07df2e06c5b389.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Potatoes",
+      "Gram Flour",
+      "Hot Peppers",
+      "Red Chilli Powder",
+      "Ginger",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shankarpali",
+    "name": "Shankarpali",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 29,
+    "short_description": "Shankarpali is a snack that is especially popular in the Indian states of Gujarat and Maharashtra. Traditionally, it is prepared and consumed during the Diwali festival. The snack is characterized by ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c3824cf1dc9e4f9c980beb58806eb2fe.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Maida Flour",
+      "Semolina",
+      "Ghee",
+      "Milk",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pitla",
+    "name": "Pitla",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 30,
+    "short_description": "This traditional Maharashtrian curry is made with a batter of gram flour, red chili powder, turmeric powder, and water, which is then cooked with a blend of spices, curry leaves, garlic paste, onions,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a4841debdf0d4454a44ae930be10f4e4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Gram Flour",
+      "Onion",
+      "Hot Peppers",
+      "Garlic",
+      "Curry leaves",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ragda_pattice",
+    "name": "Ragda pattice",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 31,
+    "short_description": "Ragda pattice is a flavorful and popular street food of Mumbai, consisting of two parts: ragda, which is a dried yellow pea stew, and pattice, referring to a fried mashed potato patty. It is typically...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7a06e90c64774161b404838b895e3a5c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "White peas",
+      "Potatoes",
+      "Hot Peppers",
+      "Ginger",
+      "Turmeric",
+      "Cumin Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ice_halwa",
+    "name": "Ice halwa",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 32,
+    "short_description": "Ice halwa is an Indian dessert made with milk, starch or flour, and various flavorings and toppings. It comes in the form of thinly rolled square-shaped sheets. This dessert is traditionally associate...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/74f9804e903b4d98bde6cf1ab46812ec.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Corn Starch",
+      "Semolina",
+      "Ghee",
+      "Sugar",
+      "Milk",
+      "Almonds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "amba",
+    "name": "Amba",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 33,
+    "short_description": "Amba is a pickled mango sauce with murky origins. The word amba means mango in Indian. It is believed that it was first made in the 19th century by the Sassoon family in Bombay, although they were Ira...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d3164388f1c7409e8f9b8a0badf8495b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Mango",
+      "Garlic",
+      "Mustard Seeds",
+      "Turmeric",
+      "Hot Peppers",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chavde",
+    "name": "Chavde",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 34,
+    "short_description": "Chavde is a crispy, deep-fried Indian dessert that's traditionally prepared during the festival of Ganesh Chaturthi. It consists of thinly-rolled, round-shaped dough and a fragrant mixture of roasted ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ac0c21fbd84745809bd9abc8e20adc5d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Rice Flour",
+      "Coconut",
+      "Ghee",
+      "Cardamom",
+      "Sesame Seeds",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tandoori_pomfret",
+    "name": "Tandoori pomfret",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 35,
+    "short_description": "Tandoori pomfret is a traditional dish prepared with pomfret, a fish that’s popular in India’s coastal regions such as Maharashtra, Goa, and Chennai. The pomfret is washed, the inner organs are remove...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7633852d3e1a409c9a38f40471bf6367.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [
+      "Pomfret",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Red Chilli Powder",
+      "Coriander Powder",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bombil_fry",
+    "name": "Bombil fry",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 36,
+    "short_description": "Bombil fry, also known as Bombay duck fry, is a popular Maharashtrian dish from the western coast of India, particularly Mumbai. Bombil is the Marathi name for the Bombay duck fish, which is not a duc...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dd7555964d3a4fa5a19fb3feaa5cd788.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Bombay duck",
+      "Semolina",
+      "Ginger-garlic paste",
+      "Red Chilli Powder",
+      "Turmeric",
+      "Coriander Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pav_bhaji_masala",
+    "name": "Pav bhaji masala",
+    "local_name": null,
+    "category": "SPICE BLEND AND SEASONING",
+    "rank": 1,
+    "short_description": "Pav bhaji masala is a special spice blend used to make pav bhaji, a popular Indian street food. It is a mix of aromatic spices that provide the characteristic flavor and aroma of the dish. This masala...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/1624bd74d015466ca8edf2a90c94e6d8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mumbai",
+    "ingredients": [
+      "Coriander Seeds",
+      "Cumin Seeds",
+      "Fennel Seeds",
+      "Fenugreek",
+      "Turmeric",
+      "Cloves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bombay_duck_bombil",
+    "name": "Bombay duck (Bombil)",
+    "local_name": null,
+    "category": "WHITE FISH",
+    "rank": 2,
+    "short_description": "Bombay duck (lat. Harpadon nehereus), despite its name, is not a duck but a type of fish. It is a soft, fleshy lizardfish found in the waters of the Arabian Sea, particularly along the western coast o...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/4a7739b56cbd438e9eb286ae3322ab27.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maharashtra",
+    "ingredients": [],
+    "is_active": true
+  }
+]

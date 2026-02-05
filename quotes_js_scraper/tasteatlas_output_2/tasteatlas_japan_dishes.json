@@ -1,0 +1,421 @@
+[
+  {
+    "id": "sushi",
+    "name": "Sushi",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Sushi is Japan's most famous culinary representative, typically made with rice and fillings which have been rolled inside a sheet of dry seaweed. However, the term sushi is actually an umbrella term c...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fde953e5aa504e8c83a84691582b0399.jpg?mw=660",
+    "most_iconic_place": "Ginza Kyubey",
+    "most_iconic_location": "Chūō",
+    "ingredients": [
+      "Seafood",
+      "Nori",
+      "Shiitake",
+      "Surimi",
+      "Persian Cucumber",
+      "Scallions"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ramen",
+    "name": "Ramen",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 2,
+    "short_description": "Ramen is a noodle soup that first appeared in Japan in 1910, when Chinese cooks combined the noodles with a salty broth. These curly noodles were of bright yellow color and more elastic than the Japan...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b6b9680a32c84a9381a1ea5f5e529698.jpg?mw=660",
+    "most_iconic_place": "Ichiran Nakasu",
+    "most_iconic_location": "Fukuoka",
+    "ingredients": [
+      "Ramen Noodles",
+      "Pork",
+      "Chicken",
+      "Seafood",
+      "Root Vegetable",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sashimi",
+    "name": "Sashimi",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 3,
+    "short_description": "Sashimi is a Japanese delicacy consisting of thinly sliced raw fish or shellfish (or even meat) served with soy sauce and other ingredients such as wasabi or ginger paste. Most common ingredients used...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/17f54b4244a94d048fb0ed14098803a9.jpg?mw=660",
+    "most_iconic_place": "Sushi Yoshitake",
+    "most_iconic_location": "Chūō",
+    "ingredients": [
+      "Tuna",
+      "Squid",
+      "Scallops",
+      "Whale",
+      "Octopus",
+      "Chicken"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yakitori",
+    "name": "Yakitori",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 4,
+    "short_description": "Yakitori refers to Japanese grilled chicken where pieces of chicken meat are skewered with a particular type of skewer called kushi (which can be made from either steel or bamboo) and are then traditi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/31197d87b8b747ceb366b8a81f7bace2.jpg?mw=660",
+    "most_iconic_place": "Toriki Main",
+    "most_iconic_location": "Shinagawa",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mochi",
+    "name": "Mochi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Mochi, the tiny cakes made out of glutinous rice, are an important part of Japanese cuisine and culture. The preparation of mochi starts with a time-consuming process of pounding boiled or steamed ric...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7cce87e6040347f5930f6356a6b4ab52.jpg?mw=660",
+    "most_iconic_place": "Demachi Futaba",
+    "most_iconic_location": "Kyoto",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "onigiri",
+    "name": "Onigiri",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 6,
+    "short_description": "Moist, chewy, and hearty, onigiri or omusubi are Japanese rice balls and a favorite picnic food since the 11th century, when they were known as tonjiki and recorded as such in the diary of Lady Murasa...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/69f35c5768bc47f386e90a2a145a7230.jpg?mw=660",
+    "most_iconic_place": "Onigiri Bongo",
+    "most_iconic_location": "Toshima",
+    "ingredients": [
+      "Uruchimai",
+      "Nori",
+      "Umeboshi",
+      "Shiitake",
+      "Salmon",
+      "Kombu"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gyoza",
+    "name": "Gyoza",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 7,
+    "short_description": "The famous Japanese gyoza are crescent-shaped dumplings that have originated from the traditional Chinese jiaozi dumplings. The recipe was slightly altered to accommodate the Japanese taste, and gyoza...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3c16ad904018488f8c363413d356cacc.jpg?mw=660",
+    "most_iconic_place": "Harajuku Gyoza-ro",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Pork",
+      "Chicken",
+      "Cabbage",
+      "Chives"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "wagashi",
+    "name": "Wagashi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 8,
+    "short_description": "Wagashi are traditional Japanese sweets that are usually made from natural, plant-based ingredients such as grains and azuki beans. The sweet treats are typically served with tea and are classified in...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c2f662d5258347ea834e49059431f30f.jpg?mw=660",
+    "most_iconic_place": "Jimbocho Den",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "shabu_shabu",
+    "name": "Shabu-shabu",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 9,
+    "short_description": "Shabu-shabu is a popular Japanese dish consisting of thinly sliced meat and vegetables cooked in water. The dish is an evolved version of the traditional Mongolian nabemono (one-pot) cooking. Roughly ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/20eb7a41894a457181057348f1314c1b.jpg?mw=660",
+    "most_iconic_place": "Hariju",
+    "most_iconic_location": "Osaka",
+    "ingredients": [
+      "Crab",
+      "Lobster",
+      "Beef",
+      "Lamb",
+      "Pork",
+      "Chicken"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dashi",
+    "name": "Dashi",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 10,
+    "short_description": "One of the fundamental ingredients in Japanese cuisine, dashi is a type of soup and cooking stock often used as the base for different miso and noodle soups, donburi or rice bowl dishes, stews and man...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b66666ff20a6494b92b7bc365c4c3d73.jpg?mw=660",
+    "most_iconic_place": "Nihonryori Ryugin",
+    "most_iconic_location": "Minato",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tonkatsu",
+    "name": "Tonkatsu",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 11,
+    "short_description": "The breaded, deep-fried pork cutlet tonkatsu is a Japanese dish with a very recent history. It first appeared at the end of the 19th century as a type of yoshoku — the Western-influenced Japanese dish...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bad3bf5847bc4dee9ad59f1d9ca84725.jpg?mw=660",
+    "most_iconic_place": "Katsukura",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [
+      "Pork",
+      "Flour",
+      "Breadcrumbs",
+      "Eggs",
+      "Oil and Animal Fat"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nigiri",
+    "name": "Nigiri",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 12,
+    "short_description": "Nigiri or nigirizushi is a special kind of hand-pressed sushi where the meat is sliced and pressed on top of sushi rice. It was developed in Tokyo (then called Edo) during the 1800s. Sometimes, nori s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f3abe602fe794beba2f00deee03dee9e.jpg?mw=660",
+    "most_iconic_place": "Sushi Dai",
+    "most_iconic_location": "Chūō",
+    "ingredients": [
+      "Uruchimai",
+      "Rice Vinegar",
+      "Eel",
+      "Octopus",
+      "Salmon",
+      "Tamagoyaki"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "miso_soup",
+    "name": "Miso Soup",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 13,
+    "short_description": "Miso soup is a traditional soy-based soup made from a stock called dashi, miso paste, and various additional ingredients such as seaweed or tofu. It is estimated that more than 70% of Japeanese people...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1d294997f74843978bb2d48c0f83c6e6.jpg?mw=660",
+    "most_iconic_place": "Tsunahachi",
+    "most_iconic_location": "Shinjuku",
+    "ingredients": [
+      "Dashi",
+      "Miso",
+      "Tofu",
+      "Scallions"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "teppanyaki",
+    "name": "Teppanyaki",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 14,
+    "short_description": "Teppanyaki is a Japanese technique of grilling a variety of ingredients on an iron plate. Its name is derived from two words: teppan or an iron plate, and yaki, meaning grilled or broiled. Teppanyaki ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/714f4dddec354c84aad21cadcb442148.jpg?mw=660",
+    "most_iconic_place": "Hakushu Teppanyaki",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "karē",
+    "name": "Karē",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Japanese-style curry known as karē is one of the most popular dishes in the country. It started gaining popularity in Japan during the Meiji period (1868-1912), when the British introduced it to the c...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/04159690147843cd861ad2afffdeed59.jpg?mw=660",
+    "most_iconic_place": "Garaku Soup Curry",
+    "most_iconic_location": "Sapporo",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kushiyaki",
+    "name": "Kushiyaki",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 16,
+    "short_description": "Kushiyaki is a Japanese technique that includes various skewered and grilled meat, seafood, or even vegetables and tofu. The ingredients are placed on bamboo skewers and are typically seasoned with ei...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7e145a4d60a442448a6904229912d12c.jpg?mw=660",
+    "most_iconic_place": "Toriki Main",
+    "most_iconic_location": "Shinagawa",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "yakisoba",
+    "name": "Yakisoba",
+    "local_name": null,
+    "category": "STIR-FRY",
+    "rank": 17,
+    "short_description": "Yakisoba is the Japanese variety of fried noodles. Originating from the Chinese chow main, these noodles are usually mixed with a variety of meat and vegetables. Japanese favorites are usually pork, c...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/730db49aee6c4842a719feec670e4709.jpg?mw=660",
+    "most_iconic_place": "Yakisoba Mikasa",
+    "most_iconic_location": "Chiyoda",
+    "ingredients": [
+      "Noodles",
+      "Pork",
+      "Cabbage",
+      "Onion",
+      "Carrot",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "daifuku",
+    "name": "Daifuku",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 18,
+    "short_description": "Daifuku, often referred to as daifukumochi, is a popular Japanese confectionery. It is usually shaped into small round balls, which consist of a chewy outer layer and a creamy, sweet filling. The daif...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ee0231e3bea14f5b9e33f2df4edcda7f.jpg?mw=660",
+    "most_iconic_place": "Demachi Futaba",
+    "most_iconic_location": "Kyoto",
+    "ingredients": [
+      "Mochi",
+      "Red Bean Paste",
+      "Chestnuts",
+      "Apricot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "teriyaki",
+    "name": "Teriyaki",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 19,
+    "short_description": "Teriyaki is a Japanese cooking technique in which the ingredients are broiled, roasted, or grilled after they have been marinated in teriyaki sauce, consisting of soy sauce, mirin, and sugar. The word...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2412f557af2d415cb8f177ee2a1cca62.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Beef",
+      "Chicken",
+      "Soy sauce",
+      "Mirin",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sukiyaki",
+    "name": "Sukiyaki",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 20,
+    "short_description": "Sukiyaki is the Japanese sweet and salty hot-pot meal. It is usually prepared tableside on a portable gas stove, in a traditional shallow iron pan. This popular Japanese dish is usually made with beef...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/100700d38f35404195401f13ce82c8aa.jpg?mw=660",
+    "most_iconic_place": "Mishima-tei",
+    "most_iconic_location": "Kyoto",
+    "ingredients": [
+      "Beef",
+      "Napa cabbage",
+      "Udon noodles",
+      "Mushrooms",
+      "Leek",
+      "Tofu"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "maki",
+    "name": "Maki",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 21,
+    "short_description": "Makizushi, meaning rolled sushi, is probably the most famous sushi variety. Invented in the 18th century, this type of sushi consists of nori, a sheet of dried seaweed, which is topped with a layer of...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2bb4319736414019b380970db57dac58.jpg?mw=660",
+    "most_iconic_place": "Sushi Tokami",
+    "most_iconic_location": "Chūō",
+    "ingredients": [
+      "Uruchimai",
+      "Rice Vinegar",
+      "Nori",
+      "Kombu",
+      "Eggs",
+      "Persian Cucumber"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaiseki",
+    "name": "Kaiseki",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 22,
+    "short_description": "Kaiseki is a traditional multi-course dinner that can consist from 6 to 15 different types of food, such as mukouzuke (sashimi), suimono (soup), kuchitori (a small side dish), shiizakana (appetizers a...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ece9d290038540eeb2b1da8742f01622.jpg?mw=660",
+    "most_iconic_place": "Tofuya Ukai",
+    "most_iconic_location": "Minato",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chashu",
+    "name": "Chashu",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 23,
+    "short_description": "Chashu is slowly braised pork belly, a staple Japanese dish infused with traditional flavors of soy sauce and sake. The dish can be made with flat pork belly, but the pieces can also be rolled to crea...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1c2e25d672c349f19a99b5afa06146a7.jpg?mw=660",
+    "most_iconic_place": "Tsuta",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [
+      "Pork Belly",
+      "Soy sauce",
+      "Sake",
+      "Ginger",
+      "Mirin",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tonkotsu_ramen",
+    "name": "Tonkotsu ramen",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 24,
+    "short_description": "Tonkotsu is a unique style of ramen consisting of an extremely rich, fatty pork broth, fresh noodles, soft-yolk eggs, and tender pork belly that melts in the mouth. It is so popular and special that i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5f6a4feb8f0b49198e11fd62fd6e0801.jpg?mw=660",
+    "most_iconic_place": "Ichiran Nakasu",
+    "most_iconic_location": "Fukuoka",
+    "ingredients": [
+      "Ramen Noodles",
+      "Pork Belly",
+      "Stock",
+      "Pork Fat",
+      "Eggs",
+      "Scallions"
+    ],
+    "is_active": true
+  }
+]

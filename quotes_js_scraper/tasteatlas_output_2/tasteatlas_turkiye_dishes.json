@@ -1,0 +1,448 @@
+[
+  {
+    "id": "börek",
+    "name": "Börek",
+    "local_name": null,
+    "category": "PHYLLO PASTRY",
+    "rank": 1,
+    "short_description": "Börek is a baked dish consisting of a savory or sweet filling wrapped in yufka - thinly stretched sheets of dough made with flour, water, and salt. Heartier than phyllo, but thinner than a tortilla, h...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/44cdf26d39234f5aa01b70030e4e848c.jpg?mw=660",
+    "most_iconic_place": "Nazar Borek & Cafe",
+    "most_iconic_location": "Göreme",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "dondurma",
+    "name": "Dondurma",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 2,
+    "short_description": "Turkish ice cream is believed to originate from the city of Maraş—hence the name—and what really sets it apart from other varieties is its resistance to melting and a particularly dense, chewy texture...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/83e4b029e24e4066964157d66b7e2a66.jpg?mw=660",
+    "most_iconic_place": "Mini Dondurma",
+    "most_iconic_location": "Beşiktaş",
+    "ingredients": [
+      "Masticha Chiou",
+      "Salep Flour",
+      "Milk",
+      "Sugar",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "köfte",
+    "name": "Köfte",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 3,
+    "short_description": "Kofta or köfte are walnut-sized fried meatballs, usually made from ground beef or lamb. It is a popular Turkish meze dish that is often prepared for special occasions and cocktail parties, since the m...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/152cb7ea0d3947b8bb61cec0428391ca.jpg?mw=660",
+    "most_iconic_place": "Develi Kebap",
+    "most_iconic_location": "Fatih",
+    "ingredients": [
+      "Beef",
+      "Lamb",
+      "Onion",
+      "Garlic",
+      "Rice",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sarma",
+    "name": "Sarma",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 4,
+    "short_description": "One of the staples of traditional Turkish cuisine, sarma consists of a filling that is snugly surrounded by leaves or leafy vegetables. There are numerous versions of this dish but the mixture typical...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/abbef07b6054405a8b2305db7beca93e.jpg?mw=660",
+    "most_iconic_place": "Hayvore",
+    "most_iconic_location": "Beyoğlu",
+    "ingredients": [
+      "Beef",
+      "Lamb",
+      "Pork",
+      "Cabbage",
+      "Grape Leaves",
+      "Chard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "baklava",
+    "name": "Baklava",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 5,
+    "short_description": "The remarkable baklava is a luscious dessert created with layers of thin phyllo dough intertwined with chopped nuts, all doused in a sweet, viscous syrup. The popularity of baklava has long surpassed ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/853d8bcd768b4c18bd880fb52e9d731b.jpg?mw=660",
+    "most_iconic_place": "Karaköy Güllüoğlu",
+    "most_iconic_location": "Beyoğlu",
+    "ingredients": [
+      "Wheat Flour",
+      "Pistachios",
+      "Walnuts",
+      "Hazelnuts",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "manti",
+    "name": "Manti",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 6,
+    "short_description": "Manti are traditional Turkish dumplings filled with spiced ground meat and onions. The dumplings are most commonly topped with a sauce consisting of yogurt and garlic. The name of the dish is derived ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8c2e1666bcd44cf3ae0bdc2e87383dec.jpg?mw=660",
+    "most_iconic_place": "Yeni Lokanta-Bar",
+    "most_iconic_location": "Beyoğlu",
+    "ingredients": [
+      "Wheat Flour",
+      "Beef",
+      "Lamb",
+      "Eggs",
+      "Olive Oil",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kahvaltı",
+    "name": "Kahvaltı",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 7,
+    "short_description": "Kahvaltı refers to breakfast in Turkish, and it's an essential and often lavish meal in Turkish culture. The word \"kahvaltı\" is derived from two words: \"kahve\" (coffee) and \"altı\" (under/before), whic...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/620086dee2304f7189f4da1f551bde83.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "açma",
+    "name": "Açma",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 8,
+    "short_description": "Açma is a type of Turkish pastry characterized by its soft and flaky texture. The soft dough is traditionally twisted and rolled up into a bagel, which can be made in a sweet or savory version. It con...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ffad43f4a6d14a5f9d93e2a970a64425.jpg?mw=660",
+    "most_iconic_place": "Simit Sarayi Istanbul",
+    "most_iconic_location": "Üsküdar",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Milk",
+      "Sugar",
+      "Eggs",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "döner_kebab",
+    "name": "Döner kebab",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 9,
+    "short_description": "Döner kebab is a delicacy that is known throughout the world, consisting of grilled pieces of meat that are shredded from a vertical skewer. The meat is typically seasoned with fresh herbs and spices....",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1681a82d605f4791963eb268acf0978d.jpg?mw=660",
+    "most_iconic_place": "Dönerci Şahin Usta",
+    "most_iconic_location": "Fatih",
+    "ingredients": [
+      "Lamb",
+      "Animal Fat",
+      "Yogurt",
+      "Milk",
+      "Onion",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dolma",
+    "name": "Dolma",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 10,
+    "short_description": "Dolma is Türkiye's national dish, and it signifies any sort of vegetable stuffed with a mixture based on rice. For traditional dolma, grape leaves are stuffed with rice and ground meat. Stuffed leaves...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c8d5d2e5fa794c94a69cb801ffd61279.jpg?mw=660",
+    "most_iconic_place": "Hacı Abdullah Lokantası",
+    "most_iconic_location": "Beyoğlu",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Lamb",
+      "Grape Leaves",
+      "Bell Pepper",
+      "Eggplant",
+      "Zucchini"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "muhallebi",
+    "name": "Muhallebi",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 11,
+    "short_description": "Muhallebi is a milk-based dessert widely known across the Middle East, Eastern Mediterranean, and North Africa. It is a smooth, lightly sweetened pudding made from milk thickened with rice flour, corn...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6b2a4d24ad8445d19d03df8b5cae3595.jpg?mw=660",
+    "most_iconic_place": "Hafız Mustafa",
+    "most_iconic_location": "Fatih",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lokum",
+    "name": "Lokum",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Lokum are succulent, sugary cubes from Türkiye based on a gel of starch and sugar. Traditionally, lokum is flavored with rose water, lemon, bergamot orange, mastic, or mint, but the Turkish favorite r...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/27dcb45d5ac241bfade8a23b64e89a47.jpg?mw=660",
+    "most_iconic_place": "Hafız Mustafa",
+    "most_iconic_location": "Fatih",
+    "ingredients": [
+      "Corn Starch",
+      "Sugar",
+      "Lemon",
+      "Rose Water",
+      "Gelatin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kokoreç",
+    "name": "Kokoreç",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 13,
+    "short_description": "Kokoreç is a traditional dish that's also popular in other countries, especially in Greece, where it's known as kokoretsi. However, there are some differences between the Turkish and Greek versions. I...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/06cbbf866e144881aedb6af66f67603f.jpg?mw=660",
+    "most_iconic_place": "Kral Kokoreç",
+    "most_iconic_location": "Fatih",
+    "ingredients": [
+      "Lamb Intestine",
+      "Lamb Sweetbreads",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "adana_kebap",
+    "name": "Adana kebap",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 14,
+    "short_description": "Adana kebap is a popular skewered meat dish named after one of the most famous kebab cities in the country, Adana. This kebab is made with ground lamb and tail fat that are kneaded together with garli...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3ab81ec46f604f85bcc3cc51fd17c446.jpg?mw=660",
+    "most_iconic_place": "Zübeyir Ocakbaşı",
+    "most_iconic_location": "Beyoğlu",
+    "ingredients": [
+      "Ground Lamb",
+      "Garlic",
+      "Onion",
+      "Paprika",
+      "Red Chili Flakes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "şiş_tavuk",
+    "name": "Şiş tavuk",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 15,
+    "short_description": "Other than serving styles and accompanying ingredients, there really isn't much difference between this Turkish classic and Arab shawarma, or Greek gyros, as all three preparations include barbecued m...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/792b3e6bd0214314b3b6c52d7f0d460d.jpg?mw=660",
+    "most_iconic_place": "Ejder Restaurant",
+    "most_iconic_location": "Selçuk",
+    "ingredients": [
+      "Chicken",
+      "Yogurt",
+      "Lemon",
+      "Garlic",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gözleme",
+    "name": "Gözleme",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 16,
+    "short_description": "Gözleme is a Turkish flatbread consisting of flour, water, yeast, olive oil, and yogurt, which prevents the flatbread from going too brittle. The dough is filled with ingredients such as meat, vegetab...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c9f0bca2ce064ba5a36377efe307846a.jpg?mw=660",
+    "most_iconic_place": "Nazar Borek & Cafe",
+    "most_iconic_location": "Göreme",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Olive Oil",
+      "Yogurt",
+      "Salt",
+      "Spinach"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "aşure",
+    "name": "Aşure",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 17,
+    "short_description": "Aşure or Noah's pudding is often said to be one of the oldest desserts in the world. Though the exact combination of fruits, nuts, and beans can vary, aşure is most typically prepared with dried figs ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/02ebb18fce0048f58f4450b794a713fb.jpg?mw=660",
+    "most_iconic_place": "Saray Muhallebicisi",
+    "most_iconic_location": "Beyoğlu",
+    "ingredients": [
+      "Dried Figs",
+      "Dried Apricots",
+      "Raisins",
+      "Currants",
+      "Hazelnuts",
+      "Pine Nuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bazlama",
+    "name": "Bazlama",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 18,
+    "short_description": "Bazlama is a Turkish flatbread that is traditionally cooked in an outdoor oven and served warm. It consists of flour, water, sugar, salt, yeast, and yogurt. During baking, bazlama is regularly flipped...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ce1af18597c74969ac4d31fc4b4241af.jpg?mw=660",
+    "most_iconic_place": "Zenger Paşa Konağı",
+    "most_iconic_location": "Ankara",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Yogurt",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yufka",
+    "name": "Yufka",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 19,
+    "short_description": "Yufka is a traditional flatbread consisting of flour, water, salt, and olive oil. The unleavened dough is typically rolled with a rolling pin until it develops a paper-thin consistency. It is believed...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f1a5d23f726f405c95d99dd4ca5350b9.jpg?mw=660",
+    "most_iconic_place": "Bebek Yufkacısı",
+    "most_iconic_location": "Beşiktaş",
+    "ingredients": [
+      "Wheat Flour",
+      "Olive Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kısır",
+    "name": "Kısır",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 20,
+    "short_description": "Kısır is a classic Turkish salad made with thin bulgur wheat, tomatoes, mint, garlic, parsley, and either lemon juice or sour pomegranate molasses. Red pepper flakes are often added to the salad to ma...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a059299f166947aea0713365de44f0af.jpg?mw=660",
+    "most_iconic_place": "Yeni Lokanta-Bar",
+    "most_iconic_location": "Beyoğlu",
+    "ingredients": [
+      "Bulgur",
+      "Tomato",
+      "Lemon",
+      "Pomegranate Molasses",
+      "Mint",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "katmer",
+    "name": "Katmer",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 21,
+    "short_description": "A type of sweet börek, katmer is a specialty of Gaziantep, or simply Antep – Türkiye's gastronomic capital and a rich melting pot of diverse cultures and cuisines nestled in southeastern Anatolia – an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1cf6cc2aa8964235ae8e1cf1e4a2907e.jpg?mw=660",
+    "most_iconic_place": "Katmerci Zekeriya Usta",
+    "most_iconic_location": "Şahinbey",
+    "ingredients": [
+      "Wheat Flour",
+      "Pistachios",
+      "Kaymak",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kuru_fasulye",
+    "name": "Kuru fasulye",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 22,
+    "short_description": "This traditional Turkish white bean stew is a staple in virtually every household and lokanta—an establishment serving simple but hearty meals to people on the go. Kuru fasulye translates to dried bea...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a990788a712a4057a2e2a44bcb11c412.jpg?mw=660",
+    "most_iconic_place": "Erzincanlı Ali Baba",
+    "most_iconic_location": "Fatih",
+    "ingredients": [
+      "White Beans",
+      "Onion",
+      "Tomato",
+      "Bell Pepper",
+      "Tomato Paste",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tulumba",
+    "name": "Tulumba",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 23,
+    "short_description": "Turkish tulumba is a hot water dough fritter traditionally found in the cuisines of the former Ottoman Empire, particularly throughout the Middle East and the Balkans. Even though tulumba (lit. pump) ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4dae2a53d3cd48c09ff7d3e83aa790f8.jpg?mw=660",
+    "most_iconic_place": "Osmanlı Tulumbacısı",
+    "most_iconic_location": "İzmit",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Vanilla",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cacık",
+    "name": "Cacık",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 24,
+    "short_description": "Found in various forms throughout cuisines of Southeast Europe and the Middle East, cacık is a refreshing Turkish dip made with strained or diluted yogurt mixed with finely chopped cucumbers and mince...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fa12d2d0f351446294d495872cd5cc28.jpg?mw=660",
+    "most_iconic_place": "Zübeyir Ocakbaşı",
+    "most_iconic_location": "Beyoğlu",
+    "ingredients": [
+      "Yogurt",
+      "Cucumber",
+      "Garlic",
+      "Olive Oil",
+      "Dill",
+      "Mint"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,453 @@
+[
+  {
+    "id": "irish_stew",
+    "name": "Irish stew",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 1,
+    "short_description": "Irish stew is a traditional folk stew that first appeared at the beginning of the 19th century and was developed out of necessity to make a meal out of available, leftover ingredients. Originally, the...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fe32bd8639c349b4823d4faca4ea2321.jpg?mw=660",
+    "most_iconic_place": "The Boxty House",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Mutton",
+      "Lamb",
+      "Potatoes",
+      "Carrot",
+      "Onion",
+      "Parsnip"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bacon_and_cabbage",
+    "name": "Bacon and cabbage",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 2,
+    "short_description": "Bacon and cabbage is a classic Irish dish consisting of cured pork served with boiled cabbage and potatoes. It is rooted in the farming culture of Ireland, where pigs were a common household animal an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7ebf3274c4184f9f9367f427c9d31e99.jpg?mw=660",
+    "most_iconic_place": "The Stag's Head",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Cabbage",
+      "Potatoes",
+      "Carrot",
+      "Onion",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "colcannon",
+    "name": "Colcannon",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 3,
+    "short_description": "Colcannon is an Irish dish made from mashed potatoes combined with cabbage or kale, often enriched with butter, milk, and sometimes scallions. It comes from the rural cooking of Ireland, where potatoe...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/126938dd5bb34caf91d7d16002d5ee32.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Potatoes",
+      "Kale",
+      "Cabbage",
+      "Scallions",
+      "Onion",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "soda_bread",
+    "name": "Soda bread",
+    "local_name": null,
+    "category": "SODA BREAD",
+    "rank": 4,
+    "short_description": "Soda bread is a type of quick bread from Ireland that is made without yeast, relying instead on the reaction between baking soda and acidic buttermilk to create its rise. Although this type of bread h...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9b722487b60045868975824dea99f3c4.jpg?mw=660",
+    "most_iconic_place": "Moran's Oyster Cottage",
+    "most_iconic_location": "Kilcolgan",
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Soda",
+      "Buttermilk",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "irish_breakfast",
+    "name": "Irish breakfast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 5,
+    "short_description": "Irish breakfast is a traditional meal consisting of fried eggs, vegetables, potatoes, and meats such as bacon, sausages, and both black and white puddings. The large meal is almost always served with ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1e5990fa16cd4b549cdeb81f9e4bb154.jpg?mw=660",
+    "most_iconic_place": "Hatch and Sons",
+    "most_iconic_location": "Dublin",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "beef_and_guinness_stew",
+    "name": "Beef and Guinness stew",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "Beef and Guinness stew is a slow-cooked meat dish from Ireland that brings together the depth of stout beer with the richness of braised beef. Its roots are connected to rural cooking, where hearty st...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0ad5926ff6414c18b19c9a635f2dfcea.jpg?mw=660",
+    "most_iconic_place": "The Brazen Head",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Beef",
+      "Guinness Draught",
+      "Potatoes",
+      "Onion",
+      "Carrot",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boxty",
+    "name": "Boxty",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 7,
+    "short_description": "Boxty is an Irish potato pancake that comes from the northern and midland counties of Ireland, where potatoes have long been central to the diet. It is essentially a type of pancake or flatbread made ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8940621f31644ae7ab4ae0bc24e6b9e3.jpg?mw=660",
+    "most_iconic_place": "The Boxty House",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Potatoes",
+      "Wheat Flour",
+      "Buttermilk",
+      "Baking Soda",
+      "Butter",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "white_pudding",
+    "name": "White pudding",
+    "local_name": null,
+    "category": "WHITE SAUSAGE",
+    "rank": 8,
+    "short_description": "White pudding is a type of sausage found mainly in Ireland and Scotland, known for its pale color and hearty ingredients. It shares some similarities with black pudding, but the defining difference is...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0e15da264eb74c32abd5a73c2c7f51b2.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Oatmeal",
+      "Breadcrumbs",
+      "Onion",
+      "Nutmeg",
+      "Suet"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "putóg_dhubh",
+    "name": "Putóg dhubh",
+    "local_name": null,
+    "category": "BLOOD SAUSAGE",
+    "rank": 9,
+    "short_description": "Black pudding is a type of blood sausage that originates from the British Isles, though similar versions exist across Europe. It is made by combining pig’s blood with fat or suet and a filler such as ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/eaf3beb88ea948409201c58475b5fb8f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pig’s Blood",
+      "Oats",
+      "Onion",
+      "Lard",
+      "Allspice",
+      "Coriander Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "breakfast_roll",
+    "name": "Breakfast roll",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 10,
+    "short_description": "The breakfast roll is a popular Irish food that brings together the elements of a full cooked breakfast inside a bread roll, usually a soft baguette-style bap or long white roll. It comes from Ireland...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a3d5c1930fa1416b8b1b193c66c11eb6.jpg?mw=660",
+    "most_iconic_place": "Ger's Deli",
+    "most_iconic_location": "Dublin",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "beef_and_guinness_pie",
+    "name": "Beef and Guinness pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 11,
+    "short_description": "Beef and Guinness pie is a savory dish from Ireland, made by slow-cooking beef with onions, carrots, and herbs in a rich sauce built on the dark, malty character of Guinness stout, then sealing the fi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fdd85eac172344e3af7aaa9ae5cdce83.jpg?mw=660",
+    "most_iconic_place": "The Ginger Man",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Beef",
+      "Guinness Draught",
+      "Onion",
+      "Carrot",
+      "Bay Leaves",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "irish_brown_bread",
+    "name": "Irish brown bread",
+    "local_name": null,
+    "category": "SODA BREAD",
+    "rank": 12,
+    "short_description": "Irish brown bread is a staple loaf from Ireland, made with coarse wholemeal flour, baking soda, and buttermilk, giving it a dense texture and a distinctively nutty flavor. It grew out of the need for ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/138bea90e95040f4a9ddb3c185eca44f.jpg?mw=660",
+    "most_iconic_place": "Moran's Oyster Cottage",
+    "most_iconic_location": "Kilcolgan",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Wheat Flour",
+      "Baking Soda",
+      "Salt",
+      "Butter",
+      "Buttermilk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "irish_seafood_chowder",
+    "name": "Irish seafood chowder",
+    "local_name": null,
+    "category": "CHOWDER",
+    "rank": 13,
+    "short_description": "Irish seafood chowder is a hearty soup that comes from the coastal communities of Ireland, where the Atlantic Ocean has long provided an abundance of fish and shellfish. It is a dish shaped by geograp...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8f1d76f15bd1467c840d26cdfe0c4e60.jpg?mw=660",
+    "most_iconic_place": "O'Dowd's Seafood Bar and Restaurant",
+    "most_iconic_location": "Roundstone",
+    "ingredients": [
+      "White Fish",
+      "Shellfish",
+      "Potatoes",
+      "Onion",
+      "Leek",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stout_and_raw_oysters",
+    "name": "Stout and raw oysters",
+    "local_name": null,
+    "category": "OYSTER DISH",
+    "rank": 14,
+    "short_description": "Stout and raw oysters form a pairing that is most closely associated with Ireland, where the dark, roasted flavors of the beer meet the briny freshness of the shellfish in a combination that has been ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/52a3fce2b35f4542a2b38920ce0402c2.jpg?mw=660",
+    "most_iconic_place": "1837 Bar & Brasserie",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Oysters",
+      "Stout"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mussels_in_cream",
+    "name": "Mussels in cream",
+    "local_name": null,
+    "category": "MUSSEL DISH",
+    "rank": 15,
+    "short_description": "Irish mussels in cream are a dish rooted in the island’s coastal food culture, where seafood and dairy have long been at the heart of daily cooking. Along the shores of Galway Bay, Killary Harbour, an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/08e4d279c0be41a0b1a7f10467b6d978.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Mussels",
+      "Heavy Cream",
+      "Shallots",
+      "Garlic",
+      "Butter",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "goody",
+    "name": "Goody",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "Goody is an Irish dish made from bread, milk, sugar, and spices, and it has long been part of the country’s domestic cooking. Its roots lie in a time when ingredients were limited and simplicity was n...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/48a6e6cde5214eec9eb6f581a17fa333.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bread",
+      "Cinnamon",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dublin_coddle",
+    "name": "Dublin coddle",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 17,
+    "short_description": "Dublin coddle is a hearty Irish stew-like dish that comes from the capital city, where it has been part of home cooking since 1700s. It is made by layering sausages, bacon, onions, and potatoes in a p...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/37538eeb9dce4b3791381bbabcadfc4a.jpg?mw=660",
+    "most_iconic_place": "John Kavanagh - The Gravediggers",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Cooked Sausage",
+      "Potatoes",
+      "Onion",
+      "Beef Stock",
+      "Chicken Stock"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "barmbrack",
+    "name": "Barmbrack",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 18,
+    "short_description": "Barmbrack is a fruit loaf from Ireland that is most closely associated with the autumn season and in particular with Halloween, where it has long been part of festive tables. Its origins go back centu...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8fb7c030d6d249b7b0a2217e2abd8a6e.jpg?mw=660",
+    "most_iconic_place": "Hickeys Bakery",
+    "most_iconic_location": "Clonmel",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Dried Fruit",
+      "Black tea",
+      "Baking Powder",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spice_bag",
+    "name": "Spice bag",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 19,
+    "short_description": "The spice bag is an Irish fast-food dish made with fried chicken, chips, vegetables, and a bold spice blend, usually served together in a paper bag. It originated in Dublin in the mid-2010s, introduce...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d4460cccab654dae983d02d981625603.jpg?mw=660",
+    "most_iconic_place": "Sunflower Chinese Takeaway",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Chicken",
+      "Potatoes",
+      "Onion",
+      "Bell Pepper",
+      "Hot Peppers",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "skate_in_brown_butter",
+    "name": "Skate in brown butter",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 20,
+    "short_description": "Skate in brown butter is a dish rooted in the country’s coastal cooking, where skate wings have long been valued as part of the daily catch. Along the Atlantic seaboard, from Kerry to Galway, fisherme...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7b03d7c001db49b9ad9323bf53cf39f1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Skate",
+      "Onion",
+      "Capers",
+      "Parsley",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "potato_leek_and_chicken_pie",
+    "name": "Potato, leek, and chicken pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 21,
+    "short_description": "Potato, leek, and chicken pie is a savory dish from Ireland, where pies have long been a central part of both everyday and celebratory meals. Its origins are tied to the broader European tradition of ...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Potatoes",
+      "Leek",
+      "Wheat Flour",
+      "Butter",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "waterford_blaa",
+    "name": "Waterford blaa",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 22,
+    "short_description": "Waterford blaa is a soft, white bread roll from Waterford, known for its light texture, flour-dusted crust and slightly chewy interior. It is deeply woven into the city’s baking heritage and reflects ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4bbe99f553f244f9a87b1b047ee6755d.jpg?mw=660",
+    "most_iconic_place": "No. 9 Café",
+    "most_iconic_location": "Waterford",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "corned_beef_boxty",
+    "name": "Corned beef boxty",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 23,
+    "short_description": "Corned beef boxty is an Irish dish that combines two elements strongly associated with the country’s food culture: the potato-based pancake known as boxty and the cured meat that became popular in Iri...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": "The Boxty House",
+    "most_iconic_location": "Dublin",
+    "ingredients": [
+      "Potatoes",
+      "Corned Beef",
+      "Wheat Flour",
+      "Baking Powder",
+      "Butter",
+      "Buttermilk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gur_cake",
+    "name": "Gur cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 24,
+    "short_description": "Gur cake is a spiced fruit slice originating from Dublin, made from leftover bread, dried fruit, sugar, and pastry. It consists of a thick, dark filling sandwiched between two layers of shortcrust pas...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/50fc5e2491764f35921eb033adcf3456.jpg?mw=660",
+    "most_iconic_place": "Barron's Bakery & Coffee House",
+    "most_iconic_location": "Cappoquin",
+    "ingredients": [
+      "Bread",
+      "Dried Fruit",
+      "Wheat Flour",
+      "Butter",
+      "Tea"
+    ],
+    "is_active": true
+  }
+]

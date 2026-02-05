@@ -1,0 +1,81 @@
+[
+  {
+    "id": "barbagiuan",
+    "name": "Barbagiuan",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 1,
+    "short_description": "Barbagiuan is the national dish of Monaco, a deep-fried pastry fritter that is usually filled with Swiss chard, spinach, ricotta cheese, or pumpkin. It is traditionally served as an appetizer both in ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/192f7bd99ede4fa082172599a9da8dfd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Olive Oil",
+      "Salt",
+      "Onion",
+      "Leek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stocafi",
+    "name": "Stocafi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Stocafi is a local delicacy from Monaco. The dish consists of dried cod that is stewed in tomato sauce flavored with garlic, capers, bay leaves, and black olives. Before the preparation, dried cod sho...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lou_fassum",
+    "name": "Lou fassum",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 3,
+    "short_description": "Lou fassum is a stuffed cabbage specialty from Grasse, made by wrapping seasoned pork and vegetable filling in blanched cabbage leaves and slowly poaching the entire bundle in aromatic broth until ten...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Grasse",
+    "ingredients": [
+      "Cabbage",
+      "Rice",
+      "Dry-cured Ham",
+      "Bacon",
+      "Salt Pork",
+      "Peas"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tomates_à_la_monegasque",
+    "name": "Tomates à la Monegasque",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 4,
+    "short_description": "Tomates à la Monegasque is a traditional dish hailing from Monaco. The dish consists of stuffed tomatoes and it's made with a combination of big tomatoes, hard-boiled eggs, tuna, mustard, mayonnaise, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a4d2055ead0d4327aac25a355b91bc5a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "oignons_monégasque",
+    "name": "Oignons Monégasque",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 5,
+    "short_description": "Oignons Monégasque is a dish from Monaco that can be served as a snack, side dish, or an appetizer. It is prepared by sautéeing small pickling onions and combining them with wine vinegar, tomato paste...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

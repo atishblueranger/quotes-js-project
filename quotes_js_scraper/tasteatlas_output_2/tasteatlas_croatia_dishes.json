@@ -1,0 +1,686 @@
+[
+  {
+    "id": "brudet",
+    "name": "Brudet",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 1,
+    "short_description": "Brudet is one of the true classics of traditional Croatian cuisine. Prepared with a variety of seafood, this rustic stew is consumed along the entire Croatian coast. It is nearly impossible to find a ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/80be02b5400848c5ba190ed280283da0.jpg?mw=660",
+    "most_iconic_place": "Konoba Senko Karuza",
+    "most_iconic_location": "Marinje Zemlje",
+    "ingredients": [
+      "White Fish",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Bay Leaves",
+      "Rosemary"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "štrukli",
+    "name": "Štrukli",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 2,
+    "short_description": "Štrukli is a rather simple 'pulled pasta' dish, which, depending on the type of filling, can be either savory or sweet. Once the dough has been pulled, filled, and rolled, it is cut into smaller piece...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5ba5ea4678cf4940a0f19356a560becf.jpg?mw=660",
+    "most_iconic_place": "Le Bistro Esplanade",
+    "most_iconic_location": "Zagreb",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Vinegar",
+      "Butter",
+      "Sour Cream",
+      "Cottage Cheese"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mađarica",
+    "name": "Mađarica",
+    "local_name": null,
+    "category": "CHOCOLATE CAKE",
+    "rank": 3,
+    "short_description": "Mađarica, meaning Hungarian girl, is a traditional layered cake that is usually associated with festive occasions. The layers are coated in a velvety, chocolate-infused cream, and the whole cake is fi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8b74be2d6e44998977c7c19312dd211.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Chocolate",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Powdered Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kotlovina",
+    "name": "Kotlovina",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 4,
+    "short_description": "Kotlovina is a traditional dish made by cooking various types of meat, sausages, and vegetables in a large, shallow plate that is placed over an open fire. The dish is typically prepared outdoors, oft...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/01a5ceeeb6844a0b884265425bc3e0b4.jpg?mw=660",
+    "most_iconic_place": "Seoski Turizam Kezele",
+    "most_iconic_location": "Graberje Ivanićko",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "peka",
+    "name": "Peka",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 5,
+    "short_description": "Peka or sać is an ancient technique of preparing various dishes inside the eponymous bell-shaped cooking vessel. The technique is mostly used for the preparation of meat, vegetables, or seafood that a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8d7bdd99abe48beb62cb1e2c57dad3a.jpg?mw=660",
+    "most_iconic_place": "Roki's",
+    "most_iconic_location": "Vis",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "dalmatinska_pašticada",
+    "name": "Dalmatinska pašticada",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "Dalmatinska pašticada is a traditional Dalmatian dish consisting of beef (the traditional cut used being frikando, the toughest part of beef round) that is marinated in vinegar and spices for up to a ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b0f48984d22a4a289becd28c785dc0ef.jpg?mw=660",
+    "most_iconic_place": "Konoba Hvaranin",
+    "most_iconic_location": "Split",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Garlic",
+      "Celery",
+      "Bacon",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fritule",
+    "name": "Fritule",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 7,
+    "short_description": "Fritule are traditional Croatian version of sweet, round fritters. They are prepared with a basic yeasted dough which incorporates eggs, flour, milk, butter, and sugar. Different varieties often emplo...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/23ee053fc47a49a0b9f26c4715358038.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Dalmatia",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Butter",
+      "Sugar",
+      "Baking Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gradele",
+    "name": "Gradele",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 8,
+    "short_description": "Originating from the Croatian coast, gradele is a traditional way of grilling fresh fish over an open fire. Although fish is the most common option, meat and snails can also be prepared in the same wa...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e853579f636549ce997cde2cee8fe3ee.jpg?mw=660",
+    "most_iconic_place": "Restoran Tač",
+    "most_iconic_location": "Zagreb",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "čobanac",
+    "name": "Čobanac",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 9,
+    "short_description": "Čobanac is a traditional meat stew originating from Slavonia and Baranja, located in the eastern part of Croatia. The dish is traditionally prepared by slowly cooking all of the ingredients for severa...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a4e2f2a85aa445968dcaf1159bcea9b1.jpg?mw=660",
+    "most_iconic_place": "Restoran Kormoran",
+    "most_iconic_location": "Bilje",
+    "ingredients": [
+      "Veal",
+      "Pork",
+      "Game Meat",
+      "Onion",
+      "Carrot",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "buzara",
+    "name": "Buzara",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 10,
+    "short_description": "Buzara is a Croatian technique of preparing seafood by cooking it in a mixture of olive oil, wine, garlic, fresh herbs (usually parsley), and (sometimes) breadcrumbs. This method of preparation create...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/546664cc0c4c41a896ede3791fc51cd1.jpg?mw=660",
+    "most_iconic_place": "Seosko Domaćinstvo Ficović",
+    "most_iconic_location": "Ston",
+    "ingredients": [
+      "Seafood",
+      "Tomato",
+      "Garlic",
+      "Parsley",
+      "Breadcrumbs",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "burek_sa_sirom",
+    "name": "Burek sa sirom",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 11,
+    "short_description": "Burek sa sirom is a phyllo pastry that is round or coil-shaped and filled with a mixture of cheese and eggs. The dough is made with flour, salt, and water (and perhaps a bit of oil) and stretched into...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7ab6da0d3d1640fbb1209fc496050353.jpg?mw=660",
+    "most_iconic_place": "Vrući Burek Kvatrić",
+    "most_iconic_location": "Zagreb",
+    "ingredients": [
+      "Cottage Cheese",
+      "Wheat Flour",
+      "Sunflower Oil",
+      "Eggs",
+      "Sparkling Mineral Water",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "punjena_paprika",
+    "name": "Punjena paprika",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 12,
+    "short_description": "Punjena paprika is a ground meat dish that's prepared in many variations across the Balkans, in countries such as Croatia, Bosnia, Slovenia, Serbia, and Hungary, among others. The dish consists of bel...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0f4fb630f3c44a30a453e746caa6c46c.jpg?mw=660",
+    "most_iconic_place": "Okrugljak",
+    "most_iconic_location": "Zagreb",
+    "ingredients": [
+      "Pork",
+      "Veal",
+      "Bell Pepper",
+      "Rice",
+      "Onion",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spit_roasted_lamb_janjetina_s_ražnja",
+    "name": "Spit-roasted lamb (Janjetina s ražnja)",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 13,
+    "short_description": "Janjetina s ražnja is a popular Dalmatian dish made by roasting a whole lamb on a spit. It is roasted over an open fire until the skin becomes crispy and golden-brown in color. Before roasting, the la...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3cb65d28253f4b7ca6de612bcf91ad9e.jpg?mw=660",
+    "most_iconic_place": "Restoran Perlica",
+    "most_iconic_location": "Klis",
+    "ingredients": [
+      "Lamb",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "risotto_with_cuttlefish_ink_crni_rižot",
+    "name": "Risotto with cuttlefish ink (Crni rižot)",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 14,
+    "short_description": "Typically served as a light lunch and a staple of many Dalmatian taverns (called konoba) and restaurants, crni rižot is a unique black risotto made with fresh squid or cuttlefish. Squid or cuttlefish ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ccd1cbc574e641cc8ab6f900910f6491.jpg?mw=660",
+    "most_iconic_place": "Kapetanova Kuća",
+    "most_iconic_location": "Mali Ston",
+    "ingredients": [
+      "Carnaroli",
+      "Arborio",
+      "Cuttlefish Ink",
+      "Cuttlefish",
+      "Mussels",
+      "Clams"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "skewers_ražnjići",
+    "name": "Skewers (Ražnjići)",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 15,
+    "short_description": "Ražnjići are a popular type of grilled meat skewer from the Balkan region, particularly in countries like Serbia, Croatia, Bosnia and Herzegovina, and Montenegro. The word \"raž...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/350031c65e3a49cfb8b561bae9842939.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Lamb",
+      "Chicken",
+      "Pork",
+      "Paprika",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "krafne",
+    "name": "Krafne",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 16,
+    "short_description": "Krapfen was probably the first European-style doughnut to appear, followed by similar varieties in other countries. These pastries are traditionally prepared with leavened dough that is deep-fried unt...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5d7bb143eccb46dcba3e9a5f08c4e150.jpg?mw=660",
+    "most_iconic_place": "Krafne kod Mate",
+    "most_iconic_location": "Split",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "poljički_soparnik",
+    "name": "Poljički soparnik",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 17,
+    "short_description": "Soparnik, zeljanik, or uljenjak is a simple pie filled with vegetables. It is traditionally made in the Poljica region in Dalmatia with the simplest possible dough consisting of flour, salt, and water...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/051416452bb649bab2bbc4aca4cc13ac.jpg?mw=660",
+    "most_iconic_place": "OPG Ivanka Radmilo",
+    "most_iconic_location": "Gata",
+    "ingredients": [
+      "Wheat Flour",
+      "Chard",
+      "Red Onion",
+      "Garlic",
+      "Parsley",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "octopus_under_the_bell_hobotnica_ispod_peke",
+    "name": "Octopus under the bell (Hobotnica ispod peke)",
+    "local_name": null,
+    "category": "OCTOPUS DISH",
+    "rank": 18,
+    "short_description": "Hobotnica ispod peke is a popular Dalmatian dish made by slowly cooking a fresh, whole octopus in its juices under a big, traditional, bell-like lid called peka. The octopus is often flavored with aro...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/540defaee8fb4a04805ccd27030881fa.jpg?mw=660",
+    "most_iconic_place": "Roki's",
+    "most_iconic_location": "Vis",
+    "ingredients": [
+      "Octopus",
+      "Potatoes",
+      "Carrot",
+      "Onion",
+      "Garlic",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sataraš",
+    "name": "Sataraš",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 19,
+    "short_description": "Sataraš is a vegetable stew made with a combination of tomatoes, peppers, onions, garlic, and parsley. The ingredients are first fried, then seasoned with salt and pepper and gently stewed. It is reco...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a5cbe22923784e9a9e656ad9ca1409e5.jpg?mw=660",
+    "most_iconic_place": "Hotel Dunav",
+    "most_iconic_location": "Ilok",
+    "ingredients": [
+      "Tomato",
+      "Bell Pepper",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "octopus_salad_salata_od_hobotnice",
+    "name": "Octopus salad (Salata od hobotnice)",
+    "local_name": null,
+    "category": "OCTOPUS DISH",
+    "rank": 20,
+    "short_description": "Salata od hobotnice is a traditional octopus salad originating from Dalmatia, but it's very popular throughout the country, especially on Christmas Eve and during the summer. Although there are many v...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ee59f1a4a5154d7ba89818cfc00dcbd5.jpg?mw=660",
+    "most_iconic_place": "Pet Bunara",
+    "most_iconic_location": "Zadar",
+    "ingredients": [
+      "Octopus",
+      "Potatoes",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fuži_s_tartufima",
+    "name": "Fuži s tartufima",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 21,
+    "short_description": "Fuži s tartufima is one of the most popular Istrian specialties – a delightful combination of traditional fuži pasta and the famous Istrian truffles. However, one should be careful when ordering the d...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b566ce275eb74f47ae0f8eeb02282e55.jpg?mw=660",
+    "most_iconic_place": "Konoba Dolina",
+    "most_iconic_location": "Gradinje",
+    "ingredients": [
+      "Fuži",
+      "Black Périgord truffle",
+      "Istrian white truffle",
+      "Butter",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fish_paprikash_fiš_paprikaš",
+    "name": "Fish paprikash (Fiš paprikaš)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 22,
+    "short_description": "Fiš paprikaš (or hal paprikas in Hungary, with the addition of sour cream) is a traditional stew cooked in a big cauldron over an open fire. This spicy fish stew is traditionally made with a variety o...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/719883b396f44d41bf9491521cebe48f.jpg?mw=660",
+    "most_iconic_place": "Citadela",
+    "most_iconic_location": "Vardarac",
+    "ingredients": [
+      "Carp",
+      "Catfish",
+      "Northern Pike",
+      "Paprika",
+      "Hot Peppers",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sarma",
+    "name": "Sarma",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 23,
+    "short_description": "One of the staples of traditional Turkish cuisine, sarma consists of a filling that is snugly surrounded by leaves or leafy vegetables. There are numerous versions of this dish but the mixture typical...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/abbef07b6054405a8b2305db7beca93e.jpg?mw=660",
+    "most_iconic_place": "Stari Fijaker",
+    "most_iconic_location": "Zagreb",
+    "ingredients": [
+      "Beef",
+      "Lamb",
+      "Pork",
+      "Cabbage",
+      "Grape Leaves",
+      "Chard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pinca",
+    "name": "Pinca",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 24,
+    "short_description": "Sweet and fragrant, pinca is a traditional Easter bread. This incredibly rich pastry is made with yeasted dough consisting of flour, eggs, and butter, and it is usually shaped into a large round loaf....",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/64bef70fd8a2459498fbcf1f5452bfdd.jpg?mw=660",
+    "most_iconic_place": "Slastičarnica Tradicija Kirigin",
+    "most_iconic_location": "Split",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "maneštra",
+    "name": "Maneštra",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 25,
+    "short_description": "Istrian maneštra is a Croatian take on the popular Italian minestrone soup. This hearty and thick stew-like soup is made with dried meat, beans, and spring corn. There are numerous variations on the d...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ed18e31fa11440f2bfbbb8a08e8e00d7.jpg?mw=660",
+    "most_iconic_place": "Alla Beccaccia",
+    "most_iconic_location": "Valbandon",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "krpice_sa_zeljem",
+    "name": "Krpice sa zeljem",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 26,
+    "short_description": "Krpice sa zeljem is an old Croatian dish that is traditionally prepared in the northern parts of the country. It is prepared by combining cabbage, onions, and seasonings (especially black pepper) with...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c21ff40ada7048359a1c5f1f65322aef.jpg?mw=660",
+    "most_iconic_place": "Gostionica Ficlek",
+    "most_iconic_location": "Zagreb",
+    "ingredients": [
+      "Krpice",
+      "Cabbage",
+      "Onion",
+      "Vegetable Oil",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "samoborska_kremšnita",
+    "name": "Samoborska kremšnita",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 27,
+    "short_description": "Samoborska kremšnita is a popular dessert originating from the Croatian town of Samobor. It consists of two layers of puff pastry that are filled with custard cream. A thin layer of whipped cream is s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f16be138e7047f1a7a87046f5bf890e.jpg?mw=660",
+    "most_iconic_place": "Slastičarnica U Prolazu",
+    "most_iconic_location": "Samobor",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Vanilla",
+      "Sugar",
+      "Whipped Cream",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "popara",
+    "name": "Popara",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 28,
+    "short_description": "Popara, the Balkan version of bread mash, is an ancient dish that has been greatly appreciated as a quick and easy solution to use up leftover bread and to feed the whole family in the process. Since ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f23708baab114fa2ac02f5b11fb59570.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Vukovar-Srijem County",
+    "ingredients": [
+      "Bread",
+      "Milk",
+      "Tea",
+      "Butter",
+      "Lard",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zagorski_mlinci",
+    "name": "Zagorski mlinci",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 29,
+    "short_description": "This traditional Croatian cross between pasta and flatbread is made with wheat flour (type 550) and water, with the occasional addition of lard and eggs (in which case it does not meet the standards n...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fa0f2b95394a4fd0b1b8783e3b13c956.jpg?mw=660",
+    "most_iconic_place": "Verglec",
+    "most_iconic_location": "Varaždin",
+    "ingredients": [
+      "Wheat Flour",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lamb_under_the_bell_janjetina_ispod_peke",
+    "name": "Lamb under the bell (Janjetina ispod peke)",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 30,
+    "short_description": "Janjetina ispod peke is a traditional lamb specialty that calls for preparing the meat under a metal, bell-like dome or lid called peka in Dalmatia or čripnja in Istria. The meat is usually combined w...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bfe42f02fea847f1837ac9c045dfa697.jpg?mw=660",
+    "most_iconic_place": "Konoba Dubrava",
+    "most_iconic_location": "Dubrovnik",
+    "ingredients": [
+      "Lamb",
+      "Potatoes",
+      "Onion",
+      "Tomato",
+      "Carrot",
+      "Zucchini"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "međimurska_gibanica",
+    "name": "Međimurska gibanica",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 31,
+    "short_description": "Međimurska gibanica is a traditional, highly caloric layered pastry originating from the Croatian region of Međimurje. It is usually served as a dessert after a big meal, but due to its nutritional va...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/393d63ac532b4274b5da3a7c28cc0374.jpg?mw=660",
+    "most_iconic_place": "Restoran Terbotz",
+    "most_iconic_location": "Železna Gora",
+    "ingredients": [
+      "Wheat Flour",
+      "Cottage Cheese",
+      "Eggs",
+      "Apples",
+      "Walnuts",
+      "Raisins"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kroštule",
+    "name": "Kroštule",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 32,
+    "short_description": "Kroštule are traditional Croatian pastries originating from the regions of Istria and Dalmatia. They are made by deep-frying ribbon-shaped dough. The dough consists of flour, sugar, egg yolks, oil, an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/66da884d6d824d8c8707fd011c4e3c66.jpg?mw=660",
+    "most_iconic_place": "Humska Konoba",
+    "most_iconic_location": "Hum",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Sugar",
+      "Vanilla Sugar",
+      "Lemon Zest",
+      "Orange Zest"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rozata",
+    "name": "Rozata",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 33,
+    "short_description": "Rozata is a type of custard pudding made with a few basic ingredients — eggs, milk, and sugar, which are flavored with a local rose liqueur known as Rozalin. The creamy mixture is baked in caramel cov...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/014142fa915046119ffa274c20a93d44.jpg?mw=660",
+    "most_iconic_place": "Konoba Hvaranin",
+    "most_iconic_location": "Split",
+    "ingredients": [
+      "Eggs",
+      "Lemon Zest",
+      "Sugar",
+      "Vanilla Sugar",
+      "Rozulin",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fritaja_sa_šparogama",
+    "name": "Fritaja sa šparogama",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 34,
+    "short_description": "Fritaja sa šparogama is a popular Istrian egg-based dish. Its key ingredients are wild Istrian asparagus – slightly bitter and with an aroma that is reminiscent of the sea, Istrian pines, and aromatic...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/491cc96c228f4824bfd7d0172c4c4370.jpg?mw=660",
+    "most_iconic_place": "Restoran Tač",
+    "most_iconic_location": "Zagreb",
+    "ingredients": [
+      "Asparagus",
+      "Eggs",
+      "Onion",
+      "Olive Oil",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gregada",
+    "name": "Gregada",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 35,
+    "short_description": "This simple fish stew with potatoes is said to be the oldest way of preparing fish in Dalmatia and was probably brought to the area by Greek settlers more than 2000 years ago, although potatoes are a ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3852333f5f2e44648c0f46becfd2cd49.jpg?mw=660",
+    "most_iconic_place": "Macondo",
+    "most_iconic_location": "Hvar",
+    "ingredients": [
+      "Cod",
+      "Anglerfish",
+      "Scorpionfish",
+      "Hake",
+      "Sea Bass",
+      "Monkfish"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "šunka_u_kruhu",
+    "name": "Šunka u kruhu",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 36,
+    "short_description": "Šunka u kruhu is a festive Croatian delicacy made with whole smoked and cooked ham that is encased in dough which typically consists of flour, yeast, lukewarm water, lard, and salt. The ham is traditi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c19a119b27534d15960702551b372990.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cured Ham",
+      "Wheat Flour",
+      "Onion",
+      "Yeast",
+      "Butter",
+      "Garlic"
+    ],
+    "is_active": true
+  }
+]

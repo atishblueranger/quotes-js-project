@@ -1,0 +1,277 @@
+[
+  {
+    "id": "appam",
+    "name": "Appam",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 1,
+    "short_description": "Appam is a popular Indian bowl-shaped pancake made from a batter of rice and coconut milk. Typically consumed for breakfast or dinner, appam is most popular in Tamil Nadu, Sri Lanka, and Kerala, where...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7de2a201d16e44b18e983b2e402b3737.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Coconut",
+      "Coconut Milk",
+      "Yeast",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "putu_mayam",
+    "name": "Putu mayam",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 2,
+    "short_description": "Putu mayam is a popular street food dish with origins either in the Indian state of Tamil Nadu or Kerala. Although it is south Indian in origin, it is also extremely popular in Malaysia, Sri Lanka, Si...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9486e817e7aa4b2dbd03c1c9da005fc4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Idiyappam",
+      "Coconut Flakes",
+      "Brown Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "upperi",
+    "name": "Upperi",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 3,
+    "short_description": "Upperi is a popular Indian snack made by frying thin slices of plantain in coconut oil. The chips are flavored with salted water while they are still frying in oil. The snack is a specialty of Kerala,...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/421c3be9a8f94b5e8965e6484f08724f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Plantain",
+      "Coconut Flakes",
+      "Turmeric",
+      "Mustard Seeds",
+      "Hot Peppers",
+      "Coconut Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "coconut_chutney_nariyal_chutney",
+    "name": "Coconut chutney (Nariyal chutney)",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 4,
+    "short_description": "Coconut chutney is a popular South Indian condiment or side dish, consisting of a coconut stew that is combined with shallots, tamarind, ginger, chiles, and curry leaves. It is a specialty of the Nort...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/95eb97a4ccfc458bbc63fd4f15cbba78.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Coconut",
+      "Black Grams",
+      "Shallots",
+      "Tamarind",
+      "Ginger",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "malabar_fish_curry_malabar_meen_curry",
+    "name": "Malabar fish curry (Malabar meen curry)",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 5,
+    "short_description": "Malabar fish curry or Kerala fish curry is a traditional dish originating from Malabar, Kerala. The curry is typically made with fish such as seer, sea bass, tilapia, or sardines. Other ingredients in...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6f0d536776c044659bed1a583ace17bb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Saltwater Fish",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sadhya",
+    "name": "Sadhya",
+    "local_name": null,
+    "category": "FEAST",
+    "rank": 6,
+    "short_description": "Sadhya is a traditional feast originating from the state of Kerala. All of the small dishes are vegetarian, and one sadhya feast can contain up to 28 dishes at a time, all of them traditionally served...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6a92630ecb9140f6939b96d9953e6c63.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "avial",
+    "name": "Avial",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 7,
+    "short_description": "Avial is an Indian dish with origins in the Kerala region, although it is equally popular in Tamil Nadu and Udupi. Its name means to be cooked, and the dish consists of a combination of vegetables, co...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/88bc784f4cf84d9b94c7e49c86acae84.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Yam",
+      "Winter Melon",
+      "Carrot",
+      "Green Beans",
+      "Plantain",
+      "Moringa"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "malabar_biryani",
+    "name": "Malabar biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 8,
+    "short_description": "Malabar biryani is a special style of biryani that originates from the Malabar region of India, which is located along the southwestern coast of the country in the state of Kerala. What sets Malabar b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/43d3954287c647138852348cef3f3751.jpg?mw=660",
+    "most_iconic_place": "Paragon Restaurant",
+    "most_iconic_location": "Kozhikode",
+    "ingredients": [
+      "Kaima",
+      "Mutton",
+      "Chicken",
+      "Tomato",
+      "Onion",
+      "Cashews"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "malabar_chicken_biryani_malabar_kozhi_biryani",
+    "name": "Malabar chicken biryani (Malabar kozhi biryani)",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 9,
+    "short_description": "Malabar chicken biryani is a special style of biryani that originates from the Malabar region in India's state of Kerala, located along the country's southwestern coast. What's really special about it...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1ccf2f147ecc467d8da6b54bd8b6089f.jpg?mw=660",
+    "most_iconic_place": "Paragon Restaurant",
+    "most_iconic_location": "Kozhikode",
+    "ingredients": [
+      "Chicken",
+      "Kaima",
+      "Tomato",
+      "Onion",
+      "Hot Peppers",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nadan_meen_curry",
+    "name": "Nadan meen curry",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "Nadan meen curry is a traditional fish curry typical of the Kerala region in India, \"nadan\" translating to rustic or traditional, and \"meen\" meaning fish in Malayalam, the local language. This curry i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d8ee9c9a268d42f3ba256244b45c541d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Saltwater Fish",
+      "Tomato",
+      "Onion",
+      "Shallots",
+      "Hot Peppers",
+      "Curry leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thalassery_biryani",
+    "name": "Thalassery biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 11,
+    "short_description": "Thalassery biryani is a type of biryani that hails from the town of Thalassery in the Indian state of Kerala, located on the Malabar coast. It uses a specific short-grain and aromatic rice called kaim...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/37dbf4a662554fa9a36f3a211e819bfc.jpg?mw=660",
+    "most_iconic_place": "Paris Restaurant",
+    "most_iconic_location": "Thalassery",
+    "ingredients": [
+      "Kaima",
+      "Chicken",
+      "Mutton",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ishtu",
+    "name": "Ishtu",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 12,
+    "short_description": "Ishtu is a traditional dish originating from Kerala. This simple stew with a soupy consistency is made with a combination of onions, potatoes, ginger, green chili peppers, curry leaves, black pepperco...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/62f3fce34f5d4e2ab608abfc9fce76df.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Potatoes",
+      "Onion",
+      "Hot Peppers",
+      "Curry leaves",
+      "Ginger",
+      "Cloves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaima",
+    "name": "Kaima",
+    "local_name": null,
+    "category": "INDICA RICE",
+    "rank": 1,
+    "short_description": "Kaima rice, also known as jeerakasala rice, is a variety of short-grain, aromatic rice that is primarily grown in the Indian state of Kerala, particularly in the Malabar region. This variety of rice i...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "karimeen",
+    "name": "Karimeen",
+    "local_name": null,
+    "category": "FRESHWATER FISH",
+    "rank": 2,
+    "short_description": "Karimeen (lat. Etroplus suratensis) is a brackish water and freshwater fish native to Kerala, Odisha, and Goa in India, and Sri Lanka. It is a popular delicacy in local cuisine and is especially renow...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sulaimani_tea_sulaimani_chai",
+    "name": "Sulaimani tea (Sulaimani chai)",
+    "local_name": null,
+    "category": "TEA",
+    "rank": 1,
+    "short_description": "Sulaimani chai or Sulaimani tea is a popular spiced tea from the Malabar region of Kerala, India, as well as parts of the Middle East. In its most basic form, Sulaimani tea is prepared by...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Black tea",
+      "Mint",
+      "Lemon Juice",
+      "Honey",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

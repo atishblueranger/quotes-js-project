@@ -1,0 +1,203 @@
+[
+  {
+    "id": "harees",
+    "name": "Harees",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 1,
+    "short_description": "Savory and hearty, this centuries-old Omani porridge blends tender meat with coarse wheat, simmered to perfection. A beloved Ramadan staple, it offers a comforting taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03df132180744560921a1b481675e559.jpg?mw=660",
+    "most_iconic_place": "Bait Al Luban",
+    "most_iconic_location": "Muscat",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "luqaimat",
+    "name": "Luqaimat",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 2,
+    "short_description": "Golden, crispy bites of sweet dough emerge from the fryer, soaking in rich syrup or honey. A beloved treat in Oman, Luqaimat combines fluffy texture with a delightful sweetness, celebrating tradition in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/12f04b3d12fd475aba18b0a6ca9bf97f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shuwa",
+    "name": "Shuwa",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 3,
+    "short_description": "Often regarded as Oman's national dish, shuwa features marinated lamb or goat, slow-cooked in an underground sand oven. Its rich blend of spices creates an unforgettable, tender flavor experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1be2371a05804f55b5a4b31134289d3a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "majboos",
+    "name": "Majboos",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 4,
+    "short_description": "Savor the rich flavors of Majboos, a beloved Omani rice dish featuring tender chicken or lamb, fragrant basmati, and a medley of red onion and tomato. Infused with spices, it embodies the culinary heritage of the Arabian Peninsula.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "omani_halwa",
+    "name": "Omani halwa",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Gelatinous and sticky, Omani halwa enchants with a blend of saffron, cardamom, and rosewater, celebrating joyous occasions like weddings and Ramadan. Each batch offers a unique flavor experience, crafted with care.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8f99d3bcd5aa4378accc2fce0eded665.jpg?mw=660",
+    "most_iconic_place": "Al Hosni Omani Sweets",
+    "most_iconic_location": "Sohar",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "omani_chicken_biryani",
+    "name": "Omani Chicken Biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 6,
+    "short_description": "Features fragrant basmati rice layered with tender chicken, zesty lime, and aromatic spices. A beloved dish that marries Indian and Persian influences, it delights with every flavorful bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/656fe00e60d349249a9c4ee1ad9edff8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Basmati",
+      "Chicken",
+      "Lime",
+      "Onion",
+      "Ginger",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mishkak",
+    "name": "Mishkak",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 7,
+    "short_description": "Originating from Oman, skewered mishkak features marinated cubes of tender beef, chicken, or mutton grilled to smoky perfection. Each bite bursts with rich spices, offering a delicious street food experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2b2ab378af6640e68fa39608b1f648b0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mashuai",
+    "name": "Mashuai",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 8,
+    "short_description": "Spit-roasted to perfection, this Omani specialty features kingfish, or kanad, generously rubbed with aromatic spices and oil. A cherished tradition, it offers a savory taste of Oman’s rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9906a240b12046969383d94c969e6045.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chicken_kabouli",
+    "name": "Chicken kabouli",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 9,
+    "short_description": "Savory basmati rice meets tender chicken in this Omani classic, infused with fragrant cardamom, coriander, and cloves. A delightful blend of spices makes every bite a taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/deac240584f94406888ef6df2fa7ffb5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Basmati",
+      "Cardamom",
+      "Coriander",
+      "Cloves",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "madrouba",
+    "name": "Madrouba",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 10,
+    "short_description": "Spicy and comforting, this Omani porridge combines tender chicken with overcooked rice and a fragrant blend of turmeric, cumin, and cardamom, creating a warm, soul-soothing dish cherished in Arabian culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/41aaf364a58046ce98b2d92d540fdcad.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lokhemat",
+    "name": "Lokhemat",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 11,
+    "short_description": "Originating from Oman, these delightful deep-fried sweets feature a fluffy dough infused with fragrant cardamom. Golden-brown and irresistibly crispy, they offer a perfect balance of warmth and sweetness.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8bed0afe08364417907681b88ced88d9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Yeast",
+      "Cardamom",
+      "Oil and Animal Fat"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "halawet_ahmad",
+    "name": "Halawet Ahmad",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "A beloved Omani treat, this indulgent dessert features roasted vermicelli enveloped in creamy condensed milk, butter, and almond powder, all topped with a sprinkle of coconut for a delightful finish.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3d388f884c754ec19f46379f7ae5a29f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "khabeesa",
+    "name": "Khabeesa",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 13,
+    "short_description": "A beloved Omani comfort food, this fragrant porridge combines creamy milk, nutty semolina, and rich butter, infused with rose water, saffron, and cardamom, then crowned with crunchy fried cashews.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/08efdf5741d54c74a5ed9b4af329a10a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

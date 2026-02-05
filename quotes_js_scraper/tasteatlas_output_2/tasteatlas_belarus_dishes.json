@@ -1,0 +1,227 @@
+[
+  {
+    "id": "zhur",
+    "name": "Zhur",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 1,
+    "short_description": "Żurek is a traditional soup characterized by its distinctively sour taste, which comes from sour leavening, or the fermentation of bread and rye flour. The soup also contains meats such as sausages, b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/db261d61a3984a8dbcacf51b03e74c87.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bacon",
+      "Kielbasa",
+      "Eggs",
+      "rye flour",
+      "Potatoes",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "draniki",
+    "name": "Draniki",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 2,
+    "short_description": "Draniki is the most typical dish in Belarus. These potato pancakes are made with a combination of flour, potatoes, milk, salt, eggs, pepper, onions, and butter. The combination is fried in a pan until...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/17e34674e6384bbb8b7186ac871a9de3.jpg?mw=660",
+    "most_iconic_place": "Kamyanitsa",
+    "most_iconic_location": "Minsk",
+    "ingredients": [
+      "Potatoes",
+      "Wheat Flour",
+      "Eggs",
+      "Onion",
+      "Garlic",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khaladnik",
+    "name": "Khaladnik",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 3,
+    "short_description": "Khaladnik is a cold beet soup that has been a staple of Belarusian cuisine since the late 18th century. It is made with boiled beets mixed with kefir, cucumbers, spring onions, and dill. The soup is t...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b16ac8031a644140ba0e341557041437.jpg?mw=660",
+    "most_iconic_place": "Vasilki",
+    "most_iconic_location": "Minsk",
+    "ingredients": [
+      "Beet",
+      "Kefir",
+      "Cucumber",
+      "Scallions",
+      "Dill",
+      "Sour Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "syrniki",
+    "name": "Syrniki",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 4,
+    "short_description": "Syrniki is a dessert consisting of fried cottage cheese pancakes that are usually garnished with honey, fruit jam, sour cream, or applesauce. It is part of the Russian (where it's sometimes also calle...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/562019a30c794a4e81209548787ca8a7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tvorog",
+      "Wheat Flour",
+      "Eggs",
+      "Sugar",
+      "Salt",
+      "Oil and Animal Fat"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "machanka",
+    "name": "Machanka",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "Machanka is a Belarusian and Ukrainian stew made with a combination of pork, sour cream, flour, and beef stock. The meat can include bacon, sausages, or ham, all cut into very small pieces. This soup-...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/144a90a774f94c37af5a268be93e352c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Sour Cream",
+      "Beef Stock",
+      "Wheat Flour",
+      "Butter",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vereshchaka",
+    "name": "Vereshchaka",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "Vereshchaka is a traditional stew that has been prepared since at least the mid-18th century. Originally, it was a variation of machanka meat sauce. The stew is usually made with pork sausages, bacon,...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": "Kuhmistr",
+    "most_iconic_location": "Minsk",
+    "ingredients": [
+      "Cooked Sausage",
+      "Bacon",
+      "Onion",
+      "rye flour",
+      "Beer",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lazanki",
+    "name": "Lazanki",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 7,
+    "short_description": "Łazanki is the Polish and Belarusian name used for a variety of pasta and the eponymous dish, while in Lithuania the same dish is called skryliai. The pasta dough is made with wheat flour, eggs, water...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/13fb9ed533b44e7dbb92ecdeea44de97.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Łazanki",
+      "Kielbasa",
+      "Cabbage",
+      "Bacon",
+      "Onion",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pyachysta",
+    "name": "Pyachysta",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 8,
+    "short_description": "Pyachysta is a traditional dish that is prepared on festive occasions and holidays. There is no fixed recipe, but the dish usually includes stewed, roasted, or boiled chicken, pig, or big chunks of be...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "poliŭka",
+    "name": "Poliŭka",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 9,
+    "short_description": "Poliŭka is the general term for traditional soups in Belarus. The word soup was only borrowed by the country's nobility from the Germans around the 18th century, even though local recipes had been doc...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bankucha",
+    "name": "Bankucha",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 10,
+    "short_description": "Known as sękacz in Poland, šakotis in Lithuania, and bankucha in Belarus, this famous tree cake is a vital part of traditional Polish, Lithuanian and Belarusian cuisine. Prepared with a thick batter w...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3967544e24b54255af9bf438945e52e7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Sugar",
+      "Vanilla",
+      "Corn Starch"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kalduny",
+    "name": "Kalduny",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 11,
+    "short_description": "Known as koldūnai in Lithuania, kalduny in Belarus and kołduny in Poland, these stuffed dumplings boiled in salted water are a staple of regional cuisine. Traditionally filled with minced pork, beef, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2a422b7260f24b41bde0e2840bc95bcc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Pancetta",
+      "Ground Pork",
+      "Ground Beef",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kutsia",
+    "name": "Kutsia",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 12,
+    "short_description": "Kutia is a Ukrainian, Russian, Belarusian, and Polish sweet grain pudding that is traditionally served as part of a twelve-meal Christmas Eve supper. Interestingly enough, this festive treat is believ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/534bcf9a9035425795e945c83c34bf91.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat",
+      "Poppy Seeds",
+      "Walnuts",
+      "Raisins",
+      "Honey"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "mysore_pak",
+    "name": "Mysore pak",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 1,
+    "short_description": "Mysore pak was invented in 1935 at the Mysore Palace by the royal chef Madappa. As the King Krishna Raja Wodeyar was ready to have his lunch, the chef began experimenting with a sweet dish, combining ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a16024033f59415ea574750ac003b15c.jpg?mw=660",
+    "most_iconic_place": "Sri Krishna Sweets Shop",
+    "most_iconic_location": null,
+    "ingredients": [
+      "Gram Flour",
+      "Ghee",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dosa",
+    "name": "Dosa",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 1,
+    "short_description": "The thin pancake known as dosa is one of the most famous Indian dishes. It is made with soaked rice and black gram beans, which are ground into a paste and mixed to create a thick batter, usually left...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b1e9054ebc86490ebef27f3e791ccee4.jpg?mw=660",
+    "most_iconic_place": "Vinayaka Mylari",
+    "most_iconic_location": "Tamil Nadu",
+    "ingredients": [
+      "Rice",
+      "Black Grams",
+      "Ghee",
+      "Fenugreek Seeds",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "masala_dosa",
+    "name": "Masala dosa",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 2,
+    "short_description": "A traditional southern Indian dish known as masala dosa is popular throughout the country, made from a batter of soaked rice and lentils that is baked into a thin pancake and usually stuffed with pota...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ba7bab747c7e41769dbc895a84626a23.jpg?mw=660",
+    "most_iconic_place": "Vinayaka Mylari",
+    "most_iconic_location": "Southern India",
+    "ingredients": [
+      "Rice",
+      "Black Grams",
+      "Potatoes",
+      "Onion",
+      "Fenugreek Seeds",
+      "Mustard Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "medu_vada",
+    "name": "Medu vada",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 3,
+    "short_description": "Medu vada is an Indian snack that is visually similar to a doughnut, consisting of a deep-fried batter made from black lentils and seasonings such as fenugreek, cumin, pepper, chili, and ginger. The f...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d69c2f9b128a49299056a0bb9eca8a45.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Maddur",
+    "ingredients": [
+      "Black Grams",
+      "Hot Peppers",
+      "Onion",
+      "Ginger",
+      "Curry leaves",
+      "Fenugreek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bisi_bele_bath",
+    "name": "Bisi bele bath",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 4,
+    "short_description": "Bisi bele bath, translated to hot lentil rice, is an aromatic and spicy dish originating from the Indian state of Karnataka. Moist rice and lentils are combined with ghee butter, tamarind, curry leave...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/aa4f2eb13796465e96a0ea39a5663943.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Rice",
+      "Pigeon Peas",
+      "Turmeric",
+      "Carrot",
+      "Beans",
+      "Green Peas"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rava_idli",
+    "name": "Rava idli",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 5,
+    "short_description": "Rava idli is a popular steamed semolina cake invented during World War II by the popular restaurant chain Mavalli Tiffin Rooms (MTR) in Bangalore, India. During the war, there was a shortage of rice, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0541939265624f3bb85b075eaa2343cf.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Bengaluru",
+    "ingredients": [
+      "Semolina",
+      "Ghee",
+      "Dahi",
+      "Cashews",
+      "Hot Peppers",
+      "Curry leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "neer_dosa",
+    "name": "Neer dosa",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 6,
+    "short_description": "This Indian crêpe is made with a very thin batter of rice flour, water, and salt. Unlike other Indian dosas which call for much thicker, and fermented batter, this version uses an unfermented and runn...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ef6b907aff634ed6bee07742947c36d0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Rice Flour",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kosambari",
+    "name": "Kosambari",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 7,
+    "short_description": "Kosambari is the most popular salad from the Indian state of Karnataka. The salad is made with split legumes such as bengal gram and green gram, and it is additionally seasoned with mustard seeds. The...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ca05cba338fa4eea8a6372dd39d7dc02.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Mung beans",
+      "Bengal Gram",
+      "Cucumber",
+      "Mustard Seeds",
+      "Hot Peppers",
+      "Coconut Flakes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ananas_gojju",
+    "name": "Ananas gojju",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 8,
+    "short_description": "Pineapple gojju is a traditional curry originating from Karnataka. Tangy, sweet, and spicy, the curry is usually made with a combination of chopped pineapple, hot chili peppers, mustard seeds, curry l...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0903daef208d41b7b650f5c12cd673db.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Pineapple",
+      "Coconut",
+      "Hot Peppers",
+      "Black Grams",
+      "Mustard Seeds",
+      "Coriander Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bendekaayi_gojju",
+    "name": "Bendekaayi gojju",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 9,
+    "short_description": "Bendekaayi gojju is a traditional curry originating from Karnataka. Tangy, spicy, and sweet, the curry is made with a combination of chopped okra, grated coconut, roasted lentils, hot chili peppers, t...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2b257be5359d452b8bd9113eae12a2f9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Okra",
+      "Coconut",
+      "Hot Peppers",
+      "Lentils",
+      "Red Chilli Powder",
+      "Tamarind"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tomato_gojju",
+    "name": "Tomato gojju",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "Tomato gojju is a traditional curry originating from Karnataka. Sour, sweet, and spicy, the curry is made with a combination of tomatoes, curry leaves, turmeric, mustard seeds, cumin, asafoetida, oil,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cf38b6f9100f467282f1edbc660eb5fc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Tomato",
+      "Onion",
+      "Curry leaves",
+      "Hot Peppers",
+      "Black Grams",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "akki_rotti",
+    "name": "Akki rotti",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 11,
+    "short_description": "Akki rotti is a dish that is especially popular in the Indian region of Karnataka, consisting of griddle-baked rice flour that is shaped like a pancake or a flatbread. It is commonly consumed either f...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4657b38443554474a2de387ff320990e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Rice Flour",
+      "Onion",
+      "Carrot",
+      "Coriander",
+      "Hot Peppers",
+      "Curry leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chavde",
+    "name": "Chavde",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 12,
+    "short_description": "Chavde is a crispy, deep-fried Indian dessert that's traditionally prepared during the festival of Ganesh Chaturthi. It consists of thinly-rolled, round-shaped dough and a fragrant mixture of roasted ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ac0c21fbd84745809bd9abc8e20adc5d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [
+      "Rice Flour",
+      "Coconut",
+      "Ghee",
+      "Cardamom",
+      "Sesame Seeds",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bafat",
+    "name": "Bafat",
+    "local_name": null,
+    "category": "SPICE BLEND AND SEASONING",
+    "rank": 1,
+    "short_description": "Bafat is a traditional Mangalorean blend of ground spices such as red chilis, cumin seeds, coriander seeds, peppercorns, mustard seeds, and turmeric. Each spice is dry-roasted separately until fragran...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/df6dfd728eaa452497d661bab2ef520a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mangalore",
+    "ingredients": [
+      "Hot Peppers",
+      "Coriander Seeds",
+      "Cumin Seeds",
+      "Mustard Seeds",
+      "Peppercorns",
+      "Turmeric"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "byadgi_mirch",
+    "name": "Byadgi mirch",
+    "local_name": null,
+    "category": "HOT PEPPER",
+    "rank": 2,
+    "short_description": "Byadgi mirch is a variety of dried red chili from the Byadgi region in Karnataka, India. It is widely celebrated for its vibrant red color, mild heat (5,000 - 15,000 SHU), and slightly smoky aroma, ma...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karnataka",
+    "ingredients": [],
+    "is_active": true
+  }
+]

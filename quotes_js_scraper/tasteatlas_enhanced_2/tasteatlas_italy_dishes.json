@@ -1,0 +1,426 @@
+[
+  {
+    "id": "pizza",
+    "name": "Pizza",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 1,
+    "short_description": "Originating from Italy, this oven-baked delight features a crispy crust topped with zesty tomato sauce, creamy mozzarella, and fresh basil, creating a symphony of flavors that never fails to satisfy.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8e0ec129d54d48188a5f700ce4db8919.jpg?mw=660",
+    "most_iconic_place": "L'Antica Pizzeria da Michele",
+    "most_iconic_location": "Naples",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "risotto",
+    "name": "Risotto",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "Originating from Northern Italy, creamy risotto captivates with its rich texture and depth of flavor. Infused with butter, saffron, and parmesan, each spoonful is a warm embrace of culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/70f5cf7e2f2540dcb0452825b0971837.jpg?mw=660",
+    "most_iconic_place": "Ratanà",
+    "most_iconic_location": "Milan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tagliatelle_al_ragù_alla_bolognese",
+    "name": "Tagliatelle al ragù alla Bolognese",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 3,
+    "short_description": "Originating from Bologna, tagliatelle al ragù alla Bolognese features silky ribbons of pasta enveloped in a hearty blend of ground beef, pork, and rich tomato sauce, creating a comforting, savory delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8889349736294b0a929b69eb29d67dad.jpg?mw=660",
+    "most_iconic_place": "Osteria dell' Orsa",
+    "most_iconic_location": "Bologna",
+    "ingredients": [
+      "Tagliatelle",
+      "Ground Beef",
+      "Ground Pork",
+      "Pancetta",
+      "Tomato Paste",
+      "Red Wine"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carbonara",
+    "name": "Carbonara",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 4,
+    "short_description": "Originating in Rome, spaghetti carbonara delights with its creamy blend of egg yolks, salty guanciale, and sharp Pecorino Romano, all perfectly seasoned with a hit of black pepper. A true Roman classic!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/79b072c652ba423eb4de617b9b51a399.jpg?mw=660",
+    "most_iconic_place": "Roscioli",
+    "most_iconic_location": "Rome",
+    "ingredients": [
+      "Spaghetti",
+      "Guanciale",
+      "Pecorino Romano",
+      "Eggs",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ravioli",
+    "name": "Ravioli",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 5,
+    "short_description": "Delicate pockets of pasta embrace rich fillings, often of cheese, meat, or vegetables, creating a comforting Italian classic. Each bite bursts with flavor, celebrating centuries of culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8dbe53b1e594d5d92c04ce61537898e.jpg?mw=660",
+    "most_iconic_place": "Oasis Sapori Antichi",
+    "most_iconic_location": "Vallesaccarda",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gnocchi",
+    "name": "Gnocchi",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 6,
+    "short_description": "Originating from Italy, these tender potato dumplings are expertly shaped and ribbed to catch rich sauces. Each bite offers a delightful contrast of fluffy texture and savory flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1efb92c5cefe46ab9b8d3c5d64ea6dff.jpg?mw=660",
+    "most_iconic_place": "La Matricianella",
+    "most_iconic_location": "Rome",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tiramisù",
+    "name": "Tiramisù",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 7,
+    "short_description": "Originating from Italy, this iconic dessert features coffee-soaked ladyfingers layered with rich mascarpone cream. Each bite delivers a heavenly blend of bold coffee and creamy sweetness.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/468fa931d3004dd4b20f567cfb37c8b8.jpg?mw=660",
+    "most_iconic_place": "Da Enzo al 29",
+    "most_iconic_location": "Rome",
+    "ingredients": [
+      "Ladyfingers",
+      "Mascarpone",
+      "Eggs",
+      "Coffee",
+      "Sugar",
+      "Cocoa Beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pizza_napoletana",
+    "name": "Pizza Napoletana",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 8,
+    "short_description": "Originating from Naples, the pizza Napoletana showcases the art of simplicity with its soft, chewy crust, topped with vibrant tomato, creamy mozzarella di bufala, fragrant basil, and a drizzle of olive oil. Each bite transports you to the heart of Italy.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/785295d4ab6f4f0bab43d5fcf2e123b6.jpg?mw=660",
+    "most_iconic_place": "L'Antica Pizzeria da Michele",
+    "most_iconic_location": "Naples",
+    "ingredients": [
+      "00 Flour",
+      "Tomato",
+      "Mozzarella di Bufala Campana",
+      "Basil",
+      "Olive Oil",
+      "Oregano"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pizza_margherita",
+    "name": "Pizza Margherita",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 9,
+    "short_description": "Originating from Naples, this iconic pizza features a perfectly charred crust topped with vibrant San Marzano tomatoes, creamy Mozzarella di Bufala, and fragrant basil, celebrating Italy's colors and flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1501b7a18cab4f97b3cb834157712052.jpg?mw=660",
+    "most_iconic_place": "L'Antica Pizzeria da Michele",
+    "most_iconic_location": "Naples",
+    "ingredients": [
+      "00 Flour",
+      "Tomato",
+      "Mozzarella di Bufala Campana",
+      "Basil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bruschetta",
+    "name": "Bruschetta",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 10,
+    "short_description": "Originating from Italy, this classic appetizer features grilled bread infused with garlic, topped with fresh tomatoes and fragrant basil. A drizzle of olive oil elevates every bite, capturing the essence of Italian cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eeeabf62647b459391edfd213800583b.jpg?mw=660",
+    "most_iconic_place": "Ai Troeggi",
+    "most_iconic_location": "Genoa",
+    "ingredients": [
+      "Bread",
+      "Garlic",
+      "Olive Oil",
+      "Tomato",
+      "Basil",
+      "Wild Fennel"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nougat",
+    "name": "Nougat",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 11,
+    "short_description": "Originating from ancient traditions, nougat delights with its chewy texture and nutty flavor, often featuring almonds or hazelnuts. Each Italian region offers a unique twist, making it a beloved treat.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9d293caf1f9f47669f78a2d098ea590b.jpg?mw=660",
+    "most_iconic_place": "Antica Casa Faccio",
+    "most_iconic_location": "Cassinasco",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "panna_cotta",
+    "name": "Panna cotta",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 12,
+    "short_description": "Hailing from Italy, panna cotta delights with its silky texture and rich vanilla flavor. Made from cream, sugar, and gelatin, it offers a simple yet luxurious dessert experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d8ae78171ba445c98ec71ff782a9b1d7.jpg?mw=660",
+    "most_iconic_place": "Trattoria Da Cesare al Casaletto",
+    "most_iconic_location": "Rome",
+    "ingredients": [
+      "Cream",
+      "Sugar",
+      "Gelatin",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "marinara",
+    "name": "Marinara",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 13,
+    "short_description": "Originating from Italy, marinara captivates with its vibrant blend of ripe tomatoes, fragrant garlic, and fresh basil, simmered to perfection in olive oil. It’s a staple sauce that elevates pasta and pizza alike.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/48a402064c744f27853844f0d5265b95.jpg?mw=660",
+    "most_iconic_place": "L'Antica Pizzeria da Michele",
+    "most_iconic_location": "Naples",
+    "ingredients": [
+      "Tomato",
+      "Olive Oil",
+      "Onion",
+      "Garlic",
+      "Basil",
+      "Oregano"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tortellini",
+    "name": "Tortellini",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 14,
+    "short_description": "Originating from Bologna, tortellini features delicate egg pasta enveloping savory fillings like cheese, meat, or herbs. Each bite bursts with rich, authentic Italian flavor, celebrating centuries of culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/98b813eeab614b12a0407f0eb689b7dc.jpg?mw=660",
+    "most_iconic_place": "All'Osteria Bottega",
+    "most_iconic_location": "Bologna",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "focaccia",
+    "name": "Focaccia",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 15,
+    "short_description": "Originating from Italy, focaccia boasts a chewy texture and rich olive oil flavor, often enhanced with sea salt, aromatic herbs, and sun-kissed tomatoes. Perfectly versatile, it's a beloved staple in Italian cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b1b1e7ef350d46d986d5600ee5fae7fd.jpg?mw=660",
+    "most_iconic_place": "Manuelina",
+    "most_iconic_location": "Recco",
+    "ingredients": [
+      "Flour",
+      "Yeast",
+      "Olive Oil",
+      "Salt",
+      "Sugar",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carpaccio",
+    "name": "Carpaccio",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 16,
+    "short_description": "Originating in Italy, carpaccio features delicate, paper-thin slices of raw beef, drizzled with olive oil and a tangy mix of Worcestershire sauce and mayonnaise. It's a deliciously rich and savory appetizer that captivates the senses.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e6cfb28c91114888845f8ebc5d4d6ee7.jpg?mw=660",
+    "most_iconic_place": "Cip's Club",
+    "most_iconic_location": "Venice",
+    "ingredients": [
+      "Beef",
+      "Salt",
+      "Black Pepper",
+      "Mayonnaise",
+      "Worcestershire sauce",
+      "Lemon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cannoli",
+    "name": "Cannoli",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 17,
+    "short_description": "Crispy pastry tubes from Sicily are filled with rich ricotta cream, sweetened with sugar and accented by cocoa and candied fruit. A beloved treat that captures the essence of Italian pastry craftsmanship.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c07579e068274383a2ab5b116b5df5c4.jpg?mw=660",
+    "most_iconic_place": "La Pasticceria Maria Grammatico",
+    "most_iconic_location": "Erice",
+    "ingredients": [
+      "Flour",
+      "Ricotta",
+      "Cocoa Beans",
+      "Sugar",
+      "Candied Fruit",
+      "Marsala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lasagne_alla_bolognese",
+    "name": "Lasagne alla Bolognese",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 18,
+    "short_description": "Layers of fresh spinach lasagna cradle a hearty ragù alla Bolognese, enveloped in creamy béchamel and crowned with Parmigiano Reggiano. A beloved classic from Bologna, it's comfort on a plate.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/51fb4d553b8c4a3aae0b32529397f9a1.jpg?mw=660",
+    "most_iconic_place": "Trattoria Anna Maria",
+    "most_iconic_location": "Bologna",
+    "ingredients": [
+      "Lasagna",
+      "Ragù alla Bolognese",
+      "Béchamel",
+      "Parmigiano Reggiano",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pesto_genovese",
+    "name": "Pesto Genovese",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 19,
+    "short_description": "Originating from Genoa, Pesto Genovese bursts with fresh basil and rich cheeses like Parmigiano Reggiano. Its vibrant green hue and nutty undertones create a deliciously aromatic sauce perfect for pasta.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/90369bf52b834ff7a5f06ed5de0ebdd7.jpg?mw=660",
+    "most_iconic_place": "Il Genovese",
+    "most_iconic_location": "Genoa",
+    "ingredients": [
+      "Basilico Genovese",
+      "Olive Oil",
+      "Grana Padano",
+      "Parmigiano Reggiano",
+      "Pecorino Romano",
+      "Pecorino Sardo"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crostini",
+    "name": "Crostini",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 20,
+    "short_description": "Originating from Italy, these delightful toasted bread bites showcase a medley of rich mozzarella, savory anchovies, and sweet figs or berries, creating a perfect harmony of flavors. Perfect for sharing!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4e67bf18c38c4e8cbb36617b827ade5f.jpg?mw=660",
+    "most_iconic_place": "Osteria Al Squero",
+    "most_iconic_location": "Venice",
+    "ingredients": [
+      "Bread",
+      "Mozzarella",
+      "Anchovies",
+      "Figs",
+      "Berries",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "minestrone",
+    "name": "Minestrone",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 21,
+    "short_description": "A hearty staple of Italian cuisine, minestrone bursts with seasonal vegetables, tender ditalini, and creamy beans, simmered to perfection for a comforting, rustic flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/70a2d53e32ad430ebe307bbd63a941cf.jpg?mw=660",
+    "most_iconic_place": "Antica Osteria di Vico Palla",
+    "most_iconic_location": "Genoa",
+    "ingredients": [
+      "Ditalini",
+      "Rice",
+      "Lard",
+      "Onion",
+      "Beans",
+      "Potatoes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "parmigiana",
+    "name": "Parmigiana",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 22,
+    "short_description": "Layers of crispy eggplant, vibrant basil-infused tomato sauce, and rich cheeses create a comforting classic from Southern Italy. Each bite offers a savory harmony of flavors in this beloved casserole.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e8a5cb3b7220453b809890fe5d4ca1a5.jpg?mw=660",
+    "most_iconic_place": "Mimì alla Ferrovia",
+    "most_iconic_location": "Naples",
+    "ingredients": [
+      "Eggplant",
+      "Pecorino Romano",
+      "Pecorino Siciliano",
+      "Caciocavallo Silano",
+      "Tuma persa",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "frittata",
+    "name": "Frittata",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 23,
+    "short_description": "Originating from Italy, this savory flat egg dish blends whisked eggs with vibrant vegetables, herbs, and cheeses. Baked to golden perfection, it offers a hearty taste of rustic Italian cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8884c33e586b472eae8b3e3fe05959dc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "grissini",
+    "name": "Grissini",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 24,
+    "short_description": "Crispy and golden, these traditional breadsticks from Torino offer a delightful crunch, enhanced by olive oil and a hint of lard. Perfect for snacking or pairing with cheese and cured meats.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f65e4c13c7f94d908a49992fcbf536db.jpg?mw=660",
+    "most_iconic_place": "Perino Vesco",
+    "most_iconic_location": "Turin",
+    "ingredients": [
+      "Flour",
+      "Olive Oil",
+      "Salt",
+      "Yeast",
+      "Lard"
+    ],
+    "is_active": true
+  }
+]

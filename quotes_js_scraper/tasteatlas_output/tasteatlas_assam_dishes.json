@@ -1,0 +1,144 @@
+[
+  {
+    "id": "assam_tea_asam_chai",
+    "name": "Assam tea (Asam chai)",
+    "local_name": null,
+    "category": "TEA",
+    "rank": 1,
+    "short_description": "Assam is a type of Indian black tea made from the leaves of Camellia sinensis var. assamica. This tea is only produced in the north-eastern Indian state of Assam. In the past, Assam tea was mainly tho...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/fc14d6ef358042dd93f907891e552f03.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "masor_tenga",
+    "name": "Masor tenga",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Masor tenga is a traditional curry originating from Assam. Although there are many recipes, it’s usually made with a combination of fish, kokum, mustard seeds, hot peppers, tomatoes, mustard oil, pota...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6876c9ef061540bdb0aa8f5c1b23b4c6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rohu",
+      "Catla",
+      "Tomato",
+      "Potatoes",
+      "Hot Peppers",
+      "Kokum"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tel_pitha",
+    "name": "Tel pitha",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 3,
+    "short_description": "Handesh is a traditional dessert originating from Sylhet region of Bangladesh and the Indian state of Assam. It’s usually made with a combination of rice flour, wheat flour, molasses, sugar, and veget...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/40ed388130c2473985fa41144c0f427e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice Flour",
+      "Wheat Flour",
+      "Date Molasses",
+      "Sugar",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "aloo_pitika",
+    "name": "Aloo pitika",
+    "local_name": null,
+    "category": "POTATO DISH",
+    "rank": 4,
+    "short_description": "Aloo pitika is a traditional dish from the Indian state of Assam, a simple and flavorful mashed potato preparation commonly served as a side dish in Assamese meals. Aloo pitika is made by boiling pota...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Potatoes",
+      "Onion",
+      "Hot Peppers",
+      "Coriander",
+      "Mustard Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sunga_gahori",
+    "name": "Sunga gahori",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 5,
+    "short_description": "Sunga pork is a traditional dish originating from Assam, but it's popular across the northeastern tribes. Although there are some variations, it's usually made with a combination of pork, ginger, garl...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Ginger",
+      "Garlic",
+      "Hot Peppers",
+      "Turmeric",
+      "Mustard Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khar",
+    "name": "Khar",
+    "local_name": null,
+    "category": "ALKALINE WATER",
+    "rank": 6,
+    "short_description": "Khar water is a traditional alkaline solution used in Assamese cuisine, particularly in the preparation of dishes known as \"khar.\" This water is derived from the ashes of sun-dried banana peels, speci...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "til_pitha",
+    "name": "Til pitha",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "Til pitha is a traditional snack and a type of pitha originating from Assam. These rolls are made from rice flour and they're stuffed with a filling consisting of ground black sesame seeds and jaggery...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice Flour",
+      "Black Sesame Seeds",
+      "Jaggery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "amitar_khar",
+    "name": "Amitar khar",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 8,
+    "short_description": "Amitar khar is a traditional Assamese dish that is part of the broader category of \"khar\" dishes, made using an alkaline ingredient derived from sun-dried banana peels or a specific type of alkali cal...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Papaya",
+      "Hot Peppers",
+      "Garlic",
+      "Panch phoron",
+      "Turmeric",
+      "Khar"
+    ],
+    "is_active": true
+  }
+]

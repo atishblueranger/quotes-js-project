@@ -1,0 +1,467 @@
+[
+  {
+    "id": "gulyás",
+    "name": "Gulyás",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 1,
+    "short_description": "A staple of Hungarian cuisine, gulyás boasts tender beef simmered in a vibrant paprika broth, enriched with sweet bell peppers, hearty potatoes, and aromatic spices. Each bowl warms the soul with its rustic charm.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c248dc8942e1454f92e8e140141d02e7.jpg?mw=660",
+    "most_iconic_place": "Kiado Kocsma",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Beef",
+      "Tomato",
+      "Bell Pepper",
+      "Potatoes",
+      "Carrot",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "krémes",
+    "name": "Krémes",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 2,
+    "short_description": "Originating from Hungary, krémes enchants with its delicate layers of flaky puff pastry and velvety pastry cream, infused with vanilla. A sweet indulgence that's both creamy and crisp, it's a beloved treat in Hungarian bakeries.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3a50c3d19f014dab8720930f7fe381d8.jpg?mw=660",
+    "most_iconic_place": "Ruszwurm Cukrászda",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Vanilla",
+      "Gelatin",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_paprikash_paprikás_csirke",
+    "name": "Chicken paprikash (Paprikás csirke)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Originating from Hungary, this rustic stew features tender chicken braised with sweet paprika and onions, creating a rich, comforting dish. Served with egg noodles, it embodies the heart of traditional Hungarian cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/82bf238da3e6442ea67427a3ec6efe49.jpg?mw=660",
+    "most_iconic_place": "Pest-Buda Bistro",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Chicken",
+      "Wheat Flour",
+      "Eggs",
+      "Onion",
+      "Paprika",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pörkölt",
+    "name": "Pörkölt",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 4,
+    "short_description": "Hungary's beloved national stew, Pörkölt, features tender meats like beef, lamb, and pork, simmered in a rich, smoky red sauce with bell peppers. Its deep flavors reflect the heart of Hungarian cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5a7168ff459d4104bbfc5e8ec378abab.jpg?mw=660",
+    "most_iconic_place": "Gettó Gulyás",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Lamb",
+      "Chicken",
+      "Pork",
+      "Beef",
+      "Bell Pepper",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lecsó",
+    "name": "Lecsó",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 5,
+    "short_description": "Hearty and vibrant, this traditional Hungarian ragout features sautéed onions, bell peppers, and ripe tomatoes, all infused with rich paprika and lard. A comforting taste of Hungarian home cooking!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b35f960d1caa4239a0cf7af9a76b0823.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tomato",
+      "Bell Pepper",
+      "Onion",
+      "Lard",
+      "Paprika",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pogácsa",
+    "name": "Pogácsa",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 6,
+    "short_description": "A beloved Hungarian treat, these flaky, golden pastries are often filled with cheese, bacon, or herbs. Best enjoyed warm, Pogácsa offers a delightful burst of savory flavors in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/83a95efa02ed4f65934e3bd47c1a9fb7.jpg?mw=660",
+    "most_iconic_place": "Ruszwurm Cukrászda",
+    "most_iconic_location": "Budapest",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lángos",
+    "name": "Lángos",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "Deep-fried to a perfect golden-brown, this Hungarian street snack features a soft, pillowy dough. Topped with tangy sour cream or yogurt, it offers a delightful blend of flavors and cultural charm.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0384c4118bdf4bc687dc766b3c4beca0.jpg?mw=660",
+    "most_iconic_place": "Drum Cafe",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Milk",
+      "Vegetable Oil",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dobostorta",
+    "name": "Dobostorta",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 8,
+    "short_description": "A Hungarian classic, this elegant cake features six delicate sponge layers interspersed with rich chocolate buttercream. Its signature caramel topping offers a delightful crunch, making each bite a heavenly experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/189316872d5e472fa2c4c464a7e083e4.jpg?mw=660",
+    "most_iconic_place": "Café Gerbeaud",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Chocolate",
+      "Cocoa Butter",
+      "Vanilla Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spit_cake_kürtőskalács",
+    "name": "Spit cake (Kürtőskalács)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 9,
+    "short_description": "Originating from medieval Székely Land, this delightful chimney cake features a golden, crispy exterior dusted with cinnamon sugar, revealing a soft, fluffy center that’s irresistibly sweet.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b17fce3105f54e74864d7de485513231.jpg?mw=660",
+    "most_iconic_place": "Molnár's Kürtőskalács",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Cinnamon",
+      "Vanilla Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kifli",
+    "name": "Kifli",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 10,
+    "short_description": "Crescent-shaped and delightfully soft, these Hungarian yeast rolls are enriched with butter and eggs, then topped with aromatic poppy and caraway seeds. Perfectly enjoyed plain or with a sweet spread, they embody Hungary's rich baking tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/efc333fbe54e4a1fbca9ce8c6e431355.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Poppy Seeds",
+      "Caraway Seeds",
+      "Sesame Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "töltött_kaposzta",
+    "name": "Töltött kaposzta",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 11,
+    "short_description": "Hungarian tradition shines through tender cabbage leaves filled with a savory blend of minced pork, rice, and aromatic spices. Slow-cooked to perfection, each roll offers a comforting taste of home.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9544306e814c4b7dbedc62dc9336517a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Sauerkraut",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "esterházy_torta",
+    "name": "Esterházy torta",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 12,
+    "short_description": "Originating from 19th-century Budapest, this elegant cake layers almond meringue and rich buttercream infused with vanilla and cocoa, creating a delightful harmony of flavors fit for royalty.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d4df0b54e1df41d784f364cf0428baea.jpg?mw=660",
+    "most_iconic_place": "Café Gerbeaud",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Almonds",
+      "Vanilla",
+      "Cocoa Powder",
+      "Apricot Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hurka",
+    "name": "Hurka",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 13,
+    "short_description": "Savor the rich flavors of Hungary with hurka, a beloved sausage featuring ground pork, liver, and aromatic onions. Enjoy its hearty combination in both májas and véres varieties, reflecting local culinary traditions.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a9381667e2e248ce9e483d1734569a0a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Pork Liver",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "húsleves",
+    "name": "Húsleves",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 14,
+    "short_description": "Hearty and comforting, this traditional Hungarian soup combines tender beef or chicken with silky noodles and sweet root vegetables. A beloved staple, it warms the soul with every savory spoonful.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/37b287673cd2463a925db1ed046a053b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Chicken",
+      "Noodles",
+      "Carrot",
+      "Parsley Root",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "főzelék",
+    "name": "Főzelék",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "A beloved Hungarian staple, this thick vegetable stew combines the earthy flavors of cabbage, green peas, and lentils, creating a comforting dish served warm. Perfect for a hearty meal, it's both nutritious and satisfying.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1f4ac5ee69cc4192add7d9088d387b10.jpg?mw=660",
+    "most_iconic_place": "Café Kör",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Cabbage",
+      "Green Peas",
+      "Spinach",
+      "Lentils",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "halászlé",
+    "name": "Halászlé",
+    "local_name": null,
+    "category": "FISH SOUP",
+    "rank": 16,
+    "short_description": "A beloved staple from the banks of the Tisza River, this spicy fisherman's soup features a medley of catfish, pike, and carp, simmered in a rich, paprika-infused broth for a warming delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/aaf7314d372245fe8c4f2ce3d718d184.jpeg?mw=660",
+    "most_iconic_place": "Kiskőrössy Halászcsárda",
+    "most_iconic_location": "Szeged",
+    "ingredients": [
+      "Catfish",
+      "Pike",
+      "Carp",
+      "Onion",
+      "Tomato",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zserbó",
+    "name": "Zserbó",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 17,
+    "short_description": "Layered and luscious, this chocolate-topped delight features rich apricot jam and crunchy walnuts, celebrating Hungarian pastry tradition since its creation by Swiss chocolatier Émile Gerbeaud.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2dd4654ecc9848518ac5f59420dc73a5.jpg?mw=660",
+    "most_iconic_place": "Café Gerbeaud",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Apricot Jam",
+      "Walnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rakott_krumpli",
+    "name": "Rakott krumpli",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 18,
+    "short_description": "Layers of tender potatoes, smoky Csabai kolbász, crispy bacon, and creamy eggs come together in this beloved Hungarian casserole. A true comfort food, it delights with every savory bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7fcf0e6e0c55405e825385db1f1caac7.jpg?mw=660",
+    "most_iconic_place": "Stand25 Bisztró",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Potatoes",
+      "Csabai kolbász",
+      "Bacon",
+      "Eggs",
+      "Sour Cream",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kalács",
+    "name": "Kalács",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 19,
+    "short_description": "Hungarian kalács delights with its rich, buttery flavor and soft, pillowy texture. Often braided and slightly sweetened, it’s a beloved staple at family gatherings and festive occasions.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6f88e893b7f44bc6a581a0e1031d1338.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Yeast",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "túrógombóc",
+    "name": "Túrógombóc",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 20,
+    "short_description": "Delicate dumplings made from creamy cottage cheese and semolina are rolled in breadcrumbs and lightly fried to golden perfection. A beloved treat from Hungary's culinary tradition, they offer a delightful balance of textures and flavors.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/78ff5aa2eab04f32bd7dd1a5605b7060.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cottage Cheese",
+      "Semolina",
+      "Eggs",
+      "Butter",
+      "Breadcrumbs",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "meggyleves",
+    "name": "Meggyleves",
+    "local_name": null,
+    "category": "SWEET SOUP",
+    "rank": 21,
+    "short_description": "Chilled and refreshing, this traditional Hungarian sweet soup blends tart sour cherries with creamy sour cream, accented by warm spices like cloves and star anise. Perfect for summer!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a56d40284ddd4604aa842abe4d046ad7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sour Cherries",
+      "Sour Cream",
+      "Wheat Flour",
+      "Cloves",
+      "Star Anise",
+      "Cinnamon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "somlói_galuska",
+    "name": "Somlói galuska",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 22,
+    "short_description": "Originating from Hungary, this indulgent trifle cake layers fluffy sponge, rich custard, and chocolate, all interspersed with rum-soaked raisins for a delightful burst of flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d88a00d4bb7e43a79987d0e18463657c.jpg?mw=660",
+    "most_iconic_place": "Café Kör",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Baking Powder",
+      "Cocoa Powder",
+      "Dark Chocolate",
+      "Walnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "túrós_csusza",
+    "name": "Túrós csusza",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 23,
+    "short_description": "Nestled in Hungary's culinary heritage, túrós csusza features rolled, flat egg pasta tossed with creamy túró cheese and topped with crispy bacon bits, creating a delightful blend of savory flavors.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ddb9f08d2c7045e392c379ad54da3189.jpg?mw=660",
+    "most_iconic_place": "Kakukk Vendéglő",
+    "most_iconic_location": "Budapest",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gesztenyepüré",
+    "name": "Gesztenyepüré",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 24,
+    "short_description": "Puréed chestnuts, subtly sweetened and infused with rum and vanilla, create a luxurious dessert that’s a Hungarian favorite. Topped with airy whipped cream, it’s a delightful nod to culinary history since 1475.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8bb3716f67674aa289e4476157e3bac2.jpg?mw=660",
+    "most_iconic_place": "Café Kör",
+    "most_iconic_location": "Budapest",
+    "ingredients": [
+      "Chestnuts",
+      "Rum",
+      "Vanilla",
+      "Sugar",
+      "Whipped Cream"
+    ],
+    "is_active": true
+  }
+]

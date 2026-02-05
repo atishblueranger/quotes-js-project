@@ -1,0 +1,444 @@
+[
+  {
+    "id": "jiaozi",
+    "name": "Jiaozi",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 1,
+    "short_description": "Savor the delightful jiaozi, a beloved staple of Chinese cuisine, featuring a tender wheat dough enveloping a savory mix of ground beef, pork, and crisp napa cabbage. Perfectly steamed or pan-fried, each bite bursts with flavor and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/82fbbf7148654aa29148960471e86393.jpg?mw=660",
+    "most_iconic_place": "Ho Lee Fook",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [
+      "Wheat Flour",
+      "Ground Beef",
+      "Ground Pork",
+      "Napa cabbage",
+      "Bamboo Shoots",
+      "Scallions"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "baozi",
+    "name": "Baozi",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 2,
+    "short_description": "Steamed to perfection, these fluffy buns cradle a delightful mix of savory fillings, from tender pork to vibrant vegetables. A cherished Chinese breakfast staple, baozi offers a warm embrace for any craving.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8343f1d8b80b49f3907090ef878bb449.jpg?mw=660",
+    "most_iconic_place": "Din Tai Fung Shanghai",
+    "most_iconic_location": "Shanghai",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "wonton",
+    "name": "Wonton",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 3,
+    "short_description": "Delicate wontons, a beloved staple of Chinese cuisine, are filled with a savory mix of shrimp and ground pork, enhanced by ginger and scallions. Served in a fragrant broth, they offer a comforting taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4d0ea1a4056f4f5088e6857539560192.jpg?mw=660",
+    "most_iconic_place": "Long Chao Shou",
+    "most_iconic_location": "Chengdu",
+    "ingredients": [
+      "Wonton wrappers",
+      "Shrimps",
+      "Ground Pork",
+      "Ginger",
+      "Scallions",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mooncake_yuebing",
+    "name": "Mooncake (Yuebing)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 4,
+    "short_description": "Delight in the rich tradition of the Mid-Autumn Festival with mooncakes, a delectable shortcrust pastry filled with sweet lotus seed paste or red bean, often adorned with salted egg yolks for a savory twist.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/76c513e6c3214386b6c1dd9c98a564cc.jpg?mw=660",
+    "most_iconic_place": "Maxim's Cake Shop",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "spring_rolls_chun_juan",
+    "name": "Spring rolls (Chun juan)",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 5,
+    "short_description": "Crispy and golden, these traditional Chinese spring rolls are filled with a savory mix of mushrooms, carrots, and bamboo shoots, delivering a delightful crunch in every bite. Perfect for sharing!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7e44f5dd6dc547009fa957b89cb9bf19.jpg?mw=660",
+    "most_iconic_place": "Lost Heaven",
+    "most_iconic_location": "Shanghai",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Mushrooms",
+      "Carrot",
+      "Bamboo Shoots",
+      "Bean Sprouts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shaobing",
+    "name": "Shaobing",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 6,
+    "short_description": "Layered and flaky, this Northern Chinese flatbread is brushed with rich sesame oil and topped with crunchy sesame seeds. Perfectly chewy, it's a beloved snack that offers a delightful blend of flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/47230a52a4e842d7acd7dc8cd1cd1eda.jpg?mw=660",
+    "most_iconic_place": "Ding Ding Xiang",
+    "most_iconic_location": "Chaoyang District",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sesame Seeds",
+      "Sesame Oil",
+      "Light soy sauce",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chow_mein",
+    "name": "Chow mein",
+    "local_name": null,
+    "category": "STIR-FRY",
+    "rank": 7,
+    "short_description": "Originating from China, chow mein features a delightful medley of sautéed noodles tossed with tender beef, succulent seafood, and savory chicken or pork. Each bite bursts with umami flavors and a satisfying crunch.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0946b9809ef24450a6cfcb738de3dd51.jpg?mw=660",
+    "most_iconic_place": "Duddell's",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [
+      "Noodles",
+      "Beef",
+      "Seafood",
+      "Chicken",
+      "Pork",
+      "Scallions"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shabu_shabu",
+    "name": "Shabu-shabu",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 8,
+    "short_description": "Originating from Mongolia and embraced by Japanese cuisine, this interactive hot pot features tender slices of beef, lamb, pork, and fresh seafood like crab and lobster, simmered quickly in a savory broth. Each bite bursts with flavor, making for a delightful communal dining experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/20eb7a41894a457181057348f1314c1b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Crab",
+      "Lobster",
+      "Beef",
+      "Lamb",
+      "Pork",
+      "Chicken"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sweet_and_sour_sauce_táng_cù",
+    "name": "Sweet and sour sauce (Táng cù)",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 9,
+    "short_description": "Originating from Hunan, sweet and sour sauce delivers a delightful balance of tangy rice vinegar and rich soy sauce, thickened with corn starch and sweetened with sugar for a mouthwatering finish. Perfect for dipping or drizzling!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/246acd31811840e380f00221fe7d6569.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Hunan",
+    "ingredients": [
+      "Rice Vinegar",
+      "Soy sauce",
+      "Corn Starch",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hot_pot",
+    "name": "Hot pot",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 10,
+    "short_description": "A cherished Chinese culinary tradition, hot pot invites diners to simmer fresh meats, vegetables, and noodles in a bubbling broth at the table. The result is a vibrant, flavorful feast that encourages sharing and socializing.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6680af3463bb4eeebfe37fa96a0feef4.jpg?mw=660",
+    "most_iconic_place": "Chengdu Huangcheng Laoma",
+    "most_iconic_location": "Chengdu",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mapo_doufu",
+    "name": "Mapo doufu",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 11,
+    "short_description": "Originating from Sichuan, this fiery stew features silky tofu nestled in a bold, spicy sauce enriched with minced pork and beef, ginger, and fermented black beans for a savory punch.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8738dc28f1824697b53a1852456ccff5.jpg?mw=660",
+    "most_iconic_place": "Chen Mapo Tofu",
+    "most_iconic_location": "Chengdu",
+    "ingredients": [
+      "Tofu",
+      "Ground Pork",
+      "Ground Beef",
+      "Ginger",
+      "Scallions"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chinese_crullers_youtiao",
+    "name": "Chinese crullers (Youtiao)",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 12,
+    "short_description": "Crispy and golden, these Chinese crullers are deep-fried breadsticks that are delightfully airy and chewy. A beloved breakfast staple, they pair perfectly with warm soy milk or congee for a comforting start to the day.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5e7b95fc504b4db6ab1176e9890cf8de.jpg?mw=660",
+    "most_iconic_place": "Hung Lee",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [
+      "Wheat Flour",
+      "Milk",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "century_egg_pi_dan",
+    "name": "Century egg (Pi dan)",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 13,
+    "short_description": "A cherished Chinese delicacy, century egg boasts a rich umami flavor and creamy texture, achieved by preserving duck or quail eggs in a unique lye solution. Enjoy its bold, savory notes as a tantalizing appetizer.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/559347f0b0ed43349099de96d5184b7e.jpg?mw=660",
+    "most_iconic_place": "Yung Kee",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [
+      "Eggs",
+      "Duck Egg",
+      "Quail Egg",
+      "Black tea",
+      "Lye",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kung_pao_chicken_gong_bao",
+    "name": "Kung pao chicken (Gong bao)",
+    "local_name": null,
+    "category": "STIR-FRY",
+    "rank": 14,
+    "short_description": "A beloved staple of Chinese cuisine, this spicy stir-fry features tender chicken tossed with ginger, garlic, and hot peppers, all finished with crunchy peanuts for a satisfying crunch.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/91e1f0236e414f9dbaefe548f5384a20.jpg?mw=660",
+    "most_iconic_place": "Chen Mapo Tofu",
+    "most_iconic_location": "Chengdu",
+    "ingredients": [
+      "Chicken",
+      "Ginger",
+      "Garlic",
+      "Scallions",
+      "Hot Peppers",
+      "Peanuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "zhajiangmian",
+    "name": "Zhajiangmian",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 15,
+    "short_description": "Wheat noodles are tossed in a rich, savory soybean sauce, featuring ground pork or beef, and topped with crisp vegetables like cucumber and radish. A beloved Shandong specialty, it’s a comforting taste of home.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ae09eae7d55745b19059dbe883da3829.jpg?mw=660",
+    "most_iconic_place": "Old Beijing Zha Jiang Noodle King",
+    "most_iconic_location": "Dongcheng District",
+    "ingredients": [
+      "Noodles",
+      "Ground Pork",
+      "Ground Beef",
+      "Onion",
+      "Napa cabbage",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dan_dan_noodles_dàndànmiàn",
+    "name": "Dan Dan noodles (Dàndànmiàn)",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 16,
+    "short_description": "Originating from Sichuan, these noodles feature a rich, spicy sauce made with chili oil, ground pork, and vibrant Sichuan pepper. Each bite offers a perfect balance of heat and flavor, making it a beloved classic.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/148ba9db636c40f699567b013e9828c5.jpg?mw=660",
+    "most_iconic_place": "Li Xuan",
+    "most_iconic_location": "Chengdu",
+    "ingredients": [
+      "Noodles",
+      "Ground Pork",
+      "Sichuan pepper",
+      "Garlic",
+      "Cinnamon",
+      "Star Anise"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "orange_chicken_chen_pi_ji",
+    "name": "Orange chicken (Chen pi ji)",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 17,
+    "short_description": "Battered chicken is perfectly fried and tossed in a vibrant sweet-and-sour orange sauce with a hint of chili. Originating from American-Chinese cuisine, it offers a delightful twist on tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4cc2758bb1354d4e8b1e018105767fed.jpg?mw=660",
+    "most_iconic_place": "Little Bao",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [
+      "Chicken",
+      "Orange Juice",
+      "Eggs",
+      "Corn Starch",
+      "Wheat Flour",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shumai_shāomài",
+    "name": "Shumai (Shāomài)",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 18,
+    "short_description": "Originating from dim sum traditions in China, these open-topped dumplings delight with a savory blend of steamed ground pork, shrimp, and mushrooms, all wrapped in a delicate wheat flour skin. Each bite bursts with flavor, making them a must-try treat.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9a1dd20923f6437aa939f9aa9a2ea8a0.jpg?mw=660",
+    "most_iconic_place": "One Dim Sum",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [
+      "Wheat Flour",
+      "Ground Pork",
+      "Shrimps",
+      "Mushrooms",
+      "Eggs",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "siu_mei",
+    "name": "Siu mei",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 19,
+    "short_description": "Originating from Guangdong province, this savory delight features tender, roasted meats, often marinated in aromatic spices and served with a side of sweet soy sauce. Each bite bursts with smoky flavor, embodying the essence of traditional Chinese barbecue.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/97b086bf2e4144939a7d325035a1dc53.jpg?mw=660",
+    "most_iconic_place": "Yat Lok Restaurant",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "jianbing",
+    "name": "Jianbing",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 20,
+    "short_description": "Originating from China, jianbing is a beloved street food breakfast option, featuring a thin, savory crêpe made from a blend of flours, eggs, and scallions, cooked to crispy perfection. Enjoy the delightful contrast of textures and flavors in every bite!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f39430e2250744f1a13669aa4afd094f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tianjin",
+    "ingredients": [
+      "Black Bean Flour",
+      "Wheat Flour",
+      "Mung Bean Flour",
+      "Eggs",
+      "Scallions",
+      "Sweet bean sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "red_cooking_hong_shao",
+    "name": "Red-cooking (Hong shao)",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 21,
+    "short_description": "Originating from China, red-cooking infuses ingredients with a rich blend of soy sauce, rice wine, and caramelized sugar through slow-braising. The result is a deeply flavorful and aromatic dish that embodies comforting tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d60925a78e6142da9c4f91d964e6882f.jpg?mw=660",
+    "most_iconic_place": "Black Sesame Kitchen",
+    "most_iconic_location": "Dongcheng District",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "egg_tart_dàntà",
+    "name": "Egg tart (Dàntà)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 22,
+    "short_description": "Originating from Cantonese cuisine, these delightful pastries feature a buttery, flaky crust filled with rich, velvety egg custard, perfectly balancing sweet and savory flavors in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7215c17478d54e7f9d4f77102cd1a51c.jpg?mw=660",
+    "most_iconic_place": "Tai Cheong Bakery",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Milk",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "peking_duck_beijing_kao_ya",
+    "name": "Peking duck (Beijing kao ya)",
+    "local_name": null,
+    "category": "DUCK DISH",
+    "rank": 23,
+    "short_description": "Originating from the Yuan Dynasty, Peking duck features succulent American Pekin, crisp skin, and a sweet-savory glaze of hoisin, honey, and five-spice. Each bite is a flavorful journey through Beijing's culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d8c9977734d040b3bed4e29caff5b2b2.jpg?mw=660",
+    "most_iconic_place": "Beijing Da Dong",
+    "most_iconic_location": "Dongcheng District",
+    "ingredients": [
+      "American Pekin",
+      "Hoisin sauce",
+      "Ginger",
+      "Honey",
+      "Five-spice powder",
+      "Rice Vinegar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "har_gow_xiājiǎo",
+    "name": "Har gow (Xiājiǎo)",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 24,
+    "short_description": "Delicately crafted with a translucent wrapper, these Cantonese dumplings burst with succulent shrimp and crisp bamboo shoots. A staple of dim sum culture, har gow offers a delightful balance of flavors and textures.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c579bcc9409141b7a4878c4e75c53de3.jpg?mw=660",
+    "most_iconic_place": "Tim Ho Wan",
+    "most_iconic_location": "Hong Kong",
+    "ingredients": [
+      "Wheat Starch",
+      "Corn Starch",
+      "tapioca flour",
+      "Shrimps",
+      "Bamboo Shoots",
+      "Ginger"
+    ],
+    "is_active": true
+  }
+]

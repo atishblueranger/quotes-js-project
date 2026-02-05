@@ -1,0 +1,704 @@
+[
+  {
+    "id": "guláš",
+    "name": "Guláš",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 1,
+    "short_description": "Traditional guláš is a hearty meat stew served with a dark red sauce that is heavily seasoned with paprika. Through history, this dish with Hungarian origins has become one of the most common meals in...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ac9575707133493f984feb3f97619e48.jpg?mw=660",
+    "most_iconic_place": "Ferdinanda",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Caraway",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_dumplings_knedlíky",
+    "name": "Czech dumplings (Knedlíky)",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 2,
+    "short_description": "Czech knedlíky are traditional savory and sweet dumplings created with various ingredients. The main savory varieties include houskový, made with soaked bread, bramborové, made with mashed potatoes, s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/beb7e6fabbca4a018553a352003e249e.jpg?mw=660",
+    "most_iconic_place": "Café Savoy",
+    "most_iconic_location": "Prague",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bublanina",
+    "name": "Bublanina",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 3,
+    "short_description": "Bublanina is a light sponge cake prepared with eggs, butter, sugar, flour, and a variety of different fruits such as cherries, strawberries, blueberries, apricots, and fragrant plums and pears. The sp...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/28f6aa5fb4f14b65adf6b2fc172df188.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Heavy Cream",
+      "Baking Powder",
+      "Lemon Zest",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "koláče",
+    "name": "Koláče",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 4,
+    "short_description": "Koláče or kolache (plural: kolaches) is a sweet pastry roll that is traditionally topped with plums or plum jam, cheese, or poppy seeds. Modern toppings might include fruit such as apricots, blueberri...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/318a93f09682496793856dfa06198829.jpg?mw=660",
+    "most_iconic_place": "Perníčkův Sen",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Cheese",
+      "Apricot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "řízek",
+    "name": "Řízek",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 5,
+    "short_description": "Řízek is the Czech version of the famous Austrian Wiener schnitzel, consisting of thin, tenderized pieces of meat that are coated in a combination of breadcrumbs, flour, and eggs. The meat is then gen...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8f1f4441e3e74fa88b100632bbb50739.jpg?mw=660",
+    "most_iconic_place": "Café Imperial",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Veal",
+      "Pork",
+      "Chicken",
+      "Turkey",
+      "Eggs",
+      "Breadcrumbs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "svíčková",
+    "name": "Svíčková",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 6,
+    "short_description": "This delicious beef dish is one of the best-known creations of Czech cuisine. It is made with marinated braised beef, usually tenderloin, served in a creamy vegetable sauce made with carrots, celeriac...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/816ef03512524348a002bdbcb449f7ef.jpg?mw=660",
+    "most_iconic_place": "Café Imperial",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Beef",
+      "Carrot",
+      "Celery",
+      "Onion",
+      "Bacon",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ovocné_knedlíky",
+    "name": "Ovocné knedlíky",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 7,
+    "short_description": "These sweet, fruit-filled Czech dumplings appear in numerous varieties throughout the country. They are made with either leavened or potato dough, or the combination of wheat flour and fresh quark che...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0fc754462dde4b058002324656d6518c.jpg?mw=660",
+    "most_iconic_place": "Café Savoy",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Wheat Flour",
+      "Apricot",
+      "Strawberries",
+      "Blueberries",
+      "Plums",
+      "Quark"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "perníčky",
+    "name": "Perníčky",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 8,
+    "short_description": "Perníčky is a term used to describe traditional Czech cookies spiced with cinnamon, cloves, nutmeg, allspice, and ginger. They are usually cut out into different shapes and decorated with chocolate, y...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/22e822c84963413bbc23b4f6042b5c59.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Ginger",
+      "Cocoa Powder",
+      "Nutmeg",
+      "Star Anise"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_potato_pancakes_bramboráky",
+    "name": "Czech potato pancakes (Bramboráky)",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 9,
+    "short_description": "Bramboráky are savory potato pancakes, considered to be one of the most famous Czech dishes. They consist of grated potatoes mixed with eggs, finely grated garlic, and traditional spices such as marjo...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/44a39b3cdc874bb3bc6eff9986d1c7f5.jpg?mw=660",
+    "most_iconic_place": "Vila Barbora",
+    "most_iconic_location": "Hořičky",
+    "ingredients": [
+      "Potatoes",
+      "Wheat Flour",
+      "Eggs",
+      "Garlic",
+      "Marjoram",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "houska",
+    "name": "Houska",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 10,
+    "short_description": "Houska is a popular Czech bread roll, simple and small in size. It is made with plain wheat flour, milk, yeast, salt, and, occasionally, eggs. Before baking, it is usually braided and shaped into a pl...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d11d187528ea4ac1833d0eb9d6c0a73f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Yeast",
+      "Milk",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spit_cake_trdelník",
+    "name": "Spit cake (Trdelník)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 11,
+    "short_description": "This Hungarian tube-shaped pastry popularly known as chimney cake traces its origin to the medieval era Székely Land—back then a part of the Kingdom of Hungary. The first known recipe titled Kürtős ka...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b17fce3105f54e74864d7de485513231.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Cinnamon",
+      "Vanilla Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sekaná",
+    "name": "Sekaná",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 12,
+    "short_description": "Although it appears in numerous varieties throughout the country, this traditional Czech meatloaf is usually prepared with a combination of ground beef and pork, eggs, soaked bread, and a variety of s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7ad3d3ffba094b209f22e566ab1504ea.jpg?mw=660",
+    "most_iconic_place": "Naše Maso",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Beef",
+      "Eggs",
+      "Bread",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_garlic_soup_česnečka",
+    "name": "Czech garlic soup (Česnečka)",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 13,
+    "short_description": "In Czech folklore, the best cure for a cold or a hangover is a bowl of česnečka, a traditional garlic soup. Although garlic is the key ingredient, the soup also incorporates potatoes, meat broth, onio...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4c9e7ec59b7a4c088465fd598a03736e.jpg?mw=660",
+    "most_iconic_place": "U Kroka",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Marjoram",
+      "Caraway",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "roasted_duck_pečená_kachna",
+    "name": "Roasted duck (Pečená kachna)",
+    "local_name": null,
+    "category": "DUCK DISH",
+    "rank": 14,
+    "short_description": "In the Czech Republic, roasted duck is known as pečená kachna. The duck is usually seasoned with caraway seeds and marjoram, then slowly roasted in the oven until golden brown and crispy. It is tradit...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3af3506f91fe46a58fef80929de19103.jpg?mw=660",
+    "most_iconic_place": "V Zátiší",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Duck",
+      "Caraway",
+      "Marjoram",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chlebíčky",
+    "name": "Chlebíčky",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 15,
+    "short_description": "Chlebíčky are small, open-faced sandwiches originating from the Czech Republic. Although there are many open-faced sandwiches throughout the world, chlebíčky are unique because of their unusual combin...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7d0b13a8798b48f9b02df8e8203f6200.jpg?mw=660",
+    "most_iconic_place": "Sisters",
+    "most_iconic_location": "Prague",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "buchty",
+    "name": "Buchty",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "Buchty are traditional Czech yeasted buns that are filled with various sweet ingredients. They consist of a light, buttery dough that is occasionally enriched with fragrant vanilla or citrus flavoring...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3c8c4d8168f844c4892f2213e9694b4e.jpg?mw=660",
+    "most_iconic_place": "Antonínovo Pekařství",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Sugar",
+      "Cream Cheese"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "smažený_sýr",
+    "name": "Smažený sýr",
+    "local_name": null,
+    "category": "CHEESE DISH",
+    "rank": 17,
+    "short_description": "This traditional Czech specialty is also known by the popular name smazak. The dish consists of a block of cheese – usually Edam – which is coated in eggs, breadcrumbs, and flour, then shallow-fried u...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a748dafb34ad4e5eb073289af3f9feed.jpg?mw=660",
+    "most_iconic_place": "Lokál Dlouhááá",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Hard Cheese",
+      "Wheat Flour",
+      "Breadcrumbs",
+      "Eggs",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "karbanátky",
+    "name": "Karbanátky",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 18,
+    "short_description": "Karbanátky is a universal term which refers to a broad group of traditional Czech and Slovak patties. Although they are predominately made with minced pork, beef, or chicken, they can also be based on...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a671f86a21e54a19a43500c7fcf69253.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Eggs",
+      "Breadcrumbs",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "utopenci",
+    "name": "Utopenci",
+    "local_name": null,
+    "category": "SAUSAGE DISH",
+    "rank": 19,
+    "short_description": "Utopenci is a popular Czech dish that is commonly served in pubs and bars as a snack. It consists of sausages that are pickled in a tangy marinade with bay leaves, onions, black pepper, and other spic...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2ccd12ceae77462ea693b8fba0c92a97.jpg?mw=660",
+    "most_iconic_place": "Strahov Monastery Brewery",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Cooked Sausage",
+      "Onion",
+      "Hot Peppers",
+      "Bay Leaves",
+      "Peppercorns",
+      "Allspice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_pancakes_lívance",
+    "name": "Czech pancakes (Lívance)",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 20,
+    "short_description": "Round, thick, and soft, lívance are traditional Czech pancakes. The addition of yeast in the egg batter gives them an incredibly soft and buttery texture and differentiates them from other common panc...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5ecc1f4219704c7b8ae2ce14a54e1300.jpg?mw=660",
+    "most_iconic_place": "Den Noc",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Yeast",
+      "Cinnamon",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bramboračka",
+    "name": "Bramboračka",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 21,
+    "short_description": "Although it was originally considered a poor man’s meal, this creamy potato soup known as bramboračka has become one of the classics of Czech cuisine. It appears in numerous variations, but mainly inc...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9102ac501aaf4062ab33224c31085da0.jpg?mw=660",
+    "most_iconic_place": "Restaurace Mincovna",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Potatoes",
+      "Mushrooms",
+      "Carrot",
+      "Celery",
+      "Parsley Root",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pork_roast_with_dumplings_and_sauerkraut_vepřo_knedlo_zelo",
+    "name": "Pork roast with dumplings and sauerkraut (Vepřo knedlo zelo)",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 22,
+    "short_description": "The name of this Czech national dish translates simply as pork roast with bread dumplings and sauerkraut. Pork is roasted in the oven with chopped onions, and the drippings from the roast are reduced ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e625a0f827e64e0d827e7210c98cc44c.jpg?mw=660",
+    "most_iconic_place": "Lokál Dlouhááá",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Caraway",
+      "Wheat Flour",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vdolky",
+    "name": "Vdolky",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 23,
+    "short_description": "These soft, tender Czech doughnuts are prepared with yeasted dough that is occasionally flavored with lemon zest. They are typically round and have a small indentation on the top, which is used to hol...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/23c6588a1ad24c9cbd87111ebd895a53.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Cottage Cheese",
+      "Butter",
+      "Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_blood_sausage_jelita",
+    "name": "Czech blood sausage (Jelita)",
+    "local_name": null,
+    "category": "BLOOD SAUSAGE",
+    "rank": 24,
+    "short_description": "Jelito is a traditional blood sausage. Prepared with pig’s blood and ground pork meat (mainly head, belly, and offal) it incorporates lard and various spices such as marjoram and cumin. Many jelito va...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/62089562acc6429a9c9f044227b8e771.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Pork Offal",
+      "Pig’s Blood",
+      "Barley",
+      "Onion",
+      "Lard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "valašský_frgál",
+    "name": "Valašský frgál",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 25,
+    "short_description": "Also known as vdolek, pecák or lopaták, Valašský frgál is a traditionally made, round-shaped sweet cake with toppings, produced in the Moravian Wallachia region in the south-eastern part of the Czech ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/165d224b3e9a4858a39f5e6ed076afa4.jpg?mw=660",
+    "most_iconic_place": "Hukvaldská Pekárna",
+    "most_iconic_location": "Hukvaldy",
+    "ingredients": [
+      "Wheat Flour",
+      "Blueberries",
+      "Jam",
+      "Cheese Curds",
+      "Walnuts",
+      "Poppy Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kulajda",
+    "name": "Kulajda",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 26,
+    "short_description": "Czech kulajda is a creamy dill soup with a floury roux acting as the base. It is believed that every Czech region and family have their signature version of this hearty soup. Today most varieties cons...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ac1ffba19f054a8cbb52fc6307c30186.jpg?mw=660",
+    "most_iconic_place": "Café Imperial",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Potatoes",
+      "Mushrooms",
+      "Dill",
+      "Eggs",
+      "Wheat Flour",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_fish_soup_rybí_polévka",
+    "name": "Czech fish soup (Rybí polévka)",
+    "local_name": null,
+    "category": "FISH SOUP",
+    "rank": 27,
+    "short_description": "Rybí polévka is a traditional fish soup that is enjoyed as a part of the festive Christmas Eve dinner. It is typically prepared with carp, various root vegetables, and different spices, but some versi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1ba530be5a694c67b32ff64deadc74ad.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Carp",
+      "Onion",
+      "Carrot",
+      "Celery",
+      "Shallots",
+      "Parsley Root"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vánočka",
+    "name": "Vánočka",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 28,
+    "short_description": "Traditionally prepared for Christmastime, vánočka is a braided brioche-like bread that is typically flavored with rum and lemon zest, although it is often made with the addition of raisins and almonds...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1fd01e5246c240d5805f027f5365619f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Butter",
+      "Raisins",
+      "Almonds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_easter_bread_mazanec",
+    "name": "Czech Easter bread (Mazanec)",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 29,
+    "short_description": "Mazanec is a traditional sweet Easter bread prepared with a brioche-like dough that is enriched with raisins, lemon zest, and rum. Shaped into large, round loaves, before baking it is sprinkled with s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4541fa5525bd4e0681ef1904f29e775e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Raisins",
+      "Almonds",
+      "Yeast",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_sauerkraut_soup_zelná_polévka",
+    "name": "Czech sauerkraut soup (Zelná polévka)",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 30,
+    "short_description": "Zelňačka is a traditional sauerkraut soup. Although there are numerous varieties of this Czech classic, most of them consist of sour cabbage, potatoes, cream, and traditional Czech smoked meat. Thick,...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f9ee594312504dbe9437b01c1f04b5db.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sauerkraut",
+      "Potatoes",
+      "Cooked Sausage",
+      "Onion",
+      "Lard",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_lentil_soup_čočková_polévka",
+    "name": "Czech lentil soup (Čočková polévka)",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 31,
+    "short_description": "Čočková polévka is a comforting Czech lentil soup. It is usually made with brown or green dry lentils, root vegetables, and various spices such as marjoram or coriander. Occasionally, it is thickened ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/38ad99a8009349b3a47cf8460d84d3cc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lentils",
+      "Carrot",
+      "Parsley Root",
+      "Onion",
+      "Garlic",
+      "Marjoram"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_hot_dog_párek_v_rohlíku",
+    "name": "Czech hot dog (Párek v rohlíku)",
+    "local_name": null,
+    "category": "HOT DOG",
+    "rank": 32,
+    "short_description": "Párek v rohlíku is a Czech dish that consists of small parek sausages served inside bread rolls. In many ways, this Czech classic resembles a hot dog, but the bread rolls are usually hollowed and the ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fd9142e5e6834804ac1caf50ed48f769.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "South Bohemia",
+    "ingredients": [
+      "Vienna Beef Hot Dog",
+      "Bread Roll",
+      "Mustard",
+      "Ketchup"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_dill_sauce_koprová_omáčka",
+    "name": "Czech dill sauce (Koprová omáčka)",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 33,
+    "short_description": "Czech cuisine abounds in various sauces, and one of the most common types is a thick and creamy dill sauce known as koprová omáčka. The base of this sauce is a creamy mixture of milk or meat broth tha...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ad13a400ddc448a197c7deccbab1bbff.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Dill",
+      "Butter",
+      "Heavy Cream",
+      "Beef Stock",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kuře_na_paprice",
+    "name": "Kuře na paprice",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 34,
+    "short_description": "Kuře na paprice is a Czech interpretation of the famous Hungarian chicken paprikash. The dish consists of braised chicken pieces doused in a creamy sauce that is generously spiced with Hungarian sweet...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e2aa0fe2ded8470c9b2798c843aba311.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Paprika",
+      "Allspice",
+      "Butter",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "czech_tripe_soup_dršťková_polévka",
+    "name": "Czech tripe soup (Dršťková polévka)",
+    "local_name": null,
+    "category": "OFFAL SOUP",
+    "rank": 35,
+    "short_description": "Dršťková is a traditional tripe soup consisting of beef tripe braised in generous amounts of onions and sweet paprika. Although it has numerous regional varieties, this hearty soup typically has a thi...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/69d9b93da7a348fba16525bee312407f.jpg?mw=660",
+    "most_iconic_place": "U Matěje",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Beef Tripe",
+      "Onion",
+      "Garlic",
+      "Paprika",
+      "Marjoram",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "míša_řezy",
+    "name": "Míša řezy",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 36,
+    "short_description": "Míša řezy is a traditional dessert made with quark cheese (tvaroh) as the key ingredient. The cake consists of three distinct layers – a base of chocolate sponge cake, a layer of quark cheese, sugar, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/56bd17095c5a4a05bc58efc54328895b.jpg?mw=660",
+    "most_iconic_place": "U Kroka",
+    "most_iconic_location": "Prague",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Twaróg",
+      "Dark Chocolate",
+      "Cocoa Powder",
+      "Butter"
+    ],
+    "is_active": true
+  }
+]

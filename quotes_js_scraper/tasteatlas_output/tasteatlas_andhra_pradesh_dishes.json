@@ -1,0 +1,260 @@
+[
+  {
+    "id": "pulihora",
+    "name": "Pulihora",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Pulihora is a popular south Indian dish that can easily be found in the states of Andhra Pradesh, Tamil Nadu, and Karnataka. It consists of rice, turmeric, tamarind, curry leaves, coriander, ginger, a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2a00c116070d46a7a8dd91c0e086f76d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Tamarind",
+      "Turmeric",
+      "Curry leaves",
+      "Coriander",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khaja",
+    "name": "Khaja",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 2,
+    "short_description": "Khaja is a traditional dessert consisting of flour, sugar, and ghee-based dough that is deep-fried in oil until golden and crispy. After the preparation, khaja is sometimes soaked in sugar syrup, depe...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7c239718f9404b2b82d38832422c3763.jpg?mw=660",
+    "most_iconic_place": "Suruchi Foods",
+    "most_iconic_location": "Kakinada",
+    "ingredients": [
+      "Maida Flour",
+      "Ghee",
+      "Cardamom",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pesara_dosa",
+    "name": "Pesara dosa",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 3,
+    "short_description": "Pesara dosa (also called pesara attu or mung bean dosa) is India's national dish and one of the most popular breakfast foods in Andhra and Rajasthan. Dosa is the world's thinnest griddlecake, a paper-...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/bfbbd4dc711f41998c123baeaf6c13cc.jpg?mw=660",
+    "most_iconic_place": "Babai Hotel",
+    "most_iconic_location": "Vijayawada",
+    "ingredients": [
+      "Mung Bean Flour",
+      "Ghee",
+      "Ginger",
+      "Hot Peppers",
+      "Cumin Seeds",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "undrallu",
+    "name": "Undrallu",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 4,
+    "short_description": "Undrallu is a traditional dish originating from Andhra Pradesh. These steamed rice balls are made with a combination of rice, water, Bengal gram (chana dal), and salt. The rice is washed, dried, groun...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0a8a46341f0a4298b24388f6fbd7a274.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice Flour",
+      "Bengal Gram",
+      "Ghee",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pootharekulu",
+    "name": "Pootharekulu",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Pootharekulu is a traditional sweet originating from the Atreyapuram village in the state of Andhra Pradesh. Its name translates to \"coated sheet\" in Telugu, reflecting its unique ap...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c6f6822503474146a5a535747c327b5b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Atreyapuram",
+    "ingredients": [
+      "Rice Flour",
+      "Ghee",
+      "Sugar",
+      "Jaggery",
+      "Cardamom",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pulagam",
+    "name": "Pulagam",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 6,
+    "short_description": "Pulagam is a popular Indian rice dish that is usually prepared when one is sick and feeling tired, or as an offering to God during festivals such as Sankranti, where newly harvested rice and split gre...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4dc5680ceb9a41bfa842315470c9d5a8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Mung beans",
+      "Ghee",
+      "Ginger",
+      "Cumin Seeds",
+      "Curry leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khageena",
+    "name": "Khageena",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 7,
+    "short_description": "Khageena is a traditional dish consisting of savory scrambled eggs. The dish is also popular in Pakistan. It’s usually made with a combination of eggs, onions, tomatoes, green chili peppers, oil, butt...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ba12a8a5a42d4022a27647c25c925883.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Onion",
+      "Tomato",
+      "Hot Peppers",
+      "Ginger-garlic paste",
+      "Turmeric"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pappu_charu",
+    "name": "Pappu charu",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 8,
+    "short_description": "Pappu charu is a traditional Andhra-style dal-based dish, similar to sambar but without sambar powder. It is a tangy, mildly spiced lentil soup made with toor dal (pigeon pea lentils), tamarind, and s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/353f4d679be147579c8ce95df4995b16.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pigeon Peas",
+      "Tamarind",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hari_mirch_ke_pakodey",
+    "name": "Hari mirch ke pakodey",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 9,
+    "short_description": "Hari mirch ke pakodey is a traditional dish originating from Andhra Pradesh. This snack is made with a combination of green chili peppers, salt, potatoes, amchur (powdered mango), coriander leaves, cu...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/66099464ffb1494e9fdfb7ba04bae072.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Hot Peppers",
+      "Gram Flour",
+      "Red Chilli Powder",
+      "Amchur",
+      "Cumin",
+      "Turmeric"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chintakaya_chaap",
+    "name": "Chintakaya chaap",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "Chintakaya chaap is a traditional curry originating from Andhra Pradesh. The dish is usually made with a combination of mutton chops, thinly sliced onions, mustard powder, ginger, sliced potatoes, oil...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Mutton",
+      "Tamarind",
+      "Onion",
+      "Tomato",
+      "Potatoes",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chandrakanthalu",
+    "name": "Chandrakanthalu",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 11,
+    "short_description": "Chandrakanthalu are traditional Indian cookies originating from Andhra Pradesh. They’re made with a combination of green gram (moong dal), sugar, coconut, cardamom, saffron, cashew nuts, and ghee. The...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eac8bcafd4cd4836a511b6637d1f8cd5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Mung Bean Flour",
+      "Coconut",
+      "Cashews",
+      "Cardamom",
+      "Saffron",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "red_sorrel_leaves_chutney_gongura_pachadi",
+    "name": "Red sorrel leaves chutney (Gongura pachadi)",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 12,
+    "short_description": "Gongura pachadi is a traditional chutney originating from Andhra Pradesh. This type of chutney is made with red sorrel leaves, onions, chili peppers, oil, garlic, mustard, cumin, curry leaves, and ura...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Red Sorrel Leaves",
+      "Hot Peppers",
+      "Black Grams",
+      "Fenugreek Seeds",
+      "Mustard Seeds",
+      "Curry leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "palakayalu",
+    "name": "Palakayalu",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 13,
+    "short_description": "Palakayalu is a traditional snack that's especially popular in Tamil Nadu and Andhra Pradesh. The snack is usually prepared with a combination of rice flour, sesame seeds, ghee, grated coconut, chili ...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice Flour",
+      "Coconut",
+      "Ghee",
+      "Red Chilli Powder",
+      "Sesame Seeds",
+      "Cumin Seeds"
+    ],
+    "is_active": true
+  }
+]

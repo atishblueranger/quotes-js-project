@@ -1,0 +1,450 @@
+[
+  {
+    "id": "amritsari_kulcha",
+    "name": "Amritsari kulcha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 1,
+    "short_description": "Coming from the North Indian city of Amritsari, Amritsari kulcha is a flatbread stuffed with potatoes, onions, cottage cheese, and spices. The flatbread is commonly garnished with coriander seeds, cil...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/dec410f7acfa475bbf94668ba691d96f.jpg?mw=660",
+    "most_iconic_place": "Kulcha Land",
+    "most_iconic_location": null,
+    "ingredients": [
+      "Maida Flour",
+      "Dahi",
+      "Ghee",
+      "Potatoes",
+      "Onion",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paneer_kulcha",
+    "name": "Paneer kulcha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 2,
+    "short_description": "Paneer kulcha is a traditional dish that's especially popular in its flaky Amritsari-style version. The dish consists of leavened flatbread called kulcha that's stuffed with paneer cheese. Although th...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/feab3e568977430e9e92176047c3f5cc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Maida Flour",
+      "Dahi",
+      "Paneer",
+      "Ghee",
+      "Hot Peppers",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "amritsari_fish_amritsari_machhli",
+    "name": "Amritsari fish (Amritsari machhli)",
+    "local_name": null,
+    "category": "FRESHWATER FISH DISH",
+    "rank": 3,
+    "short_description": "Amritsari fish is a traditional fish dish and a popular street food originating from Amritsari. It’s usually made with a combination of freshwater fish, ginger-garlic paste, ajwain, red chili powder, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/edef2b62683a4028bc2427f68a99bff8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Freshwater Fish",
+      "Gram Flour",
+      "Ginger-garlic paste",
+      "Ajwain",
+      "Red Chilli Powder",
+      "Coriander Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chur_chur_naan",
+    "name": "Chur chur naan",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 4,
+    "short_description": "Chur chur is a traditional flatbread and a variety of naan. The dough is usually made with flour, sugar, baking powder, ghee, salt, dahi, water, and oil. Once shaped, the dough is stuffed with a mixtu...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ba4f0ac89e2c4a51b9fffbf208276b99.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Maida Flour",
+      "Dahi",
+      "Ghee",
+      "Potatoes",
+      "Paneer",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kulcha",
+    "name": "Kulcha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 1,
+    "short_description": "Kulcha is an Indian flatbread made with wheat flour, and it is commonly served as an accompaniment to chickpea curry. The bread is cooked in a tandoor or on a griddle, and it is usually brushed with g...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1bac151589d64b298ae673624e080866.jpg?mw=660",
+    "most_iconic_place": "Kulcha Land",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Maida Flour",
+      "Dahi",
+      "Baking Powder",
+      "Baking Soda",
+      "Ghee",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dal_makhani",
+    "name": "Dal makhani",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Although it originated in Punjab, dal makhani has become one of the most popular Indian lentil dishes, both in the country and outside of its borders. It consists of red kidney beans and whole black l...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2cbbb8c2a74541c0b03aeaaad7498ca3.jpg?mw=660",
+    "most_iconic_place": "Kesar da Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Black Grams",
+      "Kidney Beans",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "phirni",
+    "name": "Phirni",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 3,
+    "short_description": "Phirni is a dessert made with ground rice that's cooked in milk and flavored with almonds, saffron, and cardamom. A favorite in North India, it is most often prepared for special occasions or festival...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/acd78bd43653438ebb11cef93894fc4e.jpg?mw=660",
+    "most_iconic_place": "Kesar da Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Rice",
+      "Milk",
+      "Almonds",
+      "Saffron",
+      "Cardamom",
+      "Nuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sarson_ka_saag",
+    "name": "Sarson ka saag",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 4,
+    "short_description": "Sarson da saag (also sarson ka saag or mustard greens) is a popular Punjabi vegetarian dish consisting of leaves of the mustard plant, spinach, green chilli, fenugreek, ginger and salt. The dish is sl...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ee2a4728c9d84df3af8e11719c0dfca8.jpg?mw=660",
+    "most_iconic_place": "Bade Bhai ka Brothers Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Mustard Greens",
+      "Spinach",
+      "Onion",
+      "Garlic",
+      "Hot Peppers",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "palak_paneer",
+    "name": "Palak paneer",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 5,
+    "short_description": "Palak paneer is a popular Indian vegetarian dish made with paneer cheese in a rich, thick sauce consisting of puréed spinach mixed with tomatoes, garam masala, garlic, and numerous spices. The key ing...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4ecba690cc0b47809d43d70c7a6b3a39.jpg?mw=660",
+    "most_iconic_place": "Kesar da Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Paneer",
+      "Spinach",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Garam masala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kheer",
+    "name": "Kheer",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 6,
+    "short_description": "Kheer or payasam is an ancient Indian dessert, a creamy rice pudding that is made in several versions across the country. It is a common dish at numerous Indian ceremonies, festivals, and celebrations...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/67f10cadc4de457bbbefb3600c2298e7.jpg?mw=660",
+    "most_iconic_place": "Crystal Restaurant",
+    "most_iconic_location": "Odisha",
+    "ingredients": [
+      "Basmati",
+      "Cashews",
+      "Almonds",
+      "Cardamom",
+      "Saffron",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "baingan_bharta",
+    "name": "Baingan bharta",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 7,
+    "short_description": "Baingan bharta is a vegetarian side dish that is very popular in India, Pakistan, and Bangladesh due to its rich aroma and flavor. It consists of minced and grilled eggplants that are combined with co...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3dac64e6c7ab4136afce851b23e306ee.jpg?mw=660",
+    "most_iconic_place": "Bharawan Da Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Eggplant",
+      "Tomato",
+      "Onion",
+      "Hot Peppers",
+      "Ginger-garlic paste",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paratha",
+    "name": "Paratha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 8,
+    "short_description": "Golden-brown in color, flaky and layered, paratha is a type of Indian bread that is typically consumed for breakfast. The name comes from a combination of words parat and atta (flour), referring to th...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7053f1036e63478db68ce8ba7583b39e.jpg?mw=660",
+    "most_iconic_place": "Kesar da Dhaba",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "shahi_paneer",
+    "name": "Shahi paneer",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 9,
+    "short_description": "Originating from India's Moghul cuisine, shahi paneer is a cheese curry that is prepared with paneer cheese, onions, cashews, and a rich, spicy tomato-cream sauce. The dish is typically accompanied by...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ceff65c140064d6285fc3814534a349b.jpg?mw=660",
+    "most_iconic_place": "Bharawan Da Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Cashews",
+      "Ginger-garlic paste",
+      "Heavy Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pinni",
+    "name": "Pinni",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 10,
+    "short_description": "Pinni is a dessert from Punjabi and North Indian cuisine that is enjoyed during wintertime after lunch or as a snack paired with a cup of tea or a glass of warm dairy. The adorable little cakes are ma...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e059e4b426b648a5ab8fff1a0f05fbf3.jpg?mw=660",
+    "most_iconic_place": "Bansal Sweets",
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Ghee",
+      "Almonds",
+      "Cardamom",
+      "Jaggery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gulab_jamun",
+    "name": "Gulab jamun",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 11,
+    "short_description": "Gulab jamun is a dessert based on milk solids that are kneaded into a dough, shaped into balls, and deep-fried in ghee. The balls then get soaked in a sugary concoction flavored with saffron, green ca...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/23fba80da08c46ceba5a99a5b1f1f200.jpg?mw=660",
+    "most_iconic_place": "Gurdas Ram Jalebi Wala",
+    "most_iconic_location": "India",
+    "ingredients": [
+      "Mawa",
+      "Maida Flour",
+      "Baking Powder",
+      "Cardamom",
+      "Ghee",
+      "Rose Water"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "roti",
+    "name": "Roti",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 12,
+    "short_description": "Roti is a flat and unleavened bread made with wholemeal flour. It is traditionally cooked on an iron griddle called tava, an important vessel in the Indian cuisine. In Indian cuisine, roti is as essen...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1bd5e63b79b344ef9b56cc6480470dba.jpg?mw=660",
+    "most_iconic_place": "Bade Bhai ka Brothers Dhaba",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "makki_ki_roti",
+    "name": "Makki ki roti",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 13,
+    "short_description": "Roti is a flat, unleavened whole wheat bread, visually similar to a pancake, cooked on a traditional iron griddle called tawa, a key element of the rural cuisine of Punjabi. It is one of the most basi...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/986b796daf3941c88a645b0675d92545.jpg?mw=660",
+    "most_iconic_place": "Bade Bhai ka Brothers Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Cornmeal",
+      "Ghee",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "aloo_gobi",
+    "name": "Aloo gobi",
+    "local_name": null,
+    "category": "POTATO DISH",
+    "rank": 14,
+    "short_description": "Aloo gobi is a traditional dish with origins in Northern India, although it is popular throughout the country, but also in Nepal and Pakistan. Its key ingredients are potatoes, cauliflower, onions, an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d5e9d11a668640eb9cfd790b4c21436a.jpg?mw=660",
+    "most_iconic_place": "Kesar da Dhaba",
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Potatoes",
+      "Cauliflower",
+      "Tomato",
+      "Onion",
+      "Ghee",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "aloo_paratha",
+    "name": "Aloo paratha",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 15,
+    "short_description": "Aloo paratha is one of the most popular breakfast foods in northern India, a flatbread stuffed with a spicy potato mixture. Its name is derived from aloo, denoting a potato, parat, denoting layers, an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/68a0b958e4ec47d7bfc0f5554b5bb746.jpg?mw=660",
+    "most_iconic_place": "Kesar da Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Potatoes",
+      "Ghee",
+      "Ginger",
+      "Hot Peppers",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tandoori",
+    "name": "Tandoori",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 16,
+    "short_description": "The most popular Indian dishes are those cooked over a blazing fire in the so-called tandoor, a cylindrical open-top clay oven fueled by wood or charcoal. The tandoori technique evolved from an old Mi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7f5792f3a5fa48daa65c345f236b34d1.jpg?mw=660",
+    "most_iconic_place": "Beera Chicken House",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tandoori_chicken_tandoori_murgh",
+    "name": "Tandoori chicken (Tandoori murgh)",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 17,
+    "short_description": "Tandoori chicken or tandoori murgh is one of the most popular dishes in Indian cuisine, its name derived from the Persian word tannur, meaning fire. The dish consists of chicken meat that is marinated...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/bdab2e7920f0409188d0b3646826893a.jpg?mw=660",
+    "most_iconic_place": "Beera Chicken House",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Chicken",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Garam masala",
+      "Cumin",
+      "Turmeric"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mattar_paneer",
+    "name": "Mattar paneer",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 18,
+    "short_description": "Mattar paneer is a popular vegetarian dish of North Indian origin, made with peas and paneer cheese in a garam masala-spiced tomato sauce. The rich, thick curry is a specialty of Punjab, but it is wid...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ef2e189156f642d989e433c2af47a584.jpg?mw=660",
+    "most_iconic_place": "Kesar da Dhaba",
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Green Peas",
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Garam masala",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kadhi",
+    "name": "Kadhi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 19,
+    "short_description": "The term kadhi encompasses a broad group of Indian dishes that use yogurt or buttermilk as a base and are typically thickened with gram flour (besan). Though kadhi is popular throughout India, most re...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ed4b71cd5e8c4ba091ac261fa6537cac.jpg?mw=660",
+    "most_iconic_place": "Kesar da Dhaba",
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "roshmalai",
+    "name": "Roshmalai",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 20,
+    "short_description": "Roshmalai or ras malai is a popular Bengali and Indian dessert consisting of milk, sugar and cardamom-flavored paneer cheese known as chhana. Almonds, cashews, and saffron are often added to the desse...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b53ee1a62b704a36b63361822681ed47.jpg?mw=660",
+    "most_iconic_place": "Ahuja Milk Bhandar",
+    "most_iconic_location": "Bangladesh",
+    "ingredients": [
+      "Milk",
+      "Cardamom",
+      "Sugar",
+      "Saffron",
+      "Almonds",
+      "Pistachios"
+    ],
+    "is_active": true
+  }
+]

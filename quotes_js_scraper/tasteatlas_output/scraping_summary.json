@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-01-29T11:57:54.632329",
+  "config": {
+    "urls": "urls_tasteatlas.json",
+    "max_dishes": 50,
+    "delay": 3,
+    "output_dir": "tasteatlas_output",
+    "start_from": 0
+  },
+  "summary": {
+    "total": 4,
+    "successful": 3,
+    "failed": 1,
+    "total_dishes": 0
+  },
+  "results": [
+    {
+      "success": false,
+      "error": "'charmap' codec can't decode byte 0x9d in position 19034: character maps to <undefined>",
+      "place": "chennai",
+      "url": "https://www.tasteatlas.com/chennai",
+      "index": 0
+    },
+    {
+      "success": true,
+      "count": 0,
+      "file": "tasteatlas_output\\tasteatlas_ahmedabad_dishes.json",
+      "place": "ahmedabad",
+      "url": "https://www.tasteatlas.com/ahmedabad",
+      "index": 1
+    },
+    {
+      "success": true,
+      "count": 0,
+      "file": "tasteatlas_output\\tasteatlas_jodhpur_dishes.json",
+      "place": "jodhpur",
+      "url": "https://www.tasteatlas.com/jodhpur",
+      "index": 2
+    },
+    {
+      "success": true,
+      "count": 0,
+      "file": "tasteatlas_output\\tasteatlas_bikaner_dishes.json",
+      "place": "bikaner",
+      "url": "https://www.tasteatlas.com/bikaner",
+      "index": 3
+    }
+  ]
+}

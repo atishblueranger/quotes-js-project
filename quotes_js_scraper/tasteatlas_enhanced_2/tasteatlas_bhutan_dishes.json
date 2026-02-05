@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ema_datshi",
+    "name": "Ema datshi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 1,
+    "short_description": "Exuding the fiery spirit of Bhutan, this stew blends hot peppers with creamy datshi cheese, onions, tomatoes, and garlic for a bold, comforting experience. A staple that warms both heart and soul!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/68be2f903971404cad636d776c41f59f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Hot Peppers",
+      "Datshi",
+      "Onion",
+      "Tomato",
+      "Garlic",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kewa_datshi",
+    "name": "Kewa datshi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Originating from Bhutan, this hearty stew combines tender potatoes with creamy cheese, vibrant hot peppers, and aromatic garlic. It's a staple comfort food, perfect with rice or puri.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Hot Peppers",
+      "Datshi",
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jasha_maroo",
+    "name": "Jasha maroo",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "A staple of Bhutanese cuisine, tender chicken simmers with aromatic garlic, ginger, and fiery chiles in a savory tomato sauce. Served over red or brown rice, it’s a warm and comforting delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/258d432285e54730857bdca91e5c2ace.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Shallots",
+      "Leek"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "phaksha_paa",
+    "name": "Phaksha paa",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 4,
+    "short_description": "Dried pork simmers with fiery red chilis, fresh radish, and vibrant spinach in this traditional Bhutanese favorite. Each bite delivers a bold, savory kick that embodies the nation's love for spice.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Hot Peppers",
+      "Radish",
+      "Spinach",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shamu_datshi",
+    "name": "Shamu datshi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "A beloved Bhutanese comfort food, this rich stew features a medley of mushrooms simmered with vibrant hot peppers, tomatoes, and onions. Creamy cheese melts in, adding a delightful finish to each savory spoonful.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Datshi",
+      "Hot Peppers",
+      "Mushrooms",
+      "Tomato",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "datshi",
+    "name": "Datshi",
+    "local_name": null,
+    "category": "CHEESE",
+    "rank": 1,
+    "short_description": "Originating from Bhutan, this creamy cottage cheese is crafted from cow's or yak's milk, offering a rich, tangy flavor. Perfectly paired with spicy dishes, it brings a delightful balance to every bite.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

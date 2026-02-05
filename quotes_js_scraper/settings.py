@@ -166,9 +166,26 @@
 
 # --- Scrapy-Selenium Configuration ---
 SELENIUM_DRIVER_NAME = 'chrome'
-# SELENIUM_DRIVER_EXECUTABLE_PATH = r"C:\dev\python_runs\scrapy_selenium\quotes-js-project\chromedriver.exe"  
+#  SELENIUM_DRIVER_EXECUTABLE_PATH = r"C:\dev\python_runs\scrapy_selenium\quotes-js-project\chromedriver.exe"  
+SELENIUM_DRIVER_EXECUTABLE_PATH = None
 # 3) run it headless (optional)
-SELENIUM_DRIVER_ARGUMENTS = ['--headless','--no-sandbox']
+SELENIUM_DRIVER_ARGUMENTS = [
+    # '--headless', # Keep commented out! Cloudflare detects headless easily.
+    '--no-sandbox',
+    '--disable-gpu',
+    '--window-size=1920,1080',
+    # Note: If the user-data-dir causes permission errors, try commenting it out first.
+   #  r"--user-data-dir=C:\dev\chrome_profiles\tasteatlas", 
+]
+# SELENIUM_DRIVER_ARGUMENTS = [
+#    #  '--headless',
+#     '--no-sandbox',
+#     '--disable-dev-shm-usage',
+#     '--disable-gpu',
+#     '--window-size=1920,1080',
+#     '--disable-blink-features=AutomationControlled', 
+#      r"--user-data-dir=C:\dev\chrome_profiles\tasteatlas",
+# ]
 
 # --- Downloader Middlewares ---
 # Combine ALL middlewares into ONE dictionary.
@@ -177,7 +194,15 @@ DOWNLOADER_MIDDLEWARES = {
    # 'scrapy_selenium.SeleniumMiddleware': 800,
    # 'scrapeops_scrapy_proxy_sdk.scrapeops_scrapy_proxy_sdk.ScrapeOpsScrapyProxySdk': 543,
    # Add any other middlewares you need here
+   # 'quotes_js_scraper.middlewares.Selenium4Middleware': 800,
+   'quotes_js_scraper.middlewares.Selenium4Middleware': 800,
 }
+
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+DEFAULT_REQUEST_HEADERS = {
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
 
 # --- Other Settings ---
 BOT_NAME = 'quotes_js_scraper'

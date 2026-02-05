@@ -1,0 +1,414 @@
+[
+  {
+    "id": "paella",
+    "name": "Paella",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Originating from Valencia, paella showcases the vibrant flavors of saffron-infused rice, combined with seafood, tender meats, or fresh vegetables. This colorful one-pot wonder is a culinary celebration of Spanish culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/92eb3b4d4f0448319940081f4a10b707.jpg?mw=660",
+    "most_iconic_place": "7 Portes",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "churros",
+    "name": "Churros",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 2,
+    "short_description": "Elongated and crispy, Spanish churros are deep-fried delights coated in sugar, often enjoyed with rich chocolate for dipping. A beloved treat, they embody the sweet essence of Spanish culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/517281fb6bea456f9d302f774657e9b3.jpg?mw=660",
+    "most_iconic_place": "Chocolatería San Ginés",
+    "most_iconic_location": "Madrid",
+    "ingredients": [
+      "Flour",
+      "Olive Oil",
+      "Salt",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chorizo",
+    "name": "Chorizo",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 3,
+    "short_description": "Savory and vibrant, Spanish chorizo bursts with the smoky warmth of paprika and hints of garlic. Perfectly seasoned and expertly cured, it’s a beloved staple in tapas and paella.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5c1f3d5983594f4cad2f0e20fe445afb.jpg?mw=660",
+    "most_iconic_place": "Sensi",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bocadillos",
+    "name": "Bocadillos",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 4,
+    "short_description": "Spanish bocadillos boast crusty baguettes filled with a variety of savory ingredients, from cured meats to tangy cheeses. A beloved street food, they offer a deliciously satisfying taste of Spain's culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f5e5c1c03f314ac88ea280c6102d7d09.jpg?mw=660",
+    "most_iconic_place": "La Xampanyeria",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "croquetas",
+    "name": "Croquetas",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 5,
+    "short_description": "Golden and crispy, these Spanish fritters feature a rich béchamel base infused with savory Jamón Serrano. Perfectly breaded and fried, they offer a delightful crunch and creamy center in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b033d24deb024cffb94fdaaa837c9496.jpg?mw=660",
+    "most_iconic_place": "Casa Labra",
+    "most_iconic_location": "Madrid",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Breadcrumbs",
+      "Béchamel",
+      "Jamón Serrano",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "migas",
+    "name": "Migas",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 6,
+    "short_description": "Originating from Spain, migas transforms rustic bread into a savory delight, sautéed in lard and olive oil with garlic. Each bite offers a rich, comforting crunch that captures the essence of traditional Spanish cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/461ea0ae8a8b45cf834c0747962b48d0.jpg?mw=660",
+    "most_iconic_place": "La Miguería",
+    "most_iconic_location": "Zaragoza",
+    "ingredients": [
+      "Bread",
+      "Lard",
+      "Olive Oil",
+      "Salt",
+      "Garlic",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rosquillas",
+    "name": "Rosquillas",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 7,
+    "short_description": "Traditional Spanish deep-fried donuts, rosquillas are light and fluffy, infused with zesty lemon and aromatic anisette. Enjoyed during Holy Week, they offer a delightful taste of festive culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4bbb29f3ccb04b8a991107d57b458e46.jpg?mw=660",
+    "most_iconic_place": "Pasteleria Nunos",
+    "most_iconic_location": "Madrid",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Lemon Zest",
+      "Anisette",
+      "Baking Powder",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "merienda",
+    "name": "Merienda",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 8,
+    "short_description": "Savor the quintessential Spanish merienda, a delightful late-afternoon ritual filled with sweet breads, flaky pastries, and fresh fruits. It's a cherished tradition that fuels both children and adults, offering a burst of flavors that celebrate Spain's vibrant culinary culture.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f9fa974ad43f4d478a93557b01b0a94b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tortilla_de_patata",
+    "name": "Tortilla de patata",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 9,
+    "short_description": "Originating from Spain, this classic dish features tender potatoes and fluffy eggs cooked to golden perfection in olive oil. Its simple yet rich flavors make it a beloved staple in Spanish cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9f97f71d4af84228bf7290556613ecec.jpg?mw=660",
+    "most_iconic_place": "Bar Nestor",
+    "most_iconic_location": "San Sebastián",
+    "ingredients": [
+      "Eggs",
+      "Potatoes",
+      "Olive Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "salmorejo",
+    "name": "Salmorejo",
+    "local_name": null,
+    "category": "BREAD SOUP",
+    "rank": 10,
+    "short_description": "Originating from Andalusia, this vibrant cold soup blends ripe tomatoes, crusty bread, and garlic, all drizzled with rich olive oil and a splash of vinegar. Perfectly refreshing on hot summer days!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/495938c20a474ecca4f06f87c1f43f7a.jpg?mw=660",
+    "most_iconic_place": "Garum 2.1",
+    "most_iconic_location": "Córdoba",
+    "ingredients": [
+      "Tomato",
+      "Bread",
+      "Garlic",
+      "Olive Oil",
+      "Vinegar",
+      "Jamón Serrano"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crema_catalana",
+    "name": "Crema Catalana",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 11,
+    "short_description": "Originating from Catalonia, this creamy custard delights with hints of cinnamon and lemon. Topped with a caramelized sugar crust, each bite offers a perfect blend of smooth and crunchy textures.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/53ac245138324b64b6e49d95d8960934.jpg?mw=660",
+    "most_iconic_place": "Granja M. Viader",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [
+      "Milk",
+      "Corn Starch",
+      "Eggs",
+      "Cinnamon",
+      "Lemon",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gazpacho",
+    "name": "Gazpacho",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 12,
+    "short_description": "Chilled and refreshing, this Spanish classic blends ripe tomatoes, crisp cucumbers, and zesty garlic, creating a vibrant symphony of flavors. Perfect for cooling off on sun-soaked days!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fdad974a90b54222b63832a53845a867.jpg?mw=660",
+    "most_iconic_place": "Juanito",
+    "most_iconic_location": "Baeza",
+    "ingredients": [
+      "Bread",
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Garlic",
+      "Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cochinillo",
+    "name": "Cochinillo",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 13,
+    "short_description": "Roasted to perfection, this traditional Spanish delicacy features succulent suckling pig with irresistibly crispy skin and melt-in-your-mouth meat. A festive favorite, cochinillo embodies culinary celebration in Spain.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/0248d8a008364be2943bbd09842292e8.jpg?mw=660",
+    "most_iconic_place": "Meson de Cándido",
+    "most_iconic_location": "Segovia",
+    "ingredients": [
+      "Pork"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paella_valenciana",
+    "name": "Paella Valenciana",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 14,
+    "short_description": "Originating from Valencia, this iconic dish marries tender chicken and earthy beans with saffron-infused rice, creating a vibrant, communal feast bursting with rich flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d1e0a757c03e4bff97a8c20f9ce31931.jpg?mw=660",
+    "most_iconic_place": "Casa Roberto",
+    "most_iconic_location": "Valencia",
+    "ingredients": [
+      "Calasparra",
+      "Arroz Bomba",
+      "Bahia Rice",
+      "Senia Rice",
+      "Chicken",
+      "Rabbit"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paella_de_mariscos",
+    "name": "Paella de mariscos",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 15,
+    "short_description": "Originating from Valencia, seafood paella showcases the rich coastal heritage of Spain. Aromatic saffron-infused Bomba rice is perfectly cooked, harmonizing with tender shrimps, mussels, clams, and squid for a vibrant, savory delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/73c3b9baac5c433bb27400ad46b3b13d.jpg?mw=660",
+    "most_iconic_place": "La Pepica",
+    "most_iconic_location": "Valencia",
+    "ingredients": [
+      "Arroz Bomba",
+      "Shrimps",
+      "Mussels",
+      "Clams",
+      "Squid",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "romesco",
+    "name": "Romesco",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 16,
+    "short_description": "Originating from Catalonia, this vibrant sauce blends roasted red peppers, sweet tomatoes, and earthy nuts like almonds and pine nuts, creating a rich, smoky flavor that's perfect for dipping or drizzling.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d7bc4cc65bf54558a333dcfb87c4acf1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tarragona",
+    "ingredients": [
+      "Hot Peppers",
+      "Tomato",
+      "Onion",
+      "Pine Nuts",
+      "Almonds",
+      "Hazelnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "magdalenas",
+    "name": "Magdalenas",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 17,
+    "short_description": "Delight in these airy, sweet treats from Spain, where Magdalenas are lovingly crafted with eggs, butter, and a hint of lemon zest. Perfectly fluffy, they are a beloved snack with coffee or tea.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/274fa1276ca245af875e701edb899fc7.jpg?mw=660",
+    "most_iconic_place": "Cal Tuset",
+    "most_iconic_location": "Castellfollit de la Roca",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "empanadas",
+    "name": "Empanadas",
+    "local_name": null,
+    "category": "PASTRY",
+    "rank": 18,
+    "short_description": "Crescent-shaped and flaky, these Spanish empanadas are stuffed with savory fillings like spiced meats, cheese, or vegetables, offering a delicious bite of tradition and convenience in every mouthful.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/88e011050e5841438de1086e33295b19.jpg?mw=660",
+    "most_iconic_place": "La Fabrica",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lechazo",
+    "name": "Lechazo",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 19,
+    "short_description": "Tender, roasted suckling lamb from the Castilla and León region captivates with its rich flavors and delicate texture. Expertly prepared with lard and butter, it embodies Spanish culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f100a89e5b614491a18e6ee361d8f821.jpg?mw=660",
+    "most_iconic_place": "La Parrilla De San Lorenzo",
+    "most_iconic_location": "Valladolid",
+    "ingredients": [
+      "Lamb",
+      "Lard",
+      "Butter",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bocadillo_de_jamón",
+    "name": "Bocadillo de jamón",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 20,
+    "short_description": "Savory layers of Jamón Serrano nestle between crusty Spanish bread, drizzled with olive oil and infused with garlic and fresh tomato. A beloved classic, it embodies Spain's rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/84858c087e6f4e368fa0cf717472c6a4.jpg?mw=660",
+    "most_iconic_place": "Bar Costa",
+    "most_iconic_location": "Santa Gertrudis de Fruitera",
+    "ingredients": [
+      "Pan de barra",
+      "Jamón Serrano",
+      "Olive Oil",
+      "Tomato",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "montadito",
+    "name": "Montadito",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 21,
+    "short_description": "Open-faced and bursting with flavor, montaditos showcase Spain's vibrant tapas culture. Crisp bread holds a variety of toppings, from savory meats to fresh vegetables, making each bite a delightful experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/794b3f25ed8b4ae3b1aa5d6dca5c5e1e.jpg?mw=660",
+    "most_iconic_place": "Quimet y Quimet",
+    "most_iconic_location": "Barcelona",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pulpo_a_la_gallega",
+    "name": "Pulpo a la gallega",
+    "local_name": null,
+    "category": "OCTOPUS DISH",
+    "rank": 22,
+    "short_description": "Tender octopus is simmered to perfection in traditional Galician copper cauldrons, then served on a bed of creamy potatoes and sprinkled with smoky pimentón, delivering a taste of Spain's coastal heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fc51183d03244e488eab89a10a5826dc.jpg?mw=660",
+    "most_iconic_place": "Bodegón Os Concheiros",
+    "most_iconic_location": "Santiago de Compostela",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gambas_al_ajillo",
+    "name": "Gambas al ajillo",
+    "local_name": null,
+    "category": "SHRIMP/PRAWN DISH",
+    "rank": 23,
+    "short_description": "Sautéed in olive oil with minced garlic, a splash of lemon juice, and a kick of hot peppers, these tender shrimps deliver a burst of Spanish flavor in every bite, perfect as a lively tapa.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b5ee089cc7ac4c19b56efba5e6364115.jpg?mw=660",
+    "most_iconic_place": "La Casa del Abuelo",
+    "most_iconic_location": "Madrid",
+    "ingredients": [
+      "Shrimps",
+      "Garlic",
+      "Lemon Juice",
+      "Hot Peppers",
+      "Olive Oil",
+      "Parsley"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pollo_al_ajillo",
+    "name": "Pollo al ajillo",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 24,
+    "short_description": "Tender chicken simmers in a fragrant garlic sauce infused with white wine and bay leaves, embodying the heart of Spanish home cooking. Each bite offers a deliciously rich and aromatic experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/345785c771924346a3e0878c5ff85f5b.jpg?mw=660",
+    "most_iconic_place": "Restaurante Otelo",
+    "most_iconic_location": "Adeje",
+    "ingredients": [
+      "Chicken",
+      "White Wine",
+      "Stock",
+      "Garlic",
+      "Bay Leaves",
+      "Thyme"
+    ],
+    "is_active": true
+  }
+]

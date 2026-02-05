@@ -1,0 +1,247 @@
+[
+  {
+    "id": "galouti_kebab",
+    "name": "Galouti kebab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 1,
+    "short_description": "Galouti kebab is a traditional kebab that's especially popular in Lucknow. The dish consists of ground lamb or mutton that's marinated in a combination of ground ginger, garlic, cloves, papaya paste, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a4de34b5d7b546b68e439eb38533815a.jpg?mw=660",
+    "most_iconic_place": "Tunday Kababi",
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Mutton",
+      "Ginger-garlic paste",
+      "Fried onion paste",
+      "Raw papaya paste",
+      "Gram Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shami_kebab",
+    "name": "Shami kebab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 2,
+    "short_description": "Shami kebab is a variety of kebab made by combining minced lamb, mutton, beef or chicken with split bengal grams, onions, chilis, ginger, garlic, and various herbs and spices such as cumin, red chili ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ea0e277841e14f01b852d23fc664d234.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Mutton",
+      "Ground Beef",
+      "Ground Chicken",
+      "Bengal Gram",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boti_kebab",
+    "name": "Boti kebab",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 3,
+    "short_description": "Boti kebab is a variety of Indian kebab consisting of chunks of meat (lamb, mutton, chicken) that are soaked in a mixture of yogurt, ginger-garlic paste, chilis, papaya paste, and spices such as garam...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3409b3561e6e4fb59458628d63c352b0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Mutton",
+      "Chicken",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Raw papaya paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhara_kabab",
+    "name": "Bhara kabab",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 4,
+    "short_description": "Bhara or hara kabab is a traditional dish and a vegetarian version of meat kebabs. The dish is prepared with a combination of potatoes, peas, spinach, ginger, chili peppers, coriander, garam masala, r...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/642a3edb29094c5589221f90ec6fce2d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Spinach",
+      "Green Peas",
+      "Potatoes",
+      "Hot Peppers",
+      "Coriander",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "muradabadi_biryani",
+    "name": "Muradabadi biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 5,
+    "short_description": "Muradabadi biryani is a traditional biryani variety named after the city of Moradabad in Uttar Pradesh. However, it is believed that the dish originated in Lucknow. It's usually prepared with a combin...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cc3cca86c55443c7ab4e86797b08b846.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Basmati",
+      "Chicken",
+      "Dahi",
+      "Hot Peppers",
+      "Garam masala",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nimish",
+    "name": "Nimish",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 6,
+    "short_description": "Nimish is a traditional dessert originating from Lucknow. This typical sweet dates back to the Nawabs era and it was developed under Middle Eastern influence, which can be seen in ingredients such as ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/664b73cb216148ec82d337ac2cf912dd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Malai",
+      "Milk",
+      "Pistachios",
+      "Almonds",
+      "Cashews",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "subz_miloni",
+    "name": "Subz miloni",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 7,
+    "short_description": "Subz miloni is a traditional dish originating from Lucknow, and consists of seasonal vegetables in garlic and spinach sauce. Although there are many variations depending on which seasonal vegetables a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f3c4fbb2f47c41059076027eee1e485a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Spinach",
+      "Green Peas",
+      "Green Beans",
+      "Fenugreek",
+      "Carrot",
+      "Cauliflower"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "warqi_paratha",
+    "name": "Warqi paratha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 8,
+    "short_description": "Warqi paratha is a traditional flatbread and a type of paratha that's characterized by its layered texture. It's made with a combination of flour, sugar, salt, ghee, and milk. The dough is flattened a...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Maida Flour",
+      "Ghee",
+      "Milk",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kulfi_falooda",
+    "name": "Kulfi falooda",
+    "local_name": null,
+    "category": "FROZEN DESSERT",
+    "rank": 1,
+    "short_description": "Usually associated with northern Indian regions, this refreshing treat combines thin falooda noodles and kulfi, a traditional Indian ice cream made with slowly simmered whole milk that is flavored wit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/73ded2160e50461084343b595d93738b.jpg?mw=660",
+    "most_iconic_place": "Prakash Kulfi",
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Falooda sev",
+      "Milk",
+      "Cardamom",
+      "Almonds",
+      "Pistachios",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nihari",
+    "name": "Nihari",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Nihari is a popular meat-based dish originating from Old Delhi. When Pakistan gained independence in 1947, numerous immigrants from Delhi settled in Karachi, where they established their own restauran...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a5973d1624d642ceb63539fb0d501a5c.jpg?mw=660",
+    "most_iconic_place": "Rahim Ki Nihari",
+    "most_iconic_location": "Delhi",
+    "ingredients": [
+      "Mutton",
+      "Beef shank",
+      "Chicken",
+      "Onion",
+      "Ghee",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pasanda",
+    "name": "Pasanda",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Pasanda is a mild curry dish with several variations, the most popular one consisting of yogurt-marinated lamb, vegetables such as onions and tomatoes, and spices such as coriander, ginger, and turmer...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/51b48d3e166d4adca0b56bc68137da14.jpg?mw=660",
+    "most_iconic_place": "Mubeen's",
+    "most_iconic_location": "India",
+    "ingredients": [
+      "Lamb",
+      "Goat",
+      "Chicken",
+      "Tomato",
+      "Onion",
+      "Dahi"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chaat",
+    "name": "Chaat",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 4,
+    "short_description": "Chaat is a term signifying a huge variety of Indian street foods, snacks, or small meals which usually combine salty, spicy, sweet, and sour flavors. The name chaat is derived from a Hindi verb chaatn...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/84327074df8e4c5fabeaeca6fa3ab659.jpg?mw=660",
+    "most_iconic_place": "Royal Cafe",
+    "most_iconic_location": "Uttar Pradesh",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "korma",
+    "name": "Korma",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "Korma is a rich and aromatic braised dish that comes from the Indian subcontinent, particularly associated with Mughlai cuisine in northern India, Pakistan and Iran. It typically consists of meat or v...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8bf6e58d3a1545f6abd1dabe49dffa8d.jpg?mw=660",
+    "most_iconic_place": "Lalla Biryani",
+    "most_iconic_location": "India",
+    "ingredients": [],
+    "is_active": true
+  }
+]

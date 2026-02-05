@@ -1,0 +1,284 @@
+[
+  {
+    "id": "bikaneri_bhujia",
+    "name": "Bikaneri bhujia",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 1,
+    "short_description": "The city of Bikaner in the Indian state of Rajasthan is most famous for its bhujia, a popular, crispy snack made with flour and a variety of spices. It is characterized by its intense yellow color. Al...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f21fb751071b4c3bacef5f98e0544889.jpg?mw=660",
+    "most_iconic_place": "Bishanlal Babulal Bhujiawala",
+    "most_iconic_location": null,
+    "ingredients": [
+      "Gram Flour",
+      "Moth Beans",
+      "Ajwain",
+      "Black Pepper",
+      "Red Chilli Powder",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rasgulla",
+    "name": "Rasgulla",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 1,
+    "short_description": "Rasgulla is a traditional sweet that is usually served at the end of a meal, like many other Indian milk-based desserts. It is prepared from chhena paneer dumplings and semolina dough, cooked together...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/728691b02df3490bbbecdea8422530d1.jpg?mw=660",
+    "most_iconic_place": "Chhotu Motu Joshi Sweet Shop",
+    "most_iconic_location": "West Bengal",
+    "ingredients": [
+      "Chhena",
+      "Semolina",
+      "Saffron",
+      "Cardamom",
+      "Rose Water",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kadhi",
+    "name": "Kadhi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "The term kadhi encompasses a broad group of Indian dishes that use yogurt or buttermilk as a base and are typically thickened with gram flour (besan). Though kadhi is popular throughout India, most re...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ed4b71cd5e8c4ba091ac261fa6537cac.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "laal_maas",
+    "name": "Laal maas",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Laal maas is a traditional curry variety originating from Rajasthan. This curry is prepared with mutton (often marinated in kachari cucumbers), yogurt, and Mathania red chili peppers. Other common ing...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4b653d04e3a4440eb822e424cbcf4424.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Mutton",
+      "Dahi",
+      "Ghee",
+      "Hot Peppers",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "baati",
+    "name": "Baati",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 4,
+    "short_description": "Baati is a hard, unleavened Indian bread that is typically prepared in the desert areas of Rajasthan, Uttar Pradesh, and Madhya Pradesh. Traditionally, baati is baked over the ambers of dried cow-dung...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a0f80468aa0f43e1a0cd3b3faef40e00.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Wheat Flour",
+      "Salt",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boondi",
+    "name": "Boondi",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 5,
+    "short_description": "Boondi are small deep-fried round balls made from besan (gram flour). They come in a sweet or savor version. The process of making boondi starts with a thick besan batter that is poured through a siev...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b26c9290e7974fe0905dbc9cf262a132.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "churma",
+    "name": "Churma",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 6,
+    "short_description": "Churma is a north Indian dish that is mainly prepared with various types of crumbled bread. It is especially popular in Rajasthan where it is made with baati (bati) bread, and Haryana, where the local...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9814fb175d4d4042a398d98c4fc082bb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Roti",
+      "Paratha",
+      "Puri",
+      "Baati",
+      "Ghee",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ghevar",
+    "name": "Ghevar",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 7,
+    "short_description": "This traditional Rajasthani sweet delicacy is made with a batter of flour, ghee, and cold water that is carefully poured into piping hot oil or ghee to fry, yielding a round, disc-shaped dessert with ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/90427167bb8c4a72bab25584436acb58.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Maida Flour",
+      "Ghee",
+      "Pistachios",
+      "Almonds",
+      "Cardamom",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "panchmel_dal",
+    "name": "Panchmel dal",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 8,
+    "short_description": "Panchmel dal is a traditional lentil-based dish originating from Rajasthan. The word panch means five, referring to five types of lentils used for the curry – mung dal (split green lentils), masoor da...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3e1546a83f6d45daa0f3fba67731b58b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Mung beans",
+      "Pigeon Peas",
+      "Bengal Gram",
+      "Black Grams",
+      "Red Lentils",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "amrood_ki_sabzi",
+    "name": "Amrood ki sabzi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 9,
+    "short_description": "Amrood ki sabzi is a traditional curry originating from Rajasthan. The curry is usually made with a combination of guava, salt, sugar, lime juice, garlic, cumin, oil, turmeric, chili powder, and coria...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/54160ebe9bcd4633b0e41aa1379bb47b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Guava",
+      "Tomato",
+      "Hot Peppers",
+      "Ginger",
+      "Garlic",
+      "Cumin Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gatte_ki_sabzi",
+    "name": "Gatte ki sabzi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "Gatta curry is a traditional curry originating from Rajasthan. Also known as besan ke gatte ki sabzi, the dish consists of chickpea flour dumplings that are cooked in a tangy and spicy dahi sauce. The...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f93d5b79c5f4c38b01a5fe49f701284.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Chickpea Flour",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Red Chilli Powder",
+      "Turmeric",
+      "Garam masala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "okra_in_yogurt_curry_bhindi_kadhi",
+    "name": "Okra in yogurt curry (Bhindi kadhi)",
+    "local_name": null,
+    "category": "VEGETARIAN DISH",
+    "rank": 11,
+    "short_description": "Bhindi kadhi is a traditional dish originating from North India. In Rajasthan, the dish is made with a combination of okra, yogurt, chickpea flour, vegetable oil, mustard seeds, curry leaves, ginger, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8ccdf55cd6f344b6b3cc84385100d2d3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Okra",
+      "Dahi",
+      "Gram Flour",
+      "Ginger",
+      "Garlic",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jhajariya",
+    "name": "Jhajariya",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Jhajariya is a traditional dessert originating from Rajasthan. The dessert is made with a combination of corn, ghee, sugar, milk, and nuts such as almonds. In order to prepare it, the sweet corn shoul...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Corn",
+      "Ghee",
+      "Almonds",
+      "Cardamom",
+      "Saffron",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thandai",
+    "name": "Thandai",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 1,
+    "short_description": "Thandai is a North Indian milk-based beverage that incorporates nuts, seeds, and various spices. The preparation starts with a thick paste that is usually made with a different combination of nuts and...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/58fe57034ec74b1aaf0a8db92848598d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Milk",
+      "Almonds",
+      "Cashews",
+      "Pistachios",
+      "Saffron",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhang_lassi",
+    "name": "Bhang Lassi",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 2,
+    "short_description": "WARNING: It should be noted that bhang lassi is a potent beverage and that there are several claims that its consumption can lead to psychosis and hallucinations, or cause psychosis-like symptoms. It ...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/bddab1ca410944e29dc685b28efa0169.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Cannabis",
+      "Dahi",
+      "Cardamom",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  }
+]

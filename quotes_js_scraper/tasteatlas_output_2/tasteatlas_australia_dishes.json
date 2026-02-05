@@ -1,0 +1,450 @@
+[
+  {
+    "id": "pavlova",
+    "name": "Pavlova",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 1,
+    "short_description": "Delicate as the ballerina it was named after, Pavlova is the quintessential summer dessert. Whipped cream is typically dolloped on top of a snowy meringue, followed by a pop of color in the form of fr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/99a63337e1144e71baa0a8c3a4cba28d.jpg?mw=660",
+    "most_iconic_place": "Rockpool Bar & Grill",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Eggs",
+      "Sugar",
+      "Vanilla",
+      "Whipped Cream",
+      "Corn Flour",
+      "Peach"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "avocado_toast",
+    "name": "Avocado Toast",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 2,
+    "short_description": "Avocado toast is a dish consisting of a piece of toasted bread topped with a combination of mashed avocados, salt, pepper, and (sometimes) citrus juice. There are many varieties of this dish, so it ca...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ff7e6b0878c3475f8f1b406dfe96a950.jpg?mw=660",
+    "most_iconic_place": "Porgie + Mr Jones",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Bread",
+      "Avocado",
+      "Lemon",
+      "Olive Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lamington",
+    "name": "Lamington",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 3,
+    "short_description": "The world-famous Australian culinary icon Lamington consists of a sponge cake that is dipped in chocolate and sprinkled with finely desiccated coconut. The cake is believed to have been created by acc...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8cafb772b8a8405dbe62f68ebe8cdb28.jpg?mw=660",
+    "most_iconic_place": "Flour and Stone",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Coconut",
+      "Cocoa Powder",
+      "Wheat Flour",
+      "Eggs",
+      "Sugar",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "meat_pie",
+    "name": "Meat Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 4,
+    "short_description": "Australian and New Zealander meat pie is made with flaky pastry that is filled with gravy and minced meat. Of course, numerous variations exist, so the filling can also be made with onions, chicken an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/250788f498dc4599866235704848bf1d.jpg?mw=660",
+    "most_iconic_place": "Bourke Street Bakery",
+    "most_iconic_location": "Sydney",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "spag_bol",
+    "name": "Spag Bol",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 5,
+    "short_description": "Short for spaghetti bolognese, spag bol is one of Australia’s national dishes. The dish is a uniquely Australian version of the classic Italian tagliatelle al ragù alla bolognese. It is typically made...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/176485ef64c7450fbef85297d86fc79c.jpg?mw=660",
+    "most_iconic_place": "Pellegrini's Espresso Bar",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Spaghetti",
+      "Ground Beef",
+      "Mushrooms",
+      "Tomato",
+      "Onion",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vanilla_slice",
+    "name": "Vanilla slice",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 6,
+    "short_description": "Vanilla slice is the Australian answer to mille-feuille - this dessert consists of a thick custard that’s flavored with vanilla, sandwiched between puff or phyllo pastry sheets, and topped with vanill...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9a976a8bbe514678a90dc16057b0784c.jpg?mw=660",
+    "most_iconic_place": "Ross Bakery",
+    "most_iconic_location": "Ross",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Sugar",
+      "Milk",
+      "Corn Flour",
+      "Heavy Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vegemite",
+    "name": "Vegemite",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 7,
+    "short_description": "Vegemite is a notoriously yeasty spread that can be found in nine out of ten pantries in Australia. It all began in 1922 when the Fred Walker Company (known today as Kraft Food Company) employed a che...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/605ae5f8aef34a1a802203dadbd596db.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Melbourne",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "prawn_cocktail",
+    "name": "Prawn Cocktail",
+    "local_name": null,
+    "category": "SHRIMP/PRAWN DISH",
+    "rank": 8,
+    "short_description": "Shrimp or prawn cocktail is a seafood dish consisting of cooked prawns served in a glass with cocktail sauce. The dish has vague origins, but most people claim that it was invented by a 19th-century m...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b2ecfc87cff84ff488d2bf928e02e7a3.jpg?mw=660",
+    "most_iconic_place": "Gowings Bar & Grill",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Shrimps",
+      "Ketchup",
+      "Mayonnaise",
+      "Horseradish"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dim_sim",
+    "name": "Dim sim",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 9,
+    "short_description": "Dim sims are deep-fried or steamed dumplings filled with pork or other meat, cabbage, and flavorings. Although inspired by the traditional Chinese cuisine both in ingredients and the name of the dish,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d97cae983d6b42959829fdc29298909c.jpg?mw=660",
+    "most_iconic_place": "South Melbourne Market Dim Sims",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Carrot",
+      "Ginger",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "anzac_biscuits",
+    "name": "Anzac biscuits",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 10,
+    "short_description": "Anzac biscuits are sweet cookies made from a combination of flour, oats, golden syrup, butter, sugar, coconut, and soda bicarbonate. Although the origins of these cookies are not clear, both Australia...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7cf73932a034428f8622cff9df7594c6.jpg?mw=660",
+    "most_iconic_place": "The Riverboat Postman",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Wheat Flour",
+      "Oats",
+      "Brown Sugar",
+      "Coconut",
+      "Butter",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vegemite_on_toast",
+    "name": "Vegemite on toast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 11,
+    "short_description": "Vegemite on toast is an authentic Australian breakfast food, and very polarizing at that, since people either love it or hate it. However, Australians love it, as Vegemite is an ingredient that is in ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5f3a707391ac47c3aea7a07dd7b635e3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Toast",
+      "Vegemite",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fairy_bread",
+    "name": "Fairy Bread",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Synonymous with children's birthday parties in Australia, fairy bread is an unusual dessert consisting of triangle-shaped slices of white bread that are smeared with butter and topped with tiny, multi...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ca21b972854a429bbdad24e7b1f07b30.jpg?mw=660",
+    "most_iconic_place": "BUSH",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Bread",
+      "Butter",
+      "Margarine",
+      "Nonpareils"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "australian_burger",
+    "name": "Australian Burger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 13,
+    "short_description": "An institution at many pubs, restaurants, and cafés in Australia, Australian burger with the lot first made its appearance in the 1940s, when beetroot started to be added to the burger alongside onion...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4713ddd8c2ee49f4bd05cd6506819adc.jpg?mw=660",
+    "most_iconic_place": "Paul's Famous Hamburgers",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Ground Beef",
+      "Bacon",
+      "Beet",
+      "Eggs",
+      "Pineapple",
+      "Cheddar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "salt_and_pepper_calamari",
+    "name": "Salt and Pepper Calamari",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 14,
+    "short_description": "Salt and pepper calamari is a Chinese cuisine-inspired dish that’s so popular in Australia it might even be called one of Australia’s national dishes. The calamari, or squid in some cases, is covered ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0c7282c84a454f28a4c13d6d52bcd599.jpg?mw=660",
+    "most_iconic_place": "Star of Greece",
+    "most_iconic_location": "Adelaide",
+    "ingredients": [
+      "Squid",
+      "Wheat Flour",
+      "Eggs",
+      "Milk",
+      "Breadcrumbs",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "australian_pizza",
+    "name": "Australian Pizza",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 15,
+    "short_description": "Although the usual Italian pizza varieties are available throughout Australia, they often have richer toppings than in Italy. The Aussie variety is a pizza that is usually topped with a base of barbec...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/109c73b97a6143e1a590ec5be3a3987d.jpg?mw=660",
+    "most_iconic_place": "Papa Gino's",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Mozzarella",
+      "Barbecue Sauce",
+      "Bacon",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yo_yo_biscuits",
+    "name": "Yo-Yo Biscuits",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 16,
+    "short_description": "Yo-yo biscuits are South Australian shortbread cookies made with flour, butter, milk, eggs, and honey. They were originally invented by Menz Company, but today the biscuits are produced by a company n...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e9f8c03db1264efebfda6b80a1f616b8.jpg?mw=660",
+    "most_iconic_place": "Rebecca’s Café",
+    "most_iconic_location": "Port Fairy",
+    "ingredients": [
+      "Self-Raising Flour",
+      "Wheat Flour",
+      "Butter",
+      "Corn Starch",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cruffin",
+    "name": "Cruffin",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 17,
+    "short_description": "Cruffin is a cross between a croissant and a muffin – it's a muffin that's made from laminated croissant dough and filled with different flavors and ingredients such as pastry cream, peanut butter, cr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e4fcaab017ff4ea7917163489869b908.jpg?mw=660",
+    "most_iconic_place": "Lune Croissanterie",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Wheat Flour",
+      "Milk",
+      "Yeast",
+      "Sugar",
+      "Butter",
+      "Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "australian_barbecue",
+    "name": "Australian Barbecue",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 18,
+    "short_description": "The Australians are well-known for their barbecue prowess, and most households have some sort of a barbecue. The prime candidates for Australian barbecue include sausages, prawns, and lamb, followed b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/96e304acea184a8fa3d46c174147f095.jpg?mw=660",
+    "most_iconic_place": "Hurricane's Grill",
+    "most_iconic_location": "Sydney",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chicken_and_corn_soup",
+    "name": "Chicken and Corn Soup",
+    "local_name": null,
+    "category": "CHICKEN SOUP",
+    "rank": 19,
+    "short_description": "This nourishing Australian soup is prepared with onions, potatoes, chicken stock, flour, water, cooked chicken, cream, corn, and flavorings such as salt, pepper, thyme, and cayenne pepper, if desired....",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3d68e2ea5eb746c08154f99200d9b47d.jpg?mw=660",
+    "most_iconic_place": "Easy House Vegetarian Restaurant",
+    "most_iconic_location": "Gold Coast",
+    "ingredients": [
+      "Chicken",
+      "Corn",
+      "Chicken Stock",
+      "Cream",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pikelets",
+    "name": "Pikelets",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 20,
+    "short_description": "Pikelets are Australian pancakes made with a combination of flour, eggs, and milk. They are typically prepared for breakfast in Australia. Besides Australia, these pancakes are also popular in Scotlan...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4b685669ddfb4cbfb068674995903794.jpg?mw=660",
+    "most_iconic_place": "Crack Kitchen",
+    "most_iconic_location": "Adelaide",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Wheat Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "damper",
+    "name": "Damper",
+    "local_name": null,
+    "category": "SODA BREAD",
+    "rank": 21,
+    "short_description": "Damper is a traditional bushman's bread that was originally prepared with flour, water, and salt. The bread was cooked in the coals of a campfire, and it was first mentioned in Memoirs, edited by Barr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/efd33e25345e40c3a197c28f8637c386.jpg?mw=660",
+    "most_iconic_place": "Blackwood",
+    "most_iconic_location": "Adelaide",
+    "ingredients": [
+      "Self-Raising Flour",
+      "Butter",
+      "Milk",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sausage_sizzle",
+    "name": "Sausage sizzle",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 22,
+    "short_description": "Sausage sizzle is a popular Australian and New Zealander event in which sausages are grilled or barbecued. The event mostly occurs in large public spaces. Sausage sizzles can be a free event or a fund...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/08e60b5bfb864a739aacfab2a080f7c6.jpg?mw=660",
+    "most_iconic_place": "Bunnings Warrnambool",
+    "most_iconic_location": "Warrnambool",
+    "ingredients": [
+      "Cooked Sausage",
+      "Bread",
+      "Onion",
+      "Butter",
+      "Ketchup",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_parma",
+    "name": "Chicken Parma",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 23,
+    "short_description": "Chicken parmigiana is a poultry dish consisting of breadcrumbs-coated chicken breasts that are topped with tomato sauce and cheese, then baked until the cheese melts and the chicken is properly cooked...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b7514336be164b148db27ca24b8b3d80.jpg?mw=660",
+    "most_iconic_place": "The Napier Hotel",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Chicken",
+      "Parmigiano Reggiano",
+      "Mozzarella",
+      "Breadcrumbs",
+      "Eggs",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dolly_varden_cake",
+    "name": "Dolly Varden Cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 24,
+    "short_description": "Dolly Varden cake is an iconic cake that’s especially popular at children’s birthdays in Australia. The cake was named after a character named Dolly in one of Charles Dickens’ novels (Barnaby Rudge) a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/703124f68bd84062a959f5ffe617eb2a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Self-Raising Flour",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

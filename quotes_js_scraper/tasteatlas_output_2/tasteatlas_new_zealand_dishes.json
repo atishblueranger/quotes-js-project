@@ -1,0 +1,391 @@
+[
+  {
+    "id": "pavlova",
+    "name": "Pavlova",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 1,
+    "short_description": "Delicate as the ballerina it was named after, Pavlova is the quintessential summer dessert. Whipped cream is typically dolloped on top of a snowy meringue, followed by a pop of color in the form of fr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/99a63337e1144e71baa0a8c3a4cba28d.jpg?mw=660",
+    "most_iconic_place": "Cibo",
+    "most_iconic_location": "Auckland",
+    "ingredients": [
+      "Eggs",
+      "Sugar",
+      "Vanilla",
+      "Whipped Cream",
+      "Corn Flour",
+      "Peach"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "meat_pie",
+    "name": "Meat Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 2,
+    "short_description": "Australian and New Zealander meat pie is made with flaky pastry that is filled with gravy and minced meat. Of course, numerous variations exist, so the filling can also be made with onions, chicken an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/250788f498dc4599866235704848bf1d.jpg?mw=660",
+    "most_iconic_place": "Miles Better Pies",
+    "most_iconic_location": "Te Anau",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "anzac_biscuits",
+    "name": "Anzac Biscuits",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 3,
+    "short_description": "Anzac biscuits are sweet cookies made from a combination of flour, oats, golden syrup, butter, sugar, coconut, and soda bicarbonate. Although the origins of these cookies are not clear, both Australia...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7cf73932a034428f8622cff9df7594c6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Oats",
+      "Brown Sugar",
+      "Coconut",
+      "Butter",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "new_zealand_fish_and_chips",
+    "name": "New Zealand Fish and Chips",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 4,
+    "short_description": "This dish is a New Zealander version of the classic English fish and chips. It is believed that fish and chips was introduced to New Zealand before World War I by British settlers. The dish is traditi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7f8c5562ba0545e39bcaae9aaabfb326.jpg?mw=660",
+    "most_iconic_place": "Bobby's Fresh Fish Market",
+    "most_iconic_location": "Tauranga",
+    "ingredients": [
+      "Blue Warehou",
+      "Elephant Shark",
+      "Cod",
+      "Potatoes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bacon_and_egg_pie",
+    "name": "Bacon and Egg Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 5,
+    "short_description": "Bacon and egg pie is a New Zealander favorite consisting of a combination of flaky pastry, egg yolks, and salty bacon. It is a staple at picnics throughout the country, and many people recommend consu...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6bdb570979b3495c91d2d0310c9430d4.jpg?mw=660",
+    "most_iconic_place": "Mairangi Bay Bakery",
+    "most_iconic_location": "Auckland",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "māori_boil_up",
+    "name": "Māori Boil-Up",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 6,
+    "short_description": "Boil-up is a unique Māori technique of preparing meat and vegetables by boiling them in a large pot filled with water. The choice of meat can be anything from pork, beef, and chicken to goat and lamb,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/14cd95c21ad842beacfc62916e2fadc7.jpg?mw=660",
+    "most_iconic_place": "The Hangi Shop",
+    "most_iconic_location": "Auckland",
+    "ingredients": [
+      "Lamb",
+      "Pork",
+      "Beef",
+      "Chicken",
+      "Goat",
+      "Watercress"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cheese_roll",
+    "name": "Cheese Roll",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 7,
+    "short_description": "Cheese roll is a popular New Zealander snack consisting of rolled-up pieces of crustless white bread filled with cheese and onions. The combination is then grilled and topped with butter. The dish can...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cd9aa39f292f45e88f26a67af0019a65.jpg?mw=660",
+    "most_iconic_place": "Rata Dining",
+    "most_iconic_location": "Queenstown",
+    "ingredients": [
+      "Bread",
+      "Cheddar",
+      "Onion",
+      "Milk",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hokey_pokey_ice_cream",
+    "name": "Hokey Pokey Ice Cream",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 8,
+    "short_description": "Hokey pokey is a New Zealander ice cream variety consisting of vanilla-flavored ice cream with small lumps of honeycomb toffee dispersed throughout it. Although it is produced in New Zealand, this ice...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6b242797f9744607ad03f843bab6f12f.jpg?mw=660",
+    "most_iconic_place": "Giapo",
+    "most_iconic_location": "Auckland",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "krispie",
+    "name": "Krispie",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 9,
+    "short_description": "Krispie is a popular New Zealander toasted biscuit consisting of wheat flour, sugar, and coconut. It is commercially produced by Griffin's Foods, a company that also makes another variety of the biscu...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ff4a4097f2994886ad088cfbb3a844e5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sausage_sizzle",
+    "name": "Sausage Sizzle",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 10,
+    "short_description": "Sausage sizzle is a popular Australian and New Zealander event in which sausages are grilled or barbecued. The event mostly occurs in large public spaces. Sausage sizzles can be a free event or a fund...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/08e60b5bfb864a739aacfab2a080f7c6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Cooked Sausage",
+      "Bread",
+      "Onion",
+      "Butter",
+      "Ketchup",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pikelets",
+    "name": "Pikelets",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 11,
+    "short_description": "Pikelets are Australian pancakes made with a combination of flour, eggs, and milk. They are typically prepared for breakfast in Australia. Besides Australia, these pancakes are also popular in Scotlan...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4b685669ddfb4cbfb068674995903794.jpg?mw=660",
+    "most_iconic_place": "Joe's Garage Queenstown",
+    "most_iconic_location": "Queenstown",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Wheat Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jaffas",
+    "name": "Jaffas",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Jaffas is a popular Australian and New Zealander confectionery consisting of small, round balls of chocolate covered in a red-colored orange flavoring. The sweet got its name after the Jaffa orange, a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cdef77fe1da94b1b8287c92e94ef778b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chocolate_fish",
+    "name": "Chocolate Fish",
+    "local_name": null,
+    "category": "CHOCOLATE DESSERT",
+    "rank": 13,
+    "short_description": "Chocolate fish is a New Zealander confectionery consisting of either white or pink marshmallow that is covered in chocolate and shaped into an elongated fish. It is a favorite of numerous children fro...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ed1aa082f5da41ffb944898640508061.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chocolate",
+      "Marshmallow"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mince_and_cheese_pie",
+    "name": "Mince and Cheese Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 14,
+    "short_description": "Mince and cheese pie is a traditional meal. The pie is prepared with a shortcrust pastry shell filled with a combination of cheese cubes and mince. The mince is typically made with onions, garlic, car...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f7f064efdadd4512b672b925e999a454.jpg?mw=660",
+    "most_iconic_place": "Fergbaker",
+    "most_iconic_location": "Queenstown",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "whitebait_fritters",
+    "name": "Whitebait Fritters",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 15,
+    "short_description": "Whitebait fritters are considered a delicacy in New Zealand and they are the most popular way of preparing whitebait. The recipe is quite simple, which is in contrast to the rather pricey fish. The ba...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ef9be41ad336429aa2686b5e3b99d2dc.jpg?mw=660",
+    "most_iconic_place": "Curly Tree Whitebait",
+    "most_iconic_location": "Haast",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "jelly_slice",
+    "name": "Jelly Slice",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 16,
+    "short_description": "Equally popular in New Zealand and Australia, this colorful dessert consists of a cookie base that is topped with a creamy custard and finished off with a layer of smooth jelly. The custard is typical...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03f0d6e103554516b709187a7ccde086.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lolly_cake",
+    "name": "Lolly Cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 17,
+    "short_description": "Lolly cake is a favorite dessert of many New Zealanders, consisting of crushed malt biscuits, colorful marshmallows, butter, and condensed milk. The cake is often topped with grated coconut and is ser...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eb927181cd224805bbca286c7d0e82cc.jpg?mw=660",
+    "most_iconic_place": "Coffee Therapy",
+    "most_iconic_location": "Christchurch",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kiwiburger",
+    "name": "KiwiBurger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 18,
+    "short_description": "Kiwiburger is a hamburger consisting of a toasted bun that is sandwiched with a four-ounce (113 g) beef patty, fried egg, beetroot, grilled onions, and additional ingredients such as tomato, lettuce, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6e31ec701bbc47b9b1524f24e9b2ff28.jpg?mw=660",
+    "most_iconic_place": "Fergburger",
+    "most_iconic_location": "Queenstown",
+    "ingredients": [
+      "Ground Beef",
+      "Burger Bun",
+      "Eggs",
+      "Beet",
+      "Tomato",
+      "Lettuce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hāngi",
+    "name": "Hāngi",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 19,
+    "short_description": "Hāngi refers to a traditional technique of cooking food in an underground oven that has long been practiced in New Zealand. Brought to the island by early Maori settlers, this unique cooking technique...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bbdf79d042334871aefb6eb2dd70cbb6.jpg?mw=660",
+    "most_iconic_place": "Karaka Cafe",
+    "most_iconic_location": "Wellington",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "afghan_biscuit",
+    "name": "Afghan Biscuit",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 20,
+    "short_description": "Why these crispy cookies are named Afghan is uncertain, but the recipe can be found in Edmonds Cookery Book, dating back to 1955. The cookies consist of crushed cornflakes that are combined with butte...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a8d8047958994fd38e0d07e02b843ea0.jpg?mw=660",
+    "most_iconic_place": "Fidel's Cafe",
+    "most_iconic_location": "Wellington",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "neenish_tart",
+    "name": "Neenish Tart",
+    "local_name": null,
+    "category": "TART",
+    "rank": 21,
+    "short_description": "Neenish tart is an Australian and New Zealander delicacy, a sweet treat consisting of pastry shells with a custard-like filling, their tops decorated with a thin layer of icing, with each half colored...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a05f23fe97be4c9b889ec577846ff0e9.jpg?mw=660",
+    "most_iconic_place": "Darfield Bakery",
+    "most_iconic_location": "Darfield",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Milk",
+      "Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "takihi",
+    "name": "Takihi",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 22,
+    "short_description": "Takihi is a baked dish from Niue in the South Pacific, made from thinly sliced taro and ripe papaya layered with coconut cream and cooked until the taro softens and the papaya breaks down into a light...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Niue",
+    "ingredients": [
+      "Taro",
+      "Papaya",
+      "Coconut Cream",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spaghetti_on_toast",
+    "name": "Spaghetti on toast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 23,
+    "short_description": "Spaghetti on toast is a unique creation consisting of canned spaghetti served on a piece of toast. The dish is regularly served as comfort food in New Zealand, Australia, and the UK, either for breakf...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/41b14fc3b9b2419a9c02b65c00d4546b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Canned Spaghetti",
+      "Toast"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "colonial_goose",
+    "name": "Colonial Goose",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 24,
+    "short_description": "Colonial goose is a dish from New Zealand that has been invented in the 19th century by British settlers in an attempt to reproduce meals from their homeland with ingredients that were available at th...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d96576645cdc411ea57e045506775851.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Honey",
+      "Apricot",
+      "Breadcrumbs",
+      "Onion",
+      "Parsley"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "id": "machboos",
+    "name": "Machboos",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Savor the rich flavors of Machboos, a beloved Qatari dish where tender chicken or lamb is layered with fragrant basmati rice, red onions, and tomatoes. Steeped in Gulf tradition, each bite offers a delightful blend of spices and cultural heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lokma",
+    "name": "Lokma",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 2,
+    "short_description": "Golden, deep-fried dough balls are drenched in sweet syrup, creating a delightful treat cherished in Qatari culture. Lokma offers a perfect balance of crispy texture and sugary bliss, making it irresistible.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/12f04b3d12fd475aba18b0a6ca9bf97f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sugar",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shawarma",
+    "name": "Shawarma",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 3,
+    "short_description": "Marinated and spit-roasted to perfection, shawarma offers a vibrant blend of tender lamb, beef, and chicken wrapped in warm pita or lavash. A beloved street food with Ottoman roots, it bursts with aromatic spices and savory flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbc3999873a748a49a7a5d7364a3e8c4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Beef",
+      "Chicken",
+      "Pita bread",
+      "Lavash",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "harees",
+    "name": "Harees",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 4,
+    "short_description": "A cherished Ramadan staple, harees features tender wheat simmered with succulent meat, creating a hearty, comforting porridge. Its rich, savory flavors reflect centuries of Middle Eastern tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03df132180744560921a1b481675e559.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tharıd",
+    "name": "Tharıd",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 5,
+    "short_description": "A beloved Qatari staple, tender lamb simmers with aromatic cloves, garlic, and ginger, creating a rich stew. Thickened with barley bread, it embodies the warmth of Arabian hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/adc07828c28e476485271cb02a081add.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Cloves",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "saloona",
+    "name": "Saloona",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "A beloved staple in Qatari cuisine, this hearty stew features tender chicken simmered with vibrant vegetables and aromatic spices. Each bowl offers a comforting taste of home and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4823c34df331411cb850863dd09b8f1c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "quzi",
+    "name": "Quzi",
+    "local_name": null,
+    "category": "LAMB DISH",
+    "rank": 7,
+    "short_description": "Slow-cooked to perfection, this festive Middle Eastern favorite features tender lamb infused with aromatic spices, served over fragrant basmati rice, and garnished with crunchy almonds and sweet raisins.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c93179a3a1184726b102a7beecb5983c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Basmati",
+      "Onion",
+      "Almonds",
+      "Raisins",
+      "Pine Nuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "balaleet",
+    "name": "Balaleet",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 8,
+    "short_description": "Sweet and savory vermicelli, enriched with buttery eggs, cardamom, and saffron, creates a delightful breakfast experience in Qatar. A beloved staple, it beautifully blends tradition with flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/939a416a53a5484fa45904f166cf8776.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Vermicelli",
+      "Eggs",
+      "Butter",
+      "Cardamom",
+      "Saffron",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ageeli",
+    "name": "Ageeli",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 9,
+    "short_description": "Originating from Qatar, this delightful ring-shaped cake blends eggs, flour, and sugar with aromatic cardamom, saffron, and rosewater. Topped with a rich tahini glaze, it’s a sweet symbol of celebration.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/86ebd780648a42709bd35c3e0bd80fb7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "warak_enab",
+    "name": "Warak enab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 10,
+    "short_description": "Stuffed grape leaves filled with savory ground beef, lamb, and fragrant rice create a flavorful bite, cherished across the eastern Mediterranean. Each roll bursts with rich, aromatic spices.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e4ab668a48424a20a7793a5037d6dc9f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Grape Leaves",
+      "Ground Beef",
+      "Ground Lamb",
+      "Rice",
+      "Onion",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khanfaroosh",
+    "name": "Khanfaroosh",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 11,
+    "short_description": "Golden and fluffy, these deep-fried delights capture the essence of Gulf indulgence. Made with a blend of wheat and rice flour, they offer a sweet, airy bite that’s perfect for celebrations.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7a072070103a42babeac630b60adb258.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Rice Flour",
+      "Eggs",
+      "Sugar",
+      "Baking Powder",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "madrouba",
+    "name": "Madrouba",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 12,
+    "short_description": "A beloved dish in Qatar and Oman, this spicy porridge combines tender chicken with overcooked rice, infused with aromatic spices like turmeric, cumin, and garlic for a comforting, flavorful experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/41aaf364a58046ce98b2d92d540fdcad.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "maamoul",
+    "name": "Ma'amoul",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 13,
+    "short_description": "Delight in the rich flavors of Ma'amoul, a traditional Qatari cookie featuring a buttery semolina dough, lovingly filled with aromatic walnuts. Each bite offers a perfect blend of sweetness and crunch, embodying Middle Eastern hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/71a0cf58a927471da8e62bc1f09cf9cb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Semolina",
+      "Wheat Flour",
+      "Yeast",
+      "Ghee",
+      "Walnuts",
+      "Pistachios"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sago_halawa",
+    "name": "Sago Halawa",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 14,
+    "short_description": "A cherished Qatari dessert, sago halawa features tender sago pearls melded with ghee and sugar, infused with fragrant cardamom and saffron, and topped with crunchy walnuts for a delightful finish.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e614a52f30c742c394048d4fa47f825e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sago Pearls",
+      "Sugar",
+      "Ghee",
+      "Butter"
+    ],
+    "is_active": true
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "id": "pretzel_brezel",
+    "name": "Pretzel (Brezel)",
+    "local_name": null,
+    "category": "BREAD",
+    "rank": 1,
+    "short_description": "Considered an iconic symbol of Germany, the pretzel is a type of traditional baked good that is made by combining flour, salt, malt, yeast, and water. The resulting dough is then shaped into a well-kn...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a3d9f03625f14029a24dcadc88910171.jpg?mw=660",
+    "most_iconic_place": "Augustiner-Keller",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Baking Soda",
+      "Butter",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bratwurst",
+    "name": "Bratwurst",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 2,
+    "short_description": "What was once an item for survival during the cold winter months and a technique of not wasting meat scraps is nowadays a delicacy consumed throughout Germany and abroad. Bratwurst stems from two word...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/de9c2d8d21c5438580ee42ed9dfa41e4.jpg?mw=660",
+    "most_iconic_place": "Bratwursthäusle",
+    "most_iconic_location": "Nuremberg",
+    "ingredients": [
+      "Ground Pork",
+      "Allspice",
+      "Marjoram",
+      "Mace",
+      "Coriander Seeds",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "schwarzwälder_kirschtorte",
+    "name": "Schwarzwälder Kirschtorte",
+    "local_name": null,
+    "category": "CHOCOLATE CAKE",
+    "rank": 3,
+    "short_description": "Black Forest cherry cake is a popular German dessert consisting of chocolate sponges that are coated in whipped cream and dotted with kirschwasser-infused cherries. Some varieties use the kirschwasser...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b19aebb29acd4062b729913ed0af1692.jpg?mw=660",
+    "most_iconic_place": "Café König",
+    "most_iconic_location": "Baden-Baden",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Baking Powder",
+      "Cocoa Powder",
+      "Chocolate",
+      "Sour Cherries"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lebkuchen",
+    "name": "Lebkuchen",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 4,
+    "short_description": "This traditional German treat is mainly associated with Christmas and winter holidays. The term lebkuchen covers a wide variety of different types of honey or ginger-flavored cookies which are traditi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/51106e1227fd4e3e8189cbfce83eaf67.jpg?mw=660",
+    "most_iconic_place": "Café Simon",
+    "most_iconic_location": "Passau",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "stollen",
+    "name": "Stollen",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 5,
+    "short_description": "Stollen is one of German Christmas classics. This rich fruit bread is prepared with a buttery and sweet yeast dough that is usually spiced, lemon-flavored, and enriched with various dried fruits and m...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fe327fabf2724f6da2d19e605c335787.jpg?mw=660",
+    "most_iconic_place": "Café Kreutzkamm",
+    "most_iconic_location": "Munich",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sauerbraten",
+    "name": "Sauerbraten",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 6,
+    "short_description": "The traditional German pot roast is one of the best ways to transform more tougher cuts of beef into a tender, succulent meal. Chuck and bottom round are most favored cuts for this German classic, whi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/79dceb1607db46a7af6a42e2f84417a9.jpg?mw=660",
+    "most_iconic_place": "Lutter & Wegner",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Sultana Raisins",
+      "Carrot",
+      "Cloves",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "currywurst",
+    "name": "Currywurst",
+    "local_name": null,
+    "category": "SAUSAGE DISH",
+    "rank": 7,
+    "short_description": "No other dish in Germany is as well known as currywurst, a street snack that has become an indispensable part of Germany’s culinary heritage. The dish is made from two essential parts - boiled and sub...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/092c3f75df9b4d14ad7ef84308fc8dd2.jpg?mw=660",
+    "most_iconic_place": "Curry 36",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Bratwurst",
+      "Tomato Sauce",
+      "Curry Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "schweinebraten",
+    "name": "Schweinebraten",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 8,
+    "short_description": "Schweinebraten is a traditional pork roast originating from Bavaria. It is typically prepared for Sunday lunch and consists of sliced pork roast that's served with homemade gravy, semmelknödel (bread ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4435dc86e7e148e9b5d688df24caff8f.jpg?mw=660",
+    "most_iconic_place": "Görreshof",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Mustard",
+      "Bay Leaves",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "leberkäse",
+    "name": "Leberkäse",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 9,
+    "short_description": "Leberkäse is a traditional product consisting of ground meat that is flavored with onions and baked into a meatloaf. The loaf is characterized by a crispy crust on the exterior, while the interior rem...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ce6226bba9e049638de9401a82af9aea.jpg?mw=660",
+    "most_iconic_place": "Fidelisbäck",
+    "most_iconic_location": "Wangen im Allgäu",
+    "ingredients": [
+      "Ground Beef",
+      "Ground Pork",
+      "Bacon",
+      "Onion",
+      "Garlic",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "weißwürste",
+    "name": "Weißwürste",
+    "local_name": null,
+    "category": "WHITE SAUSAGE",
+    "rank": 10,
+    "short_description": "Weisswurst or white sausage is a famous specialty of the city of Munich, invented in 1857 by a butcher named Sepp Moser. He was working in a restaurant next to his butcher's shop and had used the last...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8f16bdd6f6d74fa5bbe443e8f69654c7.jpg?mw=660",
+    "most_iconic_place": "Schneider Bräuhaus",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Ground Veal",
+      "Ground Pork",
+      "Mace",
+      "Mustard Seeds",
+      "Parsley",
+      "Lemon Zest"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rouladen",
+    "name": "Rouladen",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 11,
+    "short_description": "Rouladen are traditional German meat rolls stuffed with a variety of ingredients. They are always served accompanied by a creamy sauce. The rolls are usually made with long and thin beef steaks, which...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6f874852480a4f60904e15574ef35ff4.jpg?mw=660",
+    "most_iconic_place": "Auerbachs Keller",
+    "most_iconic_location": "Leipzig",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bavarian_cream_bayrisch_creme",
+    "name": "Bavarian cream (Bayrisch Creme)",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 12,
+    "short_description": "This rich, silky egg custard is thickened with gelatin and combined with whipped cream. It is traditionally served cold, and is usually garnished with pieces of fresh fruit or drizzled over with sweet...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9db4d4d5949f4601a19096527573729d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Bavaria",
+    "ingredients": [
+      "Heavy Cream",
+      "Eggs",
+      "Gelatin",
+      "Vanilla",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "leberwurst",
+    "name": "Leberwurst",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 13,
+    "short_description": "Leberwurst is a spicy German sausage consisting of a combination of ground pork liver, onions, and spices. The sausage is traditionally consumed with sauerkraut, although it can also be used in sandwi...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4acd80f21d9e4bc2b78a8d3a3a772156.jpg?mw=660",
+    "most_iconic_place": "Rogacki",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Pork Liver",
+      "Ground Pork",
+      "Onion",
+      "Marjoram",
+      "Thyme",
+      "Mace"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "käsespätzle",
+    "name": "Käsespätzle",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 14,
+    "short_description": "Käsespätzle is a simple noodle dish that combines spätzle noodles with a creamy mixture of melted cheese. The noodles are also called knöpfle, meaning little buttons, and are made with eggs, flour, mi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/93bc192b0e8245059ed76aa1b63bf055.jpg?mw=660",
+    "most_iconic_place": "Weinstube Fröhlich",
+    "most_iconic_location": "Stuttgart",
+    "ingredients": [
+      "Spätzle",
+      "Edam Holland",
+      "Gruyère",
+      "Fontina",
+      "Emmentaler",
+      "Appenzeller"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "schweinshaxe",
+    "name": "Schweinshaxe",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 15,
+    "short_description": "The term Schweinshaxe is typically used in the southern parts of Germany, predominantly in Bavaria, and it usually refers to a whole pork knuckle that is roasted for hours until it is thoroughly cooke...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ebf8e4badee44a368889800d17db953c.jpg?mw=660",
+    "most_iconic_place": "Augustiner Bräustuben",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Pork Knuckle",
+      "Onion",
+      "Garlic",
+      "Caraway Seeds",
+      "Mustard Seeds",
+      "Beer"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pumpernickel",
+    "name": "Pumpernickel",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 16,
+    "short_description": "This heavy and slightly sweet rye bread is made from a sourdough starter and coarsely ground rye with whole rye berries as its base. Its name comes from the German pumpern, a synonym for being flatule...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/65eb5fb2075a4075a3e29c39cce6a1a6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "North Rhine-Westphalia",
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Rye",
+      "Sourdough Starter",
+      "Butter",
+      "Cocoa Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "obazda",
+    "name": "Obazda",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 17,
+    "short_description": "This Bavarian cheese spread was originally invented to make use of ripened soft cheese. It consists of a creamy combination of butter, paprika, and typically Camembert and Brie, or optionally Romadur,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e919188787ad41fea097b44b6325eb8b.jpg?mw=660",
+    "most_iconic_place": "Hofbräuhaus München",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Camembert de Normandie",
+      "Brie de Meaux",
+      "Limburger",
+      "Romadur",
+      "Onion",
+      "Shallots"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "semmelknödel",
+    "name": "Semmelknödel",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 18,
+    "short_description": "Semmelknödel are popular German bread dumplings–nutritious and convenient, they are one of the most versatile side dishes in traditional German cuisine. Even though there are numerous semmelknödel var...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2da488aec06a4d11a1f0428fad45f678.jpg?mw=660",
+    "most_iconic_place": "Schneider Bräuhaus",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Bread",
+      "Butter",
+      "Onion",
+      "Eggs",
+      "Parsley",
+      "Nutmeg"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jägerschnitzel",
+    "name": "Jägerschnitzel",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 19,
+    "short_description": "Jägerschnitzel is a traditional version of schnitzel that is topped with a gravy called Jägersoße, meaning hunter's sauce. Originally made with venison or wild boar, nowadays the most common types of ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4d27fc7631314b6587c4728506032c6d.jpg?mw=660",
+    "most_iconic_place": "Apfelwein Wagner",
+    "most_iconic_location": "Frankfurt am Main",
+    "ingredients": [
+      "Veal",
+      "Pork",
+      "Venison",
+      "Wild Boar",
+      "Wheat Flour",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kartoffelsuppe",
+    "name": "Kartoffelsuppe",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 20,
+    "short_description": "Kartoffelsuppe is a popular German soup made with potatoes as its key ingredient. The soup is usually cooked with the addition of onions, celery, butter, and milk. It is characterized by a very thick ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/43e8f633984649249e2ee16725540607.jpg?mw=660",
+    "most_iconic_place": "Ratskeller München",
+    "most_iconic_location": "Munich",
+    "ingredients": [
+      "Potatoes",
+      "Carrot",
+      "Celery",
+      "Leek",
+      "Onion",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "käsekuchen",
+    "name": "Käsekuchen",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 21,
+    "short_description": "German-style cheesecake is a traditional dessert consisting of a thin layer of shortcrust pastry that is topped with a creamy combination of quark cheese, eggs, and (occasionally) various fruits. Even...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a45421ef162c4b2684d5221a1b67642c.jpg?mw=660",
+    "most_iconic_place": "Princess Cheesecake",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Wheat Flour",
+      "Quark",
+      "Eggs",
+      "Butter",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "wiesn_hendl",
+    "name": "Wiesn Hendl",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 22,
+    "short_description": "Wiesn Hendl is the Bavarian roasted chicken, traditionally seasoned only with salt and sometimes parsley, then grilled and sold as half a chicken or whole chicken. During the roasting process, the chi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1b2b1189b32f479db77ccfa6197a21be.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Bavaria",
+    "ingredients": [
+      "Chicken",
+      "Butter",
+      "Parsley",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "spaghettieis",
+    "name": "Spaghettieis",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 23,
+    "short_description": "Spaghettieis is a traditional ice cream that’s made to look like a bowl of spaghetti with tomato sauce and grated parmesan cheese. This dessert was invented in Mannheim, Germany in 1969 by Dario Fonta...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/544b44ea4ccd40d187270937a6e11041.jpg?mw=660",
+    "most_iconic_place": "Eis Fontanella",
+    "most_iconic_location": "Mannheim",
+    "ingredients": [
+      "Ice Cream",
+      "Whipped Cream",
+      "White Chocolate",
+      "Strawberry Syrup"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "blutwurst",
+    "name": "Blutwurst",
+    "local_name": null,
+    "category": "BLOOD SAUSAGE",
+    "rank": 24,
+    "short_description": "Belonging to the category of cooked sausages, blutwurst is a famous German blood sausage with many regional varieties. It is predominantly made with pork and incorporates animal blood, fat, and meat, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/db4c0b7e5da04a05be1d70fa5d99d440.jpg?mw=660",
+    "most_iconic_place": "Rogacki",
+    "most_iconic_location": "Berlin",
+    "ingredients": [
+      "Ground Pork",
+      "Pig’s Blood",
+      "Onion",
+      "Ginger",
+      "Cloves",
+      "Black Pepper"
+    ],
+    "is_active": true
+  }
+]

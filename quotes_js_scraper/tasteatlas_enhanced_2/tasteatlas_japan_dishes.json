@@ -1,0 +1,421 @@
+[
+  {
+    "id": "sushi",
+    "name": "Sushi",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Originating from Japan, sushi features vinegared rice expertly rolled with fresh seafood, shiitake mushrooms, and crisp Persian cucumber, all wrapped in delicate nori for a burst of umami in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fde953e5aa504e8c83a84691582b0399.jpg?mw=660",
+    "most_iconic_place": "Ginza Kyubey",
+    "most_iconic_location": "Chūō",
+    "ingredients": [
+      "Seafood",
+      "Nori",
+      "Shiitake",
+      "Surimi",
+      "Persian Cucumber",
+      "Scallions"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ramen",
+    "name": "Ramen",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 2,
+    "short_description": "Originating in Japan in 1910, ramen features bright yellow, curly noodles swimming in a savory broth enriched with tender pork, chicken, and seafood, complemented by earthy root vegetables. Each bowl delivers a comforting umami explosion.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b6b9680a32c84a9381a1ea5f5e529698.jpg?mw=660",
+    "most_iconic_place": "Ichiran Nakasu",
+    "most_iconic_location": "Fukuoka",
+    "ingredients": [
+      "Ramen Noodles",
+      "Pork",
+      "Chicken",
+      "Seafood",
+      "Root Vegetable",
+      "Mushrooms"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sashimi",
+    "name": "Sashimi",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 3,
+    "short_description": "Delicate slices of fresh tuna, squid, scallops, whale, and octopus showcase Japan's culinary artistry. Served with soy sauce, wasabi, and ginger, each bite is a celebration of umami and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/17f54b4244a94d048fb0ed14098803a9.jpg?mw=660",
+    "most_iconic_place": "Sushi Yoshitake",
+    "most_iconic_location": "Chūō",
+    "ingredients": [
+      "Tuna",
+      "Squid",
+      "Scallops",
+      "Whale",
+      "Octopus",
+      "Chicken"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yakitori",
+    "name": "Yakitori",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 4,
+    "short_description": "Skewered and grilled to perfection, tender pieces of chicken are brushed with a savory-sweet tare sauce, embodying the essence of Japan's izakaya culture. Each bite delivers smoky flavor and irresistible char.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/31197d87b8b747ceb366b8a81f7bace2.jpg?mw=660",
+    "most_iconic_place": "Toriki Main",
+    "most_iconic_location": "Shinagawa",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mochi",
+    "name": "Mochi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Delicate and chewy, these glutinous rice cakes are a beloved staple of Japanese culture. Traditionally pounded to perfection, mochi delights with its subtle sweetness and versatile fillings.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7cce87e6040347f5930f6356a6b4ab52.jpg?mw=660",
+    "most_iconic_place": "Demachi Futaba",
+    "most_iconic_location": "Kyoto",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "onigiri",
+    "name": "Onigiri",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 6,
+    "short_description": "Moist and chewy, these traditional Japanese rice balls, dating back to the 11th century, are filled with savory umeboshi, tender shiitake, or fresh salmon, all wrapped in crisp nori for a perfect bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/69f35c5768bc47f386e90a2a145a7230.jpg?mw=660",
+    "most_iconic_place": "Onigiri Bongo",
+    "most_iconic_location": "Toshima",
+    "ingredients": [
+      "Uruchimai",
+      "Nori",
+      "Umeboshi",
+      "Shiitake",
+      "Salmon",
+      "Kombu"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gyoza",
+    "name": "Gyoza",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 7,
+    "short_description": "Crescent-shaped and irresistibly crispy, these Japanese gyoza showcase savory pork and chicken, complemented by tender cabbage. A delicious twist on traditional Chinese jiaozi, they burst with flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3c16ad904018488f8c363413d356cacc.jpg?mw=660",
+    "most_iconic_place": "Harajuku Gyoza-ro",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Pork",
+      "Chicken",
+      "Cabbage",
+      "Chives"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "wagashi",
+    "name": "Wagashi",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 8,
+    "short_description": "Delicate and colorful, traditional Japanese wagashi showcase the artistry of natural ingredients like azuki beans and rice flour. Perfectly paired with tea, these sweets embody seasonal beauty and cultural heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c2f662d5258347ea834e49059431f30f.jpg?mw=660",
+    "most_iconic_place": "Jimbocho Den",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "shabu_shabu",
+    "name": "Shabu-shabu",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 9,
+    "short_description": "Originating from Mongolia, this interactive Japanese hot pot features thinly sliced beef, lamb, pork, and succulent seafood like crab and lobster, quickly cooked in bubbling water. Each bite bursts with umami, enhanced by dipping sauces for a customizable flavor experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/20eb7a41894a457181057348f1314c1b.jpg?mw=660",
+    "most_iconic_place": "Hariju",
+    "most_iconic_location": "Osaka",
+    "ingredients": [
+      "Crab",
+      "Lobster",
+      "Beef",
+      "Lamb",
+      "Pork",
+      "Chicken"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dashi",
+    "name": "Dashi",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 10,
+    "short_description": "Originating from Japan, this umami-rich stock combines kelp and bonito flakes, creating a savory base for miso soups, noodle dishes, and hearty stews that embody the essence of Japanese cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b66666ff20a6494b92b7bc365c4c3d73.jpg?mw=660",
+    "most_iconic_place": "Nihonryori Ryugin",
+    "most_iconic_location": "Minato",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tonkatsu",
+    "name": "Tonkatsu",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 11,
+    "short_description": "Crispy and golden, this deep-fried pork cutlet originates from Japan's late 19th century yoshoku movement. Coated in seasoned breadcrumbs, it delivers a savory crunch with every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bad3bf5847bc4dee9ad59f1d9ca84725.jpg?mw=660",
+    "most_iconic_place": "Katsukura",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [
+      "Pork",
+      "Flour",
+      "Breadcrumbs",
+      "Eggs",
+      "Oil and Animal Fat"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nigiri",
+    "name": "Nigiri",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 12,
+    "short_description": "Hand-pressed sushi from Tokyo's Edo period, nigiri features succulent slices of eel, octopus, and salmon atop perfectly seasoned uruchimai rice, delivering a delightful balance of flavors and textures.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f3abe602fe794beba2f00deee03dee9e.jpg?mw=660",
+    "most_iconic_place": "Sushi Dai",
+    "most_iconic_location": "Chūō",
+    "ingredients": [
+      "Uruchimai",
+      "Rice Vinegar",
+      "Eel",
+      "Octopus",
+      "Salmon",
+      "Tamagoyaki"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "miso_soup",
+    "name": "Miso Soup",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 13,
+    "short_description": "Originating from Japan, this comforting bowl combines umami-rich dashi with savory miso, tender tofu, and fresh scallions. Each sip offers a warm embrace of tradition and flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1d294997f74843978bb2d48c0f83c6e6.jpg?mw=660",
+    "most_iconic_place": "Tsunahachi",
+    "most_iconic_location": "Shinjuku",
+    "ingredients": [
+      "Dashi",
+      "Miso",
+      "Tofu",
+      "Scallions"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "teppanyaki",
+    "name": "Teppanyaki",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 14,
+    "short_description": "Sizzling on an iron plate, Teppanyaki showcases Japan's culinary artistry, blending fresh meats, seafood, and vibrant vegetables with bold sauces. Each bite bursts with savory umami and grill-kissed perfection.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/714f4dddec354c84aad21cadcb442148.jpg?mw=660",
+    "most_iconic_place": "Hakushu Teppanyaki",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "karē",
+    "name": "Karē",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Japanese-style curry, or karē, delights with its rich, savory blend of spices and tender chunks of meat or vegetables. Originating from British influences during the Meiji period, it warms the soul with every comforting bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/04159690147843cd861ad2afffdeed59.jpg?mw=660",
+    "most_iconic_place": "Garaku Soup Curry",
+    "most_iconic_location": "Sapporo",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kushiyaki",
+    "name": "Kushiyaki",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 16,
+    "short_description": "Savory skewers of marinated meat, seafood, or vegetables are grilled to perfection in the vibrant streets of Japan. Each bite bursts with umami flavors, showcasing the art of traditional barbecue.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7e145a4d60a442448a6904229912d12c.jpg?mw=660",
+    "most_iconic_place": "Toriki Main",
+    "most_iconic_location": "Shinagawa",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "yakisoba",
+    "name": "Yakisoba",
+    "local_name": null,
+    "category": "STIR-FRY",
+    "rank": 17,
+    "short_description": "Savor the umami-rich flavors of yakisoba, a beloved Japanese stir-fry dish featuring tender pork, crisp cabbage, and vibrant carrots tossed with chewy noodles. A delicious fusion of tradition and taste!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/730db49aee6c4842a719feec670e4709.jpg?mw=660",
+    "most_iconic_place": "Yakisoba Mikasa",
+    "most_iconic_location": "Chiyoda",
+    "ingredients": [
+      "Noodles",
+      "Pork",
+      "Cabbage",
+      "Onion",
+      "Carrot",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "daifuku",
+    "name": "Daifuku",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 18,
+    "short_description": "Chewy mochi envelops a luscious filling of sweet red bean paste, complemented by chestnuts and apricot. A beloved Japanese treat, daifuku brings a delightful blend of textures and flavors in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ee0231e3bea14f5b9e33f2df4edcda7f.jpg?mw=660",
+    "most_iconic_place": "Demachi Futaba",
+    "most_iconic_location": "Kyoto",
+    "ingredients": [
+      "Mochi",
+      "Red Bean Paste",
+      "Chestnuts",
+      "Apricot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "teriyaki",
+    "name": "Teriyaki",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 19,
+    "short_description": "Originating from Japan, tender meats like pork, beef, and chicken are marinated in a savory-sweet teriyaki sauce, then grilled to perfection. The result is a mouthwatering glaze that elevates every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2412f557af2d415cb8f177ee2a1cca62.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Beef",
+      "Chicken",
+      "Soy sauce",
+      "Mirin",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sukiyaki",
+    "name": "Sukiyaki",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 20,
+    "short_description": "A beloved Japanese hot-pot, Sukiyaki features tender beef simmered with sweet soy sauce, paired with fresh Napa cabbage, mushrooms, and udon noodles, all cooked tableside for a communal feast.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/100700d38f35404195401f13ce82c8aa.jpg?mw=660",
+    "most_iconic_place": "Mishima-tei",
+    "most_iconic_location": "Kyoto",
+    "ingredients": [
+      "Beef",
+      "Napa cabbage",
+      "Udon noodles",
+      "Mushrooms",
+      "Leek",
+      "Tofu"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "maki",
+    "name": "Maki",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 21,
+    "short_description": "Originating in 18th-century Japan, maki features delicate nori wrapped around seasoned uruchimai rice and vibrant fillings, creating a symphony of flavors with each bite. Enjoy the perfect balance of umami and freshness!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2bb4319736414019b380970db57dac58.jpg?mw=660",
+    "most_iconic_place": "Sushi Tokami",
+    "most_iconic_location": "Chūō",
+    "ingredients": [
+      "Uruchimai",
+      "Rice Vinegar",
+      "Nori",
+      "Kombu",
+      "Eggs",
+      "Persian Cucumber"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaiseki",
+    "name": "Kaiseki",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 22,
+    "short_description": "Originating from Japan, Kaiseki showcases the art of seasonal ingredients in a harmonious multi-course feast. Each bite offers a delicate balance of flavors, featuring fresh sashimi, flavorful soups, and exquisite small dishes.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ece9d290038540eeb2b1da8742f01622.jpg?mw=660",
+    "most_iconic_place": "Tofuya Ukai",
+    "most_iconic_location": "Minato",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chashu",
+    "name": "Chashu",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 23,
+    "short_description": "Slowly braised to perfection, tender pork belly absorbs the rich umami of soy sauce, sake, and ginger in this beloved Japanese staple. Rolled or flat, it melts in your mouth, embodying comfort in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1c2e25d672c349f19a99b5afa06146a7.jpg?mw=660",
+    "most_iconic_place": "Tsuta",
+    "most_iconic_location": "Shibuya",
+    "ingredients": [
+      "Pork Belly",
+      "Soy sauce",
+      "Sake",
+      "Ginger",
+      "Mirin",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tonkotsu_ramen",
+    "name": "Tonkotsu ramen",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 24,
+    "short_description": "Originating from Fukuoka, tonkotsu ramen features a luscious, creamy pork broth simmered for hours, paired with springy noodles, melt-in-your-mouth pork belly, and a soft-yolk egg for the ultimate umami experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5f6a4feb8f0b49198e11fd62fd6e0801.jpg?mw=660",
+    "most_iconic_place": "Ichiran Nakasu",
+    "most_iconic_location": "Fukuoka",
+    "ingredients": [
+      "Ramen Noodles",
+      "Pork Belly",
+      "Stock",
+      "Pork Fat",
+      "Eggs",
+      "Scallions"
+    ],
+    "is_active": true
+  }
+]

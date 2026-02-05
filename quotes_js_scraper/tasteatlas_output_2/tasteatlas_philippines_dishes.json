@@ -1,0 +1,433 @@
+[
+  {
+    "id": "lechon",
+    "name": "Lechon",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 1,
+    "short_description": "Lechon, derived from a Spanish word for roasted suckling pig is one of the most popular dishes in the Philippines. The slowly-roasted suckling pig is usually stuffed with lemongrass, tamarind, garlic,...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5eb9df1828d84079a850ebe462e28121.jpg?mw=660",
+    "most_iconic_place": "Mesa Filipino Moderne",
+    "most_iconic_location": "Makati",
+    "ingredients": [
+      "Pork",
+      "Onion",
+      "Garlic",
+      "Lemongrass",
+      "Bay Leaves",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pancit",
+    "name": "Pancit",
+    "local_name": null,
+    "category": "STIR-FRY",
+    "rank": 2,
+    "short_description": "Pancit is a staple Filipino dish found at numerous feasts and celebrations, consisting of stir-fried noodles with meat and vegetables such as chicken, pork, shrimp, celery, carrots, onions, garlic, an...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/13c1e096414d4f2cbd996ce3e67e8e7e.jpg?mw=660",
+    "most_iconic_place": "Nanay's Pancit Malabon",
+    "most_iconic_location": "Malabon",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "adobo",
+    "name": "Adobo",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Adobo is the closest thing to a national dish in the Philippines, consisting of seared and browned chunks of meat, seafood, fruit, or vegetables mixed with white vinegar or soy sauce (or both), bay le...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d5341266285b41e3bc49f9b18795adf9.jpg?mw=660",
+    "most_iconic_place": "Cafe Adriatico",
+    "most_iconic_location": "Manila",
+    "ingredients": [
+      "Chicken",
+      "Pork",
+      "Squid",
+      "Vinegar",
+      "Soy sauce",
+      "Bay Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lumpia",
+    "name": "Lumpia",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 4,
+    "short_description": "Lumpia is a simple and flavourful Filipino finger food that evolved from the Chinese spring rolls. Each lumpia consists of a rice or flour dough wrap that is stuffed with meat (most often ground pork ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/af229c4fe92b40268cee8710cdf6a50e.jpg?mw=660",
+    "most_iconic_place": "The Aristocrat",
+    "most_iconic_location": "Manila",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sisig",
+    "name": "Sisig",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 5,
+    "short_description": "Sisig is a popular Filipino dish made by boiling, chopping, and grilling parts of pig's head such as ears, cheeks, and jowls, which are then seasoned with salt, pepper, and vinegar. The meat is combin...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ed84a09403eb461cbfdc31cf97a49c37.jpg?mw=660",
+    "most_iconic_place": "Aling Lucing's Sisig",
+    "most_iconic_location": "Angeles",
+    "ingredients": [
+      "Pork",
+      "Offal",
+      "Vinegar",
+      "Onion",
+      "Hot Peppers",
+      "Soy sauce"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kaldereta",
+    "name": "Kaldereta",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "Kaldereta is a Filipino meat stew that is traditionally served with a side of white rice. Although any kind of meat can be used in the stew, beef and goat are the preferred options. The dish is influe...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/de9021814faf4eea9c38f62d19e09c8a.jpg?mw=660",
+    "most_iconic_place": "Sentro 1771",
+    "most_iconic_location": "Makati",
+    "ingredients": [
+      "Beef",
+      "Goat",
+      "Tomato Sauce",
+      "Potatoes",
+      "Carrot",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sinigang",
+    "name": "Sinigang",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 7,
+    "short_description": "Sinigang is a sour Filipino soup consisting of sampalok (fruits of the tamarind tree), water spinach, hot peppers, cabbage, broccoli, eggplant, diced tomatoes, sliced onions, ginger, garlic, green bea...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e98d832284c14b9d8308b88d7438be71.jpg?mw=660",
+    "most_iconic_place": "Locavore",
+    "most_iconic_location": "Pasig",
+    "ingredients": [
+      "Guava",
+      "Tamarind",
+      "Chicken",
+      "Beef",
+      "Pork",
+      "Seafood"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "leche_flan",
+    "name": "Leche Flan",
+    "local_name": null,
+    "category": "CUSTARD",
+    "rank": 8,
+    "short_description": "Leche flan is a Filipino dessert that is essentially a caramel custard consisting of milk, sugar, and eggs, with the addition of vanilla flavoring. Traditionally, it's oval-shaped due to the use of ti...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f811557b0f4942269a4719f3df635d7f.jpg?mw=660",
+    "most_iconic_place": "Manam Comfort Food",
+    "most_iconic_location": "Manila",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Condensed Milk",
+      "Sugar",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "silog",
+    "name": "Silog",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 9,
+    "short_description": "Silog refers to a group of Filipino dishes that are traditionally served for breakfast. The name is an abbreviation for sinangang at itlog, meaning fried garlic rice and eggs. The difference between e...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b1022825b3054aab9f66230ddb4cf815.jpg?mw=660",
+    "most_iconic_place": "Tapsi ni Vivian",
+    "most_iconic_location": "Marikina",
+    "ingredients": [
+      "Rice",
+      "Eggs",
+      "Garlic",
+      "Bangus",
+      "Tapa (Philippines)",
+      "Hot Dog"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kare_kare",
+    "name": "Kare-kare",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "Kare-kare is a traditional stew consisting of meat such as tripe, pork leg, ox tail, goat or chicken, vegetables, and a thick, savory peanut sauce flavored with annatto seeds. Shrimp paste (bagoong) i...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ebdf34b526f041288e07757db384073d.jpg?mw=660",
+    "most_iconic_place": "Serye Restaurant & Cafe",
+    "most_iconic_location": "Manila",
+    "ingredients": [
+      "Goat",
+      "Pork",
+      "Oxtail",
+      "Chicken",
+      "Peanut Butter",
+      "Peanuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tapa_philippines",
+    "name": "Tapa (Philippines)",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 11,
+    "short_description": "In Filipino cuisine, tapa most commonly denotes thinly sliced beef sirloin that is traditionally placed in a sweet, salty, and tangy marinade made with calamansi lemonade and soy sauce, flavored with ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/57211eb630034499a75d611dd21de5a9.jpg?mw=660",
+    "most_iconic_place": "Kanto Freestyle Breakfast",
+    "most_iconic_location": "Pasig",
+    "ingredients": [
+      "Beef",
+      "Lime",
+      "Soy sauce",
+      "Garlic",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "torta",
+    "name": "Torta",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 12,
+    "short_description": "Torta is a popular Filipino dish consisting of an omelet filled with ground meat and vegetables such as diced potatoes. Savory and extremely satisfying, the dish is usually served as a main course, pr...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/737def54c31548178020234326cf5b44.jpg?mw=660",
+    "most_iconic_place": "Sarsa Kitchen + Bar",
+    "most_iconic_location": "Makati",
+    "ingredients": [
+      "Eggs",
+      "Beef",
+      "Onion",
+      "Potatoes",
+      "Eggplant",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sorbetes",
+    "name": "Sorbetes",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 13,
+    "short_description": "Sorbetes is a popular Filipino ice cream flavored with ingredients such as mango, chocolate, cheese, coconut, and purple yam (ube). Traditionally, it is produced from carabao milk and served in tiny s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2b31295457064808a7df8c199d9fd751.jpg?mw=660",
+    "most_iconic_place": "La Fiesta",
+    "most_iconic_location": "Pasay",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "halo_halo",
+    "name": "Halo-Halo",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 14,
+    "short_description": "The refreshing halo-halo (lit. mix-mix) is a summer dessert or a snack of mixed fruit and beans, topped with finely crushed ice and either milk or ice cream. Some of the most common halo-halo ingredie...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/40a2ca9de2f44270ab8d9b97d1a21133.jpg?mw=660",
+    "most_iconic_place": "Razon's of Guagua",
+    "most_iconic_location": "Makati",
+    "ingredients": [
+      "Ice Cream",
+      "Leche Flan",
+      "Milk",
+      "Bananas",
+      "Durian",
+      "Mung beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tocino",
+    "name": "Tocino",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 15,
+    "short_description": "Although the term tocino stems from Spanish, in the Philippines, the word is synonymous with sweet-cured meat, traditionally prepared with pork, and occasionally beef or chicken. Slices of meat are do...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4610fc18d1ac41beb67c6991c646ffcd.jpg?mw=660",
+    "most_iconic_place": "Mila's Tokwa't Baboy",
+    "most_iconic_location": "Angeles",
+    "ingredients": [
+      "Pork",
+      "Sugar",
+      "Salt",
+      "Rice Wine",
+      "Soy sauce",
+      "Pineapple Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "turon",
+    "name": "Turon",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 16,
+    "short_description": "Falling in the group of popular lumpia snacks, turon is the famous Filipino treat made with saba plantains and jackfruit. The fruit is sliced lengthwise, dusted in brown sugar, enclosed in thin wheat ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0b99318e13914ba084ab8197aafa4e23.jpg?mw=660",
+    "most_iconic_place": "Locavore",
+    "most_iconic_location": "Pasig",
+    "ingredients": [
+      "Plantain",
+      "Durian",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lechon_kawali",
+    "name": "Lechon kawali",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 17,
+    "short_description": "Lechon kawali is the Filipino version of deep-fried pork belly. Primarily boiled in plain or seasoned water, the meat is rubbed with salt, cut into chunks, then deep-fried until it develops a golden-b...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b4a340ad5ba04439b096e507ae1f0f50.jpg?mw=660",
+    "most_iconic_place": "Victorino's Restaurant",
+    "most_iconic_location": "Quezon City",
+    "ingredients": [
+      "Pork Belly",
+      "Salt",
+      "Peppercorns"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "balut",
+    "name": "Balut",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 18,
+    "short_description": "Balut is a popular, although unusual Filipino delicacy, served everywhere from street stalls to upscale restaurants. It is a duck egg that has been hard-boiled, fertilized, and incubated. Traditionall...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4a4f080ec5a84f048d41e64ba81ec0f6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "inasal_na_manok",
+    "name": "Inasal na manok",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 19,
+    "short_description": "Inasal na manok is a unique Filipino grilled chicken dish which originated in Western Visayas and became the signature dish of the entire region. It employs various chicken cuts marinated in a mixture...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a093a8930f4f4e8e8bb7237998a54957.jpg?mw=660",
+    "most_iconic_place": "Aida's Manokan",
+    "most_iconic_location": "Bacolod",
+    "ingredients": [
+      "Chicken",
+      "Vinegar",
+      "Lemongrass",
+      "Garlic",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bulalô",
+    "name": "Bulalô",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 20,
+    "short_description": "Bulalô is a traditional Filipino soup that is prepared by cooking beef shanks and marrow bones until the fat and collagen dissolve into the broth, resulting in a robust flavor of the dish. The soup is...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/79722271aa7f431689f7e9fd0e8511a6.jpg?mw=660",
+    "most_iconic_place": "Leslie's",
+    "most_iconic_location": "Tagaytay",
+    "ingredients": [
+      "Beef",
+      "Bone Marrow",
+      "Fish Sauce",
+      "Onion",
+      "Corn",
+      "Green Beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crispy_pata",
+    "name": "Crispy Pata",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 21,
+    "short_description": "Crispy pata is one of the most common Filipino dishes served on special occasions. It consists of a whole pork leg that is cooked until tender. It is then dried and deep-fried until golden brown and c...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/80751d6a223a4a26bbbaaf0f44864c45.jpg?mw=660",
+    "most_iconic_place": "Livestock Restaurant Bar",
+    "most_iconic_location": "Quezon City",
+    "ingredients": [
+      "Pork",
+      "Bay Leaves",
+      "Peppercorns",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "daing",
+    "name": "Daing",
+    "local_name": null,
+    "category": "FISH DISH",
+    "rank": 22,
+    "short_description": "Daing is a Filipino term which refers to a vast category of marinated or salted sun-dried fish. Depending on the region and the technique, daing can be produced with various types of fish that may dif...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2f413827852545788405018fbf911c79.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pinangat",
+    "name": "Pinangat",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 23,
+    "short_description": "Pinangat is a popular Filipino stew that is prepared in two main versions. The sour version is prepared with fish, bilimbi, tamarind, and vinegar, while the Bicol region version is prepared with cocon...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3d934b2f72a246d8b24e1df289708c4d.jpg?mw=660",
+    "most_iconic_place": "Geewan",
+    "most_iconic_location": "Naga",
+    "ingredients": [
+      "Tuna",
+      "Sardines",
+      "Pork",
+      "Coconut Milk",
+      "Ginger",
+      "Taro"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "taho",
+    "name": "Taho",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 24,
+    "short_description": "Taho is a sweet Filipino dessert which consists of fresh soft tofu doused in arnibal syrup and sprinkled with plump sago pearls. Similar desserts can be found in numerous Asian countries, and most of ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/819f34773f0349b3a2531091556d18ce.jpg?mw=660",
+    "most_iconic_place": "Mr. Bean",
+    "most_iconic_location": "Quezon City",
+    "ingredients": [
+      "Tofu",
+      "Tapioca",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

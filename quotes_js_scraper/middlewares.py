@@ -9,6 +9,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
+import undetected_chromedriver as uc
+from scrapy_selenium import SeleniumMiddleware  # <--- ADD THIS LINE
 from itemadapter import is_item, ItemAdapter
 
 class QuotesJsScraperSpiderMiddleware:
@@ -134,3 +136,73 @@ class CustomSeleniumMiddleware:
 
     def spider_closed(self, spider):
         self.driver.quit()
+
+
+class Selenium4Middleware(SeleniumMiddleware):
+    """
+    Patched middleware using undetected-chromedriver to bypass Cloudflare
+    """
+    def __init__(self, driver_executable_path, driver_arguments):
+        # 1. Configure Chrome Options
+        options = uc.ChromeOptions()
+        
+        # Add your arguments from settings.py
+        for argument in driver_arguments:
+            options.add_argument(argument)
+
+        # 2. Initialize the Undetected Driver
+        # UC automatically handles the driver versioning and anti-bot patching.
+        # We generally do NOT pass a service or executable_path to UC; it handles it best alone.
+        # self.driver = uc.Chrome(
+        #     options=options, 
+        #     version_main=143  # <--- ADD THIS PARAMETER
+        # )
+        # Define the path to your manually downloaded driver
+        driver_path = r"C:\dev\python_runs\scrapy_selenium\quotes-js-project\chromedriver.exe"
+
+        # Initialize the driver with the local path
+        self.driver = uc.Chrome(
+            driver_executable_path=driver_path,
+            version_main=143,  # This tells it to stop checking for updates
+            options=options
+        )
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        # We only need the arguments. UC handles the path logic itself.
+        return cls(
+            driver_executable_path=None, 
+            driver_arguments=crawler.settings.get('SELENIUM_DRIVER_ARGUMENTS')
+        )
+
+    def spider_closed(self, spider):
+        # Gracefully close the driver when spider finishes
+        self.driver.quit()
+
+# class Selenium4Middleware(SeleniumMiddleware):
+#     """
+#     Patched middleware: Auto-manages ChromeDriver version
+#     """
+#     def __init__(self, driver_executable_path, driver_arguments):
+#         # 1. Setup Chrome Options
+#         chrome_options = Options()
+#         for argument in driver_arguments:
+#             chrome_options.add_argument(argument)
+        
+#         # 2. Setup Service
+#         # If a specific path is NOT provided in settings, use the Manager to auto-install
+#         if not driver_executable_path:
+#             print("Installing matching ChromeDriver...")
+#             driver_path = ChromeDriverManager().install()
+#             service = Service(executable_path=driver_path)
+#         else:
+#             service = Service(executable_path=driver_executable_path)
+
+#         self.driver = webdriver.Chrome(service=service, options=chrome_options)
+
+#     @classmethod
+#     def from_crawler(cls, crawler):
+#         return cls(
+#             driver_executable_path=crawler.settings.get('SELENIUM_DRIVER_EXECUTABLE_PATH'),
+#             driver_arguments=crawler.settings.get('SELENIUM_DRIVER_ARGUMENTS')
+#         )

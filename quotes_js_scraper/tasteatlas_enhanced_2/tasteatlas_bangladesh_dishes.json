@@ -1,0 +1,430 @@
+[
+  {
+    "id": "roshmalai",
+    "name": "Roshmalai",
+    "local_name": null,
+    "category": "CHEESE DESSERT",
+    "rank": 1,
+    "short_description": "Nestled in Bengali tradition, this creamy dessert features soft paneer soaked in fragrant cardamom milk, delicately flavored with saffron and topped with crunchy almonds. A sweet celebration in every bite!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b53ee1a62b704a36b63361822681ed47.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Milk",
+      "Cardamom",
+      "Sugar",
+      "Saffron",
+      "Almonds",
+      "Pistachios"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tikka",
+    "name": "Tikka",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 2,
+    "short_description": "Marinated in yogurt and a blend of spices like turmeric and cumin, this Bangladeshi tikka features tender, boneless chicken skewered and grilled to perfection, offering a burst of smoky, savory flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/86a6a97ee81c40f8adc25066215a62d1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fuchka",
+    "name": "Fuchka",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 3,
+    "short_description": "Crispy, hollow puris filled with a tantalizing mix of spiced potatoes and chickpeas, Fuchka bursts with flavor. A beloved Bangladeshi street snack, it offers a delightful crunch and zesty freshness in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b01fa4c9920d42df9ef472fd4f8e6fda.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Semolina",
+      "Maida Flour",
+      "Potatoes",
+      "Chickpeas",
+      "Onion",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "keema",
+    "name": "Keema",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 4,
+    "short_description": "A beloved Bangladeshi stew, Keema features succulent ground mutton and chicken simmered with vibrant tomatoes, onions, and green peas. Spiced with fragrant garam masala, it offers a comforting, rich flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/aed15b96c6384aef89ce3cefd4e6196d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Mutton",
+      "Ground Chicken",
+      "Green Peas",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sandesh",
+    "name": "Sandesh",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 5,
+    "short_description": "Originating from Bengal, Sandesh delights with its delicate texture and sweet, milky flavor, crafted from fresh paneer, sugar, and a hint of lemon. A beloved dessert that celebrates tradition in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2e24738e7ac843adbe7a1fa253449af7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Paneer",
+      "Chhena",
+      "Milk",
+      "Lemon Juice",
+      "Sugar",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_tikka_murgh_tikka",
+    "name": "Chicken tikka (Murgh tikka)",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 6,
+    "short_description": "Marinated in a vibrant blend of red chili, ginger-garlic, and spices, tender chicken pieces are grilled to smoky perfection. A beloved dish in Bangladeshi cuisine, Murgh tikka delights with its rich, savory flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/65f2c860243f480bb0d2f1875d0f72f3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Red Chilli Powder",
+      "Ginger-garlic paste",
+      "Turmeric",
+      "Cumin",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paratha",
+    "name": "Paratha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 7,
+    "short_description": "Golden-brown and flaky, paratha hails from Bangladesh, celebrating hearty breakfasts. Each layered bite delivers a delightful crunch, often enjoyed with savory curries or tangy pickles.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7053f1036e63478db68ce8ba7583b39e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "papad",
+    "name": "Papad",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 8,
+    "short_description": "Crispy and golden, these Bangladeshi papads are made from a blend of rice and chickpea flours, infused with cumin and asafoetida. Perfect as a snack or a crunchy accompaniment to meals.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/824335caa36140c6ae24be176b2d2a5e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice Flour",
+      "Chickpea Flour",
+      "Gram Flour",
+      "Cumin Seeds",
+      "Asafoetida",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "beguni",
+    "name": "Beguni",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 9,
+    "short_description": "Deep-fried eggplant slices, coated in a spiced gram flour batter, create a crispy, flavorful treat in Bangladesh. Enjoy the vibrant blend of turmeric and red chili that elevates this beloved street food delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/68da22bdc28d42529d86b05988bc41bc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggplant",
+      "Gram Flour",
+      "Turmeric",
+      "Rice Flour",
+      "Red Chilli Powder",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhorta",
+    "name": "Bhorta",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 10,
+    "short_description": "Originating from Bangladesh, bhortas are vibrant mashed dishes blending herbs, vegetables, or fish with zesty mustard oil. Each spoonful bursts with earthy flavors, making it a beloved staple on every table.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0b325cd0cd244541be20a0c5e6a32e62.jpg?mw=660",
+    "most_iconic_place": "Kutum Bari",
+    "most_iconic_location": "Sreemangal",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chomchom",
+    "name": "Chomchom",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 11,
+    "short_description": "Originating from Bangladesh, this delightful dessert features soft, milk-based morsels cooked in sweet syrup, infused with zesty lemon and aromatic cardamom, offering a blissful taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/71830fdcfe614079b990fc8672603e6b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Tangail",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Vinegar",
+      "Lemon Juice",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chotpoti",
+    "name": "Chotpoti",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 12,
+    "short_description": "A beloved street food from Bangladesh, this vibrant dish combines chickpeas and tender potatoes in a tangy tamarind sauce, topped with onions, boiled eggs, and refreshing cucumber for a burst of flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/77b06bb8d756468c8f82dc5832a403af.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chickpeas",
+      "Potatoes",
+      "Eggs",
+      "Onion",
+      "Cucumber",
+      "Chaat masala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ilish_macher_paturi",
+    "name": "Ilish macher paturi",
+    "local_name": null,
+    "category": "FRESHWATER FISH DISH",
+    "rank": 13,
+    "short_description": "Marinated ilish fish, renowned as Bangladesh's national dish, is wrapped in banana leaves and steamed to perfection. The rich flavors of mustard, turmeric, and hot peppers create a vibrant, aromatic delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0c63b3e1d0344772a37f7b88f4f927da.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ilish",
+      "Mustard Seeds",
+      "Black Mustard Seeds",
+      "Hot Peppers",
+      "Turmeric",
+      "Mustard Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "haleem",
+    "name": "Haleem",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 14,
+    "short_description": "Originating from the Middle East, this rich porridge features slow-cooked wheat and tender meat, harmonized with aromatic spices. It’s a cherished Ramadan staple, delivering warmth and comfort in every spoonful.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/03df132180744560921a1b481675e559.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "jhalmuri",
+    "name": "Jhalmuri",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 15,
+    "short_description": "Spicy and satisfying, this Bangladeshi snack combines crunchy puffed rice with diced potatoes, onions, tomatoes, and cucumbers. Tossed together for a burst of flavor, it's a street food favorite!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d613f21d50184b45a9a763dafc4f3e8b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Puffed Rice",
+      "Potatoes",
+      "Onion",
+      "Tomato",
+      "Cucumber",
+      "Peanuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "panta_ilish",
+    "name": "Panta ilish",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 16,
+    "short_description": "Originating from Bangladesh, panta ilish features aromatic, soaked rice paired with crispy fried ilish fish, drizzled in mustard oil and turmeric. It’s a beloved staple, especially during celebrations.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/38c0db0f2c4f466f9ad7b62a6d054067.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ilish",
+      "Rice",
+      "Turmeric",
+      "Mustard Oil",
+      "Onion",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "panta_bhat",
+    "name": "Panta bhat",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 17,
+    "short_description": "Originating from Bangladesh, panta bhat features soaked rice, delivering a refreshing, slightly tangy flavor. Served with hot peppers and onions, it's a beloved staple that embodies local culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0bbddbf184e54067848e631f1f95f64e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Hot Peppers",
+      "Onion",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jilapi",
+    "name": "Jilapi",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 18,
+    "short_description": "Delicately fried to perfection, these crispy coils soak in aromatic sugar syrup, creating a sweet treat that delights the senses. A beloved dessert rooted in Persian tradition, Jilapi is a must-try in Bangladesh!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/85dca6a42c8948f6a861fba0a5442c8f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Ghee",
+      "Yogurt",
+      "Yeast",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shami_kabab",
+    "name": "Shami kabab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 19,
+    "short_description": "A beloved Bangladeshi delicacy, these succulent kebabs blend minced meats with split Bengal gram, infused with aromatic spices like cumin and garlic. Perfectly crisp on the outside, tender within.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ea0e277841e14f01b852d23fc664d234.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Mutton",
+      "Ground Beef",
+      "Ground Chicken",
+      "Bengal Gram",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "macher_jhol",
+    "name": "Macher jhol",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 20,
+    "short_description": "A beloved Bengali and Odia dish, this spicy fish stew features tender ilish, rohu, and catla simmered with potatoes and tomatoes in a fragrant, turmeric-infused broth. Each spoonful bursts with rich, comforting flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ea41a91386e645e889a74867f059eca5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ilish",
+      "Rohu",
+      "Catla",
+      "Potatoes",
+      "Tomato",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shorshe_ilish",
+    "name": "Shorshe ilish",
+    "local_name": null,
+    "category": "FRESHWATER FISH DISH",
+    "rank": 21,
+    "short_description": "Savor the rich flavors of Bangladesh with ilish fish simmered in a luscious mustard and poppy seed sauce, spiced with hot peppers and turmeric. A beloved classic that embodies the essence of Bengali cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4e8aa644e30b42fa81d2cfc63cef1e0a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ilish",
+      "Mustard Seeds",
+      "Poppy Seeds",
+      "Hot Peppers",
+      "Turmeric",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bakarkhani",
+    "name": "Bakarkhani",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 22,
+    "short_description": "Originating from Mughlai cuisine, this flaky flatbread combines maida flour, semolina, and aromatic cardamom. Baked in a tandoor, it offers a delightful blend of buttery richness and subtle sweetness.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5febb90e2cf8407b874aaa7f74539da7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Dhaka",
+    "ingredients": [
+      "Maida Flour",
+      "Semolina",
+      "Ghee",
+      "Cardamom",
+      "Yeast",
+      "Almonds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "handesh",
+    "name": "Handesh",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 23,
+    "short_description": "Originating from Sylhet, Handesh delights with its chewy texture and rich sweetness from date molasses. Made with rice and wheat flour, it's a beloved treat that embodies Bangladeshi tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/40ed388130c2473985fa41144c0f427e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Sylhet Division",
+    "ingredients": [
+      "Rice Flour",
+      "Wheat Flour",
+      "Date Molasses",
+      "Sugar",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  }
+]

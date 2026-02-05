@@ -1,0 +1,426 @@
+[
+  {
+    "id": "pizza",
+    "name": "Pizza",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 1,
+    "short_description": "The story of the invention of this everyday household name changes depending on how you define it. If you think a pizza is an oven-baked flatbread, its origins lie in the ancient Middle East. If pizza...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8e0ec129d54d48188a5f700ce4db8919.jpg?mw=660",
+    "most_iconic_place": "L'Antica Pizzeria da Michele",
+    "most_iconic_location": "Naples",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "risotto",
+    "name": "Risotto",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "This widely popular and extremely versatile group of dishes consists of a base of rice and stock. Butter, saffron, and parmesan are some of the ingredients most often combined with the base to make a ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/70f5cf7e2f2540dcb0452825b0971837.jpg?mw=660",
+    "most_iconic_place": "Ratanà",
+    "most_iconic_location": "Milan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tagliatelle_al_ragù_alla_bolognese",
+    "name": "Tagliatelle al ragù alla Bolognese",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 3,
+    "short_description": "Tagliatelle al ragù alla Bolognese is a traditional dish originating from Bologna, consisting of tagliatelle pasta and a rich ragù made with a mixture of minced beef and pork, and tomatoes as key ingr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8889349736294b0a929b69eb29d67dad.jpg?mw=660",
+    "most_iconic_place": "Osteria dell' Orsa",
+    "most_iconic_location": "Bologna",
+    "ingredients": [
+      "Tagliatelle",
+      "Ground Beef",
+      "Ground Pork",
+      "Pancetta",
+      "Tomato Paste",
+      "Red Wine"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carbonara",
+    "name": "Carbonara",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 4,
+    "short_description": "The carbonara we know today is prepared by simply tossing spaghetti with guanciale (cured pork jowl), egg yolks, and Pecorino Romano cheese. Despite its simplicity, this dish remains one of Rome's fav...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/79b072c652ba423eb4de617b9b51a399.jpg?mw=660",
+    "most_iconic_place": "Roscioli",
+    "most_iconic_location": "Rome",
+    "ingredients": [
+      "Spaghetti",
+      "Guanciale",
+      "Pecorino Romano",
+      "Eggs",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ravioli",
+    "name": "Ravioli",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 5,
+    "short_description": "The word ravioli denotes various kinds of pasta made by placing a filling between two thin layers of dough. The pasta used is typically wheat flour and egg based, and it acts as an enclosure while als...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8dbe53b1e594d5d92c04ce61537898e.jpg?mw=660",
+    "most_iconic_place": "Oasis Sapori Antichi",
+    "most_iconic_location": "Vallesaccarda",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gnocchi",
+    "name": "Gnocchi",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 6,
+    "short_description": "This is the traditional Italian form of dumplings. Today, the word gnocchi usually refers to a dumpling made with potato-based dough shaped into thick bite-sized pieces and pressed into a ribbed woode...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1efb92c5cefe46ab9b8d3c5d64ea6dff.jpg?mw=660",
+    "most_iconic_place": "La Matricianella",
+    "most_iconic_location": "Rome",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tiramisù",
+    "name": "Tiramisù",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 7,
+    "short_description": "Even though tiramisù is actually a fairly recent invention, this dessert of coffee-soaked ladyfingers layered with mascarpone cream enjoys an iconic status among Italian desserts. Its name stems from ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/468fa931d3004dd4b20f567cfb37c8b8.jpg?mw=660",
+    "most_iconic_place": "Da Enzo al 29",
+    "most_iconic_location": "Rome",
+    "ingredients": [
+      "Ladyfingers",
+      "Mascarpone",
+      "Eggs",
+      "Coffee",
+      "Sugar",
+      "Cocoa Beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pizza_napoletana",
+    "name": "Pizza Napoletana",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 8,
+    "short_description": "Italy’s most emblematic culinary creation, the genuine pizza Napoletana is made with just a few simple ingredients and prepared in only two variations – marinara, the basic Neapolitan pizza topped wit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/785295d4ab6f4f0bab43d5fcf2e123b6.jpg?mw=660",
+    "most_iconic_place": "L'Antica Pizzeria da Michele",
+    "most_iconic_location": "Naples",
+    "ingredients": [
+      "00 Flour",
+      "Tomato",
+      "Mozzarella di Bufala Campana",
+      "Basil",
+      "Olive Oil",
+      "Oregano"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pizza_margherita",
+    "name": "Pizza Margherita",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 9,
+    "short_description": "Pizza Margherita is a delicacy that is literally fit for a queen. In 1889, Queen Margherita of Savoy visited Naples, where she was served a pizza that was made to resemble the colors of the Italian fl...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1501b7a18cab4f97b3cb834157712052.jpg?mw=660",
+    "most_iconic_place": "L'Antica Pizzeria da Michele",
+    "most_iconic_location": "Naples",
+    "ingredients": [
+      "00 Flour",
+      "Tomato",
+      "Mozzarella di Bufala Campana",
+      "Basil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bruschetta",
+    "name": "Bruschetta",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 10,
+    "short_description": "Bruschetta is a traditional appetizer that's nowadays popular throughout the world. In its simplest form known as fettunta, this classic appetizer consists of a grilled slice of bread rubbed with garl...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eeeabf62647b459391edfd213800583b.jpg?mw=660",
+    "most_iconic_place": "Ai Troeggi",
+    "most_iconic_location": "Genoa",
+    "ingredients": [
+      "Bread",
+      "Garlic",
+      "Olive Oil",
+      "Tomato",
+      "Basil",
+      "Wild Fennel"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nougat",
+    "name": "Nougat",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 11,
+    "short_description": "This is one of the oldest types of confections, and varieties can be found throughout Italy, Spain, France, the Balkans, and the Middle East. Although each region has its own distinctive type, most no...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9d293caf1f9f47669f78a2d098ea590b.jpg?mw=660",
+    "most_iconic_place": "Antica Casa Faccio",
+    "most_iconic_location": "Cassinasco",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "panna_cotta",
+    "name": "Panna cotta",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 12,
+    "short_description": "Simplicity at its finest, this softly set pudding takes almost no effort to make, yet is nothing short of amazing! Even though panna cotta (lit. cooked cream) wasn't mentioned in Italian cookbooks unt...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d8ae78171ba445c98ec71ff782a9b1d7.jpg?mw=660",
+    "most_iconic_place": "Trattoria Da Cesare al Casaletto",
+    "most_iconic_location": "Rome",
+    "ingredients": [
+      "Cream",
+      "Sugar",
+      "Gelatin",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "marinara",
+    "name": "Marinara",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 13,
+    "short_description": "Marinara is a red sauce consisting of olive oil, garlic, tomatoes, and herbs. Onions might sometimes get added to the combination of these ingredients, and marinara might be transformed into another s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/48a402064c744f27853844f0d5265b95.jpg?mw=660",
+    "most_iconic_place": "L'Antica Pizzeria da Michele",
+    "most_iconic_location": "Naples",
+    "ingredients": [
+      "Tomato",
+      "Olive Oil",
+      "Onion",
+      "Garlic",
+      "Basil",
+      "Oregano"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tortellini",
+    "name": "Tortellini",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 14,
+    "short_description": "One of the most popular Italian pasta types are tortellini; an intricate creation made with a variety of ingredients securely wrapped inside a layer of egg pasta, creating a pocket which is then folde...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/98b813eeab614b12a0407f0eb689b7dc.jpg?mw=660",
+    "most_iconic_place": "All'Osteria Bottega",
+    "most_iconic_location": "Bologna",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "focaccia",
+    "name": "Focaccia",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 15,
+    "short_description": "This chewy, oily flatbread is quite versatile, and can be topped with a range of ingredients such as coarse sea salt, olive oil, herbs, tomatoes, or olives. Historians tend to believe it was invented ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b1b1e7ef350d46d986d5600ee5fae7fd.jpg?mw=660",
+    "most_iconic_place": "Manuelina",
+    "most_iconic_location": "Recco",
+    "ingredients": [
+      "Flour",
+      "Yeast",
+      "Olive Oil",
+      "Salt",
+      "Sugar",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carpaccio",
+    "name": "Carpaccio",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 16,
+    "short_description": "This traditional Italian dish of worldwide fame is typically served as an appetizer, and consists of very thin slices of raw fish or meat served on a plate with olive oil, cheese shavings, and lemon. ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e6cfb28c91114888845f8ebc5d4d6ee7.jpg?mw=660",
+    "most_iconic_place": "Cip's Club",
+    "most_iconic_location": "Venice",
+    "ingredients": [
+      "Beef",
+      "Salt",
+      "Black Pepper",
+      "Mayonnaise",
+      "Worcestershire sauce",
+      "Lemon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cannoli",
+    "name": "Cannoli",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 17,
+    "short_description": "These decadent, crispy fried pastry tubes filled with luscious ricotta cheese cream are perhaps one of Sicily's best known desserts outside of Italy. Cannoli are believed to have originated around Pal...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c07579e068274383a2ab5b116b5df5c4.jpg?mw=660",
+    "most_iconic_place": "La Pasticceria Maria Grammatico",
+    "most_iconic_location": "Erice",
+    "ingredients": [
+      "Flour",
+      "Ricotta",
+      "Cocoa Beans",
+      "Sugar",
+      "Candied Fruit",
+      "Marsala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lasagne_alla_bolognese",
+    "name": "Lasagne alla Bolognese",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 18,
+    "short_description": "This rich and filling piatto unico (lit. single plate; one-dish meal) is traditionally made from layers of homemade, typically spinach-flavored fresh egg lasagna pasta that is topped with béchamel sau...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/51fb4d553b8c4a3aae0b32529397f9a1.jpg?mw=660",
+    "most_iconic_place": "Trattoria Anna Maria",
+    "most_iconic_location": "Bologna",
+    "ingredients": [
+      "Lasagna",
+      "Ragù alla Bolognese",
+      "Béchamel",
+      "Parmigiano Reggiano",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pesto_genovese",
+    "name": "Pesto Genovese",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 19,
+    "short_description": "Pesto Genovese is a sauce with origins in the Italian city of Genoa. Traditionally, it consists of basil, garlic, pine nuts, olive oil, and cheeses such as Parmigiano Reggiano or Pecorino. Its name st...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/90369bf52b834ff7a5f06ed5de0ebdd7.jpg?mw=660",
+    "most_iconic_place": "Il Genovese",
+    "most_iconic_location": "Genoa",
+    "ingredients": [
+      "Basilico Genovese",
+      "Olive Oil",
+      "Grana Padano",
+      "Parmigiano Reggiano",
+      "Pecorino Romano",
+      "Pecorino Sardo"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crostini",
+    "name": "Crostini",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 20,
+    "short_description": "Crostini are a group of Italian appetizers consisting of small pieces of toasted or grilled bread topped with a variety of flavorful toppings. Crostini are believed to have originated during the Middl...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4e67bf18c38c4e8cbb36617b827ade5f.jpg?mw=660",
+    "most_iconic_place": "Osteria Al Squero",
+    "most_iconic_location": "Venice",
+    "ingredients": [
+      "Bread",
+      "Mozzarella",
+      "Anchovies",
+      "Figs",
+      "Berries",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "minestrone",
+    "name": "Minestrone",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 21,
+    "short_description": "One of the very bases of traditional Italian cuisine, minestrone is a thick, chunky soup made with whichever vegetables are in season. Historically, being a poor man's food dating as far back as the y...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/70a2d53e32ad430ebe307bbd63a941cf.jpg?mw=660",
+    "most_iconic_place": "Antica Osteria di Vico Palla",
+    "most_iconic_location": "Genoa",
+    "ingredients": [
+      "Ditalini",
+      "Rice",
+      "Lard",
+      "Onion",
+      "Beans",
+      "Potatoes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "parmigiana",
+    "name": "Parmigiana",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 22,
+    "short_description": "Found throughout southern Italy, parmigiana di melanzane is a type of gratinated vegetable casserole traditionally made of fried or grilled slices of eggplant layered with basil-flavored tomato sauce ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e8a5cb3b7220453b809890fe5d4ca1a5.jpg?mw=660",
+    "most_iconic_place": "Mimì alla Ferrovia",
+    "most_iconic_location": "Naples",
+    "ingredients": [
+      "Eggplant",
+      "Pecorino Romano",
+      "Pecorino Siciliano",
+      "Caciocavallo Silano",
+      "Tuma persa",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "frittata",
+    "name": "Frittata",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 23,
+    "short_description": "Frittata is a traditional flat and round egg-based dish that's closer to a Spanish tortilla than to a French omelette. It's made with a combination of whisked eggs and additional ingredients such as p...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8884c33e586b472eae8b3e3fe05959dc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "grissini",
+    "name": "Grissini",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 24,
+    "short_description": "Grissini are traditional Italian breadsticks with origins in Torino, Piemonte, a region in northwestern Italy. These snacks consist of crispy, thin, dry bread that can be additionally flavored with ro...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f65e4c13c7f94d908a49992fcbf536db.jpg?mw=660",
+    "most_iconic_place": "Perino Vesco",
+    "most_iconic_location": "Turin",
+    "ingredients": [
+      "Flour",
+      "Olive Oil",
+      "Salt",
+      "Yeast",
+      "Lard"
+    ],
+    "is_active": true
+  }
+]

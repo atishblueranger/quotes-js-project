@@ -1,0 +1,461 @@
+[
+  {
+    "id": "afternoon_tea",
+    "name": "Afternoon tea",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 1,
+    "short_description": "Afternoon tea is an old British tradition of having tea between 3 and 5 o'clock in the afternoon, accompanied by sweet or savory tidbits of food. There are three types of afternoon tea: cream tea, pai...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2eb1fb2ff12d45fbbe34ae6429409f42.jpg?mw=660",
+    "most_iconic_place": "The Park Room",
+    "most_iconic_location": "Westminster",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fish_and_chips",
+    "name": "Fish and chips",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 2,
+    "short_description": "Most Brits would agree that there is nothing more British than fish and chips. This comforting, widely loved national dish consists of a freshly fried, hot, white fish fillet and large, sliced and fri...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/952be31521114ce89c8525996e17dbce.jpg?mw=660",
+    "most_iconic_place": "Poppies Fish and Chips Spitalfields",
+    "most_iconic_location": "Tower Hamlets",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "english_breakfast",
+    "name": "English breakfast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 3,
+    "short_description": "Also known as the full breakfast, this traditional British dish appears everywhere with a few essentials and some regional additions. First, there is the meat – usually a combination of sausages and b...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b92a3d74b4cf48c28abba34197798049.jpg?mw=660",
+    "most_iconic_place": "E Pellicci",
+    "most_iconic_location": "Tower Hamlets",
+    "ingredients": [
+      "Eggs",
+      "Lincolnshire sausage",
+      "Traditional Cumberland sausage",
+      "Black pudding",
+      "Canned Beans",
+      "Bacon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "trifle",
+    "name": "Trifle",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 4,
+    "short_description": "Trifle is a classic British dessert made by layering pieces of sponge cake, fruit jams or fruit purée, and egg custard. The sponge is usually soaked in fortified wine or brandy such as sherry, port, o...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b172565360774655ade40b05803a5855.jpg?mw=660",
+    "most_iconic_place": "Benedicts Norwich",
+    "most_iconic_location": "Norwich",
+    "ingredients": [
+      "Eggs",
+      "Strawberries",
+      "Raspberries",
+      "Jam",
+      "Corn Starch",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yorkshire_pudding",
+    "name": "Yorkshire pudding",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 5,
+    "short_description": "Yorkshire pudding is a popular British side dish that is traditionally served during Sunday roasts. It is made from a creamy batter consisting of flour, eggs, and milk or water. While some might think...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fffce3fb5f384300b150edac3b9c0f0c.jpg?mw=660",
+    "most_iconic_place": "The Crooked Billet Inn",
+    "most_iconic_location": "Saxton",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Milk",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "english_muffin",
+    "name": "English muffin",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 6,
+    "short_description": "English muffin is a small, round, and flat bread that's made from a soft yeasted dough. Once shaped into rounds, either by hand or with crumpet rings, the English muffin is baked on a griddle. Before ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/25f0becd1a7d48ad936715e1113eb3ca.jpg?mw=660",
+    "most_iconic_place": "Lantana Cafe",
+    "most_iconic_location": "Camden",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hot_cross_buns",
+    "name": "Hot cross buns",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 7,
+    "short_description": "Traditionally prepared and eaten on Good Friday and during Lent, hot cross buns are subtly sweet spiced buns made with a rich yeast dough that is studded with dry fruit. The top of each bun is marked ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b03c087d90154e838245f104ca8d73fa.jpg?mw=660",
+    "most_iconic_place": "Gail's Bakery",
+    "most_iconic_location": "Islington",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Sultana Raisins",
+      "Currants",
+      "Eggs",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "beef_wellington",
+    "name": "Beef Wellington",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 8,
+    "short_description": "Beef Wellington is a dish consisting of a whole filet of beef that is coated with a pâté and duxelles, a combination of minced mushrooms, herbs, and shallots. The concoction is then wrapped in puff pa...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/10af79aa36f244c5a38408bccf570ec6.jpg?mw=660",
+    "most_iconic_place": "Bob Bob Ricard",
+    "most_iconic_location": "Westminster",
+    "ingredients": [
+      "Beef",
+      "Mushrooms",
+      "Foie gras",
+      "Shallots",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "flapjack",
+    "name": "Flapjack",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 9,
+    "short_description": "Flapjack is a blend of porridge oats, golden syrup, sugar, and melted butter that is baked, and then usually cut up into squares or rectangles. A touch of salt and ground ginger are often added to the...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/633d77134cd24cd29a2da256434c0851.jpg?mw=660",
+    "most_iconic_place": "Joe's Cafe",
+    "most_iconic_location": "Studland",
+    "ingredients": [
+      "Oats",
+      "Butter",
+      "Golden Syrup",
+      "Brown Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lemon_drizzle_cake",
+    "name": "Lemon drizzle cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 10,
+    "short_description": "Lemon drizzle cake is a traditional cake and a staple of afternoon tea. Although not much is known about its origin, it is believed that the first lemon drizzle was made by a Jewish woman named Evelyn...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1a994d4c0c7b455fb4b924b44a469afa.jpg?mw=660",
+    "most_iconic_place": "Gluttons For Nourishment",
+    "most_iconic_location": "Wolverhampton",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Lemon Zest",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "banoffee_pie",
+    "name": "Banoffee pie",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 11,
+    "short_description": "Banoffee pie is an English dessert made with cream, bananas, and toffee on top of a pastry shell or on top of a base made with crumbled biscuits. The name of the dish is a combination of the words ban...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c365cd4067074859a4ecbceb0fe347bd.jpg?mw=660",
+    "most_iconic_place": "Haché Burgers Camden",
+    "most_iconic_location": "Camden",
+    "ingredients": [
+      "Wheat Flour",
+      "Bananas",
+      "Biscuit",
+      "Eggs",
+      "Butter",
+      "Whipped Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "eton_mess",
+    "name": "Eton mess",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Eton mess is a popular English dessert made by combining fresh strawberries, meringue, and cream. The dessert was invented in the 1930s at the English Eton College, when it was traditionally served at...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/dbd844291f0040fe9b0785aa9ff37c3e.jpg?mw=660",
+    "most_iconic_place": "Bob Bob Ricard",
+    "most_iconic_location": "Westminster",
+    "ingredients": [
+      "Strawberries",
+      "Eggs",
+      "Double Cream",
+      "Sugar",
+      "Powdered Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cauliflower_cheese",
+    "name": "Cauliflower cheese",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 13,
+    "short_description": "Cauliflower cheese is a traditional dish consisting of boiled cauliflower florets doused in a sauce made from flour, milk, butter, nutmeg, and mature cheeses such as cheddar. The whole concoction is t...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1eba32bd327046f1b5aef4c11eefdf44.jpg?mw=660",
+    "most_iconic_place": "Wahaca",
+    "most_iconic_location": "Liverpool",
+    "ingredients": [
+      "Cauliflower",
+      "Cheddar",
+      "Butter",
+      "Nutmeg",
+      "Wheat Flour",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sticky_toffee_pudding",
+    "name": "Sticky toffee pudding",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 14,
+    "short_description": "Sticky toffee pudding is a rich, moist sponge cake filled with dates, covered in a sticky toffee sauce. The dessert is traditionally served with custard or a scoop of vanilla ice cream on the side. It...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/011a311d6e254603ba92316750121768.jpg?mw=660",
+    "most_iconic_place": "Hawksmoor Seven Dials",
+    "most_iconic_location": "Westminster",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Dates",
+      "Butter",
+      "Sugar",
+      "Molasses"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "steak_and_ale_pie",
+    "name": "Steak and ale pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 15,
+    "short_description": "This classic British dish is a staple of pub food, consisting of a pastry shell filled with chunks of tender braised beef, vegetables such as onions and carrots, stock, dark brown ale, freshly chopped...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/56f62de4ef474888b8fa743fcc3bb74d.jpg?mw=660",
+    "most_iconic_place": "The Draft House  Birdcage",
+    "most_iconic_location": "Tower Hamlets",
+    "ingredients": [
+      "Beef",
+      "Carrot",
+      "Onion",
+      "Bacon",
+      "Lard",
+      "Tomato Purée"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "roast_beef",
+    "name": "Roast beef",
+    "local_name": null,
+    "category": "BEEF DISH",
+    "rank": 16,
+    "short_description": "Roast beef is a traditional meal and a part of Sunday roast. Beef is the most traditional option for Sunday roast, but the dish can also be made with duck, lamb, pork, turkey, and goose. The beef is m...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/20a257b5043c44ea8759a3f51dc80696.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Beef",
+      "Vegetable Oil",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shepherds_pie",
+    "name": "Shepherd's pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 17,
+    "short_description": "One of the most popular comfort foods in the United Kingdom is called shepherd's pie, a hot and savory dish reminiscent of a casserole, consisting of minced lamb or mutton meat, potatoes, onions, carr...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ba1114cafe034472b3a3cbdf5175f477.jpg?mw=660",
+    "most_iconic_place": "The Ivy",
+    "most_iconic_location": "Camden",
+    "ingredients": [
+      "Ground Mutton",
+      "Ground Lamb",
+      "Potatoes",
+      "Carrot",
+      "Peas",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pie_and_mash",
+    "name": "Pie and mash",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 18,
+    "short_description": "Pie and mash is a traditional dish consisting of a pie filled with either chunks of beef or ground beef, and a side of mashed potatoes. Although the pies are nowadays filled with ground beef, in the p...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c55929f26ca548149469074b0c56d4a6.jpg?mw=660",
+    "most_iconic_place": "Goddards at Greenwich",
+    "most_iconic_location": "Greenwich",
+    "ingredients": [
+      "Ground Beef",
+      "Potatoes",
+      "Onion",
+      "Garlic",
+      "Mustard",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mince_pie",
+    "name": "Mince pie",
+    "local_name": null,
+    "category": "SWEET PIE",
+    "rank": 19,
+    "short_description": "Mince pie is a staple Christmas snack in England, consisting of a crumbly pastry shell filled with dried fruits and spices (often called mincemeat). Originally, the pies contained both sweet and savor...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9d392b0a65f2444ba60a9cb3f4bf7478.jpg?mw=660",
+    "most_iconic_place": "Riverford Field Kitchen - Organic Restaurant",
+    "most_iconic_location": "Buckfastleigh",
+    "ingredients": [
+      "Wheat Flour",
+      "Dried Fruit",
+      "Nutmeg",
+      "Cloves",
+      "Allspice",
+      "Mace"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "victoria_sponge",
+    "name": "Victoria sponge",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 20,
+    "short_description": "Victoria sponge is an English layer cake filled with fruit jam (and sometimes, whipped cream). It was invented by Queen Victoria's cooks in the 19th century, when it was one of the main stars at the Q...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a5b7b94d16b24f9ca4f7875ed72474f6.jpg?mw=660",
+    "most_iconic_place": "The English Tea Room at Brown's Hotel",
+    "most_iconic_location": "Westminster",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Raspberry Jam",
+      "Strawberry Jam",
+      "Baking Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "blt_sandwich",
+    "name": "BLT Sandwich",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 21,
+    "short_description": "Crispy, crunchy and salty bacon, fresh, slightly acidic tomatoes, chilled lettuce, mayonnaise, and toast - there is little, if no excuses for error while making a BLT sandwich. However, there are stri...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/3f4736feb0a54cf59cba5ef99aef5a17.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Bread",
+      "Bacon",
+      "Lettuce",
+      "Tomato",
+      "Mayonnaise"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cream_tea",
+    "name": "Cream tea",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 22,
+    "short_description": "Cream tea is a traditional type of afternoon tea that’s associated with the West Country – Devon, Cornwall, as well as Dorset and Somerset. It consists of tea that’s usually served with a combination ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9e05537ee60e4bfe81dece2813077197.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Devon",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Milk",
+      "Cornish clotted cream",
+      "Clotted cream",
+      "Strawberry Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "egg_sandwich",
+    "name": "Egg sandwich",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 23,
+    "short_description": "An egg sandwich is an internationally popular breakfast staple that typically consists of eggs between slices of bread. The sandwich is usually enriched with cheese, and it's often complemented with s...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dd12496ac0df40b7b67895fe01a1746e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "London",
+    "ingredients": [
+      "Bread",
+      "Eggs",
+      "Cheese",
+      "Cooked Sausage",
+      "Wet-cured Ham",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "apple_sauce",
+    "name": "Apple sauce",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 24,
+    "short_description": "Different versions of apple sauces have been prepared since ancient times—a combination of pork and apples is even mentioned in Apicius, a collection of Roman cookery recipes, while different medieval...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/54886a2430474d6ca2b9b0891e5a357c.jpg?mw=660",
+    "most_iconic_place": "The Pig - near Bath",
+    "most_iconic_location": "Hunstrete",
+    "ingredients": [
+      "Apples",
+      "Butter",
+      "Cinnamon",
+      "Cloves",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

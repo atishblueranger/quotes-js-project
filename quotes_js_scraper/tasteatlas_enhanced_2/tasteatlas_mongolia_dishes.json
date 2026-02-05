@@ -1,0 +1,213 @@
+[
+  {
+    "id": "buuz",
+    "name": "Buuz",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 1,
+    "short_description": "Steamed to perfection, these traditional Mongolian dumplings are filled with savory beef or mutton, seasoned with onions and fresh herbs. A beloved comfort food, Buuz reflects Mongolia’s rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a2f67a2c61d64866a94efef327a949b7.jpg?mw=660",
+    "most_iconic_place": "Modern Nomads",
+    "most_iconic_location": "Ulaanbaatar",
+    "ingredients": [
+      "Beef",
+      "Mutton",
+      "Flour",
+      "Onion",
+      "Scallions",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "borts",
+    "name": "Borts",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 2,
+    "short_description": "A cherished Mongolian tradition, borts features dried meat from cows, goats, or camels, expertly cut and air-dried to preserve flavor. Its robust, savory taste captures the spirit of resilient winters.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2eef453612884fd1909ffd1937abeec5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bansh",
+    "name": "Bansh",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 3,
+    "short_description": "Mongolian bansh are succulent dumplings filled with a savory mix of beef and mutton, infused with onion and garlic. Boiled to perfection, they offer a warm, hearty taste of nomadic tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2f60e7aa0a07402caf970551ab0cfc3f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Beef",
+      "Mutton",
+      "Onion",
+      "Garlic",
+      "Caraway"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boodog",
+    "name": "Boodog",
+    "local_name": null,
+    "category": "GOAT DISH",
+    "rank": 4,
+    "short_description": "A Mongolian delicacy, boodog showcases whole goat roasted with hot stones, infusing tender meat with rich flavors of potatoes and onions. It’s a communal feast that embodies nomadic tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/14de0a03e8e94deb8a33fdd355899bc3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bantan",
+    "name": "Bantan",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 5,
+    "short_description": "A beloved Mongolian remedy for hangovers, this hearty soup combines tender lamb, fresh spring onions, and savory dough crumbs. Each spoonful warms the soul with rich flavors and comforting textures.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c3f505f040f643f8aa2e434b80f927cb.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tsuivan",
+    "name": "Tsuivan",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 6,
+    "short_description": "Handmade noodles mingle with tender mutton and vibrant vegetables in Tsuivan, a cherished Mongolian staple. Steamed to perfection, each bite bursts with rich flavors and hearty comfort.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/11fbf69ba4e24c6a961769b83e199ed7.jpg?mw=660",
+    "most_iconic_place": "Chinggis Khaan Statue Complex",
+    "most_iconic_location": "Ulaanbaatar",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "khuushuur",
+    "name": "Khuushuur",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 7,
+    "short_description": "Savory and satisfying, these deep-fried pastries burst with the rich flavors of ground mutton and onions, embodying the heart of Mongolian cuisine. Perfect for a hearty snack or meal on the go!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/522e494b00e74ed59b22f02c7cc6944b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "khorkhog",
+    "name": "Khorkhog",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 8,
+    "short_description": "Traditional to Mongolia, Khorkhog features tender meat slow-cooked in large milk jugs with heated stones, infusing it with a smoky, savory flavor. The steam creates a succulent, aromatic delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6b3fded65e7446488edce8e9ebd0c688.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "guriltai_shul",
+    "name": "Guriltai shul",
+    "local_name": null,
+    "category": "NOODLE SOUP",
+    "rank": 9,
+    "short_description": "Originating from Mongolia, this hearty noodle soup features tender beef or mutton simmered with onions and carrots in a rich broth, served over flat noodles for a comforting, flavorful experience.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Noodles",
+      "Beef",
+      "Mutton",
+      "Onion",
+      "Carrot",
+      "Potatoes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boortsog",
+    "name": "Boortsog",
+    "local_name": null,
+    "category": "BREAD ROLL",
+    "rank": 10,
+    "short_description": "Golden and fluffy, these traditional Mongolian fried bread rolls offer a delightful crunch and a soft, buttery interior. Perfectly paired with tea or enjoyed on their own, they embody the warmth of Mongolian hospitality.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e922ef5b24a94fb889666121669c24fd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Butter",
+      "Milk",
+      "Vegetable Oil",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "budaatai_huurga",
+    "name": "Budaatai huurga",
+    "local_name": null,
+    "category": "STIR-FRY",
+    "rank": 11,
+    "short_description": "Originating from Mongolia, this hearty stir-fry combines fragrant rice with tender beef or lamb, vibrant cabbage, and a medley of vegetables, all brought together with rich eggs for a satisfying meal.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Beef",
+      "Lamb",
+      "Eggs",
+      "Cabbage",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "eezgii",
+    "name": "Eezgii",
+    "local_name": null,
+    "category": "CHEESE DISH",
+    "rank": 12,
+    "short_description": "Originating from Mongolia, Eezgii features rich, creamy flavors as milk, yogurt, and kefir are expertly cooked until all liquids evaporate, creating a delightful, dense cheese enjoyed in traditional feasts.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Milk",
+      "Yogurt",
+      "Kefir"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chanasan_makh",
+    "name": "Chanasan makh",
+    "local_name": null,
+    "category": "MUTTON DISH",
+    "rank": 13,
+    "short_description": "Originating from Mongolia, tender chunks of mutton simmer with bones, creating a rich, savory flavor that reflects the nomadic lifestyle. Simple yet hearty, it’s a true taste of tradition.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Mutton",
+      "Salt"
+    ],
+    "is_active": true
+  }
+]

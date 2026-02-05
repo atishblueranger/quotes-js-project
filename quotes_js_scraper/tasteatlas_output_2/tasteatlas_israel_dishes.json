@@ -1,0 +1,421 @@
+[
+  {
+    "id": "falafel",
+    "name": "Falafel",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 1,
+    "short_description": "Falafel is a deep-fried food made from ground legumes, most commonly chickpeas or fava beans, and is widely eaten across the Middle East and North Africa. It is shaped into balls or patties and season...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6a7d870a48e34847b06f1711907ccf8a.jpg?mw=660",
+    "most_iconic_place": "HaKosem",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Chickpeas",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Coriander",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "challah",
+    "name": "Challah",
+    "local_name": null,
+    "category": "BREAD",
+    "rank": 2,
+    "short_description": "Challah is a type of enriched bread originating from Jewish cuisine, most commonly associated with Ashkenazi communities of Eastern and Central Europe. It is a slightly sweet, egg-based loaf made from...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3771c4bafea544cebcdb130a146fbb21.jpg?mw=660",
+    "most_iconic_place": "Port Said",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Yeast",
+      "Sesame Seeds",
+      "Poppy Seeds",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "matzah",
+    "name": "Matzah",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 3,
+    "short_description": "Matzah is an unleavened flatbread central to Jewish cuisine, especially consumed during Passover, a festival commemorating the Exodus from Egypt. It is made simply from flour and water and baked quick...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/18ae22928bc3466380e2120e851e9cfd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "malabi",
+    "name": "Malabi",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 4,
+    "short_description": "Muhallebi is a milk-based dessert widely known across the Middle East, Eastern Mediterranean, and North Africa. It is a smooth, lightly sweetened pudding made from milk thickened with rice flour, corn...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6b2a4d24ad8445d19d03df8b5cae3595.jpg?mw=660",
+    "most_iconic_place": "Hamalabiya Allenby",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "rugelach",
+    "name": "Rugelach",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 5,
+    "short_description": "Rugelach is a filled pastry of Ashkenazi Jewish origin, associated primarily with Jewish communities in Central and Eastern Europe and widely popular in Israel and Jewish bakeries around the world. It...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/98b23abb490148f2bd499bd02d6c15f3.jpg?mw=660",
+    "most_iconic_place": "Marzipan Bakery and Pastry",
+    "most_iconic_location": "Jerusalem",
+    "ingredients": [
+      "Wheat Flour",
+      "Cream Cheese",
+      "Sour Cream",
+      "Butter",
+      "Eggs",
+      "Nuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kugel",
+    "name": "Kugel",
+    "local_name": null,
+    "category": "CASSEROLE",
+    "rank": 6,
+    "short_description": "Kugel is a baked dish from Ashkenazi Jewish cuisine, typically made from noodles or potatoes mixed with eggs, fat, and other ingredients to form a casserole-like consistency. It is both a savory and s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c2ca4328efd448e6947a0fc03e96f679.jpg?mw=660",
+    "most_iconic_place": "Deitsch",
+    "most_iconic_location": "Jerusalem",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "israeli_salad_salat_katzutz",
+    "name": "Israeli salad (Salat katzutz)",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 7,
+    "short_description": "Israeli salad is a finely chopped vegetable dish commonly served across Israel and in Jewish and Middle Eastern cuisines. It typically consists of diced tomatoes, cucumbers, onions, and parsley dresse...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1055721463324be9b0056e01adf55d23.jpg?mw=660",
+    "most_iconic_place": "Avi's Restaurant",
+    "most_iconic_location": "Tiberias",
+    "ingredients": [
+      "Tomato",
+      "Cucumber",
+      "Onion",
+      "Bell Pepper",
+      "Parsley",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 8,
+    "short_description": "Hummus is a creamy dip made primarily from cooked and mashed chickpeas blended with tahini, olive oil, lemon juice, and garlic. It originates from the Middle East, where it has been a dietary staple f...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/45200b7711794dc88cf0bf3bf0988f7e.jpg?mw=660",
+    "most_iconic_place": "Hummus Abu Hassan",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Chickpeas",
+      "Sesame Seeds",
+      "Garlic",
+      "Cumin",
+      "Lemon Juice",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cholent",
+    "name": "Cholent",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 9,
+    "short_description": "Cholent is a slow-cooked stew originating from Ashkenazi Jewish cuisine, prepared for the Sabbath when cooking is not permitted. It typically consists of beef, beans, barley, potatoes, and onions, coo...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c30ff429cba145c8b07759da9708232e.jpg?mw=660",
+    "most_iconic_place": "Shmulik Cohen",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Beef",
+      "Potatoes",
+      "Barley",
+      "Beans",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sabich",
+    "name": "Sabich",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 10,
+    "short_description": "Sabich is an Israeli street food dish consisting of pita bread filled with fried eggplant, hard-boiled eggs, hummus, tahini, Israeli salad, and pickles, often topped with amba, a tangy mango pickle sa...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/bbdb1674247446149ab38b4bc8fc44ac.jpg?mw=660",
+    "most_iconic_place": "Sabich Frishman",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tahini",
+    "name": "Tahini",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 11,
+    "short_description": "Tahini is a paste consisting of toasted and ground sesame seeds which are usually thinned with lemon juice and water. It is an incredibly versatile paste that can be served as a dip and consumed on it...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7e45878178134a20aaff2d2246fd500c.jpg?mw=660",
+    "most_iconic_place": "Puaa",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Sesame Seeds",
+      "Salt",
+      "Lemon Juice",
+      "Garlic",
+      "Olive Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shawarma",
+    "name": "Shawarma",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 12,
+    "short_description": "Marinated and spit-roasted, shawarma is a delicious Middle Eastern meat treat whose origins can be traced back to the Ottoman Empire era, while its name stems from the Arabic pronunciation of the Turk...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbc3999873a748a49a7a5d7364a3e8c4.jpg?mw=660",
+    "most_iconic_place": "HaKosem",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Lamb",
+      "Beef",
+      "Chicken",
+      "Pita bread",
+      "Lavash",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "israeli_breakfast",
+    "name": "Israeli breakfast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 13,
+    "short_description": "Israeli breakfast is a meal composed of a variety of fresh, light, and savory dishes, commonly served in homes, cafés, and hotels across Israel. It typically includes eggs, fresh vegetables, cheeses, ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4a89b18de68c42c2b3093ad5b581ac22.jpg?mw=660",
+    "most_iconic_place": "Manta Ray",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "bourekas",
+    "name": "Bourekas",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 14,
+    "short_description": "Bourekas are savory pastries popular throughout Israel and other parts of the Middle East, made from thin layers of dough filled with cheese, potatoes, spinach, mushrooms, or meat. They are typically ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e75cdd476e3a483c8e1d72d21a3ba21f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "sufganiyah",
+    "name": "Sufganiyah",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 15,
+    "short_description": "Sufganiyah is a round, deep-fried doughnut filled most commonly with jam and widely associated with Jewish communities, particularly in Israel, where it is produced in large quantities during Hanukkah...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b7f7d296dbfa47499e09f7ea5952e2fd.jpg?mw=660",
+    "most_iconic_place": "Roladin",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Jam",
+      "Yeast",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mandelbrot",
+    "name": "Mandelbrot",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 16,
+    "short_description": "Mandelbrot is a twice-baked almond cookie originating from Ashkenazi Jewish cuisine, known for its crisp texture and nutty flavor. The name comes from the Yiddish and German words for “almond bread,” ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ac82e271c0254096b941354da1a9c098.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Almonds",
+      "Vanilla",
+      "Baking Powder",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "hamantash",
+    "name": "Hamantash",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 17,
+    "short_description": "Hamantash is a filled pastry shaped into a three-cornered form and associated with Jewish communities, especially during the festival of Purim, where it appears across bakeries and home kitchens in ma...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/485c56f8048849ef8860dcca8858e0e6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "malawach",
+    "name": "Malawach",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 18,
+    "short_description": "Malawach is a laminated flatbread that originated among Yemenite Jewish communities and is now widely eaten in Israel, where it has become a common household and street-food item. It comes from a culi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1465ea4dbbd6457d8a29bd606831a97b.jpg?mw=660",
+    "most_iconic_place": "Saluf & Sons",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Wheat Flour",
+      "Vegetable Oil",
+      "Butter",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kunāfah",
+    "name": "Kunāfah",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 19,
+    "short_description": "Kunāfah consists of two crunchy layers of shredded and buttered kataifi or knefe dough, filled with a luscious cheese cream that's often flavored with orange zest and cardamom, then drenched in a suga...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3a6bfc04b0294ab78b16a9af0de5cd75.jpg?mw=660",
+    "most_iconic_place": "Al Aqsa",
+    "most_iconic_location": "Jerusalem",
+    "ingredients": [
+      "Rice Flour",
+      "Akkawi",
+      "Butter",
+      "Pistachios",
+      "Cream",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shakshouka",
+    "name": "Shakshouka",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 20,
+    "short_description": "Shakshouka is a delicious combination of eggs poached in a spicy tomato sauce. Although it has an unusual name, the dish is straightforward and easy to make. It is usually made in a skillet in which o...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/16db5759e81b4166a0eb8bccaa211e6a.jpg?mw=660",
+    "most_iconic_place": "Dr. Shakshuka",
+    "most_iconic_location": "Tel Aviv",
+    "ingredients": [
+      "Eggs",
+      "Onion",
+      "Tomato",
+      "Bell Pepper",
+      "Cumin",
+      "Paprika"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kreplach",
+    "name": "Kreplach",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 21,
+    "short_description": "Kreplach are traditional Jewish dumplings that originated in Eastern Europe as krepish, fried pastries stuffed with meat. Over the years, the dish changed, and became known as krepl (plural: kreplach)...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ed94d1e36816473b8fe7a90191366dee.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "jerusalem_mixed_grill_meorav_yerushalmi",
+    "name": "Jerusalem mixed grill (Me'orav Yerushalmi)",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 22,
+    "short_description": "Jerusalem mixed grill is a street-food dish from Jerusalem made by sautéing or grilling small cuts of meat, most commonly chicken hearts, livers, and spleens, often combined with pieces of chicken bre...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0ae7109af45847eb97b3f5ceb56bfe98.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Jerusalem",
+    "ingredients": [
+      "Chicken Liver",
+      "Chicken",
+      "Onion",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "מצה_בריי_matzah_brei",
+    "name": "מצה בריי‎‎ (Matzah brei)",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 23,
+    "short_description": "Matzah brei is a dish made from broken matzah softened in water and cooked with beaten eggs, eaten primarily during Passover in Jewish households. It comes from Ashkenazi Jewish communities in Central...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ecbd6d54ad6947448a6756711e7157e6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Matzah",
+      "Eggs",
+      "Butter",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tahini_cookie_oogiyot_tahina",
+    "name": "Tahini cookie (Oogiyot tahina)",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 24,
+    "short_description": "Tahini cookies are baked sweets made with tahini, the sesame seed paste that is widely used across the cuisines of the Eastern Mediterranean and parts of the Middle East, where sesame cultivation and ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/43d3437bd11a4de8bf147e64d2198bef.jpg?mw=660",
+    "most_iconic_place": "Hadasaar",
+    "most_iconic_location": "Mitzpe Ramon",
+    "ingredients": [
+      "Sesame Seeds",
+      "Butter",
+      "Vegetable Oil",
+      "Salt",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

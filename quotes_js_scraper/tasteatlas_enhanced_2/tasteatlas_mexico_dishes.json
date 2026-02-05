@@ -1,0 +1,436 @@
+[
+  {
+    "id": "tacos",
+    "name": "Tacos",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 1,
+    "short_description": "Bursting with flavor, these iconic Mexican tacos feature warm tortillas filled with tender beef, pork, chicken, or cod. A street food staple since the 18th century, they offer a delicious taste of heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/967fe03b58464dad9f82d91650d98824.jpg?mw=660",
+    "most_iconic_place": "Mariscos el Mazateño",
+    "most_iconic_location": "Tijuana",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Pork",
+      "Chicken",
+      "Cod",
+      "Shrimps"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tortilla",
+    "name": "Tortilla",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 2,
+    "short_description": "Originating from ancient Mexico, tortillas are warm, pliable flatbreads made from masa harina and wheat flour, enriched with lard for a rich flavor. Perfect for wrapping your favorite fillings!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c5e1d353b92a4ef2ae7114a4b51d2192.jpg?mw=660",
+    "most_iconic_place": "Taquería El Califa de León",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Masa Harina",
+      "Wheat Flour",
+      "Lard",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nachos",
+    "name": "Nachos",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 3,
+    "short_description": "Crispy tortilla chips topped with a gooey blend of Cheddar, Colby, and Monterey Jack cheeses, finished with zesty jalapeños. A classic Mexican snack born in 1943, perfect for sharing!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/eafb6093ae6c45e892134d37318077b4.jpg?mw=660",
+    "most_iconic_place": "Taco Queto",
+    "most_iconic_location": "Holbox",
+    "ingredients": [
+      "Tortilla",
+      "Cheddar",
+      "Colby",
+      "Monterey Jack",
+      "Jalapeños",
+      "Canola Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "burrito",
+    "name": "Burrito",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 4,
+    "short_description": "Originating from Mexico, a burrito features a warm wheat tortilla enveloping a vibrant mix of savory meats, beans, and fresh vegetables. Each bite bursts with bold flavors, offering a satisfying, portable meal.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f4291f3e82f84c33a5997f801e8fb24f.jpg?mw=660",
+    "most_iconic_place": "The Surfin Burrito",
+    "most_iconic_location": "Cancún",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "guacamole",
+    "name": "Guacamole",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 5,
+    "short_description": "Originating from the Aztec empire, this creamy dip combines ripe avocados, zesty lime, and a kick of Tlaola Serrano chili. Fresh coriander adds a fragrant finish, making it a must-try Mexican classic.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1c79ac0beb2242419a445ae0a51d3acc.jpg?mw=660",
+    "most_iconic_place": "Nicos",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Avocado",
+      "Lime",
+      "Onion",
+      "Tlaola Serrano chili pepper",
+      "Coriander",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "quesadilla",
+    "name": "Quesadilla",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 6,
+    "short_description": "A beloved Mexican snack, warm tortillas cradle gooey melted cheese, creating a perfect blend of flavors. Often enhanced with spices or veggies, each bite delivers comfort and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cde29cfce09c43b0acc43e19a77b845b.jpg?mw=660",
+    "most_iconic_place": "El Sacromonte",
+    "most_iconic_location": "Guadalajara",
+    "ingredients": [
+      "Tortilla",
+      "Cheese"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tamal",
+    "name": "Tamal",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 7,
+    "short_description": "Originating from the Aztecs, these delightful parcels of steamed corn masa are filled with savory meats or sweet fruits, wrapped in corn husks or banana leaves, delivering a burst of flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/afffce27019140a1a911db7b6ad96022.jpg?mw=660",
+    "most_iconic_place": "Doña Mary",
+    "most_iconic_location": "Playa del Carmen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fajitas",
+    "name": "Fajitas",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 8,
+    "short_description": "Sizzling strips of marinated skirt steak mingle with onions and garlic, wrapped in warm flour tortillas. Topped with creamy guacamole, fajitas offer a flavorful taste of Tex-Mex tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/950cac1a6e1f4e6682ce70788c279910.jpg?mw=660",
+    "most_iconic_place": "La Parrilla Mexican Grill",
+    "most_iconic_location": "Playa del Carmen",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Onion",
+      "Guacamole",
+      "Garlic",
+      "Pico de gallo"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mole",
+    "name": "Mole",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 9,
+    "short_description": "A vibrant blend of roasted Mexican chiles, spices, and chocolate, mole embodies the heart of Mexican cuisine. Traditionally ground in a molcajete, it delivers a rich, complex flavor profile that enchants every dish.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6cf3a2149f3a4f01948105efe6072946.jpg?mw=660",
+    "most_iconic_place": "La Choza Cozumel",
+    "most_iconic_location": "San Miguel de Cozumel",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "barbacoa",
+    "name": "Barbacoa",
+    "local_name": null,
+    "category": "TECHNIQUE",
+    "rank": 10,
+    "short_description": "Originating from ancient Mexican traditions, meat is slow-cooked in underground ovens, infusing it with rich, smoky flavors. Tender and juicy, barbacoa is a celebration of time-honored culinary craft.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/775dba1d6233461fbfdc38c58e79d16a.jpg?mw=660",
+    "most_iconic_place": "El Hidalguense",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "tortas",
+    "name": "Tortas",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 11,
+    "short_description": "Luscious Mexican tortas feature a choice of juicy beef, chicken, or pork nestled in a soft bolillo roll, layered with savory beans and vibrant toppings. A beloved street food, they burst with authentic flavors and culture in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8d98268af18b4d2ba5c2c6b21cc272ce.jpg?mw=660",
+    "most_iconic_place": "Taquería El Turix",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Beef",
+      "Chicken",
+      "Pork",
+      "Bolillo",
+      "Beans",
+      "Avocado"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "enchiladas",
+    "name": "Enchiladas",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 12,
+    "short_description": "Originating from Mexico, enchiladas feature soft tortillas dipped in rich, spicy chile sauce and filled with savory cheese, meat, or fish. Baked to perfection and topped with fresh garnishes, each bite bursts with flavor.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f680f84957414ec1b8d7def52e988594.jpg?mw=660",
+    "most_iconic_place": "Café de Tacuba",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "caesar_salad",
+    "name": "Caesar salad",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 13,
+    "short_description": "Originating from an Italian immigrant in San Diego, this Caesar salad features crisp lettuce, crunchy croutons, and creamy Parmigiano Reggiano, all tossed in a garlic-infused dressing for a refreshing bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/af13409aa53b49a9baa9aeeb69df73d0.jpg?mw=660",
+    "most_iconic_place": "Caesar's",
+    "most_iconic_location": "Tijuana",
+    "ingredients": [
+      "Lettuce",
+      "Croutons",
+      "Parmigiano Reggiano",
+      "Eggs",
+      "Garlic",
+      "Lemon"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pico_de_gallo",
+    "name": "Pico de gallo",
+    "local_name": null,
+    "category": "SALSA",
+    "rank": 14,
+    "short_description": "A vibrant Mexican classic, pico de gallo bursts with fresh tomatoes, zesty lime, and fiery serrano and jalapeño peppers. Perfectly chopped for a crunchy, flavorful accompaniment to any meal.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/828da35e84b0458487373241648c6723.jpg?mw=660",
+    "most_iconic_place": "La Floresta",
+    "most_iconic_location": "Playa del Carmen",
+    "ingredients": [
+      "Tomato",
+      "Tlaola Serrano chili pepper",
+      "Jalapeños",
+      "Lime",
+      "Onion",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carnitas",
+    "name": "Carnitas",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 15,
+    "short_description": "Originating from Michoacán, tender pork is slow-cooked in its own lard until melt-in-your-mouth perfection. Each bite bursts with rich, savory flavors, making it a beloved Mexican classic.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/5f5ed674b87a47158bb9b206fd36a50f.jpg?mw=660",
+    "most_iconic_place": "Los Panchos",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Pork",
+      "Lard",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tacos_al_pastor",
+    "name": "Tacos al pastor",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 16,
+    "short_description": "Succulent slices of marinated pork sizzle on a vertical spit, served in warm tortillas and topped with fresh onions, vibrant coriander, and sweet pineapple. A beloved street food, tacos al pastor bursts with flavor and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/c83a9146efbc4e08901a81f608cf1c1c.jpg?mw=660",
+    "most_iconic_place": "Taqueria Franc",
+    "most_iconic_location": "Tijuana",
+    "ingredients": [
+      "Tortilla",
+      "Pork",
+      "Onion",
+      "Coriander",
+      "Pineapple",
+      "Salsa"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "taquitos",
+    "name": "Taquitos",
+    "local_name": null,
+    "category": "WRAP",
+    "rank": 17,
+    "short_description": "Crisp-fried corn tortillas are filled with savory shredded chicken or beef, melted cheese, and fresh vegetables, delivering a delightful crunch with every bite. Perfectly paired with creamy guacamole, these Mexican-American favorites pack a flavorful punch.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/76f623c95815465b827b4b95b8c7bfc4.jpg?mw=660",
+    "most_iconic_place": "Flautas Magos",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Tortilla",
+      "Chicken",
+      "Beef",
+      "Cheese",
+      "Guacamole",
+      "Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pozole",
+    "name": "Pozole",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 18,
+    "short_description": "A festive Mexican stew, pozole bursts with flavors from tender pork or chicken, hearty hominy, and fresh toppings like crisp lettuce. Perfect for celebrations, it warms the soul with every aromatic spoonful.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2d40db0a0c5c4a15891256b41696e179.jpg?mw=660",
+    "most_iconic_place": "La Chata",
+    "most_iconic_location": "Guadalajara",
+    "ingredients": [
+      "Pork",
+      "Chicken",
+      "Seafood",
+      "Hominy",
+      "Lettuce",
+      "Oregano"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "carne_asada_tacos",
+    "name": "Carne asada tacos",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 19,
+    "short_description": "Originating in the 1500s, these street food gems feature tender, marinated beef grilled to perfection, wrapped in warm corn tortillas. Topped with zesty salsa verde and creamy guacamole, they burst with flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/481dc5467e104a9da9eba68e1d52c40b.jpg?mw=660",
+    "most_iconic_place": "Tacos el Yaqui",
+    "most_iconic_location": "Rosarito",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Salsa verde",
+      "Guacamole",
+      "Onion",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gringas",
+    "name": "Gringas",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 20,
+    "short_description": "Flour tortillas embrace tender al pastor pork, melted Oaxaca cheese, and sweet pineapple, creating a savory-sweet delight. A beloved street food from Mexico, gringas are grilled to perfection for a crispy finish.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/eb2bc9843115415481aeaeb5fe2274e8.jpg?mw=660",
+    "most_iconic_place": "El Vilsito",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Tortilla",
+      "Pork",
+      "Oaxaca cheese",
+      "Pineapple",
+      "Onion",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "birria",
+    "name": "Birria",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 21,
+    "short_description": "Originating from Jalisco, birria is a rich, slow-cooked stew featuring tender goat, hot peppers, and aromatic spices like cumin and garlic. Its deep flavors create a deliciously messy experience.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/fc17eae18b1144e59daba6e38b6fa8ee.jpg?mw=660",
+    "most_iconic_place": "Birreria Las 9 Esquinas",
+    "most_iconic_location": "Guadalajara",
+    "ingredients": [
+      "Goat",
+      "Hot Peppers",
+      "Cumin",
+      "Garlic",
+      "Bay Leaves",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mollete_mexico",
+    "name": "Mollete (Mexico)",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 22,
+    "short_description": "Halved bolillo rolls are generously slathered with refried beans, melted cheese, and zesty tomato salsa, creating a comforting taste of northern Mexico. A beloved staple, molletes offer a perfect blend of savory and satisfying flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2de42fb54b1946d48cebce83e24b1a1c.jpg?mw=660",
+    "most_iconic_place": "Eno",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Bolillo",
+      "Salsa",
+      "Cheese",
+      "Beans"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "caldo_de_pollo",
+    "name": "Caldo de pollo",
+    "local_name": null,
+    "category": "CHICKEN SOUP",
+    "rank": 23,
+    "short_description": "A comforting Mexican classic, chicken broth simmers with tender chicken, fresh celery, zucchini, and carrots, spiced with jalapeños for a warm kick. Enjoy a bowl of tradition and flavor in every sip!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/51214658a10c44a581a5511809ca7f17.jpg?mw=660",
+    "most_iconic_place": "Doña Mary",
+    "most_iconic_location": "Playa del Carmen",
+    "ingredients": [
+      "Chicken",
+      "Celery",
+      "Zucchini",
+      "Carrot",
+      "Jalapeños",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tostada",
+    "name": "Tostada",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 24,
+    "short_description": "Crispy toasted tortillas cradle a vibrant medley of seasoned beef, pork, chicken, or shrimp, topped with fresh vegetables and melted cheese. A beloved Mexican street food, each bite bursts with flavor and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d132f79831b649738a6f8583ccc5e459.jpg?mw=660",
+    "most_iconic_place": "Contramar",
+    "most_iconic_location": "Mexico City",
+    "ingredients": [
+      "Tortilla",
+      "Beef",
+      "Pork",
+      "Chicken",
+      "Shrimps",
+      "Tomato"
+    ],
+    "is_active": true
+  }
+]

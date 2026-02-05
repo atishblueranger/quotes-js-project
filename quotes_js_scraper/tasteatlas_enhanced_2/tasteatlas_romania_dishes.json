@@ -1,0 +1,431 @@
+[
+  {
+    "id": "mititei",
+    "name": "Mititei",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 1,
+    "short_description": "Grilled to perfection, these savory rolls blend lamb, pork, and beef with garlic and thyme, capturing the essence of Romanian street food. Enjoy a burst of smoky flavor in every bite!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2d276af47fb142398959a5140cc07e03.jpg?mw=660",
+    "most_iconic_place": "Terasa Obor",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Lamb",
+      "Pork",
+      "Beef",
+      "Garlic",
+      "Thyme",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cozonac",
+    "name": "Cozonac",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 2,
+    "short_description": "A festive staple in Romania, this rich sweet bread swirls cocoa and almond flavors into a tender, cake-like loaf. Perfect for holiday celebrations, it delights with every slice.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/798bfa90842746ce844512afdf261690.jpg?mw=660",
+    "most_iconic_place": "Chocolat",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Wheat Flour",
+      "Milk",
+      "Eggs",
+      "Cocoa Powder",
+      "Almonds",
+      "Walnuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_fasole",
+    "name": "Ciorbă de fasole",
+    "local_name": null,
+    "category": "VEGETABLE SOUP",
+    "rank": 3,
+    "short_description": "Traditional Romanian sour soup bursts with the earthy flavors of tender beans, sautéed onions, and vibrant red peppers. Finished with fresh parsley and celery, it warms the soul with every spoonful.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7add6124590c42f2b06369bd7c4b7ece.jpg?mw=660",
+    "most_iconic_place": "Caru' cu Bere",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Beans",
+      "Onion",
+      "Peppers",
+      "Parsley",
+      "Celery",
+      "Thyme"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "borș",
+    "name": "Borș",
+    "local_name": null,
+    "category": "SOUP",
+    "rank": 4,
+    "short_description": "A staple of Romanian cuisine, borș is a tangy fermented soup made from sour wheat bran, often enriched with vegetables and meats. Its unique flavor profile offers a comforting, hearty experience, perfect for any season.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/c6aa63c590d5442f819ec883d8cc7413.jpg?mw=660",
+    "most_iconic_place": "Hanul Păstrăvarului",
+    "most_iconic_location": "Pojorâta",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mămăligă",
+    "name": "Mămăligă",
+    "local_name": null,
+    "category": "PORRIDGE",
+    "rank": 5,
+    "short_description": "A staple of Romanian cuisine, this comforting cornmeal porridge boasts a creamy texture and subtle sweetness. Often served with cheese or sour cream, it embodies the heart of peasant cooking.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/790793902f2841ec9422c4e0f09000c3.jpg?mw=660",
+    "most_iconic_place": "Caru' cu Bere",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "pască",
+    "name": "Pască",
+    "local_name": null,
+    "category": "SWEET BREAD",
+    "rank": 6,
+    "short_description": "Originating from Romania, this golden, round sweet bread symbolizes Easter and nature's rebirth. Its rich, buttery flavor and soft, fluffy texture make it a delightful treat enjoyed during celebrations.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fb717497b8044fda8310ce523567e1e5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "plăcintă",
+    "name": "Plăcintă",
+    "local_name": null,
+    "category": "PASTRY",
+    "rank": 7,
+    "short_description": "Fried to golden perfection, this traditional Romanian pastry features a delicate blend of flour, eggs, and milk, offering a delightful crunch and warm, comforting flavors. Enjoy a taste of Romania's rich culinary heritage!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7f1c72c24abc4f0b94c941358b9f1cda.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Flour",
+      "Salt",
+      "Eggs",
+      "Yeast",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chiftele",
+    "name": "Chiftele",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 8,
+    "short_description": "Crispy and golden-brown, these Romanian meatballs blend minced pork and chicken with breadcrumbs and creamy mashed potatoes. Enriched with aromatic onions, garlic, and herbs, Chiftele are a beloved comfort food, perfect for sharing.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a61b042e4dba42e1a63479ecedb4b9cc.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Chicken",
+      "Breadcrumbs",
+      "Potatoes",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_burtă",
+    "name": "Ciorbă de burtă",
+    "local_name": null,
+    "category": "OFFAL SOUP",
+    "rank": 9,
+    "short_description": "A creamy, tangy delight from Romania, Ciorbă de burtă features tender beef tripe simmered with garlic, vinegar, and a kick of hot peppers. It's a warming bowl of tradition and bold flavor.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/985bbe868cdd4d40985bff4eef471f19.jpg?mw=660",
+    "most_iconic_place": "Fair Play",
+    "most_iconic_location": "Cluj-Napoca",
+    "ingredients": [
+      "Beef",
+      "Mujdei",
+      "Vinegar",
+      "Sour Cream",
+      "Hot Peppers",
+      "Cloves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "amandine",
+    "name": "Amandine",
+    "local_name": null,
+    "category": "CHOCOLATE CAKE",
+    "rank": 10,
+    "short_description": "Originating from Romania, this decadent chocolate cake features layers of moist sponge soaked in syrup, filled with rich chocolate or almond cream, and finished with a glossy glaze for an irresistible treat.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8c5129d78e99465dbc26c1719cdb95ea.jpg?mw=660",
+    "most_iconic_place": "Cofetariile Delice",
+    "most_iconic_location": "Ploiești",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "ghiveci",
+    "name": "Ghiveci",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 11,
+    "short_description": "A vibrant Romanian vegetable stew, ghiveci bursts with the fresh flavors of carrots, celery, cauliflower, cabbage, and zucchini. Slow-cooked to perfection, it embodies the heart of traditional Romanian cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2a4375f8e95e4b6592da4dfdecabea22.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Carrot",
+      "Celery",
+      "Cauliflower",
+      "Cabbage",
+      "Zucchini",
+      "Eggplant"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ardei_umpluţi",
+    "name": "Ardei umpluţi",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 12,
+    "short_description": "Juicy yellow bell peppers are lovingly stuffed with a savory blend of minced pork, fragrant rice, and fresh herbs, reflecting Romania's hearty culinary traditions. Baked to perfection, they offer a delightful burst of flavor in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e8cd9c3f182042f79c057b34c661a0c0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Peppers",
+      "Pork",
+      "Rice",
+      "Onion",
+      "Eggs",
+      "Dill"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bulz",
+    "name": "Bulz",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 13,
+    "short_description": "Originating from Romania, these golden polenta balls are filled with rich, creamy cheese and expertly grilled to achieve a delightful crunch. A comforting side dish bursting with flavor!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/79204e3d0c364d1996099c2dad3e6c87.jpg?mw=660",
+    "most_iconic_place": "Restaurant Sergiana",
+    "most_iconic_location": "Brașov",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "covrigi",
+    "name": "Covrigi",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 14,
+    "short_description": "Romanian pretzels, these delightful covrigi are crafted from leavened dough, twisted into shape, and topped with salt, sesame, or poppy seeds. Perfectly baked, they offer a warm, savory snack steeped in local tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/975a836ebf5b4ff4a9c222d29acafd37.jpg?mw=660",
+    "most_iconic_place": "Simigeria Luca",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "salată_de_vinete",
+    "name": "Salată de vinete",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 15,
+    "short_description": "Roasted eggplants take center stage in this Romanian classic, blended with sunflower oil and a splash of lemon juice for a smoky, tangy delight. Perfect as a summer appetizer, it embodies the essence of Balkan cuisine.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e593128c3ca34de490acfbf1d94ab350.jpg?mw=660",
+    "most_iconic_place": "Caru' cu Bere",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Eggplant",
+      "Sunflower Oil",
+      "Lemon Juice",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_pui",
+    "name": "Ciorbă de pui",
+    "local_name": null,
+    "category": "CHICKEN SOUP",
+    "rank": 16,
+    "short_description": "Savor the tangy delight of Romanian ciorbă de pui, a comforting chicken soup brimming with tender meat and vibrant veggies like carrots and peppers. Perfectly seasoned, it warms the soul with every spoonful.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4638f792fc4a40a8a8a8a3655c62e70f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Carrot",
+      "Potatoes",
+      "Onion",
+      "Peppers",
+      "Parsnip"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "salată_de_roșii",
+    "name": "Salată de roșii",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 17,
+    "short_description": "A vibrant staple of Romanian cuisine, fresh tomatoes are diced and tossed with zesty onion, aromatic garlic, and a splash of vinegar and olive oil. Each bite bursts with flavor, celebrating the essence of summer.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2b54cc31d0da4a9fb58174ede3e824c6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Vinegar",
+      "Olive Oil",
+      "Basil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mujdei",
+    "name": "Mujdei",
+    "local_name": null,
+    "category": "SAUCE",
+    "rank": 18,
+    "short_description": "Romanian cuisine celebrates Mujdei, a vibrant garlic sauce combining mashed garlic cloves with sunflower oil and a hint of black pepper. It's a bold accompaniment that elevates any dish, offering a punch of flavor and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d28a84adf141407aa8346fcb87bedc82.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Garlic",
+      "Sunflower Oil",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_perişoare",
+    "name": "Ciorbă de Perişoare",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 19,
+    "short_description": "A beloved Romanian classic, this sour meatball soup blends tender pork and rice with vibrant vegetables like carrots and peppers. It's a comforting bowl of home, seasoned to perfection.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9c3edddecaa64674a814674e2cf6d179.jpg?mw=660",
+    "most_iconic_place": "Ciorbarie",
+    "most_iconic_location": "Bucharest",
+    "ingredients": [
+      "Pork",
+      "Rice",
+      "Onion",
+      "Carrot",
+      "Peppers",
+      "Celery"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "drob_de_miel",
+    "name": "Drob de miel",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 20,
+    "short_description": "Originating from Romania, this traditional Easter dish combines ground lamb offal with fragrant herbs, garlic, and hard-boiled eggs, creating a savory, aromatic delight baked to perfection. Enjoy the rich flavors and cultural heritage in every bite!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a0ae01f58c2d4d4fa3b792e56b88a5c3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Offal",
+      "Eggs",
+      "Onion",
+      "Garlic",
+      "Parsley",
+      "Lovage Leaves"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tocană",
+    "name": "Tocană",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 21,
+    "short_description": "A beloved Romanian classic, tocăniță combines tender lamb, pork, chicken, and veal simmered with hearty potatoes. Rich and flavorful, it embodies the warmth of traditional home cooking.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d1623aba445741bfb8e0452a21b9ac1a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Lamb",
+      "Pork",
+      "Chicken",
+      "Veal",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "jumări",
+    "name": "Jumări",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 22,
+    "short_description": "Romanian jumări delight with their crispy, oozy pork belly pieces, expertly fried to perfection and seasoned with smoky paprika and salt. A beloved appetizer, they're perfect for sharing and savoring local flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a471b4461dfe4f489913e0ec51250519.jpg?mw=660",
+    "most_iconic_place": "Restaurant Sergiana",
+    "most_iconic_location": "Brașov",
+    "ingredients": [
+      "Pork Belly",
+      "Paprika",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorba_radauteana",
+    "name": "Ciorba Radauteana",
+    "local_name": null,
+    "category": "CHICKEN SOUP",
+    "rank": 23,
+    "short_description": "A beloved Romanian classic, this hearty chicken soup combines tender meat with fragrant onions, vibrant peppers, and a splash of lemon. Finished with creamy sour cream, it’s a comforting bowl of tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/6d2d8d15addd47e696771ebdad30df72.jpg?mw=660",
+    "most_iconic_place": "Restaurant Naţional",
+    "most_iconic_location": "Rădăuți",
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Celery",
+      "Peppers",
+      "Carrot",
+      "Parsnip"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ciorbă_de_văcuţă",
+    "name": "Ciorbă de văcuţă",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 24,
+    "short_description": "Tangy and hearty, ciorbă de văcuţă showcases Romania’s culinary heritage with tender beef simmered alongside vibrant vegetables like potatoes, bell pepper, and cauliflower for a soul-warming experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b38800c3591244f68b2db3428ee412a7.jpg?mw=660",
+    "most_iconic_place": "Roata Norocului",
+    "most_iconic_location": "Brașov",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Potatoes",
+      "Bell Pepper",
+      "Cauliflower",
+      "Zucchini"
+    ],
+    "is_active": true
+  }
+]

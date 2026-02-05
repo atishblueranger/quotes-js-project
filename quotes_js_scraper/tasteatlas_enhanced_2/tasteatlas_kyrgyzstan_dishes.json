@@ -1,0 +1,192 @@
+[
+  {
+    "id": "chuchuk",
+    "name": "Chuchuk",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 1,
+    "short_description": "A beloved staple of Kyrgyz cuisine, this savory cooked sausage combines ground lamb and beef, infused with cumin, garlic, and a kick of hot peppers. Perfect for grilling, it bursts with rich flavors and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e40c52c619d643b8ac96f286f9d2a6ad.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Cumin",
+      "Hot Peppers",
+      "Garlic",
+      "Black Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sümölök",
+    "name": "Sümölök",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 2,
+    "short_description": "A sweet, creamy delight from Kyrgyzstan, Sümölök is crafted from slowly simmered wheat berries and flour, embodying abundance and joy during Nowruz celebrations. Its rich, nutty flavor captivates the senses.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f57a2a9d71384fc6b37cf28eb46b671d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Berries",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "samsa",
+    "name": "Samsa",
+    "local_name": null,
+    "category": "SAVORY PASTRY",
+    "rank": 3,
+    "short_description": "Golden, flaky pastries filled with a savory mix of beef, lamb, and onions, samsa are a beloved staple of Kyrgyz cuisine, offering a taste of Central Asia's rich culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2085b23786684695867564cae17e4048.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Beef",
+      "Lamb",
+      "Onion",
+      "Tail Fat",
+      "Cumin"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kuurdak",
+    "name": "Kuurdak",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 4,
+    "short_description": "Roasted meat and offal sizzle with aromatic onions and spices in this hearty Kyrgyz staple. Kuurdak embodies the warmth of nomadic hospitality, offering rich, savory flavors in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e56c558e22ac45d58011dc7ee4867ee3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "ashlan_fu",
+    "name": "Ashlan-fu",
+    "local_name": null,
+    "category": "NOODLE SOUP",
+    "rank": 5,
+    "short_description": "Originating from the Dungan community in Kyrgyzstan, this refreshing cold noodle soup features silky potato and mung bean noodles, tossed in garlic and served with a zesty sauce, embodying vibrant street food culture.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/de07563cad084ed18d65a63a650b351a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Karakol",
+    "ingredients": [
+      "Potato Starches",
+      "Mung Bean Starch",
+      "Wheat Flour",
+      "Eggs",
+      "Garlic",
+      "White Vinegar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "oromo",
+    "name": "Oromo",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 6,
+    "short_description": "A traditional favorite in Kyrgyzstan, this large steamed pie features thin, delicate dough layered with savory fillings like lamb or potatoes, rolled and cooked to perfection for a delightful taste experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b36c8677253c4bd786a17a1f76ccfc81.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "paloo",
+    "name": "Paloo",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 7,
+    "short_description": "A beloved staple of Kyrgyz cuisine, this hearty rice dish features tender beef or mutton, fragrant carrots, and aromatic garlic. Slow-cooked to perfection, it bursts with rich flavors and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/31a7ad683db84baebce644a2ffa9612c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "qazı",
+    "name": "Qazı",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 8,
+    "short_description": "Savor the rich, savory flavors of Qazı, a traditional Kyrgyz sausage crafted from tender horse meat and seasoned with garlic and black pepper. This delicacy celebrates Central Asian culinary heritage, perfect for adventurous palates.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9fd3161b13734f7fbadd71c80314bc57.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Horse Meat",
+      "Horse Intestine",
+      "Garlic",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shalgam",
+    "name": "Shalgam",
+    "local_name": null,
+    "category": "SALAD",
+    "rank": 9,
+    "short_description": "Originating from Kyrgyzstan, Shalgam bursts with vibrant flavors from crisp radishes, sweet carrots, and zesty garlic. Tossed together, this refreshing salad is a staple at gatherings, celebrating the region's love for fresh, wholesome ingredients.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8383fd331aae45c486dfec50f980bf30.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Radish",
+      "Carrot",
+      "Bell Pepper",
+      "Onion",
+      "Garlic",
+      "Red Chili Flakes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lagman",
+    "name": "Lagman",
+    "local_name": null,
+    "category": "NOODLE DISH",
+    "rank": 10,
+    "short_description": "Hand-pulled wheat noodles cradle tender morsels of beef, mutton, and lamb, all simmered with onions and vibrant vegetables in a rich, savory sauce. A beloved Uyghur classic, Lagman bursts with flavor and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/48140353384b4442a0f161993a62d319.jpg?mw=660",
+    "most_iconic_place": "Arzu Restaurant",
+    "most_iconic_location": "Bishkek",
+    "ingredients": [
+      "Beef",
+      "Mutton",
+      "Lamb",
+      "Noodles",
+      "Onion",
+      "Bell Pepper"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "qarta",
+    "name": "Qarta",
+    "local_name": null,
+    "category": "OFFAL DISH",
+    "rank": 11,
+    "short_description": "Originating from Kyrgyzstan, Qarta features tender horse offal expertly boiled and pan-fried to create a savory, rich delicacy. Its unique preparation highlights the region's bold flavors and culinary traditions.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  }
+]

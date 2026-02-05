@@ -1,0 +1,165 @@
+[
+  {
+    "id": "vindaloo",
+    "name": "Vindaloo",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 1,
+    "short_description": "Vindaloo is a flavorful curry dish that is popular in England and the Indian regions of Goa and Konkan. It is typically made with marinated pork, but it can also be made with chicken, beef, mutton, or...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/6c8eab762bef45d4be6082f76f740c65.jpg?mw=660",
+    "most_iconic_place": "Venite",
+    "most_iconic_location": "Panaji",
+    "ingredients": [
+      "Paneer",
+      "Pork",
+      "Chicken",
+      "Beef",
+      "Mutton",
+      "Tomato"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "feni",
+    "name": "Feni",
+    "local_name": null,
+    "category": "SPIRIT",
+    "rank": 2,
+    "short_description": "This strong Indian spirit is made with second or third distillation of the cashew fruit. Although there are two types of feni—one distilled from cashew fruit and one from fermented toddy of the coconu...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/894d8c6b2c2647feb98eab18b1a7e248.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "goan_fish_curry_ambot_tik",
+    "name": "Goan fish curry (Ambot tik)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 3,
+    "short_description": "Ambot tik is a traditional fish curry originating from Goa. Ambot means sour, and tik means spicy, so this curry should always be sour-and-spicy. The dish is usually made with saltwater fish, onions, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ea2f6ca330d145d4b8ed701afcc8388b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Saltwater Fish",
+      "Tomato",
+      "Onion",
+      "Tamarind",
+      "Hot Peppers",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "xacuti",
+    "name": "Xacuti",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 4,
+    "short_description": "Xacuti is a popular chicken or mutton curry that is heavily spiced with pepper, poppy seeds, coconut, and chiles. The dish is a specialty of the Indian state of Goa, where it was brought over by the P...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8c587bf62ca14b8f8bfcb1622d9be0a8.jpg?mw=660",
+    "most_iconic_place": "Viva Panjim",
+    "most_iconic_location": "Panaji",
+    "ingredients": [
+      "Mutton",
+      "Chicken",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Coconut Flakes"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sanna",
+    "name": "Sanna",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 5,
+    "short_description": "Sanna is a savory and spongy Indian rice cake that is traditionally steamed before consumption. It is especially popular in Goa and Mangalore. These soft and fluffy rice cakes are typically served wit...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d256a1c0f293490ba2868f9f1661f913.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Gram Flour",
+      "Turmeric",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bebinca",
+    "name": "Bebinca",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 6,
+    "short_description": "Bebinca is a traditional layered cake from Goa, where it's originally been made under Portuguese culinary influence. The cake is made with a combination of flour, ghee, sugar, coconut milk, and egg yo...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3ec25abc12f7497d813a82f27496d069.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Maida Flour",
+      "Eggs",
+      "Ghee",
+      "Sugar",
+      "Coconut Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cafreal",
+    "name": "Cafreal",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 7,
+    "short_description": "Cafreal is an Indian chicken dish originating from Goa. There is no feast on Goa without cafreal, made with chicken pieces that are marinated in a combination of chili peppers, cardamom, cloves, coria...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/8526360dabb44072981a9dfc6bf4d4c5.jpg?mw=660",
+    "most_iconic_place": "Florentine",
+    "most_iconic_location": "Saligao",
+    "ingredients": [
+      "Chicken",
+      "Hot Peppers",
+      "Ginger",
+      "Garlic",
+      "Cardamom",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kalundar",
+    "name": "Kalundar",
+    "local_name": null,
+    "category": "FRESHWATER FISH",
+    "rank": 8,
+    "short_description": "Karimeen (lat. Etroplus suratensis) is a brackish water and freshwater fish native to Kerala, Odisha, and Goa in India, and Sri Lanka. It is a popular delicacy in local cuisine and is especially renow...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "ros_omelet",
+    "name": "Ros omelet",
+    "local_name": null,
+    "category": "EGG DISH",
+    "rank": 9,
+    "short_description": "Ros omelet is a street food dish consisting of an omelet that is drizzled over with a gravy that is based on chicken, chickpeas, or coconut milk. The omelet is typically prepared with beaten eggs, cor...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b65e9b9f695445a5b0c65316197ed3ea.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Tomato",
+      "Onion",
+      "Hot Peppers",
+      "Coconut",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  }
+]

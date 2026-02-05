@@ -1,0 +1,450 @@
+[
+  {
+    "id": "pavlova",
+    "name": "Pavlova",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 1,
+    "short_description": "Originating from Australia, this elegant meringue dessert features a crisp exterior and a soft, marshmallow-like center. Topped with whipped cream and vibrant seasonal fruits, it’s a refreshing summer delight.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/99a63337e1144e71baa0a8c3a4cba28d.jpg?mw=660",
+    "most_iconic_place": "Rockpool Bar & Grill",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Eggs",
+      "Sugar",
+      "Vanilla",
+      "Whipped Cream",
+      "Corn Flour",
+      "Peach"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "avocado_toast",
+    "name": "Avocado Toast",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 2,
+    "short_description": "Originating from Australia, this vibrant toast features creamy mashed avocado drizzled with olive oil and a splash of zesty lemon, all atop perfectly toasted bread. Simple yet irresistibly delicious!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ff7e6b0878c3475f8f1b406dfe96a950.jpg?mw=660",
+    "most_iconic_place": "Porgie + Mr Jones",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Bread",
+      "Avocado",
+      "Lemon",
+      "Olive Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "lamington",
+    "name": "Lamington",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 3,
+    "short_description": "A beloved Australian treat, this sponge cake is generously dipped in rich chocolate and coated with sweet, desiccated coconut. Perfectly moist and decadently delicious, it’s a must-try cultural delight!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8cafb772b8a8405dbe62f68ebe8cdb28.jpg?mw=660",
+    "most_iconic_place": "Flour and Stone",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Coconut",
+      "Cocoa Powder",
+      "Wheat Flour",
+      "Eggs",
+      "Sugar",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "meat_pie",
+    "name": "Meat Pie",
+    "local_name": null,
+    "category": "SAVORY PIE",
+    "rank": 4,
+    "short_description": "Flaky pastry encases savory minced meat and rich gravy in this beloved Australian classic. Each bite bursts with comforting flavors, showcasing a cherished tradition that warms the heart.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/250788f498dc4599866235704848bf1d.jpg?mw=660",
+    "most_iconic_place": "Bourke Street Bakery",
+    "most_iconic_location": "Sydney",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "spag_bol",
+    "name": "Spag Bol",
+    "local_name": null,
+    "category": "PASTA",
+    "rank": 5,
+    "short_description": "A beloved Australian classic, spag bol features al dente spaghetti topped with a rich, savory blend of ground beef, mushrooms, and a robust tomato-onion sauce, delivering comfort in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/176485ef64c7450fbef85297d86fc79c.jpg?mw=660",
+    "most_iconic_place": "Pellegrini's Espresso Bar",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Spaghetti",
+      "Ground Beef",
+      "Mushrooms",
+      "Tomato",
+      "Onion",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vanilla_slice",
+    "name": "Vanilla slice",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 6,
+    "short_description": "Layers of flaky pastry embrace a rich, velvety vanilla custard in this beloved Australian treat, finished with a sweet glaze. It's a delightful nod to classic French desserts, perfect for any sweet tooth.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/9a976a8bbe514678a90dc16057b0784c.jpg?mw=660",
+    "most_iconic_place": "Ross Bakery",
+    "most_iconic_location": "Ross",
+    "ingredients": [
+      "Wheat Flour",
+      "Butter",
+      "Sugar",
+      "Milk",
+      "Corn Flour",
+      "Heavy Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vegemite",
+    "name": "Vegemite",
+    "local_name": null,
+    "category": "SPREAD",
+    "rank": 7,
+    "short_description": "A beloved staple in Australian households since 1922, this savory yeast extract spread bursts with umami flavor. Perfect on buttered toast, it’s a unique taste experience not to be missed!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/605ae5f8aef34a1a802203dadbd596db.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Melbourne",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "prawn_cocktail",
+    "name": "Prawn Cocktail",
+    "local_name": null,
+    "category": "SHRIMP/PRAWN DISH",
+    "rank": 8,
+    "short_description": "Delight in the classic Australian prawn cocktail, where succulent prawns mingle with a zesty blend of ketchup, creamy mayonnaise, and a hint of horseradish. A timeless seafood starter with a touch of 19th-century charm.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b2ecfc87cff84ff488d2bf928e02e7a3.jpg?mw=660",
+    "most_iconic_place": "Gowings Bar & Grill",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Shrimps",
+      "Ketchup",
+      "Mayonnaise",
+      "Horseradish"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dim_sim",
+    "name": "Dim sim",
+    "local_name": null,
+    "category": "DUMPLINGS",
+    "rank": 9,
+    "short_description": "Deep-fried or steamed, these savory dumplings burst with a mouthwatering blend of beef, pork, and fragrant ginger. A beloved Australian snack with Chinese roots, they offer a deliciously satisfying bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d97cae983d6b42959829fdc29298909c.jpg?mw=660",
+    "most_iconic_place": "South Melbourne Market Dim Sims",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Beef",
+      "Pork",
+      "Onion",
+      "Carrot",
+      "Ginger",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "anzac_biscuits",
+    "name": "Anzac biscuits",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 10,
+    "short_description": "Sweet and chewy, these beloved Australian cookies blend oats, coconut, and brown sugar for a delightful crunch. Originating during WWI, they evoke a sense of nostalgia and camaraderie.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7cf73932a034428f8622cff9df7594c6.jpg?mw=660",
+    "most_iconic_place": "The Riverboat Postman",
+    "most_iconic_location": "Brooklyn",
+    "ingredients": [
+      "Wheat Flour",
+      "Oats",
+      "Brown Sugar",
+      "Coconut",
+      "Butter",
+      "Baking Soda"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vegemite_on_toast",
+    "name": "Vegemite on toast",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 11,
+    "short_description": "Crunchy, buttery toast slathered with the iconic, umami-packed Vegemite offers a quintessential Australian breakfast experience. Love it or hate it, this bold flavor is a beloved staple down under.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5f3a707391ac47c3aea7a07dd7b635e3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Toast",
+      "Vegemite",
+      "Butter"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "fairy_bread",
+    "name": "Fairy Bread",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 12,
+    "short_description": "Sliced white bread is generously spread with butter and adorned with vibrant nonpareils, creating a whimsical treat. A beloved staple at Australian children's parties, it adds a sprinkle of joy to any celebration.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ca21b972854a429bbdad24e7b1f07b30.jpg?mw=660",
+    "most_iconic_place": "BUSH",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Bread",
+      "Butter",
+      "Margarine",
+      "Nonpareils"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "australian_burger",
+    "name": "Australian Burger",
+    "local_name": null,
+    "category": "BURGER",
+    "rank": 13,
+    "short_description": "A beloved Aussie classic since the 1940s, this burger layers juicy ground beef, crispy bacon, tangy beetroot, and a sweet pineapple slice, all topped with a fried egg for a satisfying bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4713ddd8c2ee49f4bd05cd6506819adc.jpg?mw=660",
+    "most_iconic_place": "Paul's Famous Hamburgers",
+    "most_iconic_location": "Sydney",
+    "ingredients": [
+      "Ground Beef",
+      "Bacon",
+      "Beet",
+      "Eggs",
+      "Pineapple",
+      "Cheddar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "salt_and_pepper_calamari",
+    "name": "Salt and Pepper Calamari",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 14,
+    "short_description": "Crispy and tender, this Australian favorite features lightly battered calamari tossed in salt and pepper, delivering a savory crunch that's irresistible. Perfectly paired with a zesty dipping sauce!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/0c7282c84a454f28a4c13d6d52bcd599.jpg?mw=660",
+    "most_iconic_place": "Star of Greece",
+    "most_iconic_location": "Adelaide",
+    "ingredients": [
+      "Squid",
+      "Wheat Flour",
+      "Eggs",
+      "Milk",
+      "Breadcrumbs",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "australian_pizza",
+    "name": "Australian Pizza",
+    "local_name": null,
+    "category": "PIZZA",
+    "rank": 15,
+    "short_description": "Originating from Australia, this pizza features a smoky barbecue sauce base topped with gooey mozzarella and crispy bacon. Each bite bursts with rich, savory flavors, embodying the country's love for hearty, indulgent fare.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/109c73b97a6143e1a590ec5be3a3987d.jpg?mw=660",
+    "most_iconic_place": "Papa Gino's",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Wheat Flour",
+      "Yeast",
+      "Mozzarella",
+      "Barbecue Sauce",
+      "Bacon",
+      "Eggs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "yo_yo_biscuits",
+    "name": "Yo-Yo Biscuits",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 16,
+    "short_description": "Delight in the buttery richness of South Australian Yo-Yo biscuits, a beloved treat with a melt-in-your-mouth texture. These shortbread cookies are a nostalgic favorite, perfectly paired with a cup of tea.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/e9f8c03db1264efebfda6b80a1f616b8.jpg?mw=660",
+    "most_iconic_place": "Rebecca’s Café",
+    "most_iconic_location": "Port Fairy",
+    "ingredients": [
+      "Self-Raising Flour",
+      "Wheat Flour",
+      "Butter",
+      "Corn Starch",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "cruffin",
+    "name": "Cruffin",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 17,
+    "short_description": "A delightful fusion of croissant and muffin, the cruffin boasts flaky layers of laminated dough, often filled with rich pastry cream or decadent peanut butter, making it a must-try treat in Australia.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e4fcaab017ff4ea7917163489869b908.jpg?mw=660",
+    "most_iconic_place": "Lune Croissanterie",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Wheat Flour",
+      "Milk",
+      "Yeast",
+      "Sugar",
+      "Butter",
+      "Jam"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "australian_barbecue",
+    "name": "Australian Barbecue",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 18,
+    "short_description": "Celebrating the art of outdoor cooking, Australian barbecue features sizzling sausages, juicy prawns, and tender lamb, all perfectly grilled to smoky perfection. It's a beloved tradition that brings friends together around the fire.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/96e304acea184a8fa3d46c174147f095.jpg?mw=660",
+    "most_iconic_place": "Hurricane's Grill",
+    "most_iconic_location": "Sydney",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "chicken_and_corn_soup",
+    "name": "Chicken and Corn Soup",
+    "local_name": null,
+    "category": "CHICKEN SOUP",
+    "rank": 19,
+    "short_description": "Nourishing Australian chicken and corn soup combines tender chicken and sweet corn in a creamy broth, enriched with potatoes and aromatic herbs. A comforting classic perfect for chilly days.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3d68e2ea5eb746c08154f99200d9b47d.jpg?mw=660",
+    "most_iconic_place": "Easy House Vegetarian Restaurant",
+    "most_iconic_location": "Gold Coast",
+    "ingredients": [
+      "Chicken",
+      "Corn",
+      "Chicken Stock",
+      "Cream",
+      "Potatoes",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pikelets",
+    "name": "Pikelets",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 20,
+    "short_description": "Light and fluffy, these Australian pancakes blend flour, eggs, and milk for a delightful breakfast treat. Often enjoyed with jam or cream, pikelets bring a touch of nostalgia to every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4b685669ddfb4cbfb068674995903794.jpg?mw=660",
+    "most_iconic_place": "Crack Kitchen",
+    "most_iconic_location": "Adelaide",
+    "ingredients": [
+      "Eggs",
+      "Milk",
+      "Wheat Flour",
+      "Butter",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "damper",
+    "name": "Damper",
+    "local_name": null,
+    "category": "SODA BREAD",
+    "rank": 21,
+    "short_description": "Traditional bushman’s bread, Damper features a delightful combination of self-raising flour, butter, and milk, baked to golden perfection in campfire coals. Its rustic flavor evokes the spirit of Australia’s outback.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/efd33e25345e40c3a197c28f8637c386.jpg?mw=660",
+    "most_iconic_place": "Blackwood",
+    "most_iconic_location": "Adelaide",
+    "ingredients": [
+      "Self-Raising Flour",
+      "Butter",
+      "Milk",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sausage_sizzle",
+    "name": "Sausage sizzle",
+    "local_name": null,
+    "category": "BARBECUE",
+    "rank": 22,
+    "short_description": "Grilled to perfection, juicy sausages nestle in soft bread, topped with caramelized onions and a drizzle of ketchup. A beloved Australian tradition, the sausage sizzle brings communities together in vibrant public gatherings.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/08e60b5bfb864a739aacfab2a080f7c6.jpg?mw=660",
+    "most_iconic_place": "Bunnings Warrnambool",
+    "most_iconic_location": "Warrnambool",
+    "ingredients": [
+      "Cooked Sausage",
+      "Bread",
+      "Onion",
+      "Butter",
+      "Ketchup",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chicken_parma",
+    "name": "Chicken Parma",
+    "local_name": null,
+    "category": "FRIED CHICKEN DISH",
+    "rank": 23,
+    "short_description": "Originating from Australia, succulent chicken breasts are coated in crunchy breadcrumbs, topped with rich tomato sauce, and melted Parmigiano Reggiano and mozzarella, delivering a comforting, cheesy delight.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b7514336be164b148db27ca24b8b3d80.jpg?mw=660",
+    "most_iconic_place": "The Napier Hotel",
+    "most_iconic_location": "Melbourne",
+    "ingredients": [
+      "Chicken",
+      "Parmigiano Reggiano",
+      "Mozzarella",
+      "Breadcrumbs",
+      "Eggs",
+      "Milk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dolly_varden_cake",
+    "name": "Dolly Varden Cake",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 24,
+    "short_description": "A vibrant centerpiece at Australian children's birthday parties, Dolly Varden Cake features layers of fluffy vanilla sponge, rich butter, and a delightful sweetness, often adorned with colorful icing. Named after a Dickensian character, it’s a whimsical treat that sparks joy.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/703124f68bd84062a959f5ffe617eb2a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Self-Raising Flour",
+      "Butter",
+      "Eggs",
+      "Milk",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  }
+]

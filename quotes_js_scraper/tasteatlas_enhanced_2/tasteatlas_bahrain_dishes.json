@@ -1,0 +1,101 @@
+[
+  {
+    "id": "kabsa",
+    "name": "Kabsa",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "A beloved staple in Bahrain, kabsa boasts fragrant basmati rice cooked with tender chicken and lamb, infused with spices and the essence of fish broth. Its rich flavors and vibrant colors make it a cherished dish of the Gulf.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "muhammar",
+    "name": "Muhammar",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "A beloved Bahraini treasure, sweet muhammar combines fragrant basmati rice with honey, brown sugar, and rich ghee, creating a luscious side that perfectly complements grilled fish or roast lamb.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5111cadc678541a6ac3fc8947f9333e1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Basmati",
+      "Honey",
+      "Brown Sugar",
+      "Ghee",
+      "Butter",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "balaleet",
+    "name": "Balaleet",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 3,
+    "short_description": "Sweet and savory, this traditional Bahraini breakfast combines fragrant vermicelli with fluffy eggs, aromatic cardamom, and a hint of saffron, all sautéed in rich butter for a comforting start to the day.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/939a416a53a5484fa45904f166cf8776.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Vermicelli",
+      "Eggs",
+      "Butter",
+      "Cardamom",
+      "Saffron",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mahmous",
+    "name": "Mahmous",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 4,
+    "short_description": "Originating from Bahrain and the Qatif region, this fragrant rice dish combines perfectly cooked rice with sweet, caramelized onions and the tangy essence of black lemon, delivering a comforting and flavorful experience.",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Onion",
+      "Black lemon",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khanfaroosh",
+    "name": "Khanfaroosh",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 5,
+    "short_description": "Deep-fried to golden perfection, Khanfaroosh delights with its airy texture and subtly sweet flavor, making it a beloved treat in Bahrain and the Gulf. Perfectly dusted with sugar, it embodies festive joy.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7a072070103a42babeac630b60adb258.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Rice Flour",
+      "Eggs",
+      "Sugar",
+      "Baking Powder",
+      "Cardamom"
+    ],
+    "is_active": true
+  }
+]

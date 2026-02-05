@@ -1,0 +1,269 @@
+[
+  {
+    "id": "svið",
+    "name": "Svið",
+    "local_name": null,
+    "category": "MUTTON DISH",
+    "rank": 1,
+    "short_description": "Svið is an unusual and unique dish from Iceland consisting of singed, halved, and cooked sheep's head. The head is then cooked in an open fire (in order to remove the fur) and consumed. The dish is tr...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a8d1744fcf754a9e8e905874be2767a4.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Sheep's Head",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "icelandic_fish_and_chips_fiskur_og_franskar",
+    "name": "Icelandic fish and chips (Fiskur og franskar)",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 2,
+    "short_description": "This dish is an Icelandic version of the classic English fish and chips. In the UK, the batter is made with flour, vinegar, salt, beer, and baking soda, while the Icelandic version is made from spelt ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/d253e4f6996e475780637877a78f6e25.jpg?mw=660",
+    "most_iconic_place": "Mia's Country Van",
+    "most_iconic_location": "Skógar",
+    "ingredients": [
+      "Saltwater Fish",
+      "Spelt Flour",
+      "Eggs",
+      "Baking Powder",
+      "Potatoes",
+      "Sparkling Mineral Water"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kjötsúpa",
+    "name": "Kjötsúpa",
+    "local_name": null,
+    "category": "MEAT SOUP",
+    "rank": 3,
+    "short_description": "This hearty Icelandic soup is a nourishing combination of lamb, preferably on the bone cuts, carrots, rutabaga, potatoes, onions, and various fresh or dried herbs. It is traditionally thickened with o...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ae50e83a7669487ba94dc399e4e81a4b.jpg?mw=660",
+    "most_iconic_place": "Cafe Loki",
+    "most_iconic_location": "Reykjavík",
+    "ingredients": [
+      "Lamb",
+      "Potatoes",
+      "Carrot",
+      "Cabbage",
+      "Rutabaga",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "icelandic_hot_dog_pylsa",
+    "name": "Icelandic hot dog (Pylsa)",
+    "local_name": null,
+    "category": "HOT DOG",
+    "rank": 4,
+    "short_description": "Icelandic hot dog or pylsur is a unique combination of a sausage made from Icelandic free-range lamb, a warm, steamed bun, and toppings such as fried and raw onions, ketchup, sweet brown mustard, and ...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/21114e9ae42c4983bb64a213b674386b.jpg?mw=660",
+    "most_iconic_place": "Bæjarins Beztu Pylsur",
+    "most_iconic_location": "Reykjavík",
+    "ingredients": [
+      "Pylsur",
+      "Hot Dog Bun",
+      "Ketchup",
+      "Mustard",
+      "Mayonnaise",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rúgbrauð",
+    "name": "Rúgbrauð",
+    "local_name": null,
+    "category": "RYE BREAD",
+    "rank": 5,
+    "short_description": "Characterized by its dark brown color, rúgbrauð is a rich and dense Icelandic bread that was initially prepared solely with rye flour. It was traditionally steamed in underground pits that were locate...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4274d36a265a40faabd6f18d106bde11.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "rye flour",
+      "Baking Powder",
+      "Baking Soda",
+      "Molasses",
+      "Honey",
+      "Buttermilk"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "graflax",
+    "name": "Graflax",
+    "local_name": null,
+    "category": "SALMON DISH",
+    "rank": 6,
+    "short_description": "Gravlax is a Scandinavian dish consisting of raw, salt-cured salmon that is traditionally seasoned with dill. Originally, the dish was made by fishermen who used to bury the salt, sugar, and dill-rubb...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/18000a17cd68426d87d93eed4f290501.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Salmon",
+      "Salt",
+      "Dill",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pylsur",
+    "name": "Pylsur",
+    "local_name": null,
+    "category": "COOKED SAUSAGE",
+    "rank": 7,
+    "short_description": "Pylsur sausage is the Icelandic version of a hot dog sausage and is the main component of Iceland's beloved hot dogs, called \"pylsur.\" Known for its distinctive flavor and high-quality ingredients, py...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a3185e7b52824cb08531859861ea67f9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Beef",
+      "Ground Pork",
+      "Nutmeg",
+      "Garlic Powder",
+      "Onion Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vínarterta",
+    "name": "Vínarterta",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 8,
+    "short_description": "This layered Icelandic dessert is known as randalín or vínarterta (Vienna cake). Although the cake is incredibly versatile and its exact form and ingredients are often debated, it traditionally consis...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ebc693c1fc5f4c63809645aaf0ce1057.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Prunes",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "flatkaka",
+    "name": "Flatkaka",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 9,
+    "short_description": "Flatkaka, meaning flat cake, is a traditional rye bread characterized by its flat appearance and fork prick marks on its surface. The flatbread is unleavened and baked in a pan, then served cut into q...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/b59ad1d4e79a4ef3b4e3f1a56d9a925e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Baking Soda",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "laufabrauð",
+    "name": "Laufabrauð",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 10,
+    "short_description": "Translated as leaf bread, this classic flatbread is a Christmas staple in Iceland that was first mentioned in writing in 1736. It is prepared with a basic dough that incorporates flour, butter, sugar,...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/abd87f94c22f4b088c39bacebd6dea93.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Baking Powder",
+      "Butter",
+      "Sugar",
+      "Milk",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "oven_cheese_broddur",
+    "name": "Oven cheese (Broddur)",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 11,
+    "short_description": "This traditional Scandinavian dish is prepared with a combination of cow’s milk and beestings or colostrum – a yellow, rich milk produced by the animal right after it gave birth to a calf. The mixture...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/61fb20e322cd47b28047f993ac73d892.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Colostrum",
+      "Milk",
+      "Cinnamon",
+      "Sugar",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thorramatur",
+    "name": "Thorramatur",
+    "local_name": null,
+    "category": "ASSORTED SMALL DISHES OR RITUAL",
+    "rank": 12,
+    "short_description": "Thorramatur is a selection of traditional Icelandic foods consumed predominantly during the Nordic month of Þorri, taking place from mid-January to mid-February each year. Cured fish and meat products...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1bffdfaa3437428fad6d5a5e5eeebe56.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Svið",
+      "Hákarl",
+      "Harðfiskur",
+      "Hangikjöt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "ábrystir",
+    "name": "Ábrystir",
+    "local_name": null,
+    "category": "PUDDING",
+    "rank": 13,
+    "short_description": "Ábrystir is a delicious Icelandic pudding made with colostrum – the first milk from a cow or sheep after giving birth. It has a very rich and thick texture, similar to that of crème brûlée. Ábrystir i...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/1b3b7122775e432a958ac04dbada2863.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Colostrum",
+      "Skyr",
+      "Milk",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "skyronnes",
+    "name": "Skyronnes",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 14,
+    "short_description": "Skyronnes is an dipping sauce originating from Iceland. The sauce is usually made with skyr (traditional Icelandic yogurt), olive oil, and a variety of fresh herbs and spices. Skyronnes is usually ser...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/01f96e898b20413d96d673456b650d47.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Skyr",
+      "Garlic",
+      "Dill",
+      "Parsley",
+      "Chives",
+      "Olive Oil"
+    ],
+    "is_active": true
+  }
+]

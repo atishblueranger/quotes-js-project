@@ -1,0 +1,74 @@
+[
+  {
+    "id": "machboos_laham",
+    "name": "Machboos laham",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 1,
+    "short_description": "Kuwait's beloved national dish features tender lamb simmered with aromatic spices, served atop fluffy basmati rice, fried onions, and sweet raisins. A delightful blend of flavors awaits!",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/162b4b024bd64ab1a2f6fe6cc4c85944.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mumawwash",
+    "name": "Mumawwash",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "A cherished Kuwaiti classic, features fragrant rice infused with sautéed mung beans, onions, and a vibrant blend of spices like cinnamon, turmeric, and saffron for a delightful flavor experience.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3effddac5b194c6c9283bd747b2c7f30.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "gers_ogaily",
+    "name": "Gers ogaily",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 3,
+    "short_description": "Kuwait's beloved sponge cake, baked in large bundt pans, boasts fragrant notes of saffron, cardamom, and rose water. A festive treat that celebrates tradition and sweetens every occasion.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/daaffc6764444bd7b53f9025426ce269.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "khanfaroosh",
+    "name": "Khanfaroosh",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 4,
+    "short_description": "Crispy on the outside and tender within, these delightful deep-fried treats blend wheat and rice flour with a hint of sweetness. A beloved dessert in Kuwait, Khanfaroosh brings a taste of Gulf tradition to every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7a072070103a42babeac630b60adb258.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Rice Flour",
+      "Eggs",
+      "Sugar",
+      "Baking Powder",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mutabbaq_samak",
+    "name": "Mutabbaq samak",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 5,
+    "short_description": "Fried pomfret, known as zubaidi, graces a fragrant bed of rice in this beloved Kuwaiti specialty. Seasoned to perfection, it delivers a delightful blend of crispy texture and rich flavors.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/fef321c586d642569bc86b9918b37406.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [],
+    "is_active": true
+  }
+]

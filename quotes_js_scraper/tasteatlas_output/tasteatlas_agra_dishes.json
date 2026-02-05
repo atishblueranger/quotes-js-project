@@ -1,0 +1,290 @@
+[
+  {
+    "id": "agra_petha",
+    "name": "Agra petha",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 1,
+    "short_description": "Agra petha is a type of candied gourd often called the signature candy of the city of Agra. It is made from candied ash gourd, known as white pumpkin, wax gourd, white gourd, winter gourd, tallow gour...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/15d60aba212d4882973be9629626713c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Winter Melon",
+      "Lime Water",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "malai_kofta",
+    "name": "Malai kofta",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 1,
+    "short_description": "Malai kofta is a traditional North Indian dish consisting of fried potato and paneer balls in a creamy sauce. The dish is commonly served at festivals, celebrations, and weddings due to its rich textu...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7cd03979f70949c08f779a686919d7e3.jpg?mw=660",
+    "most_iconic_place": "Joney's Place",
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Potatoes",
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Corn Flour",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chaat",
+    "name": "Chaat",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 2,
+    "short_description": "Chaat is a term signifying a huge variety of Indian street foods, snacks, or small meals which usually combine salty, spicy, sweet, and sour flavors. The name chaat is derived from a Hindi verb chaatn...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/84327074df8e4c5fabeaeca6fa3ab659.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Uttar Pradesh",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "galouti_kebab",
+    "name": "Galouti kebab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 3,
+    "short_description": "Galouti kebab is a traditional kebab that's especially popular in Lucknow. The dish consists of ground lamb or mutton that's marinated in a combination of ground ginger, garlic, cloves, papaya paste, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/a4de34b5d7b546b68e439eb38533815a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Lucknow",
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Mutton",
+      "Ginger-garlic paste",
+      "Fried onion paste",
+      "Raw papaya paste",
+      "Gram Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "peda",
+    "name": "Peda",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 4,
+    "short_description": "Peda is a sweet treat originating from the Indian state of Uttar Pradesh, although it is also very popular in Gujarat. It consists of mawa, sugar, and flavorings such as cardamom, pistachio, and saffr...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5fc7907df5304aae9c0e0de046963353.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Mathura",
+    "ingredients": [
+      "Mawa",
+      "Ghee",
+      "Cardamom",
+      "Saffron",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shami_kebab",
+    "name": "Shami kebab",
+    "local_name": null,
+    "category": "GROUND MEAT DISH",
+    "rank": 5,
+    "short_description": "Shami kebab is a variety of kebab made by combining minced lamb, mutton, beef or chicken with split bengal grams, onions, chilis, ginger, garlic, and various herbs and spices such as cumin, red chili ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ea0e277841e14f01b852d23fc664d234.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Lucknow",
+    "ingredients": [
+      "Ground Lamb",
+      "Ground Mutton",
+      "Ground Beef",
+      "Ground Chicken",
+      "Bengal Gram",
+      "Onion"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "boti_kebab",
+    "name": "Boti kebab",
+    "local_name": null,
+    "category": "MEAT DISH",
+    "rank": 6,
+    "short_description": "Boti kebab is a variety of Indian kebab consisting of chunks of meat (lamb, mutton, chicken) that are soaked in a mixture of yogurt, ginger-garlic paste, chilis, papaya paste, and spices such as garam...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/3409b3561e6e4fb59458628d63c352b0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Lucknow",
+    "ingredients": [
+      "Lamb",
+      "Mutton",
+      "Chicken",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Raw papaya paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhara_kabab",
+    "name": "Bhara kabab",
+    "local_name": null,
+    "category": "APPETIZER",
+    "rank": 7,
+    "short_description": "Bhara or hara kabab is a traditional dish and a vegetarian version of meat kebabs. The dish is prepared with a combination of potatoes, peas, spinach, ginger, chili peppers, coriander, garam masala, r...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/642a3edb29094c5589221f90ec6fce2d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Lucknow",
+    "ingredients": [
+      "Spinach",
+      "Green Peas",
+      "Potatoes",
+      "Hot Peppers",
+      "Coriander",
+      "Ginger"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "muradabadi_biryani",
+    "name": "Muradabadi biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 8,
+    "short_description": "Muradabadi biryani is a traditional biryani variety named after the city of Moradabad in Uttar Pradesh. However, it is believed that the dish originated in Lucknow. It's usually prepared with a combin...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/cc3cca86c55443c7ab4e86797b08b846.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Lucknow",
+    "ingredients": [
+      "Basmati",
+      "Chicken",
+      "Dahi",
+      "Hot Peppers",
+      "Garam masala",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "murgh_musallam",
+    "name": "Murgh musallam",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 9,
+    "short_description": "Murgh musallam is a traditional chicken dish originating from the Mughal era. The dish is prepared with a whole chicken that's stuffed with eggs and slow-cooked in a rich gravy. The chicken is marinat...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/b8b433bb204c473a8e7b015243575e65.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Uttar Pradesh",
+    "ingredients": [
+      "Chicken",
+      "Tomato",
+      "Onion",
+      "Eggs",
+      "Ginger-garlic paste",
+      "Dahi"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nimish",
+    "name": "Nimish",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 10,
+    "short_description": "Nimish is a traditional dessert originating from Lucknow. This typical sweet dates back to the Nawabs era and it was developed under Middle Eastern influence, which can be seen in ingredients such as ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/664b73cb216148ec82d337ac2cf912dd.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Lucknow",
+    "ingredients": [
+      "Malai",
+      "Milk",
+      "Pistachios",
+      "Almonds",
+      "Cashews",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kakori_kebab",
+    "name": "Kakori kebab",
+    "local_name": null,
+    "category": "MUTTON DISH",
+    "rank": 11,
+    "short_description": "Kakori kebab is a traditional meat dish originating from the Indian town of Kakori in Uttar Pradesh. These kebabs are famous for their tender texture and fragrant aromas. They're prepared with a combi...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/49740136d71c46b38cd114671cb20650.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Kakori",
+    "ingredients": [
+      "Ground Mutton",
+      "Eggs",
+      "Gram Flour",
+      "Ghee",
+      "Onion",
+      "Raw papaya paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "subz_miloni",
+    "name": "Subz miloni",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 12,
+    "short_description": "Subz miloni is a traditional dish originating from Lucknow, and consists of seasonal vegetables in garlic and spinach sauce. Although there are many variations depending on which seasonal vegetables a...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/f3c4fbb2f47c41059076027eee1e485a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Lucknow",
+    "ingredients": [
+      "Spinach",
+      "Green Peas",
+      "Green Beans",
+      "Fenugreek",
+      "Carrot",
+      "Cauliflower"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thandai",
+    "name": "Thandai",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 1,
+    "short_description": "Thandai is a North Indian milk-based beverage that incorporates nuts, seeds, and various spices. The preparation starts with a thick paste that is usually made with a different combination of nuts and...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/58fe57034ec74b1aaf0a8db92848598d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Uttar Pradesh",
+    "ingredients": [
+      "Milk",
+      "Almonds",
+      "Cashews",
+      "Pistachios",
+      "Saffron",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhang_lassi",
+    "name": "Bhang lassi",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 2,
+    "short_description": "WARNING: It should be noted that bhang lassi is a potent beverage and that there are several claims that its consumption can lead to psychosis and hallucinations, or cause psychosis-like symptoms. It ...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/bddab1ca410944e29dc685b28efa0169.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Uttar Pradesh",
+    "ingredients": [
+      "Cannabis",
+      "Dahi",
+      "Cardamom",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  }
+]

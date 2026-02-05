@@ -1,0 +1,443 @@
+[
+  {
+    "id": "smørrebrød",
+    "name": "Smørrebrød",
+    "local_name": null,
+    "category": "SANDWICH TYPE",
+    "rank": 1,
+    "short_description": "Originating from Denmark, this vibrant open-faced sandwich features buttered rye bread crowned with an array of toppings, from pickled herring to fresh herbs. Each bite bursts with flavor and tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/38f732904c25404e969194da16fe3aed.jpg?mw=660",
+    "most_iconic_place": "Restaurant Schoennemann",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "danish_cookies_småkager",
+    "name": "Danish cookies (Småkager)",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 2,
+    "short_description": "Delight in Denmark's småkager, a cherished treat showcasing a spectrum of flavors and textures. From buttery, melt-in-your-mouth varieties to crisp, spiced delights, each bite offers a taste of Danish tradition. Ideal with coffee or as a sweet indulgence any time of day!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/2b562ba1927543b19db32ff52564db51.jpg?mw=660",
+    "most_iconic_place": "Conditori La Glace",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "danish_pastry_wienerbrød",
+    "name": "Danish pastry (Wienerbrød)",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 3,
+    "short_description": "Originating from Denmark, this flaky pastry delights with layers of buttery, laminated dough, often filled with sweet almond paste or fruit. Perfect for a cozy breakfast or indulgent afternoon treat.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/51a44b52b30c4d8eb0306fb944e261d1.jpg?mw=660",
+    "most_iconic_place": "Andersen Bakery",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "frikadeller",
+    "name": "Frikadeller",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 4,
+    "short_description": "Savory Danish frikadeller blend ground pork and veal with aromatic onion and garlic, creating tender meatballs that are pan-fried to golden perfection. A beloved comfort food, they showcase Denmark's rich culinary tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1221a2d90d004c21bc37d6c0573829cf.jpg?mw=660",
+    "most_iconic_place": "Restaurant Klubben",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Ground Pork",
+      "Ground Veal",
+      "Onion",
+      "Garlic",
+      "Eggs",
+      "Breadcrumbs"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "pølser",
+    "name": "Pølser",
+    "local_name": null,
+    "category": "HOT DOG",
+    "rank": 5,
+    "short_description": "Rød pølser, a quintessential Danish fast food, features a juicy red sausage nestled in a soft bun, topped with crunchy onions, tangy pickled cucumbers, and a drizzle of ketchup. A must-try for any foodie!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/f3d6a801f5274d489c7712ef78bf2743.jpg?mw=660",
+    "most_iconic_place": "John's Hotdog Deli",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Red sausage",
+      "Hot Dog Bun",
+      "Onion",
+      "Pickled Cucumbers",
+      "Ketchup",
+      "Mustard"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "crispy_pork_with_parsley_sauce_stegt_flæsk",
+    "name": "Crispy pork with parsley sauce (Stegt flæsk)",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 6,
+    "short_description": "Thick, crispy slices of pork belly delight the senses in this Danish classic, served with buttery boiled potatoes and a rich parsley cream sauce. A true taste of Denmark's culinary heritage!",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/23be659637384b36a383bcb72d1370fe.jpg?mw=660",
+    "most_iconic_place": "Restaurant Klubben",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Pork Belly",
+      "Potatoes",
+      "Butter",
+      "Parsley",
+      "Cream",
+      "Wheat Flour"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "gravlaks",
+    "name": "Gravlaks",
+    "local_name": null,
+    "category": "SALMON DISH",
+    "rank": 7,
+    "short_description": "Salt-cured salmon, delicately seasoned with dill and a touch of sugar, showcases Denmark's culinary heritage. Enjoy its silky texture and vibrant flavors, a true taste of Scandinavian tradition.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/18000a17cd68426d87d93eed4f290501.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Salmon",
+      "Salt",
+      "Dill",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kringle",
+    "name": "Kringle",
+    "local_name": null,
+    "category": "SWEET PASTRY",
+    "rank": 8,
+    "short_description": "Originating from Roman-Catholic monks, flaky kringle delights with its pretzel shape and rich fillings, often featuring almond paste or fruit. A beloved Danish pastry, it’s a sweet treat that captures tradition in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4826475677a44a9bb991e4a8d89596ab.jpg?mw=660",
+    "most_iconic_place": "Lagkagehuset",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "æbleskiver",
+    "name": "Æbleskiver",
+    "local_name": null,
+    "category": "PANCAKE",
+    "rank": 9,
+    "short_description": "Light and fluffy, these Danish pancakes cook in special pans, creating a delightful, round shape. Traditionally enjoyed with powdered sugar and jam, they offer a sweet taste of Danish culture.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/981bd4e0ce474faea94acb697366b6c7.jpg?mw=660",
+    "most_iconic_place": "Vaffelbageriet",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Baking Powder",
+      "Baking Soda",
+      "Butter",
+      "Vegetable Oil"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_rye_bread_rugbrød",
+    "name": "Danish rye bread (Rugbrød)",
+    "local_name": null,
+    "category": "RYE BREAD",
+    "rank": 10,
+    "short_description": "A staple of Danish cuisine, this hearty brown rye bread features nutty flavors from rye and flax seeds. Sliced thin and buttered, it serves as the perfect base for vibrant open sandwiches topped with smoked fish or shrimp.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/00cb2aa07c87445a94e0beb25b82f1c0.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "rye flour",
+      "Wheat Flour",
+      "Rye",
+      "Yeast",
+      "Flax Seeds",
+      "Sunflower Seeds"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_layer_cake_lagkage",
+    "name": "Danish layer cake (Lagkage)",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 11,
+    "short_description": "A beloved Danish tradition, this layered cake features soft sponge layers filled with rich pastry cream and vibrant blackberries and raspberries. Perfect for celebrations, it’s a delightful balance of sweetness and fruitiness.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/cd276b9fad0541c4bf1cd11c30fd5044.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Corn Starch",
+      "Potato Flour",
+      "Blackberries",
+      "Raspberries",
+      "Strawberries"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_rice_pudding_risengrød",
+    "name": "Danish rice pudding (Risengrød)",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 12,
+    "short_description": "Luscious and creamy, this traditional Danish rice pudding, Risengrød, features short-grained rice simmered in milk, enriched with butter, sugar, and a sprinkle of cinnamon. A festive seasonal delight, it’s often enjoyed during Christmas, evoking warmth and nostalgia.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/21f31723b1fe492191f9baf75df278c7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Butter",
+      "Cinnamon",
+      "Sugar",
+      "Milk",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_pork_roast_flæskesteg",
+    "name": "Danish pork roast (Flæskesteg)",
+    "local_name": null,
+    "category": "PORK DISH",
+    "rank": 13,
+    "short_description": "Crispy-skinned and savory, this traditional Danish roast features perfectly seasoned pork infused with bay leaves and black pepper. Served alongside sweet braised red cabbage and buttery potatoes, it’s a comforting celebration of Danish culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/db2890c6d5a5422d9c832e8e0b0e68e5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Pork",
+      "Bay Leaves",
+      "Black Pepper",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "buttermilk_soup_koldskål",
+    "name": "Buttermilk soup (Koldskål)",
+    "local_name": null,
+    "category": "SWEET SOUP",
+    "rank": 14,
+    "short_description": "A beloved Danish classic, Koldskål combines tangy buttermilk and creamy yogurt with zesty lemon and sweet vanilla. Often enjoyed chilled, it’s perfect as a refreshing dessert or drink on warm days.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/56c0134b33ce475fb5410149e7d23a6a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Eggs",
+      "Buttermilk",
+      "Lemon Juice",
+      "Yogurt",
+      "Vanilla",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "vaniljekranse",
+    "name": "Vaniljekranse",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 15,
+    "short_description": "Delight in Denmark's Vaniljekranse, iconic buttery cookies made from a blend of wheat and almond flour. Extruded into delicate rings, they offer a rich, nutty flavor with a melt-in-your-mouth texture.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5ee184527a7244ffbd36d41179f4ac36.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Almond Flour",
+      "Eggs",
+      "Butter",
+      "Almonds",
+      "Vanilla"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sweet_and_sour_red_cabbage_rødkål",
+    "name": "Sweet and sour red cabbage (Rødkål)",
+    "local_name": null,
+    "category": "SIDE DISH",
+    "rank": 16,
+    "short_description": "Shredded red cabbage simmers in a vibrant blend of redcurrant and elderberry juices, with warming spices like cloves and star anise. A staple in Danish cuisine, it's the perfect sweet and tangy complement to any meal.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8c21030151e74962815aa344ee7d1d00.jpg?mw=660",
+    "most_iconic_place": "Det Lille Apotek",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "red cabbage",
+      "Redcurrant Juice",
+      "Elderberry Juice",
+      "Cloves",
+      "Star Anise",
+      "Apple Cider Vinegar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "stjerneskud",
+    "name": "Stjerneskud",
+    "local_name": null,
+    "category": "SANDWICH",
+    "rank": 17,
+    "short_description": "A quintessential Danish smørrebrød, this open-faced sandwich features buttered rye bread topped with tender plaice, succulent shrimp, rich caviar, and smoked salmon, delivering a delightful medley of flavors.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8578738bee3e4da1abcf8fa6d2ad996d.jpg?mw=660",
+    "most_iconic_place": "Frk. Barners Kælder",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Danish rye bread",
+      "Plaice",
+      "Shrimps",
+      "Caviar",
+      "Salmon",
+      "Asparagus"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tarteletter",
+    "name": "Tarteletter",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 18,
+    "short_description": "Crispy puff pastry shells cradle savory fillings like creamy chicken or rich mushrooms in these classic Danish snacks. Originating in the 19th century, they blend elegance with comfort in every bite.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7def78aec0114e5f86c218eda7e6127b.jpg?mw=660",
+    "most_iconic_place": "Restaurant Schoennemann",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "danish_apple_cake_æblekage",
+    "name": "Danish apple cake (Æblekage)",
+    "local_name": null,
+    "category": "DESSERT",
+    "rank": 19,
+    "short_description": "Originating from Denmark, æblekage layers tender apples with buttery breadcrumbs and a hint of vanilla, creating a delightful combination of creamy and spiced flavors that evoke cozy traditions.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4fcccddf77a048769522181d8dabd306.jpg?mw=660",
+    "most_iconic_place": "Fru Petersens Café",
+    "most_iconic_location": "Østermarie",
+    "ingredients": [
+      "Apples",
+      "Breadcrumbs",
+      "Butter",
+      "Vanilla",
+      "Sugar",
+      "Lemon Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_fish_cakes_fiskefrikadeller",
+    "name": "Danish fish cakes (Fiskefrikadeller)",
+    "local_name": null,
+    "category": "SALTWATER FISH DISH",
+    "rank": 20,
+    "short_description": "Traditional Danish fish cakes delight with their crispy exterior and tender, flavorful center, blending ground white fish, onions, and herbs. Pan-fried to perfection, they embody Denmark's coastal culinary heritage.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/76f480de716b474c9cf3664ae8a0f68e.jpg?mw=660",
+    "most_iconic_place": "Restaurant Schoennemann",
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "White Fish",
+      "Eggs",
+      "Onion",
+      "Breadcrumbs",
+      "Butter",
+      "Heavy Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "danish_liver_pâté_leverpostej",
+    "name": "Danish liver pâté (Leverpostej)",
+    "local_name": null,
+    "category": "PÂTÉ",
+    "rank": 21,
+    "short_description": "Rich and creamy, this beloved Danish spread blends pork and beef liver with onions and eggs, creating a savory delight. Enjoy it on crisp rye bread for a taste of authentic Nordic culture.",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/7110e2cda30141cc832ee1cd5bc12592.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Copenhagen",
+    "ingredients": [
+      "Pork Liver",
+      "Beef Liver",
+      "Onion",
+      "Eggs",
+      "Lard",
+      "Allspice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dream_cake_drømmekage",
+    "name": "Dream cake (Drømmekage)",
+    "local_name": null,
+    "category": "CAKE",
+    "rank": 22,
+    "short_description": "Originating from Hjallerup, Drømmekage delights with its moist vanilla sponge topped with a luscious coconut caramel layer. Each bite offers a sweet, buttery richness that captures Danish tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2160b343c05f43c4969beb30139a9a08.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Hjallerup",
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Coconut Flakes",
+      "Vanilla",
+      "Baking Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kammerjunker",
+    "name": "Kammerjunker",
+    "local_name": null,
+    "category": "COOKIE",
+    "rank": 23,
+    "short_description": "Delight in Denmark's beloved Kammerjunker, crispy double-baked cookies infused with zesty lemon. Perfect for pairing with coffee or enjoying as a sweet snack, they embody Danish baking tradition.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e82477a399b64f4da3e99a41fa6b0b63.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Eggs",
+      "Butter",
+      "Baking Powder",
+      "Lemon Zest",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "meatballs_in_curry_sauce_boller_i_karry",
+    "name": "Meatballs in curry sauce (Boller i karry)",
+    "local_name": null,
+    "category": "MEATBALLS",
+    "rank": 24,
+    "short_description": "Ground pork meatballs simmer in a rich, creamy curry sauce, blending Danish tradition with exotic spices. A comforting dish that showcases Denmark's love for flavor since the 1840s.",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/70c173587d4646ca9dc517f0669ec694.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Ground Pork",
+      "Curry Powder",
+      "Eggs",
+      "Onion",
+      "Butter",
+      "Cumin"
+    ],
+    "is_active": true
+  }
+]

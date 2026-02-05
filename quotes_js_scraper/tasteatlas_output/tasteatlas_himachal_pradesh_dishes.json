@@ -1,0 +1,761 @@
+[
+  {
+    "id": "mutton_rara",
+    "name": "Mutton rara",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 1,
+    "short_description": "Mutton rara is a traditional Himachali stew originating from the northern parts of India, where it’s prepared during special occasions. The dish is made with a combination of marinated mutton chunks, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/29948294ec944c8a934cb7914f71f55b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Mutton",
+      "Ground Mutton",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kangra_tea_kangra_chai",
+    "name": "Kangra tea (Kangra chai)",
+    "local_name": null,
+    "category": "TEA",
+    "rank": 2,
+    "short_description": "Cultivated and grown at the foot of the Himalayas for hundreds of years, in small family-owned tea gardens at the border between India, Kashmir and China where it seems time has stopped, the famous Ka...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/9f01057b81934b6ab5ec7d7a36433758.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Kangra District",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "guava_chutney_amrood_ki_chutney",
+    "name": "Guava chutney (Amrood ki chutney)",
+    "local_name": null,
+    "category": "DIP",
+    "rank": 3,
+    "short_description": "Amrood ki chutney is a traditional guava chutney originating from Himachal Pradesh. The chutney is usually made with a combination of guava, hot peppers, cumin, lime juice, ginger, salt, and coriander...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/e485fdbf3b934bf7b6865be974188953.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Guava",
+      "Hot Peppers",
+      "Ginger",
+      "Cumin",
+      "Coriander",
+      "Lime Juice"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "biryani",
+    "name": "Biryani",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Biryani is a group of classic rice dishes dating back to the Mughal Empire. It combines long-grain rice, usually basmati, with marinated meat, seafood, or vegetables, all cooked together with spices s...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/8fd2297171484b88be3e3e6815979690.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "butter_chicken_murgh_makhani",
+    "name": "Butter chicken (Murgh makhani)",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 2,
+    "short_description": "Probably the best known of all Indian dishes, murgh makhani, internationally referred to as butter chicken, is a staple dish at most Indian restaurants. The dish originated in Delhi during the 1950s, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/713e5f01cbb2463386be9bc57c037639.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Delhi",
+    "ingredients": [
+      "Chicken",
+      "Tomato",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Safed makhan",
+      "Red Chilli Powder"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "tandoori_chicken_tandoori_murgh",
+    "name": "Tandoori chicken (Tandoori murgh)",
+    "local_name": null,
+    "category": "CHICKEN DISH",
+    "rank": 3,
+    "short_description": "Tandoori chicken or tandoori murgh is one of the most popular dishes in Indian cuisine, its name derived from the Persian word tannur, meaning fire. The dish consists of chicken meat that is marinated...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/bdab2e7920f0409188d0b3646826893a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Chicken",
+      "Dahi",
+      "Ginger-garlic paste",
+      "Garam masala",
+      "Cumin",
+      "Turmeric"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chana_masala",
+    "name": "Chana masala",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 4,
+    "short_description": "A specialty of North India, chana masala is a tangy chickpea curry that is commonly consumed as a snack, main meal, or breakfast. Arguably, it is the most popular vegetarian dish in India, commonly fo...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/393074c0c9854ccdbb78da71a8686b86.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Chickpeas",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Garam masala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "palak_paneer",
+    "name": "Palak paneer",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 5,
+    "short_description": "Palak paneer is a popular Indian vegetarian dish made with paneer cheese in a rich, thick sauce consisting of puréed spinach mixed with tomatoes, garam masala, garlic, and numerous spices. The key ing...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/4ecba690cc0b47809d43d70c7a6b3a39.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Paneer",
+      "Spinach",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Garam masala"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "saag_paneer",
+    "name": "Saag paneer",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 6,
+    "short_description": "Indian saag paneer is a famous vegetable curry which incorporates diced paneer cheese doused in a creamy mixture of fresh leafy greens, also known under the name saag. It is typically made with mustar...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/9662d774c41a476bb4ff9379f919c3e7.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Paneer",
+      "Spinach",
+      "Mustard Greens",
+      "Fenugreek",
+      "Tomato",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dal_tadka",
+    "name": "Dal tadka",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 7,
+    "short_description": "Dal tadka or tadkewali dal is a traditional legume-based dish originating from the northern parts of India. Although there are variations, the dish is usually prepared with toor dal (split yellow pige...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/617f5d93003c43a992244eff2dd52b6d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Pigeon Peas",
+      "Tomato",
+      "Onion",
+      "Ginger",
+      "Garlic",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kulfi",
+    "name": "Kulfi",
+    "local_name": null,
+    "category": "ICE CREAM",
+    "rank": 8,
+    "short_description": "Kulfi is a traditional ice cream made with slowly simmered whole milk. Although the long-simmering process results in a loss of volume, it makes up for it with a delicious, nutty, caramelized flavor. ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4f3d4d079fce4c2ebda620d8717ae358.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Delhi",
+    "ingredients": [
+      "Milk",
+      "Mango",
+      "Pistachios",
+      "Rose Water",
+      "Saffron",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "shahi_paneer",
+    "name": "Shahi paneer",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 9,
+    "short_description": "Originating from India's Moghul cuisine, shahi paneer is a cheese curry that is prepared with paneer cheese, onions, cashews, and a rich, spicy tomato-cream sauce. The dish is typically accompanied by...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/ceff65c140064d6285fc3814534a349b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Cashews",
+      "Ginger-garlic paste",
+      "Heavy Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "dal_makhani",
+    "name": "Dal makhani",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 10,
+    "short_description": "Although it originated in Punjab, dal makhani has become one of the most popular Indian lentil dishes, both in the country and outside of its borders. It consists of red kidney beans and whole black l...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2cbbb8c2a74541c0b03aeaaad7498ca3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Black Grams",
+      "Kidney Beans",
+      "Tomato",
+      "Onion",
+      "Ginger-garlic paste",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "rajma",
+    "name": "Rajma",
+    "local_name": null,
+    "category": "BEAN DISH",
+    "rank": 11,
+    "short_description": "Rajma is one of the most popular vegetarian dishes of North India. It consists of red kidney beans which are stewed in a rich gravy combined with numerous spices. The dish is usually prepared for fest...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/25ab742da91d49b18b1a7f8a9a3f1b18.jpg?mw=660",
+    "most_iconic_place": "Modern Dhaba",
+    "most_iconic_location": "Dharampur",
+    "ingredients": [
+      "Kidney Beans",
+      "Tomato",
+      "Onion",
+      "Ghee",
+      "Hot Peppers",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kadhi",
+    "name": "Kadhi",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 12,
+    "short_description": "The term kadhi encompasses a broad group of Indian dishes that use yogurt or buttermilk as a base and are typically thickened with gram flour (besan). Though kadhi is popular throughout India, most re...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ed4b71cd5e8c4ba091ac261fa6537cac.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "rogan_josh",
+    "name": "Rogan josh",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 13,
+    "short_description": "Rogan josh is an aromatic lamb curry that is believed to be of Persian origin, although today it is more closely associated with the Kashmir region of India. The stew is characterized by tender meat a...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/99d92862af9a42a2973a8213144f39ca.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Jammu and Kashmir",
+    "ingredients": [
+      "Lamb",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Dahi",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "aloo_gobi",
+    "name": "Aloo gobi",
+    "local_name": null,
+    "category": "POTATO DISH",
+    "rank": 14,
+    "short_description": "Aloo gobi is a traditional dish with origins in Northern India, although it is popular throughout the country, but also in Nepal and Pakistan. Its key ingredients are potatoes, cauliflower, onions, an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/d5e9d11a668640eb9cfd790b4c21436a.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Potatoes",
+      "Cauliflower",
+      "Tomato",
+      "Onion",
+      "Ghee",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "nihari",
+    "name": "Nihari",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 15,
+    "short_description": "Nihari is a popular meat-based dish originating from Old Delhi. When Pakistan gained independence in 1947, numerous immigrants from Delhi settled in Karachi, where they established their own restauran...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a5973d1624d642ceb63539fb0d501a5c.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Delhi",
+    "ingredients": [
+      "Beef shank",
+      "Chicken",
+      "Mutton",
+      "Onion",
+      "Ghee",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "malai_kofta",
+    "name": "Malai kofta",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 16,
+    "short_description": "Malai kofta is a traditional North Indian dish consisting of fried potato and paneer balls in a creamy sauce. The dish is commonly served at festivals, celebrations, and weddings due to its rich textu...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7cd03979f70949c08f779a686919d7e3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Potatoes",
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Corn Flour",
+      "Ghee"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "chole_bhature",
+    "name": "Chole bhature",
+    "local_name": null,
+    "category": "STREET FOOD",
+    "rank": 17,
+    "short_description": "At its core, chole bhature is a combination of two dishes: chole - a spicy chickpea curry, and bhature - a type of fried bread made with maida flour. Popular throughout North India, the dish was inven...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/a111291d959e40789af1280bba00f5c8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Delhi",
+    "ingredients": [
+      "Bhatura",
+      "Chickpeas",
+      "Onion",
+      "Tomato",
+      "Ginger-garlic paste",
+      "Hot Peppers"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kulcha",
+    "name": "Kulcha",
+    "local_name": null,
+    "category": "FLATBREAD",
+    "rank": 18,
+    "short_description": "Kulcha is an Indian flatbread made with wheat flour, and it is commonly served as an accompaniment to chickpea curry. The bread is cooked in a tandoor or on a griddle, and it is usually brushed with g...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/1bac151589d64b298ae673624e080866.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Maida Flour",
+      "Dahi",
+      "Baking Powder",
+      "Baking Soda",
+      "Ghee",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "paneer_tikka",
+    "name": "Paneer tikka",
+    "local_name": null,
+    "category": "CHEESE DISH",
+    "rank": 19,
+    "short_description": "This North Indian tikka variety consists of a combination of marinated paneer cheese and vegetables that are cooked in a tandoor - a traditional Indian oven. This vegetarian version of tikka is based ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/16dbebbff2e04e0d984f4ed83be93b97.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Paneer",
+      "Bell Pepper",
+      "Tomato",
+      "Onion",
+      "Dahi",
+      "Ginger-garlic paste"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "aloo_paratha",
+    "name": "Aloo paratha",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 20,
+    "short_description": "Aloo paratha is one of the most popular breakfast foods in northern India, a flatbread stuffed with a spicy potato mixture. Its name is derived from aloo, denoting a potato, parat, denoting layers, an...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/68a0b958e4ec47d7bfc0f5554b5bb746.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Whole-wheat Flour",
+      "Potatoes",
+      "Ghee",
+      "Ginger",
+      "Hot Peppers",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "phirni",
+    "name": "Phirni",
+    "local_name": null,
+    "category": "RICE PUDDING",
+    "rank": 21,
+    "short_description": "Phirni is a dessert made with ground rice that's cooked in milk and flavored with almonds, saffron, and cardamom. A favorite in North India, it is most often prepared for special occasions or festival...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/acd78bd43653438ebb11cef93894fc4e.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Rice",
+      "Milk",
+      "Almonds",
+      "Saffron",
+      "Cardamom",
+      "Nuts"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mattar_paneer",
+    "name": "Mattar paneer",
+    "local_name": null,
+    "category": "VEGETABLE DISH",
+    "rank": 22,
+    "short_description": "Mattar paneer is a popular vegetarian dish of North Indian origin, made with peas and paneer cheese in a garam masala-spiced tomato sauce. The rich, thick curry is a specialty of Punjab, but it is wid...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/ef2e189156f642d989e433c2af47a584.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Green Peas",
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Garam masala",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "laal_maas",
+    "name": "Laal maas",
+    "local_name": null,
+    "category": "STEW",
+    "rank": 23,
+    "short_description": "Laal maas is a traditional curry variety originating from Rajasthan. This curry is prepared with mutton (often marinated in kachari cucumbers), yogurt, and Mathania red chili peppers. Other common ing...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/4b653d04e3a4440eb822e424cbcf4424.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Mutton",
+      "Dahi",
+      "Ghee",
+      "Hot Peppers",
+      "Onion",
+      "Garlic"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "aloo_tikki",
+    "name": "Aloo tikki",
+    "local_name": null,
+    "category": "SNACK",
+    "rank": 24,
+    "short_description": "Aloo tikki is a flavorful snack that is popular in North India and Pakistan. It consists of potatoes (aloo) and onions made into croquettes (tikki), which are then flavored with various spices and dee...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/2f620936a17d4bacb59f75bdf922c574.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Potatoes",
+      "Onion",
+      "Breadcrumbs",
+      "Hot Peppers",
+      "Ginger",
+      "Coriander"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "himalayan_black_salt_kala_namak",
+    "name": "Himalayan black salt (Kala namak)",
+    "local_name": null,
+    "category": "ROCK SALT",
+    "rank": 1,
+    "short_description": "Kala namak is volcanic rock salt originating from the Himalayan region, mostly from the mines in Northern India and Pakistan. It starts as Himalayan pink salt, and it's then heated to very high temper...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/4203dfd7a6424a989b04fcaff0aac1c5.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kashmiri_chili_kashmiri_mirch",
+    "name": "Kashmiri chili (Kashmiri mirch)",
+    "local_name": null,
+    "category": "HOT PEPPER",
+    "rank": 2,
+    "short_description": "Kashmiri chili is an Indian hot pepper originating from Kashmir. The chili has a vibrant red color and mild levels of heat, with Scoville heat units (SHU) ranging from 1,000 to 2,000. This staple of I...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/820d143637b749eab72a5712c5f04b73.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Jammu and Kashmir",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "nimbu_pani",
+    "name": "Nimbu pani",
+    "local_name": null,
+    "category": "LEMONADE",
+    "rank": 3,
+    "short_description": "Nimbu pani or shikanjvi is a type of spiced lemonade that hails from North India. It is usually prepared with freshly-squeezed lemon or lime juice, kala namak (black salt), still or soda water, and cu...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/bb6cfc8fa6b64ee7a96e38f95c95f6a6.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Lime Juice",
+      "Lemon Juice",
+      "Cumin",
+      "Himalayan black salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "catla",
+    "name": "Catla",
+    "local_name": null,
+    "category": "CARP",
+    "rank": 4,
+    "short_description": "Catla (lat. Labeo catla) is a freshwater fish species of the carp family, found in the rivers and lakes of South East Asia, most commonly in India, Bangladesh, Nepal (where it's called bhakura), and P...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/32469a13be8d49efb0f26820e7225ca3.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "kalari",
+    "name": "Kalari",
+    "local_name": null,
+    "category": "CHEESE",
+    "rank": 5,
+    "short_description": "Often described as the mozzarella of Kashmir, kalari is a traditionally ripened cheese made from cow’s or goat’s milk. It has a mild flavor and a dense, stretchy texture. In Jammu and Kashmir, kalari ...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/2d4975c599b2486792affdf20bf4a57b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Jammu and Kashmir",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "fried_onion_paste_tale_hue_pyaz_ka_paste",
+    "name": "Fried onion paste (Tale hue pyaz ka paste)",
+    "local_name": null,
+    "category": "PASTE",
+    "rank": 6,
+    "short_description": "Tale hue pyaz ka paste is a rich and flavorful paste made by frying onions until golden brown and blending them into a smooth consistency. It is commonly used in Indian cuisine, particularly in Mughla...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [
+      "Onion",
+      "Ghee",
+      "Vegetable Oil",
+      "Milk",
+      "Heavy Cream"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "elephant_ear_fig_anjali",
+    "name": "Elephant ear fig (Anjali)",
+    "local_name": null,
+    "category": "TROPICAL FRUIT",
+    "rank": 7,
+    "short_description": "Elephant ear fig is the fruit of an evergreen tree with large leaves that’s native to northern India and cultivated in tropical regions of south Asia and Southeast Asia. When ripe, the fruits are roun...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/8fae62509de44a58afb845df5d92462f.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Northern India",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "lassi",
+    "name": "Lassi",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 1,
+    "short_description": "This traditional Indian yogurt-based drink hails from the pre-refrigeration era when Punjabi farmers mixed their milk with sugar and curd, and kept the concoction in clay pots. Lassi is often flavored...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/0b3d9b954a6d4da1aa4dd7588d3f0070.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mango_lassi",
+    "name": "Mango lassi",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 2,
+    "short_description": "Mango lassi is one of the most popular lassi varieties, consisting of yogurt (dahi) and fresh mango. It commonly includes cardamom, water, and sugar. The ingredients are combined until the drink is cr...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/a52f4c51fb964cb29094d1d026db63e8.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Dahi",
+      "Mango",
+      "Cardamom",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "sweet_lassi_meethi_lassi",
+    "name": "Sweet lassi (Meethi lassi)",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 3,
+    "short_description": "As the name suggests, this lassi variety is sweetened. Along with sugar, it incorporates yogurt (curd) and usually some fruit or flavorings such as saffron or cardamom. Sweet lassi is often enjoyed af...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/917cd26f4db3437da3a6acbb1c9f48d9.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Dahi",
+      "Milk",
+      "Sugar",
+      "Cardamom",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "thandai",
+    "name": "Thandai",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 4,
+    "short_description": "Thandai is a North Indian milk-based beverage that incorporates nuts, seeds, and various spices. The preparation starts with a thick paste that is usually made with a different combination of nuts and...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/58fe57034ec74b1aaf0a8db92848598d.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Milk",
+      "Almonds",
+      "Cashews",
+      "Pistachios",
+      "Saffron",
+      "Cardamom"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "noon_chai",
+    "name": "Noon chai",
+    "local_name": null,
+    "category": "TEA",
+    "rank": 5,
+    "short_description": "Noon chai is a tea-based beverage that has its origins in Kashmir. It is made with green tea that is brewed and then mixed with a pinch of salt, baking soda, and optionally milk. Although it is not tr...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/fe36b6dfb7644258bed2db50e30ff279.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Jammu and Kashmir",
+    "ingredients": [
+      "Green tea",
+      "Baking Soda",
+      "Milk",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "kahwah",
+    "name": "Kahwah",
+    "local_name": null,
+    "category": "TEA",
+    "rank": 6,
+    "short_description": "Kahwah tea is a spiced green tea from Kashmir, prepared with green tea leaves, saffron, cardamom, and often almonds, known for its clear infusion and aromatic profile shaped by the region’s long-stand...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": "Jammu and Kashmir",
+    "ingredients": [],
+    "is_active": true
+  },
+  {
+    "id": "mint_lassi_pudina_lassi",
+    "name": "Mint lassi (Pudina lassi)",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 7,
+    "short_description": "Mint lassi is a refreshing lassi variety flavored with fresh mint. It is usually prepared as a savory (salted) lassi, and in its basic form, it combines yogurt, salt, and a handful of fresh mint leave...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/67d0365acaf14183b0f7b8f8b185417b.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Punjab",
+    "ingredients": [
+      "Dahi",
+      "Mint",
+      "Himalayan black salt",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "bhang_lassi",
+    "name": "Bhang Lassi",
+    "local_name": null,
+    "category": "DAIRY BEVERAGE",
+    "rank": 8,
+    "short_description": "WARNING: It should be noted that bhang lassi is a potent beverage and that there are several claims that its consumption can lead to psychosis and hallucinations, or cause psychosis-like symptoms. It ...",
+    "image_url": "https://cdn.tasteatlas.com//images/ingredients/bddab1ca410944e29dc685b28efa0169.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": "Rajasthan",
+    "ingredients": [
+      "Cannabis",
+      "Dahi",
+      "Cardamom",
+      "Sugar",
+      "Milk"
+    ],
+    "is_active": true
+  }
+]

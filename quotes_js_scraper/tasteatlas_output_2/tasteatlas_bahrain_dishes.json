@@ -1,0 +1,101 @@
+[
+  {
+    "id": "kabsa",
+    "name": "Kabsa",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 1,
+    "short_description": "Kabsa is a rice dish that is enjoyed throughout the Gulf States of the Arabian Peninsula. Heavily influenced by Persian and Indian biryanis, kabsa makes use of the water that was used for cooking fish...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/dbe3f5865d9849cd8c7bff0b881bfb89.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Chicken",
+      "Lamb",
+      "Basmati",
+      "Red Onion",
+      "Tomato",
+      "Carrot"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "muhammar",
+    "name": "Muhammar",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 2,
+    "short_description": "One of the most famous dishes from Bahrain, muhammar is a traditionally prepared sweet rice dish, usually accompanying grilled and fried fish or a roast leg of lamb on festive occasions. Just be caref...",
+    "image_url": "https://cdn.tasteatlas.com//Images/Dishes/5111cadc678541a6ac3fc8947f9333e1.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Basmati",
+      "Honey",
+      "Brown Sugar",
+      "Ghee",
+      "Butter",
+      "Saffron"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "balaleet",
+    "name": "Balaleet",
+    "local_name": null,
+    "category": "BREAKFAST",
+    "rank": 3,
+    "short_description": "The sweet and savory balaleet is a breakfast dish that can be found in the Arab states of the Persian Gulf. It is typically made with vermicelli, eggs, cardamom, saffron, butter, and water, but it can...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/939a416a53a5484fa45904f166cf8776.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Vermicelli",
+      "Eggs",
+      "Butter",
+      "Cardamom",
+      "Saffron",
+      "Sugar"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "mahmous",
+    "name": "Mahmous",
+    "local_name": null,
+    "category": "RICE DISH",
+    "rank": 4,
+    "short_description": "Mahmous is a traditional Arabic rice dish popular in the Qatif and al-Hasa regions of Saudi Arabia, as well as Bahrain. It primarily consists of rice and caramelized onions, which are sautéed to a cri...",
+    "image_url": "https://cdn.tasteatlas.comrandom",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Rice",
+      "Onion",
+      "Black lemon",
+      "Vegetable Oil",
+      "Salt"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "khanfaroosh",
+    "name": "Khanfaroosh",
+    "local_name": null,
+    "category": "DEEP-FRIED DESSERT",
+    "rank": 5,
+    "short_description": "Khanfaroosh is a deep-fried dessert similar to doughnuts popular in Gulf countries, namely Qatar, Bahrain, Kuwait, and the Emirates. It’s made with wheat flour, rice flour, eggs, sugar baking powder, ...",
+    "image_url": "https://cdn.tasteatlas.com//images/dishes/7a072070103a42babeac630b60adb258.jpg?mw=660",
+    "most_iconic_place": null,
+    "most_iconic_location": null,
+    "ingredients": [
+      "Wheat Flour",
+      "Rice Flour",
+      "Eggs",
+      "Sugar",
+      "Baking Powder",
+      "Cardamom"
+    ],
+    "is_active": true
+  }
+]
